@@ -1,0 +1,47 @@
+"Chat"
+{
+	">>>*25 seconds to opening the door*<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>*25 seconds to opening the door*<<<"
+	}
+	">>>*45 seconds to opening the door*<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>*45 seconds to opening the door*<<<"
+	}
+	">>>*3 seconds to closing the door*<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>*3 seconds to closing the door*<<<"
+	}
+	">>>*Elevator going up through 3 seconds*<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>*Elevator going up through 3 seconds*<<<"
+	}
+	">>>*60 seconds to opening the door*<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>*60 seconds to opening the door*<<<"
+	}
+	">>>*Hold 30 seconds!*<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>*Hold 30 seconds!*<<<"
+	}
+	">>>*30 seconds to opening the door*<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>*30 seconds to opening the door*<<<"
+	}
+	">>>*Hold 10 seconds!*<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>*Hold 10 seconds!*<<<"
+	}
+	">>>*120 seconds to opening the door*<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>*120 seconds to opening the door*<<<"
+	}
+	"<<< NUKE explode through 5 seconds>>>"
+	{
+		"trans"		"[{darkred}Map{default}] <<< NUKE explode through 5 seconds>>>"
+	}
+	">>>*2 seconds to closing the door*<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>*2 seconds to closing the door*<<<"
+	}
+}

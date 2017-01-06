@@ -1,0 +1,83 @@
+"Chat"
+{
+	"***Катер #2 отбудет через 10сек.(Boat 2 leaving in 10secs.)***"
+	{
+		"trans"		"[{darkred}Map{default}]  2号船离开于10秒后"
+	}
+	"***Катер #1 отбудет через 5сек.(Boat 1 leaving in 5secs.)***"
+	{
+		"trans"		"[{darkred}Map{default}]  1号船离开于5秒后"
+	}
+	"***Катер #4 отбудет через 8сек.(Boat 4 leaving in 8secs.)***"
+	{
+		"trans"		"[{darkred}Map{default}]  4号船离开于8秒后"
+	}
+	"***Катер #3 отбудет через 8сек.(Boat 3 leaving in 8secs.)***"
+	{
+		"trans"		"[{darkred}Map{default}]  3号船离开于8秒后"
+	}
+	"***Трамвай отбудет через 10сек.(Tram leaving in 10secs.)***"
+	{
+		"trans"		"[{darkred}Map{default}]  索道离开于10秒后"
+	}
+	"***Подрыв моста через 5 сек! (Bridge detonation in 5secs!)***"
+	{
+		"trans"		"[{darkred}Map{default}]  桥爆破于5秒后"
+	}
+	"***Верталет отбудет через 60сек.(Helicopter leaving in 60secs.)***"
+	{
+		"trans"		"[{darkred}Map{default}]  直升机60秒后起飞"
+	}
+	"***Верталет отбудет через 30сек.(Helicopter leaving in 30secs.)***"
+	{
+		"trans"		"[{darkred}Map{default}]  直升机30秒后起飞"
+	}
+	"***Верталет отбудет через 10сек.(Helicopter leaving in 10secs.)***"
+	{
+		"trans"		"[{darkred}Map{default}]  直升机10秒后起飞"
+	}
+	"***Катер #5 отбудет через 60сек.(Boat 5 leaving in 60secs.)***"
+	{
+		"trans"		"[{darkred}Map{default}]  5号船离开于60秒后"
+	}
+	"***Катер #5 отбудет через 30сек.(Boat 5 leaving in 30secs.)***"
+	{
+		"trans"		"[{darkred}Map{default}]  5号船离开于30秒后"
+	}
+	"***Катер #5 отбудет через 10сек.(Boat 5 leaving in 10secs.)***"
+	{
+		"trans"		"[{darkred}Map{default}]  5号船离开于10秒后"
+	}
+	"***Взрыв произойдет через 10сек.(Nuke in 10secs.)***"
+	{
+		"trans"		"[{darkred}Map{default}]  核爆于10秒后"
+	}
+	"***5***"
+	{
+		"trans"		"[{darkred}Map{default}]  5"
+	}
+	"***4***"
+	{
+		"trans"		"[{darkred}Map{default}]  4"
+	}
+	"***3***"
+	{
+		"trans"		"[{darkred}Map{default}]  3"
+	}
+	"***2***"
+	{
+		"trans"		"[{darkred}Map{default}]  2"
+	}
+	"***1***"
+	{
+		"trans"		"[{darkred}Map{default}]  1"
+	}
+	"******ZOMBIE ATTACK******"
+	{
+		"trans"		"[{darkred}Map{default}]  僵尸进犯"
+	}
+	"***Продержитесь 60сек.(Hold on 60secs.)***"
+	{
+		"trans"		"[{darkred}Map{default}]  坚守60秒"
+	}
+}

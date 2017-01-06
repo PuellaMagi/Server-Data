@@ -1,0 +1,283 @@
+"Chat"
+{
+	"||| WARMUP ROUND |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| WARMUP ROUND |||"
+	}
+	"<Ammo gun has been acquired>"
+	{
+		"trans"		"[{darkred}Map{default}] <Ammo gun has been acquired>"
+	}
+	"<Growth gun has been acquired>"
+	{
+		"trans"		"[{darkred}Map{default}] <Growth gun has been acquired>"
+	}
+	"<Tornado gun has been acquired>"
+	{
+		"trans"		"[{darkred}Map{default}] <Tornado gun has been acquired>"
+	}
+	"<Inferno gun has been acquired>"
+	{
+		"trans"		"[{darkred}Map{default}] <Inferno gun has been acquired>"
+	}
+	"<Rift gun has been acquired>"
+	{
+		"trans"		"[{darkred}Map{default}] <Rift gun has been acquired>"
+	}
+	"||| CHAPTER 1 => RETURN |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| CHAPTER 1 => RETURN |||"
+	}
+	"||| HOLD FOR 30 SECONDS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| HOLD FOR 30 SECONDS |||"
+	}
+	"||| FALL BACK |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| FALL BACK |||"
+	}
+	"||| PRESS BOTH BUTTONS AT THE SAME TIME |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| PRESS BOTH BUTTONS AT THE SAME TIME |||"
+	}
+	"||| HOLD FOR 20 SECONDS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| HOLD FOR 20 SECONDS |||"
+	}
+	"||| ELEVATOR OPENS IN 25 SECONDS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| ELEVATOR OPENS IN 25 SECONDS |||"
+	}
+	"||| HOLD FOR 10 SECONDS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| HOLD FOR 10 SECONDS |||"
+	}
+	"||| DOOR IS CLOSING |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| DOOR IS CLOSING |||"
+	}
+	"||| HOLD THE ELEVATOR FOR 25 SECONDS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| HOLD THE ELEVATOR FOR 25 SECONDS |||"
+	}
+	"||| ZOMBIES TAKE THE STAIRS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| ZOMBIES TAKE THE STAIRS |||"
+	}
+	"||| RUN BACK OUT THE FACILITY |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| RUN BACK OUT THE FACILITY |||"
+	}
+	"||| SHOOT THE SECOND DOOR OPEN |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| SHOOT THE SECOND DOOR OPEN |||"
+	}
+	"||| CHAPTER 2 => SECURE |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| CHAPTER 2 => SECURE |||"
+	}
+	"||| TELEPORTER AND VENTILATION REACTIVATE IN 15 SECONDS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| TELEPORTER AND VENTILATION REACTIVATE IN 15 SECONDS |||"
+	}
+	"||| DISABLE BOTH SECURITY STATIONS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| DISABLE BOTH SECURITY STATIONS |||"
+	}
+	"||| FIRST SECURITY STATION HAS BEEN DISABLED |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| FIRST SECURITY STATION HAS BEEN DISABLED |||"
+	}
+	"||| C4 EXPLODE IN 15 SECONDS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| C4 EXPLODE IN 15 SECONDS |||"
+	}
+	"||| C4 EXPLODE IN 5 SECONDS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| C4 EXPLODE IN 5 SECONDS |||"
+	}
+	"||| C4 EXPLODE IN 10 SECONDS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| C4 EXPLODE IN 10 SECONDS |||"
+	}
+	"||| SECOND SECURITY STATION HAS BEEN DISABLED |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| SECOND SECURITY STATION HAS BEEN DISABLED |||"
+	}
+	"||| BOTH BUTTONS WERE PRESSED |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| BOTH BUTTONS WERE PRESSED |||"
+	}
+	"||| BRIDGE EXTEND IN 20 SECONDS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| BRIDGE EXTEND IN 20 SECONDS |||"
+	}
+	"||| HOLD FOR 15 SECONDS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| HOLD FOR 15 SECONDS |||"
+	}
+	"||| TRAINS WILL LEAVE IN 20 SECONDS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| TRAINS WILL LEAVE IN 20 SECONDS |||"
+	}
+	"||| DEFEND THE ABOVE THE TRAINS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| DEFEND THE ABOVE THE TRAINS |||"
+	}
+	"||| ZOMBIE TRAIN - WIN DISABLE |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| ZOMBIE TRAIN - WIN DISABLE |||"
+	}
+	"||| STAGE 2 FINISHED |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| STAGE 2 FINISHED |||"
+	}
+	"||| CHAPTER 3 => AWAKENING |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| CHAPTER 3 => AWAKENING |||"
+	}
+	"||| ELEVATOR LEAVES IN 25 SECONDS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| ELEVATOR LEAVES IN 25 SECONDS |||"
+	}
+	"||| ELEVATOR LEAVES IN 5 SECONDS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| ELEVATOR LEAVES IN 5 SECONDS |||"
+	}
+	"||| ELEVATOR LEAVES IN 10 SECONDS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| ELEVATOR LEAVES IN 10 SECONDS |||"
+	}
+	"||| SHOOT THE ENERGY BEAMS AND DEFEND THE ZOMBIES |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| SHOOT THE ENERGY BEAMS AND DEFEND THE ZOMBIES |||"
+	}
+	"||| SHOOT THE CONTAINER |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| SHOOT THE CONTAINER |||"
+	}
+	"||| CORE EXPLODES IN 170 SECONDS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| CORE EXPLODES IN 170 SECONDS |||"
+	}
+	"||| CORE EXPLODES IN 100 SECONDS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| CORE EXPLODES IN 100 SECONDS |||"
+	}
+	"||| CORE EXPLODES IN 80 SECONDS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| CORE EXPLODES IN 80 SECONDS |||"
+	}
+	"||| DOOR OPENS IN 20 SECONDS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| DOOR OPENS IN 20 SECONDS |||"
+	}
+	"||| CORE EXPLODES IN 60 SECONDS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| CORE EXPLODES IN 60 SECONDS |||"
+	}
+	"||| DOOR IS OPENING |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| DOOR IS OPENING |||"
+	}
+	"||| CORE EXPLODES IN 40 SECONDS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| CORE EXPLODES IN 40 SECONDS |||"
+	}
+	"||| CORE EXPLODES IN 20 SECONDS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| CORE EXPLODES IN 20 SECONDS |||"
+	}
+	"||| CORE EXPLODES IN 10 SECONDS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| CORE EXPLODES IN 10 SECONDS |||"
+	}
+	"||| CORE EXPLODES IN 5 SECONDS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| CORE EXPLODES IN 5 SECONDS |||"
+	}
+	"||| CORE EXPLODES IN 4 SECONDS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| CORE EXPLODES IN 4 SECONDS |||"
+	}
+	"||| CORE EXPLODES IN 3 SECONDS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| CORE EXPLODES IN 3 SECONDS |||"
+	}
+	"||| CORE EXPLODES IN 2 SECONDS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| CORE EXPLODES IN 2 SECONDS |||"
+	}
+	"||| CORE EXPLODES IN 1 SECONDS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| CORE EXPLODES IN 1 SECONDS |||"
+	}
+	"||| DOOR IS OPENING|||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| DOOR IS OPENING|||"
+	}
+	"||| HOLD THE BRIDGE |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| HOLD THE BRIDGE |||"
+	}
+	"||| STAGE 3 FINISHED |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| STAGE 3 FINISHED |||"
+	}
+	"||| CHAPTER 4 => SHOWDOWN |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| CHAPTER 4 => SHOWDOWN |||"
+	}
+	"||| DEFEND THE TOP FOR 30 SECONDS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| DEFEND THE TOP FOR 30 SECONDS |||"
+	}
+	"||| PREPARE TO FALL BACK |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| PREPARE TO FALL BACK |||"
+	}
+	"||| DESTROY BOTH ELEVATOR BUTTONS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| DESTROY BOTH ELEVATOR BUTTONS |||"
+	}
+	"||| ELEVATOR LEAVES IN 15 SECONDS |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| ELEVATOR LEAVES IN 15 SECONDS |||"
+	}
+	"||| !!!WARNING!!! DANGER FROM ABOVE |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| !!!WARNING!!! DANGER FROM ABOVE |||"
+	}
+	"||| POWER WILL BE RESTORED IN 25 SECONDS <SURVIVE> |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| POWER WILL BE RESTORED IN 25 SECONDS <SURVIVE> |||"
+	}
+	"||| POWER IS RESTORED... DOORS OPEN SOON |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| POWER IS RESTORED... DOORS OPEN SOON |||"
+	}
+	"||| THE DOORS ARE OPENING |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| THE DOORS ARE OPENING |||"
+	}
+	"||| THE VIRUS NEED TO STAY IN THE FACILITY FOR THE FINAL AIRSTRIKE |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| THE VIRUS NEED TO STAY IN THE FACILITY FOR THE FINAL AIRSTRIKE |||"
+	}
+	"||| YOU FAILED |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| YOU FAILED |||"
+	}
+	"||| AIRSTRIKE INCOMING |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| AIRSTRIKE INCOMING |||"
+	}
+	"||| ZOMBIE HELICOPTER - WIN DISABLE |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| ZOMBIE HELICOPTER - WIN DISABLE |||"
+	}
+	"||| DONT LET THE VIRUS SPREAD |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| DONT LET THE VIRUS SPREAD |||"
+	}
+}

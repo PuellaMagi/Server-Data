@@ -1,0 +1,55 @@
+"Chat"
+{
+	"***Map Made by xXhamadryadesXx***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Map Made by xXhamadryadesXx***"
+	}
+	"***Wall will break in 20 sec***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Wall will break in 20 sec***"
+	}
+	"***Doors will opens in 20 sec***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Doors will opens in 20 sec***"
+	}
+	"***Shit ! the door is blocked ! Hold this position***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Shit ! the door is blocked ! Hold this position***"
+	}
+	"***Hold this position for 20 sec***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Hold this position for 20 sec***"
+	}
+	"***Defend this position for 20 sec***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Defend this position for 20 sec***"
+	}
+	"***Defend this position 20 sec***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Defend this position 20 sec***"
+	}
+	"***Defend this position for 15 sec***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Defend this position for 15 sec***"
+	}
+	"***Team Fall Back to the reactor room***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Team Fall Back to the reactor room***"
+	}
+	"***Defend the reactor for 20 sec***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Defend the reactor for 20 sec***"
+	}
+	"***Fuck! the reactor is uncontrollable, exit the K-19***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Fuck! the reactor is uncontrollable, exit the K-19***"
+	}
+	"***Crate will break in 25 sec***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Crate will break in 25 sec***"
+	}
+	"***Defend the exit for 25 sec***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Defend the exit for 25 sec***"
+	}
+}

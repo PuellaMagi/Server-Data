@@ -1,0 +1,27 @@
+"Chat"
+{
+	"** Call the mainland - Tell them to send the damn helicopters! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Call the mainland - Tell them to send the damn helicopters! **"
+	}
+	"** SECURE THE LZ ** "
+	{
+		"trans"		"[{darkred}Map{default}] ** SECURE THE LZ ** "
+	}
+	"** Biosyn Huey inbound - ETA 15 seconds **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Biosyn Huey inbound - ETA 15 seconds **"
+	}
+	"** Nerve gas released ** "
+	{
+		"trans"		"[{darkred}Map{default}] ** Nerve gas released ** "
+	}
+	"** Generator override enabled **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Generator override enabled **"
+	}
+	"** Power has been lost to Jurassic Park **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Power has been lost to Jurassic Park **"
+	}
+}

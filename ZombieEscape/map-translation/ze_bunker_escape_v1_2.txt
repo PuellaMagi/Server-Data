@@ -1,0 +1,93 @@
+"Chat"
+{
+	"***Door will open in 30 seconds***"
+	{
+		"trans"		"[{darkred}Map{default}]  门开启于30秒后"
+	}
+	"***zombies are being held at first doors for 5 seconds***"
+	{
+		"trans"		"[{darkred}Map{default}]  僵尸将被在守道门处挡住5秒"
+	}
+	"***elevator 2 leaving in 15 seconds***"
+	{
+		"trans"		"[{darkred}Map{default}]  2号电梯离开于15秒后"
+	}
+	"***doors to ladders opening 30 seconds***"
+	{
+		"trans"		"[{darkred}Map{default}]  通向逃生梯的门开启于30秒后"
+	}
+	"***elevator 1 leaving in 15 seconds***"
+	{
+		"trans"		"[{darkred}Map{default}]  1号电梯离开于15秒后号电梯"
+	}
+	"***zombies are being held back by lifts for 8 seconds***"
+	{
+		"trans"		"[{darkred}Map{default}]  电梯处的僵尸将被挡住8秒"
+	}
+	"***555 door will open in 30 seconds***"
+	{
+		"trans"		"[{darkred}Map{default}]  555号仓库出口开启于30秒后"
+	}
+	"***Aztec door will open 30 seconds***"
+	{
+		"trans"		"[{darkred}Map{default}]  遗迹区出口开启于30秒后"
+	}
+	"***zombies are beling held at the 555 corridor  for 10 seconds*** "
+	{
+		"trans"		"[{darkred}Map{default}]  555号仓库出口处的僵尸将被挡住10秒"
+	}
+	"*** zombies are being held at aztec corridor for 11 seconds"
+	{
+		"trans"		"[{darkred}Map{default}]  遗迹区出口处的僵尸将被挡住10秒"
+	}
+	"***Blast doors will open in 25 seconds***"
+	{
+		"trans"		"[{darkred}Map{default}]  防爆门开启于25秒后"
+	}
+	"***zombies are being held at blast doors for 8 seconds***"
+	{
+		"trans"		"[{darkred}Map{default}]  防爆门外的僵尸将被挡住8秒
+	}
+	"
+		"***Get"		"into"
+		"the"		"control"
+		"room"		"and"
+		"release"		"the"
+		"nerve"		"gas***"
+		"
+	{
+		"		"trans"
+		"		"		"["
+		"{"		"darkred"
+	}
+	"map"
+	{
+	}
+	"]"		"进入控制室释放神经毒气"
+	"
+	}
+	"		"***Blast"
+	"door"		"will"
+	"close"		"in"
+	"30"		"seconds"
+	"and"		"nerve"
+	"gas"		"will"
+	"be"		"released***"
+	"
+	{
+		"		"trans"
+	"		"		"["
+	"{"		"darkred"
+	"***Get into the control room and release the nerve gas***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Get into the control room and release the nerve gas***"
+	}
+	"***Blast door will close in 30 seconds and nerve gas will be released***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Blast door will close in 30 seconds and nerve gas will be released***"
+	}
+	"***Gas has now been released***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Gas has now been released***"
+	}
+}

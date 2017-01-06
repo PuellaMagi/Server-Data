@@ -1,0 +1,171 @@
+"﻿"
+{
+	"## Doors Will Open in 30 Seconds ##"
+	{
+		"trans"		"[{darkred}Map{default}]  30秒后门将会打开"
+	}
+	"## Doors Will Open in 10 Seconds ##"
+	{
+		"trans"		"[{darkred}Map{default}]  10秒后门将会打开"
+	}
+	"## Doors Will Open in 5 Seconds ##"
+	{
+		"trans"		"[{darkred}Map{default}]  5秒后门将会打开"
+	}
+	"## Doors Open RUN ##"
+	{
+		"trans"		"[{darkred}Map{default}]  门打开了"
+	}
+	"## Lift Leaving in 30 Seconds ##"
+	{
+		"trans"		"[{darkred}Map{default}]  电梯还有30秒离开"
+	}
+	"## Lift Leaving in 10 Seconds ##"
+	{
+		"trans"		"[{darkred}Map{default}]  电梯还有10秒离开"
+	}
+	"## Lift Leaving in 5 Seconds ##"
+	{
+		"trans"		"[{darkred}Map{default}]  电梯还有5秒离开"
+	}
+	"## Lift Leaving ##"
+	{
+		"trans"		"[{darkred}Map{default}]  电梯离开"
+	}
+	"## Careful of the collapsing Floor! ##"
+	{
+		"trans"		"[{darkred}Map{default}]  小心地板崩溃!"
+	}
+	"## Trap Door Opening in 30 Seconds ##"
+	{
+		"trans"		"[{darkred}Map{default}]  在过30秒门开"
+	}
+	"## Trap Door Opening in 10 Seconds ##"
+	{
+		"trans"		"[{darkred}Map{default}]  在过10秒门开"
+	}
+	"## Trap Door Opening in 5 Seconds ##"
+	{
+		"trans"		"[{darkred}Map{default}]  在过5秒门开"
+	}
+	"## Trap Door OPEN FALL BACK ##"
+	{
+		"trans"		"[{darkred}Map{default}]  门开了"
+	}
+	"##Door Opens 40 Seconds##"
+	{
+		"trans"		"[{darkred}Map{default}]  门在40秒后开"
+	}
+	"##Each Block will turn red when a zombie is in the corridor##"
+	{
+		"trans"		"[{darkred}Map{default}] Each Block will turn red when a zombie is in the corridor"
+	}
+	"##Each Block will turn green when the corridor is clear##"
+	{
+		"trans"		"[{darkred}Map{default}] Each Block will turn green when the corridor is clear"
+	}
+	"##Zombies can Break the Blocks sooo DEFEND##"
+	{
+		"trans"		"[{darkred}Map{default}]  僵尸可以打破维护"
+	}
+	"##Door Opens 20 Seconds##"
+	{
+		"trans"		"[{darkred}Map{default}]  在守20秒"
+	}
+	"##Door Opens 10 Seconds##"
+	{
+		"trans"		"[{darkred}Map{default}]  在守10秒"
+	}
+	"##Door Open RUNNN##"
+	{
+		"trans"		"[{darkred}Map{default}]  门打开了"
+	}
+	"##Door Opening in 25 Seconds Defend!##"
+	{
+		"trans"		"[{darkred}Map{default}]  防守25秒"
+	}
+	"##Door Opening in 10 Seconds Defend!##"
+	{
+		"trans"		"[{darkred}Map{default}]  在防守10秒!"
+	}
+	"##Door Open FALL BACK##"
+	{
+		"trans"		"[{darkred}Map{default}]  门已经打开了"
+	}
+	"## Final Door Opening 40 Seconds ##"
+	{
+		"trans"		"[{darkred}Map{default}]  最后的大门在40秒后开启"
+	}
+	"## HOLD and DEFEND ##"
+	{
+		"trans"		"[{darkred}Map{default}]  防守这里"
+	}
+	"## Final Door Opening 20 Seconds ##"
+	{
+		"trans"		"[{darkred}Map{default}]  最后的大门在20开启"
+	}
+	"## Final Door Opening 10 Seconds ##"
+	{
+		"trans"		"[{darkred}Map{default}]  最后的大门在10开启"
+	}
+	"## Final Door Opening 5 Seconds ##"
+	{
+		"trans"		"[{darkred}Map{default}]  最后的大门在5后开启"
+	}
+	"## Door Open Run ##"
+	{
+		"trans"		"[{darkred}Map{default}]  最后的大门开启"
+	}
+	"## Boss Room Door Closing 10 Seconds ##"
+	{
+		"trans"		"[{darkred}Map{default}]  最后的大门10秒后关闭"
+	}
+	"## All Players if not in the boss room will be teleported ##"
+	{
+		"trans"		"[{darkred}Map{default}]  所有人类不是在boss房间将传送"
+	}
+	"## Boss Room Door Closing 5 Seconds ##"
+	{
+		"trans"		"[{darkred}Map{default}]  最后的大门在5秒后关闭"
+	}
+	"## Boss Room Door Closed...Prepare for BATTLE ##"
+	{
+		"trans"		"[{darkred}Map{default}]  最后的大门已经关闭准备战斗"
+	}
+	"## REAPER SPLITTER KILL IT ##"
+	{
+		"trans"		"[{darkred}Map{default}]  REAPER SPLITTER KILL IT"
+	}
+	"## You have 2minutes till the boss room explodes! Kill it Quick!"
+	{
+		"trans"		"[{darkred}Map{default}]  你只有2分钟的时间到房间爆炸快杀了它!"
+	}
+	"##You Lost##"
+	{
+		"trans"		"[{darkred}Map{default}] 你失去了..."
+	}
+	"## Reaper Splitter Killed ESCAPE ##"
+	{
+		"trans"		"[{darkred}Map{default}]  boss被打死了快逃脱"
+	}
+	"## Zombies will be released in 10 Seconds ##"
+	{
+		"trans"		"[{darkred}Map{default}]  僵尸在10秒后释放"
+	}
+	"## 15 Seconds to reach SafeZone ##"
+	{
+		"trans"		"[{darkred}Map{default}]  在守15秒"
+	}
+	"## 5 Seconds to reach SafeZone ##"
+	{
+		"trans"		"[{darkred}Map{default}]  在守5秒"
+	}
+	"## END GAME ##"
+	{
+		"trans"		"[{darkred}Map{default}]  结束游戏 翻译露比"
+	}
+	"## You have 2minutes till the boss room explodes! Kill it Quick! ##"
+	{
+		"trans"		"[{darkred}Map{default}] ## You have 2minutes till the boss room explodes! Kill it Quick! ##"
+	}
+}

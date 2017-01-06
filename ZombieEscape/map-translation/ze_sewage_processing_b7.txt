@@ -1,0 +1,99 @@
+"Chat"
+{
+	"*** WATER ENTRIES WILL BREAK IN 40 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** WATER ENTRIES WILL BREAK IN 40 SECONDS ***"
+	}
+	"*** ENTRIES OPENING IN 5 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ENTRIES OPENING IN 5 SECONDS ***"
+	}
+	"*** ENTRIES ARE NOW OPEN, FALL BACK! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ENTRIES ARE NOW OPEN, FALL BACK! ***"
+	}
+	"*** BULKHEAD DOORS OPENING IN 25 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** BULKHEAD DOORS OPENING IN 25 SECONDS ***"
+	}
+	"*** BULKHEAD DOORS OPENING IN 5 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** BULKHEAD DOORS OPENING IN 5 SECONDS ***"
+	}
+	"*** DOORS ARE OPEN, FALL BACK! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** DOORS ARE OPEN, FALL BACK! ***"
+	}
+	"*** FIRST FLOOD DOOR OPENING IN 15 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** FIRST FLOOD DOOR OPENING IN 15 SECONDS ***"
+	}
+	"*** FIRST FLOOD DOOR OPENING NOW ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** FIRST FLOOD DOOR OPENING NOW ***"
+	}
+	"*** ZOMBIES ARE SETTING UP AMBUSH, SECOND FLOOD DOOR OPENING IN 10 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ZOMBIES ARE SETTING UP AMBUSH, SECOND FLOOD DOOR OPENING IN 10 SECONDS ***"
+	}
+	"*** VENT OPENING BREAKING IN 25 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** VENT OPENING BREAKING IN 25 SECONDS ***"
+	}
+	"*** VENT WILL BREAK IN 5 SECONDS, GET READY TO FALL BACK ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** VENT WILL BREAK IN 5 SECONDS, GET READY TO FALL BACK ***"
+	}
+	"*** ELEVATOR LEAVING IN 30 SECONDS, HOLD  ZOMBIES OFF ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ELEVATOR LEAVING IN 30 SECONDS, HOLD  ZOMBIES OFF ***"
+	}
+	"*** ELEVATOR LEAVING IN 5 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ELEVATOR LEAVING IN 5 SECONDS ***"
+	}
+	"*** ELEVATOR IS LEAVING, FALL BACK ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ELEVATOR IS LEAVING, FALL BACK ***"
+	}
+	"*** SIDE DOOR FOR ZOMBIES IS OPEN, GO ZOMBIES GO! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SIDE DOOR FOR ZOMBIES IS OPEN, GO ZOMBIES GO! ***"
+	}
+	"*** HOLD OFF THE ZOMBIES HERE FOR 15 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** HOLD OFF THE ZOMBIES HERE FOR 15 SECONDS ***"
+	}
+	"*** QUICK, GET TO HIGH GROUND AND ACTIVATE TOXIC CHEMICAL RELEASE! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** QUICK, GET TO HIGH GROUND AND ACTIVATE TOXIC CHEMICAL RELEASE! ***"
+	}
+	"*** ZOMBIE BARRICADE WILL BREAK IN 5 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ZOMBIE BARRICADE WILL BREAK IN 5 SECONDS ***"
+	}
+	"*** TOXIC CHEMICALS WILL FLOOD CANAL IN 40 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** TOXIC CHEMICALS WILL FLOOD CANAL IN 40 SECONDS ***"
+	}
+	"*** HOLD OFF THE ZOMBIES! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** HOLD OFF THE ZOMBIES! ***"
+	}
+	"*** TOXIC CHEMICALS WILL BE RELEASED IN 10 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** TOXIC CHEMICALS WILL BE RELEASED IN 10 SECONDS ***"
+	}
+	"*** TOXIC CHEMICALS WILL BE RELEASED IN 5 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** TOXIC CHEMICALS WILL BE RELEASED IN 5 SECONDS ***"
+	}
+	"servcer shutdown in 10 seconds"
+	{
+		"trans"		"[{darkred}Map{default}] servcer shutdown in 10 seconds"
+	}
+	"server shutdown in 5 seconds"
+	{
+		"trans"		"[{darkred}Map{default}] server shutdown in 5 seconds"
+	}
+}

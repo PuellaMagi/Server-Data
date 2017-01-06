@@ -1,0 +1,187 @@
+"Chat"
+{
+	"++We can see you out there. Those doors will take about 20 seconds to lower++"
+	{
+		"trans"		"[{darkred}Map{default}]  我们能在那外面看到你们. 那些门将在20秒后开"
+	}
+	"++We can see zombies behind you in the train station++"
+	{
+		"trans"		"[{darkred}Map{default}] 我们看到火车站那僵尸在你们屁股后面"
+	}
+	"++Don't let them get too far or they'll open new spawn points!++"
+	{
+		"trans"		"[{darkred}Map{default}]  不要让他们离太远否则他们会碰到新的重生点"
+	}
+	"++The gate switch will be inside the building++"
+	{
+		"trans"		"[{darkred}Map{default}]  大门开关在建筑立面"
+	}
+	"++The sliding gate is opening++"
+	{
+		"trans"		"[{darkred}Map{default}]  滑动门正在打开"
+	}
+	"++That gate will take about half a minute to fully open++"
+	{
+		"trans"		"[{darkred}Map{default}]  那个大门将会在30秒后完全开启"
+	}
+	"++The sliding gate is open, keep moving forward++"
+	{
+		"trans"		"[{darkred}Map{default}]  滑动门开了，保持向前"
+	}
+	"++The big gate is opening- fall back if you are on the walkways++"
+	{
+		"trans"		"[{darkred}Map{default}]  大门开了，如果你在走道上就赶快撤"
+	}
+	"++Try to find a good chokepoint so some of you can hold while the rest advance++"
+	{
+		"trans"		"[{darkred}Map{default}]  尝试找个地方守住"
+	}
+	"++We're overriding the gates, should take about 25 seconds++"
+	{
+		"trans"		"[{darkred}Map{default}]  我们在尽力弄开大门，守住25秒"
+	}
+	"++The two gates are lowering++"
+	{
+		"trans"		"[{darkred}Map{default}]  两个大门在降低"
+	}
+	"++We see you, we're triggering the override++"
+	{
+		"trans"		"[{darkred}Map{default}]  我们看到你们了，我们触发了大门"
+	}
+	"++Hold the ledge until the door is open++"
+	{
+		"trans"		"[{darkred}Map{default}]  守住窗台直到门开"
+	}
+	"++Door One will open in 45 seconds++"
+	{
+		"trans"		"[{darkred}Map{default}]  45秒后门开"
+	}
+	"++Door One will open in 40 seconds++"
+	{
+		"trans"		"[{darkred}Map{default}]  40秒后门开"
+	}
+	"++Door One will open in 20 seconds++"
+	{
+		"trans"		"[{darkred}Map{default}]  20秒后门开"
+	}
+	"++Door One opening in 10 seconds++"
+	{
+		"trans"		"[{darkred}Map{default}]  10秒后门开"
+	}
+	"++Tunnel Door One is opening++"
+	{
+		"trans"		"[{darkred}Map{default}]  隧道门1正在打开"
+	}
+	"++Tunnel Door Two is opening++"
+	{
+		"trans"		"[{darkred}Map{default}]  隧道门2正在打开"
+	}
+	"++Tunnel Door Five is Opening++"
+	{
+		"trans"		"[{darkred}Map{default}] 隧道门5正在打开"
+	}
+	"++We hear you. We're overriding Tunnel Door Six++"
+	{
+		"trans"		"[{darkred}Map{default}]  我们听到你们了，正在弄开隧道门6"
+	}
+	"++Airstrike hits in 5 seconds++"
+	{
+		"trans"		"[{darkred}Map{default}]  5秒后空中打击"
+	}
+	"4"
+	{
+		"trans"		"[{darkred}Map{default}]  4"
+	}
+	"3"
+	{
+		"trans"		"[{darkred}Map{default}]  3"
+	}
+	"2"
+	{
+		"trans"		"[{darkred}Map{default}]  2"
+	}
+	"1"
+	{
+		"trans"		"[{darkred}Map{default}]  1"
+	}
+	"++Airstrike has hit. Welcome home++"
+	{
+		"trans"		"[{darkred}Map{default}]  空袭来了，欢迎回家"
+	}
+	"++Clear out any remaining runners and it'll be over++"
+	{
+		"trans"		"[{darkred}Map{default}]  清理任何剩下的僵尸游戏就结束了"
+	}
+	"++Map created by Officer_B++"
+	{
+		"trans"		"[{darkred}Map{default}]  地图制作：Officer_B 翻译：小四"
+	}
+	"++Difficulty level: HARD++"
+	{
+		"trans"		"[{darkred}Map{default}]  难度：困难"
+	}
+	"++This is the highest difficulty, good luck++"
+	{
+		"trans"		"[{darkred}Map{default}]  这是最高难度，祝好运"
+	}
+	"++The first bridge can now be broken++"
+	{
+		"trans"		"[{darkred}Map{default}]  第一条桥现在能被破坏"
+	}
+	"++The second bridge can now be broken++"
+	{
+		"trans"		"[{darkred}Map{default}]  第二条桥现在能被破坏"
+	}
+	"++Zombies have made it to the bridge, new spawn opening++"
+	{
+		"trans"		"[{darkred}Map{default}]  僵尸到了桥上，新复活点开启"
+	}
+	"++Cut them off!++"
+	{
+		"trans"		"[{darkred}Map{default}]  搞死他们"
+	}
+	"++Zombies have gotten past the middle gate, new spawn opening++"
+	{
+		"trans"		"[{darkred}Map{default}]  僵尸走过了中门，新的复活点开启"
+	}
+	"++Don't let them get any further!++"
+	{
+		"trans"		"[{darkred}Map{default}]  不要再让他们靠近一步"
+	}
+	"++The third bridge can now be broken++"
+	{
+		"trans"		"[{darkred}Map{default}]  第三条桥现在能被破坏"
+	}
+	"++Zombies have made it past the cargo entrance, new spawn opening++"
+	{
+		"trans"		"[{darkred}Map{default}]  僵尸通过了货物入口，新的复活点开启"
+	}
+	"++Hold them back!++"
+	{
+		"trans"		"[{darkred}Map{default}]  守住！！！"
+	}
+	"++Zombies have made it past the high tower++"
+	{
+		"trans"		"[{darkred}Map{default}]  僵尸经过了高塔"
+	}
+	"++Cut them off before they reach the tunnel!++"
+	{
+		"trans"		"[{darkred}Map{default}]  在他们到达隧道之前弄死他们"
+	}
+	"++Difficulty level: MEDIUM++"
+	{
+		"trans"		"[{darkred}Map{default}] ++Difficulty level: MEDIUM++"
+	}
+	"++Reaching the end will raise the difficulty++"
+	{
+		"trans"		"[{darkred}Map{default}] ++Reaching the end will raise the difficulty++"
+	}
+	"++We're overriding the gates, should take about 15 seconds++"
+	{
+		"trans"		"[{darkred}Map{default}] ++We're overriding the gates, should take about 15 seconds++"
+	}
+	"++Door One will open in 25 seconds++"
+	{
+		"trans"		"[{darkred}Map{default}] ++Door One will open in 25 seconds++"
+	}
+}

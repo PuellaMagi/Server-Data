@@ -1,0 +1,67 @@
+"Chat"
+{
+	"Map made by Cuniczek"
+	{
+		"blocked"		"1"
+	}
+	"Thanks to Enviolinador & Darnias"
+	{
+		"blocked"		"1"
+	}
+	"All paths are dead."
+	{
+		"trans"		"[{darkred}Map{default}]  所有的路径都被截断了."
+	}
+	"A safehouse spawned at spawn."
+	{
+		"trans"		"[{darkred}Map{default}]  避难处出现."
+	}
+	"CT flags can now teleport humans back to spawn."
+	{
+		"trans"		"[{darkred}Map{default}]  CT旗帜现在可以传送人类回到出生点."
+	}
+	"All coins collected."
+	{
+		"trans"		"[{darkred}Map{default}]  所有收集的硬币."
+	}
+	"Proceed to find a safehouse if you want to survive."
+	{
+		"trans"		"[{darkred}Map{default}]  继续找到避难处如果你想生存下去."
+	}
+	"Safehouse doors opening in 20 seconds."
+	{
+		"trans"		"[{darkred}Map{default}]  避难处20秒后门打开."
+	}
+	"Safehouse doors closing in 30 seconds."
+	{
+		"trans"		"[{darkred}Map{default}]  避难处30秒后门关闭."
+	}
+	"Safehouse doors closing in 20 seconds."
+	{
+		"trans"		"[{darkred}Map{default}]  避难处20秒后门关闭."
+	}
+	"Safehouse doors closing in 10 seconds."
+	{
+		"trans"		"[{darkred}Map{default}]  避难处10秒后门关闭."
+	}
+	"Zombies have secured a checkpoint."
+	{
+		"trans"		"[{darkred}Map{default}]  检查到僵尸."
+	}
+	"Some items have spawned on top of safehouses."
+	{
+		"trans"		"[{darkred}Map{default}]  获得一些道具."
+	}
+	"Platforms are now breakable!"
+	{
+		"trans"		"[{darkred}Map{default}]  现在平台是易碎的!"
+	}
+	"Meteors are raining from the sky!"
+	{
+		"trans"		"[{darkred}Map{default}]  流星从天空下雨!"
+	}
+	"No safehouse spawned. Map broken rtv."
+	{
+		"trans"		"[{darkred}Map{default}]  恭喜你地图上没有避难处可以输rtv."
+	}
+}

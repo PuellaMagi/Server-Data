@@ -1,0 +1,7 @@
+"Chat"
+{
+	"*** Map by Airvulpes ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Map by Airvulpes ***"
+	}
+}

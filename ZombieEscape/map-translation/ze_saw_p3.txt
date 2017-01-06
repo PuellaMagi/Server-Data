@@ -1,0 +1,95 @@
+"Chat"
+{
+	">-Map By TaskuVaras-<"
+	{
+		"trans"		"[{darkred}Map{default}] >-Map By TaskuVaras-<"
+	}
+	">-Watch out for traps!!!-<"
+	{
+		"trans"		"[{darkred}Map{default}] >-Watch out for traps!!!-<"
+	}
+	">- 1 Player needs to get into furnace  -<"
+	{
+		"trans"		"[{darkred}Map{default}] >- 1 Player needs to get into furnace  -<"
+	}
+	">- Keep ZOMBIES away for 60 second -<"
+	{
+		"trans"		"[{darkred}Map{default}] >- Keep ZOMBIES away for 60 second -<"
+	}
+	">- 5 more seconds  -<"
+	{
+		"trans"		"[{darkred}Map{default}] >- 5 more seconds  -<"
+	}
+	">- nervegas released in spawn area  -<"
+	{
+		"trans"		"[{darkred}Map{default}] >- nervegas released in spawn area  -<"
+	}
+	">-Elevator coming in 30 sec-<"
+	{
+		"trans"		"[{darkred}Map{default}] >-Elevator coming in 30 sec-<"
+	}
+	">-Elevator leaving in 7 sec-<"
+	{
+		"trans"		"[{darkred}Map{default}] >-Elevator leaving in 7 sec-<"
+	}
+	">- nervegas released in first traps  -<"
+	{
+		"trans"		"[{darkred}Map{default}] >- nervegas released in first traps  -<"
+	}
+	">-Door opening in 30 sec-<"
+	{
+		"trans"		"[{darkred}Map{default}] >-Door opening in 30 sec-<"
+	}
+	">- Hold for 40 seconds  -<"
+	{
+		"trans"		"[{darkred}Map{default}] >- Hold for 40 seconds  -<"
+	}
+	">- nervegas released in elevator area  -<"
+	{
+		"trans"		"[{darkred}Map{default}] >- nervegas released in elevator area  -<"
+	}
+	">- keep zombies away for 45 seconds  -<"
+	{
+		"trans"		"[{darkred}Map{default}] >- keep zombies away for 45 seconds  -<"
+	}
+	">- furnace door opening in 20 sec  -<"
+	{
+		"trans"		"[{darkred}Map{default}] >- furnace door opening in 20 sec  -<"
+	}
+	">- Door opening in 30 seconds  -<"
+	{
+		"trans"		"[{darkred}Map{default}] >- Door opening in 30 seconds  -<"
+	}
+	">- keep zombies away for 30 seconds  -<"
+	{
+		"trans"		"[{darkred}Map{default}] >- keep zombies away for 30 seconds  -<"
+	}
+	">- generator room exploding in 75 seconds  -<"
+	{
+		"trans"		"[{darkred}Map{default}] >- generator room exploding in 75 seconds  -<"
+	}
+	">- nailbombs exploding in 40 seconds  -<"
+	{
+		"trans"		"[{darkred}Map{default}] >- nailbombs exploding in 40 seconds  -<"
+	}
+	">- keep zombies inside -<"
+	{
+		"trans"		"[{darkred}Map{default}] >- keep zombies inside -<"
+	}
+	">- 30 more seconds  -<"
+	{
+		"trans"		"[{darkred}Map{default}] >- 30 more seconds  -<"
+	}
+	">- 10 more seconds  -<"
+	{
+		"trans"		"[{darkred}Map{default}] >- 10 more seconds  -<"
+	}
+	">- bomb shelter opening -<"
+	{
+		"trans"		"[{darkred}Map{default}] >- bomb shelter opening -<"
+	}
+	">- shelter door closing!!  -<"
+	{
+		"trans"		"[{darkred}Map{default}] >- shelter door closing!!  -<"
+	}
+}

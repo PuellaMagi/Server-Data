@@ -1,0 +1,91 @@
+"Chat"
+{
+	"Break the doors to exit the laboratory."
+	{
+		"trans"		"[{darkred}Map{default}] Break the doors to exit the laboratory."
+	}
+	"Cable Car leaving in 7 seconds..."
+	{
+		"trans"		"[{darkred}Map{default}] Cable Car leaving in 7 seconds..."
+	}
+	"Pole-Rider machine leaving in 9 seconds..."
+	{
+		"trans"		"[{darkred}Map{default}] Pole-Rider machine leaving in 9 seconds..."
+	}
+	"Boat leaving in 6 seconds!"
+	{
+		"trans"		"[{darkred}Map{default}] Boat leaving in 6 seconds!"
+	}
+	"Truck leaving in 15 seconds!"
+	{
+		"trans"		"[{darkred}Map{default}] Truck leaving in 15 seconds!"
+	}
+	"Station doors will open in 25 seconds."
+	{
+		"trans"		"[{darkred}Map{default}] Station doors will open in 25 seconds."
+	}
+	"Zombie outbreak has been detected."
+	{
+		"trans"		"[{darkred}Map{default}] Zombie outbreak has been detected."
+	}
+	"Emergency protection barriers activated."
+	{
+		"trans"		"[{darkred}Map{default}] Emergency protection barriers activated."
+	}
+	"Station doors have opened!"
+	{
+		"trans"		"[{darkred}Map{default}] Station doors have opened!"
+	}
+	"The gates will open in 25 seconds."
+	{
+		"trans"		"[{darkred}Map{default}] The gates will open in 25 seconds."
+	}
+	"Hold out the zombies at the ticket gates!"
+	{
+		"trans"		"[{darkred}Map{default}] Hold out the zombies at the ticket gates!"
+	}
+	"The teleporters at the spawn area are now working!"
+	{
+		"trans"		"[{darkred}Map{default}] The teleporters at the spawn area are now working!"
+	}
+	"Activate the emergency button!!!"
+	{
+		"trans"		"[{darkred}Map{default}] Activate the emergency button!!!"
+	}
+	"Emergency button has been activated! Emergency doors closing..."
+	{
+		"trans"		"[{darkred}Map{default}] Emergency button has been activated! Emergency doors closing..."
+	}
+	"Train arriving in approximately 35 seconds..."
+	{
+		"trans"		"[{darkred}Map{default}] Train arriving in approximately 35 seconds..."
+	}
+	"Train arriving in approximately 20 seconds..."
+	{
+		"trans"		"[{darkred}Map{default}] Train arriving in approximately 20 seconds..."
+	}
+	"The train has arrived and will leave in 10 seconds!"
+	{
+		"trans"		"[{darkred}Map{default}] The train has arrived and will leave in 10 seconds!"
+	}
+	"Train arriving at nuclear station..."
+	{
+		"trans"		"[{darkred}Map{default}] Train arriving at nuclear station..."
+	}
+	"Beware of zombies coming from the back!"
+	{
+		"trans"		"[{darkred}Map{default}] Beware of zombies coming from the back!"
+	}
+	"Missile Doors 1 Opening..."
+	{
+		"trans"		"[{darkred}Map{default}] Missile Doors 1 Opening..."
+	}
+	"Missile Doors 2 Opening..."
+	{
+		"trans"		"[{darkred}Map{default}] Missile Doors 2 Opening..."
+	}
+	"Nuclear missile has been launched!!!"
+	{
+		"trans"		"[{darkred}Map{default}] Nuclear missile has been launched!!!"
+	}
+}

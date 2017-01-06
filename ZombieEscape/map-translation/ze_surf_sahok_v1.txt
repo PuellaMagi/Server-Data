@@ -1,0 +1,43 @@
+"Chat"
+{
+	"**The door will open in 45 seconds. Cover!!**"
+	{
+		"trans"		"[{darkred}Map{default}] **The door will open in 45 seconds. Cover!!**"
+	}
+	"**Door is open 10 sec**"
+	{
+		"trans"		"[{darkred}Map{default}] **Door is open 10 sec**"
+	}
+	"**Elevator is leaving in 25s**"
+	{
+		"trans"		"[{darkred}Map{default}] **Elevator is leaving in 25s**"
+	}
+	"**Elevator is leaving in 5s**"
+	{
+		"trans"		"[{darkred}Map{default}] **Elevator is leaving in 5s**"
+	}
+	"**Boats will arrive in 30 seconds**"
+	{
+		"trans"		"[{darkred}Map{default}] **Boats will arrive in 30 seconds**"
+	}
+	"** Boss Fight in 10s **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Boss Fight in 10s **"
+	}
+	"** Boss Fight in 5s **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Boss Fight in 5s **"
+	}
+	"** Nades do more damage (2s) **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Nades do more damage (2s) **"
+	}
+	"**The door will open in 30 seconds. Cover!!**"
+	{
+		"trans"		"[{darkred}Map{default}] **The door will open in 30 seconds. Cover!!**"
+	}
+	"** Boss is dead - Escape ! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Boss is dead - Escape ! **"
+	}
+}

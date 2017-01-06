@@ -1,0 +1,66 @@
+"Chat"
+{
+	"*** Map made by Manficool (제작자 : Manficool) ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Map made by Manficool (제작자 : Manficool) ***"
+	}
+	"*** Map ported by [ＥSＣAＰＥ] Loving You (수정자 : 러빙유) ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Map ported by [ＥSＣAＰＥ] Loving You (수정자 : 러빙유) ***"
+	}
+	"*** AFK"
+	{
+		"SPAWN CAMP KILLER IN 60 SECONDS ***"
+		{
+			"trans"		"[{darkred}Map{default}] 60秒后处死挂机者"
+		}
+	}
+	"*** REAR DOORS OPENING IN 30 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** REAR DOORS OPENING IN 30 SECONDS ***"
+	}
+	"*** REAR DOORS OPENING IN 10 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** REAR DOORS OPENING IN 10 SECONDS ***"
+	}
+	"*** SAFETY DOOR CLOSING ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SAFETY DOOR CLOSING ***"
+	}
+	"*** DOORS OPENING ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** DOORS OPENING ***"
+	}
+	"*** TRUST IN THE LIGHT! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** TRUST IN THE LIGHT! ***"
+	}
+	"*** DARK ROOM FLOOR STABLE ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** DARK ROOM FLOOR STABLE ***"
+	}
+	"*** DOOR OPENING SHORTLY ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** DOOR OPENING SHORTLY ***"
+	}
+	"*** DOOR IS NOW OPEN ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** DOOR IS NOW OPEN ***"
+	}
+	"*** BIG ELEVATOR LEAVING IN 5 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** BIG ELEVATOR LEAVING IN 5 SECONDS ***"
+	}
+	"*** SIDE DOOR OPENING ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SIDE DOOR OPENING ***"
+	}
+	"*** NUKE ARRIVING IN 30 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** NUKE ARRIVING IN 30 SECONDS ***"
+	}
+	"*** NUKE IMPACTING ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** NUKE IMPACTING ***"
+	}
+}

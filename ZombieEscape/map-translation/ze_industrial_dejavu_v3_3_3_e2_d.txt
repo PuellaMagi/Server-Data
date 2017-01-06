@@ -1,0 +1,199 @@
+"Chat"
+{
+	"*** ZE INDUSTRIAL DEJAVU - ORIGINALY MADE IN ONE DAY ***"
+	{
+		"trans"		"[{darkred}Map{default}]  刷 分 循 环:一天完成的刷分图"
+	}
+	"***Map ported by ??????***"
+	{
+		"blocked"		"1"
+	}
+	"*** CURRENT MODE: EASY ***"
+	{
+		"trans"		"[{darkred}Map{default}]  难度:简单"
+	}
+	"*** NO ZOMBIE WEAPONS & SMALL INFECTION ***"
+	{
+		"trans"		"[{darkred}Map{default}]  无僵尸神器/僵尸母体数较少"
+	}
+	"*** HELPING PUSHES ACTIVATED ON EASY MODE ***"
+	{
+		"trans"		"[{darkred}Map{default}]  出口屏障开启"
+	}
+	"*** Door opens in 20 seconds! ***"
+	{
+		"trans"		"[{darkred}Map{default}]  出口开启于20秒后!"
+	}
+	"*** Resist for 30 seconds! ***"
+	{
+		"trans"		"[{darkred}Map{default}]  坚守30秒!"
+	}
+	"*** Resist for 10 more seconds! ***"
+	{
+		"trans"		"[{darkred}Map{default}]  出口开启于10秒后!"
+	}
+	"*** GO! GO! GO! MOVE OUT! ***"
+	{
+		"trans"		"[{darkred}Map{default}]  撤退!"
+	}
+	"*** Freezegun has been picked up. Press +USE (E) to activate. 75 seconds cooldown. "
+	{
+		"trans"		"[{darkred}Map{default}]  冰冻枪已被拾起:E键释放,75秒冷却时间"
+	}
+	"*** Helicopter comes in 30 seconds. ***"
+	{
+		"trans"		"[{darkred}Map{default}]  直升机接驳于30秒后"
+	}
+	"***Evacuate!!!***"
+	{
+		"trans"		"[{darkred}Map{default}]  撤退!!"
+	}
+	"*Laser wall generator has been picked up. Press +USE (E) to activate.*"
+	{
+		"trans"		"[{darkred}Map{default}]  激光墙已被拾起:E键释放,60秒冷却时间"
+	}
+	"*It has a 60 seconds cooldown.*"
+	{
+		"blocked"		"1"
+	}
+	"*** Boat leaves in 40 seconds. ***"
+	{
+		"trans"		"[{darkred}Map{default}]  快艇离港于40秒后"
+	}
+	"*** RESIST!!! 10 SECONDS!!!. ***"
+	{
+		"trans"		"[{darkred}Map{default}]  10秒剩余"
+	}
+	"*** We did it! Moving on to the NORMAL mode! ***"
+	{
+		"trans"		"[{darkred}Map{default}]  关卡完成,下一难度:普通"
+	}
+	"***Map ported by ??????!***"
+	{
+		"blocked"		"1"
+	}
+	"*** CURRENT MODE: NORMAL ***"
+	{
+		"trans"		"[{darkred}Map{default}]  难度:普通"
+	}
+	"*** ZOMBIE WEAPONS & NORMAL INFECTION ***"
+	{
+		"trans"		"[{darkred}Map{default}]  地图上将出现僵尸神器/僵尸母体数有所提升"
+	}
+	"*** EXIT HELP PUSH ACTIVATED ON NORMAL MODE ***"
+	{
+		"trans"		"[{darkred}Map{default}]  出口屏障开启"
+	}
+	"* Vortex zombie has been summoned. Press +USE (E) to activate.*"
+	{
+		"trans"		"[{darkred}Map{default}]  僵尸黑洞已被启用:E键释放,120秒冷却时间"
+	}
+	"*It has a 120 seconds cooldown.*"
+	{
+		"blocked"		"1"
+	}
+	"*** Well done! Now it will get interesting on the HARD mode! ***"
+	{
+		"trans"		"[{darkred}Map{default}]  关卡完成,下一难度:困难"
+	}
+	"*** CURRENT MODE: HARD ***"
+	{
+		"trans"		"[{darkred}Map{default}]  难度:困难"
+	}
+	"*** ZOMBIE WEAPONS & BIG INFECTION ***"
+	{
+		"trans"		"[{darkred}Map{default}]  地图上将出现僵尸神器/僵尸母体数大幅提升"
+	}
+	"*** HELPING PUSHES DISABLED ***"
+	{
+		"trans"		"[{darkred}Map{default}]  出口屏障已关闭"
+	}
+	"* Zombie rage has been picked up. Press +USE (E) to activate.*"
+	{
+		"trans"		"[{darkred}Map{default}]  僵尸狂暴已被启动,E键释放"
+	}
+	"*** OH NOES!!! IT'S A BOSS WITH STRANGELY FAMILIAR LOOKS!!! ***"
+	{
+		"trans"		"[{darkred}Map{default}]  你们闯进了BOSS房...[小心房间内机关以及僵尸通路]"
+	}
+	"*** Door closes in 8 seconds! ***"
+	{
+		"trans"		"[{darkred}Map{default}]  门关闭于8秒后"
+	}
+	"* Zombie heal has been picked up. Press +USE (E) to activate.*"
+	{
+		"trans"		"[{darkred}Map{default}]  僵尸治疗已被启动,E键释放,90秒冷却时间"
+	}
+	"*It has a 90 seconds cooldown.*"
+	{
+		"blocked"		"1"
+	}
+	"*** That was pure luck! Let's see if you are as lucky on EXTREME mode! ***"
+	{
+		"trans"		"[{darkred}Map{default}]  关卡完成,下一难度:极限"
+	}
+	"*** Strangely near door opens in 12 seconds. ***"
+	{
+		"trans"		"[{darkred}Map{default}]  门开启于12秒后"
+	}
+	"*Ammo Box has been picked up. Press +USE (E) to activate.*"
+	{
+		"trans"		"[{darkred}Map{default}]  弹药箱已被拾起,E键释放."
+	}
+	"*** CURRENT MODE: EXTREME ***"
+	{
+		"trans"		"[{darkred}Map{default}]  难度:极限"
+	}
+	"*** ZOMBIE WEAPONS & MASSIVE INFECTION ***"
+	{
+		"trans"		"[{darkred}Map{default}]  地图上将出现僵尸神器/僵尸母体数极高"
+	}
+	"*** Pushgun has been taken. Press +USE (E) to activate. 60 seconds cooldown. ***"
+	{
+		"trans"		"[{darkred}Map{default}]  驱逐枪已被拾起,E键释放,60秒冷却时间"
+	}
+	"*** ZOMBIES DETECTED - INVALID VICTORY ***"
+	{
+		"trans"		"[{darkred}Map{default}]  僵尸闯进了载具/安全屋 - 菜B们你们输了"
+	}
+	"*** Hold the house for 24 seconds! ***"
+	{
+		"trans"		"[{darkred}Map{default}]  坚守24秒"
+	}
+	"*** Windows that don't have a wooden plank are breakable! ***"
+	{
+		"trans"		"[{darkred}Map{default}]  没有木板的窗户能被击破!"
+	}
+	"*** GO BACK! IT'S GONNA BLOW! ***"
+	{
+		"trans"		"[{darkred}Map{default}]  远离出口!要炸辣!"
+	}
+	"*** Bunker door opens in 15 seconds. ***"
+	{
+		"trans"		"[{darkred}Map{default}]  地堡门开启于15秒后"
+	}
+	"*** HOLD! The bunker will seal in 15 seconds! ***"
+	{
+		"trans"		"[{darkred}Map{default}]  地堡封闭于15秒后"
+	}
+	"*** Unbelievable! You won EXTREME mode! ***"
+	{
+		"trans"		"[{darkred}Map{default}]  地图已通关"
+	}
+	"*** The map level will stay on this mode for you to keep playing the hardest difficulty... If you dare. ***"
+	{
+		"trans"		"[{darkred}Map{default}]  地图难度将一直保持在极限难度"
+	}
+	"*** The boss has been defeated! ***"
+	{
+		"trans"		"[{darkred}Map{default}]  BOSS已被击败!准备撤退!"
+	}
+	"*** HOLD! The door opens in 15 seconds!!! ***"
+	{
+		"trans"		"[{darkred}Map{default}]  坚守15秒"
+	}
+	"*** GO! GO! GO! LET'S LEAVE THIS PLACE! ***"
+	{
+		"trans"		"[{darkred}Map{default}]  撤退"
+	}
+}

@@ -1,0 +1,1270 @@
+"Chat"
+{
+	"***ROCK WALL WILL BREAK IN 15 SECONDS***"
+	{
+		"countdown"		"15"
+		"trans"		"[{darkred}Map{default}]  前方障碍15秒后破碎"
+	}
+	"***ROCK WALL WILL BREAK IN 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  前方障碍5秒后破碎"
+	}
+	"***FALL BACK***"
+	{
+		"trans"		"[{darkred}Map{default}]  撤退"
+	}
+	"***PLAYER PICKED UP ITEM - SPEEDER***"
+	{
+		"trans"		"[{darkred}Map{default}]  有玩家拾起了加速"
+	}
+	"***SOMETHING IS COMING...***"
+	{
+		"trans"		"[{darkred}Map{default}]  有什么东西正在奔我们而来.."
+	}
+	"***RUN***"
+	{
+		"trans"		"[{darkred}Map{default}]  只管跑!"
+	}
+	"***GET UP ON THAT ROCK***"
+	{
+		"trans"		"[{darkred}Map{default}]  跳上前方的巨石"
+	}
+	"***MUFASA.. IS DEAD...***"
+	{
+		"blocked"		"1"
+	}
+	"***SANTA CLAUS WILL PAY FOR HIS DEEDS***"
+	{
+		"blocked"		"1"
+	}
+	"***PROLOGUE COMPLETE***"
+	{
+		"trans"		"[{darkred}Map{default}]  序章已完成"
+	}
+	"***SNOW WALL WILL BREAK IN 10 SECONDS***"
+	{
+		"countdown"		"10"
+		"trans"		"[{darkred}Map{default}]  雪墙崩塌于10秒后"
+	}
+	"***DRAWBRIDGE WILL DRAW ITSELF IN 5 SECONDS***"
+	{
+		"countdown"		"5"
+		"trans"		"[{darkred}Map{default}]  吊桥启动于5秒后"
+	}
+	"***DRAWBRIDGE IS DRAWING***"
+	{
+		"trans"		"[{darkred}Map{default}]  吊桥启动中"
+	}
+	"***DRAWBRIDGE HAS BEEN DRAWED***"
+	{
+		"trans"		"[{darkred}Map{default}]  吊桥已完全启动"
+	}
+	"***PLAYER PICKED UP ITEM - HEALING SHITBOX***"
+	{
+		"trans"		"[{darkred}Map{default}]  有玩家拾起了治疗盒子"
+	}
+	"***INNER BEAVER BLASTDOOR IS OPENING IN 20 SECONDS***"
+	{
+		"countdown"		"20"
+		"trans"		"[{darkred}Map{default}]  门开于20秒后"
+	}
+	"***INNER INNEST INCEST BEAVER BLASTDOOR IS OPENING IN 15 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  门开于15秒后"
+	}
+	"***THIS GATE WILL OPEN ONCE BOTH PATHS HAVE BEEN CLEARED***"
+	{
+		"trans"		"[{darkred}Map{default}]  门将在两边确保安全后打开"
+	}
+	"***FIRST FIRST JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***"
+	{
+		"countdown"		"15"
+		"trans"		"[{darkred}Map{default}]  卷闸门1号开于15秒后"
+	}
+	"***SECOND FIRST JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***"
+	{
+		"countdown"		"15"
+		"trans"		"[{darkred}Map{default}]  卷闸门2号开于15秒后"
+	}
+	"***SECOND FIRST JEDI-SCROLL-DOOR IS OPENING***"
+	{
+		"trans"		"[{darkred}Map{default}]  卷闸门2号开启中"
+	}
+	"***INCEST***"
+	{
+		"blocked"		"1"
+	}
+	"***FIRST FIRST JEDI-SCROLL-DOOR IS OPENING***"
+	{
+		"trans"		"[{darkred}Map{default}]  卷闸门1号开启中"
+	}
+	"***SECOND SECOND JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***"
+	{
+		"countdown"		"15"
+		"trans"		"[{darkred}Map{default}]  二道卷闸门2号开于15秒后"
+	}
+	"***WINCEST***"
+	{
+		"blocked"		"1"
+	}
+	"***SECOND SECOND JEDI-SCROLL-DOOR IS OPENING***"
+	{
+		"trans"		"[{darkred}Map{default}]  二道卷闸门2号正在开启"
+	}
+	"***STEELWORKS DOOR WILL OPEN IN 30 SECONDS***"
+	{
+		"countdown"		"30"
+		"trans"		"[{darkred}Map{default}]  钢铁门开于30秒后"
+	}
+	"***STEELWORKS DOOR WILL OPEN IN 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  钢铁门开于5秒后"
+	}
+	"***STEELWORKS DOOR IS OPENING***"
+	{
+		"trans"		"[{darkred}Map{default}]  钢铁门正在开启"
+	}
+	"***STEELWORKS DOOR WILL CLOSE IN 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  钢铁门关闭于5秒后"
+	}
+	"***PLAYER PICKED UP ITEM - MINI CANNON***"
+	{
+		"trans"		"[{darkred}Map{default}]  有玩家拾起了迷你炮"
+	}
+	"***STEELWORKS DOOR IS CLOSING***"
+	{
+		"trans"		"[{darkred}Map{default}]  钢铁门正在关闭"
+	}
+	"***THE BEAVERS ARE COMING***"
+	{
+		"trans"		"[{darkred}Map{default}]  小心从天而降的猴子"
+	}
+	"***THE BEAVERS ARE AGRESSIVE***"
+	{
+		"trans"		"[{darkred}Map{default}]  远离并向它们开枪,切忌抱团!"
+	}
+	"***THAT SEEMS TO BE THE LAST OF THEM***"
+	{
+		"trans"		"[{darkred}Map{default}]  这应该是最后一批猴子了"
+	}
+	"***SUB-PRIMARY PROTOCOL DOOR WILL OPEN IN 40 SECONDS***"
+	{
+		"countdown"		"40"
+		"trans"		"[{darkred}Map{default}]  门开于40秒后"
+	}
+	"***SUB-PRIMARY PROTOCOL DOOR WILL OPEN IN 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  门开于5秒后"
+	}
+	"***SELF-DESTRUCT SEQUENCE HAS BEEN INITIATED***"
+	{
+		"trans"		"[{darkred}Map{default}]  自毁程序已启动"
+	}
+	"***LASER SHUTDOWN IN 20 SECONDS***"
+	{
+		"countdown"		"20"
+		"trans"		"[{darkred}Map{default}]  激光关闭于20秒后"
+	}
+	"***LASER SHUTDOWN IN 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  激光关闭于5秒后"
+	}
+	"***ESCAPE THE BEAVER STEELWORKS FACILITY***"
+	{
+		"trans"		"[{darkred}Map{default}]  逃离钢厂"
+	}
+	"***PRIMARY PROTOCOL DOOR WILL OPEN IN 20 SECONDS***"
+	{
+		"countdown"		"20"
+		"trans"		"[{darkred}Map{default}]  1号厂门启动于20秒后"
+	}
+	"***SECONDARY PROTOCOL DOOR WILL OPEN IN 20 SECONDS***"
+	{
+		"countdown"		"20"
+		"trans"		"[{darkred}Map{default}]  2号厂门启动于20秒后"
+	}
+	"***ELEVATOR OPENS IN 15 SECONDS***"
+	{
+		"countdown"		"15"
+		"trans"		"[{darkred}Map{default}]  电梯门开于15秒后"
+	}
+	"***ELEVATOR DOOR IS OPEN***"
+	{
+		"trans"		"[{darkred}Map{default}]  电梯门正在开启"
+	}
+	"***ELEVATOR LEAVES IN 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  电梯离开于5秒后"
+	}
+	"***FINAL ELEVATOR DOOR WILL CLOSE IN 30 SECONDS***"
+	{
+		"countdown"		"30"
+		"trans"		"[{darkred}Map{default}]  最后一架电梯离开于30秒后"
+	}
+	"***FINAL ELEVATOR DOOR WILL CLOSE IN 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  最后一架电梯离开于5秒后"
+	}
+	"***FINAL ELEVATOR DOOR IS CLOSING***"
+	{
+		"trans"		"[{darkred}Map{default}]  最后一架电梯正在离开"
+	}
+	"***ACT 1 COMPLETE***"
+	{
+		"trans"		"[{darkred}Map{default}]  第一章已完成"
+	}
+	"***RIGHT PRIMAL ELEVATOR LEAVES IN 10 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  右侧电梯10秒后离开"
+	}
+	"***LEFT PRIMAL ELEVATOR LEAVES IN 10 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  左侧电梯10秒后离开"
+	}
+	"***RIGHT PRIMAL ELEVATOR IS LEAVING***"
+	{
+		"trans"		"[{darkred}Map{default}]  右侧电梯正在离开"
+	}
+	"***LEFT PRIMAL ELEVATOR IS LEAVING***"
+	{
+		"trans"		"[{darkred}Map{default}]  左侧电梯正在离开"
+	}
+	"***SECONDARY PROTOCOL ELEVATOR IS LEAVING IN 30 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  二级电梯离开于30秒后"
+	}
+	"***SECONDARY PROTOCOL ELEVATOR IS LEAVING IN 5 SECONDS***"
+	{
+		"countdown"		"5"
+		"trans"		"[{darkred}Map{default}]  二级电梯离开于5秒后"
+	}
+	"***SECONDARY PROTOCOL ELEVATOR IS LEAVING***"
+	{
+		"trans"		"[{darkred}Map{default}]  二级电梯正在离开"
+	}
+	"***SATISFY THE LIPS WITH SEWER CHOCOLATE IN ORDER TO ENTER***"
+	{
+		"trans"		"[{darkred}Map{default}]  给这个大头智障喂够翔牌巧克力以开通前路"
+	}
+	"***7 SMEARED HUMANS SHOULD BE ABLE TO SATISFY THOSE SORE LIPS***"
+	{
+		"trans"		"[{darkred}Map{default}]  需要7个人才能喂饱这个智障"
+	}
+	"***GOOD LUCK***"
+	{
+		"trans"		"[{darkred}Map{default}]  小心脚下"
+	}
+	"***THE PIZZA IS AGGRESSIVE***"
+	{
+		"trans"		"[{darkred}Map{default}]  切忌碰触地上的比萨饼"
+	}
+	"***SANTA FACTORY DOOR IS OPENING IN 20 SECONDS***"
+	{
+		"countdown"		"20"
+		"trans"		"[{darkred}Map{default}]  工厂大门打开于20秒后"
+	}
+	"***SANTA FACTORY DOOR IS OPENING IN 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  工厂大门打开于5秒后"
+	}
+	"***SANTA FACTORY DOOR IS OPENING***"
+	{
+		"trans"		"[{darkred}Map{default}]  工厂大门正在开启"
+	}
+	"***SMELL THE DANK MIXTAPE***"
+	{
+		"blocked"		"1"
+	}
+	"***THE MIXTAPE IS OUT OF CONTROL***"
+	{
+		"blocked"		"1"
+	}
+	"***MAIN ELEVATOR IS LEAVING IN 20 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  一级电梯20秒后离开"
+	}
+	"***MAIN ELEVATOR IS LEAVING IN 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  一级电梯5秒后离开"
+	}
+	"***MAIN ELEVATOR IS LEAVING***"
+	{
+		"trans"		"[{darkred}Map{default}]  一级电梯正在离开"
+	}
+	"***MAJOR FACE WALL EXPLODES IN 15 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  墙15秒后爆破"
+	}
+	"***MAJOR FACE WALL IS ABOUT TO EXPLODE***"
+	{
+		"trans"		"[{darkred}Map{default}]  墙即将爆破"
+	}
+	"***MAJOR FACE WALL WENT BOOM***"
+	{
+		"trans"		"[{darkred}Map{default}]  墙已爆破"
+	}
+	"***NAZI NIPPLE***"
+	{
+		"trans"		"[{darkred}Map{default}]  元首尖头已触发"
+	}
+	"***BUTTON 1 PRESSED***"
+	{
+		"trans"		"[{darkred}Map{default}]  按钮1已触发"
+	}
+	"***BUTTON 2 PRESSED***"
+	{
+		"trans"		"[{darkred}Map{default}]  按钮2已触发"
+	}
+	"***BUTTON 3 PRESSED***"
+	{
+		"trans"		"[{darkred}Map{default}]  按钮3已触发"
+	}
+	"***THE MEXISLED CAN TAKE YOU OVER THE BORDER FOR 40$***"
+	{
+		"blocked"		"1"
+	}
+	"***YOU CAN NOW ADVANCE***"
+	{
+		"trans"		"[{darkred}Map{default}]  我们可以继续前进了"
+	}
+	"***YOU MANAGED TO SCRAPE TOGETHER 41$ FROM YOUR TUITION MONEY***"
+	{
+		"blocked"		"1"
+	}
+	"***20 SECONDS UNTIL DEPARTURE***"
+	{
+		"trans"		"[{darkred}Map{default}]  船离港于20秒后"
+	}
+	"***THE MEXISLED WOULD PREFER YOU TO CALL IT -THE BURRITO SHITTER-***"
+	{
+		"blocked"		"1"
+	}
+	"***PLEASE COMPLY TO THIS REQUEST OR YOUR CLUB PENGUIN ACCOUNT WILL BE DISABLED***"
+	{
+		"blocked"		"1"
+	}
+	"***5 SECONDS UNTIL DEPARTURE***"
+	{
+		"command"		"sm_xzbd"
+		"trans"		"[{darkred}Map{default}]  船离港于5秒后"
+	}
+	"***OPENING UPPER CHAPEL DOOR IN 10 SECONDS***"
+	{
+		"countdown"		"10"
+		"trans"		"[{darkred}Map{default}]  门开启于10秒后"
+	}
+	"***THE BURRITO SHITTER IS DEPARTING***"
+	{
+		"trans"		"[{darkred}Map{default}]  船正在离港"
+	}
+	"***NEXT STOP - ILLEGALITY***"
+	{
+		"trans"		"[{darkred}Map{default}]  下一站"
+	}
+	"***OPENING UPPER CHAPEL DOOR IN 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  门开于5秒后"
+	}
+	"***PUNISHING EDGERS WITH BURRITO LOVE***"
+	{
+		"trans"		"[{darkred}Map{default}]  船将击退前方靠近的僵尸[不要贴边,开火丢高爆/火击退进犯的僵尸]"
+	}
+	"***OPENING UPPER CHAPEL DOOR***"
+	{
+		"trans"		"[{darkred}Map{default}]  门正在开启"
+	}
+	"***SEXY REINDEER IS OPENING IN 15 SECONDS***"
+	{
+		"countdown"		"15"
+		"trans"		"[{darkred}Map{default}]  门开于15秒后"
+	}
+	"***MAGIC ZOMBIE PUSH IS DISABLED***"
+	{
+		"trans"		"[{darkred}Map{default}]  僵尸空气墙已被解除"
+	}
+	"***ZOMBIES CAN NOW GET YOU FROM THE SIDES***"
+	{
+		"trans"		"[{darkred}Map{default}]  僵尸路已打开"
+	}
+	"***SEXY REINDEER IS OPENING IN 5 SECONDS***"
+	{
+		"countdown"		"5"
+		"trans"		"[{darkred}Map{default}]  驯鹿启动于5秒后"
+	}
+	"***SEXY REINDEER IS SPREADING***"
+	{
+		"trans"		"[{darkred}Map{default}]  驯鹿正在四散"
+	}
+	"***BRIDGE EXIT GATE IS OPENING IN 15 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]   大桥出口15秒后启动"
+	}
+	"***FACTORY DOOR OPENS IN 10 SECONDS***"
+	{
+		"command"		"sm_xzbd"
+		"trans"		"[{darkred}Map{default}]  厂门开启于10秒后"
+	}
+	"***BRIDGE EXIT GATE IS OPENING IN 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  大桥出口5秒后启动"
+	}
+	"***FACTORY DOOR OPENS IN 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  厂门开启于5秒后"
+	}
+	"***BRIDGE EXIT GATE IS OPENING***"
+	{
+		"trans"		"[{darkred}Map{default}]  大桥出口正在启动"
+	}
+	"***FACTORY DOOR OPENS IN 4 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  厂门开启于4秒后"
+	}
+	"***FACTORY DOOR OPENS IN 3 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  厂门开启于3秒后"
+	}
+	"***FACTORY DOOR OPENS IN 2 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  厂门开启于2秒后"
+	}
+	"***FACTORY DOOR OPENS IN 1 SECOND***"
+	{
+		"trans"		"[{darkred}Map{default}]  厂门开启于1秒后"
+	}
+	"***HEAD TOWARD SANTAS LAIR***"
+	{
+		"trans"		"[{darkred}Map{default}]  杀入BOSS的藏身处"
+	}
+	"***YOUR FEET BECOME NIMBLE THROUGH DETERMINATION***"
+	{
+		"trans"		"[{darkred}Map{default}]  移动速度将暂时加快"
+	}
+	"***GET INSIDE SANTAS LAIR***"
+	{
+		"trans"		"[{darkred}Map{default}]  进入BOSS的藏身处"
+	}
+	"***SANTA'S LAIR GATE IS CLOSING IN 10 SECONDS***"
+	{
+		"countdown"		"10"
+		"trans"		"[{darkred}Map{default}]  BOSS藏身处的大门10秒后打开"
+	}
+	"***SANTA'S LAIR GATE IS CLOSING***"
+	{
+		"trans"		"[{darkred}Map{default}]  BOSS藏身处大门正在关闭"
+	}
+	"***ACT 2 COMPLETE***"
+	{
+		"trans"		"[{darkred}Map{default}]  第二章已完成"
+	}
+	"***LOWER ELEVATOR IS LEAVING IN 20 SECONDS***"
+	{
+		"countdown"		"20"
+		"trans"		"[{darkred}Map{default}]  下层电梯20秒后离开"
+	}
+	"***TRAM 1 IS LEAVING IN 20 SECONDS***"
+	{
+		"countdown"		"20"
+		"trans"		"[{darkred}Map{default}]  1号索道20秒后离开"
+	}
+	"***LOWER ELEVATOR IS LEAVING IN 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  下层电梯5秒后离开"
+	}
+	"***LOWER ELEVATOR IS LEAVING***"
+	{
+		"trans"		"[{darkred}Map{default}]  下层电梯正在上升"
+	}
+	"***TRAM 1 IS LEAVING***"
+	{
+		"trans"		"[{darkred}Map{default}]  1号索道正在离开"
+	}
+	"***TRAM 2 IS LEAVING IN 10 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  2号索道10秒后离开"
+	}
+	"***TRAM 2 IS LEAVING***"
+	{
+		"trans"		"[{darkred}Map{default}]  2号索道正在离开"
+	}
+	"***CENTER GATE IS OPENING IN 30 SECONDS***"
+	{
+		"countdown"		"30"
+		"trans"		"[{darkred}Map{default}]  中央大门打开于30秒后"
+	}
+	"***OUTER GATE IS OPENING IN 50 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  外门打开于50秒后"
+	}
+	"***SIMBA IS PRAYING FOR THE TRUTH***"
+	{
+		"blocked"		"1"
+	}
+	"***CENTER GATE IS OPENING IN 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  中央大门打开于5秒后"
+	}
+	"***ZAZU IS PRAYING FOR THE TRUTH***"
+	{
+		"blocked"		"1"
+	}
+	"***CENTER GATE IS OPENING***"
+	{
+		"trans"		"[{darkred}Map{default}]  中央大门正在打开"
+	}
+	"***LOWER GATE IS OPENING IN 35 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  下层大门打开于35秒后"
+	}
+	"***OUTER ELEVATOR IS LEAVING IN 40 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  外层电梯离开于40秒后"
+	}
+	"***OUTER GATE IS OPENING IN 10 SECONDS***"
+	{
+		"countdown"		"10"
+		"trans"		"[{darkred}Map{default}]  外层电梯离开于10秒后"
+	}
+	"***OUTER GATE IS OPENING***"
+	{
+		"trans"		"[{darkred}Map{default}]  外层电梯正已离开"
+	}
+	"***LOWER GATE IS OPENING IN 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  下层大门打开于5秒后"
+	}
+	"***ELEVATOR SHAFT GATE IS OPENING IN 30 SECONDS***"
+	{
+		"countdown"		"30"
+		"trans"		"[{darkred}Map{default}]  电梯轴心门启动于30秒后"
+	}
+	"***LOWER GATE IS OPENING***"
+	{
+		"trans"		"[{darkred}Map{default}]  下层大门正在打开"
+	}
+	"***OUTER ELEVATOR IS LEAVING IN 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  外层电梯离开于5秒后"
+	}
+	"***OUTER ELEVATOR IS LEAVING***"
+	{
+		"trans"		"[{darkred}Map{default}]  外层电梯正在离开"
+	}
+	"***ELEVATOR SHAFT GATE IS OPENING IN 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  电梯轴心门启动于5秒后"
+	}
+	"***ELEVATOR SHAFT GATE IS OPENING***"
+	{
+		"trans"		"[{darkred}Map{default}]  电梯轴心门正在启动"
+	}
+	"***OUTER WALL ENTRANCE IS OPENING IN 30 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  外层围墙入口打开于30秒后"
+	}
+	"***OUTER WALL ENTRANCE IS OPENING IN 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}] 外层围墙入口打开于5秒后"
+	}
+	"***OUTER WALL ENTRANCE IS OPENING***"
+	{
+		"trans"		"[{darkred}Map{default}]  外层围墙入口正在打开"
+	}
+	"***PLAYER PICKED UP ITEM - ROCKET CANNON***"
+	{
+		"trans"		"[{darkred}Map{default}]  有玩家拾起了火箭炮"
+	}
+	"***UPPER GATE IS OPENING IN 30 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  上层大门打开于30秒后"
+	}
+	"***OUTER GATE WILL OPEN IN 20 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  外层大门打开于20秒后"
+	}
+	"***LOWER GATE IS OPENING IN 30 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  下层大门打开于30秒后"
+	}
+	"***OUTER GATE WILL OPEN IN 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  外层大门打开于5秒后"
+	}
+	"***MOVE IT***"
+	{
+		"trans"		"[{darkred}Map{default}]  快动身"
+	}
+	"***SANTA'S DOOR IS OPENING IN 20 SECONDS***"
+	{
+		"countdown"		"20"
+		"trans"		"[{darkred}Map{default}]  BOSS门打开于20秒后"
+	}
+	"***UPPER GATE IS OPENING***"
+	{
+		"trans"		"[{darkred}Map{default}]  上层大门正在打开"
+	}
+	"***SANTA'S DOOR IS OPENING***"
+	{
+		"trans"		"[{darkred}Map{default}]  BOSS房大门正在打开"
+	}
+	"***SANTA'S DOOR IS CLOSING IN 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  BOSS房大门5秒后关闭"
+	}
+	"***SANTA'S DOOR IS CLOSING IN 4 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  BOSS房大门4秒后关闭"
+	}
+	"***SANTA'S DOOR IS CLOSING IN 3 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  BOSS房大门3秒后关闭"
+	}
+	"***SANTA'S DOOR IS CLOSING IN 2 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  BOSS房大门2秒后关闭"
+	}
+	"***SANTA'S DOOR IS CLOSING IN 1 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  BOSS房大门1秒后关闭"
+	}
+	"***SANTA'S DOOR IS CLOSING***"
+	{
+		"trans"		"[{darkred}Map{default}]  BOSS房已封闭"
+	}
+	"*** - SANTA - ***"
+	{
+		"trans"		"[{darkred}Map{default}]  BOSS来了"
+	}
+	"***YOU HAVE DEFEATED SANTA***"
+	{
+		"trans"		"[{darkred}Map{default}]  BOSS被我们干死了"
+	}
+	"***FOR NOW... IT SEEMS***"
+	{
+		"trans"		"[{darkred}Map{default}]  至少看上去被我们干死了"
+	}
+	"***UPPER TOWER DOOR IS OPENING IN 20 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  上层塔门开启于20秒后"
+	}
+	"***THE FINAL ELEVATOR IS LEAVING IN 50 SECONDS***"
+	{
+		"countdown"		"50"
+		"trans"		"[{darkred}Map{default}]  最终电梯离开于50秒后"
+	}
+	"***UPPER TOWER DOOR IS OPENING***"
+	{
+		"trans"		"[{darkred}Map{default}]  上层塔门正在打开"
+	}
+	"***MUFASA IS PRAYING FOR THE TRUTH***"
+	{
+		"trans"		"[{darkred}Map{default}]  老狮王的信标已触发"
+	}
+	"***THE TRUE PATH IS CLEAR NOW***"
+	{
+		"trans"		"[{darkred}Map{default}]  前方道路已肃清"
+	}
+	"***YOU SUDDENLY FEEL UNEASY ABOUT FACING SANTA...***"
+	{
+		"blocked"		"1"
+	}
+	"***YOU FEEL LIKE THE WORLD IS GOING TO BREAK APART SOON...***"
+	{
+		"blocked"		"1"
+	}
+	"***THE FINAL ELEVATOR IS LEAVING IN 20 SECONDS***"
+	{
+		"countdown"		"20"
+		"trans"		"[{darkred}Map{default}]  最终电梯离开于20秒后"
+	}
+	"***YOU DO NOT WANT TO DO THIS ANYMORE...***"
+	{
+		"blocked"		"1"
+	}
+	"***YOU WANT TO STOP...***"
+	{
+		"blocked"		"1"
+	}
+	"***THE FINAL ELEVATOR IS LEAVING IN 10 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  最终电梯离开于10秒后"
+	}
+	"***THE FINAL ELEVATOR IS LEAVING IN 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  最终电梯离开于5秒后"
+	}
+	"***THE FINAL ELEVATOR IS LEAVING***"
+	{
+		"trans"		"[{darkred}Map{default}]  最终电梯正在离开于"
+	}
+	"***FINAL GATE IS CLOSING IN 15 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  最终大门关闭于15秒后"
+	}
+	"***FINAL GATE IS CLOSING IN 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  最终大门关闭于5秒后"
+	}
+	"***FINAL GATE IS CLOSING***"
+	{
+		"trans"		"[{darkred}Map{default}]  最终大门正在关闭"
+	}
+	"*** - BIG SANTA - ***"
+	{
+		"trans"		"[{darkred}Map{default}]  淦你爸爸!这个BOSS还没死!"
+	}
+	"***YOU HAVE DEFEATED SANTA CLAUS***"
+	{
+		"command"		"sm_szw"
+		"trans"		"[{darkred}Map{default}]  这回BOSS算是死透了"
+	}
+	"***MUFASAS DEATH HAS BEEN AVENGED***"
+	{
+		"blocked"		"1"
+		"trans"		"[{darkred}Map{default}]  已触发MUFASAS"
+	}
+	"***PEACE WILL NOW SPREAD THROUGH THE LANDS***"
+	{
+		"blocked"		"1"
+		"trans"		"[{darkred}Map{default}]  已触发MUFASAS"
+	}
+	"***THANK YOU FOR PLAYING***"
+	{
+		"trans"		"[{darkred}Map{default}]  感谢游玩"
+	}
+	"***MAP MADE BY - LUFFAREN***"
+	{
+		"trans"		"[{darkred}Map{default}]  LUFFAREN倾情巨作"
+	}
+	"***THIS IS WRONG...***"
+	{
+		"trans"		"[{darkred}Map{default}]  不对头..."
+	}
+	"***THIS.. IS THE TRUTH***"
+	{
+		"trans"		"[{darkred}Map{default}]  我们的旅程还没有结束..."
+	}
+	"***SOCRATES IS JUDGING YOU***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***SOCRATES IS JUDGING YOU***"
+	}
+	"***SOCRATES HAS TO CLEANSE YOU***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***SOCRATES HAS TO CLEANSE YOU***"
+	}
+	"***SOCRATES IMAGINES***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***SOCRATES IMAGINES***"
+	}
+	"***SOCRATES DESPISES YOU***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***SOCRATES DESPISES YOU***"
+	}
+	"***SOCRATES PONDERS***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***SOCRATES PONDERS***"
+	}
+	"***SOCRATES CRIES***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***SOCRATES CRIES***"
+	}
+	"***SOCRATES ERECTS***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***SOCRATES ERECTS***"
+	}
+	"***SOCRATES IS BLOSSOMING***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***SOCRATES IS BLOSSOMING***"
+	}
+	"***THE TRUE TRAM IS LEAVING IN 30 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  索道30秒后离开"
+	}
+	"***THE TRUE TRAM IS LEAVING IN 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  索道5秒后离开"
+	}
+	"***THE TRUE TRAM IS LEAVING***"
+	{
+		"trans"		"[{darkred}Map{default}]  索道正在离开"
+	}
+	"***SPECIAL SOCRATES ZOMBIE TELEPORT IN 5***"
+	{
+		"trans"		"[{darkred}Map{default}]  僵尸5秒后传送"
+	}
+	"***4***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***4***"
+	}
+	"***3***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***3***"
+	}
+	"***2***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***2***"
+	}
+	"***UNO***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***UNO***"
+	}
+	"***THE MAPPER FELT THE NEED TO COMPENSATE FOR SOMETHING THAT HE LACKED***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***THE MAPPER FELT THE NEED TO COMPENSATE FOR SOMETHING THAT HE LACKED***"
+	}
+	"***DON'T TELL HIM I SAID THAT***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***DON'T TELL HIM I SAID THAT***"
+	}
+	"***THE TRUE ELEVATOR IS LEAVING IN 30 SECONDS***"
+	{
+		"countdown"		"30"
+		"trans"		"[{darkred}Map{default}]  电梯离开于30秒后"
+	}
+	"***THE TRUE ELEVATOR IS LEAVING IN 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  电梯离开于5秒后"
+	}
+	"***THE TRUE ELEVATOR IS LEAVING***"
+	{
+		"trans"		"[{darkred}Map{default}]  电梯已离开"
+	}
+	"***SOCRATES WISHES SILENTLY***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***SOCRATES WISHES SILENTLY***"
+	}
+	"***SOCRATES FEELS YOU***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***SOCRATES FEELS YOU***"
+	}
+	"***SOCRATES CRAVES***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***SOCRATES CRAVES***"
+	}
+	"***SOCRATES PLAYS NINTENDO 64***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***SOCRATES PLAYS NINTENDO 64***"
+	}
+	"***SOCRATES REGRETS YOUR DEEDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***SOCRATES REGRETS YOUR DEEDS***"
+	}
+	"***SOCRATES CARES FOR NO MAN***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***SOCRATES CARES FOR NO MAN***"
+	}
+	"***SOCRATES IS***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***SOCRATES IS***"
+	}
+	"***SOCRATES FEEDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***SOCRATES FEEDS***"
+	}
+	"***SOCRATES NEEDS BENDER***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***SOCRATES NEEDS BENDER***"
+	}
+	"***SOCRATES IS ALL***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***SOCRATES IS ALL***"
+	}
+	"***SOCRATES IS NOTHING***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***SOCRATES IS NOTHING***"
+	}
+	"***SOCRATES IS NOTHING AT ALL***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***SOCRATES IS NOTHING AT ALL***"
+	}
+	"***SOCRATES DOES NOT EXIST***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***SOCRATES DOES NOT EXIST***"
+	}
+	"***SOCRATES IS AWAKENED***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***SOCRATES IS AWAKENED***"
+	}
+	"***SOCRATES CANNOT KEEP***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***SOCRATES CANNOT KEEP***"
+	}
+	"***SOCRATES RUMBLES YOUR WILL***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***SOCRATES RUMBLES YOUR WILL***"
+	}
+	"***SOCRATES SELLS GASOLINE***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***SOCRATES SELLS GASOLINE***"
+	}
+	"***SOCRATES WILL ARRIVE***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***SOCRATES WILL ARRIVE***"
+	}
+	"***SOCRATES WILL CLEANSE***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***SOCRATES WILL CLEANSE***"
+	}
+	"***SOCRATES WILL DESTROY***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***SOCRATES WILL DESTROY***"
+	}
+	"***SOCRATES IS NEAR***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***SOCRATES IS NEAR***"
+	}
+	"***SOCRATES WELCOMES YOU***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***SOCRATES WELCOMES YOU***"
+	}
+	"***SOCRATES IS SANTA***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***SOCRATES IS SANTA***"
+	}
+	"***PLAYER PICKED UP ITEM - HERDER***"
+	{
+		"trans"		"[{darkred}Map{default}]  有玩家拾起了HERDER"
+	}
+	"*** - TRUE SANTA - ***"
+	{
+		"trans"		"[{darkred}Map{default}]  放你X的血!这才是BOSS的真身!"
+	}
+	"***SPEEDER ITEMS ACTIVATED***"
+	{
+		"trans"		"[{darkred}Map{default}]  加速物品已启动"
+	}
+	"***YOU HAVE DONE IT!***"
+	{
+		"trans"		"[{darkred}Map{default}]  你办成了!!"
+	}
+	"***YOU HAVE DEFEATED SOCRATES - THE TRUE SANTA!***"
+	{
+		"trans"		"[{darkred}Map{default}]  这回BOSS死透了!"
+	}
+	"***YOU WILL BE REMEMBERED AS CHAMPIONS***"
+	{
+		"command"		"sm_szw"
+		"trans"		"[{darkred}Map{default}]  你们搞定了这张智障地图!"
+	}
+	"***THE END***"
+	{
+		"trans"		"[{darkred}Map{default}]  剧·终"
+	}
+	"***THE ETERNAL TRUTH LOOMS***"
+	{
+		"trans"		"[{darkred}Map{default}]  LUFFAREN的脑洞剧场到此告一段落"
+	}
+	"^That was the stupidest thing i've ever heard as a map"
+	{
+		"trans"		"[{darkred}Map{default}]  ^That was the stupidest thing i've ever heard as a map"
+	}
+	"ALL HAIL LUFFAREN, THE GOD OF BEAVERS AND DREAMS!"
+	{
+		"trans"		"[{darkred}Map{default}]  ALL HAIL LUFFAREN, THE GOD OF BEAVERS AND DREAMS!"
+	}
+	"What"
+	{
+		"trans"		"[{darkred}Map{default}]  What"
+	}
+	"***SEWER BLASTDOOR WILL OPEN IN 40 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  下水道大门启动于40秒后"
+	}
+	"***SEWER BLASTDOOR IS OPENING***"
+	{
+		"trans"		"[{darkred}Map{default}]  下水道大门正在打开"
+	}
+	"***ZOMBIE DETECTED - YOU FAIL***"
+	{
+		"trans"		"[{darkred}Map{default}]  有僵尸闯进来了 - 僵尸胜利!"
+	}
+	"***SECRET SANTA CHAPEL DOOR IS OPENING IN 20 SECONDS*** "
+	{
+		"trans"		"[{darkred}Map{default}]  门开于20秒后"
+	}
+	"***SECRET SANTA CHAPEL DOOR IS OPENING*** "
+	{
+		"trans"		"[{darkred}Map{default}]  门正在打开"
+	}
+	"***RIGHT RIGHT SECOND FACE WALL OPENS IN 20 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  右方大门开启于20秒后"
+	}
+	"***RIGHT RIGHT SECOND FACE WALL HAS EXPLODED***"
+	{
+		"trans"		"[{darkred}Map{default}]  右方墙壁已爆破"
+	}
+	"***THE GATEFACE IS PLEASED WITH YOUR CHOCOLATE SERVICE***"
+	{
+		"trans"		"[{darkred}Map{default}]  你们喂饱了这个智障"
+	}
+	"***YOU MAY NOW ENTER***"
+	{
+		"trans"		"[{darkred}Map{default}]  现在可以进去了"
+	}
+	"***HEAD TOWARDS SANTA'S FACTORY***"
+	{
+		"trans"		"[{darkred}Map{default}]  杀向BOSS的工厂"
+	}
+	"***BE PREPARED FOR ANYTHING***"
+	{
+		"trans"		"[{darkred}Map{default}]  小心从天而降的猴子..."
+	}
+	"***HITLERS TEETH ARE NOW BROKEN***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***HITLERS TEETH ARE NOW BROKEN***"
+	}
+	"***DEMOCRACY HEREBY WINS THE SUPERBOWL***"
+	{
+		"trans"		"[{darkred}Map{default}]  ***DEMOCRACY HEREBY WINS THE SUPERBOWL***"
+	}
+	"Everyone should really consider sending Luffaren some nudes"
+	{
+		"trans"		"[{darkred}Map{default}]  Everyone should really consider sending Luffaren some nudes"
+	}
+	"***BLACK HOLE***"
+	{
+		"trans"		"[{darkred}Map{default}]  黑洞已触发"
+	}
+	"***BLACK HOLE AND NAZI NIPPLE HAS BEEN ACTIVATED***"
+	{
+		"trans"		"[{darkred}Map{default}]  黑洞与元首尖头已触发"
+	}
+	"***GLASS WILL BREAK IN 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  玻璃破裂于5秒后"
+	}
+	"***LEFT LEFT SECOND FACE WALL OPENS IN 30 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  左侧墙30秒后开启"
+	}
+	"***LEFT LEFT SECOND FACE WALL HAS EXPLODED***"
+	{
+		"trans"		"[{darkred}Map{default}]  左侧墙已爆破"
+	}
+	"***PLAYER PICKED UP ITEM - BEAM CANNON***"
+	{
+		"trans"		"[{darkred}Map{default}]  有玩家拾起了光点枪"
+	}
+	"EVERYONE GO HERE AND TELL KAEMON TO STOP SLACKING - http:"
+	{
+		"trans"		"[{darkred}Map{default}]  EVERYONE GO HERE AND TELL KAEMON TO STOP SLACKING - http:"
+	}
+	"***LUFFAREN HAS ENTERED THE GAME***"
+	{
+		"trans"		"[{darkred}Map{default}]  本图作者Luffaren进入了服务器"
+	}
+	"***OPENING DOORS IN 10 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  门打开于10秒后"
+	}
+	"***OPENING DOORS IN 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  门打开于5秒后"
+	}
+	"***OPENING DOORS***"
+	{
+		"trans"		"[{darkred}Map{default}]  门正在打开"
+	}
+	"***FIND THE BABY - PRESS THE BUTTON IN ORDER TO OPEN THE SEXY VENT GATE***"
+	{
+		"trans"		"[{darkred}Map{default}]  找到正确的按钮来打开大门"
+	}
+	"***THE BABYLON BABY BUTTON HAS BEEN TOUCHED***"
+	{
+		"trans"		"[{darkred}Map{default}]  按钮已触发"
+	}
+	"***THE BABYLON BABY IS PLEASED WITH YOUR ASSISTANCE***"
+	{
+		"blocked"		"1"
+	}
+	"SEND ALL YOUR NUDES TO LUFFAREN!!!"
+	{
+		"trans"		"[{darkred}Map{default}]  SEND ALL YOUR NUDES TO LUFFAREN!!!"
+	}
+	"^Wtf are you even talking about?"
+	{
+		"trans"		"[{darkred}Map{default}]  你TM在说什么?"
+	}
+	"..."
+	{
+		"trans"		"[{darkred}Map{default}] ..."
+	}
+	"***SEXY VENT GATE IS OPENING IN 20 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  R18坡道门开启于20秒后"
+	}
+	"***SEXY VENT GATE IS OPENING IN 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  R18坡道门开启于5秒后"
+	}
+	"***SEXY VENT GATE IS OPENING***"
+	{
+		"trans"		"[{darkred}Map{default}]  R18坡道门正在开启"
+	}
+	"***OPENING BASE SOCRATES ELEVATOR GATE***"
+	{
+		"trans"		"[{darkred}Map{default}]  电梯门正在打开"
+	}
+	"***TIP - YOU CAN BREAK THE RUSTY METAL***"
+	{
+		"trans"		"[{darkred}Map{default}]  提示:可以开枪打碎侧边的铁板"
+	}
+	"***FIND THE BUTTONS***"
+	{
+		"trans"		"[{darkred}Map{default}]  找到按钮"
+	}
+	"***INNER UPPER GATE IS OPENING IN 40 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  内部上层大门开启于40秒后"
+	}
+	"***INNER UPPER GATE IS OPENING IN 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  内部上层大门开启于5秒后"
+	}
+	"***INNER UPPER GATE IS OPENING***"
+	{
+		"trans"		"[{darkred}Map{default}]  内部上层大门已开启"
+	}
+	"***MAP RESET - GOING BACK TO PROLOUGE***"
+	{
+		"trans"		"[{darkred}Map{default}]  由于你未触发完全信标按钮,地图已重置为序章关卡..."
+	}
+	"***IT FEELS LIKE YOU MISSED SOMETHING***"
+	{
+		"trans"		"[{darkred}Map{default}]  回头再玩一遍!触发所有该触发的东西!!"
+	}
+	"***IS THIS THE REAL ENDING?***"
+	{
+		"trans"		"[{darkred}Map{default}]  然而这是一个假结局"
+	}
+	"***WHAT...***"
+	{
+		"trans"		"[{darkred}Map{default}]  什么鬼...."
+	}
+	"***STAGE SET - ACT III***"
+	{
+		"trans"		"[{darkred}Map{default}]  权限X已调关至:第三章"
+	}
+	"***THE ULTIMATE MURDER BUTTON HAS BEEN PRESSED***"
+	{
+		"trans"		"[{darkred}Map{default}]  按钮已触发"
+	}
+	"***MERRY XMAS***"
+	{
+		"trans"		"[{darkred}Map{default}] ***MERRY XMAS***"
+	}
+	"***...AND HAPPY SIMBA DAY***"
+	{
+		"trans"		"[{darkred}Map{default}] ***...AND HAPPY SIMBA DAY***"
+	}
+	"***NOTHING IS NOT REAL***"
+	{
+		"trans"		"[{darkred}Map{default}]  唯物主义即真理"
+	}
+	"Hey there everyone, you should totally send Luffaren some hot nudes ASAP!"
+	{
+		"trans"		"[{darkred}Map{default}] Hey there everyone, you should totally send Luffaren some hot nudes ASAP!"
+	}
+	"Type 1 if you are jerking it right now"
+	{
+		"trans"		"[{darkred}Map{default}] Type 1 if you are jerking it right now"
+	}
+	"***LUFFAREN HAS ENTERED THE ADMIN ROOM***"
+	{
+		"trans"		"[{darkred}Map{default}]  有人进入了跳关房"
+	}
+	"U WOT M8"
+	{
+		"trans"		"[{darkred}Map{default}] U WOT M8"
+	}
+	"***YOU HAVE DEFILED MUFASAS CORPSE***"
+	{
+		"trans"		"[{darkred}Map{default}] ***YOU HAVE DEFILED MUFASAS CORPSE***"
+	}
+	"***SKIPPING CUTSCENE***"
+	{
+		"trans"		"[{darkred}Map{default}] 跳过删减内容"
+	}
+	"***YOU SICK BASTARDS...***"
+	{
+		"trans"		"[{darkred}Map{default}] ***YOU SICK BASTARDS...***"
+	}
+	"***ZOMBIES GOT INSIDE - YOU LOSE***"
+	{
+		"trans"		"[{darkred}Map{default}]  有僵尸闯进了终点 - 你们输了!"
+	}
+	"***STAGE SET - ACT II***"
+	{
+		"trans"		"[{darkred}Map{default}]  权限X已调关至:第二章"
+	}
+	"***IT HAS COME TO THE MAPMAKERS ATTENTION THAT YOU DON'T ENJOY HIS FRESH MIXTAPE...***"
+	{
+		"trans"		"[{darkred}Map{default}] ***IT HAS COME TO THE MAPMAKERS ATTENTION THAT YOU DON'T ENJOY HIS FRESH MIXTAPE...***"
+	}
+	"***THE MAPMAKER THINKS THAT YOU MAY NEED SOME PUNISHMENT FOR SUCH INSOLENCE***"
+	{
+		"trans"		"[{darkred}Map{default}] ***THE MAPMAKER THINKS THAT YOU MAY NEED SOME PUNISHMENT FOR SUCH INSOLENCE***"
+	}
+	"***BE PREPARED FOR SOMETHING SPECIAL...***"
+	{
+		"trans"		"[{darkred}Map{default}] ***BE PREPARED FOR SOMETHING SPECIAL...***"
+	}
+	"***...SOMETHING VERY SPECIAL...***"
+	{
+		"trans"		"[{darkred}Map{default}] ***...SOMETHING VERY SPECIAL...***"
+	}
+	"***THE CURSE OF ETERNAL TRUTH HAS BEEN LIFTED***"
+	{
+		"trans"		"[{darkred}Map{default}] ***THE CURSE OF ETERNAL TRUTH HAS BEEN LIFTED***"
+	}
+	"***YOU ARE THE ETERNAL LEGENDS***"
+	{
+		"trans"		"[{darkred}Map{default}] ***YOU ARE THE ETERNAL LEGENDS***"
+	}
+	"***STAGE SET - ACT I***"
+	{
+		"trans"		"[{darkred}Map{default}]  权限X已调关至:第一章"
+	}
+	"YOU AND EVERYONE YOU KNOW WILL DIE ONE DAY"
+	{
+		"trans"		"[{darkred}Map{default}] YOU AND EVERYONE YOU KNOW WILL DIE ONE DAY"
+	}
+	"HEY GUYS!"
+	{
+		"trans"		"[{darkred}Map{default}] HEY GUYS!"
+	}
+	"HEY EVERYONE! Kaemon is a wet biscuit!!!"
+	{
+		"trans"		"[{darkred}Map{default}] HEY EVERYONE! Kaemon is a wet biscuit!!!"
+	}
+	"***WANNA SKIP TO EXTREME MODE? > STEP ON THE PLATFORM***"
+	{
+		"trans"		"[{darkred}Map{default}] ***WANNA SKIP TO EXTREME MODE? > STEP ON THE PLATFORM***"
+	}
+	"***90% OF THE HUMANS NEED TO VOTE IN ORDER FOR IT TO PASS***"
+	{
+		"trans"		"[{darkred}Map{default}] ***90% OF THE HUMANS NEED TO VOTE IN ORDER FOR IT TO PASS***"
+	}
+	"***TRUMP IS PROUD OF YOU***"
+	{
+		"trans"		"[{darkred}Map{default}] ***TRUMP IS PROUD OF YOU***"
+	}
+	"***THE VOTE HAS SPOKEN***"
+	{
+		"trans"		"[{darkred}Map{default}] ***THE VOTE HAS SPOKEN***"
+	}
+	"***ENABLING EXTREME MODE***"
+	{
+		"trans"		"[{darkred}Map{default}] ***ENABLING EXTREME MODE***"
+	}
+	"***RESTARTING ROUND***"
+	{
+		"trans"		"[{darkred}Map{default}] ***RESTARTING ROUND***"
+	}
+	"***HAIL TRUMP***"
+	{
+		"trans"		"[{darkred}Map{default}] ***HAIL TRUMP***"
+	}
+}

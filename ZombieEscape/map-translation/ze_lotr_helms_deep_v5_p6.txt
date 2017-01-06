@@ -1,0 +1,137 @@
+"Chat"
+{
+	"** MAP BY HANNIBAL [SPA] (Rafuron) **"
+	{
+		"blocked"		"1"
+	}
+	"** Teleporting AFK to the cage in 30s **"
+	{
+		"trans"		"[{darkred}Map{default}]  30秒后传送挂机者"
+	}
+	"**Door will close in 30 s  ** Get safe into Helms Deep!**"
+	{
+		"countdown"		"30"
+		"trans"		"[{darkred}Map{default}]  城门30秒后关闭"
+	}
+	"** The door is closing in 10s **"
+	{
+		"trans"		"[{darkred}Map{default}]  城门10秒后关闭"
+	}
+	"**Show them no mercy...**"
+	{
+		"blocked"		"1"
+	}
+	"** for you shall receive none!**"
+	{
+		"blocked"		"1"
+	}
+	"**Objective: people at wall MUST defend the wall**"
+	{
+		"trans"		"[{darkred}Map{default}]  城墙上的人守住城墙"
+	}
+	"**Objective: people at gate MUST defend the gate**"
+	{
+		"trans"		"[{darkred}Map{default}]  城门上的人守住城门"
+	}
+	"**Note: if you defend at defensive points you will earn 1 point every 10 seconds (near GATE and TOP of WALL)**"
+	{
+		"blocked"		"1"
+	}
+	"**Note for ZOMBIES: if you set a ladder you will earn 1 point ** Same if you attack the gate**"
+	{
+		"blocked"		"1"
+	}
+	"**You must not retrieve ** The retrieve will be announced **"
+	{
+		"trans"		"[{darkred}Map{default}]  不要轻易撤退!"
+	}
+	"**Door is under attack!**"
+	{
+		"trans"		"[{darkred}Map{default}]  城门正遭受攻击!"
+	}
+	"** Ladders! **"
+	{
+		"trans"		"[{darkred}Map{default}]  把梯子打下来!"
+	}
+	"** Kill him! Stop the torch bearer!**"
+	{
+		"trans"		"[{darkred}Map{default}]  有僵尸拿起了火炬!干掉他!"
+	}
+	"**The wall has been destroyed! Fall back! Get in the fortress!**"
+	{
+		"trans"		"[{darkred}Map{default}]  城墙被攻破了!快撤进来!"
+	}
+	"**Huge ladder is being setting!**"
+	{
+		"trans"		"[{darkred}Map{default}]  僵尸架起了云梯!"
+	}
+	"** Wall zone is out of control ** retreat NOW!**"
+	{
+		"trans"		"[{darkred}Map{default}]  敌人已经越过了城墙,快撤退!"
+	}
+	"**A zombie has passed the GATE! Kill him or think about start a retreat!**"
+	{
+		"trans"		"[{darkred}Map{default}]  有僵尸冲进了城门!干掉他或者准备撤退!"
+	}
+	"**The battering ram is breaking the door!**"
+	{
+		"trans"		"[{darkred}Map{default}]  攻城车正在破坏城门!"
+	}
+	"**The door is now open Get in the fort now!**"
+	{
+		"trans"		"[{darkred}Map{default}]  门开了!撤进里面守!"
+	}
+	"** They have broken through! The castle is breached! Retreat! Get them inside! Into the Keep!** "
+	{
+		"trans"		"[{darkred}Map{default}]  敌人冲进来了!撤进殿堂里守!撤退! "
+	}
+	"** Defend at fort! Hall door will open in 40s!**"
+	{
+		"countdown"		"40"
+		"trans"		"[{darkred}Map{default}]  殿堂大门开启于40秒后"
+	}
+	"** Get safe in the fort! **"
+	{
+		"blocked"		"1"
+	}
+	"** Gate zone is out of control ** retreat NOW!**"
+	{
+		"trans"		"[{darkred}Map{default}] 敌人已经越过了城门,快撤退!"
+	}
+	"**Hurry! get in the hall!**"
+	{
+		"blocked"		"1"
+	}
+	"**A zombie has passed the WALL! Kill him or think about start a retreat!**"
+	{
+		"trans"		"[{darkred}Map{default}]  有僵尸越过了城墙!干掉他或者准备撤退!"
+	}
+	"**Main door cannot hold the battering ram! RETREAT NOW!**"
+	{
+		"trans"		"[{darkred}Map{default}] 城门顶不住了!快撤!"
+	}
+	"**Resist 30s!**"
+	{
+		"trans"		"[{darkred}Map{default}] 坚守30秒"
+	}
+	"**Kill the remaining zombies of the room!**"
+	{
+		"trans"		"[{darkred}Map{default}] 把里面的僵尸全干掉!"
+	}
+	"**Sun is rising.**"
+	{
+		"trans"		"[{darkred}Map{default}] 日出将至.."
+	}
+	"**Charge! Follow the shiny path! Do not separate! "
+	{
+		"trans"		"[{darkred}Map{default}]  跟着地上的圣光杀出重围!不要丢任何东西不要乱跑! "
+	}
+	"**Fall back! Get in the fortress! Follow the shiny path**"
+	{
+		"blocked"		"1"
+	}
+	"**Horn activated ** Charge with unlimited ammo **"
+	{
+		"trans"		"[{darkred}Map{default}] **Horn activated ** Charge with unlimited ammo **"
+	}
+}

@@ -1,0 +1,47 @@
+"Chat"
+{
+	"*** Map by : Airvulpes ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Map by : Airvulpes ***"
+	}
+	"*** Difficulty : Disuse ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Difficulty : Disuse ***"
+	}
+	"*** Door Opens in 15 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Door Opens in 15 seconds ***"
+	}
+	"*** Door Opens in 5 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Door Opens in 5 seconds ***"
+	}
+	"*** Door opens in 25 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Door Opens in 25 seconds ***"
+	}
+	"*** Door Opens in 30 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Door Opens in 30 seconds ***"
+	}
+	"*** Door Opens in 10 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Door Opens in 10 seconds ***"
+	}
+	"*** STAGE COMPLETED ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** STAGE COMPLETED ***"
+	}
+	"*** Difficulty : Inspection ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Difficulty : Inspection ***"
+	}
+	"!!! KILL ALL ZOMBIES !!!"
+	{
+		"trans"		"[{darkred}Map{default}] !!! KILL ALL ZOMBIES !!!"
+	}
+	"*** Door Opens in 20 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Door Opens in 20 seconds ***"
+	}
+}

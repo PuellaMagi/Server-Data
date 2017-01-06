@@ -1,0 +1,31 @@
+"Chat"
+{
+	"***Nuke launched***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Nuke launched***"
+	}
+	"***10***"
+	{
+		"trans"		"[{darkred}Map{default}] ***10***"
+	}
+	"***5***"
+	{
+		"trans"		"[{darkred}Map{default}] ***5***"
+	}
+	"***3***"
+	{
+		"trans"		"[{darkred}Map{default}] ***3***"
+	}
+	"***1***"
+	{
+		"trans"		"[{darkred}Map{default}] ***1***"
+	}
+	"***Nuke impact***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Nuke impact***"
+	}
+	">>CS:GO Fix by [ESCAPE] Loving You<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>CS:GO Fix by [ESCAPE] Loving You<<"
+	}
+}

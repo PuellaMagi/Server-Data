@@ -1,0 +1,175 @@
+"Chat"
+{
+	"--Welcome to the Aperture Science Center--"
+	{
+		"trans"		"[{darkred}Map{default}] 欢迎来到光圈科技中心"
+	}
+	"--Map made by Eugenio **Motanum** Roman--"
+	{
+		"blocked"		"1"
+	}
+	"--Sponsored by ]HeLL[ Clan--"
+	{
+		"blocked"		"1"
+	}
+	"**Hint: Crouch to go over the glass**"
+	{
+		"trans"		"[{darkred}Map{default}]  提示:蹲下走过玻璃"
+	}
+	"--Are you sure you want to kill the Weighted Companion Cube?--"
+	{
+		"blocked"		"1"
+	}
+	"--Survive 30 seconds!--"
+	{
+		"trans"		"[{darkred}Map{default}] 坚守30秒"
+	}
+	"--That was a quick answer! Patience is a virtue--"
+	{
+		"blocked"		"1"
+	}
+	"--What is the rush? Did the Companion Cube said something bad?--"
+	{
+		"blocked"		"1"
+	}
+	"--We are trying to escape from zombies! And we adore the companion cube--"
+	{
+		"blocked"		"1"
+	}
+	"--You love an inanimate object! How silly!--"
+	{
+		"blocked"		"1"
+	}
+	"--But for the last time are you extremely sure you want this?--"
+	{
+		"blocked"		"1"
+	}
+	"--If thats what you REALLY want--"
+	{
+		"blocked"		"1"
+	}
+	"--5--"
+	{
+		"trans"		"[{darkred}Map{default}]  5"
+	}
+	"--4--"
+	{
+		"trans"		"[{darkred}Map{default}]  4"
+	}
+	"--3--"
+	{
+		"trans"		"[{darkred}Map{default}]  3"
+	}
+	"--2--"
+	{
+		"trans"		"[{darkred}Map{default}]  2"
+	}
+	"--1--"
+	{
+		"trans"		"[{darkred}Map{default}]  1"
+	}
+	"--Doors are open you horrible people--"
+	{
+		"trans"		"[{darkred}Map{default}]  门已经开启"
+	}
+	"--Doors clossing in 5--"
+	{
+		"trans"		"[{darkred}Map{default}]  门关闭于5秒后"
+	}
+	"--Doors closed--"
+	{
+		"trans"		"[{darkred}Map{default}]  门已关闭"
+	}
+	"--Doors will reopen in 15 seconds--"
+	{
+		"trans"		"[{darkred}Map{default}]  门重新开启于15秒后"
+	}
+	"--**HINT: Crouch to clear the orange sphere!**--"
+	{
+		"trans"		"[{darkred}Map{default}]  提示:蹲下以清除橙色球!"
+	}
+	"--Congratulations--"
+	{
+		"trans"		"[{darkred}Map{default}]  恭喜"
+	}
+	"--Cake will follow up shortly--"
+	{
+		"trans"		"[{darkred}Map{default}]  蛋糕即将跟随"
+	}
+	"--Office doors open in 20 seconds--"
+	{
+		"trans"		"[{darkred}Map{default}]  办公室门开启于20秒后"
+	}
+	"--Hold this position from any zombies--"
+	{
+		"trans"		"[{darkred}Map{default}]  不要放任何僵尸进来"
+	}
+	"--Office doors close in 5--"
+	{
+		"trans"		"[{darkred}Map{default}]  办公室门关闭于5秒后"
+	}
+	"--Office doors will reopen in 20 seconds--"
+	{
+		"trans"		"[{darkred}Map{default}]  办公室门重新开启于20秒后"
+	}
+	"--Office doors are now closed--"
+	{
+		"trans"		"[{darkred}Map{default}]  办公室门已关闭"
+	}
+	"--Office doors are now Open--"
+	{
+		"trans"		"[{darkred}Map{default}]  办公室门已开启"
+	}
+	"--Cutting the cake in 5--"
+	{
+		"trans"		"[{darkred}Map{default}]  蛋糕切开于5秒后"
+	}
+	"--Cake is being Cut! You are too late--"
+	{
+		"trans"		"[{darkred}Map{default}] 见鬼,蛋糕已经被切开了!"
+	}
+	"--Fighting GLaDOS--"
+	{
+		"trans"		"[{darkred}Map{default}]  干死GLaDOS"
+	}
+	"--Protect yourself from the zombies for 60 seconds!--"
+	{
+		"trans"		"[{darkred}Map{default}]  坚守60秒"
+	}
+	"--Zombie teleport in 25 secs!--"
+	{
+		"trans"		"[{darkred}Map{default}]  僵尸传送于25秒后"
+	}
+	"--GLaDOS is exploding! Take cover!--"
+	{
+		"trans"		"[{darkred}Map{default}]  GLaDOS正在爆炸!找掩体!"
+	}
+	"--Lift doors open in 10 seconds!--"
+	{
+		"trans"		"[{darkred}Map{default}]  电梯门开启于10秒后"
+	}
+	"--Escape lift doors closing in 10 seconds--"
+	{
+		"trans"		"[{darkred}Map{default}]  电梯门关闭于10秒后"
+	}
+	"--Lift has now left Aperture Science--"
+	{
+		"trans"		"[{darkred}Map{default}]  电梯已离开实验室"
+	}
+	"--We hope you have enjoyed your stay at Aperture Science!--"
+	{
+		"blocked"		"1"
+	}
+	"--Thanks for Playing!--"
+	{
+		"trans"		"[{darkred}Map{default}]  感谢游玩"
+	}
+	"--YES____      NO_____--"
+	{
+		"trans"		"[{darkred}Map{default}] --YES____      NO_____--"
+	}
+	"--YES _X_--"
+	{
+		"trans"		"[{darkred}Map{default}] --YES _X_--"
+	}
+}

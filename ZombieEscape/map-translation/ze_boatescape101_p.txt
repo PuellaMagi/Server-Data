@@ -1,0 +1,51 @@
+"Chat"
+{
+	"***MAP BY thegregster101***"
+	{
+		"trans"		"[{darkred}Map{default}] ***MAP BY thegregster101***"
+	}
+	"***TRAM LEAVES 10 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}] ***TRAM LEAVES 10 SECONDS***"
+	}
+	"***AFK TELEPORTING 20 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}] ***AFK TELEPORTING 20 SECONDS***"
+	}
+	"***AFK TELEPORTING 10 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}] ***AFK TELEPORTING 10 SECONDS***"
+	}
+	"*** AFK & HUNTERS HAVE BEEN TELEPORTED***"
+	{
+		"trans"		"[{darkred}Map{default}] *** AFK & HUNTERS HAVE BEEN TELEPORTED***"
+	}
+	"***USE RADIO TO CALL FOR HELP!***"
+	{
+		"trans"		"[{darkred}Map{default}] ***USE RADIO TO CALL FOR HELP!***"
+	}
+	"***RESCUE BOAT & HELI INBOUND 60 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}] ***RESCUE BOAT & HELI INBOUND 60 SECONDS***"
+	}
+	"***BOAT LEAVING 15 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}] ***BOAT LEAVING 15 SECONDS***"
+	}
+	"***HELI LEAVING 20 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}] ***HELI LEAVING 20 SECONDS***"
+	}
+	"***HELI LEAVING 10 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}] ***HELI LEAVING 10 SECONDS***"
+	}
+	"***NUKE IN 10 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}] ***NUKE IN 10 SECONDS***"
+	}
+	"***NUKE IN 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}] ***NUKE IN 5 SECONDS***"
+	}
+}

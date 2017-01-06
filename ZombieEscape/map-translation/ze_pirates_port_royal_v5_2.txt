@@ -1,0 +1,375 @@
+"Chat"
+{
+	"Map made by Puklica"
+	{
+		"trans"		"[{darkred}Map{default}] Map made by Puklica"
+	}
+	">>> |LEVEL 1| <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> |LEVEL 1| <<<"
+	}
+	">>> GATE OPENS IN 20 SEC <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> GATE OPENS IN 20 SEC <<<"
+	}
+	">>> GATE IS OPENING <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> GATE IS OPENING <<<"
+	}
+	">>> GATE CLOSES IN 5 SEC <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> GATE CLOSES IN 5 SEC <<<"
+	}
+	">>> GATE IS CLOSING <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> GATE IS CLOSING <<<"
+	}
+	">>> DEFEND THE VILLAGE FOR 40 SEC! <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> DEFEND THE VILLAGE FOR 40 SEC! <<<"
+	}
+	"*** WALL picked up ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** WALL picked up ***"
+	}
+	"*** BUBBLES picked up ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** BUBBLES picked up ***"
+	}
+	">>> 10 SECONDS REMAINING <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> 10 SECONDS REMAINING <<<"
+	}
+	">>> RUN! <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> RUN! <<<"
+	}
+	"*** BARREL picked up ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** BARREL picked up ***"
+	}
+	"*** SWORD picked up ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SWORD picked up ***"
+	}
+	">>> DOOR CLOSES IN 25 SEC <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> DOOR CLOSES IN 25 SEC <<<"
+	}
+	">>> DOOR CLOSES IN 5 SEC <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> DOOR CLOSES IN 5 SEC <<<"
+	}
+	">>> HORSES LEAVING IN 10 SEC <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> HORSES LEAVING IN 10 SEC <<<"
+	}
+	"***ACTIVATE ALL CANNONS***"
+	{
+		"trans"		"[{darkred}Map{default}] ***ACTIVATE ALL CANNONS***"
+	}
+	">>> GATE CLOSES IN 18 SEC <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> GATE CLOSES IN 18 SEC <<<"
+	}
+	">>> ALL CANNONS ACTIVATED <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> ALL CANNONS ACTIVATED <<<"
+	}
+	">>> WAIT FOR THE SHOT FROM BLACK PEARL <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> WAIT FOR THE SHOT FROM BLACK PEARL <<<"
+	}
+	">>> GATE IS CLOSING! <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> GATE IS CLOSING! <<<"
+	}
+	">>> RUN TO THE PRISON! <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> RUN TO THE PRISON! <<<"
+	}
+	">>> DEFEND THE PRISON!! <<< *** RESCUE CAPTAIN JACK SPARROW ***"
+	{
+		"trans"		"[{darkred}Map{default}] >>> DEFEND THE PRISON!! <<< *** RESCUE CAPTAIN JACK SPARROW ***"
+	}
+	">>> RUN TO THE BLACK PEARL <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> RUN TO THE BLACK PEARL <<<"
+	}
+	">>> DEFEND THE BLACK PEARL 45 SECONDS! <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> DEFEND THE BLACK PEARL 45 SECONDS! <<<"
+	}
+	">>> LAST 10 SECONDS REMAINING <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> LAST 10 SECONDS REMAINING <<<"
+	}
+	"*** YOU HAVE BEATEN LEVEL 1. CHALLENGE CONTINUES ON LEVEL 2 ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** YOU HAVE BEATEN LEVEL 1. CHALLENGE CONTINUES ON LEVEL 2 ***"
+	}
+	">>> |LEVEL 2| <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> |LEVEL 2| <<<"
+	}
+	">>> DOOR CLOSES IN 20 SEC <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> DOOR CLOSES IN 20 SEC <<<"
+	}
+	">>> DOOR CLOSES IN 10 SEC <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> DOOR CLOSES IN 10 SEC <<<"
+	}
+	">>> GATE IS CLOSING IN 25 SEC <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> GATE IS CLOSING IN 25 SEC <<<"
+	}
+	">>> GATE IS CLOSING IN 5 SEC <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> GATE IS CLOSING IN 5 SEC <<<"
+	}
+	"(CT) >>>--SHOOT CANNON--<<<"
+	{
+		"trans"		"[{darkred}Map{default}] (CT) >>>--SHOOT CANNON--<<<"
+	}
+	"(ZOMBIES) >>>--STAND NEXT TO THE CANNON TO PUSH IT--<<<"
+	{
+		"trans"		"[{darkred}Map{default}] (ZOMBIES) >>>--STAND NEXT TO THE CANNON TO PUSH IT--<<<"
+	}
+	">>> CANNON HAS BEEN DESTROYED <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> CANNON HAS BEEN DESTROYED <<<"
+	}
+	">>> RUN TO THE ISLAND <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> RUN TO THE ISLAND <<<"
+	}
+	">>> ENTRANCE TO THE SHELTER IS OPENING IN 30 SEC <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> ENTRANCE TO THE SHELTER IS OPENING IN 30 SEC <<<"
+	}
+	">>> SHELTER OPENING <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> SHELTER OPENING <<<"
+	}
+	">>> THE ISLAND WILL BE DESTROYED AFTER 25 SEC <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> THE ISLAND WILL BE DESTROYED AFTER 25 SEC <<<"
+	}
+	">>> 5 SEC REMAINING <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> 5 SEC REMAINING <<<"
+	}
+	">>> SHELTER CLOSING <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> SHELTER CLOSING <<<"
+	}
+	"*** YOU HAVE BEATEN LEVEL 2. CHALLENGE CONTINUES ON LEVEL 3 ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** YOU HAVE BEATEN LEVEL 2. CHALLENGE CONTINUES ON LEVEL 3 ***"
+	}
+	">>> |LEVEL 3| <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> |LEVEL 3| <<<"
+	}
+	">>> DOOR OPENS IN 25 sec <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> DOOR OPENS IN 25 sec <<<"
+	}
+	">>> DOOR OPENS IN 10 SEC <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> DOOR OPENS IN 10 SEC <<<"
+	}
+	">>> DOOR OPENS IN 5 sec <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> DOOR OPENS IN 5 SEC <<<"
+	}
+	">>> HOLD FOR 15 SEC <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> HOLD FOR 15 SEC <<<"
+	}
+	">>> STAND BY THE WHEEL TO BRING DOWN THE BRIDGE <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> STAND BY THE WHEEL TO BRING DOWN THE BRIDGE <<<"
+	}
+	">>> BRIDGE IS DOWN. RUN! <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> BRIDGE IS DOWN. RUN! <<<"
+	}
+	">>> GET ONTO THE SHIP <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> GET ONTO THE SHIP <<<"
+	}
+	">>> DOOR CLOSES IN 15 sec <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> DOOR CLOSES IN 15 sec <<<"
+	}
+	">>> DOOR IS OPEN! RUN!!! <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> DOOR IS OPEN! RUN!!! <<<"
+	}
+	">>> IT'S A PIRATE! KILL HIM BEFORE HE KIILS YOU! <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> IT'S A PIRATE! KILL HIM BEFORE HE KIILS YOU! <<<"
+	}
+	">>> GRENADES DO A LOT OF DAMAGE TO HIM. USE THEM! <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> GRENADES DO A LOT OF DAMAGE TO HIM. USE THEM! <<<"
+	}
+	">>> HE'S DEAD. RUN TO TREASURE ROOM TO SAVE YOUR LIVES! <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> HE'S DEAD. RUN TO TREASURE ROOM TO SAVE YOUR LIVES! <<<"
+	}
+	">>> HOLD ZOMBIES FOR 20 sec <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> HOLD ZOMBIES FOR 20 sec <<<"
+	}
+	"***  YOU HAVE BEATEN LEVEL 3. CHALLENGE CONTINUES ON LEVEL 4 ***"
+	{
+		"trans"		"[{darkred}Map{default}] ***  YOU HAVE BEATEN LEVEL 3. CHALLENGE CONTINUES ON LEVEL 4 ***"
+	}
+	">>> |LEVEL 4| <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> |LEVEL 4| <<<"
+	}
+	"*** HEAL picked up***"
+	{
+		"trans"		"[{darkred}Map{default}] *** HEAL picked up***"
+	}
+	"+++ BARBOSSA picked up +++"
+	{
+		"trans"		"[{darkred}Map{default}] +++ BARBOSSA picked up +++"
+	}
+	"*** MEDALLION picked up ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** MEDALLION picked up ***"
+	}
+	">>> HOLD THE CELLAR FOR 30 SEC <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> HOLD THE CELLAR FOR 30 SEC <<<"
+	}
+	">>> CELLAR OPENING IN 5 SEC <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> CELLAR OPENING IN 5 SEC <<<"
+	}
+	">>> RUN AWAY FROM THE ZOMBIES! <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> RUN AWAY FROM THE ZOMBIES! <<<"
+	}
+	">>> HOLD FOR 25 SEC <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> HOLD FOR 25 SEC <<<"
+	}
+	">>> HOLD THE ZOMBIES AS LONG AS POSSIBLE <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> HOLD THE ZOMBIES AS LONG AS POSSIBLE <<<"
+	}
+	">>> DOOR OPENS IN 30 SEC <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> DOOR OPENS IN 30 SEC <<<"
+	}
+	">>> BARBOSSA IS COMING IN 5 SEC <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> BARBOSSA IS COMING IN 5 SEC <<<"
+	}
+	">>> IT'S BARBOSSA. KILL HIM! <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> IT'S BARBOSSA. KILL HIM! <<<"
+	}
+	">>> HE HAS DISAPPEARED. RUN! <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> HE HAS DISAPPEARED. RUN! <<<"
+	}
+	"***  YOU HAVE BEATEN LEVEL 4. CHALLENGE CONTINUES ON LEVEL 5 ***"
+	{
+		"trans"		"[{darkred}Map{default}] ***  YOU HAVE BEATEN LEVEL 4. CHALLENGE CONTINUES ON LEVEL 5 ***"
+	}
+	">>> |LEVEL 5| <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> |LEVEL 5| <<<"
+	}
+	">>> GATE OPENING <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> GATE OPENING <<<"
+	}
+	">>> HOLD FOR 40 SEC <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> HOLD FOR 40 SEC <<<"
+	}
+	">>> HOLD <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> HOLD <<<"
+	}
+	">>> HOLD FOR 35 SEC <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> HOLD FOR 35 SEC <<<"
+	}
+	">>> IT'S KRAKEN. KILL HIM! <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> IT'S KRAKEN. KILL HIM! <<<"
+	}
+	">>> GRENADES AND ITEMS DO A LOT OF DAMAGE TO HIM. USE THEM! <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> GRENADES AND ITEMS DO A LOT OF DAMAGE TO HIM. USE THEM! <<<"
+	}
+	"||| KRAKEN HAS SENT A BUBBLES ON YOU |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| KRAKEN HAS SENT A BUBBLES ON YOU |||"
+	}
+	"||| KRAKEN HAS SENT A WAVE ON YOU |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| KRAKEN HAS SENT A WAVE ON YOU |||"
+	}
+	"||| KRAKEN HAS SENT AN EXPLOSIVE ZOMBIE |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| KRAKEN HAS SENT AN EXPLOSIVE ZOMBIE |||"
+	}
+	"||| KRAKEN HAS THROWN BARREL ON YOU |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| KRAKEN HAS THROWN BARREL ON YOU |||"
+	}
+	">>> KRAKEN IS DEAD. JUMP ONTO THE RAFT <<< "
+	{
+		"trans"		"[{darkred}Map{default}] >>> KRAKEN IS DEAD. JUMP ONTO THE RAFT <<< "
+	}
+	">>> RUN TO THE CAVE <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> RUN TO THE CAVE <<<"
+	}
+	">>> IT'S BARBOSSA AGAIN. DON'T LET HIM SURVIVE!  <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> IT'S BARBOSSA AGAIN. DON'T LET HIM SURVIVE!  <<<"
+	}
+	"||| KRAKEN HAS USED VORTEX |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| KRAKEN HAS USED VORTEX |||"
+	}
+	"||| KRAKEN HAS THROWN BARRELS ON YOU |||"
+	{
+		"trans"		"[{darkred}Map{default}] ||| KRAKEN HAS THROWN BARRELS ON YOU |||"
+	}
+	"*** LAST MEDALLION picked up ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** LAST MEDALLION picked up ***"
+	}
+	">>> LAST MEDALLION HAS BEEN RETURNED TO THE CHEST <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> LAST MEDALLION HAS BEEN RETURNED TO THE CHEST <<<"
+	}
+	">>> BARBOSSA IS DEAD <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> BARBOSSA IS DEAD <<<"
+	}
+	"!!! KILL ALL ZOMBIES !!!"
+	{
+		"trans"		"[{darkred}Map{default}] !!! KILL ALL ZOMBIES !!!"
+	}
+	">>> YOU HAVE WON THE MAP. YOU ARE A REAL PIRATE <<< "
+	{
+		"trans"		"[{darkred}Map{default}] >>> YOU HAVE WON THE MAP. YOU ARE A REAL PIRATE <<< "
+	}
+	"> HUMANS ARE INVULNERABLE < ** KILL ALL ZOMBIES IN THE SHELTER **"
+	{
+		"trans"		"[{darkred}Map{default}] > HUMANS ARE INVULNERABLE < ** KILL ALL ZOMBIES IN THE SHELTER **"
+	}
+}

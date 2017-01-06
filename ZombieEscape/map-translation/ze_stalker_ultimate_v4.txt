@@ -1,0 +1,309 @@
+"Chat"
+{
+	"**This is a map based on the game STALKER**"
+	{
+		"trans"		"[{darkred}Map{default}] **This is a map based on the game STALKER**"
+	}
+	"**The map isn't eazy. It needs good ZE skills and good teamplay**"
+	{
+		"trans"		"[{darkred}Map{default}] **The map isn't eazy. It needs good ZE skills and good teamplay**"
+	}
+	"Map by gleb_erilov(Headshooter.SC) Special thanks to HaRyDe POMKA Said Z-O-M-B-I-E"
+	{
+		"trans"		"[{darkred}Map{default}] Map by gleb_erilov(Headshooter.SC) Special thanks to HaRyDe POMKA Said Z-O-M-B-I-E"
+	}
+	"**Thanks to Luffaren Moltard Shufen Kim Enviolinador george. for helping with the port**"
+	{
+		"trans"		"[{darkred}Map{default}] **Thanks to Luffaren Moltard Shufen Kim Enviolinador george. for helping with the port**"
+	}
+	"**CURRENT MISSION: Get to ChAES Station and find the entrance to the secret labaratory**  "
+	{
+		"trans"		"[{darkred}Map{default}] **CURRENT MISSION: Get to ChAES Station and find the entrance to the secret labaratory**  "
+	}
+	"**Lab door 1 will open in 11 seconds**"
+	{
+		"trans"		"[{darkred}Map{default}] **Lab door 1 will open in 11 seconds**"
+	}
+	"**Lab door 1 will open for zombies in 18 seconds**"
+	{
+		"trans"		"[{darkred}Map{default}] **Lab door 1 will open for zombies in 18 seconds**"
+	}
+	"**Lab door 2 will open in 13 seconds**"
+	{
+		"trans"		"[{darkred}Map{default}] **Lab door 2 will open in 13 seconds**"
+	}
+	"THE LIFT 2 WILL LEAVE IN 9 SECONDS"
+	{
+		"trans"		"[{darkred}Map{default}] THE LIFT 2 WILL LEAVE IN 9 SECONDS"
+	}
+	"**Lab door 2 will open for zombies in 18 seconds**"
+	{
+		"trans"		"[{darkred}Map{default}] **Lab door 2 will open for zombies in 18 seconds**"
+	}
+	"**Zombie shield is activated. You have 15 seconds**"
+	{
+		"trans"		"[{darkred}Map{default}] **Zombie shield is activated. You have 15 seconds**"
+	}
+	"**Zombie shield is disabled**"
+	{
+		"trans"		"[{darkred}Map{default}] **Zombie shield is disabled**"
+	}
+	"***The control panel seems without power. Maybe using the lever will help***"
+	{
+		"trans"		"[{darkred}Map{default}] ***The control panel seems without power. Maybe using the lever will help***"
+	}
+	"**The gates will open in 30 seconds**"
+	{
+		"trans"		"[{darkred}Map{default}] **The gates will open in 30 seconds**"
+	}
+	"***Seems that works. Try to use the control panel to open the gates***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Seems that works. Try to use the control panel to open the gates***"
+	}
+	"**Hold this position for 10 seconds**"
+	{
+		"trans"		"[{darkred}Map{default}] **Hold this position for 10 seconds**"
+	}
+	"The Chernobyl gate will open in 20 seconds."
+	{
+		"trans"		"[{darkred}Map{default}] The Chernobyl gate will open in 20 seconds."
+	}
+	"Hold this position for 10 seconds!!"
+	{
+		"trans"		"[{darkred}Map{default}] Hold this position for 10 seconds!!"
+	}
+	"Zombie sheld is activated for 30 seconds!!"
+	{
+		"trans"		"[{darkred}Map{default}] Zombie sheld is activated for 30 seconds!!"
+	}
+	"**Survive for 70 seconds**"
+	{
+		"trans"		"[{darkred}Map{default}] **Survive for 70 seconds**"
+	}
+	"**The blowout will be in 50 seconds. Get to the bunker and defend it**"
+	{
+		"trans"		"[{darkred}Map{default}] **The blowout will be in 50 seconds. Get to the bunker and defend it**"
+	}
+	"**15 SECONDS LEFT**"
+	{
+		"trans"		"[{darkred}Map{default}] **15 SECONDS LEFT**"
+	}
+	"**5 SECONDS LEFT**"
+	{
+		"trans"		"[{darkred}Map{default}] **5 SECONDS LEFT**"
+	}
+	"**A player picked up flash(ELECTRO"
+	{
+		"ULTIMA on STAGE 3 4 5)**"
+		{
+			"trans"		"[{darkred}Map{default}] **A player picked up flash(ELECTRO/ULTIMA on STAGE 3 4 5)**"
+		}
+	}
+	"**A player picked up a piece of flesh(WIND)**"
+	{
+		"trans"		"[{darkred}Map{default}] **A player picked up a piece of flesh(WIND)**"
+	}
+	"THE LIFT 1 WILL LEAVE IN 4 SECONDS"
+	{
+		"trans"		"[{darkred}Map{default}] THE LIFT 1 WILL LEAVE IN 4 SECONDS"
+	}
+	"**A player picked up fireball(FIRE)**"
+	{
+		"trans"		"[{darkred}Map{default}] **A player picked up fireball(FIRE)**"
+	}
+	"**A player picked up meatchunk(PUSHER"
+	{
+		"GRAVITY on STAGE 3 4 5)**"
+		{
+			"trans"		"[{darkred}Map{default}] **A player picked up meatchunk(PUSHER/GRAVITY on STAGE 3 4 5)**"
+		}
+	}
+	"**STAGE 1 is beaten. Moving on STAGE 2**"
+	{
+		"trans"		"[{darkred}Map{default}] **STAGE 1 is beaten. Moving on STAGE 2**"
+	}
+	"**AUTO-SLAYER ENABLED**"
+	{
+		"trans"		"[{darkred}Map{default}] **AUTO-SLAYER ENABLED**"
+	}
+	"**CURRENT MISSION: Get to the secret labaratory and find the reason of the strange interference**  "
+	{
+		"trans"		"[{darkred}Map{default}] **CURRENT MISSION: Get to the secret labaratory and find the reason of the strange interference**  "
+	}
+	"**Hold for 5 seconds before the gates open**"
+	{
+		"trans"		"[{darkred}Map{default}] **Hold for 5 seconds before the gates open**"
+	}
+	"**Hold the place for 25 seconds**"
+	{
+		"trans"		"[{darkred}Map{default}] **Hold the place for 25 seconds**"
+	}
+	"***Break the spheres to escape***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Break the spheres to escape***"
+	}
+	"***OH NO WHO IS IT? WE MUST KILL IT!***"
+	{
+		"trans"		"[{darkred}Map{default}] ***OH NO WHO IS IT? WE MUST KILL IT!***"
+	}
+	"**Wait for others for 5 more seconds**"
+	{
+		"trans"		"[{darkred}Map{default}] **Wait for others for 5 more seconds**"
+	}
+	"**Hold 25 seconds**"
+	{
+		"trans"		"[{darkred}Map{default}] **Hold 25 seconds**"
+	}
+	"**Hurry! Fall back to the right side!!**"
+	{
+		"trans"		"[{darkred}Map{default}] **Hurry! Fall back to the right side!!**"
+	}
+	"**This is the last hold point**Hold them 25 seconds until door closes**"
+	{
+		"trans"		"[{darkred}Map{default}] **This is the last hold point**Hold them 25 seconds until door closes**"
+	}
+	"**STAGE 2 is beaten. Moving on STAGE 3**"
+	{
+		"trans"		"[{darkred}Map{default}] **STAGE 2 is beaten. Moving on STAGE 3**"
+	}
+	"**UNKNOWN ARTEFACT** QUEST COMPLETED"
+	{
+		"trans"		"[{darkred}Map{default}] **UNKNOWN ARTEFACT** QUEST COMPLETED"
+	}
+	"**REWARD**YOU HAVE OBTAINED ONE MORE ITEM ON THIS STAGE"
+	{
+		"trans"		"[{darkred}Map{default}] **REWARD**YOU HAVE OBTAINED ONE MORE ITEM ON THIS STAGE"
+	}
+	"**CURRENT MISSION: Get to the X18 labaratory and find information how to get to Pripyat**  "
+	{
+		"trans"		"[{darkred}Map{default}] **CURRENT MISSION: Get to the X18 labaratory and find information how to get to Pripyat**  "
+	}
+	"**MISSION UPDATED: Stalkers left a bomb near the control room. Use it to make a way to X18**  "
+	{
+		"trans"		"[{darkred}Map{default}] **MISSION UPDATED: Stalkers left a bomb near the control room. Use it to make a way to X18**  "
+	}
+	"**We got a bomb. But whats this?**"
+	{
+		"trans"		"[{darkred}Map{default}] **We got a bomb. But whats this?**"
+	}
+	"**Bloodsucker have been defeated**"
+	{
+		"trans"		"[{darkred}Map{default}] **Bloodsucker have been defeated**"
+	}
+	"**Your items got more power**"
+	{
+		"trans"		"[{darkred}Map{default}] **Your items got more power**"
+	}
+	"**The bomb is planted. Wait until the debris break**"
+	{
+		"trans"		"[{darkred}Map{default}] **The bomb is planted. Wait until the debris break**"
+	}
+	"**Bloodsucker was picked up**"
+	{
+		"trans"		"[{darkred}Map{default}] **Bloodsucker was picked up**"
+	}
+	"**OPENING THE GATES (10 SECONDS)**"
+	{
+		"trans"		"[{darkred}Map{default}] **OPENING THE GATES (10 SECONDS)**"
+	}
+	"**The door wil open in 10 seconds**"
+	{
+		"trans"		"[{darkred}Map{default}] **The door wil open in 10 seconds**"
+	}
+	"**Hold this way for 10 seconds**"
+	{
+		"trans"		"[{darkred}Map{default}] **Hold this way for 10 seconds**"
+	}
+	"**There are zombies in bunker. The level is failed.**"
+	{
+		"trans"		"[{darkred}Map{default}] **There are zombies in bunker. The level is failed.**"
+	}
+	"**There are zombies in. The level is failed.**"
+	{
+		"trans"		"[{darkred}Map{default}] **There are zombies in. The level is failed.**"
+	}
+	"**It's dead. Good job**"
+	{
+		"trans"		"[{darkred}Map{default}] **It's dead. Good job**"
+	}
+	"**1 PLAYER have to go to the command room to take documents**"
+	{
+		"trans"		"[{darkred}Map{default}] **1 PLAYER have to go to the command room to take documents**"
+	}
+	"**The documents are here!**We are too close!**"
+	{
+		"trans"		"[{darkred}Map{default}] **The documents are here!**We are too close!**"
+	}
+	"**Defend a bit**The door will explode in a few seconds!**"
+	{
+		"trans"		"[{darkred}Map{default}] **Defend a bit**The door will explode in a few seconds!**"
+	}
+	"**RUN RUN RUN!!!**"
+	{
+		"trans"		"[{darkred}Map{default}] **RUN RUN RUN!!!**"
+	}
+	"**THE LEVEL IS FAILED** ZOMBIES MADE IT TO THE SECOND WAY**"
+	{
+		"trans"		"[{darkred}Map{default}] **THE LEVEL IS FAILED** ZOMBIES MADE IT TO THE SECOND WAY**"
+	}
+	"**STAGE 3 is beaten. Moving on STAGE 4**"
+	{
+		"trans"		"[{darkred}Map{default}] **STAGE 3 is beaten. Moving on STAGE 4**"
+	}
+	"**CURRENT MISSION: Get to the Pripyat and find the reason of missing stalkers in the pool**  "
+	{
+		"trans"		"[{darkred}Map{default}] **CURRENT MISSION: Get to the Pripyat and find the reason of missing stalkers in the pool**  "
+	}
+	"**GO INTO THE TELEPORTER***"
+	{
+		"trans"		"[{darkred}Map{default}] **GO INTO THE TELEPORTER***"
+	}
+	"***YOU HAVE TIME TO SEARCH FOR SOME HIDDEN ITEMS***"
+	{
+		"trans"		"[{darkred}Map{default}] ***YOU HAVE TIME TO SEARCH FOR SOME HIDDEN ITEMS***"
+	}
+	"***AND THEN RETREAT AND WAIT THE BARRIER TO BE OPENED**"
+	{
+		"trans"		"[{darkred}Map{default}] ***AND THEN RETREAT AND WAIT THE BARRIER TO BE OPENED**"
+	}
+	"**Wait for others for 5 seconds**"
+	{
+		"trans"		"[{darkred}Map{default}] **Wait for others for 5 seconds**"
+	}
+	"**A player picked up nightstar(SLOWER)**"
+	{
+		"trans"		"[{darkred}Map{default}] **A player picked up nightstar(SLOWER)**"
+	}
+	"**ALL AFK AND SLOW PLAYERS WERE TELEPORTED**"
+	{
+		"trans"		"[{darkred}Map{default}] **ALL AFK AND SLOW PLAYERS WERE TELEPORTED**"
+	}
+	"**NOW WE ARE READY TO GO**"
+	{
+		"trans"		"[{darkred}Map{default}] **NOW WE ARE READY TO GO**"
+	}
+	"**A player picked up spikeball(HEAL)**"
+	{
+		"trans"		"[{darkred}Map{default}] **A player picked up spikeball(HEAL)**"
+	}
+	"**Hold here for 25 seconds**"
+	{
+		"trans"		"[{darkred}Map{default}] **Hold here for 25 seconds**"
+	}
+	"**And then go to the pool**"
+	{
+		"trans"		"[{darkred}Map{default}] **And then go to the pool**"
+	}
+	"**..We founded something unusial..**"
+	{
+		"trans"		"[{darkred}Map{default}] **..We founded something unusial..**"
+	}
+	"**.. Is it a new anomaly?!..**"
+	{
+		"trans"		"[{darkred}Map{default}] **.. Is it a new anomaly?!..**"
+	}
+	"**THE BOSS IS CONTROLLING YOUR BRAINS!!THIS PLACE IS NOT REAL!!**"
+	{
+		"trans"		"[{darkred}Map{default}] **THE BOSS IS CONTROLLING YOUR BRAINS!!THIS PLACE IS NOT REAL!!**"
+	}
+}

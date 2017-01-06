@@ -1,0 +1,103 @@
+"Chat"
+{
+	"[Grab a gun from the armory! We need to move.]"
+	{
+		"trans"		"[{darkred}Map{default}] [Grab a gun from the armory! We need to move.]"
+	}
+	"[Remember! No man gets left behind.]"
+	{
+		"trans"		"[{darkred}Map{default}] [Remember! No man gets left behind.]"
+	}
+	"[Don't let them through! Get into the freezer ASAP.]"
+	{
+		"trans"		"[{darkred}Map{default}] [Don't let them through! Get into the freezer ASAP.]"
+	}
+	"[And make sure you close it!]"
+	{
+		"trans"		"[{darkred}Map{default}] [And make sure you close it!]"
+	}
+	"[Somebody get through that hole and let the rest of us through.]"
+	{
+		"trans"		"[{darkred}Map{default}] [Somebody get through that hole and let the rest of us through.]"
+	}
+	"[Open them crazy cells and get us out of here!]"
+	{
+		"trans"		"[{darkred}Map{default}] [Open them crazy cells and get us out of here!]"
+	}
+	"[Spare rifles on that wall for anybody unarmed.]"
+	{
+		"trans"		"[{darkred}Map{default}] [Spare rifles on that wall for anybody unarmed.]"
+	}
+	"[Keep them back while I open this door.]"
+	{
+		"trans"		"[{darkred}Map{default}] [Keep them back while I open this door.]"
+	}
+	"[Don't touch those lasers!]"
+	{
+		"trans"		"[{darkred}Map{default}] [Don't touch those lasers!]"
+	}
+	"[Shit! This is going to take some time. Hold them off!]"
+	{
+		"trans"		"[{darkred}Map{default}] [Shit! This is going to take some time. Hold them off!]"
+	}
+	"[Somebody turn right and get us an airstrike!]"
+	{
+		"trans"		"[{darkred}Map{default}] [Somebody turn right and get us an airstrike!]"
+	}
+	"[Get through that gate up ahead and don't let them in.]"
+	{
+		"trans"		"[{darkred}Map{default}] [Get through that gate up ahead and don't let them in.]"
+	}
+	"[Grab some 'nades and blow the limbs off 'em.]"
+	{
+		"trans"		"[{darkred}Map{default}] [Grab some 'nades and blow the limbs off 'em.]"
+	}
+	"[Airstrike Inbound: ETA 1 minute.]"
+	{
+		"trans"		"[{darkred}Map{default}] [Airstrike Inbound: ETA 1 minute.]"
+	}
+	"[And we need to find a way out of here before that airstrike comes! Hold them off until the door closes.]"
+	{
+		"trans"		"[{darkred}Map{default}] [And we need to find a way out of here before that airstrike comes! Hold them off until the door closes.]"
+	}
+	"[Get in that hole behind the boxes!]"
+	{
+		"trans"		"[{darkred}Map{default}] [Get in that hole behind the boxes!]"
+	}
+	"**[5]**"
+	{
+		"trans"		"[{darkred}Map{default}] **[5]**"
+	}
+	"**[4]**"
+	{
+		"trans"		"[{darkred}Map{default}] **[4]**"
+	}
+	"**[3]**"
+	{
+		"trans"		"[{darkred}Map{default}] **[3]**"
+	}
+	"**[2]**"
+	{
+		"trans"		"[{darkred}Map{default}] **[2]**"
+	}
+	"**[1]**"
+	{
+		"trans"		"[{darkred}Map{default}] **[1]**"
+	}
+	"[There's fumes going through the vents! Get out of there!]"
+	{
+		"trans"		"[{darkred}Map{default}] [There's fumes going through the vents! Get out of there!]"
+	}
+	"[Suicide Bombers Inbound: ETA 1 Minute.]"
+	{
+		"trans"		"[{darkred}Map{default}] [Suicide Bombers Inbound: ETA 1 Minute.]"
+	}
+	"[Freezer's Closed!]"
+	{
+		"trans"		"[{darkred}Map{default}] [Freezer's Closed!]"
+	}
+	"[Freezer's Open!]"
+	{
+		"trans"		"[{darkred}Map{default}] [Freezer's Open!]"
+	}
+}

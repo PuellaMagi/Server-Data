@@ -1,0 +1,1223 @@
+"Chat"
+{
+	"*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
+	{
+		"blocked" "1"
+	}
+	"*** map created by thas ***"
+	{
+		"blocked" "1"
+	}
+	"*** STAGE 1 ***"
+	{
+		"trans"		"[{darkred}Map{default}]  第一关"
+	}
+	"*** FIRST PORTAL ACTIVATED in 20 SEDONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  传送器启动于20秒后"
+	}
+	"*** Porting helped by Airvulpes,kune***"
+	{
+		"blocked" "1"
+	}
+	"*** HUMAN>>> Climb the ladder ***"
+	{
+		"trans"		"[{darkred}Map{default}]  人类:攀上梯子"
+	}
+	"*** ZOMBIE>>> Should go to under the entrance ***"
+	{
+		"trans"		"[{darkred}Map{default}]  僵尸:进入入口"
+	}
+	"*** ANTI BHOP SYSTEM>>> If you use bhopping.You will get some penalty ***"
+	{
+		"trans"		"[{darkred}Map{default}]  本地图的智障作者限制了BHOP"
+	}
+	"*** FIRST PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  传送器启动于5秒后"
+	}
+	"*** PORTAL ACTIVATED ***"
+	{
+		"trans"		"[{darkred}Map{default}]  传送器已启动"
+	}
+	"***ZOMBIE IS COMING***"
+	{
+		"trans"		"[{darkred}Map{default}]  僵尸正在进犯"
+	}
+	"*** LEVEL 1: NORMAL JUMP ***"
+	{
+		"trans"		"[{darkred}Map{default}]  障碍1:普通跳跃"
+	}
+	"*** LEVEL2 PORTAL ACTIVATED in 30 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于30秒后"
+	}
+	"*** LEVEL2 PORTAL ACTIVATED in 20 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于20秒后"
+	}
+	"*** LEVEL2 PORTAL ACTIVATED in 10 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}] 前往下个区域的传送器启动于10秒后"
+	}
+	"*** LEVEL2 PORTAL ACTIVATED in 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于5秒后"
+	}
+	"*** LEVEL 2:  LADDERS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  障碍2:梯子阵"
+	}
+	"*** LEVEL3 PORTAL ACTIVATED in 30 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于30秒后"
+	}
+	"*** LEVEL3 PORTAL ACTIVATED in 20 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于20秒后"
+	}
+	"*** LEVEL3 PORTAL ACTIVATED in 10 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于10秒后"
+	}
+	"*** LEVEL3 PORTAL ACTIVATED in 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于5秒后"
+	}
+	"***LEVEL 3: MOVING SCAFFOLDS 1 ***"
+	{
+		"trans"		"[{darkred}Map{default}]  障碍3:移动平台"
+	}
+	"*** LEVEL4 PORTAL ACTIVATED in 30 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于30秒后"
+	}
+	"*** LEVEL4 PORTAL ACTIVATED in 20 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于20秒后"
+	}
+	"*** LEVEL4 PORTAL ACTIVATED in 10 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于10秒后"
+	}
+	"*** LEVEL4 PORTAL ACTIVATED in 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于5秒后"
+	}
+	"*** LEVEL4 LOW GRAVITY ***"
+	{
+		"trans"		"[{darkred}Map{default}]  障碍4:低重力区"
+	}
+	"*** LEVEL5 PORTAL ACTIVATED in 30 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于30秒后"
+	}
+	"*** LEVEL5 PORTAL ACTIVATED in 20 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于20秒后"
+	}
+	"*** LEVEL5 PORTAL ACTIVATED in 10 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于10秒后"
+	}
+	"*** LEVEL5 PORTAL ACTIVATED in 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于5秒后"
+	}
+	"*** LEVEL5 WINDY ***"
+	{
+		"trans"		"[{darkred}Map{default}]  障碍5:风大路滑"
+	}
+	"*** LEVEL6 PORTAL ACTIVATED in 30 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于30秒后"
+	}
+	"*** LEVEL6 PORTAL ACTIVATED in 20 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于20秒后"
+	}
+	"*** LEVEL6 PORTAL ACTIVATED in 10 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于10秒后"
+	}
+	"*** LEVEL6 PORTAL ACTIVATED in 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于5秒后"
+	}
+	"*** LEVEL6 SLIDE 1 ***"
+	{
+		"trans"		"[{darkred}Map{default}]  障碍6:滑翔1"
+	}
+	"*** LEVEL7 PORTAL ACTIVATED in 30 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于30秒后"
+	}
+	"*** LEVEL7 PORTAL ACTIVATED in 20 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于20秒后"
+	}
+	"*** LEVEL7 PORTAL ACTIVATED in 10 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于10秒后"
+	}
+	"*** LEVEL7 PORTAL ACTIVATED in 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于5秒后"
+	}
+	"*** LEVEL7 HOLD THIS POTISION ***"
+	{
+		"trans"		"[{darkred}Map{default}]  障碍7:坚守阵地"
+	}
+	"*** HOLD THIS POTISION for 30 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于30秒后"
+	}
+	"*** HOLD THIS POTISION for 20 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于20秒后"
+	}
+	"*** HOLD THIS POTISION for 10 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于10秒后"
+	}
+	"*** HOLD THIS POTISION for 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于5秒后"
+	}
+	"*** STAGE 1 COMPLETED ***"
+	{
+		"trans"		"[{darkred}Map{default}]  第一关已完成"
+	}
+	"*** STAGE 2 ***"
+	{
+		"trans"		"[{darkred}Map{default}]  第二关"
+	}
+	"*** LEVEL 8: THE MOVING WALLS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  区域8:移动墙阵"
+	}
+	"*** LEVEL9 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于30秒后"
+	}
+	"*** A PLAYER HAS PICKED UP A BIG HEALTH LIGHT ***"
+	{
+		"trans"		"[{darkred}Map{default}]  有玩家拾起了治疗光束,只能使用一次"
+	}
+	"CAUTION :It can use only once"
+	{
+		"blocked"		"1"
+	}
+	"*** LEVEL9 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于20秒后"
+	}
+	"*** LEVEL9 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于10秒后"
+	}
+	"*** LEVEL9 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于5秒后"
+	}
+	"*** LEVEL 9:  THE ROTATING SCAFFOLDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  区域9: 旋转平台"
+	}
+	"*** LEVEL10 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于30秒后"
+	}
+	"*** A PLAYER HAS PICKED UP A BURNING LIGHT ***"
+	{
+		"trans"		"[{darkred}Map{default}]  有玩家拾起了焚烧光束,35秒冷却时间"
+	}
+	"COOL DOWN : 35 SEC"
+	{
+		"blocked"		"1"
+	}
+	"*** LEVEL10 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于20秒后"
+	}
+	"*** LEVEL10 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于10秒后"
+	}
+	"*** LEVEL10 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于5秒后"
+	}
+	"*** LEVEL 10:  THE MOVING SCAFFOLDS 2 ***"
+	{
+		"trans"		"[{darkred}Map{default}]  区域10: 浮动平台"
+	}
+	"*** LEVEL11 PORTAL ACTIVATED in 40 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于40秒后"
+	}
+	"*** LEVEL11 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于30秒后"
+	}
+	"*** LEVEL11 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于20秒后"
+	}
+	"*** LEVEL11 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于10秒后"
+	}
+	"*** LEVEL11 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于5秒后"
+	}
+	"*** LEVEL 11:  SURF ***"
+	{
+		"trans"		"[{darkred}Map{default}]  区域11:滑翔"
+	}
+	"*** A PLAYER HAS PICKED UP A PUSH LIGHT ***"
+	{
+		"trans"		"[{darkred}Map{default}]  有玩家拾起了驱逐光束,40秒冷却时间"
+	}
+	"COOL DOWN : 40 SEC"
+	{
+		"blocked"		"1"
+	}
+	"*** LEVEL12 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于30秒后"
+	}
+	"*** LEVEL12 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于20秒后"
+	}
+	"*** HURTING ZOMBIE IS COMING ***"
+	{
+		"trans"		"[{darkred}Map{default}] 僵尸正在来袭"
+	}
+	"*** LEVEL12 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于10秒后"
+	}
+	"*** PUSHING ZOMBIE IS COMING ***"
+	{
+		"trans"		"[{darkred}Map{default}]  僵尸正在来袭"
+	}
+	"*** LEVEL12 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于5秒后"
+	}
+	"*** LEVEL 12:  LASERS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  区域12:激光阵"
+	}
+	"*** LEVEL13 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于30 秒后"
+	}
+	"*** THE LASER MACHINE IS BROKEN ***"
+	{
+		"trans"		"[{darkred}Map{default}]  激光器已失效"
+	}
+	"*** ALL OF THE FINAL LASER IS DISABLED ***"
+	{
+		"trans"		"[{darkred}Map{default}]  所有的激光束已被关闭"
+	}
+	"*** LEVEL13 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于20秒后"
+	}
+	"*** LEVEL13 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于10秒后"
+	}
+	"*** LEVEL13 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于5秒后"
+	}
+	"*** LEVEL 13: FLYING ***"
+	{
+		"trans"		"[{darkred}Map{default}]  区域13:飞妈区域"
+	}
+	"*** LEVEL14 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于30秒后"
+	}
+	"*** LEVEL14 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于20秒后"
+	}
+	"*** LEVEL14 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于10秒后"
+	}
+	"*** LEVEL14 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下个区域的传送器启动于5秒后"
+	}
+	"*** LEVEL 14:  THE CLOUD BOSS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  区域14:智障BOSS"
+	}
+	"*** THE SCAFFOLD WILL RISE IN 20 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  20秒后平台上浮"
+	}
+	"*** THE SCAFFOLD WILL RISE IN 10 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  10秒后平台上浮"
+	}
+	"*** THE SCAFFOLD WILL RISE IN 5 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  5秒后平台上浮"
+	}
+	"*** THE CUTE CLOUD and HIS CHILDREN are APPEARED!! SHOOT THEM!! ***"
+	{
+		"trans"		"[{darkred}Map{default}]  BOSS出来了,搞死他!"
+	}
+	"*** THE CUTE CLOUD STARTED MOVING ***"
+	{
+		"trans"		"[{darkred}Map{default}]  BOSS正在按路线移动.."
+	}
+	"*** THE CUTE CLOUD IS ANGRY!! DON'T STOP SHOOTING!! ***"
+	{
+		"trans"		"[{darkred}Map{default}]  不要停火!"
+	}
+	"*** IT CALLED MORE HIS CHILDREN ***"
+	{
+		"trans"		"[{darkred}Map{default}]  BOSS叫来了更多的小弟"
+	}
+	"*** THE CUTE CLOUD IS DEFEATED ***"
+	{
+		"trans"		"[{darkred}Map{default}]  BOSS已被击败"
+	}
+	"*** RUN TO THE NEXT DEFENCE POINT ***"
+	{
+		"trans"		"[{darkred}Map{default}]  前往下一个守点"
+	}
+	"*** ZOMBIE WILL COME IN 10 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  僵尸释放于10秒后"
+	}
+	"*** STAGE COMPLETE IN 30 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  关卡完成于30秒后"
+	}
+	"*** ZOMBIE IS COMING ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ZOMBIE IS COMING ***"
+	}
+	"*** STAGE COMPLETE IN 20 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  关卡完成于20秒后"
+	}
+	"*** STAGE COMPLETE IN 10 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  关卡完成于10秒后"
+	}
+	"*** STAGE COMPLETE IN 5 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  关卡完成于5秒后"
+	}
+	"*** STAGE 2 COMPLETED ***"
+	{
+		"trans"		"[{darkred}Map{default}]  第二关已完成"
+	}
+	"*** STAGE 3 ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** STAGE 3 ***"
+	}
+	"*** LEVEL 15: THE MOVING SCAFFOLD 3 ***"
+	{
+		"trans"		"[{darkred}Map{default}]  区域15: THE MOVING SCAFFOLD 3 ***"
+	}
+	"*** THE SCAFFOLD WILL MOVE IN 5 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** THE SCAFFOLD WILL MOVE IN 5 SECONDS ***"
+	}
+	"*** KAMIKAZE ZOMBIE IS COMING ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** KAMIKAZE ZOMBIE IS COMING ***"
+	}
+	"*** LEFT DOOR AND RIGHT DOOR ARE OPENING ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** LEFT DOOR AND RIGHT DOOR ARE OPENING ***"
+	}
+	"*** LEVEL16 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** LEVEL16 PORTAL ACTIVATED in 30 SECONDS ***"
+	}
+	"*** LEVEL16 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** LEVEL16 PORTAL ACTIVATED in 20 SECONDS ***"
+	}
+	"*** LEVEL16 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** LEVEL16 PORTAL ACTIVATED in 10 SEDONDS ***"
+	}
+	"*** LEVEL16 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** LEVEL16 PORTAL ACTIVATED in 5 SECONDS ***"
+	}
+	"*** LEVEL 16: VARIOUS TYPE ROAD 1 ***"
+	{
+		"trans"		"[{darkred}Map{default}]  区域16: VARIOUS TYPE ROAD 1 ***"
+	}
+	"*** A PLAYER HAS PICKED UP A COLD LIGHT ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** A PLAYER HAS PICKED UP A COLD LIGHT ***"
+	}
+	"COOL DOWN : 50 SEC"
+	{
+		"trans"		"[{darkred}Map{default}] COOL DOWN : 50 SEC"
+	}
+	"*** LEVEL17 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** LEVEL17 PORTAL ACTIVATED in 30 SECONDS ***"
+	}
+	"*** LEVEL17 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** LEVEL17 PORTAL ACTIVATED in 20 SECONDS ***"
+	}
+	"*** LEVEL17 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** LEVEL17 PORTAL ACTIVATED in 10 SEDONDS ***"
+	}
+	"*** LEVEL17 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** LEVEL17 PORTAL ACTIVATED in 5 SECONDS ***"
+	}
+	"*** LEVEL 17: VARIOUS TYPE ROAD 2 ***"
+	{
+		"trans"		"[{darkred}Map{default}]  区域17: VARIOUS TYPE ROAD 2 ***"
+	}
+	"*** LEVEL18 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** LEVEL18 PORTAL ACTIVATED in 30 SECONDS ***"
+	}
+	"*** LEVEL18 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** LEVEL18 PORTAL ACTIVATED in 20 SECONDS ***"
+	}
+	"*** LEVEL18 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** LEVEL18 PORTAL ACTIVATED in 10 SEDONDS ***"
+	}
+	"*** LEVEL18 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** LEVEL18 PORTAL ACTIVATED in 5 SECONDS ***"
+	}
+	"*** LEVEL18 SLIDE 2 ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** LEVEL18 SLIDE 2 ***"
+	}
+	"*** LEVEL19 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** LEVEL19 PORTAL ACTIVATED in 30 SECONDS ***"
+	}
+	"*** LEVEL19 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** LEVEL19 PORTAL ACTIVATED in 20 SECONDS ***"
+	}
+	"*** LEVEL19 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** LEVEL19 PORTAL ACTIVATED in 10 SEDONDS ***"
+	}
+	"*** LEVEL19 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** LEVEL19 PORTAL ACTIVATED in 5 SECONDS ***"
+	}
+	"*** LEVEL 19: VARIOUS TYPE ROAD 3 ***"
+	{
+		"trans"		"[{darkred}Map{default}]  区域19: VARIOUS TYPE ROAD 3 ***"
+	}
+	"*** BARRIER DISABLED ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** BARRIER DISABLED ***"
+	}
+	"*** LEVEL20 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** LEVEL20 PORTAL ACTIVATED in 30 SECONDS ***"
+	}
+	"*** LEVEL20 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** LEVEL20 PORTAL ACTIVATED in 20 SECONDS ***"
+	}
+	"*** LEVEL20 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** LEVEL20 PORTAL ACTIVATED in 10 SEDONDS ***"
+	}
+	"*** LEVEL20 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** LEVEL20 PORTAL ACTIVATED in 5 SECONDS ***"
+	}
+	"*** LEVEL 20: VARIOUS TYPE ROAD 4 ***"
+	{
+		"trans"		"[{darkred}Map{default}]  区域20: VARIOUS TYPE ROAD 4 ***"
+	}
+	"*** FINAL PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** FINAL PORTAL ACTIVATED in 30 SECONDS ***"
+	}
+	"*** FINAL PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** FINAL PORTAL ACTIVATED in 20 SECONDS ***"
+	}
+	"*** FINAL PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** FINAL PORTAL ACTIVATED in 10 SEDONDS ***"
+	}
+	"*** FINAL PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** FINAL PORTAL ACTIVATED in 5 SECONDS ***"
+	}
+	"*** FINAL LEVEL:  ???? ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** FINAL LEVEL:  ???? ***"
+	}
+	"*** EXPLOSION IN 3 SECONDS!!!!! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** EXPLOSION IN 3 SECONDS!!!!! ***"
+	}
+	"*** 2!!! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 2!!! ***"
+	}
+	"*** 1!!! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 1!!! ***"
+	}
+	"*** KEY BOARD CRASHER IS APPEARED!! SHOOT HIM!! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** KEY BOARD CRASHER IS APPEARED!! SHOOT HIM!! ***"
+	}
+	"*** KEY BOARD CRASHER STARTED MOVING ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** KEY BOARD CRASHER STARTED MOVING ***"
+	}
+	"*** Watch out for esc cannon and your head !! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Watch out for esc cannon and your head !! ***"
+	}
+	"*** KEY BOARD CRASHER IS ANGRY!! DON'T STOP SHOOTING!! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** KEY BOARD CRASHER IS ANGRY!! DON'T STOP SHOOTING!! ***"
+	}
+	"*** Another cannon started ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Another cannon started ***"
+	}
+	"*** Watch out for something !! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Watch out for something !! ***"
+	}
+	"*** KEY BOARD CRASHER IS DEAD ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** KEY BOARD CRASHER IS DEAD ***"
+	}
+	"*** ALL STAGE COMPLETE IN 30 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ALL STAGE COMPLETE IN 30 SECONDS ***"
+	}
+	"*** ALL STAGE COMPLETE IN 20 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ALL STAGE COMPLETE IN 20 SECONDS ***"
+	}
+	"*** !? ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** !? ***"
+	}
+	"*** CAREFULL!!! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** CAREFULL!!! ***"
+	}
+	"*** ALL STAGE COMPLETE IN 10 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ALL STAGE COMPLETE IN 10 SECONDS ***"
+	}
+	"*** ALL STAGE COMPLETE IN 5 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ALL STAGE COMPLETE IN 5 SECONDS ***"
+	}
+	"*** ALL STAGE COMPLETED. EXTREME MODE IS COMING ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ALL STAGE COMPLETED. EXTREME MODE IS COMING ***"
+	}
+	"*** WARNING : FAST SPAWN ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** WARNING : FAST SPAWN ***"
+	}
+	"*** STAGE 1: EXTREME ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** STAGE 1: EXTREME ***"
+	}
+	"*** ONE PERSON CAN SELLECT THE EXTREME MODE !! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ONE PERSON CAN SELLECT THE EXTREME MODE !! ***"
+	}
+	"*** HURRY ! HURRY !! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** HURRY ! HURRY !! ***"
+	}
+	"*** ONE PERSON WENT TO EXTRA MODE SELECTION ZONE ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ONE PERSON WENT TO EXTRA MODE SELECTION ZONE ***"
+	}
+	"*** A PERSON PRESSED QUICK MODE BUTTON ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** A PERSON PRESSED QUICK MODE BUTTON ***"
+	}
+	"*** ALL HUMANS TELEPORT IN 5 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ALL HUMANS TELEPORT IN 5 SECONDS ***"
+	}
+	"*** ALL ZOMBIES TELEPORT IN 5 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ALL ZOMBIES TELEPORT IN 5 SECONDS ***"
+	}
+	"*** WHAT !! where is there...? ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** WHAT !! where is there...? ***"
+	}
+	"*** Be careful !! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Be careful !! ***"
+	}
+	"????? : I saw you when you were fighting with my brother ...."
+	{
+		"trans"		"[{darkred}Map{default}] ????? : I saw you when you were fighting with my brother ...."
+	}
+	"????? : I'm cute cloud's sister..."
+	{
+		"trans"		"[{darkred}Map{default}] ????? : I'm cute cloud's sister..."
+	}
+	"Girl cloud : and... you defeated my brother..."
+	{
+		"trans"		"[{darkred}Map{default}] Girl cloud : and... you defeated my brother..."
+	}
+	"Girl cloud : I will avenge the death...!!!!!"
+	{
+		"trans"		"[{darkred}Map{default}] Girl cloud : I will avenge the death...!!!!!"
+	}
+	"Girl cloud : Let's fight with me !!!!!"
+	{
+		"trans"		"[{darkred}Map{default}] Girl cloud : Let's fight with me !!!!!"
+	}
+	"Girl cloud : OMG...I was defeated..."
+	{
+		"trans"		"[{darkred}Map{default}] Girl cloud : OMG...I was defeated..."
+	}
+	"Girl cloud : but... I prepared the machine for killing humans...!!"
+	{
+		"trans"		"[{darkred}Map{default}] Girl cloud : but... I prepared the machine for killing humans...!!"
+	}
+	"Girl cloud : LOOK THE MY MACHINE !!!!"
+	{
+		"trans"		"[{darkred}Map{default}] Girl cloud : LOOK THE MY MACHINE !!!!"
+	}
+	"Girl cloud : What do you think about this machine ???"
+	{
+		"trans"		"[{darkred}Map{default}] Girl cloud : What do you think about this machine ???"
+	}
+	"Girl cloud : I think.... It's very beautiful !!!!!!!!!!!!!!"
+	{
+		"trans"		"[{darkred}Map{default}] Girl cloud : I think.... It's very beautiful !!!!!!!!!!!!!!"
+	}
+	"Girl cloud : GO TO HELL !!!!!!!!!!!!!!!!"
+	{
+		"trans"		"[{darkred}Map{default}] Girl cloud : GO TO HELL !!!!!!!!!!!!!!!!"
+	}
+	"WARNING : ZOMBIES ARE ALIVE !!!"
+	{
+		"trans"		"[{darkred}Map{default}] WARNING : ZOMBIES ARE ALIVE !!!"
+	}
+	"*** HINT : Don't shoot the machine !! SHOOT THE her head !!! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** HINT : Don't shoot the machine !! SHOOT THE her head !!! ***"
+	}
+	"*** A PERSON PRESSED ALL ITEM MODE BUTTON ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** A PERSON PRESSED ALL ITEM MODE BUTTON ***"
+	}
+	"Girl cloud : I...I can't die in here...!!!!!"
+	{
+		"trans"		"[{darkred}Map{default}] Girl cloud : I...I can't die in here...!!!!!"
+	}
+	"Girl cloud : need....FULL POWER.....!!!!!!!!"
+	{
+		"trans"		"[{darkred}Map{default}] Girl cloud : need....FULL POWER.....!!!!!!!!"
+	}
+	"*** She is awakening !!! Don't stop shooting !!!! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** She is awakening !!! Don't stop shooting !!!! ***"
+	}
+	"Girl cloud : What...? Machine error..!?"
+	{
+		"trans"		"[{darkred}Map{default}] Girl cloud : What...? Machine error..!?"
+	}
+	"Girl cloud : OH no!!! Please move !!!!"
+	{
+		"trans"		"[{darkred}Map{default}] Girl cloud : OH no!!! Please move !!!!"
+	}
+	"Girl cloud : AHHHHHHHHHHHH !!!!!!!"
+	{
+		"trans"		"[{darkred}Map{default}] Girl cloud : AHHHHHHHHHHHH !!!!!!!"
+	}
+	"*** You defeated Girl cloud ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** You defeated Girl cloud ***"
+	}
+	"*** Shit!! Zombies come here!! Defend your self !! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Shit!! Zombies come here!! Defend your self !! ***"
+	}
+	"*** SURVIVE FOR 15 SECONDS !! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SURVIVE FOR 15 SECONDS !! ***"
+	}
+	"*** SURVIVE FOR 14 SECONDS !! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SURVIVE FOR 14 SECONDS !! ***"
+	}
+	"*** SURVIVE FOR 13 SECONDS !! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SURVIVE FOR 13 SECONDS !! ***"
+	}
+	"*** SURVIVE FOR 12 SECONDS !! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SURVIVE FOR 12 SECONDS !! ***"
+	}
+	"*** SURVIVE FOR 11 SECONDS !! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SURVIVE FOR 11 SECONDS !! ***"
+	}
+	"*** SURVIVE FOR 10 SECONDS !! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SURVIVE FOR 10 SECONDS !! ***"
+	}
+	"*** SURVIVE FOR 9 SECONDS !! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SURVIVE FOR 9 SECONDS !! ***"
+	}
+	"*** SURVIVE FOR 8 SECONDS !! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SURVIVE FOR 8 SECONDS !! ***"
+	}
+	"*** SURVIVE FOR 7 SECONDS !! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SURVIVE FOR 7 SECONDS !! ***"
+	}
+	"*** SURVIVE FOR 6 SECONDS !! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SURVIVE FOR 6 SECONDS !! ***"
+	}
+	"*** SURVIVE FOR 5 SECONDS !! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SURVIVE FOR 5 SECONDS !! ***"
+	}
+	"*** SURVIVE FOR 4 SECONDS !! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SURVIVE FOR 4 SECONDS !! ***"
+	}
+	"*** SURVIVE FOR 3 SECONDS !! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SURVIVE FOR 3 SECONDS !! ***"
+	}
+	"*** SURVIVE FOR 2 SECONDS !! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SURVIVE FOR 2 SECONDS !! ***"
+	}
+	"*** SURVIVE FOR 1 SECONDS !! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SURVIVE FOR 1 SECONDS !! ***"
+	}
+	"*** STAGE 1: EXTREME COMPLETED ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** STAGE 1: EXTREME COMPLETED ***"
+	}
+	"*** STAGE 2: EXTREME ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** STAGE 2: EXTREME ***"
+	}
+	"*** A PERSON PRESSED LOW FRICTION MODE BUTTON ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** A PERSON PRESSED LOW FRICTION MODE BUTTON ***"
+	}
+	"*** A PLAYER HAS PICKED UP A SMALL HEALTH LIGHT ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** A PLAYER HAS PICKED UP A SMALL HEALTH LIGHT ***"
+	}
+	"CUTE CLOUD :Hi,humans..."
+	{
+		"trans"		"[{darkred}Map{default}] CUTE CLOUD :Hi,humans..."
+	}
+	"CUTE CLOUD :I don't fight with you..."
+	{
+		"trans"		"[{darkred}Map{default}] CUTE CLOUD :I don't fight with you..."
+	}
+	"CUTE CLOUD :but..."
+	{
+		"trans"		"[{darkred}Map{default}] CUTE CLOUD :but..."
+	}
+	"CUTE CLOUD :My captain fight with you !!!"
+	{
+		"trans"		"[{darkred}Map{default}] CUTE CLOUD :My captain fight with you !!!"
+	}
+	"CUTE CLOUD :HEY CAPTAIN !! PLEASE DEFEAT THEM !!!!!!!!"
+	{
+		"trans"		"[{darkred}Map{default}] CUTE CLOUD :HEY CAPTAIN !! PLEASE DEFEAT THEM !!!!!!!!"
+	}
+	"CAPTAIN CLOUD :IRASSYAI MASE"
+	{
+		"trans"		"[{darkred}Map{default}] CAPTAIN CLOUD :IRASSYAI MASE"
+	}
+	"CUTE CLOUD :Please defeat them !! We will help you !!"
+	{
+		"trans"		"[{darkred}Map{default}] CUTE CLOUD :Please defeat them !! We will help you !!"
+	}
+	"*** ZOMBIES ARE ALIVE !! BE CAREFUL !! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ZOMBIES ARE ALIVE !! BE CAREFUL !! ***"
+	}
+	"CAPTAIN CLOUD :You made me angry...."
+	{
+		"trans"		"[{darkred}Map{default}] CAPTAIN CLOUD :You made me angry...."
+	}
+	"CAPTAIN CLOUD :Look the my full power !!!!!!!!!!!!!"
+	{
+		"trans"		"[{darkred}Map{default}] CAPTAIN CLOUD :Look the my full power !!!!!!!!!!!!!"
+	}
+	"CAPTAIN CLOUD :YOU MUST DIE !!!!"
+	{
+		"trans"		"[{darkred}Map{default}] CAPTAIN CLOUD :YOU MUST DIE !!!!"
+	}
+	"CAPTAIN CLOUD :O...Oh my god... I lose..."
+	{
+		"trans"		"[{darkred}Map{default}] CAPTAIN CLOUD :O...Oh my god... I lose..."
+	}
+	"CAPTAIN CLOUD :Hey... You are very strong...."
+	{
+		"trans"		"[{darkred}Map{default}] CAPTAIN CLOUD :Hey... You are very strong...."
+	}
+	"CAPTAIN CLOUD :I think..."
+	{
+		"trans"		"[{darkred}Map{default}] CAPTAIN CLOUD :I think..."
+	}
+	"CAPTAIN CLOUD : you can defeat new formation of invader..."
+	{
+		"trans"		"[{darkred}Map{default}] CAPTAIN CLOUD : you can defeat new formation of invader..."
+	}
+	"CAPTAIN CLOUD :knowing you..."
+	{
+		"trans"		"[{darkred}Map{default}] CAPTAIN CLOUD :knowing you..."
+	}
+	"CAPTAIN CLOUD :See you again..."
+	{
+		"trans"		"[{darkred}Map{default}] CAPTAIN CLOUD :See you again..."
+	}
+	"*** You defeated captain cloud ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** You defeated captain cloud ***"
+	}
+	"*** Zombie will come in 10 seconds  ***"
+	{
+		"trans"		"[{darkred}Map{default}]  僵尸释放于10 seconds  ***"
+	}
+	"*** ZOMBIES ARE COMING ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ZOMBIES ARE COMING ***"
+	}
+	"!?"
+	{
+		"trans"		"[{darkred}Map{default}] !?"
+	}
+	"CUTE CLOUD :Hey humans !!"
+	{
+		"trans"		"[{darkred}Map{default}] CUTE CLOUD :Hey humans !!"
+	}
+	"CUTE CLOUD :I can't allow you even my captain trust you !!"
+	{
+		"trans"		"[{darkred}Map{default}] CUTE CLOUD :I can't allow you even my captain trust you !!"
+	}
+	"CUTE CLOUD :TAKE MY FINAL ATTACK !!!!!!!!!!!!!!!!!!!!!"
+	{
+		"trans"		"[{darkred}Map{default}] CUTE CLOUD :TAKE MY FINAL ATTACK !!!!!!!!!!!!!!!!!!!!!"
+	}
+	"*** We can feel hard wind pressure...!! Dodge it !!! "
+	{
+		"trans"		"[{darkred}Map{default}] *** We can feel hard wind pressure...!! Dodge it !!! "
+	}
+	"Remember : 8 COUNTS !!!!!"
+	{
+		"trans"		"[{darkred}Map{default}] Remember : 8 COUNTS !!!!!"
+	}
+	"CUTE CLOUD :AAAHhhhh...."
+	{
+		"trans"		"[{darkred}Map{default}] CUTE CLOUD :AAAHhhhh...."
+	}
+	"*** STAGE 2 :EXTREME COMPLETED ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** STAGE 2 :EXTREME COMPLETED ***"
+	}
+	"*** A PERSON PRESSED ALL ITEM BUTTON ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** A PERSON PRESSED ALL ITEM BUTTON ***"
+	}
+	"*** STAGE 3: EXTREME ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** STAGE 3: EXTREME ***"
+	}
+	"*** FIRST PORTAL ACTIVATED in 10 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** FIRST PORTAL ACTIVATED in 10 SECONDS ***"
+	}
+	"*** We don't know what will happen... ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** We don't know what will happen... ***"
+	}
+	"*** GOOD LUCK... ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** GOOD LUCK... ***"
+	}
+	"*** HE ISN'T HERE...?***"
+	{
+		"trans"		"[{darkred}Map{default}] *** HE ISN'T HERE...?***"
+	}
+	"*** ALL EXTREME STAGE COMPLETE IN 30 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ALL EXTREME STAGE COMPLETE IN 30 SECONDS ***"
+	}
+	"*** ALL EXTREME STAGE COMPLETE IN 20 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ALL EXTREME STAGE COMPLETE IN 20 SECONDS ***"
+	}
+	"*** ALL EXTREME STAGE COMPLETE IN 10 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ALL EXTREME STAGE COMPLETE IN 10 SECONDS ***"
+	}
+	"*** ALL EXTREME STAGE COMPLETE IN 5 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ALL EXTREME STAGE COMPLETE IN 5 SECONDS ***"
+	}
+	"*** EXTREME STAGE COMPLETED...? ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** EXTREME STAGE COMPLETED...? ***"
+	}
+	"*** JUMP ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** JUMP ***"
+	}
+	"*** Where are we...? ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Where are we...? ***"
+	}
+	"*** LEVEL UNKNOWN : UNKNOWN AREA *** ***"
+	{
+		"trans"		"[{darkred}Map{default}]  区域UNKNOWN : UNKNOWN AREA *** ***"
+	}
+	"*** Wait until esc key come ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Wait until esc key come ***"
+	}
+	"*** Star road will active in 20 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Star road will active in 20 seconds ***"
+	}
+	"*** Star road will active in 5 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Star road will active in 5 seconds ***"
+	}
+	"*** YOU CAN ACROSS NOW !! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** YOU CAN ACROSS NOW !! ***"
+	}
+	"*** We have lost the escape route ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** We have lost the escape route ***"
+	}
+	"*** Wait until something happen ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Wait until something happen ***"
+	}
+	"*** 5 seconds left ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 5 seconds left ***"
+	}
+	"CRASHER : hahahahHAHAHAHAHHHAHHAHAhHHHHHAAHAHA"
+	{
+		"trans"		"[{darkred}Map{default}] CRASHER : hahahahHAHAHAHAHHHAHHAHAhHHHHHAAHAHA"
+	}
+	"CRASHER : You can't kill me forever !!!!"
+	{
+		"trans"		"[{darkred}Map{default}] CRASHER : You can't kill me forever !!!!"
+	}
+	"*** FLYING CHANCE ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** FLYING CHANCE ***"
+	}
+	"*** TAPIOKA PUNCH ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** TAPIOKA PUNCH ***"
+	}
+	"*** KEYBOARD CUTTER ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** KEYBOARD CUTTER ***"
+	}
+	"*** ZOMBIE WAVE ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ZOMBIE WAVE ***"
+	}
+	"*** ESC STORM ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ESC STORM ***"
+	}
+	"*** DRAIN KEYBOARD ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** DRAIN KEYBOARD ***"
+	}
+	"*** CRASHER HEALED 70 HP ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** CRASHER HEALED 70 HP ***"
+	}
+	"*** >>>> WARNING <<<< KEYBOARD RUSH ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** >>>> WARNING <<<< KEYBOARD RUSH ***"
+	}
+	"CRASHER :HAHAHA!!! What's the taste of this !!!?!?!?!"
+	{
+		"trans"		"[{darkred}Map{default}] CRASHER :HAHAHA!!! What's the taste of this !!!?!?!?!"
+	}
+	"CRASHER :It's over !!!!!!!!!!!!! HAHAHAHAHAHHAHHHHHH !!!!!!"
+	{
+		"trans"		"[{darkred}Map{default}] CRASHER :It's over !!!!!!!!!!!!! HAHAHAHAHAHHAHHHHHH !!!!!!"
+	}
+	"????? :That you won't !!!"
+	{
+		"trans"		"[{darkred}Map{default}] ????? :That you won't !!!"
+	}
+	"CAPTAIN CLOUD :Don't take hand for them !!"
+	{
+		"trans"		"[{darkred}Map{default}] CAPTAIN CLOUD :Don't take hand for them !!"
+	}
+	"CAPTAIN CLOUD :Hey! Humans !! I will help you !!"
+	{
+		"trans"		"[{darkred}Map{default}] CAPTAIN CLOUD :Hey! Humans !! I will help you !!"
+	}
+	"CAPTAIN :Pick up me !! I will attack him !!!"
+	{
+		"trans"		"[{darkred}Map{default}] CAPTAIN :Pick up me !! I will attack him !!!"
+	}
+	"*** A player has picked up the Captain cloud ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** A player has picked up the Captain cloud ***"
+	}
+	"CAPTAIN :I'm giving my power to you..."
+	{
+		"trans"		"[{darkred}Map{default}] CAPTAIN :I'm giving my power to you..."
+	}
+	"CRASHER :HAHAHA !!! You can't kill me whatever you do anything !!!!!!"
+	{
+		"trans"		"[{darkred}Map{default}] CRASHER :HAHAHA !!! You can't kill me whatever you do anything !!!!!!"
+	}
+	"*** OVERRUN PROTECTER DISABLED ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** OVERRUN PROTECTER DISABLED ***"
+	}
+	"*** OVERRUN PROTECTER ENABLED ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** OVERRUN PROTECTER ENABLED ***"
+	}
+	"*** KEYBOARD ATTACK ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** KEYBOARD ATTACK ***"
+	}
+	"CRASHER :Wha...What...? I was defeated by them....?"
+	{
+		"trans"		"[{darkred}Map{default}] CRASHER :Wha...What...? I was defeated by them....?"
+	}
+	"CRASHER :BANZAIIIIIIIIIIIIIIIIIIIII !!!!!!!!!!!!!!!!!!"
+	{
+		"trans"		"[{darkred}Map{default}] CRASHER :BANZAIIIIIIIIIIIIIIIIIIIII !!!!!!!!!!!!!!!!!!"
+	}
+	"CAPTAIN CLOUD :Thanks for helping defeat him...."
+	{
+		"trans"		"[{darkred}Map{default}] CAPTAIN CLOUD :Thanks for helping defeat him...."
+	}
+	"CAPTAIN CLOUD :You are our hero...."
+	{
+		"trans"		"[{darkred}Map{default}] CAPTAIN CLOUD :You are our hero...."
+	}
+	"CAPTAIN CLOUD :I don't forgot this thing. See you again...."
+	{
+		"trans"		"[{darkred}Map{default}] CAPTAIN CLOUD :I don't forgot this thing. See you again...."
+	}
+	"*** WE BACKED ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** WE BACKED ***"
+	}
+	"*** THIS IS OUR LAST STAND !!!!!!! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** THIS IS OUR LAST STAND !!!!!!! ***"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 40 SECONDS !!!!! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SKY ATHLETIC COMPLETE IN 40 SECONDS !!!!! ***"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 30 SECONDS !!!!! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SKY ATHLETIC COMPLETE IN 30 SECONDS !!!!! ***"
+	}
+	"CUTE CLOUD and Girl CLOUD: You shall not pass !!!!!!!"
+	{
+		"trans"		"[{darkred}Map{default}] CUTE CLOUD and Girl CLOUD: You shall not pass !!!!!!!"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 20 SECONDS !!!!! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SKY ATHLETIC COMPLETE IN 20 SECONDS !!!!! ***"
+	}
+	"CUTE CLOUD and Girl CLOUD: Do your best !!!"
+	{
+		"trans"		"[{darkred}Map{default}] CUTE CLOUD and Girl CLOUD: Do your best !!!"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 10 SECONDS !!!!! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SKY ATHLETIC COMPLETE IN 10 SECONDS !!!!! ***"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 9 SECONDS !!!!! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SKY ATHLETIC COMPLETE IN 9 SECONDS !!!!! ***"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 8 SECONDS !!!!! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SKY ATHLETIC COMPLETE IN 8 SECONDS !!!!! ***"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 7 SECONDS !!!!! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SKY ATHLETIC COMPLETE IN 7 SECONDS !!!!! ***"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 6 SECONDS !!!!! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SKY ATHLETIC COMPLETE IN 6 SECONDS !!!!! ***"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 5 SECONDS !!!!! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SKY ATHLETIC COMPLETE IN 5 SECONDS !!!!! ***"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 4 SECONDS !!!!! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SKY ATHLETIC COMPLETE IN 4 SECONDS !!!!! ***"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 3 SECONDS !!!!! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SKY ATHLETIC COMPLETE IN 3 SECONDS !!!!! ***"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 2 SECONDS !!!!! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SKY ATHLETIC COMPLETE IN 2 SECONDS !!!!! ***"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 1 SECONDS !!!!! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SKY ATHLETIC COMPLETE IN 1 SECONDS !!!!! ***"
+	}
+}

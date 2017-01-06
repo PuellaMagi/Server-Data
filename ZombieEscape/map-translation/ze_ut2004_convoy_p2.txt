@@ -1,0 +1,239 @@
+"Chat"
+{
+	"> ZE UT2004 CONVOY"
+	{
+		"trans"		"[{darkred}Map{default}] > ZE UT2004 CONVOY"
+	}
+	"> NOVICE DIFFICULTY"
+	{
+		"trans"		"[{darkred}Map{default}] > NOVICE DIFFICULTY"
+	}
+	"> Map by SubDelt@"
+	{
+		"trans"		"[{darkred}Map{default}] > Map by SubDelt@"
+	}
+	"> Thanks to"
+	{
+		"trans"		"[{darkred}Map{default}] > Thanks to"
+	}
+	"> Cuniczek and Kaemon - helping with Propper"
+	{
+		"trans"		"[{darkred}Map{default}] > Cuniczek and Kaemon - helping with Propper"
+	}
+	"> Kaesar - providing UT2004 models"
+	{
+		"trans"		"[{darkred}Map{default}] > Kaesar - providing UT2004 models"
+	}
+	"> JorisCeoen - modeling help"
+	{
+		"trans"		"[{darkred}Map{default}] > JorisCeoen - modeling help"
+	}
+	"> Enviolinador - lots of general help"
+	{
+		"trans"		"[{darkred}Map{default}] > Enviolinador - lots of general help"
+	}
+	">>> EXTEND THE BOARDING PLATFORM TO GAIN ACCESS TO THE REPAIR VESSEL <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> EXTEND THE BOARDING PLATFORM TO GAIN ACCESS TO THE REPAIR VESSEL <<<"
+	}
+	">>> THE BOARDING PLATFORM EXTENDS IN 35 SECONDS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> THE BOARDING PLATFORM EXTENDS IN 35 SECONDS <<<"
+	}
+	">>> THE BOARDING PLATFORM EXTENDS IN 15 SECONDS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> THE BOARDING PLATFORM EXTENDS IN 15 SECONDS <<<"
+	}
+	">>> THE BOARDING PLATFORM EXTENDS IN 5 SECONDS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> THE BOARDING PLATFORM EXTENDS IN 5 SECONDS <<<"
+	}
+	"> BERSERK COMBO has been acquired"
+	{
+		"trans"		"[{darkred}Map{default}] > BERSERK COMBO has been acquired"
+	}
+	">>> THE BOARDING PLATFORM HAS BEEN EXTENDED <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> THE BOARDING PLATFORM HAS BEEN EXTENDED <<<"
+	}
+	">>> DESTROY THE DOOR OF THE REPAIR VESSEL <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> DESTROY THE DOOR OF THE REPAIR VESSEL <<<"
+	}
+	">>> THE EXPLOSIVES ARE IN PLACE! <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> THE EXPLOSIVES ARE IN PLACE! <<<"
+	}
+	">>> EXPLOSION IN 40 SECONDS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> EXPLOSION IN 40 SECONDS <<<"
+	}
+	">>> EXPLOSION IN 20 SECONDS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> EXPLOSION IN 20 SECONDS <<<"
+	}
+	">>> EXPLOSION IN 5 SECONDS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> EXPLOSION IN 5 SECONDS <<<"
+	}
+	">>> YOU MUST OPEN THE REAR DOOR OF THE REPAIR VESSEL <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> YOU MUST OPEN THE REAR DOOR OF THE REPAIR VESSEL <<<"
+	}
+	"> Tip - You can do this by standing near the lever at the rear part of the vessel"
+	{
+		"trans"		"[{darkred}Map{default}] > Tip - You can do this by standing near the lever at the rear part of the vessel"
+	}
+	">>> THE REAR DOOR HAS BEEN OPENED <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> THE REAR DOOR HAS BEEN OPENED <<<"
+	}
+	">>> REINFORCEMENTS ARE ON THE WAY! <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> REINFORCEMENTS ARE ON THE WAY! <<<"
+	}
+	">>> YOU MUST OPEN THE SIDE DOORS OF THE REPAIR VESSEL <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> YOU MUST OPEN THE SIDE DOORS OF THE REPAIR VESSEL <<<"
+	}
+	">>> WARNING! INBOUND AIRSTRIKE! <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> WARNING! INBOUND AIRSTRIKE! <<<"
+	}
+	">>> SEEK SHELTER WITHIN THE REPAIR VESSEL IMMEDIATELY! <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> SEEK SHELTER WITHIN THE REPAIR VESSEL IMMEDIATELY! <<<"
+	}
+	">>> SIDE DOORS OPEN IN 45 SECONDS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> SIDE DOORS OPEN IN 45 SECONDS <<<"
+	}
+	">>> SIDE DOORS OPEN IN 20 SECONDS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> SIDE DOORS OPEN IN 20 SECONDS <<<"
+	}
+	">>> SIDE DOORS OPEN IN 5 SECONDS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> SIDE DOORS OPEN IN 5 SECONDS <<<"
+	}
+	">>> SIDE DOORS ARE OPENING <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> SIDE DOORS ARE OPENING <<<"
+	}
+	">>> YOU MUST INFILTRATE THE N.E.X.U.S. TRAILER <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> YOU MUST INFILTRATE THE N.E.X.U.S. TRAILER <<<"
+	}
+	">>> N.E.X.U.S. TRAILER HATCH OPENS IN 40 SECONDS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> N.E.X.U.S. TRAILER HATCH OPENS IN 40 SECONDS <<<"
+	}
+	">>> N.E.X.U.S. TRAILER HATCH OPENS IN 20 SECONDS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> N.E.X.U.S. TRAILER HATCH OPENS IN 20 SECONDS <<<"
+	}
+	">>> THE FORWARD WEAPON CACHE HAS BEEN STOLEN! <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> THE FORWARD WEAPON CACHE HAS BEEN STOLEN! <<<"
+	}
+	">>> N.E.X.U.S. TRAILER HATCH OPENS IN 5 SECONDS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> N.E.X.U.S. TRAILER HATCH OPENS IN 5 SECONDS <<<"
+	}
+	">>> N.E.X.U.S. TRAILER HATCH IS OPEN! <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> N.E.X.U.S. TRAILER HATCH IS OPEN! <<<"
+	}
+	">>> YOU CAN NOW RETRIEVE THE N.E.X.U.S. MISSILES <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> YOU CAN NOW RETRIEVE THE N.E.X.U.S. MISSILES <<<"
+	}
+	"> REDEEMER has been acquired"
+	{
+		"trans"		"[{darkred}Map{default}] > REDEEMER has been acquired"
+	}
+	">>> WE ARE LEAVING IN 10 SECONDS! <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> WE ARE LEAVING IN 10 SECONDS! <<<"
+	}
+	">>> 5 <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> 5 <<<"
+	}
+	">>> 4 <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> 4 <<<"
+	}
+	">>> 3 <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> 3 <<<"
+	}
+	">>> 2 <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> 2 <<<"
+	}
+	">>> 1 <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> 1 <<<"
+	}
+	">>> THE N.E.X.U.S. MISSILES HAVE BEEN SECURED <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> THE N.E.X.U.S. MISSILES HAVE BEEN SECURED <<<"
+	}
+	">>> MOVING ON TO EXPERIENCED DIFFICULTY <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> MOVING ON TO EXPERIENCED DIFFICULTY <<<"
+	}
+	"> EXPERIENCED DIFFICULTY"
+	{
+		"trans"		"[{darkred}Map{default}] > EXPERIENCED DIFFICULTY"
+	}
+	"> LIGHTING RIFLE has been acquired"
+	{
+		"trans"		"[{darkred}Map{default}] > LIGHTING RIFLE has been acquired"
+	}
+	">>> GET RID OF THE REMAINING ENEMIES ON THE TRUCK! <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> GET RID OF THE REMAINING ENEMIES ON THE TRUCK! <<<"
+	}
+	">>> MOVING ON TO MASTERFUL DIFFICULTY <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> MOVING ON TO MASTERFUL DIFFICULTY <<<"
+	}
+	">>> NO FRIENDLY FORCES DETECTED ON THE TRUCK <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> NO FRIENDLY FORCES DETECTED ON THE TRUCK <<<"
+	}
+	"> FLAK CANNON has been acquired"
+	{
+		"trans"		"[{darkred}Map{default}] > FLAK CANNON has been acquired"
+	}
+	"> ROCKET LAUNCHER has been acquired"
+	{
+		"trans"		"[{darkred}Map{default}] > ROCKET LAUNCHER has been acquired"
+	}
+	"> MASTERFUL DIFFICULTY"
+	{
+		"trans"		"[{darkred}Map{default}] > MASTERFUL DIFFICULTY"
+	}
+	">>> MOVING ON TO GODLIKE DIFFICULTY <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> MOVING ON TO GODLIKE DIFFICULTY <<<"
+	}
+	"> GODLIKE DIFFICULTY"
+	{
+		"trans"		"[{darkred}Map{default}] > GODLIKE DIFFICULTY"
+	}
+	">>> DREADNOUGHT DETECTED! <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> DREADNOUGHT DETECTED! <<<"
+	}
+	">>> SHOOTING THE CARGO HOLD DOES NOTHING! TRY TO DESTROY THE ENGINE OR KILL THE DRIVER! <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> SHOOTING THE CARGO HOLD DOES NOTHING! TRY TO DESTROY THE ENGINE OR KILL THE DRIVER! <<<"
+	}
+	">>> MOVING BACK TO NOVICE DIFFICULTY <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> MOVING BACK TO NOVICE DIFFICULTY <<<"
+	}
+}

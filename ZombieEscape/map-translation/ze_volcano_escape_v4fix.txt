@@ -1,0 +1,95 @@
+"Chat"
+{
+	"*** Map made by RelaxingWalls (제작자 : RelaxingWalls) ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Map made by RelaxingWalls (제작자 : RelaxingWalls) ***"
+	}
+	"*** Map ported by [ＥSＣAＰＥ] Loving You (수정자 : 러빙유) ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Map ported by [ＥSＣAＰＥ] Loving You (수정자 : 러빙유) ***"
+	}
+	"***Left Gate opening 15secs.***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Left Gate opening 15secs.***"
+	}
+	"***Left Gate open.***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Left Gate open.***"
+	}
+	"***Right Elevator leaving in 25secs.***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Right Elevator leaving in 25secs.***"
+	}
+	"***Left Elevator leaving in 25secs.***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Left Elevator leaving in 25secs.***"
+	}
+	"***Stay off the lava as it rises!***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Stay off the lava as it rises!***"
+	}
+	"***Lava levels are rising! Volcano entrance has been destroyed!***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Lava levels are rising! Volcano entrance has been destroyed!***"
+	}
+	"***Right Gate opening 15secs.***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Right Gate opening 15secs.***"
+	}
+	"***Lava levels are rising center chamber has been destroyed***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Lava levels are rising center chamber has been destroyed***"
+	}
+	"***Balloon leaving in 75secs.***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Balloon leaving in 75secs.***"
+	}
+	"***Defend the stairs!***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Defend the stairs!***"
+	}
+	"***Lava levels are rising!***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Lava levels are rising!***"
+	}
+	"***Balloon leaving in 30secs.***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Balloon leaving in 30secs.***"
+	}
+	"***Balloon leaving in 5secs.***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Balloon leaving in 5secs.***"
+	}
+	"***Volcano Erupting!***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Volcano Erupting!***"
+	}
+	"***5***"
+	{
+		"trans"		"[{darkred}Map{default}] ***5***"
+	}
+	"***4***"
+	{
+		"trans"		"[{darkred}Map{default}] ***4***"
+	}
+	"***3***"
+	{
+		"trans"		"[{darkred}Map{default}] ***3***"
+	}
+	"***2***"
+	{
+		"trans"		"[{darkred}Map{default}] ***2***"
+	}
+	"***1***"
+	{
+		"trans"		"[{darkred}Map{default}] ***1***"
+	}
+	"***Right Gate open.***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Right Gate open.***"
+	}
+	"***Beware of falling rocks!***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Beware of falling rocks!***"
+	}
+}

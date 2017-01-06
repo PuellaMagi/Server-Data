@@ -1,0 +1,59 @@
+"Chat"
+{
+	"*** USE CONTROL PANEL TO STOP FANS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** USE CONTROL PANEL TO STOP FANS ***"
+	}
+	"*** WARNING - FANS STOP AND START AUTOMATICALLY ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** WARNING - FANS STOP AND START AUTOMATICALLY ***"
+	}
+	"*** WAIT FOR DOOR TO OPEN ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** WAIT FOR DOOR TO OPEN ***"
+	}
+	"*** SMALL DOORS CLOSING ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SMALL DOORS CLOSING ***"
+	}
+	"*** USE THE FAN TO PUSH YOU UP ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** USE THE FAN TO PUSH YOU UP ***"
+	}
+	"*** WARNING - RAIL AND WATER HIGH VOLTAGE ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** WARNING - RAIL AND WATER HIGH VOLTAGE ***"
+	}
+	"*** TRUCKS GETTING FUEL - 1 MINUTE UNTILL READY ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** TRUCKS GETTING FUEL - 1 MINUTE UNTILL READY ***"
+	}
+	"*** DOORS CLOSING ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** DOORS CLOSING ***"
+	}
+	"*** DOOR MALFUNCTION ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** DOOR MALFUNCTION ***"
+	}
+	"*** TRUCKS FUEL DONE - GET IN TRUCKS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** TRUCKS FUEL DONE - GET IN TRUCKS ***"
+	}
+	"*** USE RADIO TO LAUNCH NUKE ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** USE RADIO TO LAUNCH NUKE ***"
+	}
+	"***Map Ported By Et3rnity***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Map Ported By Et3rnity***"
+	}
+	"*** NUKE IN 5 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** NUKE IN 5 SECONDS ***"
+	}
+	"*** MAP BY JB_GAMBLE ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** MAP BY JB_GAMBLE ***"
+	}
+}

@@ -1,0 +1,23 @@
+"﻿"
+{
+	">>> Left Door opening in 10 seconds<<< "
+	{
+		"trans"		"[{darkred}Map{default}] >>> Left Door opening in 10 seconds<<< "
+	}
+	">>> right Door opening in 10 seconds<<< "
+	{
+		"trans"		"[{darkred}Map{default}] >>> right Door opening in 10 seconds<<< "
+	}
+	">>> hold this level for 40 seconds untill the gate oppens<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> hold this level for 40 seconds untill the gate oppens<<<"
+	}
+	">>> take wise when useing the TNT, no friendly fire<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> take wise when useing the TNT, no friendly fire<<<"
+	}
+	">>>lift is opening in 5 seconds<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>lift is opening in 5 seconds<<<"
+	}
+}

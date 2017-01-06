@@ -1,0 +1,67 @@
+"Chat"
+{
+	"***Ok marines, listen up.  The last Metroid is being held somewhere here on planet Zebes.***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Ok marines, listen up.  The last Metroid is being held somewhere here on planet Zebes.***"
+	}
+	"***Commander Xenosaj's orders are clear: find the Metroid, retrieve or eliminate it, and get out.***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Commander Xenosaj's orders are clear: find the Metroid, retrieve or eliminate it, and get out.***"
+	}
+	"***Head for the abandoned bunker north of your location.  Start searching there.***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Head for the abandoned bunker north of your location.  Start searching there.***"
+	}
+	"***Hostile movement detected south of your position.  I'm sealing the bunker doors in 10 seconds, get in or get left behind!***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Hostile movement detected south of your position.  I'm sealing the bunker doors in 10 seconds, get in or get left behind!***"
+	}
+	"***I've managed to activate the secondary bulkheads, that should keep them--shit, watch out for Ridley's firebeam!***"
+	{
+		"trans"		"[{darkred}Map{default}] ***I've managed to activate the secondary bulkheads, that should keep them--shit, watch out for Ridley's firebeam!***"
+	}
+	"***There's a hidden exit in the back, hold them off while I try to open it.***"
+	{
+		"trans"		"[{darkred}Map{default}] ***There's a hidden exit in the back, hold them off while I try to open it.***"
+	}
+	"***The exit's clear, get out of there!***"
+	{
+		"trans"		"[{darkred}Map{default}] ***The exit's clear, get out of there!***"
+	}
+	"***I don't know where that teleporter will take you, but it's better than staying here!***"
+	{
+		"trans"		"[{darkred}Map{default}] ***I don't know where that teleporter will take you, but it's better than staying here!***"
+	}
+	"***Welcome to Zebes' version of hell--Norfair.  You've got maybe a minute before the heat overwhelms you.***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Welcome to Zebes' version of hell--Norfair.  You've got maybe a minute before the heat overwhelms you.***"
+	}
+	"***There's a teleporter up top.  Make your way across the bridge and use the grappling beams to get to the higher ledges.***"
+	{
+		"trans"		"[{darkred}Map{default}] ***There's a teleporter up top.  Make your way across the bridge and use the grappling beams to get to the higher ledges.***"
+	}
+	"***WARNING.  INTRUDERS DETECTED IN METROID HABITATION CHAMBER.***"
+	{
+		"trans"		"[{darkred}Map{default}] ***WARNING.  INTRUDERS DETECTED IN METROID HABITATION CHAMBER.***"
+	}
+	"***MOTHER BRAIN DEFENSE SYSTEM ACTIVATED.  CHAMBER PURGE IN TEN SECONDS.***"
+	{
+		"trans"		"[{darkred}Map{default}] ***MOTHER BRAIN DEFENSE SYSTEM ACTIVATED.  CHAMBER PURGE IN TEN SECONDS.***"
+	}
+	"***Quick--shoot out the glass surrounding Mother Brain!***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Quick--shoot out the glass surrounding Mother Brain!***"
+	}
+	"***SYSTEM MALFUNCTION.  ACTIVATING SECONDARY SYSTEMS.***"
+	{
+		"trans"		"[{darkred}Map{default}] ***SYSTEM MALFUNCTION.  ACTIVATING SECONDARY SYSTEMS.***"
+	}
+	"***SELF-DESTRUCT SEQUENCE INITIATED.  ONE MINUTE UNTIL REACTOR CORE MELTDOWN.***"
+	{
+		"trans"		"[{darkred}Map{default}] ***SELF-DESTRUCT SEQUENCE INITIATED.  ONE MINUTE UNTIL REACTOR CORE MELTDOWN.***"
+	}
+	"***The exit's clear, get the hell out of there.  You've got maybe ten seconds before the zombies can follow.***"
+	{
+		"trans"		"[{darkred}Map{default}] ***The exit's clear, get the hell out of there.  You've got maybe ten seconds before the zombies can follow.***"
+	}
+}

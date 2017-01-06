@@ -1,0 +1,203 @@
+"Chat"
+{
+	"**Giant red star is unstable**"
+	{
+		"trans"		"[{darkred}Map{default}] **Giant red star is unstable**"
+	}
+	"**Go to the top of the station and find scape pods**"
+	{
+		"trans"		"[{darkred}Map{default}] **Go to the top of the station and find scape pods**"
+	}
+	"**Map by Eddie**"
+	{
+		"trans"		"[{darkred}Map{default}] **Map by Eddie**"
+	}
+	"**맵 제작자 : Eddie**"
+	{
+		"trans"		"[{darkred}Map{default}] **맵 제작자 : Eddie**"
+	}
+	"**Special thanks to Kaemon and Hannibal (SPA)**"
+	{
+		"trans"		"[{darkred}Map{default}] **Special thanks to Kaemon and Hannibal (SPA)**"
+	}
+	"**맵 조력자 : Kaemon, Hannibal (SPA)**"
+	{
+		"trans"		"[{darkred}Map{default}] **맵 조력자 : Kaemon, Hannibal (SPA)**"
+	}
+	"**And also thanks to i3D Community and Supreme Elite Community**"
+	{
+		"trans"		"[{darkred}Map{default}] **And also thanks to i3D Community and Supreme Elite Community**"
+	}
+	"**Map ported by [ＥSＣAＰＥ] Loving You **"
+	{
+		"trans"		"[{darkred}Map{default}] **Map ported by [ＥSＣAＰＥ] Loving You **"
+	}
+	"**맵 수정자 : [ＥSＣAＰＥ] Loving You**"
+	{
+		"trans"		"[{darkred}Map{default}] **맵 수정자 : [ＥSＣAＰＥ] Loving You**"
+	}
+	"**소나기, 러빙유 탈출좀비 서버를 많이 기억해주세요.**"
+	{
+		"trans"		"[{darkred}Map{default}] **소나기, 러빙유 탈출좀비 서버를 많이 기억해주세요.**"
+	}
+	"** Cargo secction upper door opening in 15s**"
+	{
+		"trans"		"[{darkred}Map{default}] ** Cargo secction upper door opening in 15s**"
+	}
+	"** Cargo secction upper door opening in 5s**"
+	{
+		"trans"		"[{darkred}Map{default}] ** Cargo secction upper door opening in 5s**"
+	}
+	"**Closing gravity tower upper acces**"
+	{
+		"trans"		"[{darkred}Map{default}] **Closing gravity tower upper acces**"
+	}
+	"**Crate locking gravity tower acces**"
+	{
+		"trans"		"[{darkred}Map{default}] **Crate locking gravity tower acces**"
+	}
+	"**Gravity tower acces breaking crate in 5s**"
+	{
+		"trans"		"[{darkred}Map{default}] **Gravity tower acces breaking crate in 5s**"
+	}
+	"**Cargo lift leaving in 30 s**"
+	{
+		"trans"		"[{darkred}Map{default}] **Cargo lift leaving in 30 s**"
+	}
+	"**Pods will departure in 2 minutes**"
+	{
+		"trans"		"[{darkred}Map{default}] **Pods will departure in 2 minutes**"
+	}
+	"**Cargo lift leaving in 15 s**"
+	{
+		"trans"		"[{darkred}Map{default}] **Cargo lift leaving in 15 s**"
+	}
+	"**Cargo lift leaving in 5 s**"
+	{
+		"trans"		"[{darkred}Map{default}] **Cargo lift leaving in 5 s**"
+	}
+	"**Giant Star is in critical situation**"
+	{
+		"trans"		"[{darkred}Map{default}] **Giant Star is in critical situation**"
+	}
+	"**You should cover both escape pods**"
+	{
+		"trans"		"[{darkred}Map{default}] **You should cover both escape pods**"
+	}
+	"**Do not allow zombies to infect pods**"
+	{
+		"trans"		"[{darkred}Map{default}] **Do not allow zombies to infect pods**"
+	}
+	"**All zombies will get teleported to the infected pod**"
+	{
+		"trans"		"[{darkred}Map{default}] **All zombies will get teleported to the infected pod**"
+	}
+	"**Pods wil departure in 1 minute**"
+	{
+		"trans"		"[{darkred}Map{default}] **Pods wil departure in 1 minute**"
+	}
+	"**Pod acces door will close in 20 s**"
+	{
+		"trans"		"[{darkred}Map{default}] **Pod acces door will close in 20 s**"
+	}
+	"**Pod acces door will close in 10 s**"
+	{
+		"trans"		"[{darkred}Map{default}] **Pod acces door will close in 10 s**"
+	}
+	"**Pod acces door will close in 5 s**"
+	{
+		"trans"		"[{darkred}Map{default}] **Pod acces door will close in 5 s**"
+	}
+	"**Pods are leaving the platform**"
+	{
+		"trans"		"[{darkred}Map{default}] **Pods are leaving the platform**"
+	}
+	"**Pods are leaving the dangerous area**"
+	{
+		"trans"		"[{darkred}Map{default}] **Pods are leaving the dangerous area**"
+	}
+	"**The star has exploded**"
+	{
+		"trans"		"[{darkred}Map{default}] **The star has exploded**"
+	}
+	"**Station will not resist the explosion**"
+	{
+		"trans"		"[{darkred}Map{default}] **Station will not resist the explosion**"
+	}
+	"**What the hell...**"
+	{
+		"trans"		"[{darkred}Map{default}] **What the hell...**"
+	}
+	"**A blackhole!**"
+	{
+		"trans"		"[{darkred}Map{default}] **A blackhole!**"
+	}
+	"**Push zombies at the rear section of each pod**"
+	{
+		"trans"		"[{darkred}Map{default}] **Push zombies at the rear section of each pod**"
+	}
+	"**Sections will separate from the pod and will fall to the blackhole**"
+	{
+		"trans"		"[{darkred}Map{default}] **Sections will separate from the pod and will fall to the blackhole**"
+	}
+	"**Rear section sealing in 15 s**"
+	{
+		"trans"		"[{darkred}Map{default}] **Rear section sealing in 15 s**"
+	}
+	"**Gravity of the blackhole is very strong**"
+	{
+		"trans"		"[{darkred}Map{default}] **Gravity of the blackhole is very strong**"
+	}
+	"**Rear section sealing in 5 s**"
+	{
+		"trans"		"[{darkred}Map{default}] **Rear section sealing in 5 s**"
+	}
+	"**Rear section leaving the structure**"
+	{
+		"trans"		"[{darkred}Map{default}] **Rear section leaving the structure**"
+	}
+	"**Double doors sealing in 15s**"
+	{
+		"trans"		"[{darkred}Map{default}] **Double doors sealing in 15s**"
+	}
+	"**Double doors sealing in 5s**"
+	{
+		"trans"		"[{darkred}Map{default}] **Double doors sealing in 5s**"
+	}
+	"**Sealing double doors**"
+	{
+		"trans"		"[{darkred}Map{default}] **Sealing double doors**"
+	}
+	"**Sealing elevator acces for security**"
+	{
+		"trans"		"[{darkred}Map{default}] **Sealing elevator acces for security**"
+	}
+	"**Door malfunction**"
+	{
+		"trans"		"[{darkred}Map{default}] **Door malfunction**"
+	}
+	"**Generator Elevator leaving in 25 s**"
+	{
+		"trans"		"[{darkred}Map{default}] **Generator Elevator leaving in 25 s**"
+	}
+	"**Generator Elevator leaving 15 s**"
+	{
+		"trans"		"[{darkred}Map{default}] **Generator Elevator leaving 15 s**"
+	}
+	"**Generator Elevator is leaving**"
+	{
+		"trans"		"[{darkred}Map{default}] **Generator Elevator is leaving**"
+	}
+	"**Central section sealing in 15 s**"
+	{
+		"trans"		"[{darkred}Map{default}] **Central section sealing in 15 s**"
+	}
+	"**Central section sealing in 5 s**"
+	{
+		"trans"		"[{darkred}Map{default}] **Central section sealing in 5 s**"
+	}
+	"**Central section leaving the structure**"
+	{
+		"trans"		"[{darkred}Map{default}] **Central section leaving the structure**"
+	}
+}

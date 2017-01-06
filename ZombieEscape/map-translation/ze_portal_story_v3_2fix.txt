@@ -1,0 +1,215 @@
+"Chat"
+{
+	">>> ZE PORTAL STORY - NORMAL DIFFICULTY <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> ZE PORTAL STORY - NORMAL DIFFICULTY <<<"
+	}
+	">>> Map made by SubDelt@ (제작자 : SubDelt@) <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> Map made by SubDelt@ (제작자 : SubDelt@) <<<"
+	}
+	">>> Thanks to <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> Thanks to <<<"
+	}
+	">>> Enviolinador - multiple things help (조력자 : Enviolinador) <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> Enviolinador - multiple things help (조력자 : Enviolinador) <<<"
+	}
+	">>> (RMG) Synopsis [pF] - special items help (아이템 : (RMG) Synopsis [pF]) <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> (RMG) Synopsis [pF] - special items help (아이템 : (RMG) Synopsis [pF]) <<<"
+	}
+	">>> JorisCeoen - models help (모델 : JorisCeoen) <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> JorisCeoen - models help (모델 : JorisCeoen) <<<"
+	}
+	">>> Luffaren - particles help (파티클 : Luffaren) <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> Luffaren - particles help (파티클 : Luffaren) <<<"
+	}
+	">>> Map ported by [ＥSＣAＰＥ] Loving You (수정자 : 러빙유) <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> Map ported by [ＥSＣAＰＥ] Loving You (수정자 : 러빙유) <<<"
+	}
+	">>> HOLD THIS CHAMBER. DOOR IS OPENING IN 25 SECS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> HOLD THIS CHAMBER. DOOR IS OPENING IN 25 SECS <<<"
+	}
+	">>> DOOR IS OPENING IN 5 SECS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> DOOR IS OPENING IN 5 SECS <<<"
+	}
+	">>> DOOR IS OPEN. ELEVATOR LEAVES IN 10 SECS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> DOOR IS OPEN. ELEVATOR LEAVES IN 10 SECS <<<"
+	}
+	">>> HOLD THE ENTRANCE UNTIL OTHERS SEARCH THE SOLUTION <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> HOLD THE ENTRANCE UNTIL OTHERS SEARCH THE SOLUTION <<<"
+	}
+	">>> HOLD THE STAIRS UNTIL OTHERS SEARCH THE SOLUTION <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> HOLD THE STAIRS UNTIL OTHERS SEARCH THE SOLUTION <<<"
+	}
+	">>> SOLUTION FOUND <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> SOLUTION FOUND <<<"
+	}
+	">>> Repulsion gel has been aquired <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> Repulsion gel has been aquired <<<"
+	}
+	">>> It has a 50 second cooldown and slow zombies down <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> It has a 50 second cooldown and slow zombies down <<<"
+	}
+	">>> HOLD THE ROOM UNTIL THE DOOR IS OPEN <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> HOLD THE ROOM UNTIL THE DOOR IS OPEN <<<"
+	}
+	">>> 5 SECS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> 5 SECS <<<"
+	}
+	">>> Propulsion gel has been aquired <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> Propulsion gel has been aquired <<<"
+	}
+	">>> It has a 40 Second cooldown and speeds humans up <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> It has a 40 Second cooldown and speeds humans up <<<"
+	}
+	">>> HOLD THIS PLACE FOR 35 SECS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> HOLD THIS PLACE FOR 35 SECS <<<"
+	}
+	">>> 15 SECS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> 15 SECS <<<"
+	}
+	">>> ZOMBIES WAIT UNTIL THE BRIDGE GOES BACK <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> ZOMBIES WAIT UNTIL THE BRIDGE GOES BACK <<<"
+	}
+	">>> DESTROY THE TURRETS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> DESTROY THE TURRETS <<<"
+	}
+	">>> HOLD THE SEWER UNTIL THE GRATE IS DOWN <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> HOLD THE SEWER UNTIL THE GRATE IS DOWN <<<"
+	}
+	">>> 20 SECS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> 20 SECS <<<"
+	}
+	">>> TURRETS DESTROYED <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> TURRETS DESTROYED <<<"
+	}
+	">>> HOLD THE GLaDOS ROOM FOR 25 SECS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> HOLD THE GLaDOS ROOM FOR 25 SECS <<<"
+	}
+	">>> DOOR IS CLOSING IN 5 SECS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> DOOR IS CLOSING IN 5 SECS <<<"
+	}
+	">>> NEUROTOXIN SYSTEM ENABLED! NEUROTOXIN IN 2 MINUTES! <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> NEUROTOXIN SYSTEM ENABLED! NEUROTOXIN IN 2 MINUTES! <<<"
+	}
+	">>> NEUROTOXIN IN 1 MINUTE! <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> NEUROTOXIN IN 1 MINUTE! <<<"
+	}
+	">>> NEUROTOXIN IN 30 SECS! <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> NEUROTOXIN IN 30 SECS! <<<"
+	}
+	">>> NEUROTOXIN IN 15 SECS! <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> NEUROTOXIN IN 15 SECS! <<<"
+	}
+	">>> NEUROTOXIN IN 5 SECS! <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> NEUROTOXIN IN 5 SECS! <<<"
+	}
+	">>> 4 <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> 4 <<<"
+	}
+	">>> 3 <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> 3 <<<"
+	}
+	">>> 2 <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> 2 <<<"
+	}
+	">>> 1 <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> 1 <<<"
+	}
+	">>> NEUROTOXIN RELEASED! <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> NEUROTOXIN RELEASED! <<<"
+	}
+	">>> HOLD THE ENTRANCE <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> HOLD THE ENTRANCE <<<"
+	}
+	">>> 30 SECS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> 30 SECS <<<"
+	}
+	">>> 10 SECS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> 10 SECS <<<"
+	}
+	">>> ZOMBIES USE THE CIRCLE WAY <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> ZOMBIES USE THE CIRCLE WAY <<<"
+	}
+	">>> HOLD THE ENTRANCE FOR 35 SECS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> HOLD THE ENTRANCE FOR 35 SECS <<<"
+	}
+	">>> GLaDOS IS DEAD <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> GLaDOS IS DEAD <<<"
+	}
+	">>> NORMAL MODE COMPLETED <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> NORMAL MODE COMPLETED <<<"
+	}
+	">>> MOVING ON TO HARD MODE <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> MOVING ON TO HARD MODE <<<"
+	}
+	">>> ZE PORTAL STORY - HARD DIFFICULTY <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> ZE PORTAL STORY - HARD DIFFICULTY <<<"
+	}
+	">>> HARD MODE COMPLETED <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> HARD MODE COMPLETED <<<"
+	}
+	">>> MOVING ON TO EXTREME MODE <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> MOVING ON TO EXTREME MODE <<<"
+	}
+	">>> ZE PORTAL STORY - EXTREME DIFFICULTY <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> ZE PORTAL STORY - EXTREME DIFFICULTY <<<"
+	}
+	">>> EXTREME MODE COMPLETED <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> EXTREME MODE COMPLETED <<<"
+	}
+	">>> MOVING BACK TO NORMAL MODE <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> MOVING BACK TO NORMAL MODE <<<"
+	}
+}

@@ -1,0 +1,123 @@
+"Chat"
+{
+	"[NORMAL MODE]"
+	{
+		"trans"		"[{darkred}Map{default}] [NORMAL MODE]"
+	}
+	"** MAP BY SLAYERDRAGON **"
+	{
+		"trans"		"[{darkred}Map{default}] ** MAP BY SLAYERDRAGON **"
+	}
+	"** Map Ported By www.dashijie.es **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Map Ported By www.dashijie.es **"
+	}
+	"** Defend untill the guards open the airport. **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Defend untill the guards open the airport. **"
+	}
+	"** A player has learned Fire magick. **"
+	{
+		"trans"		"[{darkred}Map{default}] ** A player has learned Fire magick. **"
+	}
+	"** Airport opened. **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Airport opened. **"
+	}
+	"** A player has learned Earth magick. **"
+	{
+		"trans"		"[{darkred}Map{default}] ** A player has learned Earth magick. **"
+	}
+	"** A player has learned Wind magick. **"
+	{
+		"trans"		"[{darkred}Map{default}] ** A player has learned Wind magick. **"
+	}
+	"** A player has learned Heal magick. **"
+	{
+		"trans"		"[{darkred}Map{default}] ** A player has learned Heal magick. **"
+	}
+	"** Defend 25 seconds untill the guards open the hallway. **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Defend 25 seconds untill the guards open the hallway. **"
+	}
+	"** 5 seconds left **"
+	{
+		"trans"		"[{darkred}Map{default}] ** 5 Seconds left **"
+	}
+	"** A player has learned Water magick. **"
+	{
+		"trans"		"[{darkred}Map{default}] ** A player has learned Water magick. **"
+	}
+	"** Defend here so the guards will open the gates to the city! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Defend here so the guards will open the gates to the city! **"
+	}
+	"** Cover here till the rock explodes **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Cover here till the rock explodes **"
+	}
+	"** A player has learned Electro magick. **"
+	{
+		"trans"		"[{darkred}Map{default}] ** A player has learned Electro magick. **"
+	}
+	"[ADMIN] Selected [EPIC MODE] for next round. Restarting round in 5 seconds."
+	{
+		"trans"		"[{darkred}Map{default}] [ADMIN] Selected [EPIC MODE] for next round. Restarting round in 5 seconds."
+	}
+	"[EPIC MODE]"
+	{
+		"trans"		"[{darkred}Map{default}] [EPIC MODE]"
+	}
+	"** ZM JAIL OPEN **"
+	{
+		"trans"		"[{darkred}Map{default}] ** ZM JAIL OPEN **"
+	}
+	"** The elevator will leave in 20 seconds **"
+	{
+		"trans"		"[{darkred}Map{default}] ** The elevator will leave in 20 seconds **"
+	}
+	"** The elevator will leave in 5 seconds **"
+	{
+		"trans"		"[{darkred}Map{default}] ** The elevator will leave in 5 seconds **"
+	}
+	"** The first door will open in 10 seconds **"
+	{
+		"trans"		"[{darkred}Map{default}] ** The first door will open in 10 seconds **"
+	}
+	"** The second door will open in 15 seconds **"
+	{
+		"trans"		"[{darkred}Map{default}] ** The second door will open in 15 seconds **"
+	}
+	"** Keep defending!! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Keep defending!! **"
+	}
+	"** FIRE NOVA INBOUND **"
+	{
+		"trans"		"[{darkred}Map{default}] ** FIRE NOVA INBOUND **"
+	}
+	"** USE WATER TO DODGE IT  **"
+	{
+		"trans"		"[{darkred}Map{default}] ** USE WATER TO DODGE IT  **"
+	}
+	"** Teleporter will be ready in 20 seconds! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Teleporter will be ready in 20 seconds! **"
+	}
+	"** Teleporter will be ready in 5 seconds! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Teleporter will be ready in 5 seconds! **"
+	}
+	"** Door will open in 5 seconds **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Door will open in 5 seconds **"
+	}
+	"** Second door will open in 10 seconds **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Second door will open in 10 seconds **"
+	}
+	"** Hold 10 more seconds!! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Hold 10 more seconds!! **"
+	}
+}

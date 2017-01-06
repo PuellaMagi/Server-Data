@@ -1,0 +1,183 @@
+"Chat"
+{
+	"** !!! THIS IS A WARMUP ROUND !!! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** !!! THIS IS A WARMUP ROUND !!! **"
+	}
+	"** !!! WAITING FOR MORE PLAYERS !!! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** !!! WAITING FOR MORE PLAYERS !!! **"
+	}
+	">>>Map by CriSsys<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>Map by CriSsys<<<"
+	}
+	">>>Help tips opinions and adjustements by Aeris004<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>Help tips opinions and adjustements by Aeris004<<<"
+	}
+	">>>Thanks to FireWavezZ<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>Thanks to FireWavezZ<<<"
+	}
+	"** !!! GAME WILL START IN FEW SECOND !!! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** !!! GAME WILL START IN FEW SECOND !!! **"
+	}
+	"** !!! CURRENT DIFFICULTY : EASY !!! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** !!! CURRENT DIFFICULTY : EASY !!! **"
+	}
+	">>>Type mat_colorcorrection 1 for a better illumination<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>Type mat_colorcorrection 1 for a better illumination<<<"
+	}
+	"** Naruto will open the way ! Follow him ! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Naruto will open the way ! Follow him ! **"
+	}
+	"** HOLD THIS POSTION **"
+	{
+		"trans"		"[{darkred}Map{default}] ** HOLD THIS POSTION **"
+	}
+	"** AFK CLEANING IN SPAWN SECTION IN 10s **"
+	{
+		"trans"		"[{darkred}Map{default}] ** AFK CLEANING IN SPAWN SECTION IN 10s **"
+	}
+	"** 20 SECONDS LEFT **"
+	{
+		"trans"		"[{darkred}Map{default}] ** 20 SECONDS LEFT **"
+	}
+	"** Cave way will open in 20s ! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Cave way will open in 20s ! **"
+	}
+	"** AFK CLEANING IN SPAWN SECTION **"
+	{
+		"trans"		"[{darkred}Map{default}] ** AFK CLEANING IN SPAWN SECTION **"
+	}
+	"** 10 SECONDS LEFT **"
+	{
+		"trans"		"[{darkred}Map{default}] ** 10 SECONDS LEFT **"
+	}
+	"** Cave way will open in 10s ! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Cave way will open in 10s ! **"
+	}
+	"** 5 SECONDS LEFT **"
+	{
+		"trans"		"[{darkred}Map{default}] ** 5 SECONDS LEFT **"
+	}
+	"** DOORS OPENING NOW **"
+	{
+		"trans"		"[{darkred}Map{default}] ** DOORS OPENING NOW **"
+	}
+	"** HOLD THIS POSITION **"
+	{
+		"trans"		"[{darkred}Map{default}] ** HOLD THIS POSITION **"
+	}
+	"** CITY's AFK TELEPORT IN 10s **"
+	{
+		"trans"		"[{darkred}Map{default}] ** CITY's AFK TELEPORT IN 10s **"
+	}
+	"** CITY's AFK TELEPORT **"
+	{
+		"trans"		"[{darkred}Map{default}] ** CITY's AFK TELEPORT **"
+	}
+	"** 20 SECOND LEFT **"
+	{
+		"trans"		"[{darkred}Map{default}] ** 20 SECOND LEFT **"
+	}
+	"** 10 SECOND LEFT **"
+	{
+		"trans"		"[{darkred}Map{default}] ** 10 SECOND LEFT **"
+	}
+	"** 5 SECOND LEFT **"
+	{
+		"trans"		"[{darkred}Map{default}] ** 5 SECOND LEFT **"
+	}
+	"** FORTRESS AFK TELEPORT IN 10s **"
+	{
+		"trans"		"[{darkred}Map{default}] ** FORTRESS AFK TELEPORT IN 10s **"
+	}
+	"** FORTRESS AFK TELEPORT **"
+	{
+		"trans"		"[{darkred}Map{default}] ** FORTRESS AFK TELEPORT **"
+	}
+	"** !!! NEXT DIFFICULTY : NORMAL !!! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** !!! NEXT DIFFICULTY : NORMAL !!! **"
+	}
+	"** !!! CURRENT DIFFICULTY : NORMAL !!! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** !!! CURRENT DIFFICULTY : NORMAL !!! **"
+	}
+	"** !!! NEXT DIFFICULTY : HARD !!! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** !!! NEXT DIFFICULTY : HARD !!! **"
+	}
+	"** !!! CURRENT DIFFICULTY : HARD !!! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** !!! CURRENT DIFFICULTY : HARD !!! **"
+	}
+	"** DOOR WILL OPEN IN 10 SECONDS **"
+	{
+		"trans"		"[{darkred}Map{default}] ** DOOR WILL OPEN IN 10 SECONDS **"
+	}
+	"** DOOR WILL OPEN IN 5 SECONDS **"
+	{
+		"trans"		"[{darkred}Map{default}] ** DOOR WILL OPEN IN 5 SECONDS **"
+	}
+	"** YOU NEED TO DEFEND THE TOWN 45s **"
+	{
+		"trans"		"[{darkred}Map{default}] ** YOU NEED TO DEFEND THE TOWN 45s **"
+	}
+	"** DEFEND AGAIN 30s **"
+	{
+		"trans"		"[{darkred}Map{default}] ** DEFEND AGAIN 30s **"
+	}
+	"** DEFEND AGAIN 20s **"
+	{
+		"trans"		"[{darkred}Map{default}] ** DEFEND AGAIN 20s **"
+	}
+	"** DEFEND AGAIN 10s **"
+	{
+		"trans"		"[{darkred}Map{default}] ** DEFEND AGAIN 10s **"
+	}
+	"** DEFEND AGAIN 5s **"
+	{
+		"trans"		"[{darkred}Map{default}] ** DEFEND AGAIN 5s **"
+	}
+	"** NEXT DIFFICULTY : EXTREME **"
+	{
+		"trans"		"[{darkred}Map{default}] ** NEXT DIFFICULTY : EXTREME **"
+	}
+	"** HUMANS SUCCEFULLY DEFEND KONOHA **"
+	{
+		"trans"		"[{darkred}Map{default}] ** HUMANS SUCCEFULLY DEFEND KONOHA **"
+	}
+	"** KILL ALL ZOMBIE SURVIVOR **"
+	{
+		"trans"		"[{darkred}Map{default}] ** KILL ALL ZOMBIE SURVIVOR **"
+	}
+	"** !!! CURRENT DIFFICULTY EXTREME !!! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** !!! CURRENT DIFFICULTY EXTREME !!! **"
+	}
+	"** Naruto is fighting with Sasuke ! Go try to find and help him ! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Naruto is fighting with Sasuke ! Go try to find and help him ! **"
+	}
+	"** NARUTO HAS BEEN KILLED BY ZOMBIES **"
+	{
+		"trans"		"[{darkred}Map{default}] ** NARUTO HAS BEEN KILLED BY ZOMBIES **"
+	}
+	"** HUMANS NOW CAN'T PROTECT THE VILLAGE **"
+	{
+		"trans"		"[{darkred}Map{default}] ** HUMANS NOW CAN'T PROTECT THE VILLAGE **"
+	}
+	"** NEXT DIFFICULTY : HARD **"
+	{
+		"trans"		"[{darkred}Map{default}] ** NEXT DIFFICULTY : HARD **"
+	}
+}

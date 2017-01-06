@@ -1,0 +1,195 @@
+"Chat"
+{
+	"***Level 1 : Bed Bed Bed!***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Level 1 : Bed Bed Bed!***"
+	}
+	"***Map by Tenshi***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Map by Tenshi***"
+	}
+	"***Inspiration comes from kz_otakuroom***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Inspiration comes from kz_otakuroom***"
+	}
+	"***Special thanks:GemaYue , Altima***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Special thanks:GemaYue , Altima***"
+	}
+	"***Particles help by Moray***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Particles help by Moray***"
+	}
+	"***This map contains 18 forbidden content***"
+	{
+		"trans"		"[{darkred}Map{default}] ***This map contains 18 forbidden content***"
+	}
+	"***Thanks for playing***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Thanks for playing***"
+	}
+	"***Door breaking in 20 seconds***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Door breaking in 20 seconds***"
+	}
+	"***5 seconds***"
+	{
+		"trans"		"[{darkred}Map{default}] ***5 seconds***"
+	}
+	"***Door breaking in 30 seconds***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Door breaking in 30 seconds***"
+	}
+	"***Paper aircraft comes in about 20 seconds***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Paper aircraft comes in about 20 seconds***"
+	}
+	"***Paper aircraft leaves in 10 seconds***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Paper aircraft leaves in 10 seconds***"
+	}
+	"***Run to the Card and dodge the cubes***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Run to the Card and dodge the cubes***"
+	}
+	"***Jump on the Card , only one will leave***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Jump on the Card , only one will leave***"
+	}
+	"***Card leaves in 15 seconds , hold!!!***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Card leaves in 15 seconds , hold!!!***"
+	}
+	"***Door breaking in 25 seconds***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Door breaking in 25 seconds***"
+	}
+	"***AFK teleported in 10 seconds***"
+	{
+		"trans"		"[{darkred}Map{default}] ***AFK teleported in 10 seconds***"
+	}
+	"***Card leaves in 40 seconds***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Card leaves in 40 seconds***"
+	}
+	"***nuke in 10 seconds***"
+	{
+		"trans"		"[{darkred}Map{default}] ***nuke in 10 seconds***"
+	}
+	"*** Fail Round***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Fail Round***"
+	}
+	"***3***"
+	{
+		"trans"		"[{darkred}Map{default}] ***3***"
+	}
+	"***2***"
+	{
+		"trans"		"[{darkred}Map{default}] ***2***"
+	}
+	"***1***"
+	{
+		"trans"		"[{darkred}Map{default}] ***1***"
+	}
+	"***Level 2 : Efreet***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Level 2 : Efreet***"
+	}
+	"***Run to the keyboard***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Run to the keyboard***"
+	}
+	"***Press TENSHI***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Press TENSHI***"
+	}
+	"***Good job , the password is correct***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Good job , the password is correct***"
+	}
+	"***Mouse moving in 10 seconds***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Mouse moving in 10 seconds***"
+	}
+	"***Hold 20 seconds***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Hold 20 seconds***"
+	}
+	"***Low Gravity open***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Low Gravity open***"
+	}
+	"***Run forward and find another card***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Run forward and find another card***"
+	}
+	"***Hold 15 seconds***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Hold 15 seconds***"
+	}
+	"***Normal Gravity in 5 seconds***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Normal Gravity in 5 seconds***"
+	}
+	"***Jump on the platform***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Jump on the platform***"
+	}
+	"***Door breaking in 10 seconds***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Door breaking in 10 seconds***"
+	}
+	"***Heal has been picked up***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Heal has been picked up***"
+	}
+	"***Door closing in 5 seconds***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Door closing in 5 seconds***"
+	}
+	"***Efreet used fire***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Efreet used fire***"
+	}
+	"***Efreet used Space earthquake***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Efreet used Space earthquake***"
+	}
+	"***Nade do more damage***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Nade do more damage***"
+	}
+	"***Efreet used Elohim Gibor:healed 150HP***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Efreet used Elohim Gibor:healed 150HP***"
+	}
+	"***Efreet used Camael:Slash. Crouch!!!***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Efreet used Camael:Slash. Crouch!!!***"
+	}
+	"***Hold 30 seconds***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Hold 30 seconds***"
+	}
+	"***Jump***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Jump***"
+	}
+	"***Card leaves in 10 seconds***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Card leaves in 10 seconds***"
+	}
+	"***Its dodge laser time***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Its dodge laser time***"
+	}
+	"***Face the direction of the arrow***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Face the direction of the arrow***"
+	}
+	"***Its coming***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Its coming***"
+	}
+}

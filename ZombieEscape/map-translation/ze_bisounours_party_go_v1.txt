@@ -1,0 +1,139 @@
+"Chat"
+{
+	"@ LVL 1 - Easy"
+	{
+		"trans"		"[{darkred}Map{default}] @ LVL 1 - Easy"
+	}
+	">>> FALL BACK <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> FALL BACK <<<"
+	}
+	">>> PROTECT THE CASTLE <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> PROTECT THE CASTLE <<<"
+	}
+	">>> FALL BACK TO THE RAINBOW <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> FALL BACK TO THE RAINBOW <<<"
+	}
+	"Wait 15 sec !!"
+	{
+		"trans"		"[{darkred}Map{default}] Wait 15 sec !!"
+	}
+	"FALL BACK !!"
+	{
+		"trans"		"[{darkred}Map{default}] FALL BACK !!"
+	}
+	"King Pedobear will let you pass in 20 sec !"
+	{
+		"trans"		"[{darkred}Map{default}] King Pedobear will let you pass in 20 sec !"
+	}
+	"You can pass !"
+	{
+		"trans"		"[{darkred}Map{default}] You can pass !"
+	}
+	"You won easy mode!"
+	{
+		"trans"		"[{darkred}Map{default}] You won easy mode!"
+	}
+	"King Pedobear kill all the zombie !"
+	{
+		"trans"		"[{darkred}Map{default}] King Pedobear kill all the zombie !"
+	}
+	"@ LVL 2 - Normal"
+	{
+		"trans"		"[{darkred}Map{default}] @ LVL 2 - Normal"
+	}
+	">>> SURVIVE 60 SEC <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> SURVIVE 60 SEC <<<"
+	}
+	"King Pedobear will let you pass in 40 sec"
+	{
+		"trans"		"[{darkred}Map{default}] King Pedobear will let you pass in 40 sec"
+	}
+	"Fall back !"
+	{
+		"trans"		"[{darkred}Map{default}] Fall back !"
+	}
+	"King Pedobear let you pass"
+	{
+		"trans"		"[{darkred}Map{default}] King Pedobear let you pass"
+	}
+	"The rainbow will be open in 30 sec"
+	{
+		"trans"		"[{darkred}Map{default}] The rainbow will be open in 30 sec"
+	}
+	"FALL BACK TO THE RAINBOW"
+	{
+		"trans"		"[{darkred}Map{default}] FALL BACK TO THE RAINBOW"
+	}
+	"YOU HAVE 20 SEC TO ESCAPE"
+	{
+		"trans"		"[{darkred}Map{default}] YOU HAVE 20 SEC TO ESCAPE"
+	}
+	"SHOOT AND DODGE HIS ATTACK"
+	{
+		"trans"		"[{darkred}Map{default}] SHOOT AND DODGE HIS ATTACK"
+	}
+	"You killed Pedobear !"
+	{
+		"trans"		"[{darkred}Map{default}] You killed Pedobear !"
+	}
+	"Escape from the sky now !"
+	{
+		"trans"		"[{darkred}Map{default}] Escape from the sky now !"
+	}
+	"Survive 25 sec !"
+	{
+		"trans"		"[{darkred}Map{default}] Survive 25 sec !"
+	}
+	"You won Normal mode !"
+	{
+		"trans"		"[{darkred}Map{default}] You won Normal mode !"
+	}
+	"@ LVL 3 - Hard"
+	{
+		"trans"		"[{darkred}Map{default}] @ LVL 3 - Hard"
+	}
+	"FALL BACK TO THE HOUSE !"
+	{
+		"trans"		"[{darkred}Map{default}] FALL BACK TO THE HOUSE !"
+	}
+	"Survive 60 sec !"
+	{
+		"trans"		"[{darkred}Map{default}] Survive 60 sec !"
+	}
+	"You can now acces to the second stage !"
+	{
+		"trans"		"[{darkred}Map{default}] You can now acces to the second stage !"
+	}
+	"Go to the roof for escape !"
+	{
+		"trans"		"[{darkred}Map{default}] Go to the roof for escape !"
+	}
+	"You will me able to take the ladder in 20 sec"
+	{
+		"trans"		"[{darkred}Map{default}] You will me able to take the ladder in 20 sec"
+	}
+	"King Pedobear will help you in 40 sec"
+	{
+		"trans"		"[{darkred}Map{default}] King Pedobear will help you in 40 sec"
+	}
+	">> The glass will break in 20 sec <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> The glass will break in 20 sec <<"
+	}
+	"YOU KILLED PEDOBEAR ! FALL BACK"
+	{
+		"trans"		"[{darkred}Map{default}] YOU KILLED PEDOBEAR ! FALL BACK"
+	}
+	"You need to survive 30 sec !"
+	{
+		"trans"		"[{darkred}Map{default}] You need to survive 30 sec !"
+	}
+	"You won Hard mode !"
+	{
+		"trans"		"[{darkred}Map{default}] You won Hard mode !"
+	}
+}

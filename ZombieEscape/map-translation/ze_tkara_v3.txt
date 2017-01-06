@@ -1,0 +1,167 @@
+"Chat"
+{
+	"*** MAP BY P'A'SS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** MAP BY P'A'SS ***"
+	}
+	">>> Hold until the City Doors Open! <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> Hold until the City Doors Open! <<<"
+	}
+	"*** Cover the windows until we find a way out of here ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Cover the windows until we find a way out of here ***"
+	}
+	"*** Living room and kitchen windows are broken! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Living room and kitchen windows are broken! ***"
+	}
+	"*** RESIST ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** RESIST ***"
+	}
+	"*** GET DOWN IN THE BASEMENT NOW ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** GET DOWN IN THE BASEMENT NOW ***"
+	}
+	">>> Elevator Leaves in 10 seconds !! <<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> Elevator Leaves in 10 seconds !! <<"
+	}
+	">>> Door Opens in 25 seconds <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> Door Opens in 25 seconds <<<"
+	}
+	">>> Door Opens in 15 seconds <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> Door Opens in 15 seconds <<<"
+	}
+	"*** Facility door opens in 25 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Facility door opens in 25 seconds ***"
+	}
+	"*** Door opens in 25 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Door opens in 25 seconds ***"
+	}
+	"*** ELEVATOR DOORS OPEN IN 30 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ELEVATOR DOORS OPEN IN 30 SECONDS ***"
+	}
+	"*** DOORS ARE OPENING ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** DOORS ARE OPENING ***"
+	}
+	"*** ELEVATOR LEAVES IN 5 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ELEVATOR LEAVES IN 5 SECONDS ***"
+	}
+	"*** Both living room windows are broken! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Both living room windows are broken! ***"
+	}
+	"*** Bathroom and kitchen windows are broken! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Bathroom and kitchen windows are broken! ***"
+	}
+	"*** Door opens in 20 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Door opens in 20 seconds ***"
+	}
+	"*** Silo doors open in 25 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Silo doors open in 25 seconds ***"
+	}
+	"*** STARTING THE REACTORS... ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** STARTING THE REACTORS... ***"
+	}
+	"*** OH NO ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** OH NO ***"
+	}
+	"*** THE REACTOR CORES ARE GOING UNSTABLE ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** THE REACTOR CORES ARE GOING UNSTABLE ***"
+	}
+	"*** YOU NEED TO MAKE YOUR WAY TO THE BUNKER BELOW SECTOR 1 ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** YOU NEED TO MAKE YOUR WAY TO THE BUNKER BELOW SECTOR 1 ***"
+	}
+	"*** SECTOR 1 DOORS SHOULD OPEN SOON! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SECTOR 1 DOORS SHOULD OPEN SOON! ***"
+	}
+	"*** RESIST! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** RESIST! ***"
+	}
+	"*** THIS PLACE IS GOING TO BLOW UP IN 2 MINUTES ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** THIS PLACE IS GOING TO BLOW UP IN 2 MINUTES ***"
+	}
+	"*** THAT DIDNT SOUND GOOD ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** THAT DIDNT SOUND GOOD ***"
+	}
+	"*** THE WHOLE UNDERGROUND COMPLEX SEEMS TO EXPLODE SOON ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** THE WHOLE UNDERGROUND COMPLEX SEEMS TO EXPLODE SOON ***"
+	}
+	"*** MAKE YOUR WAY TO THE AIRFIELD ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** MAKE YOUR WAY TO THE AIRFIELD ***"
+	}
+	"*** THERE SHOULD BE A PLANE LEAVING SOON ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** THERE SHOULD BE A PLANE LEAVING SOON ***"
+	}
+	"*** IN 1 MINUTE THIS WHOLE PLACE BLOWS UP ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** IN 1 MINUTE THIS WHOLE PLACE BLOWS UP ***"
+	}
+	"*** PLANE IS READY TO LEAVE ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** PLANE IS READY TO LEAVE ***"
+	}
+	"*** GET ON NOW ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** GET ON NOW ***"
+	}
+	"*** ZOMBIE ON THE PLANE ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ZOMBIE ON THE PLANE ***"
+	}
+	"*** INVALID VICTORY ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** INVALID VICTORY ***"
+	}
+	"*** TRY TO ESCAPE THROUGH THE CARGO AREA ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** TRY TO ESCAPE THROUGH THE CARGO AREA ***"
+	}
+	"*** CARGO AREA DOOR SHOULD OPEN SOON! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** CARGO AREA DOOR SHOULD OPEN SOON! ***"
+	}
+	"*** LAST TRAIN OUT OF HERE LEAVES IN 45 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** LAST TRAIN OUT OF HERE LEAVES IN 45 SECONDS ***"
+	}
+	"*** THIS PLACE IS GOING TO BLOW UP IN 1 MINUTE ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** THIS PLACE IS GOING TO BLOW UP IN 1 MINUTE ***"
+	}
+	"*** TRAIN IS LEAVING NOW ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** TRAIN IS LEAVING NOW ***"
+	}
+	"*** HUMANS LOSE ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** HUMANS LOSE ***"
+	}
+	"*** ZOMBIE ON THE TRAIN ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ZOMBIE ON THE TRAIN ***"
+	}
+}

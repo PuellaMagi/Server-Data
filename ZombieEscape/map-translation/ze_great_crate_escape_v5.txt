@@ -1,0 +1,75 @@
+"Chat"
+{
+	"@Joint Map by: fps_trucka & NightFury"
+	{
+		"trans"		"[{darkred}Map{default}] @Joint Map by: fps_trucka & NightFury"
+	}
+	"@The warehouse door will open in 5 seconds!"
+	{
+		"trans"		"[{darkred}Map{default}] @The warehouse door will open in 5 seconds!"
+	}
+	"@ Door will open in 20 seconds!"
+	{
+		"trans"		"[{darkred}Map{default}] @ Door will open in 20 seconds!"
+	}
+	"@>3<"
+	{
+		"trans"		"[{darkred}Map{default}] @>3<"
+	}
+	"@>2<"
+	{
+		"trans"		"[{darkred}Map{default}] @>2<"
+	}
+	"@>1<"
+	{
+		"trans"		"[{darkred}Map{default}] @>1<"
+	}
+	"@Door is open, run before they get you!"
+	{
+		"trans"		"[{darkred}Map{default}] @Door is open, run before they get you!"
+	}
+	"@ Gate will open in 25 seconds!"
+	{
+		"trans"		"[{darkred}Map{default}] @ Gate will open in 25 seconds!"
+	}
+	"@ Helicopter is leaving in 20 seconds, FEND THEM OFF!"
+	{
+		"trans"		"[{darkred}Map{default}] @ Helicopter is leaving in 20 seconds, FEND THEM OFF!"
+	}
+	"@You have 60 seconds to activate the radio before you all die :)"
+	{
+		"trans"		"[{darkred}Map{default}] @You have 60 seconds to activate the radio before you all die :)"
+	}
+	"@ Defend on the helicopter while 1 person goes for the radio on the other end!"
+	{
+		"trans"		"[{darkred}Map{default}] @ Defend on the helicopter while 1 person goes for the radio on the other end!"
+	}
+	"@ Button has been pressed! The helicopter will leave in 30 seconds!!!"
+	{
+		"trans"		"[{darkred}Map{default}] @ Button has been pressed! The helicopter will leave in 30 seconds!!!"
+	}
+	"@Helicopter leaving in 10 seconds!"
+	{
+		"trans"		"[{darkred}Map{default}] @Helicopter leaving in 10 seconds!"
+	}
+	"@Humans have to stay alive ANYWHERE on the map to live. Reinforcements will arrive in 45 seconds!"
+	{
+		"trans"		"[{darkred}Map{default}] @Humans have to stay alive ANYWHERE on the map to live. Reinforcements will arrive in 45 seconds!"
+	}
+	"@Reinforcements will arrive in 10 seconds!"
+	{
+		"trans"		"[{darkred}Map{default}] @Reinforcements will arrive in 10 seconds!"
+	}
+	"@>>>3<<<"
+	{
+		"trans"		"[{darkred}Map{default}] @>>>3<<<"
+	}
+	"@>>>2<<<"
+	{
+		"trans"		"[{darkred}Map{default}] @>>>2<<<"
+	}
+	"@>>>1<<<"
+	{
+		"trans"		"[{darkred}Map{default}] @>>>1<<<"
+	}
+}

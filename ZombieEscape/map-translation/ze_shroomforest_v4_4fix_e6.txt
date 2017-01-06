@@ -1,0 +1,453 @@
+"Chat"
+{
+	">> IDEA: Sienestaja <<"
+	{
+		"blocked"		"1"
+	}
+	">> Map by TaskuVaras <<"
+	{
+		"blocked"		"1"
+	}
+	">> Fixed by Moltard <<"
+	{
+		"blocked"		"1"
+	}
+	"[Special Thanks to: Muro#[A] FT]"
+	{
+		"blocked"		"1"
+	}
+	">>Map ported by www.dashijie.es"
+	{
+		"blocked"		"1"
+	}
+	">> WARMUP ROUND <<"
+	{
+		"blocked"		"1"
+	}
+	">> 40 SECONDS LEFT <<"
+	{
+		"blocked"		"1"
+	}
+	">> 30 SECONDS LEFT <<"
+	{
+		"blocked"		"1"
+	}
+	">> 20 SECONDS LEFT <<"
+	{
+		"blocked"		"1"
+	}
+	">> 10 SECONDS LEFT <<"
+	{
+		"blocked"		"1"
+	}
+	">> WARMUP ROUND END <<"
+	{
+		"blocked"		"1"
+	}
+	">> LEVEL: FLAT GRASS <<"
+	{
+		"trans"		"[{darkred}Map{default}]  第一关"
+	}
+	">> PLAYER HAS PICKED UP 6 MINES <<"
+	{
+		"trans"		"[{darkred}Map{default}]  有玩家拾起了地雷"
+	}
+	"*** WAIT TILL THAT WALL BREAKS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  防守到墙体破裂"
+	}
+	"*** WALL IS BROKEN RUUUUUUN!! ***"
+	{
+		"trans"		"[{darkred}Map{default}]  墙已崩塌,撤退"
+	}
+	">> PLAYER HAS PICKED UP EARTH <<"
+	{
+		"trans"		"[{darkred}Map{default}]  有玩家拾起了土"
+	}
+	"*** WAIT TILL BOMB BREAKS THOSE BOARDS ***"
+	{
+		"trans"		"[{darkred}Map{default}]  防守到墙体破裂"
+	}
+	"*** BOARDS ARE BROKEN RUUUUUUN!! ***"
+	{
+		"trans"		"[{darkred}Map{default}]  撤退"
+	}
+	"*** Leaf 1 leaving in 7 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}]  1号叶片离开于7秒后"
+	}
+	"*** Leaf 2 leaving in 7 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}]  2号叶片离开于7秒后"
+	}
+	">> ALL 6 MINES USED <<"
+	{
+		"trans"		"[{darkred}Map{default}]  地雷已被用尽"
+	}
+	">> HOLD FOR 30 seconds <<"
+	{
+		"trans"		"[{darkred}Map{default}]  坚守30秒"
+	}
+	">> 5 more seconds <<"
+	{
+		"trans"		"[{darkred}Map{default}]  5秒剩余
+	}
+	"
+		">>"		"GO!"
+		"GO!"		"GO!"
+		"<<"		"
+	{
+		"
+		"trans"		"		"
+		"]"		"撤退"
+		"
+	}
+	"		"***"
+		"OH"		"NO"
+		"Its"		"an"
+		"EVIL"		"BUTTERFLY"
+		"***"		"
+	{
+		"
+		"blocked"		"		"
+		"1"		"
+	}
+	"
+		"***"		"SHOOT"
+		"IT"		"BEFORE"
+		"Its"		"TOO"
+		"LATE!!"		"***"
+		"
+	{
+		"		"trans"
+		"		"		"["
+		"{"		"darkred"
+	}
+	"]"		"干烂这只蝴蝶!"
+	"
+	}
+	"		"***"
+	"BUTTERFLY"		"IS"
+	"DEAD"		"RESCUE"
+	"IS"		"COMING"
+	"***"		"
+	{
+		"
+	"trans"		"		"
+	"]"		"BOSS已被击败,正在准备撤离"
+	"
+	}
+	"		">>"
+	"BUTTERFLY"		"LEAVING"
+	"IN"		"10"
+	"seconds"		"<<"
+	"
+	{
+		"		"trans"
+	"		"		"["
+	"{"		"darkred"
+	">> PLAYER HAS PICKED UP UNLIMITED AMMO <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> PLAYER HAS PICKED UP UNLIMITED AMMO <<"
+	}
+	">> PLAYER HAS PICKED UP WIND <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> PLAYER HAS PICKED UP WIND <<"
+	}
+	">> GO! GO! GO! <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> GO! GO! GO! <<"
+	}
+	"*** OH NO Its an EVIL BUTTERFLY ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** OH NO Its an EVIL BUTTERFLY ***"
+	}
+	"*** SHOOT IT BEFORE ITS TOO LATE!! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SHOOT IT BEFORE ITS TOO LATE!! ***"
+	}
+	"*** BUTTERFLY IS DEAD RESCUE IS COMING ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** BUTTERFLY IS DEAD RESCUE IS COMING ***"
+	}
+	">> BUTTERFLY LEAVING IN 10 seconds <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> BUTTERFLY LEAVING IN 10 seconds <<"
+	}
+	">> LEVEL COMPLETED!! <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> LEVEL COMPLETED!! <<"
+	}
+	">> LEVEL: BIG TREE <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> LEVEL: BIG TREE <<"
+	}
+	"*** HOLD FOR 10 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** HOLD FOR 10 seconds ***"
+	}
+	"*** HOLD FOR 20 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** HOLD FOR 20 seconds ***"
+	}
+	"*** HOLD FOR 40 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** HOLD FOR 40 seconds ***"
+	}
+	">> PLAYER HAS PICKED UP FIRE <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> PLAYER HAS PICKED UP FIRE <<"
+	}
+	"*** HOLD FOR 5 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** HOLD FOR 5 seconds ***"
+	}
+	">> PLAYER HAS PICKED UP HEAL <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> PLAYER HAS PICKED UP HEAL <<"
+	}
+	"*** GO GO GO!!!! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** GO GO GO!!!! ***"
+	}
+	"*** ELEVATOR LEAVING IN 20 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ELEVATOR LEAVING IN 20 seconds ***"
+	}
+	"*** ELEVATOR LEAVING IN 10 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ELEVATOR LEAVING IN 10 seconds ***"
+	}
+	"*** ELEVATOR LEAVING IN 5 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ELEVATOR LEAVING IN 5 seconds ***"
+	}
+	">> ITS ANGRY PIKACHU SHOOT IT!!!!!!!!!! <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> ITS ANGRY PIKACHU SHOOT IT!!!!!!!!!! <<"
+	}
+	">> CT GET OFF THE ELEVATOR OR U WILL GET PUNISHED <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> CT GET OFF THE ELEVATOR OR U WILL GET PUNISHED <<"
+	}
+	">> PIKACHU IS USING THUNDERBOLT KEEP SHOOTING!!!!!!!!!! <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> PIKACHU IS USING THUNDERBOLT KEEP SHOOTING!!!!!!!!!! <<"
+	}
+	"*** PIKACHU IS DEAD!! RUN TO RESCUE BUTTERFLY ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** PIKACHU IS DEAD!! RUN TO RESCUE BUTTERFLY ***"
+	}
+	">> BUTTERFLY LEAVING IN 15 seconds <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> BUTTERFLY LEAVING IN 15 seconds <<"
+	}
+	">> LEVEL: HELL <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> LEVEL: HELL <<"
+	}
+	"*** HOLD FOR 30 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** HOLD FOR 30 seconds ***"
+	}
+	"*** DOOR IS OPEN! RUUUN! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** DOOR IS OPEN! RUUUN! ***"
+	}
+	">> PLAYER HAS PICKED UP ICE <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> PLAYER HAS PICKED UP ICE <<"
+	}
+	">> SECRET IS NOW OPEN <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> SECRET IS NOW OPEN <<"
+	}
+	">> YOU NEED TO FIND A KEY TO OPEN THAT LOCK <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> YOU NEED TO FIND A KEY TO OPEN THAT LOCK <<"
+	}
+	">> MAYBE ITS IN THOSE BOXES IN SIDE ROOMS <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> MAYBE ITS IN THOSE BOXES IN SIDE ROOMS <<"
+	}
+	"*** PLAYER FOUND A KEY ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** PLAYER FOUND A KEY ***"
+	}
+	"*** OH NO!! ITS SATAN!! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** OH NO!! ITS SATAN!! ***"
+	}
+	"*** SHOOT IT OR YOU WILL BE HIS SLAVES FOREVER!! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SHOOT IT OR YOU WILL BE HIS SLAVES FOREVER!! ***"
+	}
+	"*** THROW GRENADES TO KILL IT EASIER ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** THROW GRENADES TO KILL IT EASIER ***"
+	}
+	"*** SATAN IS HURT YOU ARE FREE TO LEAVE HELL ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SATAN IS HURT YOU ARE FREE TO LEAVE HELL ***"
+	}
+	">> WAIT FOR 10 SECONDS <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> WAIT FOR 10 SECONDS <<"
+	}
+	">> LEVEL COMPLETED <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> LEVEL COMPLETED <<"
+	}
+	">> EXTREME MODE ADDED <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> EXTREME MODE ADDED <<"
+	}
+	">> BOSSES ON LEVEL II <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> BOSSES ON LEVEL II <<"
+	}
+	"*** HOLD FOR ABOUT 30 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** HOLD FOR ABOUT 30 SECONDS ***"
+	}
+	">> PLAYER HAS PICKED UP GRAVITY <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> PLAYER HAS PICKED UP GRAVITY <<"
+	}
+	"*** GO TO PRESS 2 BUTTONS AT THE SAME TIME TO CONTINUE ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** GO TO PRESS 2 BUTTONS AT THE SAME TIME TO CONTINUE ***"
+	}
+	"*** GREAT DEFEND FOR 10 MORE SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** GREAT DEFEND FOR 10 MORE SECONDS ***"
+	}
+	">> WILD DITTO APPEARS SHOOT IT!!!!!!!!!! <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> WILD DITTO APPEARS SHOOT IT!!!!!!!!!! <<"
+	}
+	">> WILD DITTO IS USING TRANSFORM!!!!!!!!! <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> WILD DITTO IS USING TRANSFORM!!!!!!!!! <<"
+	}
+	">> DITTO IS USING SEED ATTACK <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> DITTO IS USING SEED ATTACK <<"
+	}
+	">> DITTO IS USING FLAMETHROWER <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> DITTO IS USING FLAMETHROWER <<"
+	}
+	">> DITTO IS USING WATER... SOMETHING <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> DITTO IS USING WATER... SOMETHING <<"
+	}
+	">> DITTO IS USING THUNDERBOLT SWIM TO SAFETY <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> DITTO IS USING THUNDERBOLT SWIM TO SAFETY <<"
+	}
+	">> DITTO IS USING SOMETHING... FUNNY? <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> DITTO IS USING SOMETHING... FUNNY? <<"
+	}
+	">> WILD DITTO IS DEFEATED RUN!!!!!!!!! <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> WILD DITTO IS DEFEATED RUN!!!!!!!!! <<"
+	}
+	">> AN ANGRY PIKACHU IS BLOCKING THE WAY !! <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> AN ANGRY PIKACHU IS BLOCKING THE WAY !! <<"
+	}
+	">> BUTTERFLY LEAVING IN 30 seconds <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> BUTTERFLY LEAVING IN 30 seconds <<"
+	}
+	">> ZOMBIES ABOARD!! LEVEL FAILED!! <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> ZOMBIES ABOARD!! LEVEL FAILED!! <<"
+	}
+	"*** SATAN IS PREPARING TO ATTACK ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SATAN IS PREPARING TO ATTACK ***"
+	}
+	"*** OH NO!! ITS DRAGON!! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** OH NO!! ITS DRAGON!! ***"
+	}
+	"*** SHOOT IT BEFORE ITS TOO LATE ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SHOOT IT BEFORE ITS TOO LATE ***"
+	}
+	"*** DRAGON IS HURT YOU ARE FREE TO LEAVE HELL ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** DRAGON IS HURT YOU ARE FREE TO LEAVE HELL ***"
+	}
+	">> DEFEND YOUR VILLAGE FOR 30 SECONDS <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> DEFEND YOUR VILLAGE FOR 30 SECONDS <<"
+	}
+	">> You have succesfully saved Shroomforest <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> You have succesfully saved Shroomforest <<"
+	}
+	">> NEW LEVEL UNLOCKED IN ADMIN ROOM <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> NEW LEVEL UNLOCKED IN ADMIN ROOM <<"
+	}
+	">> LEVEL: CHOOSING LEVEL <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> LEVEL: CHOOSING LEVEL <<"
+	}
+	"*** RACE TO REACH THE TELEPORTER TO ADMIN ROOM ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** RACE TO REACH THE TELEPORTER TO ADMIN ROOM ***"
+	}
+	"*** YOU CAN CHOOSE LEVEL AND MODE ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** YOU CAN CHOOSE LEVEL AND MODE ***"
+	}
+	"*** YOU HAVE 60 SECONDS TO DO THIS UNTIL MASSIVE NUKE EXPLODES ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** YOU HAVE 60 SECONDS TO DO THIS UNTIL MASSIVE NUKE EXPLODES ***"
+	}
+	"*** YOU HAVE 45 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** YOU HAVE 45 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
+	}
+	"*** YOU HAVE 30 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** YOU HAVE 30 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
+	}
+	"*** YOU HAVE 15 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** YOU HAVE 15 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
+	}
+	"*** YOU HAVE 10 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** YOU HAVE 10 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
+	}
+	"*** YOU HAVE 5 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** YOU HAVE 5 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
+	}
+	">> PLAYER HAS CHOSEN LEVEL: A NEW BEGINNING <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> PLAYER HAS CHOSEN LEVEL: A NEW BEGINNING <<"
+	}
+	">> NUKE INCOMING IN 5 SECONDS <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> NUKE INCOMING IN 5 SECONDS <<"
+	}
+	">> LEVEL: A NEW BEGINNING <<"
+	{
+		"trans"		"[{darkred}Map{default}] >> LEVEL: A NEW BEGINNING <<"
+	}
+	"*** SATAN IS ATTACKING ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SATAN IS ATTACKING ***"
+	}
+	"*** KEEP SHOOTING ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** KEEP SHOOTING ***"
+	}
+}

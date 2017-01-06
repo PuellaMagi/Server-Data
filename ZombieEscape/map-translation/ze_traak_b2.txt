@@ -1,0 +1,59 @@
+"Chat"
+{
+	"*** MAP BY P'A'SS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** MAP BY P'A'SS ***"
+	}
+	"*** Door Opens in 30 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Door opens in 30 seconds ***"
+	}
+	"*** KEEP HOLDING***"
+	{
+		"trans"		"[{darkred}Map{default}] *** KEEP HOLDING***"
+	}
+	"*** DOOR IS OPENING***"
+	{
+		"trans"		"[{darkred}Map{default}] *** DOOR IS OPENING***"
+	}
+	"*** Elevator is powering up! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Elevator is powering up! ***"
+	}
+	"*** Elevator leaves in 5 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Elevator leaves in 5 seconds ***"
+	}
+	"*** Door should open soon! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Door should open soon! ***"
+	}
+	"*** RESIST ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** RESIST ***"
+	}
+	"*** Warehouse door opens in 30 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Warehouse door opens in 30 seconds ***"
+	}
+	"*** Door is Opening ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** DOOR IS OPENING ***"
+	}
+	"*** This is the final hold ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** This is the final hold ***"
+	}
+	"*** The ship will leave soon! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** The ship will leave soon! ***"
+	}
+	"*** ZOMBIES ON THE SHIP ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ZOMBIES ON THE SHIP ***"
+	}
+	"*** You Fail ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** YOU FAIL ***"
+	}
+}

@@ -1,0 +1,233 @@
+"Chat"
+{
+	"*** ze_negative_legacy ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ze_negative_legacy ***"
+	}
+	"*** New Data Loading... ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** New Data Loading... ***"
+	}
+	"*** ... ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ... ***"
+	}
+	"*** .. ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** .. ***"
+	}
+	"*** . ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** . ***"
+	}
+	"*** Loading Complete !!! STAGE 1***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Loading Complete !!! STAGE 1***"
+	}
+	"*** Map made by Altima***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Map made by Altima***"
+	}
+	"***10 seconds to Open Door***"
+	{
+		"trans"		"[{darkred}Map{default}] ***10 seconds to Open Door***"
+	}
+	"***30 seconds to extinguishment***"
+	{
+		"trans"		"[{darkred}Map{default}] ***30 seconds to extinguishment***"
+	}
+	"***5 seconds***"
+	{
+		"trans"		"[{darkred}Map{default}] ***5 seconds***"
+	}
+	"***15 seconds to Close Door***"
+	{
+		"trans"		"[{darkred}Map{default}] ***15 seconds to Close Door***"
+	}
+	"***ERROR Security System Activate***"
+	{
+		"trans"		"[{darkred}Map{default}] ***ERROR Security System Activate***"
+	}
+	"***Unlock Securty Systems***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Unlock Securty Systems***"
+	}
+	"*** button 1 Unlocked***"
+	{
+		"trans"		"[{darkred}Map{default}] *** button 1 Unlocked***"
+	}
+	"*** button 2 Unlocked***"
+	{
+		"trans"		"[{darkred}Map{default}] *** button 2 Unlocked***"
+	}
+	"*** button 3 Unlocked***"
+	{
+		"trans"		"[{darkred}Map{default}] *** button 3 Unlocked***"
+	}
+	"*** button 4 Unlocked***"
+	{
+		"trans"		"[{darkred}Map{default}] *** button 4 Unlocked***"
+	}
+	"*** button 5 Unlocked***"
+	{
+		"trans"		"[{darkred}Map{default}] *** button 5 Unlocked***"
+	}
+	"***All Securty System Unlocked***"
+	{
+		"trans"		"[{darkred}Map{default}] ***All Securty System Unlocked***"
+	}
+	"*** 20 seconds to Open Door ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 20 seconds to Open Door ***"
+	}
+	"*** 10 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 10 seconds ***"
+	}
+	"*** 15 seconds to Explosion Bomb ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 15 seconds to Explosion Bomb ***"
+	}
+	"*** 5 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 5 seconds ***"
+	}
+	"*** 20 seconds to Door Open ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 20 seconds to Door Open ***"
+	}
+	"*** 30 seconds to Activate Lift ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 30 seconds to Activate Lift ***"
+	}
+	"*** Elevator Teleport ON ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Elevator Teleport ON ***"
+	}
+	"*** 35 seconds to Open Door ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 35 seconds to Open Door ***"
+	}
+	"***20 seconds to Activate machine***"
+	{
+		"trans"		"[{darkred}Map{default}] ***20 seconds to Activate machine***"
+	}
+	"*** Negative Legacy Activate button[1"
+	{
+		"2] ***"
+		{
+			"trans"		"[{darkred}Map{default}] *** Negative Legacy Activate button[1/2] ***"
+		}
+	}
+	"*** 30 seconds to Nuke ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 30 seconds to Nuke ***"
+	}
+	"*** Save Data Loading... ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Save Data Loading... ***"
+	}
+	"*** Loading Complete !!! STAGE 2***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Loading Complete !!! STAGE 2***"
+	}
+	"*** 10 seconds to Main Door Open ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 10 seconds to Main Door Open ***"
+	}
+	"*** 20 seconds to Activate Elevator ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 20 seconds to Activate Elevator ***"
+	}
+	"*** 20 seconds to box break ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 20 seconds to box break ***"
+	}
+	"*** 20 seconds to  Open Door ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 20 seconds to  Open Door ***"
+	}
+	"*** 30 seconds to Open Door ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 30 seconds to Open Door ***"
+	}
+	"*** 5seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 5seconds ***"
+	}
+	"*** Wait for Rocks break ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Wait for Rocks break ***"
+	}
+	"*** Rocks Broken ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Rocks Broken ***"
+	}
+	"*** Negative Legacy Activate button[2"
+	{
+		"2] ***"
+		{
+			"trans"		"[{darkred}Map{default}] *** Negative Legacy Activate button[2/2] ***"
+		}
+	}
+	"*** 30 seconds to Activate Negative Legacy ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 30 seconds to Activate Negative Legacy ***"
+	}
+	"*** Found intruders ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Found intruders ***"
+	}
+	"*** Negative Legacy Defend System Activated..... ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Negative Legacy Defend System Activated..... ***"
+	}
+	"*** 4 ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 4 ***"
+	}
+	"*** 3 ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 3 ***"
+	}
+	"*** 2 ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 2 ***"
+	}
+	"*** 1 ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 1 ***"
+	}
+	"*** 1 2 3 4 ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 1 2 3 4 ***"
+	}
+	"*** Transform ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Transform ***"
+	}
+	"*** Shoot Head ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Shoot Head ***"
+	}
+	"*** Negative Legacy Teleporter Activate ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Negative Legacy Teleporter Activate ***"
+	}
+	"*** Hold 15 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Hold 15 seconds ***"
+	}
+	"*** Welcome to Negative Legacy ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Welcome to Negative Legacy ***"
+	}
+	"*** 10 seconds to Zombies KILL ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 10 seconds to Zombies KILL ***"
+	}
+	"*** STAGE 2 CLEAR ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** STAGE 2 CLEAR ***"
+	}
+}

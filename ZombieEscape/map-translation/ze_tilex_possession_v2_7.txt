@@ -1,0 +1,146 @@
+"Chat"
+{
+	"*** Difficulty : Easy ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Difficulty : Easy ***"
+	}
+	"For POSSESSION , Respected Sakura"
+	{
+		"trans"		"[{darkred}Map{default}] For POSSESSION , Respected Sakura"
+	}
+	"Map Support : Xquality "
+	{
+		" SHUFEN"
+		{
+			"trans"		"[{darkred}Map{default}] Map Support : Xquality / SHUFEN"
+		}
+	}
+	"Map Arranged by Airvulpes"
+	{
+		"trans"		"[{darkred}Map{default}] Map Arranged by Airvulpes"
+	}
+	"Elivator leaving in: 3"
+	{
+		"trans"		"[{darkred}Map{default}] Elivator leaving in: 3"
+	}
+	"Remaining 5 seconds !"
+	{
+		"trans"		"[{darkred}Map{default}] Remaining 5 seconds !"
+	}
+	"Mini train leaving in 5 seconds."
+	{
+		"trans"		"[{darkred}Map{default}] Mini train leaving in 5 seconds."
+	}
+	"Tracks crashed ahead"
+	{
+		"trans"		"[{darkred}Map{default}] Tracks crashed ahead"
+	}
+	"Door opening in 5 seconds!"
+	{
+		"trans"		"[{darkred}Map{default}] Door opening in 5 seconds!"
+	}
+	"Tram leaving in 10 seconds!"
+	{
+		"trans"		"[{darkred}Map{default}] Tram leaving in 10 seconds!"
+	}
+	"Security doors closing in 10."
+	{
+		"trans"		"[{darkred}Map{default}] Security doors closing in 10."
+	}
+	"Train leaving in 30 seconds."
+	{
+		"trans"		"[{darkred}Map{default}] Train leaving in 30 seconds."
+	}
+	"Train leaving in 20 seconds."
+	{
+		"trans"		"[{darkred}Map{default}] Train leaving in 20 seconds."
+	}
+	"Train leaving in 10 seconds."
+	{
+		"trans"		"[{darkred}Map{default}] Train leaving in 10 seconds."
+	}
+	"Train is leaving."
+	{
+		"trans"		"[{darkred}Map{default}] Train is leaving."
+	}
+	"Incoming nuke!!!"
+	{
+		"trans"		"[{darkred}Map{default}] Incoming nuke!!!"
+	}
+	"*** Difficulty : Normal ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Difficulty : Normal ***"
+	}
+	"*** Difficulty : Hard ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Difficulty : Hard ***"
+	}
+	"Door opening in 15 seconds!"
+	{
+		"trans"		"[{darkred}Map{default}] Door opening in 15 seconds!"
+	}
+	"Hold 20 seconds !"
+	{
+		"trans"		"[{darkred}Map{default}] Hold 20 seconds !"
+	}
+	"Helicopter leaves 20 seconds!"
+	{
+		"trans"		"[{darkred}Map{default}] Helicopter leaves 20 seconds!"
+	}
+	"remaining 5 seconds!"
+	{
+		"trans"		"[{darkred}Map{default}] remaining 5 seconds!"
+	}
+	"*** Difficulty : Extreme ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Difficulty : Extreme ***"
+	}
+	"Remaining 15 seconds !"
+	{
+		"trans"		"[{darkred}Map{default}] Remaining 15 seconds !"
+	}
+	"Door opening in 80 seconds!"
+	{
+		"trans"		"[{darkred}Map{default}] Door opening in 80 seconds!"
+	}
+	"Remaining 40 seconds!"
+	{
+		"trans"		"[{darkred}Map{default}] Remaining 40 seconds!"
+	}
+	"Remaining 10 seconds!"
+	{
+		"trans"		"[{darkred}Map{default}] Remaining 10 seconds!"
+	}
+	"*** Difficulty : Insane ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Difficulty : Insane ***"
+	}
+	"Admin pressed rtv button"
+	{
+		"trans"		"[{darkred}Map{default}] Admin pressed rtv button"
+	}
+	"Admin pressed Insane button"
+	{
+		"trans"		"[{darkred}Map{default}] Admin pressed Insane button"
+	}
+	"Admin pressed Extreme button"
+	{
+		"trans"		"[{darkred}Map{default}] Admin pressed Extreme button"
+	}
+	"*** Difficulty : rtv ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Difficulty : rtv ***"
+	}
+	"Admin pressed Hard button"
+	{
+		"trans"		"[{darkred}Map{default}] Admin pressed Hard button"
+	}
+	"Admin pressed Ex button"
+	{
+		"trans"		"[{darkred}Map{default}] Admin pressed Ex button"
+	}
+	"Admin pressed Ex disable button"
+	{
+		"trans"		"[{darkred}Map{default}] Admin pressed Ex disable button"
+	}
+}

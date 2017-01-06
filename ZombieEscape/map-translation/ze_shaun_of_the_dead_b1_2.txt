@@ -1,0 +1,207 @@
+"Chat"
+{
+	"***BOAT ROUTE***"
+	{
+		"trans"		"[{darkred}Map{default}] ***BOAT ROUTE***"
+	}
+	"***UNDERGROUND ROUTE***"
+	{
+		"trans"		"[{darkred}Map{default}] ***UNDERGROUND ROUTE***"
+	}
+	"***OFFICE ROUTE***"
+	{
+		"trans"		"[{darkred}Map{default}] ***OFFICE ROUTE***"
+	}
+	"***DOORS OPENS IN 30 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}] ***DOORS OPENS IN 30 SECONDS***"
+	}
+	"***DOORS OPENS IN 20 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}] ***DOORS OPENS IN 20 SECONDS***"
+	}
+	"***DOORS OPENS IN 10 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}] ***DOORS OPENS IN 10 SECONDS***"
+	}
+	"***DOORS OPENS IN 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}] ***DOORS OPENS IN 5 SECONDS***"
+	}
+	"***FALL BACK***"
+	{
+		"trans"		"[{darkred}Map{default}] ***FALL BACK***"
+	}
+	"***AFK TELE 10 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}] ***AFK TELE 10 SECONDS***"
+	}
+	"***ELEVATOR ON THE WAY***"
+	{
+		"trans"		"[{darkred}Map{default}] ***ELEVATOR ON THE WAY***"
+	}
+	"***ELEVATOR IS HERE***"
+	{
+		"trans"		"[{darkred}Map{default}] ***ELEVATOR IS HERE***"
+	}
+	"***HOLD THE WINDOWS***"
+	{
+		"trans"		"[{darkred}Map{default}] ***HOLD THE WINDOWS***"
+	}
+	"***HOLD 20 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}] ***HOLD 20 SECONDS***"
+	}
+	"***Hold 10 seconds***"
+	{
+		"trans"		"[{darkred}Map{default}] ***HOLD 10 SECONDS***"
+	}
+	"***HOLD 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}] ***HOLD 5 SECONDS***"
+	}
+	"***TRUCKS LEAVE IN 20 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}] ***TRUCKS LEAVE IN 20 SECONDS***"
+	}
+	"***TRUCKS LEAVE IN 10 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}] ***TRUCKS LEAVE IN 10 SECONDS***"
+	}
+	"***HUMANS STAY ON THE BLUE TRUCK***"
+	{
+		"trans"		"[{darkred}Map{default}] ***HUMANS STAY ON THE BLUE TRUCK***"
+	}
+	"***GET TO THE SAFETY OF THE WINCHESTER***"
+	{
+		"trans"		"[{darkred}Map{default}] ***GET TO THE SAFETY OF THE WINCHESTER***"
+	}
+	"***COVER THE DOOR***"
+	{
+		"trans"		"[{darkred}Map{default}] ***COVER THE DOOR***"
+	}
+	"***ESCAPE ROUTE: ROOFTOP***"
+	{
+		"trans"		"[{darkred}Map{default}] ***ESCAPE ROUTE: ROOFTOP***"
+	}
+	"***RESTORE THE POWER***"
+	{
+		"trans"		"[{darkred}Map{default}] ***RESTORE THE POWER***"
+	}
+	"***WATCH OUT FOR ZOMBIES AT THE BACK DOOR***"
+	{
+		"trans"		"[{darkred}Map{default}] ***WATCH OUT FOR ZOMBIES AT THE BACK DOOR***"
+	}
+	"***FALL BACK UPSTAIRS***"
+	{
+		"trans"		"[{darkred}Map{default}] ***FALL BACK UPSTAIRS***"
+	}
+	"***ENTER THE SEWERS***"
+	{
+		"trans"		"[{darkred}Map{default}] ***ENTER THE SEWERS***"
+	}
+	"***FLOOD GATE OPENING***"
+	{
+		"trans"		"[{darkred}Map{default}] ***FLOOD GATE OPENING***"
+	}
+	"***ELEVATOR LEAVING 15 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}] ***ELEVATOR LEAVING 15 SECONDS***"
+	}
+	"***A PLAYER NEEDS TO GO INSIDE THE VENT***"
+	{
+		"trans"		"[{darkred}Map{default}] ***A PLAYER NEEDS TO GO INSIDE THE VENT***"
+	}
+	"***ESCAPE ROUTE: CELLAR***"
+	{
+		"trans"		"[{darkred}Map{default}] ***ESCAPE ROUTE: CELLAR***"
+	}
+	"***FALL BACK BEHIND THE BAR***"
+	{
+		"trans"		"[{darkred}Map{default}] ***FALL BACK BEHIND THE BAR***"
+	}
+	"***WAIT FOR HATCH TO OPEN***"
+	{
+		"trans"		"[{darkred}Map{default}] ***WAIT FOR HATCH TO OPEN***"
+	}
+	"***HATCH IS OPEN FALL BACK***"
+	{
+		"trans"		"[{darkred}Map{default}] ***HATCH IS OPEN FALL BACK***"
+	}
+	"***GET GAS FOR THE BOAT***"
+	{
+		"trans"		"[{darkred}Map{default}] ***GET GAS FOR THE BOAT***"
+	}
+	"***LOOK IN THE SUPPLY SHED***"
+	{
+		"trans"		"[{darkred}Map{default}] ***LOOK IN THE SUPPLY SHED***"
+	}
+	"***GAS CANS HAVE BEEN COLLECTED***"
+	{
+		"trans"		"[{darkred}Map{default}] ***GAS CANS HAVE BEEN COLLECTED***"
+	}
+	"***RUN BACK TO THE BOAT***"
+	{
+		"trans"		"[{darkred}Map{default}] ***RUN BACK TO THE BOAT***"
+	}
+	"***BOAT REFUELING***"
+	{
+		"trans"		"[{darkred}Map{default}] ***BOAT REFUELING***"
+	}
+	"***BOAT LEAVES IN 5 SECONDS!***"
+	{
+		"trans"		"[{darkred}Map{default}] ***BOAT LEAVES IN 5 SECONDS!***"
+	}
+	"***ZOMBIES TAKE THE BRIDGE***"
+	{
+		"trans"		"[{darkred}Map{default}] ***ZOMBIES TAKE THE BRIDGE***"
+	}
+	"***A PLAYER NEEDS TO ACTIVATE THE GATE"
+	{
+		"trans"		"[{darkred}Map{default}] ***A PLAYER NEEDS TO ACTIVATE THE GATE"
+	}
+	"***LOCK GATE 1 OPEING***"
+	{
+		"trans"		"[{darkred}Map{default}] ***LOCK GATE 1 OPEING***"
+	}
+	"***SOMEONE NEEDS TO UP THE WATER LEVELS***"
+	{
+		"trans"		"[{darkred}Map{default}] ***SOMEONE NEEDS TO UP THE WATER LEVELS***"
+	}
+	"***USE THE PIPES TO GAIN ACCESS THE CONTROL ROOM***"
+	{
+		"trans"		"[{darkred}Map{default}] ***USE THE PIPES TO GAIN ACCESS THE CONTROL ROOM***"
+	}
+	"***GET OUT OF THE BOAT AND HOLD!***"
+	{
+		"trans"		"[{darkred}Map{default}] ***GET OUT OF THE BOAT AND HOLD!***"
+	}
+	"***TRY TO HOLD THE BOXES***"
+	{
+		"trans"		"[{darkred}Map{default}] ***TRY TO HOLD THE BOXES***"
+	}
+	"***WATER LEVELS RISING***"
+	{
+		"trans"		"[{darkred}Map{default}] ***WATER LEVELS RISING***"
+	}
+	"***LOCK GATE 2 OPEING***"
+	{
+		"trans"		"[{darkred}Map{default}] ***LOCK GATE 2 OPEING***"
+	}
+	"***DOOR OPENS IN 10 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}] ***DOOR OPENS IN 10 SECONDS***"
+	}
+	"***DOOR OPENS IN 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}] ***DOOR OPENS IN 5 SECONDS***"
+	}
+	"***LIFT LEAVING IN 15 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}] ***LIFT LEAVING IN 15 SECONDS***"
+	}
+	"***LIFT LEAVING IN 5 SECONDS***"
+	{
+		"trans"		"[{darkred}Map{default}] ***LIFT LEAVING IN 5 SECONDS***"
+	}
+}

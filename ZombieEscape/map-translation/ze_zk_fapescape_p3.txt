@@ -1,0 +1,59 @@
+"Chat"
+{
+	"*** Map by Kim and P'a'ss ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Map by Kim and P'a'ss ***"
+	}
+	"* Turning music on *"
+	{
+		"trans"		"[{darkred}Map{default}] * Turning music on *"
+	}
+	"*** Boat leaving in 5 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Boat leaving in 5 seconds ***"
+	}
+	"*** Door opens in 25 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Door opens in 25 seconds ***"
+	}
+	"*** Door Opening in 20 seconds! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Door Opening in 20 seconds! ***"
+	}
+	"*** Teleporter Activates in 15 Seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Teleporter Activates in 15 Seconds ***"
+	}
+	"*** Door Opens in 30 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Door Opens in 30 seconds ***"
+	}
+	"*** OH NOOES ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** OH NOOES ***"
+	}
+	"*** KILL RICK ASTLEY BEFORE HE RICKROLLS US! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** KILL RICK ASTLEY BEFORE HE RICKROLLS US! ***"
+	}
+	"*** Noob Cleaned ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Noob Cleaned ***"
+	}
+	"*** YOU SUCK ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** YOU SUCK ***"
+	}
+	"*** RICK ASTLEY IS DEAD ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** RICK ASTLEY IS DEAD ***"
+	}
+	"*** Hold here for 20 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Hold here for 20 seconds ***"
+	}
+	"*** Hold 30 second for victory! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Hold 30 second for victory! ***"
+	}
+}

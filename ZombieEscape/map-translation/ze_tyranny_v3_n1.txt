@@ -1,0 +1,347 @@
+"Chat"
+{
+	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> WARMUP ROUND 40 SECONDS REMAINING <<<"
+	}
+	">>> Map created by Moray <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> Map created by Moray <<<"
+	}
+	">>> WARMUP ROUND 30 SECONDS REMAINING <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> WARMUP ROUND 30 SECONDS REMAINING <<<"
+	}
+	">>> WARMUP ROUND 20 SECONDS REMAINING <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> WARMUP ROUND 20 SECONDS REMAINING <<<"
+	}
+	">>> WARMUP ROUND 10 SECONDS REMAINING <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> WARMUP ROUND 10 SECONDS REMAINING <<<"
+	}
+	">>> WARMUP ROUND END <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> WARMUP ROUND END <<<"
+	}
+	">>> STAGE 1 <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> STAGE 1 <<<"
+	}
+	">>> ENTRANCE DOOR OPENING <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> ENTRANCE DOOR OPENING <<<"
+	}
+	">>> PLAYER HAS PICKED UP ICE <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> PLAYER HAS PICKED UP ICE <<<"
+	}
+	">>> HOLD 25 SECONDS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> HOLD 25 SECONDS <<<"
+	}
+	">>> AFK TELEPORT IN 10 SECONDS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> AFK TELEPORT IN 10 SECONDS <<<"
+	}
+	">>> HOLD 20 SECONDS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> HOLD 20 SECONDS <<<"
+	}
+	">>> AFK TELEPORT IN 5 SECONDS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> AFK TELEPORT IN 5 SECONDS <<<"
+	}
+	">>> HOLD 10 SECONDS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> HOLD 10 SECONDS <<<"
+	}
+	">>> HOLD 5 SECONDS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> HOLD 5 SECONDS <<<"
+	}
+	">>> PLAYER HAS PICKED UP PUSH <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> PLAYER HAS PICKED UP PUSH <<<"
+	}
+	">>> PLAYER HAS PICKED UP FIRE <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> PLAYER HAS PICKED UP FIRE <<<"
+	}
+	">>> HOLD 15 SECONDS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> HOLD 15 SECONDS <<<"
+	}
+	">>> PLAYER HAS PICKED UP HEAL <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> PLAYER HAS PICKED UP HEAL <<<"
+	}
+	">>> SPIDER IS COMING <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> SPIDER IS COMING <<<"
+	}
+	">>> SPIDER USED POISON. HURRY <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> SPIDER USED POISON. HURRY <<<"
+	}
+	">>> SPIDER IS DEAD <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> SPIDER IS DEAD <<<"
+	}
+	">>> TELEPORTER ACTIVATE IN 20 SECONDS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> TELEPORTER ACTIVATE IN 20 SECONDS <<<"
+	}
+	">>> DOOR CLOSING <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> DOOR CLOSING <<<"
+	}
+	">>> FAIL ROUND <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> FAIL ROUND <<<"
+	}
+	">>> LEVEL COMPLETED <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> LEVEL COMPLETED <<<"
+	}
+	">>> STAGE 2 <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> STAGE 2 <<<"
+	}
+	">>> GO RIGHT <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> GO RIGHT <<<"
+	}
+	">>> PLAYER HAS PICKED UP AMMO <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> PLAYER HAS PICKED UP AMMO <<<"
+	}
+	">>> PLAYER HAS PICKED UP LIGHTNING <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> PLAYER HAS PICKED UP LIGHTNING <<<"
+	}
+	">>> TROLL IS COMING <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> TROLL IS COMING <<<"
+	}
+	">>> TROLL IS DEAD <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> TROLL IS DEAD <<<"
+	}
+	">>> IT'S DRAGON <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> IT'S DRAGON <<<"
+	}
+	">>> DRAGON IS HURT <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> DRAGON IS HURT <<<"
+	}
+	">>> STAGE 3 <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> STAGE 3 <<<"
+	}
+	">>> PLAYER HAS PICKED UP HEDGE <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> PLAYER HAS PICKED UP HEDGE <<<"
+	}
+	">>> HOLD 30 SECONDS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> HOLD 30 SECONDS <<<"
+	}
+	">>> PLAYER HAS PICKED UP KILLER <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> PLAYER HAS PICKED UP KILLER <<<"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE FIRE <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> PLAYER HAS PICKED UP ZOMBIE FIRE <<<"
+	}
+	">>> DRAGON IS COMING <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> DRAGON IS COMING <<<"
+	}
+	">>> DRAGON USED WATER. GO FOWARD <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> DRAGON USED WATER. GO FOWARD <<<"
+	}
+	">>> DRAGON USED GRAVITY <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> DRAGON USED GRAVITY <<<"
+	}
+	">>> DRAGON USED FIRE. GO SIDE <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> DRAGON USED FIRE. GO SIDE <<<"
+	}
+	">>> DRAGON USED POISON <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> DRAGON USED POISON <<<"
+	}
+	">>> GATE OPENING IN 5 SECONDS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> GATE OPENING IN 5 SECONDS <<<"
+	}
+	">>> HOLD 35 SECONDS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> HOLD 35 SECONDS <<<"
+	}
+	">>> 5 SECONDS REMAINING. DON'T DELAY <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> 5 SECONDS REMAINING. DON'T DELAY <<<"
+	}
+	">>> RUN <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> RUN <<<"
+	}
+	">>> GARGANTUA IS COMING. KEEP RUNNING <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> GARGANTUA IS COMING. KEEP RUNNING <<<"
+	}
+	">>> DRAGON IS COMING AGAIN <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> DRAGON IS COMING AGAIN <<<"
+	}
+	">>> DRAGON IS HURT. GET TO THE TELEPORTER <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> DRAGON IS HURT. GET TO THE TELEPORTER <<<"
+	}
+	">>> TELEPORTER ACTIVATE IN 10 SECONDS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> TELEPORTER ACTIVATE IN 10 SECONDS <<<"
+	}
+	">>> STAGE 4 <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> STAGE 4 <<<"
+	}
+	">>> GARGANTUA IS COMING <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> GARGANTUA IS COMING <<<"
+	}
+	">>> GARGANTUA USED PUSH <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> GARGANTUA USED PUSH <<<"
+	}
+	">>> GARGANTUA USED KILLER. GO SIDE <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> GARGANTUA USED KILLER. GO SIDE <<<"
+	}
+	">>> GARGANTUA USED POISON <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> GARGANTUA USED POISON <<<"
+	}
+	">>> GARGANTUA USED ICE <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> GARGANTUA USED ICE <<<"
+	}
+	">>> GARGANTUA USED FIRE <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> GARGANTUA USED FIRE <<<"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE INVISIBLE <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> PLAYER HAS PICKED UP ZOMBIE INVISIBLE <<<"
+	}
+	"**Jetstream Sam has been defeated!**"
+	{
+		"trans"		"[{darkred}Map{default}] **Jetstream Sam has been defeated!**"
+	}
+	">>> GARGANTUA IS DEAD <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> GARGANTUA IS DEAD <<<"
+	}
+	">>> GATE OPENING IN 10 SECONDS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> GATE OPENING IN 10 SECONDS <<<"
+	}
+	">>> HOLD 40 SECONDS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> HOLD 40 SECONDS <<<"
+	}
+	">>> HOLD 15 SECONDS<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> HOLD 15 SECONDS<<<"
+	}
+	">>> BRIDGE IS BROKEN <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> BRIDGE IS BROKEN <<<"
+	}
+	">>> IT'S BALROG <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> IT'S BALROG <<<"
+	}
+	">>> BALROG IS ESCAPED <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> BALROG IS ESCAPED <<<"
+	}
+	">>> STAGE 5 <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> STAGE 5 <<<"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE POISON <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> PLAYER HAS PICKED UP ZOMBIE POISON <<<"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE DRAG <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> PLAYER HAS PICKED UP ZOMBIE DRAG <<<"
+	}
+	">>> BREAK STATUE TO GET ITEM <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> BREAK STATUE TO GET ITEM <<<"
+	}
+	">>> PLAYER HAS PICKED UP GRAVITY <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> PLAYER HAS PICKED UP GRAVITY <<<"
+	}
+	">>> NOOB TRASHED <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> NOOB TRASHED <<<"
+	}
+	">>> BALROG IS COMING <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> BALROG IS COMING <<<"
+	}
+	">>> BALROG USED POISON <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> BALROG USED POISON <<<"
+	}
+	">>> BALROG HEALED 150HP <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> BALROG HEALED 150HP <<<"
+	}
+	">>> BALROG USED KILLER. GO BACK <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> BALROG USED KILLER. GO BACK <<<"
+	}
+	">>> BALROG USED GRAVITY <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> BALROG USED GRAVITY <<<"
+	}
+	">>> BALROG USED SHIELD. DON'T USE ITEMS <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> BALROG USED SHIELD. DON'T USE ITEMS <<<"
+	}
+	">>> BALROG USE LASER. CROUCH TO AVOID IT <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> BALROG USE LASER. CROUCH TO AVOID IT <<<"
+	}
+	">>> BALROG USED PUSH <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> BALROG USED PUSH <<<"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE KILLER <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> PLAYER HAS PICKED UP ZOMBIE KILLER <<<"
+	}
+	">>> BALROG USED FIRE <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>> BALROG USED FIRE <<<"
+	}
+}

@@ -1,0 +1,95 @@
+"Chat"
+{
+	"**FOLLOW THE LIGHTS*"
+	{
+		"trans"		"[{darkred}Map{default}]  跟着光芒"
+	}
+	"**MAP BY: krako628**"
+	{
+		"trans"		"[{darkred}Map{default}]  地图：krako628 翻译：小四"
+	}
+	">> THANKS TO Jargon_AU TO FIX THE MAP <<"
+	{
+		"blocked" "1" 	
+	}
+	"**HOLD 40 S**"
+	{
+		"trans"		"[{darkred}Map{default}]  守住40秒"
+	}
+	"**HOLD 20 S**"
+	{
+		"trans"		"[{darkred}Map{default}]  守住20秒"
+	}
+	"**CORRER!!!**"
+	{
+		"trans"		"[{darkred}Map{default}]  跑！！！"
+	}
+	"**LA PUERTA ABRE EN 10S**"
+	{
+		"trans"		"[{darkred}Map{default}]  10秒后门开"
+	}
+	"**WHERE ARE YOU GOING?**"
+	{
+		"trans"		"[{darkred}Map{default}]  你们去哪?!"
+	}
+	"**RESIST 40 S**"
+	{
+		"trans"		"[{darkred}Map{default}]   守住40秒"
+	}
+	"**RUN!!**"
+	{
+		"trans"		"[{darkred}Map{default}]  跑！！！"
+	}
+	"**HOLD 30 S**"
+	{
+		"trans"		"[{darkred}Map{default}]  守住30秒"
+	}
+	"**HOLD THIS POSITION 35 SECONDS**"
+	{
+		"trans"		"[{darkred}Map{default}]  守住这个位置35秒"
+	}
+	"**KILLING AFK'S**"
+	{
+		"trans"		"[{darkred}Map{default}]  处死挂机者"
+	}
+	"**RUN!**"
+	{
+		"trans"		"[{darkred}Map{default}]  跑！！！"
+	}
+	"**FUCK FUCK!!!**"
+	{
+		"trans"		"[{darkred}Map{default}]  ＊＊＊＊（哔～～）"
+	}
+	"**SHOOT THE DEFENSE WALL**"
+	{
+		"trans"		"[{darkred}Map{default}]  射击防御墙"
+	}
+	"**RUN TO THE STUDIO!!**"
+	{
+		"trans"		"[{darkred}Map{default}]  跑到工作室！！"
+	}
+	"**RESIST 40 SECONDS**"
+	{
+		"trans"		"[{darkred}Map{default}]  守住４０秒"
+	}
+	"**POWER RESTORED!**"
+	{
+		"trans"		"[{darkred}Map{default}]  电力恢复！"
+	}
+	"**LIFT DOORS OPENED**"
+	{
+		"trans"		"[{darkred}Map{default}] 　电梯门开了！"
+	}
+	"**PROTECT THE LIFT 20 SECONDS**"
+	{
+		"trans"		"[{darkred}Map{default}]  保护电梯２０秒！"
+	}
+	"**RETREAT NOW!**"
+	{
+		"trans"		"[{darkred}Map{default}]  现在撤退！！！"
+	}
+	"**SHIP LIFT IN 1.5 M**"
+	{
+		"trans"		"[{darkred}Map{default}]  ９０分钟后开启升船机！"
+	}
+}

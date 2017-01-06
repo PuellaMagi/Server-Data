@@ -1,0 +1,175 @@
+"Chat"
+{
+	"++ CURRENT DIFFICULTY ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ CURRENT DIFFICULTY ++"
+	}
+	"++ EASY ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ EASY ++"
+	}
+	"MAP MADE BY MR.MUESLI AND GARGANTUA"
+	{
+		"trans"		"[{darkred}Map{default}] MAP MADE BY MR.MUESLI AND GARGANTUA"
+	}
+	"++ GATE 1 WILL OPEN IN 35 SECONDS ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ GATE 1 WILL OPEN IN 35 SECONDS ++"
+	}
+	"++ SPAWN TELEPORT ENABLED ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ SPAWN TELEPORT ENABLED ++"
+	}
+	"++ GATE 1 WILL OPEN IN 20 SECONDS ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ GATE 1 WILL OPEN IN 20 SECONDS ++"
+	}
+	"++ GATE 1 WILL OPEN IN 10 SECONDS ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ GATE 1 WILL OPEN IN 10 SECONDS ++"
+	}
+	"++ GATE 1 WILL OPEN IN 5 SECONDS ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ GATE 1 WILL OPEN IN 5 SECONDS ++"
+	}
+	"++ GATE 1 IS NOW OPEN!! ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ GATE 1 IS NOW OPEN!! ++"
+	}
+	"++ GATE 2 WILL OPEN IN 5 SECONDS ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ GATE 2 WILL OPEN IN 5 SECONDS ++"
+	}
+	"++ SECRET BOAT is leaving in 5 seconds ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ SECRET BOAT is leaving in 5 seconds ++"
+	}
+	"++ GATE 2 IS NOW OPEN!! ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ GATE 2 IS NOW OPEN!! ++"
+	}
+	"++ SECRET BOAT IS LEAVING!! ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ SECRET BOAT is leaving!! ++"
+	}
+	"++ BOATS ARE LEAVING IN 30 SECONDS ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ BOATS ARE LEAVING IN 30 SECONDS ++"
+	}
+	"++ BOATS ARE LEAVING IN 15 SECONDS ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ BOATS ARE LEAVING IN 15 SECONDS ++"
+	}
+	"++ BOATS ARE LEAVING IN 10 SECONDS ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ BOATS ARE LEAVING IN 10 SECONDS ++"
+	}
+	"++ BOATS ARE LEAVING!! ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ BOATS ARE LEAVING!! ++"
+	}
+	"++ NUKE IN 10 SECONDS ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ NUKE IN 10 SECONDS ++"
+	}
+	"++ YOU ADVANCED TO THE NEXT LEVEL ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ YOU ADVANCED TO THE NEXT LEVEL ++"
+	}
+	"++ MEDIUM ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ MEDIUM ++"
+	}
+	"++ SECRET BOAT is leaving in 8 seconds ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ SECRET BOAT is leaving in 8 seconds ++"
+	}
+	"++ GATE 1 WILL OPEN IN 45 SECONDS ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ GATE 1 WILL OPEN IN 45 SECONDS ++"
+	}
+	"++ GATE 1 WILL OPEN IN 30 SECONDS ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ GATE 1 WILL OPEN IN 30 SECONDS ++"
+	}
+	"++ 1st December 2016 ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ 1st December 2016 ++"
+	}
+	"++ GATE 1 WILL OPEN IN 15 SECONDS ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ GATE 1 WILL OPEN IN 15 SECONDS ++"
+	}
+	"++ HARD ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ HARD ++"
+	}
+	"++ GATE 1 WILL OPEN IN 60 SECONDS ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ GATE 1 WILL OPEN IN 60 SECONDS ++"
+	}
+	"++ GATE 2 WILL OPEN IN 10 SECONDS ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ GATE 2 WILL OPEN IN 10 SECONDS ++"
+	}
+	"++ INSANE ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ INSANE ++"
+	}
+	"++ GATE 1 WILL OPEN IN 70 SECONDS ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ GATE 1 WILL OPEN IN 70 SECONDS ++"
+	}
+	"++ GATE 1 WILL OPEN IN 55 SECONDS ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ GATE 1 WILL OPEN IN 55 SECONDS ++"
+	}
+	"++ GATE 1 WILL OPEN IN 40 SECONDS ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ GATE 1 WILL OPEN IN 40 SECONDS ++"
+	}
+	"++ GATE 2 WILL OPEN IN 15 SECONDS ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ GATE 2 WILL OPEN IN 15 SECONDS ++"
+	}
+	"++ ZOMBIES REACHED THE ISLAND ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ ZOMBIES REACHED THE ISLAND ++"
+	}
+	"++ LEVEL UP DENIED ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ LEVEL UP DENIED ++"
+	}
+	"++ SECRET BOAT is leaving in 15 seconds ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ SECRET BOAT is leaving in 15 seconds ++"
+	}
+	"++ SECRET BOAT WILL VANISH IN 10 SECONDS ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ SECRET BOAT WILL VANISH IN 10 SECONDS ++"
+	}
+	"++ IMPOSSIBLE ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ IMPOSSIBLE ++"
+	}
+	"++ GATE 1 WILL OPEN IN 90 SECONDS ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ GATE 1 WILL OPEN IN 90 SECONDS ++"
+	}
+	"++ CONGRATULATIONS ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ CONGRATULATIONS ++"
+	}
+	"++ YOU MASTERED THE HIGHEST LEVEL ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ YOU MASTERED THE HIGHEST LEVEL ++"
+	}
+	"++ SECRET BOAT is leaving in 30 seconds ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ SECRET BOAT is leaving in 30 seconds ++"
+	}
+	"++ SECRET BOAT is leaving in 12 seconds ++"
+	{
+		"trans"		"[{darkred}Map{default}] ++ SECRET BOAT is leaving in 12 seconds ++"
+	}
+}

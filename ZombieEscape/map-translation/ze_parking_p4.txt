@@ -1,0 +1,243 @@
+"Chat"
+{
+	">>You are the last survivors of the zombie infection<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>You are the last survivors of the zombie infection<<"
+	}
+	">>The last messages of the army invite us to evacuate to the parking in the middle of the city<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>The last messages of the army invite us to evacuate to the parking in the middle of the city<<"
+	}
+	">>But they won't wait for long time !<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>But they won't wait for long time !<<"
+	}
+	">>>LEVEL 1 : EVACUATION POINT : ELEVATORS<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>LEVEL 1 : EVACUATION POINT : ELEVATORS<<<"
+	}
+	">>Let's go ! but be carefull ! there are still some zombies around us<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>Let's go ! but be carefull ! there are still some zombies around us<<"
+	}
+	">>GOLD KNIFE = ACCESS TO SPECIAL WEAPONS<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>GOLD KNIFE = ACCESS TO SPECIAL WEAPONS<<"
+	}
+	">>>MAP BY LeGrem<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>MAP BY LeGrem<<<"
+	}
+	">>>Thx to JorisCeoen for help with models<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>Thx to JorisCeoen for help with models<<<"
+	}
+	">>>>Minigun has been picked<<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>>Minigun has been picked<<<<"
+	}
+	">>COVER 30 SECONDS UNTIL C4 EXPLOSION<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>COVER 30 SECONDS UNTIL C4 EXPLOSION<<"
+	}
+	">> RETURN TO COVER THE DOOR <<<"
+	{
+		"trans"		"[{darkred}Map{default}] >> RETURN TO COVER THE DOOR <<<"
+	}
+	">>PREPARE TO RUN IN 5 SECONDS<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>PREPARE TO RUN IN 5 SECONDS<<"
+	}
+	">>RUN<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>RUN<<"
+	}
+	">>FLOOR UNSTABLE ! TAKE CARE !<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>FLOOR UNSTABLE ! TAKE CARE !<<"
+	}
+	">>TAKE THE ELEVATORS<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>TAKE THE ELEVATORS<<"
+	}
+	">>COVER THE ELEVATORS ENTRY 30 SECONDS<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>COVER THE ELEVATORS ENTRY 30 SECONDS<<"
+	}
+	">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 2<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 2<<<"
+	}
+	">>AFK TELEPORT<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>AFK TELEPORT<<"
+	}
+	">>ELEVATORS OPEN ! 15 SECONDS LEFT<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>ELEVATORS OPEN ! 15 SECONDS LEFT<<"
+	}
+	">>ELEVATORS LEAVING !<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>ELEVATORS LEAVING !<<"
+	}
+	">>>CT WIN - ACCESS TO SPECIAL WEAPONS GRANTED<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>CT WIN - ACCESS TO SPECIAL WEAPONS GRANTED<<<"
+	}
+	">>>>Grenade Launcher has been picked<<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>>Grenade Launcher has been picked<<<<"
+	}
+	">>>>Only 15 Proxi Mines<<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>>Only 15 Proxi Mines<<<<"
+	}
+	">>>>Proxi Mine has been picked<<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>>Proxi Mine has been picked<<<<"
+	}
+	">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE ELEVATORS !!<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE ELEVATORS !!<<<"
+	}
+	">>>>Flamethrower has been picked<<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>>Flamethrower has been picked<<<<"
+	}
+	">>>LEVEL CHANGED IN DEVROOM FOR LEVEL 3<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>LEVEL CHANGED IN DEVROOM FOR LEVEL 3<<<"
+	}
+	">>>EXTREME MODE ACTIVATED IN DEV ROOM<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>EXTREME MODE ACTIVATED IN DEV ROOM<<<"
+	}
+	">>>EXTREME MODE ACTIVATED<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>EXTREME MODE ACTIVATED<<<"
+	}
+	">>>EXTREME MODE DESACTIVATED IN DEVROOM<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>EXTREME MODE DESACTIVATED IN DEVROOM<<<"
+	}
+	">>>LEVEL CHANGED IN DEVROOM FOR LEVEL 1<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>LEVEL CHANGED IN DEVROOM FOR LEVEL 1<<<"
+	}
+	">>>LEVEL CHANGED IN DEVROOM FOR LEVEL 2<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>LEVEL CHANGED IN DEVROOM FOR LEVEL 2<<<"
+	}
+	">>>LEVEL 2 : EVACUATION POINT : STREET<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>LEVEL 2 : EVACUATION POINT : STREET<<<"
+	}
+	">>>>Only one use<<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>>Only one use<<<<"
+	}
+	">>>>UAV has been picked<<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>>UAV has been picked<<<<"
+	}
+	">>>>Ammo Dispenser has been picked<<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>>Ammo Dispenser has been picked<<<<"
+	}
+	">>ZOMBIES TAKE THE STAIRS<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>ZOMBIES TAKE THE STAIRS<<"
+	}
+	">>ELEVATOR LEAVING IN 5 SECONDS<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>ELEVATOR LEAVING IN 5 SECONDS<<"
+	}
+	">>RUN TO THE COMMAND TENT TO START THE EXPLOSION<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>RUN TO THE COMMAND TENT TO START THE EXPLOSION<<"
+	}
+	">>UAV Launched<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>UAV Launched<<"
+	}
+	">>COVER THE EVACUATION AREA 45 SECONDS<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>COVER THE EVACUATION AREA 45 SECONDS<<"
+	}
+	">>NO ZOMBIES ALLOWED BEHIND THE CRATES<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>NO ZOMBIES ALLOWED BEHIND THE CRATES<<"
+	}
+	">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 3<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 3<<<"
+	}
+	">>EXPLOSION IN 5 SECONDS<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>EXPLOSION IN 5 SECONDS<<"
+	}
+	">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE EVACUATION AREA !!<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE EVACUATION AREA !!<<<"
+	}
+	">>>LEVEL 3 : EVACUATION POINT : ROOF<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>LEVEL 3 : EVACUATION POINT : ROOF<<<"
+	}
+	">>COVER UNTIL CHOPPER ARRIVE<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>COVER UNTIL CHOPPER ARRIVE<<"
+	}
+	">>THIS IS THE LAST CHOPPER<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>THIS IS THE LAST CHOPPER<<"
+	}
+	">>YOU ARE THE LAST SURVIVORS<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>YOU ARE THE LAST SURVIVORS<<"
+	}
+	">>EVERYONE HAVE BEEN EVACUATED<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>EVERYONE HAVE BEEN EVACUATED<<"
+	}
+	">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 1<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 1<<<"
+	}
+	">>EXTREME MODE ACTIVATED FOR NEXT ROUNDS<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>EXTREME MODE ACTIVATED FOR NEXT ROUNDS<<"
+	}
+	">>CHOPPER ON WAY<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>CHOPPER ON WAY<<"
+	}
+	">>CHOPPER LEAVING IN 15 SECONDS<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>CHOPPER LEAVING IN 15 SECONDS<<"
+	}
+	">>5 SECONDS LEFT<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>5 SECONDS LEFT<<"
+	}
+	">>>>Only one Shot - 10s of loading<<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>>Only one Shot - 10s of loading<<<<"
+	}
+	">>>>Electro Gun has been picked<<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>>Electro Gun has been picked<<<<"
+	}
+	">>>>Electro Gun shoot in 10s<<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>>Electro Gun shoot in 10s<<<<"
+	}
+	">>>RESTART AT NORMAL LEVEL 1<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>RESTART AT NORMAL LEVEL 1<<<"
+	}
+	">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE CHOPPER !!<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE CHOPPER !!<<<"
+	}
+}

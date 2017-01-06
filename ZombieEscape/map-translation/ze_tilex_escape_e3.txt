@@ -1,0 +1,71 @@
+"Chat"
+{
+	"Map created by Xquality."
+	{
+		"trans"		"[{darkred}Map{default}] Map created by Xquality."
+	}
+	"Elivator leaving in: 3"
+	{
+		"trans"		"[{darkred}Map{default}] Elivator leaving in: 3"
+	}
+	"***Doors will open in 25 sec***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Doors will open in 25 sec***"
+	}
+	"***Defend***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Defend***"
+	}
+	"***5 sec remaining***"
+	{
+		"trans"		"[{darkred}Map{default}] ***5 sec remaining***"
+	}
+	"Mini train leaving in 5 seconds."
+	{
+		"trans"		"[{darkred}Map{default}] Mini train leaving in 5 seconds."
+	}
+	"Tracks crashed ahead"
+	{
+		"trans"		"[{darkred}Map{default}] Tracks crashed ahead"
+	}
+	"Door opening in 5 seconds!"
+	{
+		"trans"		"[{darkred}Map{default}] Door opening in 5 seconds!"
+	}
+	"Tram leaving in 30 seconds!"
+	{
+		"trans"		"[{darkred}Map{default}] Tram leaving in 30 seconds!"
+	}
+	"***Door will open in 25 sec***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Door will open in 25 sec***"
+	}
+	"Security doors closing in 10."
+	{
+		"trans"		"[{darkred}Map{default}] Security doors closing in 10."
+	}
+	"Train leaving in 60 seconds."
+	{
+		"trans"		"[{darkred}Map{default}] Train leaving in 60 seconds."
+	}
+	"Train leaving in 30 seconds."
+	{
+		"trans"		"[{darkred}Map{default}] Train leaving in 30 seconds."
+	}
+	"Train leaving in 10 seconds."
+	{
+		"trans"		"[{darkred}Map{default}] Train leaving in 10 seconds."
+	}
+	"Train is leaving."
+	{
+		"trans"		"[{darkred}Map{default}] Train is leaving."
+	}
+	"Incoming nuke!!!"
+	{
+		"trans"		"[{darkred}Map{default}] Incoming nuke!!!"
+	}
+	"***Map ported by Et3rnity***"
+	{
+		"trans"		"[{darkred}Map{default}] ***Map ported by Et3rnity***"
+	}
+}

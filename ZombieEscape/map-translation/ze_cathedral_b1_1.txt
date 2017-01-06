@@ -1,0 +1,167 @@
+"Chat"
+{
+	"*** ZE_CATHEDRAL_V1 created by JorisCeoen ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ZE_CATHEDRAL_V1 created by JorisCeoen ***"
+	}
+	"*** MARIA PLATFORM HAS BEEN REACHED. STAY ON IT TO BE SAFE ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** MARIA PLATFORM HAS BEEN REACHED. STAY ON IT TO BE SAFE ***"
+	}
+	"*** ROUTES CURRENTLY UNDER DEVELOPMENT. ONLY 1 ROUTE WILL BE CHOOSEN! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ROUTES CURRENTLY UNDER DEVELOPMENT. ONLY 1 ROUTE WILL BE CHOOSEN! ***"
+	}
+	"*** HOLY GRAIL EVENT TRIGGERED ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** HOLY GRAIL EVENT TRIGGERED ***"
+	}
+	"*** PREPARE TO ESCAPE TO THE UPPER LEVEL IN 10 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** PREPARE TO ESCAPE TO THE UPPER LEVEL IN 10 SECONDS ***"
+	}
+	"*** 5 seconds left ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 5 SECONDS LEFT ***"
+	}
+	"*** GO! GET BACK TO THE SPAWN ZONE AND TAKE THE DOOR ON THE RIGHT! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** GO! GET BACK TO THE SPAWN ZONE AND TAKE THE DOOR ON THE RIGHT! ***"
+	}
+	"*** DEFEND FOR 20 SECONDS THE GATE TO THE UPPER LEVEL***"
+	{
+		"trans"		"[{darkred}Map{default}] *** DEFEND FOR 20 SECONDS THE GATE TO THE UPPER LEVEL***"
+	}
+	"*** 10 seconds left ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 10 SECONDS LEFT ***"
+	}
+	"*** GO! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** GO! ***"
+	}
+	"*** WAIT HERE 30 SECONDS UNTIL ALL PLAYERS ARE GATHERED ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** WAIT HERE 30 SECONDS UNTIL ALL PLAYERS ARE GATHERED ***"
+	}
+	"*** 20 SECONDS LEFT ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 20 SECONDS LEFT ***"
+	}
+	"*** MAKE YOUR WAY TO THE ORGAN! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** MAKE YOUR WAY TO THE ORGAN! ***"
+	}
+	"*** DEFEND THE ORGAN WHILE THE HOLY LIGHT IS BEING GENERATED ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** DEFEND THE ORGAN WHILE THE HOLY LIGHT IS BEING GENERATED ***"
+	}
+	"*** EVERYONE LEFT BEHIND WILL GET TELEPORTED IN 10 SECONDS (ZOMBIES AND HUMANS)! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** EVERYONE LEFT BEHIND WILL GET TELEPORTED IN 10 SECONDS (ZOMBIES AND HUMANS)! ***"
+	}
+	"*** Music currently being played: J.S. Bach - BWV 599 (Chorale) ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Music currently being played: J.S. Bach - BWV 599 (Chorale) ***"
+	}
+	"*** THE HOLY LIGHT WILL BE GENERATED IN 40 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** THE HOLY LIGHT WILL BE GENERATED IN 40 seconds ***"
+	}
+	"*** EVERYONE HAS BEEN TELEPORTED! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** EVERYONE HAS BEEN TELEPORTED! ***"
+	}
+	"*** THE HOLY LIGHT WILL BE GENERATED IN 20 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** THE HOLY LIGHT WILL BE GENERATED IN 20 seconds ***"
+	}
+	"*** THE HOLY LIGHT WILL BE GENERATED IN 10 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** THE HOLY LIGHT WILL BE GENERATED IN 10 seconds ***"
+	}
+	"*** THE HOLY LIGHT WILL BE GENERATED IN 5 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** THE HOLY LIGHT WILL BE GENERATED IN 5 seconds ***"
+	}
+	"*** 4 ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 4 ***"
+	}
+	"*** 3 ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 3 ***"
+	}
+	"*** 2 ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 2 ***"
+	}
+	"*** 1 ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 1 ***"
+	}
+	"*** THE HOLY LIGHT HAS BEEN REACHED! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** THE HOLY LIGHT HAS BEEN REACHED! ***"
+	}
+	"*** 10 SECONDS LEFT BEFORE IT WILL START FORWARD TOWARDS THE ALTAR! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 10 SECONDS LEFT BEFORE IT WILL START FORWARD TOWARDS THE ALTAR! ***"
+	}
+	"*** Music currently being played: J.S. Bach - BWV 538 (Doric Toccata D minor) ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Music currently being played: J.S. Bach - BWV 538 (Doric Toccata D minor) ***"
+	}
+	"*** LOOK OVER THERE! THERE'S A HOLY GRAIL! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** LOOK OVER THERE! THERE'S A HOLY GRAIL! ***"
+	}
+	"*** WE HAVE TO PICK IT UP IN ORDER TO CONTINUE! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** WE HAVE TO PICK IT UP IN ORDER TO CONTINUE! ***"
+	}
+	"*** 60 SECONDS BEFORE LIGHT KILLS US AL IF THE GRAIL IS NOT PICKED UP! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 60 SECONDS BEFORE LIGHT KILLS US AL IF THE GRAIL IS NOT PICKED UP! ***"
+	}
+	"*** HOLY GRAIL HAS BEEN PICKED UP! LIGHT IS MOVING AGAIN***"
+	{
+		"trans"		"[{darkred}Map{default}] *** HOLY GRAIL HAS BEEN PICKED UP! LIGHT IS MOVING AGAIN***"
+	}
+	"*** 45 SECONDS BEFORE LIGHT KILLS US AL IF THE GRAIL IS NOT PICKED UP! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 45 SECONDS BEFORE LIGHT KILLS US AL IF THE GRAIL IS NOT PICKED UP! ***"
+	}
+	"*** 30 SECONDS BEFORE LIGHT KILLS US AL IF THE GRAIL IS NOT PICKED UP! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 30 SECONDS BEFORE LIGHT KILLS US AL IF THE GRAIL IS NOT PICKED UP! ***"
+	}
+	"*** LAST HOLY GRAIL HAS BEEN PICKED UP! RUN SAFELY TO THE ALTAR! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** LAST HOLY GRAIL HAS BEEN PICKED UP! RUN SAFELY TO THE ALTAR! ***"
+	}
+	"*** 15 SECONDS LEFT BEFORE THE ORGAN WILL PLAY THE FINAL PIECE! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 15 SECONDS LEFT BEFORE THE ORGAN WILL PLAY THE FINAL PIECE! ***"
+	}
+	"*** DO NOT EDGE AT ANY GIVEN TIME! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** DO NOT EDGE AT ANY GIVEN TIME! ***"
+	}
+	"*** DEFEND THE ALTAR! IF YOU SUCCEED GOD WILL KEEP US ALIVE! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** DEFEND THE ALTAR! IF YOU SUCCEED GOD WILL KEEP US ALIVE! ***"
+	}
+	"*** THE ZOMBIES WILL BE KILLED AT THE END OF THE ORGAN PERFORMANCE! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** THE ZOMBIES WILL BE KILLED AT THE END OF THE ORGAN PERFORMANCE! ***"
+	}
+	"*** THE COMPLETE FRONT HAS BEEN OPENED! DEFEND THE SIDES TOO! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** THE COMPLETE FRONT HAS BEEN OPENED! DEFEND THE SIDES TOO! ***"
+	}
+	"*** FINALE! DEFEND THE UPPER WINGS (ALSO BE SURE TO GET BACK ON TIME!!) ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** FINALE! DEFEND THE UPPER WINGS (ALSO BE SURE TO GET BACK ON TIME!!) ***"
+	}
+}
