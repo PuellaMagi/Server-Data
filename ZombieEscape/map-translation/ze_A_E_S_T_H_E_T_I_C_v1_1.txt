@@ -1,0 +1,327 @@
+"Chat"
+{
+	"** Thanks for your visit. ** "
+	{
+		"trans"		"[{darkred}Map{default}]  欢迎来到审美战争的剧本里.."
+	}
+	"** The show is starting soon: broadcasting LIVE in 10. **"		"/10s"
+	"{"		"trans"
+	"** Something's up, something's left. The movement comes soon again. **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Something's up, something's left. The movement comes soon again. **"
+	}
+	"** The spectacle must continue, though at a different place. ** "
+	{
+		"trans"		"[{darkred}Map{default}] ** The spectacle must continue, though at a different place. ** "
+	}
+	"** Extras must be part of the action too, or were they the protagonists? **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Extras must be part of the action too, or were they the protagonists? **"
+	}
+	"** A scene change might go well with the changing times that soon may come. **"
+	{
+		"trans"		"[{darkred}Map{default}] ** A scene change might go well with the changing times that soon may come. **"
+	}
+	"** Off they go! The calmer tones of the prairie might soothen the wilder souls. **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Off they go! The calmer tones of the prairie might soothen the wilder souls. **"
+	}
+	"** First base reached. It ought to begin. **"
+	{
+		"trans"		"[{darkred}Map{default}] ** First base reached. It ought to begin. **"
+	}
+	"** Second base reached. Steps further from either end.**"
+	{
+		"trans"		"[{darkred}Map{default}] ** Second base reached. Steps further from either end.**"
+	}
+	"** Third base reached. The double entendre is cuadruple intended. **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Third base reached. The double entendre is cuadruple intended. **"
+	}
+	"** Fourth base reached. Nearing and yet still so afar. **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Fourth base reached. Nearing and yet still so afar. **"
+	}
+	"** Fifth base reached. Wisely interpreted, the still-standing walls will fall. **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Fifth base reached. Wisely interpreted, the still-standing walls will fall. **"
+	}
+	"** At some point in the journey, the traveller is given a hand. **"
+	{
+		"trans"		"[{darkred}Map{default}] ** At some point in the journey, the traveller is given a hand. **"
+	}
+	"** Reaching out for help is at times harder than everything else... **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Reaching out for help is at times harder than everything else... **"
+	}
+	"** Stay in the grey lest you want the tentacles to grab you and take you to your end. **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Stay in the grey lest you want the tentacles to grab you and take you to your end. **"
+	}
+	"** [...] The hand that feeds you, that knows you, that helps you -- that hand you will bite. **"
+	{
+		"trans"		"[{darkred}Map{default}] ** [...] The hand that feeds you, that knows you, that helps you -- that hand you will bite. **"
+	}
+	"** Moving forward and destroying for change... mumbling 'progress'... an ideal... **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Moving forward and destroying for change... mumbling 'progress'... an ideal... **"
+	}
+	"** ...the time might come for the trees to hang onto themselves and the wind a hundred tales will tell... **"
+	{
+		"trans"		"[{darkred}Map{default}] ** ...the time might come for the trees to hang onto themselves and the wind a hundred tales will tell... **"
+	}
+	"** And as time is but a rambling story, rambling further it shall flow. **"
+	{
+		"trans"		"[{darkred}Map{default}] ** And as time is but a rambling story, rambling further it shall flow. **"
+	}
+	"** Where is the spectacle but in what is unknown? **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Where is the spectacle but in what is unknown? **"
+	}
+	"** Who was Merle Haggard? Why did his mother cry? ** "
+	{
+		"trans"		"[{darkred}Map{default}] ** Who was Merle Haggard? Why did his mother cry? ** "
+	}
+	"** The stories of old ought to be forgotten - only that way shall new always be found. ** "
+	{
+		"trans"		"[{darkred}Map{default}] ** The stories of old ought to be forgotten - only that way shall new always be found. ** "
+	}
+	"** Céline probably rides along with us to the end of the night, making offhand remarks. **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Céline probably rides along with us to the end of the night, making offhand remarks. **"
+	}
+	"** Has anybody seen the keys that open the window to reach the stars? **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Has anybody seen the keys that open the window to reach the stars? **"
+	}
+	"** pastebin.com"
+	{
+		"raw"
+		{
+			"XtibtTiH **"
+			{
+				"trans"		"[{darkred}Map{default}] ** pastebin.com/raw/XtibtTiH **"
+			}
+		}
+	}
+	"** That cadence that beating in you is nothing but a feverish dream, a selfish attack against the One State. **"
+	{
+		"trans"		"[{darkred}Map{default}] ** That cadence that beating in you is nothing but a feverish dream, a selfish attack against the One State. **"
+	}
+	"** ...and as lovers they meet: different but equal in ways they couldn't tell... **"
+	{
+		"trans"		"[{darkred}Map{default}] ** ...and as lovers they meet: different but equal in ways they couldn't tell... **"
+	}
+	"** BEHOLD! Little more than beasts in humanly flesh will come! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** BEHOLD! Little more than beasts in humanly flesh will come! **"
+	}
+	"** Move it! Only of bar stools, ephebes and nonsense may the future be made of! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Move it! Only of bar stools, ephebes and nonsense may the future be made of! **"
+	}
+	"** Not without surprise we stand and stand as time goes by... **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Not without surprise we stand and stand as time goes by... **"
+	}
+	"** We once dreamed for elsewhere -- a gentler place -- and might regret if there we get... **"
+	{
+		"trans"		"[{darkred}Map{default}] ** We once dreamed for elsewhere -- a gentler place -- and might regret if there we get... **"
+	}
+	"** Ticking for not much longer and then... ...will we see your face again? **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Ticking for not much longer and then... ...will we see your face again? **"
+	}
+	"** At an unbreakable impasse with time Kochan stood -- monsters crept and creep still...  **"
+	{
+		"trans"		"[{darkred}Map{default}] ** At an unbreakable impasse with time Kochan stood -- monsters crept and creep still...  **"
+	}
+	"** ...and forever after the monsters creeping would... **"
+	{
+		"trans"		"[{darkred}Map{default}] ** ...and forever after the monsters creeping would... **"
+	}
+	"** AWAKE! OH EYES THAT SEE... But what will we find looking in these dreams? **"
+	{
+		"trans"		"[{darkred}Map{default}] ** AWAKE! OH EYES THAT SEE... But what will we find looking in these dreams? **"
+	}
+	"** 猫灵: BOSS最大上限减半,血量减半... **"
+	{
+		"trans"		"[{darkred}Map{default}] ** 猫灵: BOSS最大上限减半,血量减半... **"
+	}
+	"** No longer shall we cross our eyes to see! Reality at last! Rejoice! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** No longer shall we cross our eyes to see! Reality at last! Rejoice! **"
+	}
+	"** Ahead: The giants of Don Quixote - a cautionary tale on dreams not begotten **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Ahead: The giants of Don Quixote - a cautionary tale on dreams not begotten **"
+	}
+	"** Blue: faces behind shards of glass lost in the thick mist... Where are you? **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Blue: faces behind shards of glass lost in the thick mist... Where are you? **"
+	}
+	"** What do those forged smiles mean to the free men? **"
+	{
+		"trans"		"[{darkred}Map{default}] ** What do those forged smiles mean to the free men? **"
+	}
+	"** The walk from here and onwards might deceivingly look cheerful. **"
+	{
+		"trans"		"[{darkred}Map{default}] ** The walk from here and onwards might deceivingly look cheerful. **"
+	}
+	"** Oh Camillo Golgi... Why did you turn by brain into a Rosetta stone with the blue-tinted saddest tales? **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Oh Camillo Golgi... Why did you turn by brain into a Rosetta stone with the blue-tinted saddest tales? **"
+	}
+	"** Down, down and sliding -- If sad, don't forget smiling... **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Down, down and sliding -- If sad, don't forget smiling... **"
+	}
+	"** If I were you, I'd look up some 70's Canterbury bands to go with the Bucholics of this land... **"
+	{
+		"trans"		"[{darkred}Map{default}] ** If I were you, I'd look up some 70's Canterbury bands to go with the Bucholics of this land... **"
+	}
+	"** But as finding keys and levers that open mouths and brains is more important, I'd diversify as well. **"
+	{
+		"trans"		"[{darkred}Map{default}] ** But as finding keys and levers that open mouths and brains is more important, I'd diversify as well. **"
+	}
+	"** The king dreams he is king, and he lives in the deceit of a king... **"
+	{
+		"trans"		"[{darkred}Map{default}] ** The king dreams he is king, and he lives in the deceit of a king... **"
+	}
+	"** What good is a king without kingdom? What good a man lost of objectives? **"
+	{
+		"trans"		"[{darkred}Map{default}] ** What good is a king without kingdom? What good a man lost of objectives? **"
+	}
+	"** Tomorrow and tomorrow and tomorrow... And then days evertold -- but nothing lest we act! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Tomorrow and tomorrow and tomorrow... And then days evertold -- but nothing lest we act! **"
+	}
+	"** Nobody would have expected less from such a formidable team... **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Nobody would have expected less from such a formidable team... **"
+	}
+	"** Memories untold of Critilus would agree if they had been... **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Memories untold of Critilus would agree if they had been... **"
+	}
+	"** And so rejoice! We may clear the path for other pointless ways to cross! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** And so rejoice! We may clear the path for other pointless ways to cross! **"
+	}
+	"** Up or down -- does it matter? It all ends up being the same... **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Up or down -- does it matter? It all ends up being the same... **"
+	}
+	"** Do beware of the beep-boop-boop-bah that might come to mess with you. **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Do beware of the beep-boop-boop-bah that might come to mess with you. **"
+	}
+	"** Lasciate ogne speranza, o voi ch'intrate. **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Lasciate ogne speranza, o voi ch'intrate. **"
+	}
+	"** The tide shall turn as we see a little man crashing through a window... **"
+	{
+		"trans"		"[{darkred}Map{default}] ** The tide shall turn as we see a little man crashing through a window... **"
+	}
+	"** In the endless halls of time rests the shade of Ahuramazda, erased by a crescent moon... **"
+	{
+		"trans"		"[{darkred}Map{default}] ** In the endless halls of time rests the shade of Ahuramazda, erased by a crescent moon... **"
+	}
+	"** Shall we equally erase the horizon onto which the burning hot sun sets? **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Shall we equally erase the horizon onto which the burning hot sun sets? **"
+	}
+	"** Ponder at times and remember how the journey began looking at a screen... **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Ponder at times and remember how the journey began looking at a screen... **"
+	}
+	"** Too meta it is for me to say if it was yours or instead this map's TV... **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Too meta it is for me to say if it was yours or instead this map's TV... **"
+	}
+	"** Again we meet! Another battle! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Again we meet! Another battle! **"
+	}
+	"** Fight this time not with bullets but just transparent fists! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Fight this time not with bullets but just transparent fists! **"
+	}
+	"** MOVE IT! The rumble is nigh! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** MOVE IT! The rumble is nigh! **"
+	}
+	"** Bardiblub Blidablibloop! The magician turned to goop! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Bardiblub Blidablibloop! The magician turned to goop! **"
+	}
+	"** Look! Lucy is up there in the sky -- She has dynamite! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Look! Lucy is up there in the sky -- She has dynamite! **"
+	}
+	"** Oh! And all those efforts so vain, wasted, just to reach further and then be slain!  **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Oh! And all those efforts so vain, wasted, just to reach further and then be slain!  **"
+	}
+	"** Behold! It is time for the brundabogbog! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Behold! It is time for the brundabogbog! **"
+	}
+	"** Forget anything Keats said about urns! In the end we will all face the Jabberwock! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Forget anything Keats said about urns! In the end we will all face the Jabberwock! **"
+	}
+	"** Prepare the vorpal swords! What is ahead? A jub-jub bird? No! Just the shadow of beyond. **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Prepare the vorpal swords! What is ahead? A jub-jub bird? No! Just the shadow of beyond. **"
+	}
+	"** Will we ever meet those who slept before us? **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Will we ever meet those who slept before us? **"
+	}
+	"** I really don't know -- My name is Billy and I'm just the janitor... **"
+	{
+		"trans"		"[{darkred}Map{default}] ** I really don't know -- My name is Billy and I'm just the janitor... **"
+	}
+	"** Who are these 'moguls from the top' these Cressida fellows so insistently chant about? **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Who are these 'moguls from the top' these Cressida fellows so insistently chant about? **"
+	}
+	"** Poor King Cool! Dreams and dreams of hamboighas he can't eat! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Poor King Cool! Dreams and dreams of hamboighas he can't eat! **"
+	}
+	"** FEED HIM! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** FEED HIM! **"
+	}
+	"** And so it awakes, hamboighed! Will only a piece of stardust, a clump of meat save us? **"
+	{
+		"trans"		"[{darkred}Map{default}] ** And so it awakes, hamboighed! Will only a piece of stardust, a clump of meat save us? **"
+	}
+	"** ...and so the brave Ulysses rests his eyes on the stars... **"
+	{
+		"trans"		"[{darkred}Map{default}] ** ...and so the brave Ulysses rests his eyes on the stars... **"
+	}
+	"** ...after battle held with passing hours for no one to understand... **"
+	{
+		"trans"		"[{darkred}Map{default}] ** ...after battle held with passing hours for no one to understand... **"
+	}
+	"** ...these words that lie forever, never turned to strokes by hand... **"
+	{
+		"trans"		"[{darkred}Map{default}] ** ...these words that lie forever, never turned to strokes by hand... **"
+	}
+	"** ...and so the brave Ulysses rests: long forgotten in the past... **"
+	{
+		"trans"		"[{darkred}Map{default}] ** ...and so the brave Ulysses rests: long forgotten in the past... **"
+	}
+	"** Oh! What could you not have done with some more time? **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Oh! What could you not have done with some more time? **"
+	}
+	"** Sadly, we shall never know -- for time is the only resource truly long gone! **"
+	{
+		"trans"		"[{darkred}Map{default}] ** Sadly, we shall never know -- for time is the only resource truly long gone! **"
+	}
+}

@@ -2,62 +2,62 @@
 {
 	"***PORT TO CS GO BY EPIC |CABO|***"
 	{
-		"trans"		"[{darkred}Map{default}] ***PORT TO CS GO BY EPIC |CABO|***"
+		"blocked"		"1"
 	}
 	"***shoot the table legs***"
 	{
-		"trans"		"[{darkred}Map{default}] ***shoot the table legs***"
+		"trans"		"[{darkred}Map{default}]  提示:开枪打碎桌腿以前进"
 	}
 	"***low gravity zone ahead. jump over the wall***"
 	{
-		"trans"		"[{darkred}Map{default}] ***low gravity zone ahead. jump over the wall***"
+		"trans"		"[{darkred}Map{default}]  提示:前方为低重力区域,可直接跳上平台"
 	}
 	"***metal door opens in 30 seconds***"
 	{
-		"trans"		"[{darkred}Map{default}] ***metal door opens in 30 seconds***"
+		"trans"		"[{darkred}Map{default}]  闸门开启于30秒后"
 	}
 	"***metal door is opening***"
 	{
-		"trans"		"[{darkred}Map{default}] ***metal door is opening***"
+		"trans"		"[{darkred}Map{default}]  闸门正在开启[铺火撤退]"
 	}
 	"***low gravity area ahead. walk onto the launchpad***"
 	{
-		"trans"		"[{darkred}Map{default}] ***low gravity area ahead. walk onto the launchpad***"
+		"trans"		"[{darkred}Map{default}]  提示:前方为低重力区域,直接踩前方板子以起飞"
 	}
 	"***storage door opens in 15 seconds***"
 	{
-		"trans"		"[{darkred}Map{default}] ***storage door opens in 15 seconds***"
+		"trans"		"[{darkred}Map{default}]  仓库门开启于15秒后[远离栅栏]"
 	}
 	"***storage door is opening***"
 	{
-		"trans"		"[{darkred}Map{default}] ***storage door is opening***"
+		"trans"		"[{darkred}Map{default}]  仓库门已开启[道具掩护撤退]"
 	}
 	"***low gravity zone ahead. jump from the platfrom to the roof***"
 	{
-		"trans"		"[{darkred}Map{default}] ***low gravity zone ahead. jump from the platfrom to the roof***"
+		"trans"		"[{darkred}Map{default}]  提示:前方为低重力区域"
 	}
 	"***elevator is arriving in 40 seconds***"
 	{
-		"trans"		"[{darkred}Map{default}] ***elevator is arriving in 40 seconds***"
+		"trans"		"[{darkred}Map{default}]  电梯40秒后到位[远离电梯降落位置以及箱子边缘]"
 	}
 	"***Elevator is here***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Elevator is here***"
+		"trans"		"[{darkred}Map{default}]  电梯已到位[道具掩护撤退]"
 	}
 	"**wtf boom nuke is launched. 10 seconds until explosion**"
 	{
-		"trans"		"[{darkred}Map{default}] **wtf boom nuke is launched. 10 seconds until explosion**"
+		"trans"		"[{darkred}Map{default}]  全图核爆启用于10秒后"
 	}
 	"***map by Denn15***"
 	{
-		"trans"		"[{darkred}Map{default}] ***map by Denn15***"
+		"blocked"		"1"
 	}
 	"***push gun have been found. takes 10 seconds to reload. press e to fire***"
 	{
-		"trans"		"[{darkred}Map{default}] ***push gun have been found. takes 10 seconds to reload. press e to fire***"
+		"trans"		"[{darkred}Map{default}]  有玩家已拾起驱逐枪[10秒冷却,按E启动]"
 	}
 	"***reloaded***"
 	{
-		"trans"		"[{darkred}Map{default}] ***reloaded***"
+		"trans"		"[{darkred}Map{default}]  驱逐枪已冷却完毕[按E启动]"
 	}
 }
