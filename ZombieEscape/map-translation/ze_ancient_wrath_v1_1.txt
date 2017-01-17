@@ -2,282 +2,282 @@
 {
 	"||| WARMUP ROUND |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| WARMUP ROUND |||"
+		"trans"		"[{darkred}Map{default}]  欢迎来到金字塔 翻译 milulu"
 	}
 	"<Ammo gun has been acquired>"
 	{
-		"trans"		"[{darkred}Map{default}] <Ammo gun has been acquired>"
+		"trans"		"[{darkred}Map{default}]  {orange}玩家已获得弹药"
 	}
 	"<Growth gun has been acquired>"
 	{
-		"trans"		"[{darkred}Map{default}] <Growth gun has been acquired>"
+		"trans"		"[{darkred}Map{default}]  {grey}玩家已获得墙"
 	}
 	"<Tornado gun has been acquired>"
 	{
-		"trans"		"[{darkred}Map{default}] <Tornado gun has been acquired>"
+		"trans"		"[{darkred}Map{default}]  {lightblue}玩家已获得龙卷风"
 	}
 	"<Inferno gun has been acquired>"
 	{
-		"trans"		"[{darkred}Map{default}] <Inferno gun has been acquired>"
+		"trans"		"[{darkred}Map{default}]  {darkred}玩家已获得大火"
 	}
 	"<Rift gun has been acquired>"
 	{
-		"trans"		"[{darkred}Map{default}] <Rift gun has been acquired>"
+		"trans"		"[{darkred}Map{default}]  {blue}玩家已获得了裂痕"
 	}
 	"||| CHAPTER 1 => RETURN |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| CHAPTER 1 => RETURN |||"
+		"trans"		"[{darkred}Map{default}]  第一章  返回基地"
 	}
 	"||| HOLD FOR 30 SECONDS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| HOLD FOR 30 SECONDS |||"
+		"trans"		"[{darkred}Map{default}]  防守{red}30秒{default}"
 	}
 	"||| FALL BACK |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| FALL BACK |||"
+		"trans"		"[{darkred}Map{default}]  丢雷撤退了"
 	}
 	"||| PRESS BOTH BUTTONS AT THE SAME TIME |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| PRESS BOTH BUTTONS AT THE SAME TIME |||"
+		"trans"		"[{darkred}Map{default}]  哦两个开关看来是有按两个按钮一起按"
 	}
 	"||| HOLD FOR 20 SECONDS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| HOLD FOR 20 SECONDS |||"
+		"trans"		"[{darkred}Map{default}]  你们成功了但是需要{red}20秒{default}开门"
 	}
 	"||| ELEVATOR OPENS IN 25 SECONDS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| ELEVATOR OPENS IN 25 SECONDS |||"
+		"trans"		"[{darkred}Map{default}]  电梯25秒后打开 留下来就成了僵尸的午餐了"
 	}
 	"||| HOLD FOR 10 SECONDS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| HOLD FOR 10 SECONDS |||"
+		"trans"		"[{darkred}Map{default}]  还有{red}10秒{default}"
 	}
 	"||| DOOR IS CLOSING |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| DOOR IS CLOSING |||"
+		"trans"		"[{darkred}Map{default}]  门关闭了"
 	}
 	"||| HOLD THE ELEVATOR FOR 25 SECONDS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| HOLD THE ELEVATOR FOR 25 SECONDS |||"
+		"trans"		"[{darkred}Map{default}]  天啊 前面是僵尸 在电梯守{red}25秒{default}"
 	}
 	"||| ZOMBIES TAKE THE STAIRS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| ZOMBIES TAKE THE STAIRS |||"
+		"trans"		"[{darkred}Map{default}]  僵尸来了"
 	}
 	"||| RUN BACK OUT THE FACILITY |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| RUN BACK OUT THE FACILITY |||"
+		"trans"		"[{darkred}Map{default}]  把设备运行了 我们就可以走了"
 	}
 	"||| SHOOT THE SECOND DOOR OPEN |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| SHOOT THE SECOND DOOR OPEN |||"
+		"trans"		"[{darkred}Map{default}]  我帮你们炸开一面墙"
 	}
 	"||| CHAPTER 2 => SECURE |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| CHAPTER 2 => SECURE |||"
+		"trans"		"[{darkred}Map{default}]  第2章  安全了？"
 	}
 	"||| TELEPORTER AND VENTILATION REACTIVATE IN 15 SECONDS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| TELEPORTER AND VENTILATION REACTIVATE IN 15 SECONDS |||"
+		"trans"		"[{darkred}Map{default}]  传送器和通风在{red}15秒{default}内重新启动"
 	}
 	"||| DISABLE BOTH SECURITY STATIONS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| DISABLE BOTH SECURITY STATIONS |||"
+		"trans"		"[{darkred}Map{default}]  禁用两个安全站点"
 	}
 	"||| FIRST SECURITY STATION HAS BEEN DISABLED |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| FIRST SECURITY STATION HAS BEEN DISABLED |||"
+		"trans"		"[{darkred}Map{default}]  第一个安全站已禁用"
 	}
 	"||| C4 EXPLODE IN 15 SECONDS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| C4 EXPLODE IN 15 SECONDS |||"
+		"trans"		"[{darkred}Map{default}]  C4在{red}15秒{default}后爆炸"
 	}
 	"||| C4 EXPLODE IN 5 SECONDS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| C4 EXPLODE IN 5 SECONDS |||"
+		"trans"		"[{darkred}Map{default}]  C4在{red}5秒{default}后爆炸"
 	}
 	"||| C4 EXPLODE IN 10 SECONDS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| C4 EXPLODE IN 10 SECONDS |||"
+		"trans"		"[{darkred}Map{default}]  C4在{red}10秒{default}后爆炸"
 	}
 	"||| SECOND SECURITY STATION HAS BEEN DISABLED |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| SECOND SECURITY STATION HAS BEEN DISABLED |||"
+		"trans"		"[{darkred}Map{default}]  第二个安全站点已禁用"
 	}
 	"||| BOTH BUTTONS WERE PRESSED |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| BOTH BUTTONS WERE PRESSED |||"
+		"trans"		"[{darkred}Map{default}]  两个按钮都按下了。"
 	}
 	"||| BRIDGE EXTEND IN 20 SECONDS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| BRIDGE EXTEND IN 20 SECONDS |||"
+		"trans"		"[{darkred}Map{default}]  桥梁在{red}20秒{default}后伸展"
 	}
 	"||| HOLD FOR 15 SECONDS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| HOLD FOR 15 SECONDS |||"
+		"trans"		"[{darkred}Map{default}]  守15秒"
 	}
 	"||| TRAINS WILL LEAVE IN 20 SECONDS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| TRAINS WILL LEAVE IN 20 SECONDS |||"
+		"trans"		"[{darkred}Map{default}]  火车将在{red}20秒{default}后离开"
 	}
 	"||| DEFEND THE ABOVE THE TRAINS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| DEFEND THE ABOVE THE TRAINS |||"
+		"trans"		"[{darkred}Map{default}]  看来我们要做火车回去了"
 	}
 	"||| ZOMBIE TRAIN - WIN DISABLE |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| ZOMBIE TRAIN - WIN DISABLE |||"
+		"trans"		"[{darkred}Map{default}]  僵尸上了火车 很抱歉你们不能回来了"
 	}
 	"||| STAGE 2 FINISHED |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| STAGE 2 FINISHED |||"
+		"trans"		"[{darkred}Map{default}]  我们真的离开了吗？"
 	}
 	"||| CHAPTER 3 => AWAKENING |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| CHAPTER 3 => AWAKENING |||"
+		"trans"		"[{darkred}Map{default}]  第三章 重返"
 	}
 	"||| ELEVATOR LEAVES IN 25 SECONDS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| ELEVATOR LEAVES IN 25 SECONDS |||"
+		"trans"		"[{darkred}Map{default}]  电梯在{red}25秒{default}后离开"
 	}
 	"||| ELEVATOR LEAVES IN 5 SECONDS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| ELEVATOR LEAVES IN 5 SECONDS |||"
+		"trans"		"[{darkred}Map{default}]  电梯在{red}5秒{default}后离开"
 	}
 	"||| ELEVATOR LEAVES IN 10 SECONDS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| ELEVATOR LEAVES IN 10 SECONDS |||"
+		"trans"		"[{darkred}Map{default}]  电梯在{red}10秒{default}后离开"
 	}
 	"||| SHOOT THE ENERGY BEAMS AND DEFEND THE ZOMBIES |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| SHOOT THE ENERGY BEAMS AND DEFEND THE ZOMBIES |||"
+		"trans"		"[{darkred}Map{default}]  这个煤气罐怎么在保护僵尸"
 	}
 	"||| SHOOT THE CONTAINER |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| SHOOT THE CONTAINER |||"
+		"trans"		"[{darkred}Map{default}]  射击煤气罐"
 	}
 	"||| CORE EXPLODES IN 170 SECONDS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| CORE EXPLODES IN 170 SECONDS |||"
+		"trans"		"[{darkred}Map{default}]  煤气罐{red}170秒{default}后爆炸"
 	}
 	"||| CORE EXPLODES IN 100 SECONDS |||"
-	{
-		"trans"		"[{darkred}Map{default}] ||| CORE EXPLODES IN 100 SECONDS |||"
+	{ 
+		"trans"		"[{darkred}Map{default}]  煤气罐{red}100秒{default}后爆炸"
 	}
 	"||| CORE EXPLODES IN 80 SECONDS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| CORE EXPLODES IN 80 SECONDS |||"
+		"trans"		"[{darkred}Map{default}]  煤气罐{red}80秒{default}后爆炸"
 	}
 	"||| DOOR OPENS IN 20 SECONDS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| DOOR OPENS IN 20 SECONDS |||"
+		"trans"		"[{darkred}Map{default}]  门在{red}20秒{default}后打开"
 	}
 	"||| CORE EXPLODES IN 60 SECONDS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| CORE EXPLODES IN 60 SECONDS |||"
+		"trans"		"[{darkred}Map{default}]  煤气罐{red}60秒{default}后爆炸"
 	}
 	"||| DOOR IS OPENING |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| DOOR IS OPENING |||"
+		"trans"		"[{darkred}Map{default}]  门在打开中"
 	}
 	"||| CORE EXPLODES IN 40 SECONDS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| CORE EXPLODES IN 40 SECONDS |||"
+		"trans"		"[{darkred}Map{default}]  煤气罐{red}40秒{default}后爆炸"
 	}
 	"||| CORE EXPLODES IN 20 SECONDS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| CORE EXPLODES IN 20 SECONDS |||"
+		"trans"		"[{darkred}Map{default}]  煤气罐{red}20秒{default}后爆炸"
 	}
 	"||| CORE EXPLODES IN 10 SECONDS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| CORE EXPLODES IN 10 SECONDS |||"
+		"trans"		"[{darkred}Map{default}]  煤气罐{red}10秒{default}后爆炸"
 	}
 	"||| CORE EXPLODES IN 5 SECONDS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| CORE EXPLODES IN 5 SECONDS |||"
+		"trans"		"[{darkred}Map{default}]  {red}5{default}"
 	}
 	"||| CORE EXPLODES IN 4 SECONDS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| CORE EXPLODES IN 4 SECONDS |||"
+		"trans"		"[{darkred}Map{default}]  {red}4{default}"
 	}
 	"||| CORE EXPLODES IN 3 SECONDS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| CORE EXPLODES IN 3 SECONDS |||"
+		"trans"		"[{darkred}Map{default}]  {red}3{default}"
 	}
 	"||| CORE EXPLODES IN 2 SECONDS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| CORE EXPLODES IN 2 SECONDS |||"
+		"trans"		"[{darkred}Map{default}]  {red}2{default}"
 	}
 	"||| CORE EXPLODES IN 1 SECONDS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| CORE EXPLODES IN 1 SECONDS |||"
+		"trans"		"[{darkred}Map{default}]  {red}1{default}"
 	}
 	"||| DOOR IS OPENING|||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| DOOR IS OPENING|||"
+		"trans"		"[{darkred}Map{default}]  门打开了"
 	}
 	"||| HOLD THE BRIDGE |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| HOLD THE BRIDGE |||"
+		"trans"		"[{darkred}Map{default}]  守住桥"
 	}
 	"||| STAGE 3 FINISHED |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| STAGE 3 FINISHED |||"
+		"trans"		"[{darkred}Map{default}]  你们带回来的东西非常好"
 	}
 	"||| CHAPTER 4 => SHOWDOWN |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| CHAPTER 4 => SHOWDOWN |||"
+		"trans"		"[{darkred}Map{default}]  第四章 金字塔的秘密"
 	}
 	"||| DEFEND THE TOP FOR 30 SECONDS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| DEFEND THE TOP FOR 30 SECONDS |||"
+		"trans"		"[{darkred}Map{default}]  保护顶部{red}30秒{default}"
 	}
 	"||| PREPARE TO FALL BACK |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| PREPARE TO FALL BACK |||"
+		"trans"		"[{darkred}Map{default}]  准备撤退了 | | |"
 	}
 	"||| DESTROY BOTH ELEVATOR BUTTONS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| DESTROY BOTH ELEVATOR BUTTONS |||"
+		"trans"		"[{darkred}Map{default}]  破坏两个电梯按钮"
 	}
 	"||| ELEVATOR LEAVES IN 15 SECONDS |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| ELEVATOR LEAVES IN 15 SECONDS |||"
+		"trans"		"[{darkred}Map{default}]  电梯在{red}15秒{default}后离开"
 	}
 	"||| !!!WARNING!!! DANGER FROM ABOVE |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| !!!WARNING!!! DANGER FROM ABOVE |||"
+		"trans"		"[{darkred}Map{default}]  警告  来自上方的危险"
 	}
 	"||| POWER WILL BE RESTORED IN 25 SECONDS <SURVIVE> |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| POWER WILL BE RESTORED IN 25 SECONDS <SURVIVE> |||"
+		"trans"		"[{darkred}Map{default}]  电源将在{red}25秒{default}后恢复"
 	}
 	"||| POWER IS RESTORED... DOORS OPEN SOON |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| POWER IS RESTORED... DOORS OPEN SOON |||"
+		"trans"		"[{darkred}Map{default}]  电源恢复...门很快打开了"
 	}
 	"||| THE DOORS ARE OPENING |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| THE DOORS ARE OPENING |||"
+		"trans"		"[{darkred}Map{default}]  门打开了（看清楚在走）"
 	}
 	"||| THE VIRUS NEED TO STAY IN THE FACILITY FOR THE FINAL AIRSTRIKE |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| THE VIRUS NEED TO STAY IN THE FACILITY FOR THE FINAL AIRSTRIKE |||"
+		"trans"		"[{darkred}Map{default}]  为了防止病毒 需要等待进行最后的空袭"
 	}
 	"||| YOU FAILED |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| YOU FAILED |||"
+		"trans"		"[{darkred}Map{default}]  金字塔的病毒扩散了 你们失败了"
 	}
 	"||| AIRSTRIKE INCOMING |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| AIRSTRIKE INCOMING |||"
+		"trans"		"[{darkred}Map{default}]  空袭来了"
 	}
 	"||| ZOMBIE HELICOPTER - WIN DISABLE |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| ZOMBIE HELICOPTER - WIN DISABLE |||"
+		"trans"		"[{darkred}Map{default}]  僵尸上了直升机 你们失败了"
 	}
 	"||| DONT LET THE VIRUS SPREAD |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| DONT LET THE VIRUS SPREAD |||"
+		"trans"		"[{darkred}Map{default}]  不要让病毒扩散"
 	}
 }

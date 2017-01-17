@@ -2,11 +2,11 @@
 {
 	"Map made by Cuniczek"
 	{
-		"blocked"		"1"
+		"trans"		"地图作者 Cuniczek"
 	}
 	"Thanks to Enviolinador & Darnias"
 	{
-		"blocked"		"1"
+		"trans"		"感谢 Enviolinador & Darnias 翻译 露比"
 	}
 	"All paths are dead."
 	{
