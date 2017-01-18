@@ -30,7 +30,7 @@
 	}
 	"**Zombies ate the main gate!**"
 	{
-		"trans"		"[{darkred}Map{default}]  僵尸吃了大门!"
+		"trans"		"[{darkred}Map{default}]  僵尸吃掉了大门!"
 	}
 	"**Lightning:  How bout some hardcore S&M boys?  Press the red button!!"
 	{
@@ -46,7 +46,7 @@
 	}
 	"-=DOOR JAMMED! FIND ANOTHER WAY OUT!=-"
 	{
-		"trans"		"[{darkred}Map{default}]  门堵塞找到另一个出路!"
+		"trans"		"[{darkred}Map{default}]  门堵住了! 找到另一个出路!"
 	}
 	"**Zombies held back for 5 seconds.**"
 	{
@@ -58,11 +58,11 @@
 	}
 	"-=Toilet Defense System Activated=-"
 	{
-		"trans"		"[{darkred}Map{default}]  厕所防御系统激活"
+		"trans"		"[{darkred}Map{default}]  厕所防御系统已激活"
 	}
 	"**Those Planks Look Oftly Flimsy!**"
 	{
-		"trans"		"[{darkred}Map{default}]  那些木板好像很好应该可以走!"
+		"trans"	X	"[{darkred}Map{default}]  那些木板好像很好应该可以走!"
 	}
 	"-=Hold here for 30 Seconds.=-"
 	{
@@ -74,7 +74,7 @@
 	}
 	"-=Zombies advance in 15 seconds.=-"
 	{
-		"trans"		"[{darkred}Map{default}]  僵尸推进15秒.=-"
+		"trans"		"[{darkred}Map{default}]  僵尸传送点推进于15秒后"
 	}
 	"**Sailor Moon: I'M CUMMIN FOR YOU!**"
 	{
@@ -82,7 +82,7 @@
 	}
 	"-=A Player Has Been Raped By Sailormoon.=-"
 	{
-		"trans"		"[{darkred}Map{default}]  一个玩家已经被Sailormoon强奸."
+		"trans"		"[{darkred}Map{default}]  一个玩家已经被美少女战士强奸致死."
 	}
 	"-=5 seconds remaining.=-"
 	{
@@ -90,7 +90,7 @@
 	}
 	"-=DOOR OPENED! Zombies held back for 5 seconds.=-"
 	{
-		"trans"		"[{darkred}Map{default}]  门开了僵尸被阻碍5秒."
+		"trans"		"[{darkred}Map{default}]  门开了,僵尸将被阻碍5秒."
 	}
 	"**Does this copter have enough fuel?**"
 	{
@@ -118,7 +118,7 @@
 	}
 	"-=Door opened!  Zombies held back 5 seconds.=-"
 	{
-		"trans"		"[{darkred}Map{default}]  门开了僵尸被阻碍5秒."
+		"trans"		"[{darkred}Map{default}]  门开了,僵尸将被阻碍5秒."
 	}
 	"-=Defense System Activated=-"
 	{
@@ -142,7 +142,7 @@
 	}
 	"**Dr. Valencia:  I'm in the john!**"
 	{
-		"trans"		"[{darkred}Map{default}]  瓦伦西亚博士:我在约翰!"
+		"trans"		"[{darkred}Map{default}]  瓦伦西亚博士:我在上厕所!"
 	}
 	"-=Zombies released in 3 seconds=-"
 	{
@@ -150,11 +150,11 @@
 	}
 	"-=Force her out!=-"
 	{
-		"trans"		"[{darkred}Map{default}]  强迫她!"
+		"trans"		"[{darkred}Map{default}]  强迫她出来!"
 	}
 	"**Dr. Valencia: HOW DARE YOU BREAK MY CAN!**"
 	{
-		"trans"		"[{darkred}Map{default}]  瓦伦西亚博士:你怎么敢伤我!"
+		"trans"		"[{darkred}Map{default}]  瓦伦西亚博士:你怎么敢乱来!"
 	}
 	"**Dr Valencia:  Ok... I'll open the door.**"
 	{
@@ -166,7 +166,7 @@
 	}
 	"**Dr. Valencia: I might need to expell some gas soon."
 	{
-		"trans"		"[{darkred}Map{default}]  瓦伦西亚博士:我可能需要放一些气体很快."
+		"trans"		"[{darkred}Map{default}]  瓦伦西亚博士:我可能需要放一些毒气."
 	}
 	"-=Dr. Valencia:  Door opening in 5.=-"
 	{
@@ -178,11 +178,11 @@
 	}
 	"**Dr. Valencia: TAKE THIS!!!**"
 	{
-		"trans"		"[{darkred}Map{default}]  瓦伦西亚博士:拿着这个!!!"
+		"trans"		"[{darkred}Map{default}]  瓦伦西亚博士:尝尝这个!!!"
 	}
 	"**Dr. Valencia:  Hold the door!  I'll use the remaining gas to conjure up a nuke!"
 	{
-		"trans"		"[{darkred}Map{default}]  瓦伦西亚博士:开门!我将用剩下的气体召唤出核武器!"
+		"trans"		"[{darkred}Map{default}]  瓦伦西亚博士:守住门!我将用剩下的毒气召唤出核武器!"
 	}
 	"**Dr. Valencia:  Nuke in 3...**"
 	{
@@ -198,7 +198,7 @@
 	}
 	"-=Thanks for playing Evil Mansion!=-"
 	{
-		"trans"		"[{darkred}Map{default}]  谢谢扮演邪恶的豪宅"
+		"trans"		"[{darkred}Map{default}]  谢谢游玩邪恶的豪宅"
 	}
 	"-= For comments, find me on the SCA clan forums!=-"
 	{
@@ -206,18 +206,18 @@
 	}
 	"**Lightning:  How bout some hardcore S&M boys?  Press the red button!!**"
 	{
-		"trans"		"[{darkred}Map{default}] **Lightning:  How bout some hardcore S&M boys?  Press the red button!!**"
+		"trans"		"[{darkred}Map{default}]  Lightning: 来呀,放纵呀,想来就按那个红色按钮!"
 	}
 	"** Zombies are trapped for 15 secs or til CTs find a solution.**"
 	{
-		"trans"		"[{darkred}Map{default}] ** Zombies are trapped for 15 secs or til CTs find a solution.**"
+		"trans"		"[{darkred}Map{default}]  僵尸将被困住15秒"
 	}
 	"**Dr. Valencia: I might need to expell some gas soon.**"
 	{
-		"trans"		"[{darkred}Map{default}] **Dr. Valencia: I might need to expell some gas soon.**"
+		"trans"		"[{darkred}Map{default}]  瓦伦西亚博士:我准备放点毒气玩玩.."
 	}
 	"**Dr. Valencia:  Hold the door!  I'll use the remaining gas to conjure up a nuke!**"
 	{
-		"trans"		"[{darkred}Map{default}] **Dr. Valencia:  Hold the door!  I'll use the remaining gas to conjure up a nuke!**"
+		"trans"		"[{darkred}Map{default}]  瓦伦西亚博士:不要放僵尸进来!我将用剩下的毒气召唤出核武器!"
 	}
 }

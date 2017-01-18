@@ -34,7 +34,7 @@
 	}
 	"## Careful of the collapsing Floor! ##"
 	{
-		"trans"		"[{darkred}Map{default}]  小心地板崩溃!"
+		"trans"		"[{darkred}Map{default}]  小心地板崩塌!"
 	}
 	"## Trap Door Opening in 30 Seconds ##"
 	{
@@ -54,19 +54,19 @@
 	}
 	"##Door Opens 40 Seconds##"
 	{
-		"trans"		"[{darkred}Map{default}]  门在40秒后开"
+		"trans"		"[{darkred}Map{default}]  门在40秒后打开"
 	}
 	"##Each Block will turn red when a zombie is in the corridor##"
 	{
-		"trans"		"[{darkred}Map{default}] Each Block will turn red when a zombie is in the corridor"
+		"trans"		"[{darkred}Map{default}]  僵尸闯进某个区域时该区域会闪红光"
 	}
 	"##Each Block will turn green when the corridor is clear##"
 	{
-		"trans"		"[{darkred}Map{default}] Each Block will turn green when the corridor is clear"
+		"trans"		"[{darkred}Map{default}]  某个区域没人时该区域会闪绿光"
 	}
 	"##Zombies can Break the Blocks sooo DEFEND##"
 	{
-		"trans"		"[{darkred}Map{default}]  僵尸可以打破维护"
+		"trans"		"[{darkred}Map{default}]  僵尸可以打破墙所以请守住"
 	}
 	"##Door Opens 20 Seconds##"
 	{
@@ -122,7 +122,7 @@
 	}
 	"## All Players if not in the boss room will be teleported ##"
 	{
-		"trans"		"[{darkred}Map{default}]  所有人类不是在boss房间将传送"
+		"trans"		"[{darkred}Map{default}]  所有不是在boss房间的玩家将被传送"
 	}
 	"## Boss Room Door Closing 5 Seconds ##"
 	{
@@ -130,7 +130,7 @@
 	}
 	"## Boss Room Door Closed...Prepare for BATTLE ##"
 	{
-		"trans"		"[{darkred}Map{default}]  最后的大门已经关闭准备战斗"
+		"trans"		"[{darkred}Map{default}]  最后的大门已经关闭,准备战斗"
 	}
 	"## REAPER SPLITTER KILL IT ##"
 	{
@@ -138,15 +138,15 @@
 	}
 	"## You have 2minutes till the boss room explodes! Kill it Quick!"
 	{
-		"trans"		"[{darkred}Map{default}]  你只有2分钟的时间到房间爆炸快杀了它!"
+		"trans"		"[{darkred}Map{default}]  你只有2分钟的时间,否则房间会爆炸,快杀了它!"
 	}
 	"##You Lost##"
 	{
-		"trans"		"[{darkred}Map{default}] 你失去了..."
+		"trans"		"[{darkred}Map{default}] 你输了..."
 	}
 	"## Reaper Splitter Killed ESCAPE ##"
 	{
-		"trans"		"[{darkred}Map{default}]  boss被打死了快逃脱"
+		"trans"		"[{darkred}Map{default}]  boss被打死了,快跑"
 	}
 	"## Zombies will be released in 10 Seconds ##"
 	{
@@ -162,10 +162,10 @@
 	}
 	"## END GAME ##"
 	{
-		"trans"		"[{darkred}Map{default}]  结束游戏 翻译露比"
+		"trans"		"[{darkred}Map{default}]  结束游戏 翻译:露比"
 	}
 	"## You have 2minutes till the boss room explodes! Kill it Quick! ##"
 	{
-		"trans"		"[{darkred}Map{default}] ## You have 2minutes till the boss room explodes! Kill it Quick! ##"
+		"trans"		"[{darkred}Map{default}]  你只有2分钟的时间,否则房间会爆炸,快杀了它"
 	}
 }
