@@ -62,7 +62,7 @@
 	}
 	"**Those Planks Look Oftly Flimsy!**"
 	{
-		"trans"	X	"[{darkred}Map{default}]  那些木板好像很好应该可以走!"
+		"trans"		"[{darkred}Map{default}]  那些木板好像很好应该可以走!"
 	}
 	"-=Hold here for 30 Seconds.=-"
 	{

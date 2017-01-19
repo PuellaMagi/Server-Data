@@ -2,11 +2,11 @@
 {
 	">>>ze_nostromo_v1_0b. Map by AngryAngus3<<<"
 	{
-		"blocked"		"1"
+		"trans"		"[{darkred}Map{default}]  本地图灵感来自于电影《异形》"
 	}
 	">>>Alert, hypersleep interrupted! MU-TH-ER has detected non human life forms on the ship!<<<"
 	{
-		"blocked"		"1"
+		"trans"		"[{darkred}Map{default}]  警报,深度睡眠已被中断! 计算机终端侦测到非人类生物活动踪迹!"
 	}
 	">>>You must navigate the ship and find Captian Dallas' keycard!<<<"
 	{
@@ -14,15 +14,15 @@
 	}
 	">>>With it you can access MU-TH-ER's mainframe and gain access to engineering! <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  目标2:启动自毁装置"
+		"trans"		"[{darkred}Map{default}]  目标2:找到维修区"
 	}
 	">>>Activate the self destruct mechanism and get the hell off this ship, don't let the alien escape!<<<"
 	{
-		"trans"		"[{darkred}Map{default}]  目标3:不让任何僵尸离开这里"
+		"trans"		"[{darkred}Map{default}]  目标3:启动自毁装置,不让任何僵尸离开这里"
 	}
 	">>>Good Luck!<<<"
 	{
-		"blocked"		"1"
+		"trans"		"[{darkred}Map{default}]  看不见路的玩家请按下F键启用手电或在聊天栏内输入!nvg启动夜视仪.."
 	}
 	">>>MU-TH-ER reports the Aliens are using the ship's vents to move around! Be careful!<<<"
 	{
@@ -46,7 +46,7 @@
 	}
 	"Make a run to B deck! I hope you packed a flashlight today!"
 	{
-		"trans"		"[{darkred}Map{default}]  往两边的控制室走!看不见路的请按F开灯.."
+		"trans"		"[{darkred}Map{default}]  往两边的控制室走!"
 	}
 	"MU-TH-ER is detecting movement in the ventilation shafts!"
 	{
@@ -54,7 +54,7 @@
 	}
 	"Override the door controls to gain access to the Garage area!"
 	{
-		"blocked"		"1"
+		"trans"		"[{darkred}Map{default}]  正在建立控制权"
 	}
 	"Door override initiated, please wait 15 seconds"
 	{

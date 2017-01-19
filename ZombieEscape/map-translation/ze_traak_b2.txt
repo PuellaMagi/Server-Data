@@ -2,58 +2,58 @@
 {
 	"*** MAP BY P'A'SS ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** MAP BY P'A'SS ***"
+		"blocked"		"1"
 	}
 	"*** Door Opens in 30 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Door opens in 30 seconds ***"
+		"trans"		"[{darkred}Map{default}]  门开启于30秒后"
 	}
 	"*** KEEP HOLDING***"
 	{
-		"trans"		"[{darkred}Map{default}] *** KEEP HOLDING***"
+		"trans"		"[{darkred}Map{default}]  坚守阵地"
 	}
 	"*** DOOR IS OPENING***"
 	{
-		"trans"		"[{darkred}Map{default}] *** DOOR IS OPENING***"
+		"trans"		"[{darkred}Map{default}]  门正在开启"
 	}
 	"*** Elevator is powering up! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Elevator is powering up! ***"
+		"trans"		"[{darkred}Map{default}]  电梯正在充能"
 	}
 	"*** Elevator leaves in 5 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Elevator leaves in 5 seconds ***"
+		"trans"		"[{darkred}Map{default}]  电梯离开于5秒后"
 	}
 	"*** Door should open soon! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Door should open soon! ***"
+		"trans"		"[{darkred}Map{default}]  坚守到门打开"
 	}
 	"*** RESIST ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** RESIST ***"
+		"trans"		"[{darkred}Map{default}]  坚守阵地"
 	}
 	"*** Warehouse door opens in 30 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Warehouse door opens in 30 seconds ***"
+		"trans"		"[{darkred}Map{default}]  仓库门打开于30秒后"
 	}
 	"*** Door is Opening ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** DOOR IS OPENING ***"
+		"trans"		"[{darkred}Map{default}]  门正在开启"
 	}
 	"*** This is the final hold ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** This is the final hold ***"
+		"trans"		"[{darkred}Map{default}]  这是最后的防御点"
 	}
 	"*** The ship will leave soon! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** The ship will leave soon! ***"
+		"trans"		"[{darkred}Map{default}]  货轮即将离港"
 	}
 	"*** ZOMBIES ON THE SHIP ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** ZOMBIES ON THE SHIP ***"
+		"trans"		"[{darkred}Map{default}]  有僵尸闯进了货轮"
 	}
 	"*** You Fail ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** YOU FAIL ***"
+		"trans"		"[{darkred}Map{default}]  你们输了"
 	}
 }

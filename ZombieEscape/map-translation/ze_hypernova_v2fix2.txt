@@ -2,202 +2,202 @@
 {
 	"**Giant red star is unstable**"
 	{
-		"trans"		"[{darkred}Map{default}] **Giant red star is unstable**"
+		"trans"		"[{darkred}Map{default}]  这颗行星已经不稳定了"
 	}
 	"**Go to the top of the station and find scape pods**"
 	{
-		"trans"		"[{darkred}Map{default}] **Go to the top of the station and find scape pods**"
+		"trans"		"[{darkred}Map{default}]  前往前哨站顶部寻找逃生舱"
 	}
 	"**Map by Eddie**"
 	{
-		"trans"		"[{darkred}Map{default}] **Map by Eddie**"
+		"blocked"		"1"
 	}
 	"**맵 제작자 : Eddie**"
 	{
-		"trans"		"[{darkred}Map{default}] **맵 제작자 : Eddie**"
+		"blocked"		"1"
 	}
 	"**Special thanks to Kaemon and Hannibal (SPA)**"
 	{
-		"trans"		"[{darkred}Map{default}] **Special thanks to Kaemon and Hannibal (SPA)**"
+		"blocked"		"1"
 	}
 	"**맵 조력자 : Kaemon, Hannibal (SPA)**"
 	{
-		"trans"		"[{darkred}Map{default}] **맵 조력자 : Kaemon, Hannibal (SPA)**"
+		"blocked"		"1"
 	}
 	"**And also thanks to i3D Community and Supreme Elite Community**"
 	{
-		"trans"		"[{darkred}Map{default}] **And also thanks to i3D Community and Supreme Elite Community**"
+		"blocked"		"1"
 	}
 	"**Map ported by [ＥSＣAＰＥ] Loving You **"
 	{
-		"trans"		"[{darkred}Map{default}] **Map ported by [ＥSＣAＰＥ] Loving You **"
+		"blocked"		"1"
 	}
 	"**맵 수정자 : [ＥSＣAＰＥ] Loving You**"
 	{
-		"trans"		"[{darkred}Map{default}] **맵 수정자 : [ＥSＣAＰＥ] Loving You**"
+		"blocked"		"1"
 	}
 	"**소나기, 러빙유 탈출좀비 서버를 많이 기억해주세요.**"
 	{
-		"trans"		"[{darkred}Map{default}] **소나기, 러빙유 탈출좀비 서버를 많이 기억해주세요.**"
+		"blocked"		"1"
 	}
 	"** Cargo secction upper door opening in 15s**"
 	{
-		"trans"		"[{darkred}Map{default}] ** Cargo secction upper door opening in 15s**"
+		"trans"		"[{darkred}Map{default}]  货仓气密门启动于15秒后"
 	}
 	"** Cargo secction upper door opening in 5s**"
 	{
-		"trans"		"[{darkred}Map{default}] ** Cargo secction upper door opening in 5s**"
+		"trans"		"[{darkred}Map{default}]  货仓气密门启动于5秒后"
 	}
 	"**Closing gravity tower upper acces**"
 	{
-		"trans"		"[{darkred}Map{default}] **Closing gravity tower upper acces**"
+		"trans"		"[{darkred}Map{default}]  低重力通道已关闭"
 	}
 	"**Crate locking gravity tower acces**"
 	{
-		"trans"		"[{darkred}Map{default}] **Crate locking gravity tower acces**"
+		"trans"		"[{darkred}Map{default}]  箱子已经封住了通道"
 	}
 	"**Gravity tower acces breaking crate in 5s**"
 	{
-		"trans"		"[{darkred}Map{default}] **Gravity tower acces breaking crate in 5s**"
+		"trans"		"[{darkred}Map{default}]  障碍破除于5秒后"
 	}
 	"**Cargo lift leaving in 30 s**"
 	{
-		"trans"		"[{darkred}Map{default}] **Cargo lift leaving in 30 s**"
+		"trans"		"[{darkred}Map{default}]  货梯离开于30秒后"
 	}
 	"**Pods will departure in 2 minutes**"
 	{
-		"trans"		"[{darkred}Map{default}] **Pods will departure in 2 minutes**"
+		"trans"		"[{darkred}Map{default}]  逃生舱起飞于2分钟后"
 	}
 	"**Cargo lift leaving in 15 s**"
 	{
-		"trans"		"[{darkred}Map{default}] **Cargo lift leaving in 15 s**"
+		"trans"		"[{darkred}Map{default}]  货梯离开于15秒后"
 	}
 	"**Cargo lift leaving in 5 s**"
 	{
-		"trans"		"[{darkred}Map{default}] **Cargo lift leaving in 5 s**"
+		"trans"		"[{darkred}Map{default}] 货梯离开于5秒后"
 	}
 	"**Giant Star is in critical situation**"
 	{
-		"trans"		"[{darkred}Map{default}] **Giant Star is in critical situation**"
+		"trans"		"[{darkred}Map{default}]  这颗行星正在崩溃"
 	}
 	"**You should cover both escape pods**"
 	{
-		"trans"		"[{darkred}Map{default}] **You should cover both escape pods**"
+		"trans"		"[{darkred}Map{default}]  请同时保护两个逃生舱"
 	}
 	"**Do not allow zombies to infect pods**"
 	{
-		"trans"		"[{darkred}Map{default}] **Do not allow zombies to infect pods**"
+		"trans"		"[{darkred}Map{default}]  不要让敌人踏进一步"
 	}
 	"**All zombies will get teleported to the infected pod**"
 	{
-		"trans"		"[{darkred}Map{default}] **All zombies will get teleported to the infected pod**"
+		"trans"		"[{darkred}Map{default}]  所有僵尸将会传送进已被入侵的逃生舱中"
 	}
 	"**Pods wil departure in 1 minute**"
 	{
-		"trans"		"[{darkred}Map{default}] **Pods wil departure in 1 minute**"
+		"trans"		"[{darkred}Map{default}]  逃生舱起飞于1分钟后"
 	}
 	"**Pod acces door will close in 20 s**"
 	{
-		"trans"		"[{darkred}Map{default}] **Pod acces door will close in 20 s**"
+		"trans"		"[{darkred}Map{default}]  逃生舱舱门关闭于20秒后"
 	}
 	"**Pod acces door will close in 10 s**"
 	{
-		"trans"		"[{darkred}Map{default}] **Pod acces door will close in 10 s**"
+		"trans"		"[{darkred}Map{default}] 逃生舱舱门关闭于10秒后"
 	}
 	"**Pod acces door will close in 5 s**"
 	{
-		"trans"		"[{darkred}Map{default}] **Pod acces door will close in 5 s**"
+		"trans"		"[{darkred}Map{default}] 逃生舱舱门关闭于5秒后"
 	}
 	"**Pods are leaving the platform**"
 	{
-		"trans"		"[{darkred}Map{default}] **Pods are leaving the platform**"
+		"trans"		"[{darkred}Map{default}] 逃生舱正在离港"
 	}
 	"**Pods are leaving the dangerous area**"
 	{
-		"trans"		"[{darkred}Map{default}] **Pods are leaving the dangerous area**"
+		"trans"		"[{darkred}Map{default}] 逃生舱已经脱离危险区"
 	}
 	"**The star has exploded**"
 	{
-		"trans"		"[{darkred}Map{default}] **The star has exploded**"
+		"trans"		"[{darkred}Map{default}]  这颗恒星爆炸了"
 	}
 	"**Station will not resist the explosion**"
 	{
-		"trans"		"[{darkred}Map{default}] **Station will not resist the explosion**"
+		"trans"		"[{darkred}Map{default}]  空间站无法承受爆炸的威力"
 	}
 	"**What the hell...**"
 	{
-		"trans"		"[{darkred}Map{default}] **What the hell...**"
+		"trans"		"[{darkred}Map{default}]  ????"
 	}
 	"**A blackhole!**"
 	{
-		"trans"		"[{darkred}Map{default}] **A blackhole!**"
+		"trans"		"[{darkred}Map{default}]  见鬼!是黑洞!"
 	}
 	"**Push zombies at the rear section of each pod**"
 	{
-		"trans"		"[{darkred}Map{default}] **Push zombies at the rear section of each pod**"
+		"trans"		"[{darkred}Map{default}]  将僵尸击退到舱尾"
 	}
 	"**Sections will separate from the pod and will fall to the blackhole**"
 	{
-		"trans"		"[{darkred}Map{default}] **Sections will separate from the pod and will fall to the blackhole**"
+		"trans"		"[{darkred}Map{default}]  逃生舱必须脱离后侧和中间两部分以脱离黑洞影响"
 	}
 	"**Rear section sealing in 15 s**"
 	{
-		"trans"		"[{darkred}Map{default}] **Rear section sealing in 15 s**"
+		"trans"		"[{darkred}Map{default}]  逃生舱后侧脱离于15秒后"
 	}
 	"**Gravity of the blackhole is very strong**"
 	{
-		"trans"		"[{darkred}Map{default}] **Gravity of the blackhole is very strong**"
+		"blocked"		"1"
 	}
 	"**Rear section sealing in 5 s**"
 	{
-		"trans"		"[{darkred}Map{default}] **Rear section sealing in 5 s**"
+		"trans"		"[{darkred}Map{default}]  逃生舱后侧脱离于5秒后"
 	}
 	"**Rear section leaving the structure**"
 	{
-		"trans"		"[{darkred}Map{default}] **Rear section leaving the structure**"
+		"trans"		"[{darkred}Map{default}]  逃生舱后侧脱离"
 	}
 	"**Double doors sealing in 15s**"
 	{
-		"trans"		"[{darkred}Map{default}] **Double doors sealing in 15s**"
+		"trans"		"[{darkred}Map{default}]  门密封于15秒后"
 	}
 	"**Double doors sealing in 5s**"
 	{
-		"trans"		"[{darkred}Map{default}] **Double doors sealing in 5s**"
+		"trans"		"[{darkred}Map{default}] 门密封于5秒后"
 	}
 	"**Sealing double doors**"
 	{
-		"trans"		"[{darkred}Map{default}] **Sealing double doors**"
+		"trans"		"[{darkred}Map{default}]  密闭门正在关闭"
 	}
 	"**Sealing elevator acces for security**"
 	{
-		"trans"		"[{darkred}Map{default}] **Sealing elevator acces for security**"
+		"trans"		"[{darkred}Map{default}]  正在关闭安全门"
 	}
 	"**Door malfunction**"
 	{
-		"trans"		"[{darkred}Map{default}] **Door malfunction**"
+		"trans"		"[{darkred}Map{default}]  大门控制权已获取"
 	}
 	"**Generator Elevator leaving in 25 s**"
 	{
-		"trans"		"[{darkred}Map{default}] **Generator Elevator leaving in 25 s**"
+		"trans"		"[{darkred}Map{default}]  电梯启动于25秒后"
 	}
 	"**Generator Elevator leaving 15 s**"
 	{
-		"trans"		"[{darkred}Map{default}] **Generator Elevator leaving 15 s**"
+		"trans"		"[{darkred}Map{default}]  电梯启动于25秒后"
 	}
 	"**Generator Elevator is leaving**"
 	{
-		"trans"		"[{darkred}Map{default}] **Generator Elevator is leaving**"
+		"trans"		"[{darkred}Map{default}]  电梯启动"
 	}
 	"**Central section sealing in 15 s**"
 	{
-		"trans"		"[{darkred}Map{default}] **Central section sealing in 15 s**"
+		"trans"		"[{darkred}Map{default}]  逃生舱中段脱离于15秒后"
 	}
 	"**Central section sealing in 5 s**"
 	{
-		"trans"		"[{darkred}Map{default}] **Central section sealing in 5 s**"
+		"trans"		"[{darkred}Map{default}]  逃生舱中段脱离于5秒后"
 	}
 	"**Central section leaving the structure**"
 	{
-		"trans"		"[{darkred}Map{default}] **Central section leaving the structure**"
+		"trans"		"[{darkred}Map{default}]  逃生舱中段脱离"
 	}
 }
