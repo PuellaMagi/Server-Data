@@ -1,0 +1,31 @@
+"Chat"
+{
+	"*** STAGE 1 ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** STAGE 1 ***"
+	}
+	"*** SURVIVE FOR 20 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** SURVIVE FOR 20 SECONDS ***"
+	}
+	"*** 7 SECONDS REMAINING ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** 7 SECONDS REMAINING ***"
+	}
+	"*** >????????????????????? ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** >????????????????????? ***"
+	}
+	"*** ??????%%%%%%%? ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ??????%%%%%%%? ***"
+	}
+	"*** ?? ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** ?? ***"
+	}
+	"*** FIND AN ESCAPE ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** FIND AN ESCAPE ***"
+	}
+}

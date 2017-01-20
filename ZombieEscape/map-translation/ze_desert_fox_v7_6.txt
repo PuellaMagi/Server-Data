@@ -1,0 +1,63 @@
+"Chat"
+{
+	"Defend until door open"
+	{
+		"trans"		"[{darkred}Map{default}] Defend until door open"
+	}
+	"Fall Back"
+	{
+		"trans"		"[{darkred}Map{default}] Fall Back"
+	}
+	"<< Defend 30 seconds >>"
+	{
+		"trans"		"[{darkred}Map{default}] << Defend 30 seconds >>"
+	}
+	"<< 30 seconds until door open >>"
+	{
+		"trans"		"[{darkred}Map{default}] << 30 seconds until door open >>"
+	}
+	"Defend the bridge"
+	{
+		"trans"		"[{darkred}Map{default}] Defend the bridge"
+	}
+	"back off the bridge zombies will be delayed"
+	{
+		"trans"		"[{darkred}Map{default}] back off the bridge zombies will be delayed"
+	}
+	"Door open in 5 seconds"
+	{
+		"trans"		"[{darkred}Map{default}] Door open in 5 seconds"
+	}
+	"Door is open"
+	{
+		"trans"		"[{darkred}Map{default}] Door is open"
+	}
+	"Hurry up !! Run !"
+	{
+		"trans"		"[{darkred}Map{default}] Hurry up !! Run !"
+	}
+	"defend this spot few seconds"
+	{
+		"trans"		"[{darkred}Map{default}] defend this spot few seconds"
+	}
+	"Fall Back !!!"
+	{
+		"trans"		"[{darkred}Map{default}] Fall Back !!!"
+	}
+	"You are near the goal"
+	{
+		"trans"		"[{darkred}Map{default}] You are near the goal"
+	}
+	"<< Cover spot for few seconds >>"
+	{
+		"trans"		"[{darkred}Map{default}] << Cover spot for few seconds >>"
+	}
+	"Teleport to boss room will ready in 5 seconds"
+	{
+		"trans"		"[{darkred}Map{default}] Teleport to boss room will ready in 5 seconds"
+	}
+	"Teleport ready !"
+	{
+		"trans"		"[{darkred}Map{default}] Teleport ready !"
+	}
+}

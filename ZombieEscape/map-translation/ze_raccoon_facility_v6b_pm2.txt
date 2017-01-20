@@ -1,0 +1,39 @@
+"Chat"
+{
+	">>Map by prof_yaffle<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>Map by prof_yaffle<<"
+	}
+	">>Map Modified by LeGrem<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>Map Modified by LeGrem<<"
+	}
+	"**Left Elevator Leaving in 15s**"
+	{
+		"trans"		"[{darkred}Map{default}] **Left Elevator Leaving in 15s**"
+	}
+	"**Right Elevator Leaving in 15s**"
+	{
+		"trans"		"[{darkred}Map{default}] **Right Elevator Leaving in 15s**"
+	}
+	"**Train departs in 90 seconds**"
+	{
+		"trans"		"[{darkred}Map{default}] **Train departs in 90 seconds**"
+	}
+	"**Train departs in 60 seconds**"
+	{
+		"trans"		"[{darkred}Map{default}] **Train departs in 60 seconds**"
+	}
+	"**Train departs in 30 seconds**"
+	{
+		"trans"		"[{darkred}Map{default}] **Train departs in 30 seconds**"
+	}
+	"**Train departs in 15 seconds**"
+	{
+		"trans"		"[{darkred}Map{default}] **Train departs in 15 seconds**"
+	}
+	"**Train depart**"
+	{
+		"trans"		"[{darkred}Map{default}] **Train depart**"
+	}
+}

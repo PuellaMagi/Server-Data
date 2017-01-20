@@ -1,0 +1,43 @@
+"Chat"
+{
+	"*** Map created by dAllas ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Map created by dAllas ***"
+	}
+	"*** TIPS and HELP from Kim [pF] and Mikey-Muse  ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** TIPS and HELP from Kim [pF] and Mikey-Muse  ***"
+	}
+	"*** The backend door will open in 30 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** The backend door will open in 30 seconds ***"
+	}
+	"*** Elevator is activated ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Elevator is activated ***"
+	}
+	"*** Elevator doors opens in 30 sec ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Elevator doors opens in 30 sec ***"
+	}
+	"*** Elevator doors closes in 15 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Elevator doors closes in 15 seconds ***"
+	}
+	"*** Stair grid is now accessible ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** Stair grid is now accessible ***"
+	}
+	"*** The blast door will close after 30 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** The blast door will close after 30 seconds ***"
+	}
+	"*** The fence will break when the door is fully closed! ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** The fence will break when the door is fully closed! ***"
+	}
+	"*** The TNT will blow in 40 seconds ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** The TNT will blow in 40 seconds ***"
+	}
+}

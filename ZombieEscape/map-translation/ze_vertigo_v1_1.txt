@@ -1,0 +1,11 @@
+"Chat"
+{
+	">>>CURRENT DIFFICULTY: EASY<<<"
+	{
+		"trans"		"[{darkred}Map{default}] >>>CURRENT DIFFICULTY: EASY<<<"
+	}
+	"Platform will lower in 20 seconds"
+	{
+		"trans"		"[{darkred}Map{default}] Platform will lower in 20 seconds"
+	}
+}

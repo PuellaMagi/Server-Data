@@ -17,50 +17,54 @@
 	}
 	"*** REAR DOORS OPENING IN 30 SECONDS ***"
 	{
-		"trans"		"[{darkred}Map{default}]  门30秒后打开"
+		"trans"		"[{darkred}Map{default}] *** REAR DOORS OPENING IN 30 SECONDS ***"
 	}
 	"*** REAR DOORS OPENING IN 10 SECONDS ***"
 	{
-		"trans"		"[{darkred}Map{default}]  10秒后门打开"
+		"trans"		"[{darkred}Map{default}] *** REAR DOORS OPENING IN 10 SECONDS ***"
 	}
 	"*** SAFETY DOOR CLOSING ***"
 	{
-		"trans"		"[{darkred}Map{default}]  门关闭"
-	} 
+		"trans"		"[{darkred}Map{default}] *** SAFETY DOOR CLOSING ***"
+	}
 	"*** DOORS OPENING ***"
 	{
-		"trans"		"[{darkred}Map{default}]  大门开放"
+		"trans"		"[{darkred}Map{default}] *** DOORS OPENING ***"
 	}
 	"*** TRUST IN THE LIGHT! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  相信光明!"
+		"trans"		"[{darkred}Map{default}] *** TRUST IN THE LIGHT! ***"
 	}
 	"*** DARK ROOM FLOOR STABLE ***"
 	{
-		"trans"		"[{darkred}Map{default}]  暗室地板稳定"
+		"trans"		"[{darkred}Map{default}] *** DARK ROOM FLOOR STABLE ***"
 	}
 	"*** DOOR OPENING SHORTLY ***"
 	{
-		"trans"		"[{darkred}Map{default}]  门打开了"
+		"trans"		"[{darkred}Map{default}] *** DOOR OPENING SHORTLY ***"
 	}
 	"*** DOOR IS NOW OPEN ***"
 	{
-		"trans"		"[{darkred}Map{default}]  门现在打开了"
+		"trans"		"[{darkred}Map{default}] *** DOOR IS NOW OPEN ***"
 	}
 	"*** BIG ELEVATOR LEAVING IN 5 SECONDS ***"
 	{
-		"trans"		"[{darkred}Map{default}]  5秒后电梯离开"
+		"trans"		"[{darkred}Map{default}] *** BIG ELEVATOR LEAVING IN 5 SECONDS ***"
 	}
 	"*** SIDE DOOR OPENING ***"
 	{
-		"trans"		"[{darkred}Map{default}]  边上的路口打开了"
+		"trans"		"[{darkred}Map{default}] *** SIDE DOOR OPENING ***"
 	}
 	"*** NUKE ARRIVING IN 30 SECONDS ***"
 	{
-		"trans"		"[{darkred}Map{default}]  核弹在30秒内到达"
+		"trans"		"[{darkred}Map{default}] *** NUKE ARRIVING IN 30 SECONDS ***"
 	}
 	"*** NUKE IMPACTING ***"
 	{
-		"trans"		"[{darkred}Map{default}]  核弹了boom 翻译：milulu"
+		"trans"		"[{darkred}Map{default}] *** NUKE IMPACTING ***"
+	}
+	"*** AFK／SPAWN CAMP KILLER IN 60 SECONDS ***"
+	{
+		"trans"		"[{darkred}Map{default}] *** AFK／SPAWN CAMP KILLER IN 60 SECONDS ***"
 	}
 }

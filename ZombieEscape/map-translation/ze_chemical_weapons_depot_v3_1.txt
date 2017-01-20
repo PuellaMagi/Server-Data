@@ -1,0 +1,55 @@
+"Chat"
+{
+	"### STAY AWAY FROM CONTAMINATE AREAS ###"
+	{
+		"trans"		"[{darkred}Map{default}] ### STAY AWAY FROM CONTAMINATE AREAS ###"
+	}
+	"### USE OFFICE DOOR INSTEAD !! ###"
+	{
+		"trans"		"[{darkred}Map{default}] ### USE OFFICE DOOR INSTEAD !! ###"
+	}
+	"### !! BOTH GATES OPEN  !! ###"
+	{
+		"trans"		"[{darkred}Map{default}] ### !! BOTH GATES OPEN  !! ###"
+	}
+	"### 10 SECONDS REMAINING ###"
+	{
+		"trans"		"[{darkred}Map{default}] ### 10 SECONDS REMAINING ###"
+	}
+	"### PRESS THE CONTROLER ###"
+	{
+		"trans"		"[{darkred}Map{default}] ### PRESS THE CONTROLER ###"
+	}
+	"### TO DESTROY THE BRIDGE ###"
+	{
+		"trans"		"[{darkred}Map{default}] ### TO DESTROY THE BRIDGE ###"
+	}
+	"### FENCE GATES ARE CLOSING ### "
+	{
+		"trans"		"[{darkred}Map{default}] ### FENCE GATES ARE CLOSING ### "
+	}
+	"### !!! USE THE LEFT EXIT !! ###"
+	{
+		"trans"		"[{darkred}Map{default}] ### !!! USE THE LEFT EXIT !! ###"
+	}
+	"### ELEVATOR IS LEAVING ###"
+	{
+		"trans"		"[{darkred}Map{default}] ### ELEVATOR IS LEAVING ###"
+	}
+	"### IN 10 SECONDS ###"
+	{
+		"trans"		"[{darkred}Map{default}] ### IN 10 SECONDS ###"
+	}
+	"### ZOMBIES USE THE LEFT LADDER INSTEAD ###"
+	{
+		"trans"		"[{darkred}Map{default}] ### ZOMBIES USE THE LEFT LADDER INSTEAD ###"
+	}
+	"### LADDER DOOR OPENS ###"
+	{
+		"trans"		"[{darkred}Map{default}] ### LADDER DOOR OPENS ###"
+	}
+	"### DEFEND THE LADDER NOW ###"
+	{
+		"trans"		"[{darkred}Map{default}] ### DEFEND THE LADDER NOW ###"
+	}
+}

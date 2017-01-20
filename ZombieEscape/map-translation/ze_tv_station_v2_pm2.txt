@@ -1,0 +1,55 @@
+"Chat"
+{
+	"**Truck 2 is leaving in 15 seconds**"
+	{
+		"trans"		"[{darkred}Map{default}] **Truck 2 is leaving in 15 seconds**"
+	}
+	"**Truck 1 is leaving in 15 seconds**"
+	{
+		"trans"		"[{darkred}Map{default}] **Truck 1 is leaving in 15 seconds**"
+	}
+	"**Boat 1 is leaving in 5 seconds**"
+	{
+		"trans"		"[{darkred}Map{default}] **Boat 1 is leaving in 5 seconds**"
+	}
+	"**Calling US Army....**"
+	{
+		"trans"		"[{darkred}Map{default}] **Calling US Army....**"
+	}
+	"**Nuke has been launched! Impact in 85 seconds**"
+	{
+		"trans"		"[{darkred}Map{default}] **Nuke has been launched! Impact in 85 seconds**"
+	}
+	"**Bunker doors will open in 50 seconds**"
+	{
+		"trans"		"[{darkred}Map{default}] **Bunker doors will open in 50 seconds**"
+	}
+	"**Bunker doors are opening in 30 seconds**"
+	{
+		"trans"		"[{darkred}Map{default}] **Bunker doors are opening in 30 seconds**"
+	}
+	"**Bunker doors are opening in 15 seconds**"
+	{
+		"trans"		"[{darkred}Map{default}] **Bunker doors are opening in 15 seconds**"
+	}
+	"**Bunker doors are now open!**"
+	{
+		"trans"		"[{darkred}Map{default}] **Bunker doors are now open!**"
+	}
+	"**Impact in 30 seconds**"
+	{
+		"trans"		"[{darkred}Map{default}] **Impact in 30 seconds**"
+	}
+	"**Impact in 10 seconds**"
+	{
+		"trans"		"[{darkred}Map{default}] **Impact in 10 seconds**"
+	}
+	"**Map made by: Westsid3r & Snowy**"
+	{
+		"trans"		"[{darkred}Map{default}] **Map made by: Westsid3r & Snowy**"
+	}
+	"**IMPACT!**"
+	{
+		"trans"		"[{darkred}Map{default}] **IMPACT!**"
+	}
+}
