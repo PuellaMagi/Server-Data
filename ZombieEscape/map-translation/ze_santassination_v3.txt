@@ -346,7 +346,6 @@
 	}
 	"***5 SECONDS UNTIL DEPARTURE***"
 	{
-		"command"		"sm_xzbd"
 		"trans"		"[{darkred}Map{default}]  船离港于5秒后"
 	}
 	"***OPENING UPPER CHAPEL DOOR IN 10 SECONDS***"
@@ -402,7 +401,6 @@
 	}
 	"***FACTORY DOOR OPENS IN 10 SECONDS***"
 	{
-		"command"		"sm_xzbd"
 		"trans"		"[{darkred}Map{default}]  厂门开启于10秒后"
 	}
 	"***BRIDGE EXIT GATE IS OPENING IN 5 SECONDS***"
@@ -716,7 +714,6 @@
 	}
 	"***YOU HAVE DEFEATED SANTA CLAUS***"
 	{
-		"command"		"sm_szw"
 		"trans"		"[{darkred}Map{default}]  这回BOSS算是死透了"
 	}
 	"***MUFASAS DEATH HAS BEEN AVENGED***"
@@ -739,6 +736,7 @@
 	}
 	"***THIS IS WRONG...***"
 	{
+		"command"	"szw_enabled"
 		"trans"		"[{darkred}Map{default}]  不对头..."
 	}
 	"***THIS.. IS THE TRUTH***"
@@ -944,7 +942,7 @@
 	}
 	"***YOU WILL BE REMEMBERED AS CHAMPIONS***"
 	{
-		"command"		"sm_szw"
+		"command"		"szw_disable"
 		"trans"		"[{darkred}Map{default}]  你们搞定了这张智障地图!"
 	}
 	"***THE END***"
