@@ -2,138 +2,138 @@
 {
 	"@ LVL 1 - Easy"
 	{
-		"trans"		"[{darkred}Map{default}] @ LVL 1 - Easy"
+		"trans"		"[{darkred}Map{default}]  第1关 简单"
 	}
 	">>> FALL BACK <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> FALL BACK <<<"
+		"trans"		"[{darkred}Map{default}]  撤退"
 	}
 	">>> PROTECT THE CASTLE <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> PROTECT THE CASTLE <<<"
+		"trans"		"[{darkred}Map{default}]  保护城堡"
 	}
 	">>> FALL BACK TO THE RAINBOW <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> FALL BACK TO THE RAINBOW <<<"
+		"trans"		"[{darkred}Map{default}]  回到彩虹上"
 	}
 	"Wait 15 sec !!"
 	{
-		"trans"		"[{darkred}Map{default}] Wait 15 sec !!"
+		"trans"		"[{darkred}Map{default}]  等待15秒"
 	}
 	"FALL BACK !!"
 	{
-		"trans"		"[{darkred}Map{default}] FALL BACK !!"
+		"trans"		"[{darkred}Map{default}]  撤退!!"
 	}
 	"King Pedobear will let you pass in 20 sec !"
 	{
-		"trans"		"[{darkred}Map{default}] King Pedobear will let you pass in 20 sec !"
+		"trans"		"[{darkred}Map{default}]  国王会让你在20秒后通过!"
 	}
 	"You can pass !"
 	{
-		"trans"		"[{darkred}Map{default}] You can pass !"
+		"trans"		"[{darkred}Map{default}]  你马上就可以通过了!"
 	}
 	"You won easy mode!"
 	{
-		"trans"		"[{darkred}Map{default}] You won easy mode!"
+		"trans"		"[{darkred}Map{default}]  你赢了!"
 	}
 	"King Pedobear kill all the zombie !"
 	{
-		"trans"		"[{darkred}Map{default}] King Pedobear kill all the zombie !"
+		"trans"		"[{darkred}Map{default}]  国王杀死所有僵尸!"
 	}
 	"@ LVL 2 - Normal"
 	{
-		"trans"		"[{darkred}Map{default}] @ LVL 2 - Normal"
+		"trans"		"[{darkred}Map{default}]  第2关 一般难度"
 	}
 	">>> SURVIVE 60 SEC <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> SURVIVE 60 SEC <<<"
+		"trans"		"[{darkred}Map{default}]  噢不传送错了你们只能守60秒了"
 	}
 	"King Pedobear will let you pass in 40 sec"
 	{
-		"trans"		"[{darkred}Map{default}] King Pedobear will let you pass in 40 sec"
+		"trans"		"[{darkred}Map{default}]  国王会在40秒后来接你"
 	}
 	"Fall back !"
 	{
-		"trans"		"[{darkred}Map{default}] Fall back !"
+		"trans"		"[{darkred}Map{default}]  走了!"
 	}
 	"King Pedobear let you pass"
 	{
-		"trans"		"[{darkred}Map{default}] King Pedobear let you pass"
+		"trans"		"[{darkred}Map{default}]  国王让你过去了"
 	}
 	"The rainbow will be open in 30 sec"
 	{
-		"trans"		"[{darkred}Map{default}] The rainbow will be open in 30 sec"
+		"trans"		"[{darkred}Map{default}]  彩虹将在30秒后出现"
 	}
 	"FALL BACK TO THE RAINBOW"
 	{
-		"trans"		"[{darkred}Map{default}] FALL BACK TO THE RAINBOW"
+		"trans"		"[{darkred}Map{default}]  彩虹出现了"
 	}
 	"YOU HAVE 20 SEC TO ESCAPE"
 	{
-		"trans"		"[{darkred}Map{default}] YOU HAVE 20 SEC TO ESCAPE"
+		"trans"		"[{darkred}Map{default}]  你有20秒来逃跑"
 	}
 	"SHOOT AND DODGE HIS ATTACK"
 	{
-		"trans"		"[{darkred}Map{default}] SHOOT AND DODGE HIS ATTACK"
+		"trans"		"[{darkred}Map{default}]  不好这个家伙好像生气了攻击他"
 	}
 	"You killed Pedobear !"
 	{
-		"trans"		"[{darkred}Map{default}] You killed Pedobear !"
+		"trans"		"[{darkred}Map{default}]  你们打败了他!"
 	}
 	"Escape from the sky now !"
 	{
-		"trans"		"[{darkred}Map{default}] Escape from the sky now !"
+		"trans"		"[{darkred}Map{default}]  现在从天空城堡逃走 !"
 	}
 	"Survive 25 sec !"
 	{
-		"trans"		"[{darkred}Map{default}] Survive 25 sec !"
+		"trans"		"[{darkred}Map{default}]  生存25秒!"
 	}
 	"You won Normal mode !"
 	{
-		"trans"		"[{darkred}Map{default}] You won Normal mode !"
+		"trans"		"[{darkred}Map{default}]  你们通过正常难度!"
 	}
 	"@ LVL 3 - Hard"
 	{
-		"trans"		"[{darkred}Map{default}] @ LVL 3 - Hard"
+		"trans"		"[{darkred}Map{default}]  第3关 困难"
 	}
 	"FALL BACK TO THE HOUSE !"
 	{
-		"trans"		"[{darkred}Map{default}] FALL BACK TO THE HOUSE !"
+		"trans"		"[{darkred}Map{default}]  回到房子里去!"
 	}
 	"Survive 60 sec !"
 	{
-		"trans"		"[{darkred}Map{default}] Survive 60 sec !"
+		"trans"		"[{darkred}Map{default}]  守房子60秒!"
 	}
 	"You can now acces to the second stage !"
 	{
-		"trans"		"[{darkred}Map{default}] You can now acces to the second stage !"
+		"trans"		"[{darkred}Map{default}]  加油 马上就可以逃跑了!"
 	}
 	"Go to the roof for escape !"
 	{
-		"trans"		"[{darkred}Map{default}] Go to the roof for escape !"
+		"trans"		"[{darkred}Map{default}]  到屋顶逃生!"
 	}
 	"You will me able to take the ladder in 20 sec"
 	{
-		"trans"		"[{darkred}Map{default}] You will me able to take the ladder in 20 sec"
+		"trans"		"[{darkred}Map{default}]  梯子上有魔法不过20秒后消失"
 	}
 	"King Pedobear will help you in 40 sec"
 	{
-		"trans"		"[{darkred}Map{default}] King Pedobear will help you in 40 sec"
+		"trans"		"[{darkred}Map{default}]  国王将在40秒后帮助你过来"
 	}
 	">> The glass will break in 20 sec <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> The glass will break in 20 sec <<"
+		"trans"		"[{darkred}Map{default}]  玻璃将在20秒内断裂。"
 	}
 	"YOU KILLED PEDOBEAR ! FALL BACK"
 	{
-		"trans"		"[{darkred}Map{default}] YOU KILLED PEDOBEAR ! FALL BACK"
+		"trans"		"[{darkred}Map{default}]  你杀了他 !后退"
 	}
 	"You need to survive 30 sec !"
 	{
-		"trans"		"[{darkred}Map{default}] You need to survive 30 sec !"
+		"trans"		"[{darkred}Map{default}]  你需要生存30秒!"
 	}
 	"You won Hard mode !"
 	{
-		"trans"		"[{darkred}Map{default}] You won Hard mode !"
+		"trans"		"[{darkred}Map{default}] 你赢了困难难度 !"
 	}
 }

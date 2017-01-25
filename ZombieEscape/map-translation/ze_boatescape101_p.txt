@@ -2,50 +2,50 @@
 {
 	"***MAP BY thegregster101***"
 	{
-		"trans"		"[{darkred}Map{default}] ***MAP BY thegregster101***"
+		"trans"		"[{darkred}Map{default}]  地图作者 thegregster101 翻译 南小鸟"
 	}
 	"***TRAM LEAVES 10 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***TRAM LEAVES 10 SECONDS***"
+		"trans"		"[{darkred}Map{default}]  电车离开10秒"
 	}
 	"***AFK TELEPORTING 20 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***AFK TELEPORTING 20 SECONDS***"
+		"trans"		"[{darkred}Map{default}]  跑的慢的家伙20秒后要被传送了"
 	}
 	"***AFK TELEPORTING 10 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***AFK TELEPORTING 10 SECONDS***"
+		"trans"		"[{darkred}Map{default}]  跑的慢的家伙10秒后要被传送了"
 	}
 	"*** AFK & HUNTERS HAVE BEEN TELEPORTED***"
 	{
-		"trans"		"[{darkred}Map{default}] *** AFK & HUNTERS HAVE BEEN TELEPORTED***"
+		"trans"		"[{darkred}Map{default}]  被传送了"
 	}
 	"***USE RADIO TO CALL FOR HELP!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***USE RADIO TO CALL FOR HELP!***"
+		"trans"		"[{darkred}Map{default}]  使用无线电呼叫az表哥"
 	}
 	"***RESCUE BOAT & HELI INBOUND 60 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***RESCUE BOAT & HELI INBOUND 60 SECONDS***"
+		"trans"		"[{darkred}Map{default}]  救援船只和直升飞机在60秒后入境"
 	}
 	"***BOAT LEAVING 15 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***BOAT LEAVING 15 SECONDS***"
+		"trans"		"[{darkred}Map{default}]  船在15秒后离开"
 	}
 	"***HELI LEAVING 20 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***HELI LEAVING 20 SECONDS***"
+		"trans"		"[{darkred}Map{default}]  直升飞机在20秒后离开"
 	}
 	"***HELI LEAVING 10 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***HELI LEAVING 10 SECONDS***"
+		"trans"		"[{darkred}Map{default}]  直升飞机在10秒后离开"
 	}
 	"***NUKE IN 10 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***NUKE IN 10 SECONDS***"
+		"trans"		"[{darkred}Map{default}]  10秒后使用核武器"
 	}
 	"***NUKE IN 5 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***NUKE IN 5 SECONDS***"
+		"trans"		"[{darkred}Map{default}]  5秒后使用核武器"
 	}
 }

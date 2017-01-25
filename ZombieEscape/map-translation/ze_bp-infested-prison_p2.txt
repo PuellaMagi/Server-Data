@@ -1,52 +1,52 @@
-"Chat"
+﻿"Chat"
 {
 	"[Grab a gun from the armory! We need to move.]"
 	{
-		"trans"		"[{darkred}Map{default}] [Grab a gun from the armory! We need to move.]"
+		"trans"		"[{darkred}Map{default}]  从军械库抓起一把枪!我们需要搬家了"
 	}
 	"[Remember! No man gets left behind.]"
 	{
-		"trans"		"[{darkred}Map{default}] [Remember! No man gets left behind.]"
+		"trans"		"[{darkred}Map{default}]  记住!我们一起离开"
 	}
 	"[Don't let them through! Get into the freezer ASAP.]"
 	{
-		"trans"		"[{darkred}Map{default}] [Don't let them through! Get into the freezer ASAP.]"
+		"trans"		"[{darkred}Map{default}]  别让僵尸过去!我们尽快进入冰箱"
 	}
 	"[And make sure you close it!]"
 	{
-		"trans"		"[{darkred}Map{default}] [And make sure you close it!]"
+		"trans"		"[{darkred}Map{default}]  你一定要关上它!"
 	}
 	"[Somebody get through that hole and let the rest of us through.]"
 	{
-		"trans"		"[{darkred}Map{default}] [Somebody get through that hole and let the rest of us through.]"
+		"trans"		"[{darkred}Map{default}]  有人穿过那个洞,让我们其他人通过"
 	}
 	"[Open them crazy cells and get us out of here!]"
 	{
-		"trans"		"[{darkred}Map{default}] [Open them crazy cells and get us out of here!]"
+		"trans"		"[{darkred}Map{default}]  让我们离开这里!"
 	}
 	"[Spare rifles on that wall for anybody unarmed.]"
 	{
-		"trans"		"[{darkred}Map{default}] [Spare rifles on that wall for anybody unarmed.]"
+		"trans"		"[{darkred}Map{default}]  在那面墙上给手无寸铁的人备用步枪"
 	}
 	"[Keep them back while I open this door.]"
 	{
-		"trans"		"[{darkred}Map{default}] [Keep them back while I open this door.]"
+		"trans"		"[{darkred}Map{default}]  当我打开这扇门的时候把它们放回去"
 	}
 	"[Don't touch those lasers!]"
 	{
-		"trans"		"[{darkred}Map{default}] [Don't touch those lasers!]"
+		"trans"		"[{darkred}Map{default}]  不要碰那些激光器!"
 	}
 	"[Shit! This is going to take some time. Hold them off!]"
 	{
-		"trans"		"[{darkred}Map{default}] [Shit! This is going to take some time. Hold them off!]"
+		"trans"		"[{darkred}Map{default}]  妈的!这需要一些时间。拦住他们"
 	}
 	"[Somebody turn right and get us an airstrike!]"
 	{
-		"trans"		"[{darkred}Map{default}] [Somebody turn right and get us an airstrike!]"
+		"trans"		"[{darkred}Map{default}]  土肥圆去按开关,给我们发动空袭!"
 	}
 	"[Get through that gate up ahead and don't let them in.]"
 	{
-		"trans"		"[{darkred}Map{default}] [Get through that gate up ahead and don't let them in.]"
+		"trans"		"[{darkred}Map{default}]  通过前面的大门,不要让他们进来。"
 	}
 	"[Grab some 'nades and blow the limbs off 'em.]"
 	{
@@ -54,39 +54,39 @@
 	}
 	"[Airstrike Inbound: ETA 1 minute.]"
 	{
-		"trans"		"[{darkred}Map{default}] [Airstrike Inbound: ETA 1 minute.]"
+		"trans"		"[{darkred}Map{default}]  空袭入站 预计1分钟。"
 	}
 	"[And we need to find a way out of here before that airstrike comes! Hold them off until the door closes.]"
 	{
-		"trans"		"[{darkred}Map{default}] [And we need to find a way out of here before that airstrike comes! Hold them off until the door closes.]"
+		"trans"		"[{darkred}Map{default}]  我们需要在空袭到来之前找到一条出路!拖住他们,直到门关上。"
 	}
 	"[Get in that hole behind the boxes!]"
 	{
-		"trans"		"[{darkred}Map{default}] [Get in that hole behind the boxes!]"
+		"trans"		"[{darkred}Map{default}]  进到箱子后面的那个洞里!"
 	}
 	"**[5]**"
 	{
-		"trans"		"[{darkred}Map{default}] **[5]**"
+		"trans"		"[{darkred}Map{default}]  5"
 	}
 	"**[4]**"
 	{
-		"trans"		"[{darkred}Map{default}] **[4]**"
+		"trans"		"[{darkred}Map{default}]  4"
 	}
 	"**[3]**"
 	{
-		"trans"		"[{darkred}Map{default}] **[3]**"
+		"trans"		"[{darkred}Map{default}]  3"
 	}
 	"**[2]**"
 	{
-		"trans"		"[{darkred}Map{default}] **[2]**"
+		"trans"		"[{darkred}Map{default}]  2"
 	}
 	"**[1]**"
 	{
-		"trans"		"[{darkred}Map{default}] **[1]**"
+		"trans"		"[{darkred}Map{default}]  1"
 	}
 	"[There's fumes going through the vents! Get out of there!]"
 	{
-		"trans"		"[{darkred}Map{default}] [There's fumes going through the vents! Get out of there!]"
+		"trans"		"[{darkred}Map{default}]  有烟雾穿过通风口!离开那里!"
 	}
 	"[Suicide Bombers Inbound: ETA 1 Minute.]"
 	{
@@ -94,10 +94,10 @@
 	}
 	"[Freezer's Closed!]"
 	{
-		"trans"		"[{darkred}Map{default}] [Freezer's Closed!]"
+		"trans"		"[{darkred}Map{default}]  冰箱关闭了"
 	}
 	"[Freezer's Open!]"
 	{
-		"trans"		"[{darkred}Map{default}] [Freezer's Open!]"
+		"trans"		"[{darkred}Map{default}]  冰箱打开了"
 	}
 }
