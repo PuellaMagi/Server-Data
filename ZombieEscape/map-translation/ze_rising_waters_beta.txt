@@ -2,22 +2,23 @@
 {
 	">>> Left Door opening in 10 seconds<<< "
 	{
-		"trans"		"[{darkred}Map{default}] >>> Left Door opening in 10 seconds<<< "
+		"trans"		"[{darkred}Map{default}]  左侧门开启于10秒后"
 	}
 	">>> right Door opening in 10 seconds<<< "
 	{
-		"trans"		"[{darkred}Map{default}] >>> right Door opening in 10 seconds<<< "
+		"trans"		"[{darkred}Map{default}]  右侧门开启于10秒后"
 	}
 	">>> hold this level for 40 seconds untill the gate oppens<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> hold this level for 40 seconds untill the gate oppens<<<"
+		"trans"		"[{darkred}Map{default}]  防御40秒"
 	}
 	">>> take wise when useing the TNT, no friendly fire<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> take wise when useing the TNT, no friendly fire<<<"
+		"trans"		"[{darkred}Map{default}]  提醒:切勿手贱卖队友"
 	}
 	">>>lift is opening in 5 seconds<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>lift is opening in 5 seconds<<<"
+		"countdown"		"5"
+		"trans"		"[{darkred}Map{default}]  电梯离开于5秒后"
 	}
 }

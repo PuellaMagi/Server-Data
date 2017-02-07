@@ -346,27 +346,27 @@
 	}
 	">>> KRAKEN IS DEAD. JUMP ONTO THE RAFT <<< "
 	{
-		"trans"		"[{darkred}Map{default}] >>> KRAKEN IS DEAD. JUMP ONTO THE RAFT <<< "
+		"trans"		"[{darkred}Map{default}]  北海巨妖已被击杀,跳上木筏前进"
 	}
 	">>> RUN TO THE CAVE <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> RUN TO THE CAVE <<<"
+		"trans"		"[{darkred}Map{default}]  向洞穴内进发"
 	}
 	">>> IT'S BARBOSSA AGAIN. DON'T LET HIM SURVIVE!  <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> IT'S BARBOSSA AGAIN. DON'T LET HIM SURVIVE!  <<<"
+		"trans"		"[{darkred}Map{default}]  又是巴博萨?搞死他!"
 	}
 	"|Admin Room| ***Admin has changed difficulty to LEVEL 5 ***"
 	{
-		"trans"		"[{darkred}Map{default}] |Admin Room| ***Admin has changed difficulty to LEVEL 5 ***"
+		"trans"		"[{darkred}Map{default}] 权限X已调整关卡至:第五关"
 	}
 	"|Admin Room| *** ADMIN SLAYING EVERYONE ***"
 	{
-		"trans"		"[{darkred}Map{default}] |Admin Room| *** ADMIN SLAYING EVERYONE ***"
+		"trans"		"[{darkred}Map{default}] 权限X处死了全体玩家"
 	}
 	"|Admin Room|***Admin has changed difficulty to LEVEL 4 ***"
 	{
-		"trans"		"[{darkred}Map{default}] |Admin Room|***Admin has changed difficulty to LEVEL 4 ***"
+		"trans"		"[{darkred}Map{default}] 权限X已调整关卡至:第四关"
 	}
 	"大章鱼血量调整为{green}5"
 	{
@@ -384,42 +384,42 @@
 	}
 	"*** LAST MEDALLION picked up ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** LAST MEDALLION picked up ***"
+		"trans"		"[{darkred}Map{default}]  勋章已被拾起"
 	}
 	">>> LAST MEDALLION HAS BEEN RETURNED TO THE CHEST <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> LAST MEDALLION HAS BEEN RETURNED TO THE CHEST <<<"
+		"trans"		"[{darkred}Map{default}]  勋章已被归还"
 	}
 	">>> BARBOSSA IS DEAD <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> BARBOSSA IS DEAD <<<"
+		"trans"		"[{darkred}Map{default}]  巴博萨已被当场击毙"
 	}
 	">>> YOU HAVE WON THE MAP. YOU ARE A REAL PIRATE <<< "
 	{
-		"trans"		"[{darkred}Map{default}] >>> YOU HAVE WON THE MAP. YOU ARE A REAL PIRATE <<< "
+		"trans"		"[{darkred}Map{default}]  已通关该地图"
 	}
 	">>> STAND BY THE WHEEL TO BRING DOWN THE BRIDGE <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> STAND BY THE WHEEL TO BRING DOWN THE BRIDGE <<<"
+		"trans"		"[{darkred}Map{default}]  站在转轮边放下吊桥"
 	}
 	">>> HOLD THE CELLAR FOR 30 SEC <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> HOLD THE CELLAR FOR 30 SEC <<<"
+		"trans"		"[{darkred}Map{default}]  坚守30秒"
 	}
 	">>> HOLD FOR 25 SEC <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> HOLD FOR 25 SEC <<<"
+		"trans"		"[{darkred}Map{default}]  坚守25秒"
 	}
 	">>> HOLD FOR 40 SEC <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> HOLD FOR 40 SEC <<<"
+		"trans"		"[{darkred}Map{default}]  坚守40秒"
 	}
 	">>> HOLD <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> HOLD <<<"
+		"trans"		"[{darkred}Map{default}]  坚守"
 	}
 	"||| KRAKEN HAS SENT AN EXPLOSIVE ZOMBIE |||"
 	{
-		"trans"		"[{darkred}Map{default}] ||| KRAKEN HAS SENT AN EXPLOSIVE ZOMBIE |||"
+		"trans"		"[{darkred}Map{default}]  北海巨妖向你丢来一个爆炸僵尸[躲开并击退]"
 	}
 }

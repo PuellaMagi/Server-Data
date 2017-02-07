@@ -2,6 +2,6 @@
 {
 	"*** Map by Airvulpes ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Map by Airvulpes ***"
+		"blocked"		"1"
 	}
 }
