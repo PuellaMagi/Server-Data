@@ -6,23 +6,23 @@
 	}
 	"<Ammo gun has been acquired>"
 	{
-		"trans"		"{orange}玩家已获得弹药"
+		"trans"		"玩家已获得弹药"
 	}
 	"<Growth gun has been acquired>"
 	{
-		"trans"		"{grey}玩家已获得墙"
+		"trans"		"玩家已获得墙"
 	}
 	"<Tornado gun has been acquired>"
 	{
-		"trans"		"{lightblue}玩家已获得龙卷风"
+		"trans"		"玩家已获得龙卷风"
 	}
 	"<Inferno gun has been acquired>"
 	{
-		"trans"		"{darkred}玩家已获得大火"
+		"trans"		"玩家已获得大火"
 	}
 	"<Rift gun has been acquired>"
 	{
-		"trans"		"{blue}玩家已获得了裂痕"
+		"trans"		"玩家已获得了裂痕"
 	}
 	"||| CHAPTER 1 => RETURN |||"
 	{
@@ -30,7 +30,7 @@
 	}
 	"||| HOLD FOR 30 SECONDS |||"
 	{
-		"trans"		"防守{red}30秒{default}"
+		"trans"		"防守30秒{default}"
 	}
 	"||| FALL BACK |||"
 	{
@@ -42,7 +42,7 @@
 	}
 	"||| HOLD FOR 20 SECONDS |||"
 	{
-		"trans"		"你们成功了但是需要{red}20秒{default}开门"
+		"trans"		"你们成功了但是需要20秒{default}开门"
 	}
 	"||| ELEVATOR OPENS IN 25 SECONDS |||"
 	{
@@ -50,7 +50,7 @@
 	}
 	"||| HOLD FOR 10 SECONDS |||"
 	{
-		"trans"		"还有{red}10秒{default}"
+		"trans"		"还有10秒{default}"
 	}
 	"||| DOOR IS CLOSING |||"
 	{
@@ -58,7 +58,7 @@
 	}
 	"||| HOLD THE ELEVATOR FOR 25 SECONDS |||"
 	{
-		"trans"		"天啊 前面是僵尸 在电梯守{red}25秒{default}"
+		"trans"		"天啊 前面是僵尸 在电梯守25秒{default}"
 	}
 	"||| ZOMBIES TAKE THE STAIRS |||"
 	{
@@ -78,7 +78,7 @@
 	}
 	"||| TELEPORTER AND VENTILATION REACTIVATE IN 15 SECONDS |||"
 	{
-		"trans"		"传送器和通风在{red}15秒{default}内重新启动"
+		"trans"		"传送器和通风在15秒{default}内重新启动"
 	}
 	"||| DISABLE BOTH SECURITY STATIONS |||"
 	{
@@ -90,15 +90,15 @@
 	}
 	"||| C4 EXPLODE IN 15 SECONDS |||"
 	{
-		"trans"		"C4在{red}15秒{default}后爆炸"
+		"trans"		"C4在15秒{default}后爆炸"
 	}
 	"||| C4 EXPLODE IN 5 SECONDS |||"
 	{
-		"trans"		"C4在{red}5秒{default}后爆炸"
+		"trans"		"C4在5秒{default}后爆炸"
 	}
 	"||| C4 EXPLODE IN 10 SECONDS |||"
 	{
-		"trans"		"C4在{red}10秒{default}后爆炸"
+		"trans"		"C4在10秒{default}后爆炸"
 	}
 	"||| SECOND SECURITY STATION HAS BEEN DISABLED |||"
 	{
@@ -110,7 +110,7 @@
 	}
 	"||| BRIDGE EXTEND IN 20 SECONDS |||"
 	{
-		"trans"		"桥梁在{red}20秒{default}后伸展"
+		"trans"		"桥梁在20秒{default}后伸展"
 	}
 	"||| HOLD FOR 15 SECONDS |||"
 	{
@@ -118,7 +118,7 @@
 	}
 	"||| TRAINS WILL LEAVE IN 20 SECONDS |||"
 	{
-		"trans"		"火车将在{red}20秒{default}后离开"
+		"trans"		"火车将在20秒{default}后离开"
 	}
 	"||| DEFEND THE ABOVE THE TRAINS |||"
 	{
@@ -138,15 +138,15 @@
 	}
 	"||| ELEVATOR LEAVES IN 25 SECONDS |||"
 	{
-		"trans"		"电梯在{red}25秒{default}后离开"
+		"trans"		"电梯在25秒{default}后离开"
 	}
 	"||| ELEVATOR LEAVES IN 5 SECONDS |||"
 	{
-		"trans"		"电梯在{red}5秒{default}后离开"
+		"trans"		"电梯在5秒{default}后离开"
 	}
 	"||| ELEVATOR LEAVES IN 10 SECONDS |||"
 	{
-		"trans"		"电梯在{red}10秒{default}后离开"
+		"trans"		"电梯在10秒{default}后离开"
 	}
 	"||| SHOOT THE ENERGY BEAMS AND DEFEND THE ZOMBIES |||"
 	{
@@ -158,23 +158,23 @@
 	}
 	"||| CORE EXPLODES IN 170 SECONDS |||"
 	{
-		"trans"		"煤气罐{red}170秒{default}后爆炸"
+		"trans"		"煤气罐170秒{default}后爆炸"
 	}
 	"||| CORE EXPLODES IN 100 SECONDS |||"
 	{ 
-		"trans"		"煤气罐{red}100秒{default}后爆炸"
+		"trans"		"煤气罐100秒{default}后爆炸"
 	}
 	"||| CORE EXPLODES IN 80 SECONDS |||"
 	{
-		"trans"		"煤气罐{red}80秒{default}后爆炸"
+		"trans"		"煤气罐80秒{default}后爆炸"
 	}
 	"||| DOOR OPENS IN 20 SECONDS |||"
 	{
-		"trans"		"门在{red}20秒{default}后打开"
+		"trans"		"门在20秒{default}后打开"
 	}
 	"||| CORE EXPLODES IN 60 SECONDS |||"
 	{
-		"trans"		"煤气罐{red}60秒{default}后爆炸"
+		"trans"		"煤气罐60秒{default}后爆炸"
 	}
 	"||| DOOR IS OPENING |||"
 	{
@@ -182,35 +182,35 @@
 	}
 	"||| CORE EXPLODES IN 40 SECONDS |||"
 	{
-		"trans"		"煤气罐{red}40秒{default}后爆炸"
+		"trans"		"煤气罐40秒{default}后爆炸"
 	}
 	"||| CORE EXPLODES IN 20 SECONDS |||"
 	{
-		"trans"		"煤气罐{red}20秒{default}后爆炸"
+		"trans"		"煤气罐20秒{default}后爆炸"
 	}
 	"||| CORE EXPLODES IN 10 SECONDS |||"
 	{
-		"trans"		"煤气罐{red}10秒{default}后爆炸"
+		"trans"		"煤气罐10秒{default}后爆炸"
 	}
 	"||| CORE EXPLODES IN 5 SECONDS |||"
 	{
-		"trans"		"{red}5{default}"
+		"trans"		"5{default}"
 	}
 	"||| CORE EXPLODES IN 4 SECONDS |||"
 	{
-		"trans"		"{red}4{default}"
+		"trans"		"4{default}"
 	}
 	"||| CORE EXPLODES IN 3 SECONDS |||"
 	{
-		"trans"		"{red}3{default}"
+		"trans"		"3{default}"
 	}
 	"||| CORE EXPLODES IN 2 SECONDS |||"
 	{
-		"trans"		"{red}2{default}"
+		"trans"		"2{default}"
 	}
 	"||| CORE EXPLODES IN 1 SECONDS |||"
 	{
-		"trans"		"{red}1{default}"
+		"trans"		"1{default}"
 	}
 	"||| DOOR IS OPENING|||"
 	{
@@ -230,7 +230,7 @@
 	}
 	"||| DEFEND THE TOP FOR 30 SECONDS |||"
 	{
-		"trans"		"保护顶部{red}30秒{default}"
+		"trans"		"保护顶部30秒{default}"
 	}
 	"||| PREPARE TO FALL BACK |||"
 	{
@@ -242,7 +242,7 @@
 	}
 	"||| ELEVATOR LEAVES IN 15 SECONDS |||"
 	{
-		"trans"		"电梯在{red}15秒{default}后离开"
+		"trans"		"电梯在15秒{default}后离开"
 	}
 	"||| !!!WARNING!!! DANGER FROM ABOVE |||"
 	{
@@ -250,7 +250,7 @@
 	}
 	"||| POWER WILL BE RESTORED IN 25 SECONDS <SURVIVE> |||"
 	{
-		"trans"		"电源将在{red}25秒{default}后恢复"
+		"trans"		"电源将在25秒{default}后恢复"
 	}
 	"||| POWER IS RESTORED... DOORS OPEN SOON |||"
 	{
