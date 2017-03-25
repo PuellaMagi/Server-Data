@@ -2,440 +2,440 @@
 {
 	"*** Level 1 ***"
 	{
-		"trans"		"[{darkred}Map{default}]  {Orange}第一关{default}"
+		"trans"		"{Orange}第一关{default}"
 	}
 	"* Turning music on *"
 	{
 		"blocked"		"1"
-		"trans"		"[{darkred}Map{default}]  已启动地图音乐,按Y输入!stop停止播放.."
+		"trans"		"已启动地图音乐,按Y输入!stop停止播放.."
 	}
 	"*** Doors open in 35 Seconds ***"
 	{
 		"countdown"		"35"
-		"trans"		"[{darkred}Map{default}]  门将在35秒后打开"
+		"trans"		"门将在35秒后打开"
 	}
 	"*** Player has picked up EyeTech Cannon ***"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家捡起了手炮"
+		"trans"		"有玩家捡起了手炮"
 	}
 	"*** It has unlimited uses ***"
 	{
-		"trans"		"[{darkred}Map{default}]  该物品没有使用次数限制"
+		"trans"		"该物品没有使用次数限制"
 	}
 	"*** Doors open in 25 Seconds ***"
 	{
 		"countdown"		"25"
-		"trans"		"[{darkred}Map{default}]  门将在25秒后打开"
+		"trans"		"门将在25秒后打开"
 	}
 	"*** Player has picked up Pipe bombs ***"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家捡起了地雷"
+		"trans"		"有玩家捡起了地雷"
 	}
 	"*** It has 5 uses ***"
 	{
-		"trans"		"[{darkred}Map{default}]  该物品只有5次使用数量"
+		"trans"		"该物品只有5次使用数量"
 	}
 	"*** Player has picked up Ammo Box ***"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家捡起了弹药箱"
+		"trans"		"有玩家捡起了弹药箱"
 	}
 	"*** Doors open in 10 Seconds ***"
 	{
 		"countdown"		"10"
-		"trans"		"[{darkred}Map{default}]  门将在10秒后打开"
+		"trans"		"门将在10秒后打开"
 	}
 	"*** Doors are opening ***"
 	{
 		"countdown"		"30"
-		"trans"		"[{darkred}Map{default}]  开了"
+		"trans"		"开了"
 	}
 	"*** Bridge activates in 30 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  桥将在30后激活"
+		"trans"		"桥将在30后激活"
 	}
 	"*** Bridge activates in 15 seconds ***"
 	{
 		"countdown"		"15"
-		"trans"		"[{darkred}Map{default}]  桥将在15后激活"
+		"trans"		"桥将在15后激活"
 	}
 	"*** Hold until the path is cleared ***"
 	{
-		"trans"		"[{darkred}Map{default}]  守到门开"
+		"trans"		"守到门开"
 	}
 	"*** FALL BACK NOW!! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  快跑,要爆菊了!!"
+		"trans"		"快跑,要爆菊了!!"
 	}
 	"*** Door opens in 25 seconds ***"
 	{
 		"countdown"		"25"
-		"trans"		"[{darkred}Map{default}]  门将在25秒后打开"
+		"trans"		"门将在25秒后打开"
 	}
 	"*** Door opens in 10 seconds ***"
 	{
 		"countdown"		"10"
-		"trans"		"[{darkred}Map{default}]  门将在10秒后打开"
+		"trans"		"门将在10秒后打开"
 	}
 	"*** DOOR IS OPENING ***"
 	{
-		"trans"		"[{darkred}Map{default}]  门开了,快跑"
+		"trans"		"门开了,快跑"
 	}
 	"*** Door should open quickly ***"
 	{
-		"trans"		"[{darkred}Map{default}]  门很快会关闭"
+		"trans"		"门很快会关闭"
 	}
 	"*** Keep holding ***"
 	{
-		"trans"		"[{darkred}Map{default}]  继续守"
+		"trans"		"继续守"
 	}
 	"*** Player has picked up Heal ***"
 	{
 		"blocked"		"1"
-		"trans"		"[{darkred}Map{default}]  有玩家捡起了奥利奥"
+		"trans"		"有玩家捡起了奥利奥"
 	}
 	"*** It has 1 use ***"
 	{
-		"trans"		"[{darkred}Map{default}]  {darkred}奥利奥只能用一次{default}"
+		"trans"		"{darkred}奥利奥只能用一次{default}"
 	}
 	"*** Player has picked up Lego Maker ***"
 	{
 		"blocked"		"1"
-		"trans"		"[{darkred}Map{default}]  有玩家捡起了乐色墙"
+		"trans"		"有玩家捡起了乐色墙"
 	}
 	"*** It has 10 uses ***"
 	{
 		"blocked"		"1"
-		"trans"		"[{darkred}Map{default}]  墙能用十次"
+		"trans"		"墙能用十次"
 	}
 	"*** Player has picked up EyeTech Launcher ***"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家捡起了榴弹炮"
+		"trans"		"有玩家捡起了榴弹炮"
 	}
 	"*** Player has picked up Flamethrower ***"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家捡起了喷火器"
+		"trans"		"有玩家捡起了喷火器"
 	}
 	"*** Player has picked up PushGun ***"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家捡起了PushGun"
+		"trans"		"有玩家捡起了PushGun"
 	}
 	"*** Hold them back for 10 seconds ***"
 	{
 		"countdown"		"10"
-		"trans"		"[{darkred}Map{default}]  再守10秒钟"
+		"trans"		"再守10秒钟"
 	}
 	"*** FALL BACK ***"
 	{
-		"trans"		"[{darkred}Map{default}]  快跑,要爆菊了!!"
+		"trans"		"快跑,要爆菊了!!"
 	}
 	"*** Just a little bit more! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  还差一点!"
+		"trans"		"还差一点!"
 	}
 	"*** Keep holding them back! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  守到他们撤退!"
+		"trans"		"守到他们撤退!"
 	}
 	"*** FALL BACK! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  快跑,要爆菊了!!"
+		"trans"		"快跑,要爆菊了!!"
 	}
 	"*** Player has picked up Electro gun ***"
 	{
 		"blocked"		"1"
-		"trans"		"[{darkred}Map{default}]  有玩家捡起来激光枪"
+		"trans"		"有玩家捡起来激光枪"
 	}
 	"*** It has fuel for 10 seconds ***"
 	{
 		"blocked"		"1"
-		"trans"		"[{darkred}Map{default}]  燃料共计可坚持10秒"
+		"trans"		"燃料共计可坚持10秒"
 	}
 	"*** This is the final hold point! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守最后的撤离点!"
+		"trans"		"坚守最后的撤离点!"
 	}
 	"*** Hold them back for final 20 seconds! ***"
 	{
 		"countdown"		"20"
-		"trans"		"[{darkred}Map{default}]  坚守20秒"
+		"trans"		"坚守20秒"
 	}
 	"*** 10 seconds left ***"
 	{
 		"countdown"		"10"
-		"trans"		"[{darkred}Map{default}]  还剩{darkred}10{default}秒"
+		"trans"		"还剩{darkred}10{default}秒"
 	}
 	"*** Zombie at the end ***"
 	{
-		"trans"		"[{darkred}Map{default}]  有僵尸闯了进来!"
+		"trans"		"有僵尸闯了进来!"
 	}
 	"*** YOU FAIL! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  你输了,你个乐色!"
+		"trans"		"你输了,你个乐色!"
 	}
 	"*** Level Completed! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  {green}关卡已完成{default}!"
+		"trans"		"{green}关卡已完成{default}!"
 	}
 	"*** Level 2 ***"
 	{
-		"trans"		"[{darkred}Map{default}]  {Orange}第二关{default}"
+		"trans"		"{Orange}第二关{default}"
 	}
 	"*** Doors open in 30 seconds ***"
 	{
 		"countdown"		"30"
-		"trans"		"[{darkred}Map{default}]  门将在30秒后打开"
+		"trans"		"门将在30秒后打开"
 	}
 	"*** Press both buttons at the same time to open the door! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  同时按两边的开关来触发!"
+		"trans"		"同时按两边的开关来触发!"
 	}
 	"*** Buttons pressed! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  机关已触发!"
+		"trans"		"机关已触发!"
 	}
 	"*** Door opens in 30 seconds! ***"
 	{
 		"countdown"		"30"
-		"trans"		"[{darkred}Map{default}]  门将在30秒后打开"
+		"trans"		"门将在30秒后打开"
 	}
 	"*** FALL BACK ****"
 	{
-		"trans"		"[{darkred}Map{default}]  撤退"
+		"trans"		"撤退"
 	}
 	"*** Hold until the path opens ***"
 	{
-		"trans"		"[{darkred}Map{default}]  守到门开"
+		"trans"		"守到门开"
 	}
 	"*** Final door opens in 25 seconds! ***"
 	{
 		"countdown"		"25"
-		"trans"		"[{darkred}Map{default}]  最后一道门开启于25秒后"
+		"trans"		"最后一道门开启于25秒后"
 	}
 	"*** Almost at the end.. ***"
 	{
-		"trans"		"[{darkred}Map{default}]  就快到了.."
+		"trans"		"就快到了.."
 	}
 	"*** Doors should open soon ***"
 	{
-		"trans"		"[{darkred}Map{default}]  门很快打开"
+		"trans"		"门很快打开"
 	}
 	"*** 15 seconds left ***"
 	{
 		"countdown"		"15"
-		"trans"		"[{darkred}Map{default}]  15秒剩余"
+		"trans"		"15秒剩余"
 	}
 	"*** THIS IS THE FINAL HOLD ***"
 	{
-		"trans"		"[{darkred}Map{default}]  继续守,守完它们就GG了"
+		"trans"		"继续守,守完它们就GG了"
 	}
 	"*** Hold for 30 seconds! ***"
 	{
 		"countdown"		"30"
-		"trans"		"[{darkred}Map{default}]  坚守30秒!"
+		"trans"		"坚守30秒!"
 	}
 	"*** 20 more seconds! ***"
 	{
 		"countdown"		"20"
-		"trans"		"[{darkred}Map{default}]  还剩20秒!"
+		"trans"		"还剩20秒!"
 	}
 	"*** 10 more seconds! ***"
 	{
 		"countdown"		"10"
-		"trans"		"[{darkred}Map{default}]  还剩十秒!"
+		"trans"		"还剩十秒!"
 	}
 	"*** Level 3 ***"
 	{
-		"trans"		"[{darkred}Map{default}]  {Orange}第三关{default}"
+		"trans"		"{Orange}第三关{default}"
 	}
 	"*** Door opens in 25 seconds! ***"
 	{
 		"countdown"		"25"
-		"trans"		"[{darkred}Map{default}]  门将在25秒后打开!"
+		"trans"		"门将在25秒后打开!"
 	}
 	"*** Elevator leaves in 25 seconds *** "
 	{
-		"trans"		"[{darkred}Map{default}]  电梯25秒后离开 *** "
+		"trans"		"电梯25秒后离开 *** "
 	}
 	"*** Elevator leaves in 15 seconds *** "
 	{
-		"trans"		"[{darkred}Map{default}]  电梯15秒后离开 *** "
+		"trans"		"电梯15秒后离开 *** "
 	}
 	"*** Elevator leaves in 5 seconds *** "
 	{
-		"trans"		"[{darkred}Map{default}]  电梯5秒后离开 *** "
+		"trans"		"电梯5秒后离开 *** "
 	}
 	"*** Doors are opening in 25 seconds ***"
 	{
 		"countdown"		"25"
-		"trans"		"[{darkred}Map{default}]  门将在25秒后打开!"
+		"trans"		"门将在25秒后打开!"
 	}
 	"*** RESIST ***"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守阵地"
+		"trans"		"坚守阵地"
 	}
 	"*** Doors are opening in 15 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  门将在15秒后打开!"
+		"trans"		"门将在15秒后打开!"
 	}
 	"*** Doors are opening in 5 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  门将在5秒后打开!"
+		"trans"		"门将在5秒后打开!"
 	}
 	"*** Hold a bit more! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  再守一会!"
+		"trans"		"再守一会!"
 	}
 	"*** Path will open shortly! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  门很快就开了!"
+		"trans"		"门很快就开了!"
 	}
 	"*** Hold this position for awhile! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  再守一段时间!"
+		"trans"		"再守一段时间!"
 	}
 	"*** Doors are opening! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  门开了!"
+		"trans"		"门开了!"
 	}
 	"*** Keep holding until the doors close! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  守到门关!"
+		"trans"		"守到门关!"
 	}
 	"*** Elevator descends in 20 seconds ***"
 	{
 		"countdown"		"20"
-		"trans"		"[{darkred}Map{default}]  电梯20秒后离开"
+		"trans"		"电梯20秒后离开"
 	}
 	"*** HOLD THEM BACK  ***"
 	{
-		"trans"		"[{darkred}Map{default}]  守到它们撤退"
+		"trans"		"守到它们撤退"
 	}
 	"*** One final hold! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  守住最后的地方!"
+		"trans"		"守住最后的地方!"
 	}
 	"*** That thing? should leave soon! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  那是个什么鬼玩意?不管它.."
+		"trans"		"那是个什么鬼玩意?不管它.."
 	}
 	"** Turning on:... **"
 	{
-		"trans"		"[{darkred}Map{default}]  请注意:"
+		"trans"		"请注意:"
 	}
 	"** MEGAULTRATERRIBLINATOR DESTRUCTIVE MODE **"
 	{
-		"trans"		"[{darkred}Map{default}]  本关自带天谴,谨防头顶劈雷!"
+		"trans"		"本关自带天谴,谨防头顶劈雷!"
 	}
 	"*** Hold this position for 25 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守25秒"
+		"trans"		"坚守25秒"
 	}
 	"*** 10 more seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  10秒剩余"
+		"trans"		"10秒剩余"
 	}
 	"*** Heli leaves in 30 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  直升机起飞于30秒后"
+		"trans"		"直升机起飞于30秒后"
 	}
 	"*** Heli leaves in 15 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  直升机起飞于15秒后"
+		"trans"		"直升机起飞于15秒后"
 	}
 	"*** Heli leaves in 5 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  直升机起飞于5秒后"
+		"trans"		"直升机起飞于5秒后"
 	}
 	"*** ZOMBIE ON BOARD YOU FAIL ***"
 	{
-		"trans"		"[{darkred}Map{default}]  有僵尸闯进了直升机!乐色们你们输了!"
+		"trans"		"有僵尸闯进了直升机!乐色们你们输了!"
 	}
 	"*** THE BOSS IS USING HIS ULTIMATE ***"
 	{
-		"trans"		"[{darkred}Map{default}]  BOSS正在释放终极"
+		"trans"		"BOSS正在释放终极"
 	}
 	"*** SHOOT HIM NOW BEFORE HE WIPES US ALL ***"
 	{
-		"trans"		"[{darkred}Map{default}]  在他放出终极前放倒他"
+		"trans"		"在他放出终极前放倒他"
 	}
 	"*** Elevators leave in 25 seconds *** "
 	{
-		"trans"		"[{darkred}Map{default}]  电梯离开于25秒后"
+		"trans"		"电梯离开于25秒后"
 	}
 	"*** Elevators leave in 15 seconds *** "
 	{
-		"trans"		"[{darkred}Map{default}]  电梯离开于15秒后"
+		"trans"		"电梯离开于15秒后"
 	}
 	"*** Elevators leave in 5 seconds *** "
 	{
-		"trans"		"[{darkred}Map{default}]  电梯离开于5秒后"
+		"trans"		"电梯离开于5秒后"
 	}
 	"*** Keep holding! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  继续守!"
+		"trans"		"继续守!"
 	}
 	"*** THE BOSS IS DEAD ***"
 	{
-		"trans"		"[{darkred}Map{default}]  BOSS扑街了"
+		"trans"		"BOSS扑街了"
 	}
 	"*** WAIT ITS DEAD RIGHT? ***"
 	{
-		"trans"		"[{darkred}Map{default}]  已经给我们打趴了吧?"
+		"trans"		"已经给我们打趴了吧?"
 	}
 	"*** LOOKS LIKE THE PLATFORM IS BREAKING ***"
 	{
-		"trans"		"[{darkred}Map{default}]  BOSS房看起来要塌了"
+		"trans"		"BOSS房看起来要塌了"
 	}
 	"*** GET IN THE MIDDLE NOW!! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  往出口走!!"
+		"trans"		"往出口走!!"
 	}
 	"*** THE BOSS IS ABSORBING ALL THE DAMAGE YOU DO ***"
 	{
-		"trans"		"[{darkred}Map{default}]  停火!BOSS现在不吃伤害"
+		"trans"		"停火!BOSS现在不吃伤害"
 	}
 	"*** DONT SHOOT HIM ***"
 	{
-		"trans"		"[{darkred}Map{default}]  别开枪!"
+		"trans"		"别开枪!"
 	}
 	"*** WAIT IT HAS TO BE DEAD NOW RIGHT? ***"
 	{
-		"trans"		"[{darkred}Map{default}]  BOSS是真的扑街了?"
+		"trans"		"BOSS是真的扑街了?"
 	}
 	"*** THE EVIL EYE IS DEAD ***"
 	{
-		"trans"		"[{darkred}Map{default}]  THE EVIL EYE IS DEAD"
+		"trans"		"THE EVIL EYE IS DEAD"
 	}
 	"*** NOW IS THE TIME TO ESCAPE ***"
 	{
-		"trans"		"[{darkred}Map{default}]  是时候跑路了"
+		"trans"		"是时候跑路了"
 	}
 	"*** Hold this position for 30 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守30秒"
+		"trans"		"坚守30秒"
 	}
 	"*** Hold this position for 20 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守20秒"
+		"trans"		"坚守20秒"
 	}
 	"*** That thing? Leaves in 45 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  平台离港于45秒后"
+		"trans"		"平台离港于45秒后"
 	}
 	"*** 20 SECONDS LEFT ***"
 	{
-		"trans"		"[{darkred}Map{default}]  20秒剩余"
+		"trans"		"20秒剩余"
 	}
 	"*** 5 seconds left ***"
 	{
-		"trans"		"[{darkred}Map{default}]  5秒剩余"
+		"trans"		"5秒剩余"
 	}
 	"*** CONGRATULATIONS  YOU HAVE BEATEN THE MAP! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  你们把这张地图干烂了!!"
+		"trans"		"你们把这张地图干烂了!!"
 	}
 	"*** ZOMBIES ON BOARD YOU FAIL! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  僵尸闯进了平台!你们输了!"
+		"trans"		"僵尸闯进了平台!你们输了!"
 	}
 }

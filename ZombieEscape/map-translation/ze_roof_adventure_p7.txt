@@ -2,146 +2,146 @@
 {
 	"***Map By Color!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Map By Color!***"
+		"trans"		"***Map By Color!***"
 	}
 	"***Current Mode:[Easy]***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Current Mode:[Easy]***"
+		"trans"		"***Current Mode:[Easy]***"
 	}
 	"*Hold for 30 seconds!*"
 	{
-		"trans"		"[{darkred}Map{default}] *Hold for 30 seconds!*"
+		"trans"		"*Hold for 30 seconds!*"
 	}
 	"*A player has picked health!*"
 	{
-		"trans"		"[{darkred}Map{default}] *A player has picked health!*"
+		"trans"		"*A player has picked health!*"
 	}
 	"*hold for 45 seconds!* "
 	{
-		"trans"		"[{darkred}Map{default}] *hold for 45 seconds!* "
+		"trans"		"*hold for 45 seconds!* "
 	}
 	"*All zombies will be teleported in 9 seconds!* "
 	{
-		"trans"		"[{darkred}Map{default}] *All zombies will be teleported in 9 seconds!* "
+		"trans"		"*All zombies will be teleported in 9 seconds!* "
 	}
 	"*All zombies will be teleported in 30 seconds!*"
 	{
-		"trans"		"[{darkred}Map{default}] *All zombies will be teleported in 30 seconds!*"
+		"trans"		"*All zombies will be teleported in 30 seconds!*"
 	}
 	"*Hold for 65 seconds!*"
 	{
-		"trans"		"[{darkred}Map{default}] *Hold for 65 seconds!*"
+		"trans"		"*Hold for 65 seconds!*"
 	}
 	"*Run!Run!The nuke will be started in 10 seconds!*"
 	{
-		"trans"		"[{darkred}Map{default}] *Run!Run!The nuke will be started in 10 seconds!*"
+		"trans"		"*Run!Run!The nuke will be started in 10 seconds!*"
 	}
 	"***Zombies are in win-room,humans fail!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Zombies are in win-room,humans fail!***"
+		"trans"		"***Zombies are in win-room,humans fail!***"
 	}
 	"*Hold until the bridge breaks!*"
 	{
-		"trans"		"[{darkred}Map{default}] *Hold until the bridge breaks!*"
+		"trans"		"*Hold until the bridge breaks!*"
 	}
 	"*5*"
 	{
-		"trans"		"[{darkred}Map{default}] *5*"
+		"trans"		"*5*"
 	}
 	"*4*"
 	{
-		"trans"		"[{darkred}Map{default}] *4*"
+		"trans"		"*4*"
 	}
 	"*3*"
 	{
-		"trans"		"[{darkred}Map{default}] *3*"
+		"trans"		"*3*"
 	}
 	"*2*"
 	{
-		"trans"		"[{darkred}Map{default}] *2*"
+		"trans"		"*2*"
 	}
 	"*1*"
 	{
-		"trans"		"[{darkred}Map{default}] *1*"
+		"trans"		"*1*"
 	}
 	"*The nuke starts!*"
 	{
-		"trans"		"[{darkred}Map{default}] *The nuke starts!*"
+		"trans"		"*The nuke starts!*"
 	}
 	"***Congratulations!Next level is normal!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Congratulations!Next level is normal!***"
+		"trans"		"***Congratulations!Next level is normal!***"
 	}
 	"***Current Mode:[Normal]***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Current Mode:[Normal]***"
+		"trans"		"***Current Mode:[Normal]***"
 	}
 	"***Hold for 30 seconds!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Hold for 30 seconds!***"
+		"trans"		"***Hold for 30 seconds!***"
 	}
 	"*A player has picked fire!*"
 	{
-		"trans"		"[{darkred}Map{default}] *A player has picked fire!*"
+		"trans"		"*A player has picked fire!*"
 	}
 	"***GO!GO!GO!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***GO!GO!GO!***"
+		"trans"		"***GO!GO!GO!***"
 	}
 	"***Hold for 35 seconds!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Hold for 35 seconds!***"
+		"trans"		"***Hold for 35 seconds!***"
 	}
 	"***Keep care of zombies!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Keep care of zombies!***"
+		"trans"		"***Keep care of zombies!***"
 	}
 	"*A player has picked electron!*"
 	{
-		"trans"		"[{darkred}Map{default}] *A player has picked electron!*"
+		"trans"		"*A player has picked electron!*"
 	}
 	"*All zombies will be teleported in 9 seconds!*"
 	{
-		"trans"		"[{darkred}Map{default}] *All zombies will be teleported in 9 seconds!*"
+		"trans"		"*All zombies will be teleported in 9 seconds!*"
 	}
 	"***Congratulations!Next level is hard!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Congratulations!Next level is hard!***"
+		"trans"		"***Congratulations!Next level is hard!***"
 	}
 	"***Current Mode:[Hard]***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Current Mode:[Hard]***"
+		"trans"		"***Current Mode:[Hard]***"
 	}
 	"***Some barriers will disappear!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Some barriers will disappear!***"
+		"trans"		"***Some barriers will disappear!***"
 	}
 	"*A zombie has picked speed!*"
 	{
-		"trans"		"[{darkred}Map{default}] *A zombie has picked speed!*"
+		"trans"		"*A zombie has picked speed!*"
 	}
 	"***Hold here for 45 seconds!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Hold here for 45 seconds!***"
+		"trans"		"***Hold here for 45 seconds!***"
 	}
 	"***All zombies will be teleported in 9 seconds!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***All zombies will be teleported in 9 seconds!***"
+		"trans"		"***All zombies will be teleported in 9 seconds!***"
 	}
 	"***Hold for 40 seconds!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Hold for 40 seconds!***"
+		"trans"		"***Hold for 40 seconds!***"
 	}
 	"*All zombies will be teleported in 10 seconds!*"
 	{
-		"trans"		"[{darkred}Map{default}] *All zombies will be teleported in 10 seconds!*"
+		"trans"		"*All zombies will be teleported in 10 seconds!*"
 	}
 	"***A zombie has picked flame buffet! ***"
 	{
-		"trans"		"[{darkred}Map{default}] ***A zombie has picked flame buffet! ***"
+		"trans"		"***A zombie has picked flame buffet! ***"
 	}
 	"***Damage 30 hp(if you touch) and make humans' speed slow! ***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Damage 30 hp(if you touch) and make humans' speed slow! ***"
+		"trans"		"***Damage 30 hp(if you touch) and make humans' speed slow! ***"
 	}
 }

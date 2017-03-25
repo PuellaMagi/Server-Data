@@ -2,126 +2,126 @@
 {
 	"***Boat 2 leaving in 5secs.***"
 	{
-		"trans"		"[{darkred}Map{default}] 二号船5秒后离开."
+		"trans"		"二号船5秒后离开."
 	}
 	"***Boat 1 leaving in 10secs.***"
 	{
-		"trans"		"[{darkred}Map{default}] 一号船10秒后离开."
+		"trans"		"一号船10秒后离开."
 	}
 	"***Tram leaving in 10secs.***"
 	{
-		"trans"		"[{darkred}Map{default}] 电车10秒后离开."
+		"trans"		"电车10秒后离开."
 	}
 	"***Bobsled leaving in 5secs.***"
 	{
-		"trans"		"[{darkred}Map{default}] 雪橇5秒后离开."
+		"trans"		"雪橇5秒后离开."
 	}
 	"***Boat 4 leaving in 10secs.***"
 	{
-		"trans"		"[{darkred}Map{default}] 四号船10秒后离开."
+		"trans"		"四号船10秒后离开."
 	}
 	"***Boat 3 leaving in 10secs.***"
 	{
-		"trans"		"[{darkred}Map{default}] 三号船10秒后离开."
+		"trans"		"三号船10秒后离开."
 	}
 	"***First shortcuts opening in 15secs.***"
 	{
-		"trans"		"[{darkred}Map{default}] 第一条捷径15秒后开启."
+		"trans"		"第一条捷径15秒后开启."
 	}
 	"***Ice Wall breaking in 10secs.***"
 	{
-		"trans"		"[{darkred}Map{default}] 冰墙10秒后破碎."
+		"trans"		"冰墙10秒后破碎."
 	}
 	"***...WashTub leaving in 3secs...***"
 	{
-		"trans"		"[{darkred}Map{default}] ...洗衣盆3秒后离开..."
+		"trans"		"...洗衣盆3秒后离开..."
 	}
 	"***Final Boat leaving in 75secs.***"
 	{
-		"trans"		"[{darkred}Map{default}] 最后的铁船75秒后离开."
+		"trans"		"最后的铁船75秒后离开."
 	}
 	"***WashTub leaving in 65secs.***"
 	{
-		"trans"		"[{darkred}Map{default}] 大洗衣盆65秒后离开."
+		"trans"		"大洗衣盆65秒后离开."
 	}
 	"***Second shortcuts opening in 15secs.***"
 	{
-		"trans"		"[{darkred}Map{default}] 第二条捷径15秒后开启."
+		"trans"		"第二条捷径15秒后开启."
 	}
 	"***Gate opening in 75secs.***"
 	{
-		"trans"		"[{darkred}Map{default}] 停机坪大门75秒后打开."
+		"trans"		"停机坪大门75秒后打开."
 	}
 	"***WashTub leaving in 30secs.***"
 	{
-		"trans"		"[{darkred}Map{default}] 小洗衣盆30秒后离开."
+		"trans"		"小洗衣盆30秒后离开."
 	}
 	"***Final Boat leaving in 30secs.***"
 	{
-		"trans"		"[{darkred}Map{default}] 最后的铁船30秒后离开."
+		"trans"		"最后的铁船30秒后离开."
 	}
 	"***WashTub leaving in 5secs.***"
 	{
-		"trans"		"[{darkred}Map{default}] 小洗衣盆5秒后离开."
+		"trans"		"小洗衣盆5秒后离开."
 	}
 	"***Final Boat leaving in 5secs.***"
 	{
-		"trans"		"[{darkred}Map{default}] 最后的铁船5秒后离开."
+		"trans"		"最后的铁船5秒后离开."
 	}
 	"***Gate opening in 30secs.***"
 	{
-		"trans"		"[{darkred}Map{default}] 停机坪大门30秒后打开."
+		"trans"		"停机坪大门30秒后打开."
 	}
 	"***Helicopter leaving in 5secs.***"
 	{
-		"trans"		"[{darkred}Map{default}] 直升机5秒后离开."
+		"trans"		"直升机5秒后离开."
 	}
 	"***Gate opening in 5secs.***"
 	{
-		"trans"		"[{darkred}Map{default}] 停机坪大门5秒后打开."
+		"trans"		"停机坪大门5秒后打开."
 	}
 	"***Start up the Helicopter.***"
 	{
-		"trans"		"[{darkred}Map{default}] 直升机起飞."
+		"trans"		"直升机起飞."
 	}
 	"***Nuke in 10secs.***"
 	{
-		"trans"		"[{darkred}Map{default}] 10秒后核爆（来首核爆神曲庆祝下吧）."
+		"trans"		"10秒后核爆（来首核爆神曲庆祝下吧）."
 	}
 	"***5***"
 	{
-		"trans"		"[{darkred}Map{default}] 5"
+		"trans"		"5"
 	}
 	"***4***"
 	{
-		"trans"		"[{darkred}Map{default}] 4"
+		"trans"		"4"
 	}
 	"***3***"
 	{
-		"trans"		"[{darkred}Map{default}] 3"
+		"trans"		"3"
 	}
 	"***2***"
 	{
-		"trans"		"[{darkred}Map{default}] 2"
+		"trans"		"2"
 	}
 	"***1***"
 	{
-		"trans"		"[{darkred}Map{default}] 1"
+		"trans"		"1"
 	}
 	"***...WashBucket leaving in 5secs...Seriously?***"
 	{
-		"trans"		"[{darkred}Map{default}] ...洗衣盆5秒后离开...开玩笑？"
+		"trans"		"...洗衣盆5秒后离开...开玩笑？"
 	}
 	"***Armory open.***"
 	{
-		"trans"		"[{darkred}Map{default}] 弹药库开启."
+		"trans"		"弹药库开启."
 	}
 	"hahahaha"
 	{
-		"trans"		"[{darkred}Map{default}] hahahaha"
+		"trans"		"hahahaha"
 	}
 	"ni kan bu jian wo "
 	{
-		"trans"		"[{darkred}Map{default}] ni kan bu jian wo "
+		"trans"		"ni kan bu jian wo "
 	}
 }

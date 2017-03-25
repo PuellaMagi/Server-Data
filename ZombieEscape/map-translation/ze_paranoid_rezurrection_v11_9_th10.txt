@@ -2,466 +2,466 @@
 {
 	"[PLAYING] Herb Alpert : Spanish Flea"
 	{
-		"trans"		"[{darkred}Map{default}] [PLAYING] Herb Alpert : Spanish Flea"
+		"trans"		"[PLAYING] Herb Alpert : Spanish Flea"
 	}
 	"**MAP BY Hannibal[SPA] ** "
 	{
-		"trans"		"[{darkred}Map{default}] **MAP BY Hannibal[SPA] ** "
+		"trans"		"**MAP BY Hannibal[SPA] ** "
 	}
 	"*** Thanks to  Kaemon ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Thanks to  Kaemon ***"
+		"trans"		"*** Thanks to  Kaemon ***"
 	}
 	"*** Thanks to  Lunatxz ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Thanks to  Lunatxz ***"
+		"trans"		"*** Thanks to  Lunatxz ***"
 	}
 	"** The round will start in few seconds** ** You must choose a room when door opening**"
 	{
-		"trans"		"[{darkred}Map{default}] ** The round will start in few seconds** ** You must choose a room when door opening**"
+		"trans"		"** The round will start in few seconds** ** You must choose a room when door opening**"
 	}
 	"Porter message"
 	{
-		"trans"		"[{darkred}Map{default}] Porter message"
+		"trans"		"Porter message"
 	}
 	"Vortigaunt model supported : syoudous"
 	{
-		"trans"		"[{darkred}Map{default}] Vortigaunt model supported : syoudous"
+		"trans"		"Vortigaunt model supported : syoudous"
 	}
 	"***DON'T EDIT AND MODIFY THIS MAP***"
 	{
-		"trans"		"[{darkred}Map{default}] ***DON'T EDIT AND MODIFY THIS MAP***"
+		"trans"		"***DON'T EDIT AND MODIFY THIS MAP***"
 	}
 	"[PLAYING] Jim Carrey : Cuban Pete"
 	{
-		"trans"		"[{darkred}Map{default}] [PLAYING] Jim Carrey : Cuban Pete"
+		"trans"		"[PLAYING] Jim Carrey : Cuban Pete"
 	}
 	"** LETS START THE SELECCION PROCESS! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** LETS START THE SELECCION PROCESS! **"
+		"trans"		"** LETS START THE SELECCION PROCESS! **"
 	}
 	"** COLISEUM CARNAGE! This is not going to be easy! Survive 2 minutes! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** COLISEUM CARNAGE! This is not going to be easy! Survive 2 minutes! **"
+		"trans"		"** COLISEUM CARNAGE! This is not going to be easy! Survive 2 minutes! **"
 	}
 	"**Singularity cannon has been picked up**"
 	{
-		"trans"		"[{darkred}Map{default}] **Singularity cannon has been picked up**"
+		"trans"		"**Singularity cannon has been picked up**"
 	}
 	"** Playable area set to MEDIUM **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Playable area set to MEDIUM **"
+		"trans"		"** Playable area set to MEDIUM **"
 	}
 	"**Flamethrower has been picked**"
 	{
-		"trans"		"[{darkred}Map{default}] **Flamethrower has been picked**"
+		"trans"		"**Flamethrower has been picked**"
 	}
 	"** Bed item has been picked up **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Bed item has been picked up **"
+		"trans"		"** Bed item has been picked up **"
 	}
 	"**Giant chainsaw has been picked**"
 	{
-		"trans"		"[{darkred}Map{default}] **Giant chainsaw has been picked**"
+		"trans"		"**Giant chainsaw has been picked**"
 	}
 	"**Slower weapon has been picked**"
 	{
-		"trans"		"[{darkred}Map{default}] **Slower weapon has been picked**"
+		"trans"		"**Slower weapon has been picked**"
 	}
 	"**Juggernaut has been picked**"
 	{
-		"trans"		"[{darkred}Map{default}] **Juggernaut has been picked**"
+		"trans"		"**Juggernaut has been picked**"
 	}
 	"**Ladder carrier has been picked**"
 	{
-		"trans"		"[{darkred}Map{default}] **Ladder carrier has been picked**"
+		"trans"		"**Ladder carrier has been picked**"
 	}
 	"[PLAYING] Crysis Warhead : jungle fight"
 	{
-		"trans"		"[{darkred}Map{default}] [PLAYING] Crysis Warhead : jungle fight"
+		"trans"		"[PLAYING] Crysis Warhead : jungle fight"
 	}
 	"** Thunder gun has been picked up**"
 	{
-		"trans"		"[{darkred}Map{default}] ** Thunder gun has been picked up**"
+		"trans"		"** Thunder gun has been picked up**"
 	}
 	"** TREX HAS BEEN PICKED UP! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** TREX HAS BEEN PICKED UP! **"
+		"trans"		"** TREX HAS BEEN PICKED UP! **"
 	}
 	"** OPENING ZOMBIE DOOR IN 15 SECONDS!!! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** OPENING ZOMBIE DOOR IN 15 SECONDS!!! **"
+		"trans"		"** OPENING ZOMBIE DOOR IN 15 SECONDS!!! **"
 	}
 	"[PLAYING] The Qemists : Stompbox"
 	{
-		"trans"		"[{darkred}Map{default}] [PLAYING] The Qemists : Stompbox"
+		"trans"		"[PLAYING] The Qemists : Stompbox"
 	}
 	"** 2 SPAWNS! More humans per square meter... and more zombies!  **"
 	{
-		"trans"		"[{darkred}Map{default}] ** 2 SPAWNS! More humans per square meter... and more zombies!  **"
+		"trans"		"** 2 SPAWNS! More humans per square meter... and more zombies!  **"
 	}
 	"**Global trigger activated: absolute blind in 5 s**"
 	{
-		"trans"		"[{darkred}Map{default}] **Global trigger activated: absolute blind in 5 s**"
+		"trans"		"**Global trigger activated: absolute blind in 5 s**"
 	}
 	"**Zombie stopper has been picked by a zombie**"
 	{
-		"trans"		"[{darkred}Map{default}] **Zombie stopper has been picked by a zombie**"
+		"trans"		"**Zombie stopper has been picked by a zombie**"
 	}
 	"**DOORS OPENING IN 30 SECONDS**"
 	{
-		"trans"		"[{darkred}Map{default}] **DOORS OPENING IN 30 SECONDS**"
+		"trans"		"**DOORS OPENING IN 30 SECONDS**"
 	}
 	"** A CT reached the second labyrinth wall **"
 	{
-		"trans"		"[{darkred}Map{default}] ** A CT reached the second labyrinth wall **"
+		"trans"		"** A CT reached the second labyrinth wall **"
 	}
 	"** Every random walls from first labyrinth will be removed in 15s**"
 	{
-		"trans"		"[{darkred}Map{default}] ** Every random walls from first labyrinth will be removed in 15s**"
+		"trans"		"** Every random walls from first labyrinth will be removed in 15s**"
 	}
 	"**Team trigger activated: fast T in 5 s**"
 	{
-		"trans"		"[{darkred}Map{default}] **Team trigger activated: fast T in 5 s**"
+		"trans"		"**Team trigger activated: fast T in 5 s**"
 	}
 	"**Doors opening**"
 	{
-		"trans"		"[{darkred}Map{default}] **Doors opening**"
+		"trans"		"**Doors opening**"
 	}
 	"**Teleporting all people of first labyrinth in 20 s**"
 	{
-		"trans"		"[{darkred}Map{default}] **Teleporting all people of first labyrinth in 20 s**"
+		"trans"		"**Teleporting all people of first labyrinth in 20 s**"
 	}
 	"**Global trigger activated: invert controls**"
 	{
-		"trans"		"[{darkred}Map{default}] **Global trigger activated: invert controls**"
+		"trans"		"**Global trigger activated: invert controls**"
 	}
 	"**Global trigger activated: slippery ground in 5s**"
 	{
-		"trans"		"[{darkred}Map{default}] **Global trigger activated: slippery ground in 5s**"
+		"trans"		"**Global trigger activated: slippery ground in 5s**"
 	}
 	"**Freezer has  been picked**"
 	{
-		"trans"		"[{darkred}Map{default}] **Freezer has  been picked**"
+		"trans"		"**Freezer has  been picked**"
 	}
 	"** Someone has reached the core walls **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Someone has reached the core walls **"
+		"trans"		"** Someone has reached the core walls **"
 	}
 	"[PLAYING] Crysis Warhead : Airfield 2"
 	{
-		"trans"		"[{darkred}Map{default}] [PLAYING] Crysis Warhead : Airfield 2"
+		"trans"		"[PLAYING] Crysis Warhead : Airfield 2"
 	}
 	"** Every random walls from second labyrinth will be removed in 20s**"
 	{
-		"trans"		"[{darkred}Map{default}] ** Every random walls from second labyrinth will be removed in 20s**"
+		"trans"		"** Every random walls from second labyrinth will be removed in 20s**"
 	}
 	"**Every CT and T of first and second labyrinth will be teleported at jail in 45s**"
 	{
-		"trans"		"[{darkred}Map{default}] **Every CT and T of first and second labyrinth will be teleported at jail in 45s**"
+		"trans"		"**Every CT and T of first and second labyrinth will be teleported at jail in 45s**"
 	}
 	"** REVERSE! Go from coliseum to the begining! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** REVERSE! Go from coliseum to the begining! **"
+		"trans"		"** REVERSE! Go from coliseum to the begining! **"
 	}
 	"**Lift leaving in 7 s**"
 	{
-		"trans"		"[{darkred}Map{default}] **Lift leaving in 7 s**"
+		"trans"		"**Lift leaving in 7 s**"
 	}
 	"[PLAYING] Little Big Planet : Garden theme"
 	{
-		"trans"		"[{darkred}Map{default}] [PLAYING] Little Big Planet : Garden theme"
+		"trans"		"[PLAYING] Little Big Planet : Garden theme"
 	}
 	"**3**"
 	{
-		"trans"		"[{darkred}Map{default}] **3**"
+		"trans"		"**3**"
 	}
 	"**2**"
 	{
-		"trans"		"[{darkred}Map{default}] **2**"
+		"trans"		"**2**"
 	}
 	"**1**"
 	{
-		"trans"		"[{darkred}Map{default}] **1**"
+		"trans"		"**1**"
 	}
 	"** Car has been picked **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Car has been picked **"
+		"trans"		"** Car has been picked **"
 	}
 	"**Go!**"
 	{
-		"trans"		"[{darkred}Map{default}] **Go!**"
+		"trans"		"**Go!**"
 	}
 	"** VIP! Protect the VIP! If the dies you all die! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** VIP! Protect the VIP! If the dies you all die! **"
+		"trans"		"** VIP! Protect the VIP! If the dies you all die! **"
 	}
 	"** Playable area set to BIG **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Playable area set to BIG **"
+		"trans"		"** Playable area set to BIG **"
 	}
 	"**VIP selected! ** The Human without knife will be turned into the VIP!**"
 	{
-		"trans"		"[{darkred}Map{default}] **VIP selected! ** The Human without knife will be turned into the VIP!**"
+		"trans"		"**VIP selected! ** The Human without knife will be turned into the VIP!**"
 	}
 	"**If the VIP dies EVERYONE die**"
 	{
-		"trans"		"[{darkred}Map{default}] **If the VIP dies EVERYONE die**"
+		"trans"		"**If the VIP dies EVERYONE die**"
 	}
 	"**If the VIP survive you will have a reward for next round**"
 	{
-		"trans"		"[{darkred}Map{default}] **If the VIP survive you will have a reward for next round**"
+		"trans"		"**If the VIP survive you will have a reward for next round**"
 	}
 	"**Sprint weapon has been picked**"
 	{
-		"trans"		"[{darkred}Map{default}] **Sprint weapon has been picked**"
+		"trans"		"**Sprint weapon has been picked**"
 	}
 	"**Zombie summoner has been picked by a zombie**"
 	{
-		"trans"		"[{darkred}Map{default}] **Zombie summoner has been picked by a zombie**"
+		"trans"		"**Zombie summoner has been picked by a zombie**"
 	}
 	"**Gandalf staff has been picked!**"
 	{
-		"trans"		"[{darkred}Map{default}] **Gandalf staff has been picked!**"
+		"trans"		"**Gandalf staff has been picked!**"
 	}
 	"**Team trigger activated: global push to zombies in 5 s**"
 	{
-		"trans"		"[{darkred}Map{default}] **Team trigger activated: global push to zombies in 5 s**"
+		"trans"		"**Team trigger activated: global push to zombies in 5 s**"
 	}
 	"**Global trigger activated: absolute darkness in 5s **"
 	{
-		"trans"		"[{darkred}Map{default}] **Global trigger activated: absolute darkness in 5s **"
+		"trans"		"**Global trigger activated: absolute darkness in 5s **"
 	}
 	"**Resist 35 s!**"
 	{
-		"trans"		"[{darkred}Map{default}] **Resist 35 s!**"
+		"trans"		"**Resist 35 s!**"
 	}
 	"**The VIP has been killed!**"
 	{
-		"trans"		"[{darkred}Map{default}] **The VIP has been killed!**"
+		"trans"		"**The VIP has been killed!**"
 	}
 	"**Final barrier WILL BREAK IN 4 SECONDS**"
 	{
-		"trans"		"[{darkred}Map{default}] **Final barrier WILL BREAK IN 4 SECONDS**"
+		"trans"		"**Final barrier WILL BREAK IN 4 SECONDS**"
 	}
 	"**Run! Reach the core!**"
 	{
-		"trans"		"[{darkred}Map{default}] **Run! Reach the core!**"
+		"trans"		"**Run! Reach the core!**"
 	}
 	"[PLAYING] Blarsa : Garden Party"
 	{
-		"trans"		"[{darkred}Map{default}] [PLAYING] Blarsa : Garden Party"
+		"trans"		"[PLAYING] Blarsa : Garden Party"
 	}
 	"** Teleport weapon has been picked up **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Teleport weapon has been picked up **"
+		"trans"		"** Teleport weapon has been picked up **"
 	}
 	"**Team trigger activated: untouchable ct in 5s (15s)**"
 	{
-		"trans"		"[{darkred}Map{default}] **Team trigger activated: untouchable ct in 5s (15s)**"
+		"trans"		"**Team trigger activated: untouchable ct in 5s (15s)**"
 	}
 	"**Rocket launcher has been picked**"
 	{
-		"trans"		"[{darkred}Map{default}] **Rocket launcher has been picked**"
+		"trans"		"**Rocket launcher has been picked**"
 	}
 	"** TELEPORT WILL BE ACTIVATED IN 25 SECONDS **"
 	{
-		"trans"		"[{darkred}Map{default}] ** TELEPORT WILL BE ACTIVATED IN 25 SECONDS **"
+		"trans"		"** TELEPORT WILL BE ACTIVATED IN 25 SECONDS **"
 	}
 	"** BRIDGE IS OPENING IN 20 SECONDS **"
 	{
-		"trans"		"[{darkred}Map{default}] ** BRIDGE IS OPENING IN 20 SECONDS **"
+		"trans"		"** BRIDGE IS OPENING IN 20 SECONDS **"
 	}
 	"** ZM! Remember! This is not escape anymore! Just defend and save your ass! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** ZM! Remember! This is not escape anymore! Just defend and save your ass! **"
+		"trans"		"** ZM! Remember! This is not escape anymore! Just defend and save your ass! **"
 	}
 	"** Barnacle impulsion zombie has been picked up **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Barnacle impulsion zombie has been picked up **"
+		"trans"		"** Barnacle impulsion zombie has been picked up **"
 	}
 	"**Builder has been picked**"
 	{
-		"trans"		"[{darkred}Map{default}] **Builder has been picked**"
+		"trans"		"**Builder has been picked**"
 	}
 	"**Team trigger activated: untouchable zombies in 5s (7s)**"
 	{
-		"trans"		"[{darkred}Map{default}] **Team trigger activated: untouchable zombies in 5s (7s)**"
+		"trans"		"**Team trigger activated: untouchable zombies in 5s (7s)**"
 	}
 	"** FACE TO FACE! Lets get some weapons and fight zombies! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** FACE TO FACE! Lets get some weapons and fight zombies! **"
+		"trans"		"** FACE TO FACE! Lets get some weapons and fight zombies! **"
 	}
 	"[PLAYING] Crysis Warhead : Hovercraft Pursuit"
 	{
-		"trans"		"[{darkred}Map{default}] [PLAYING] Crysis Warhead : Hovercraft Pursuit"
+		"trans"		"[PLAYING] Crysis Warhead : Hovercraft Pursuit"
 	}
 	"** .. THE CREATURE OF SHADOW AND FIRE IS HERE ... **"
 	{
-		"trans"		"[{darkred}Map{default}] ** .. THE CREATURE OF SHADOW AND FIRE IS HERE ... **"
+		"trans"		"** .. THE CREATURE OF SHADOW AND FIRE IS HERE ... **"
 	}
 	"** Vortigaunt has been picked up**"
 	{
-		"trans"		"[{darkred}Map{default}] ** Vortigaunt has been picked up**"
+		"trans"		"** Vortigaunt has been picked up**"
 	}
 	"**Gravity gun has been picked**"
 	{
-		"trans"		"[{darkred}Map{default}] **Gravity gun has been picked**"
+		"trans"		"**Gravity gun has been picked**"
 	}
 	"** Unlimited ammo weapon picked! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Unlimited ammo weapon picked! **"
+		"trans"		"** Unlimited ammo weapon picked! **"
 	}
 	"** ASCENSION! Forget the labyrinth! Prepare to ascend through the core! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** ASCENSION! Forget the labyrinth! Prepare to ascend through the core! **"
+		"trans"		"** ASCENSION! Forget the labyrinth! Prepare to ascend through the core! **"
 	}
 	"** Playable area set to SMALL **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Playable area set to SMALL **"
+		"trans"		"** Playable area set to SMALL **"
 	}
 	"** 3 **"
 	{
-		"trans"		"[{darkred}Map{default}] ** 3 **"
+		"trans"		"** 3 **"
 	}
 	"** 2 **"
 	{
-		"trans"		"[{darkred}Map{default}] ** 2 **"
+		"trans"		"** 2 **"
 	}
 	"** 1 **"
 	{
-		"trans"		"[{darkred}Map{default}] ** 1 **"
+		"trans"		"** 1 **"
 	}
 	"** FIRE! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** FIRE! **"
+		"trans"		"** FIRE! **"
 	}
 	"** BUTTONS WILL UNLOCK IN 65 SECONDS **"
 	{
-		"trans"		"[{darkred}Map{default}] ** BUTTONS WILL UNLOCK IN 65 SECONDS **"
+		"trans"		"** BUTTONS WILL UNLOCK IN 65 SECONDS **"
 	}
 	"** BUTTONS WILL UNLOCK IN 25 SECONDS **"
 	{
-		"trans"		"[{darkred}Map{default}] ** BUTTONS WILL UNLOCK IN 25 SECONDS **"
+		"trans"		"** BUTTONS WILL UNLOCK IN 25 SECONDS **"
 	}
 	"** BUTTONS UNLOCKED **"
 	{
-		"trans"		"[{darkred}Map{default}] ** BUTTONS UNLOCKED **"
+		"trans"		"** BUTTONS UNLOCKED **"
 	}
 	"*** Finish mode ** Easy killing! You are untouchable!**"
 	{
-		"trans"		"[{darkred}Map{default}] *** Finish mode ** Easy killing! You are untouchable!**"
+		"trans"		"*** Finish mode ** Easy killing! You are untouchable!**"
 	}
 	"**Team trigger activated: slow T in 5 s**"
 	{
-		"trans"		"[{darkred}Map{default}] **Team trigger activated: slow T in 5 s**"
+		"trans"		"**Team trigger activated: slow T in 5 s**"
 	}
 	"**A boring round... cmon CT** Everyone will be teleported to the white room in 20s**"
 	{
-		"trans"		"[{darkred}Map{default}] **A boring round... cmon CT** Everyone will be teleported to the white room in 20s**"
+		"trans"		"**A boring round... cmon CT** Everyone will be teleported to the white room in 20s**"
 	}
 	"**Resist 35 seconds!**"
 	{
-		"trans"		"[{darkred}Map{default}] **Resist 35 seconds!**"
+		"trans"		"**Resist 35 seconds!**"
 	}
 	"** RUN **"
 	{
-		"trans"		"[{darkred}Map{default}] ** RUN **"
+		"trans"		"** RUN **"
 	}
 	"**Hold 20 seconds!**"
 	{
-		"trans"		"[{darkred}Map{default}] **Hold 20 seconds!**"
+		"trans"		"**Hold 20 seconds!**"
 	}
 	"**This is your last stand! Defend! The teleporter is getting ready!**"
 	{
-		"trans"		"[{darkred}Map{default}] **This is your last stand! Defend! The teleporter is getting ready!**"
+		"trans"		"**This is your last stand! Defend! The teleporter is getting ready!**"
 	}
 	"[PLAYING] Crysis Warhead : Airfield Hero Theme"
 	{
-		"trans"		"[{darkred}Map{default}] [PLAYING] Crysis Warhead : Airfield Hero Theme"
+		"trans"		"[PLAYING] Crysis Warhead : Airfield Hero Theme"
 	}
 	"**30 seconds until final teleportation!**"
 	{
-		"trans"		"[{darkred}Map{default}] **30 seconds until final teleportation!**"
+		"trans"		"**30 seconds until final teleportation!**"
 	}
 	"*** The CT have win the round! Choose the finish mode ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** The CT have win the round! Choose the finish mode ***"
+		"trans"		"*** The CT have win the round! Choose the finish mode ***"
 	}
 	"*** Finish mode ** Normal nuke!**"
 	{
-		"trans"		"[{darkred}Map{default}] *** Finish mode ** Normal nuke!**"
+		"trans"		"*** Finish mode ** Normal nuke!**"
 	}
 	"** We have an epic winner! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** We have an epic winner! **"
+		"trans"		"** We have an epic winner! **"
 	}
 	"** Grenade maker has been picked up **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Grenade maker has been picked up **"
+		"trans"		"** Grenade maker has been picked up **"
 	}
 	"***Earendil light has been picked***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Earendil light has been picked***"
+		"trans"		"***Earendil light has been picked***"
 	}
 	"** NUKE IN 60 SECONDS **"
 	{
-		"trans"		"[{darkred}Map{default}] ** NUKE IN 60 SECONDS **"
+		"trans"		"** NUKE IN 60 SECONDS **"
 	}
 	"** NUKE IN 40 SECONDS **"
 	{
-		"trans"		"[{darkred}Map{default}] ** NUKE IN 40 SECONDS **"
+		"trans"		"** NUKE IN 40 SECONDS **"
 	}
 	"** NUKE IN 20 SECONDS **"
 	{
-		"trans"		"[{darkred}Map{default}] ** NUKE IN 20 SECONDS **"
+		"trans"		"** NUKE IN 20 SECONDS **"
 	}
 	"**10 SECONDS LEFT**"
 	{
-		"trans"		"[{darkred}Map{default}] **10 SECONDS LEFT**"
+		"trans"		"**10 SECONDS LEFT**"
 	}
 	"**5 SECONDS LEFT**"
 	{
-		"trans"		"[{darkred}Map{default}] **5 SECONDS LEFT**"
+		"trans"		"**5 SECONDS LEFT**"
 	}
 	"** RANDOM! Red dot will choose! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** RANDOM! Red dot will choose! **"
+		"trans"		"** RANDOM! Red dot will choose! **"
 	}
 	"**Titan monster has entered the game**"
 	{
-		"trans"		"[{darkred}Map{default}] **Titan monster has entered the game**"
+		"trans"		"**Titan monster has entered the game**"
 	}
 	"**Temporal invulnerability weapon has been picked**"
 	{
-		"trans"		"[{darkred}Map{default}] **Temporal invulnerability weapon has been picked**"
+		"trans"		"**Temporal invulnerability weapon has been picked**"
 	}
 	"**Global trigger activated: low gravity for humans**"
 	{
-		"trans"		"[{darkred}Map{default}] **Global trigger activated: low gravity for humans**"
+		"trans"		"**Global trigger activated: low gravity for humans**"
 	}
 	"**Team trigger activated: fast CT in 5 s**"
 	{
-		"trans"		"[{darkred}Map{default}] **Team trigger activated: fast CT in 5 s**"
+		"trans"		"**Team trigger activated: fast CT in 5 s**"
 	}
 	"** STATIC LABYRINTH! Choose the correct way! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** STATIC LABYRINTH! Choose the correct way! **"
+		"trans"		"** STATIC LABYRINTH! Choose the correct way! **"
 	}
 	"** TRIGGER MADNESS! Random triggers every 10 seconds! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** TRIGGER MADNESS! Random triggers every 10 seconds! **"
+		"trans"		"** TRIGGER MADNESS! Random triggers every 10 seconds! **"
 	}
 	"**Global trigger activated: everyone will be teleported to a room int 8s**"
 	{
-		"trans"		"[{darkred}Map{default}] **Global trigger activated: everyone will be teleported to a room int 8s**"
+		"trans"		"**Global trigger activated: everyone will be teleported to a room int 8s**"
 	}
 	"*** Finish mode ** Kill all zombies without help!**"
 	{
-		"trans"		"[{darkred}Map{default}] *** Finish mode ** Kill all zombies without help!**"
+		"trans"		"*** Finish mode ** Kill all zombies without help!**"
 	}
 	"** VOLUNTARY! Jump into the red hole to get zombified **"
 	{
-		"trans"		"[{darkred}Map{default}] ** VOLUNTARY! Jump into the red hole to get zombified **"
+		"trans"		"** VOLUNTARY! Jump into the red hole to get zombified **"
 	}
 }

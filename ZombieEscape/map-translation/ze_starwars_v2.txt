@@ -2,346 +2,346 @@
 {
 	"**MAP BY ?? ??????????????(I AM FRENCH)**"
 	{
-		"trans"		"[{darkred}Map{default}]  MAP BY ?? ??????????????(反正是个法国佬) / Translate: F2A"
+		"trans"		"MAP BY ?? ??????????????(反正是个法国佬) / Translate: F2A"
 	}
 	"**Ze_Star_wars**"
 	{
-		"trans"		"[{darkred}Map{default}] **Ze_Star_wars**"
+		"trans"		"**Ze_Star_wars**"
 	}
 	"**The bridge will open in 15 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}]  桥开放于15秒后"
+		"trans"		"桥开放于15秒后"
 	}
 	"A player picked up Force Lightning"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家拾起了电之原力[大片减速场,减速并伤害僵尸]"
+		"trans"		"有玩家拾起了电之原力[大片减速场,减速并伤害僵尸]"
 	}
 	"A player picked up Force Push"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家拾起了驱逐原力[推开大片僵尸]"
+		"trans"		"有玩家拾起了驱逐原力[推开大片僵尸]"
 	}
 	"**The bridge will open in 5 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}]  桥开放于5秒后"
+		"trans"		"桥开放于5秒后"
 	}
 	"**Fall back! The bridge open**"
 	{
-		"trans"		"[{darkred}Map{default}]  桥已开放,撤退"
+		"trans"		"桥已开放,撤退"
 	}
 	"**The doors will open in 15 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}]  门开启于15秒后"
+		"trans"		"门开启于15秒后"
 	}
 	"**The doors will open in 5 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}]  门开启于5秒后"
+		"trans"		"门开启于5秒后"
 	}
 	"A player picked up Force Speed"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家拾起了疾速原力[加速附近人类]"
+		"trans"		"有玩家拾起了疾速原力[加速附近人类]"
 	}
 	"**Fall back! The doors are open**"
 	{
-		"trans"		"[{darkred}Map{default}]  门已开启,撤退"
+		"trans"		"门已开启,撤退"
 	}
 	"A player picked up Force Grip"
 	{
-		"trans"		"[{darkred}Map{default}]  "
+		"trans"		""
 	}
 	"**The barricade will explode in 10 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}]  障碍爆破于10秒后"
+		"trans"		"障碍爆破于10秒后"
 	}
 	"A player picked up Force Heal"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家拾起了治愈原力[奶]"
+		"trans"		"有玩家拾起了治愈原力[奶]"
 	}
 	"**barricade exploded**"
 	{
-		"trans"		"[{darkred}Map{default}]  障碍物已被炸毁,前进"
+		"trans"		"障碍物已被炸毁,前进"
 	}
 	"**Destroy the barricade 15 second**"
 	{
-		"trans"		"[{darkred}Map{default}]  15秒内打爆路障"
+		"trans"		"15秒内打爆路障"
 	}
 	"**Destroy the barricade 5 second**"
 	{
-		"trans"		"[{darkred}Map{default}]  5秒内打爆路障"
+		"trans"		"5秒内打爆路障"
 	}
 	"**The palace doors will open in 30 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}]  宫殿大门开启于30秒后"
+		"trans"		"宫殿大门开启于30秒后"
 	}
 	"AFK TELEPORT IN 5 SECOND"
 	{
-		"trans"		"[{darkred}Map{default}]  5秒后传送挂机者"
+		"trans"		"5秒后传送挂机者"
 	}
 	"**The palace doors will open in 5 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}]  宫殿大门开启于5秒后"
+		"trans"		"宫殿大门开启于5秒后"
 	}
 	"**Destroy the barricade in 20 second**"
 	{
-		"trans"		"[{darkred}Map{default}]  20秒内打爆路障"
+		"trans"		"20秒内打爆路障"
 	}
 	"**Last door will open in 30 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}]  最终大门30秒后打开"
+		"trans"		"最终大门30秒后打开"
 	}
 	"**FALL BACK**"
 	{
-		"trans"		"[{darkred}Map{default}]  撤退"
+		"trans"		"撤退"
 	}
 	"**Fall back close door in 20 second**"
 	{
-		"trans"		"[{darkred}Map{default}]  门关于20秒后"
+		"trans"		"门关于20秒后"
 	}
 	"**Level 1 is complete**"
 	{
-		"trans"		"[{darkred}Map{default}]  第一关已完成"
+		"trans"		"第一关已完成"
 	}
 	"**Level changes to NORMAL** "
 	{
-		"trans"		"[{darkred}Map{default}]  下一关:第二关"
+		"trans"		"下一关:第二关"
 	}
 	"**The doors will open in 3 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}]  门开于3秒后"
+		"trans"		"门开于3秒后"
 	}
 	"**The droids will be killed in 10 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}]  螳臂当车的机器人自毁于10秒后"
+		"trans"		"螳臂当车的机器人自毁于10秒后"
 	}
 	"**Fall back! Droids are killed**"
 	{
-		"trans"		"[{darkred}Map{default}]  机器人被打爆了,撤退"
+		"trans"		"机器人被打爆了,撤退"
 	}
 	"**The doors will open in 30 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}]  门开于30秒后"
+		"trans"		"门开于30秒后"
 	}
 	"**The droids will be killed in 30 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}]  挡路的机器人自毁于30秒后"
+		"trans"		"挡路的机器人自毁于30秒后"
 	}
 	"**The droids will be killed in 5 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}] 挡路的机器人自毁于5秒后"
+		"trans"		"挡路的机器人自毁于5秒后"
 	}
 	"**Fall back! Droids are killed** "
 	{
-		"trans"		"[{darkred}Map{default}]  机器人被打爆了,撤退"
+		"trans"		"机器人被打爆了,撤退"
 	}
 	"**The doors will open in 20 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}]  门开于20秒后"
+		"trans"		"门开于20秒后"
 	}
 	"**The doors will open in 5 seconds** "
 	{
-		"trans"		"[{darkred}Map{default}]  门开于5秒后"
+		"trans"		"门开于5秒后"
 	}
 	"**AFK TELEPORT IN 5 SECOND**"
 	{
-		"trans"		"[{darkred}Map{default}]  5秒后传送挂机者"
+		"trans"		"5秒后传送挂机者"
 	}
 	"**The droids will be killed in 20 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}]  挡路的机器人自毁于20秒后"
+		"trans"		"挡路的机器人自毁于20秒后"
 	}
 	"**The droids will be killed in 25 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}] 挡路的机器人自毁于25秒后"
+		"trans"		"挡路的机器人自毁于25秒后"
 	}
 	"**The hangar doors will open in 20 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}]  机库大门开启于20秒后"
+		"trans"		"机库大门开启于20秒后"
 	}
 	"A player picked up Force Rage"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家拾起了狂怒原力[终极]"
+		"trans"		"有玩家拾起了狂怒原力[终极]"
 	}
 	"**The hangar doors will open in 5 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}]  机库大门开启于5秒后"
+		"trans"		"机库大门开启于5秒后"
 	}
 	"**Activate the ship**"
 	{
-		"trans"		"[{darkred}Map{default}]  激活机库里跑路的飞船"
+		"trans"		"激活机库里跑路的飞船"
 	}
 	"**OMG! This is Darth Vader! SHOOT!**"
 	{
-		"trans"		"[{darkred}Map{default}]  干TMD的,是黑武士!开火糊他一脸!"
+		"trans"		"干TMD的,是黑武士!开火糊他一脸!"
 	}
 	"**The ship will move in 15 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}]  飞船离开于15秒后"
+		"trans"		"飞船离开于15秒后"
 	}
 	"**Fall back! The ship will move in 5 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}]  飞船离开于5秒后,撤退!"
+		"trans"		"飞船离开于5秒后,撤退!"
 	}
 	"**Level changes to HARD** "
 	{
-		"trans"		"[{darkred}Map{default}]  下一关:第三关"
+		"trans"		"下一关:第三关"
 	}
 	"**You completed Level 2**"
 	{
-		"trans"		"[{darkred}Map{default}]  第二关已完成"
+		"trans"		"第二关已完成"
 	}
 	"**The bridge will open in 25 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}]  桥开放于25秒后"
+		"trans"		"桥开放于25秒后"
 	}
 	"**Fall back! The bridge has closed**"
 	{
-		"trans"		"[{darkred}Map{default}]  桥已开放,撤退"
+		"trans"		"桥已开放,撤退"
 	}
 	"*The doors will open in 10 seconds*"
 	{
-		"trans"		"[{darkred}Map{default}]  门开启于10秒后"
+		"trans"		"门开启于10秒后"
 	}
 	"*The doors will open in 5 seconds*"
 	{
-		"trans"		"[{darkred}Map{default}]  门开于5秒后"
+		"trans"		"门开于5秒后"
 	}
 	"BOSS USE RAGE. BACK BACK BACK!!!!!!"
 	{
-		"trans"		"[{darkred}Map{default}]  BOSS释放了终极"
+		"trans"		"BOSS释放了终极"
 	}
 	"*The droids will be killed in 20 seconds*"
 	{
-		"trans"		"[{darkred}Map{default}]  挡路的机器人自毁于20秒后"
+		"trans"		"挡路的机器人自毁于20秒后"
 	}
 	"*Droids cover the vicegerent. Capture him!*"
 	{
-		"trans"		"[{darkred}Map{default}]  那帮机器人掩护BOSS逃跑了,搞死他!"
+		"trans"		"那帮机器人掩护BOSS逃跑了,搞死他!"
 	}
 	"*The droids will be killed in 5 seconds*"
 	{
-		"trans"		"[{darkred}Map{default}]  挡路的机器人自毁于5秒后"
+		"trans"		"挡路的机器人自毁于5秒后"
 	}
 	"*The doors will open in 15 seconds*"
 	{
-		"trans"		"[{darkred}Map{default}]  门开于15秒后"
+		"trans"		"门开于15秒后"
 	}
 	"get to the side GET TO THE SIDE"
 	{
-		"trans"		"[{darkred}Map{default}]  进入大门"
+		"trans"		"进入大门"
 	}
 	"*Fall back door close in 15 second*"
 	{
-		"trans"		"[{darkred}Map{default}]  门关于15秒后"
+		"trans"		"门关于15秒后"
 	}
 	"**Darth maul dead**"
 	{
-		"trans"		"[{darkred}Map{default}]  BOSS被干烂了"
+		"trans"		"BOSS被干烂了"
 	}
 	"**Level changes to EXTREME** "
 	{
-		"trans"		"[{darkred}Map{default}]  下一关:第四关"
+		"trans"		"下一关:第四关"
 	}
 	"**You completed Level 3**"
 	{
-		"trans"		"[{darkred}Map{default}]  第三关已完成"
+		"trans"		"第三关已完成"
 	}
 	"Boss fight in 25 second"
 	{
-		"trans"		"[{darkred}Map{default}]  BOSS出现于25秒后"
+		"trans"		"BOSS出现于25秒后"
 	}
 	"Boss fight in 10 second"
 	{
-		"trans"		"[{darkred}Map{default}]  BOSS出现于10秒后"
+		"trans"		"BOSS出现于10秒后"
 	}
 	"Boss fight in 5 second"
 	{
-		"trans"		"[{darkred}Map{default}]  BOSS出现于5秒后"
+		"trans"		"BOSS出现于5秒后"
 	}
 	"Boss Fight"
 	{
-		"trans"		"[{darkred}Map{default}]  BOSS来了"
+		"trans"		"BOSS来了"
 	}
 	"BOSS USE PUSH"
 	{
-		"trans"		"[{darkred}Map{default}]  BOSS释放了PUSH"
+		"trans"		"BOSS释放了PUSH"
 	}
 	"BOSS USE RAGE "
 	{
-		"trans"		"[{darkred}Map{default}]  BOSS释放了狂怒"
+		"trans"		"BOSS释放了狂怒"
 	}
 	"BOSS USE  GRIP"
 	{
-		"trans"		"[{darkred}Map{default}]  BOSS释放了减速"
+		"trans"		"BOSS释放了减速"
 	}
 	"**The wall will explode in 30 second**"
 	{
-		"trans"		"[{darkred}Map{default}]  墙爆破于30秒后"
+		"trans"		"墙爆破于30秒后"
 	}
 	"The ship will fly away in 35 seconds"
 	{
-		"trans"		"[{darkred}Map{default}]  飞船起飞于35秒后"
+		"trans"		"飞船起飞于35秒后"
 	}
 	"Jumping on platform"
 	{
-		"trans"		"[{darkred}Map{default}]  跳上平台"
+		"trans"		"跳上平台"
 	}
 	"**You completed Level 4**"
 	{
-		"trans"		"[{darkred}Map{default}]  第四关已完成"
+		"trans"		"第四关已完成"
 	}
 	"**Level changes to EPIC** "
 	{
-		"trans"		"[{darkred}Map{default}]  下一关:第五关"
+		"trans"		"下一关:第五关"
 	}
 	"First door will open in 10 seconds"
 	{
-		"trans"		"[{darkred}Map{default}]  第一道大门开启于10秒后"
+		"trans"		"第一道大门开启于10秒后"
 	}
 	"Third door will open in 10 seconds"
 	{
-		"trans"		"[{darkred}Map{default}]  第三道大门开启于10秒后"
+		"trans"		"第三道大门开启于10秒后"
 	}
 	"Second door will open in 10 seconds "
 	{
-		"trans"		"[{darkred}Map{default}]  第二道大门开启于10秒后"
+		"trans"		"第二道大门开启于10秒后"
 	}
 	"Last door will open in 40 seconds"
 	{
-		"trans"		"[{darkred}Map{default}]  最后一道大门开启于40秒后"
+		"trans"		"最后一道大门开启于40秒后"
 	}
 	"AFK TELEPORT 5 IN SECOND"
 	{
-		"trans"		"[{darkred}Map{default}]  5秒后传送挂机者"
+		"trans"		"5秒后传送挂机者"
 	}
 	"**First door will open in 45 seconds** "
 	{
-		"trans"		"[{darkred}Map{default}]  第一道大门开启于45秒后"
+		"trans"		"第一道大门开启于45秒后"
 	}
 	"Second door will open in 15 seconds"
 	{
-		"trans"		"[{darkred}Map{default}]  第二道大门开启于15秒后"
+		"trans"		"第二道大门开启于15秒后"
 	}
 	"Third door will open in 30 seconds"
 	{
-		"trans"		"[{darkred}Map{default}]  第三道大门开启于30秒后"
+		"trans"		"第三道大门开启于30秒后"
 	}
 	"BOSS USE RAGE"
 	{
-		"trans"		"[{darkred}Map{default}]  BOSS释放了狂怒"
+		"trans"		"BOSS释放了狂怒"
 	}
 	"BOSS USE SWORD. SIT DOWN!!!!!!"
 	{
-		"trans"		"[{darkred}Map{default}]  BOSS放出了一刀高刀,蹲下!"
+		"trans"		"BOSS放出了一刀高刀,蹲下!"
 	}
 	"**Level 5 is complete**"
 	{
-		"trans"		"[{darkred}Map{default}]  第五关已完成"
+		"trans"		"第五关已完成"
 	}
 	"BOSS USE ANGER"
 	{
-		"trans"		"[{darkred}Map{default}]  BOSS释放了狂怒"
+		"trans"		"BOSS释放了狂怒"
 	}
 	"BOSS USE THUNDER"
 	{
-		"trans"		"[{darkred}Map{default}]  BOSS释放了电"
+		"trans"		"BOSS释放了电"
 	}
 }

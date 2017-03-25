@@ -2,90 +2,90 @@
 {
 	"** We're stranded in Nowhere... **"
 	{
-		"trans"		"[{darkred}Map{default}] ** We're stranded in Nowhere... **"
+		"trans"		"** We're stranded in Nowhere... **"
 	}
 	"** Wait until something happens! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Wait until something happens! **"
+		"trans"		"** Wait until something happens! **"
 	}
 	"** What journey will this binary+1 entscheidungsproblem lead us to..? **"
 	{
-		"trans"		"[{darkred}Map{default}] ** What journey will this binary+1 entscheidungsproblem lead us to..? **"
+		"trans"		"** What journey will this binary+1 entscheidungsproblem lead us to..? **"
 	}
 	"** Behind this door may await the Beast of All Cunning Hallways... **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Behind this door may await the Beast of All Cunning Hallways... **"
+		"trans"		"** Behind this door may await the Beast of All Cunning Hallways... **"
 	}
 	"** Cunning Hallways shall be -of course- those that contain Barely Anything -or was it everything-. **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Cunning Hallways shall be -of course- those that contain Barely Anything -or was it everything-. **"
+		"trans"		"** Cunning Hallways shall be -of course- those that contain Barely Anything -or was it everything-. **"
 	}
 	"** Wait here! A wise word might come from HIGH **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Wait here! A wise word might come from HIGH **"
+		"trans"		"** Wait here! A wise word might come from HIGH **"
 	}
 	"** Some time has passed and yet no words came... May HIGH have lied? **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Some time has passed and yet no words came... May HIGH have lied? **"
+		"trans"		"** Some time has passed and yet no words came... May HIGH have lied? **"
 	}
 	"** ... **"
 	{
-		"trans"		"[{darkred}Map{default}] ** ... **"
+		"trans"		"** ... **"
 	}
 	"** It opened but... no word was read or heard... Or was it that we couldn't understand? **"
 	{
-		"trans"		"[{darkred}Map{default}] ** It opened but... no word was read or heard... Or was it that we couldn't understand? **"
+		"trans"		"** It opened but... no word was read or heard... Or was it that we couldn't understand? **"
 	}
 	"** On this little pool of doubt we must stand for long enough to understand... **"
 	{
-		"trans"		"[{darkred}Map{default}] ** On this little pool of doubt we must stand for long enough to understand... **"
+		"trans"		"** On this little pool of doubt we must stand for long enough to understand... **"
 	}
 	"** RESIST! Think and the paradox will come at last! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** RESIST! Think and the paradox will come at last! **"
+		"trans"		"** RESIST! Think and the paradox will come at last! **"
 	}
 	"** The columnvator is warming up - going up to the puffy clouds requires lots of energy! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** The columnvator is warming up - going up to the puffy clouds requires lots of energy! **"
+		"trans"		"** The columnvator is warming up - going up to the puffy clouds requires lots of energy! **"
 	}
 	"** RESIST! Time is long as to make this little time step nothing - if at all... **"
 	{
-		"trans"		"[{darkred}Map{default}] ** RESIST! Time is long as to make this little time step nothing - if at all... **"
+		"trans"		"** RESIST! Time is long as to make this little time step nothing - if at all... **"
 	}
 	"** It stopped for some reason! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** It stopped for some reason! **"
+		"trans"		"** It stopped for some reason! **"
 	}
 	"** Perhaps this conveniently placed valve will unlock the reason why? **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Perhaps this conveniently placed valve will unlock the reason why? **"
+		"trans"		"** Perhaps this conveniently placed valve will unlock the reason why? **"
 	}
 	"** We've opened the valve and the reason has been revealed... **"
 	{
-		"trans"		"[{darkred}Map{default}] ** We've opened the valve and the reason has been revealed... **"
+		"trans"		"** We've opened the valve and the reason has been revealed... **"
 	}
 	"** It just says 'to have a reason for the valve to be - aesthetics aside'... **"
 	{
-		"trans"		"[{darkred}Map{default}] ** It just says 'to have a reason for the valve to be - aesthetics aside'... **"
+		"trans"		"** It just says 'to have a reason for the valve to be - aesthetics aside'... **"
 	}
 	"** The entrance to the port of all paradoxes will open soon... **"
 	{
-		"trans"		"[{darkred}Map{default}] ** The entrance to the port of all paradoxes will open soon... **"
+		"trans"		"** The entrance to the port of all paradoxes will open soon... **"
 	}
 	"** Although small all paradoxes fit in -a paradox told me- because they're quite slim... **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Although small all paradoxes fit in -a paradox told me- because they're quite slim... **"
+		"trans"		"** Although small all paradoxes fit in -a paradox told me- because they're quite slim... **"
 	}
 	"** Well done! Now we can get out of this mess of a place and start being by our own beingness! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Well done! Now we can get out of this mess of a place and start being by our own beingness! **"
+		"trans"		"** Well done! Now we can get out of this mess of a place and start being by our own beingness! **"
 	}
 	"** RESIST! The flying floaty matter will take a bit of time to get us out... **"
 	{
-		"trans"		"[{darkred}Map{default}] ** RESIST! The flying floaty matter will take a bit of time to get us out... **"
+		"trans"		"** RESIST! The flying floaty matter will take a bit of time to get us out... **"
 	}
 	"** THE RIDE NEVER ENDS! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** THE RIDE NEVER ENDS! **"
+		"trans"		"** THE RIDE NEVER ENDS! **"
 	}
 }

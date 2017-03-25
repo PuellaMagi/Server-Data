@@ -2,42 +2,42 @@
 {
 	">>stairs will clear in 30 seconds<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>stairs will clear in 30 seconds<<"
+		"trans"		">>stairs will clear in 30 seconds<<"
 	}
 	">>5 seconds<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>5 seconds<<"
+		"trans"		">>5 seconds<<"
 	}
 	">>stairs will be clear in 60 seconds<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>stairs will be clear in 60 seconds<<"
+		"trans"		">>stairs will be clear in 60 seconds<<"
 	}
 	">>5 seconds left<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>5 seconds left<<"
+		"trans"		">>5 seconds left<<"
 	}
 	">>RUN!!!<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>RUN!!!<<"
+		"trans"		">>RUN!!!<<"
 	}
 	">> wall will clear in 20 seconds<<"
 	{
-		"trans"		"[{darkred}Map{default}] >> wall will clear in 20 seconds<<"
+		"trans"		">> wall will clear in 20 seconds<<"
 	}
 	">> 5 seconds left<<"
 	{
-		"trans"		"[{darkred}Map{default}] >> 5 seconds left<<"
+		"trans"		">> 5 seconds left<<"
 	}
 	">>hold this point till door opens<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>hold this point till door opens<<"
+		"trans"		">>hold this point till door opens<<"
 	}
 	">>nuke launched. eta 40 seconds<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>nuke launched. eta 40 seconds<<"
+		"trans"		">>nuke launched. eta 40 seconds<<"
 	}
 	">>10 seconds till impact<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>10 seconds till impact<<"
+		"trans"		">>10 seconds till impact<<"
 	}
 }

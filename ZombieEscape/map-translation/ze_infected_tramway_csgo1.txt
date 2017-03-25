@@ -2,126 +2,126 @@
 {
 	"**Map made by Eugenio *Motanum* Roman**"
 	{
-		"trans"		"[{darkred}Map{default}] **Map made by Eugenio *Motanum* Roman**"
+		"trans"		"**Map made by Eugenio *Motanum* Roman**"
 	}
 	"**Contact me at eugenio.motanum91 AT gmail.com**"
 	{
-		"trans"		"[{darkred}Map{default}] **Contact me at eugenio.motanum91 AT gmail.com**"
+		"trans"		"**Contact me at eugenio.motanum91 AT gmail.com**"
 	}
 	"***Selecting default difficulty****"
 	{
-		"trans"		"[{darkred}Map{default}] ***Selecting default difficulty****"
+		"trans"		"***Selecting default difficulty****"
 	}
 	"**Thanks to [PF] PlagueFest for their support!**"
 	{
-		"trans"		"[{darkred}Map{default}] **Thanks to [PF] PlagueFest for their support!**"
+		"trans"		"**Thanks to [PF] PlagueFest for their support!**"
 	}
 	"***Waiting for players****"
 	{
-		"trans"		"[{darkred}Map{default}] ***Waiting for players****"
+		"trans"		"***Waiting for players****"
 	}
 	"***Reseting game in 20 seconds****"
 	{
-		"trans"		"[{darkred}Map{default}] ***Reseting game in 20 seconds****"
+		"trans"		"***Reseting game in 20 seconds****"
 	}
 	"***Obtain the plans to a secret rocket launch pad!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Obtain the plans to a secret rocket launch pad!***"
+		"trans"		"***Obtain the plans to a secret rocket launch pad!***"
 	}
 	"**Use the tramway to get to the Helicopters!**"
 	{
-		"trans"		"[{darkred}Map{default}] **Use the tramway to get to the Helicopters!**"
+		"trans"		"**Use the tramway to get to the Helicopters!**"
 	}
 	"***Executing game reset****"
 	{
-		"trans"		"[{darkred}Map{default}] ***Executing game reset****"
+		"trans"		"***Executing game reset****"
 	}
 	"***No fall damage***"
 	{
-		"trans"		"[{darkred}Map{default}] ***No fall damage***"
+		"trans"		"***No fall damage***"
 	}
 	"**AFK Killer enabled for 5 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}] **AFK Killer enabled for 5 seconds**"
+		"trans"		"**AFK Killer enabled for 5 seconds**"
 	}
 	"**T minus 60 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}] **T minus 60 seconds**"
+		"trans"		"**T minus 60 seconds**"
 	}
 	"**Hacking into the barrier and door system**"
 	{
-		"trans"		"[{darkred}Map{default}] **Hacking into the barrier and door system**"
+		"trans"		"**Hacking into the barrier and door system**"
 	}
 	"**Hold the octagon until gates are open!**"
 	{
-		"trans"		"[{darkred}Map{default}] **Hold the octagon until gates are open!**"
+		"trans"		"**Hold the octagon until gates are open!**"
 	}
 	"**Calculating progress time**"
 	{
-		"trans"		"[{darkred}Map{default}] **Calculating progress time**"
+		"trans"		"**Calculating progress time**"
 	}
 	"**AFK Killer is off**"
 	{
-		"trans"		"[{darkred}Map{default}] **AFK Killer is off**"
+		"trans"		"**AFK Killer is off**"
 	}
 	"**T minus 30 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}] **T minus 30 seconds**"
+		"trans"		"**T minus 30 seconds**"
 	}
 	"**T minus 10 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}] **T minus 10 seconds**"
+		"trans"		"**T minus 10 seconds**"
 	}
 	"**Gates are opening and barriers are online!**"
 	{
-		"trans"		"[{darkred}Map{default}] **Gates are opening and barriers are online!**"
+		"trans"		"**Gates are opening and barriers are online!**"
 	}
 	"**Barrier system deactivated in 15 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}] **Barrier system deactivated in 15 seconds**"
+		"trans"		"**Barrier system deactivated in 15 seconds**"
 	}
 	"**Barrier system is broken! Watch your backs!**"
 	{
-		"trans"		"[{darkred}Map{default}] **Barrier system is broken! Watch your backs!**"
+		"trans"		"**Barrier system is broken! Watch your backs!**"
 	}
 	"**Monitor B active**"
 	{
-		"trans"		"[{darkred}Map{default}] **Monitor B active**"
+		"trans"		"**Monitor B active**"
 	}
 	"**Monitor A active**"
 	{
-		"trans"		"[{darkred}Map{default}] **Monitor A active**"
+		"trans"		"**Monitor A active**"
 	}
 	"**Plans aquired**"
 	{
-		"trans"		"[{darkred}Map{default}] **Plans aquired**"
+		"trans"		"**Plans aquired**"
 	}
 	"**Find a way out of here!**"
 	{
-		"trans"		"[{darkred}Map{default}] **Find a way out of here!**"
+		"trans"		"**Find a way out of here!**"
 	}
 	"**T minus 45s for detonation**"
 	{
-		"trans"		"[{darkred}Map{default}] **T minus 45s for detonation**"
+		"trans"		"**T minus 45s for detonation**"
 	}
 	"**T minus 30s for detonation**"
 	{
-		"trans"		"[{darkred}Map{default}] **T minus 30s for detonation**"
+		"trans"		"**T minus 30s for detonation**"
 	}
 	"**T minus 15s for detonation**"
 	{
-		"trans"		"[{darkred}Map{default}] **T minus 15s for detonation**"
+		"trans"		"**T minus 15s for detonation**"
 	}
 	"**Blast door system is broken!**"
 	{
-		"trans"		"[{darkred}Map{default}] **Blast door system is broken!**"
+		"trans"		"**Blast door system is broken!**"
 	}
 	"**Building power for Tramway! 90 seconds remaining!**"
 	{
-		"trans"		"[{darkred}Map{default}] **Building power for Tramway! 90 seconds remaining!**"
+		"trans"		"**Building power for Tramway! 90 seconds remaining!**"
 	}
 	"**Final Wave inminent!**"
 	{
-		"trans"		"[{darkred}Map{default}] **Final Wave inminent!**"
+		"trans"		"**Final Wave inminent!**"
 	}
 }

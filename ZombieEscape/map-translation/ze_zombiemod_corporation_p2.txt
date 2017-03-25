@@ -2,38 +2,38 @@
 {
 	"** Welcome ! Boats Will Leave in 10 Seconds **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Welcome ! Boats Will Leave in 10 Seconds **"
+		"trans"		"** Welcome ! Boats Will Leave in 10 Seconds **"
 	}
 	"*** Doors Will Open in 15 Seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Doors Will Open in 15 Seconds ***"
+		"trans"		"*** Doors Will Open in 15 Seconds ***"
 	}
 	"** Gate Will Open in 30 seconds"
 	{
-		"trans"		"[{darkred}Map{default}] ** Gate Will Open in 30 seconds"
+		"trans"		"** Gate Will Open in 30 seconds"
 	}
 	"** Final heli is Leaving in 60 Seconds .. PROTECT YOURSELF**"
 	{
-		"trans"		"[{darkred}Map{default}] ** Final heli is Leaving in 60 Seconds .. PROTECT YOURSELF**"
+		"trans"		"** Final heli is Leaving in 60 Seconds .. PROTECT YOURSELF**"
 	}
 	"** Final heli is leaving in 5 seconds! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Final heli is leaving in 5 seconds! **"
+		"trans"		"** Final heli is leaving in 5 seconds! **"
 	}
 	"** Final Zombie Boat is Leaving in 10 Seconds **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Final Zombie Boat is Leaving in 10 Seconds **"
+		"trans"		"** Final Zombie Boat is Leaving in 10 Seconds **"
 	}
 	"** Elevator is leaving in 20 seconds **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Elevator is leaving in 20 seconds **"
+		"trans"		"** Elevator is leaving in 20 seconds **"
 	}
 	"** Final Door Will Open in 30 seconds **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Final Door Will Open in 30 seconds **"
+		"trans"		"** Final Door Will Open in 30 seconds **"
 	}
 	"** Map Created By Marlborito |PT| **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Map Created By Marlborito |PT| **"
+		"trans"		"** Map Created By Marlborito |PT| **"
 	}
 }

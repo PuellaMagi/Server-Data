@@ -2,114 +2,114 @@
 {
 	"*** Map made by Lup4n` ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Map made by Lup4n` ***"
+		"trans"		"*** Map made by Lup4n` ***"
 	}
 	"*** Door open in 35 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Door open in 35 seconds ***"
+		"trans"		"*** Door open in 35 seconds ***"
 	}
 	"*** Defend this place until the door open ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Defend this place until the door open ***"
+		"trans"		"*** Defend this place until the door open ***"
 	}
 	"*** Door open in 15 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Door open in 15 seconds ***"
+		"trans"		"*** Door open in 15 seconds ***"
 	}
 	"*** Door open in 5 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Door open in 5 seconds ***"
+		"trans"		"*** Door open in 5 seconds ***"
 	}
 	"*** Door is open ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Door is open ***"
+		"trans"		"*** Door is open ***"
 	}
 	"*** Elevator is ready in 40 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Elevator is ready in 40 seconds ***"
+		"trans"		"*** Elevator is ready in 40 seconds ***"
 	}
 	"*** Elevator is ready in 20 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Elevator is ready in 20 seconds ***"
+		"trans"		"*** Elevator is ready in 20 seconds ***"
 	}
 	"*** Elevator is ready in 10 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Elevator is ready in 10 seconds ***"
+		"trans"		"*** Elevator is ready in 10 seconds ***"
 	}
 	"*** Elevator is going to leave area in 5 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Elevator is going to leave area in 5 seconds ***"
+		"trans"		"*** Elevator is going to leave area in 5 seconds ***"
 	}
 	"*** Zombies will be teleport in 7 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Zombies will be teleport in 7 seconds ***"
+		"trans"		"*** Zombies will be teleport in 7 seconds ***"
 	}
 	"*** Explosive ready ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Explosive ready ***"
+		"trans"		"*** Explosive ready ***"
 	}
 	"*** Defend the spot 20 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Defend the spot 20 seconds ***"
+		"trans"		"*** Defend the spot 20 seconds ***"
 	}
 	"*** C4 will explode in 10 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** C4 will explode in 10 seconds ***"
+		"trans"		"*** C4 will explode in 10 seconds ***"
 	}
 	"*** C4 will explode in 5 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** C4 will explode in 5 seconds ***"
+		"trans"		"*** C4 will explode in 5 seconds ***"
 	}
 	"*** Defend !!! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Defend !!! ***"
+		"trans"		"*** Defend !!! ***"
 	}
 	"*** Teleport will ready in 35 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Teleport will ready in 35 seconds ***"
+		"trans"		"*** Teleport will ready in 35 seconds ***"
 	}
 	"*** Teleport will ready in 10 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Teleport will ready in 10 seconds ***"
+		"trans"		"*** Teleport will ready in 10 seconds ***"
 	}
 	"*** Teleport is ready !!! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Teleport is ready !!! ***"
+		"trans"		"*** Teleport is ready !!! ***"
 	}
 	"*** Zombies will be teleport in 15 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Zombies will be teleport in 15 seconds ***"
+		"trans"		"*** Zombies will be teleport in 15 seconds ***"
 	}
 	"*** Nuke in 45 seconds ****"
 	{
-		"trans"		"[{darkred}Map{default}] *** Nuke in 45 seconds ****"
+		"trans"		"*** Nuke in 45 seconds ****"
 	}
 	"*** We will finally leave this cursed place ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** We will finally leave this cursed place ***"
+		"trans"		"*** We will finally leave this cursed place ***"
 	}
 	"*** Defend our lives ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Defend our lives ***"
+		"trans"		"*** Defend our lives ***"
 	}
 	"*** Helicopter take off in 10 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Helicopter take off in 10 seconds ***"
+		"trans"		"*** Helicopter take off in 10 seconds ***"
 	}
 	"*** Helicopter take off in 05 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Helicopter take off in 05 seconds ***"
+		"trans"		"*** Helicopter take off in 05 seconds ***"
 	}
 	"*** Nuke in 4 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Nuke in 4 seconds ***"
+		"trans"		"*** Nuke in 4 seconds ***"
 	}
 	"*** Nuke launched ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Nuke launched ***"
+		"trans"		"*** Nuke launched ***"
 	}
 	"*** Shield engaged ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Shield engaged ***"
+		"trans"		"*** Shield engaged ***"
 	}
 }

@@ -2,46 +2,46 @@
 {
 	"** Door opening in 15 sec **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Door opening in 15 sec **"
+		"trans"		"** Door opening in 15 sec **"
 	}
 	"** Door opening in 15 sec. **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Door opening in 15 sec. **"
+		"trans"		"** Door opening in 15 sec. **"
 	}
 	"** Second door opening in 10 seconds **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Second door opening in 10 seconds **"
+		"trans"		"** Second door opening in 10 seconds **"
 	}
 	"**Elevator leaving in 30 sec **"
 	{
-		"trans"		"[{darkred}Map{default}] **Elevator leaving in 30 sec **"
+		"trans"		"**Elevator leaving in 30 sec **"
 	}
 	"** Boat leaving in 20 sec **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Boat leaving in 20 sec **"
+		"trans"		"** Boat leaving in 20 sec **"
 	}
 	"** Door opening in 25 sec **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Door opening in 25 sec **"
+		"trans"		"** Door opening in 25 sec **"
 	}
 	"** Door opening in 20 sec **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Door opening in 20 sec **"
+		"trans"		"** Door opening in 20 sec **"
 	}
 	"** Final door opening in 50 sec!!! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Final door opening in 50 sec!!! **"
+		"trans"		"** Final door opening in 50 sec!!! **"
 	}
 	"** Be ready! Zombies in bunker are coming!!! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Be ready! Zombies in bunker are coming!!! **"
+		"trans"		"** Be ready! Zombies in bunker are coming!!! **"
 	}
 	"**USE THE BUTTON IN THE CONTROL PANNEL!**"
 	{
-		"trans"		"[{darkred}Map{default}] **USE THE BUTTON IN THE CONTROL PANNEL!**"
+		"trans"		"**USE THE BUTTON IN THE CONTROL PANNEL!**"
 	}
 	"** Bridge will be destroyed after 30 sec .**"
 	{
-		"trans"		"[{darkred}Map{default}] ** Bridge will be destroyed after 30 sec .**"
+		"trans"		"** Bridge will be destroyed after 30 sec .**"
 	}
 }

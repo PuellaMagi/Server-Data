@@ -2,214 +2,214 @@
 {
 	"****> Map created By GroSSoMineTTo <**** "
 	{
-		"trans"		"[{darkred}Map{default}] ****> Map created By GroSSoMineTTo <**** "
+		"trans"		"****> Map created By GroSSoMineTTo <**** "
 	}
 	"****> Special thanks to BloodyKiller,Icecream & Moltard <****"
 	{
-		"trans"		"[{darkred}Map{default}] ****> Special thanks to BloodyKiller,Icecream & Moltard <****"
+		"trans"		"****> Special thanks to BloodyKiller,Icecream & Moltard <****"
 	}
 	"****> Thanks to ZombieUnlimited community <**** "
 	{
-		"trans"		"[{darkred}Map{default}] ****> Thanks to ZombieUnlimited community <**** "
+		"trans"		"****> Thanks to ZombieUnlimited community <**** "
 	}
 	"****> Music: Inception (2010) Mombasa Suite (Soundtrack OST)  <**** "
 	{
-		"trans"		"[{darkred}Map{default}] ****> Music: Inception (2010) Mombasa Suite (Soundtrack OST)  <**** "
+		"trans"		"****> Music: Inception (2010) Mombasa Suite (Soundtrack OST)  <**** "
 	}
 	">>> HOLD FOR 30S ON THE TRUCK <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> HOLD FOR 30S ON THE TRUCK <<<"
+		"trans"		">>> HOLD FOR 30S ON THE TRUCK <<<"
 	}
 	">>> !!! WARNING !!! 5S LEFT <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> !!! WARNING !!! 5S LEFT <<<"
+		"trans"		">>> !!! WARNING !!! 5S LEFT <<<"
 	}
 	">>> RUN <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> RUN <<<"
+		"trans"		">>> RUN <<<"
 	}
 	">>> THE SECURITY DOOR WILL OPEN IN 20S <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> THE SECURITY DOOR WILL OPEN IN 20S <<<"
+		"trans"		">>> THE SECURITY DOOR WILL OPEN IN 20S <<<"
 	}
 	"****> Music: The Dark Knight Rises  <**** "
 	{
-		"trans"		"[{darkred}Map{default}] ****> Music: The Dark Knight Rises  <**** "
+		"trans"		"****> Music: The Dark Knight Rises  <**** "
 	}
 	">>> !!! WARNING !!! SECURITY DOOR WILL CLOSE IN 5S <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> !!! WARNING !!! SECURITY DOOR WILL CLOSE IN 5S <<<"
+		"trans"		">>> !!! WARNING !!! SECURITY DOOR WILL CLOSE IN 5S <<<"
 	}
 	">>> THE PRINCIPAL DOOR IS OPENING RIGHT NOW <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> THE PRINCIPAL DOOR IS OPENING RIGHT NOW <<<"
+		"trans"		">>> THE PRINCIPAL DOOR IS OPENING RIGHT NOW <<<"
 	}
 	">>> ESCAPE ON THE ROOF, GOODLUCK HUMANS <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> ESCAPE ON THE ROOF, GOODLUCK HUMANS <<<"
+		"trans"		">>> ESCAPE ON THE ROOF, GOODLUCK HUMANS <<<"
 	}
 	">>> THE SECURITY DOORS WILL BLOW UP IN 30S <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> THE SECURITY DOORS WILL BLOW UP IN 30S <<<"
+		"trans"		">>> THE SECURITY DOORS WILL BLOW UP IN 30S <<<"
 	}
 	">>> PRINCIPAL DOOR AT SPAWN JUST BLOW UP <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> PRINCIPAL DOOR AT SPAWN JUST BLOW UP <<<"
+		"trans"		">>> PRINCIPAL DOOR AT SPAWN JUST BLOW UP <<<"
 	}
 	">>>  USE THE FORK TO FORCE THE SECURITY DOOR <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>  USE THE FORK TO FORCE THE SECURITY DOOR <<<"
+		"trans"		">>>  USE THE FORK TO FORCE THE SECURITY DOOR <<<"
 	}
 	">>> !!! WARNING !!! 5S <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> !!! WARNING !!! 5S <<<"
+		"trans"		">>> !!! WARNING !!! 5S <<<"
 	}
 	"****> Music: Zack Hemsey  -  Mind Heist  <**** "
 	{
-		"trans"		"[{darkred}Map{default}] ****> Music: Zack Hemsey  -  Mind Heist  <**** "
+		"trans"		"****> Music: Zack Hemsey  -  Mind Heist  <**** "
 	}
 	"****> Music: OST Resident Evil_ Extinction  Charlie Clouser - Convoy (Remix)  <**** "
 	{
-		"trans"		"[{darkred}Map{default}] ****> Music: OST Resident Evil_ Extinction  Charlie Clouser - Convoy (Remix)  <**** "
+		"trans"		"****> Music: OST Resident Evil_ Extinction  Charlie Clouser - Convoy (Remix)  <**** "
 	}
 	">>> !!! SHOOT THE GLASS UPON THE WINDOW !!!  <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> !!! SHOOT THE GLASS UPON THE WINDOW !!!  <<<"
+		"trans"		">>> !!! SHOOT THE GLASS UPON THE WINDOW !!!  <<<"
 	}
 	">>> THE WARHOUSE DOOR WILL OPEN IN 20 SECONDS <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> THE WARHOUSE DOOR WILL OPEN IN 20 SECONDS <<<"
+		"trans"		">>> THE WARHOUSE DOOR WILL OPEN IN 20 SECONDS <<<"
 	}
 	">>> THE CONTAINER DOOR WILL OPEN IN 5 S, THE WALL UPON THE WARHOUSE DOOR WILL BREAK UP IN 5S <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> THE CONTAINER DOOR WILL OPEN IN 5 S, THE WALL UPON THE WARHOUSE DOOR WILL BREAK UP IN 5S <<<"
+		"trans"		">>> THE CONTAINER DOOR WILL OPEN IN 5 S, THE WALL UPON THE WARHOUSE DOOR WILL BREAK UP IN 5S <<<"
 	}
 	">>> THE WINDOW AND WALL WILL BLOW UP IN 30S <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> THE WINDOW AND WALL WILL BLOW UP IN 30S <<<"
+		"trans"		">>> THE WINDOW AND WALL WILL BLOW UP IN 30S <<<"
 	}
 	">>> THE COMMAND ROOM DOOR WILL RE-OPEN IN 5S <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> THE COMMAND ROOM DOOR WILL RE-OPEN IN 5S <<<"
+		"trans"		">>> THE COMMAND ROOM DOOR WILL RE-OPEN IN 5S <<<"
 	}
 	">>> THE MINES WILL BLOW UP IN 30S <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> THE MINES WILL BLOW UP IN 30S <<<"
+		"trans"		">>> THE MINES WILL BLOW UP IN 30S <<<"
 	}
 	">>> ZOMBIES HAVE TO WAIT 5S BEFORE THE NUCLEAR ROOM OPENS <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> ZOMBIES HAVE TO WAIT 5S BEFORE THE NUCLEAR ROOM OPENS <<<"
+		"trans"		">>> ZOMBIES HAVE TO WAIT 5S BEFORE THE NUCLEAR ROOM OPENS <<<"
 	}
 	">>> THE CONTROL TOWER DOOR WILL OPEN IN 30S <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> THE CONTROL TOWER DOOR WILL OPEN IN 30S <<<"
+		"trans"		">>> THE CONTROL TOWER DOOR WILL OPEN IN 30S <<<"
 	}
 	">>> RUN  <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> RUN  <<<"
+		"trans"		">>> RUN  <<<"
 	}
 	">>> THE DOOR TO ACCESS CONTROL TOWER WILL CLOSE IN 5S <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> THE DOOR TO ACCESS CONTROL TOWER WILL CLOSE IN 5S <<<"
+		"trans"		">>> THE DOOR TO ACCESS CONTROL TOWER WILL CLOSE IN 5S <<<"
 	}
 	">>> CONTROL TOWER DOOR IN CORRIDOR WILL OPEN IN 5S, THE WINDOW UPON THE DOOR WILL AUTOMATICALLY BREAK <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> CONTROL TOWER DOOR IN CORRIDOR WILL OPEN IN 5S, THE WINDOW UPON THE DOOR WILL AUTOMATICALLY BREAK <<<"
+		"trans"		">>> CONTROL TOWER DOOR IN CORRIDOR WILL OPEN IN 5S, THE WINDOW UPON THE DOOR WILL AUTOMATICALLY BREAK <<<"
 	}
 	">>> !!! WARNING !!! WOODEN WALL WILL BREAK IN 15S <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> !!! WARNING !!! WOODEN WALL WILL BREAK IN 15S <<<"
+		"trans"		">>> !!! WARNING !!! WOODEN WALL WILL BREAK IN 15S <<<"
 	}
 	">>> THE TYROLEAN DOOR WILL OPEN IN 30S <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> THE TYROLEAN DOOR WILL OPEN IN 30S <<<"
+		"trans"		">>> THE TYROLEAN DOOR WILL OPEN IN 30S <<<"
 	}
 	">>> THE TYROLEAN DOOR WILL RE-OPEN IN 5S <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> THE TYROLEAN DOOR WILL RE-OPEN IN 5S <<<"
+		"trans"		">>> THE TYROLEAN DOOR WILL RE-OPEN IN 5S <<<"
 	}
 	">>> WAIT 20S BEFORE THE FENCE BLOWS UP <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> WAIT 20S BEFORE THE FENCE BLOWS UP <<<"
+		"trans"		">>> WAIT 20S BEFORE THE FENCE BLOWS UP <<<"
 	}
 	">>> THE SECURITY DOOR WILL OPEN IN 5S <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> THE SECURITY DOOR WILL OPEN IN 5S <<<"
+		"trans"		">>> THE SECURITY DOOR WILL OPEN IN 5S <<<"
 	}
 	">>> THE MINE WILL BLOW UP IN 30S <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> THE MINE WILL BLOW UP IN 30S <<<"
+		"trans"		">>> THE MINE WILL BLOW UP IN 30S <<<"
 	}
 	">>> THE ELEVATOR WILL LEAVE IN 15S <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> THE ELEVATOR WILL LEAVE IN 15S <<<"
+		"trans"		">>> THE ELEVATOR WILL LEAVE IN 15S <<<"
 	}
 	">>> !!! WARNING !!! THE ELEVATOR WILL BLOW UP IN 5S <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> !!! WARNING !!! THE ELEVATOR WILL BLOW UP IN 5S <<<"
+		"trans"		">>> !!! WARNING !!! THE ELEVATOR WILL BLOW UP IN 5S <<<"
 	}
 	">>> HOLD THIS POSITION FOR 30S <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> HOLD THIS POSITION FOR 30S <<<"
+		"trans"		">>> HOLD THIS POSITION FOR 30S <<<"
 	}
 	">>> ZOMBIES HAVE TO WAIT 5S BEFORE THE DOOR RE-OPENS <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> ZOMBIES HAVE TO WAIT 5S BEFORE THE DOOR RE-OPENS <<<"
+		"trans"		">>> ZOMBIES HAVE TO WAIT 5S BEFORE THE DOOR RE-OPENS <<<"
 	}
 	">>> DOOR WILL OPEN IN 20S <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> DOOR WILL OPEN IN 20S <<<"
+		"trans"		">>> DOOR WILL OPEN IN 20S <<<"
 	}
 	">>> ZOMBIES TELEPORT ENABLE NOW <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> ZOMBIES TELEPORT ENABLE NOW <<<"
+		"trans"		">>> ZOMBIES TELEPORT ENABLE NOW <<<"
 	}
 	">>> TELEPORT DISABLE 5S<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> TELEPORT DISABLE 5S<<<"
+		"trans"		">>> TELEPORT DISABLE 5S<<<"
 	}
 	">>> HUMANS HAVE TO COVER FOR 50S, GOOD LUCK <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> HUMANS HAVE TO COVER FOR 50S, GOOD LUCK <<<"
+		"trans"		">>> HUMANS HAVE TO COVER FOR 50S, GOOD LUCK <<<"
 	}
 	">>> !!! WARNING !!! 5S <<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> !!! WARNING !!! 5S <<"
+		"trans"		">>> !!! WARNING !!! 5S <<"
 	}
 	">>> SHOOT WINDOW TO ACCESS TO THE FIRE EXTINGUISHER  <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> SHOOT WINDOW TO ACCESS TO THE FIRE EXTINGUISHER  <<<"
+		"trans"		">>> SHOOT WINDOW TO ACCESS TO THE FIRE EXTINGUISHER  <<<"
 	}
 	">>> THE FIRE WILL BE MASTERED IN 30S   <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> THE FIRE WILL BE MASTERED IN 30S   <<<"
+		"trans"		">>> THE FIRE WILL BE MASTERED IN 30S   <<<"
 	}
 	">>> !!! FIRE EXTINGUISHED IN 5S!!! <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> !!! FIRE EXTINGUISHED IN 5S!!! <<<"
+		"trans"		">>> !!! FIRE EXTINGUISHED IN 5S!!! <<<"
 	}
 	">>> WE'RE HACKING SECURITY DOOR, HOLD HERE FOR 30S <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> WE'RE HACKING SECURITY DOOR, HOLD HERE FOR 30S <<<"
+		"trans"		">>> WE'RE HACKING SECURITY DOOR, HOLD HERE FOR 30S <<<"
 	}
 	">>> SHOOT THE WOODEN WALL    <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> SHOOT THE WOODEN WALL    <<<"
+		"trans"		">>> SHOOT THE WOODEN WALL    <<<"
 	}
 	">>> SHOOT THE ELEVATOR CEILING TO ACCESS THE CONTROL ROOM <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> SHOOT THE ELEVATOR CEILING TO ACCESS THE CONTROL ROOM <<<"
+		"trans"		">>> SHOOT THE ELEVATOR CEILING TO ACCESS THE CONTROL ROOM <<<"
 	}
 	">>> THE FINAL DOOR WILL START OPENING IN 35S <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> THE FINAL DOOR WILL START OPENING IN 35S <<<"
+		"trans"		">>> THE FINAL DOOR WILL START OPENING IN 35S <<<"
 	}
 	"****> Music: Metal Gear Solid OST : Escape  <**** "
 	{
-		"trans"		"[{darkred}Map{default}] ****> Music: Metal Gear Solid OST : Escape  <**** "
+		"trans"		"****> Music: Metal Gear Solid OST : Escape  <**** "
 	}
 	">>>!!! WARNING !!! 5S <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>!!! WARNING !!! 5S <<<"
+		"trans"		">>>!!! WARNING !!! 5S <<<"
 	}
 }

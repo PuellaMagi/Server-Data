@@ -10,199 +10,199 @@
 	}
 	"***The boat must reach the walls in order to continue***"
 	{
-		"trans"		"[{darkred}Map{default}]  请坚守到游艇撞破墙壁"
+		"trans"		"请坚守到游艇撞破墙壁"
 	}
 	"__The boats hatch can only be opened from this side__"
 	{
-		"trans"		"[{darkred}Map{default}]  天窗只能在游艇内打开"
+		"trans"		"天窗只能在游艇内打开"
 	}
 	"***Main Boat has left***"
 	{
-		"trans"		"[{darkred}Map{default}]  游艇已经驶离"
+		"trans"		"游艇已经驶离"
 	}
 	"***Wall has collapsed***"
 	{
-		"trans"		"[{darkred}Map{default}]  前路畅通,撤退"
+		"trans"		"前路畅通,撤退"
 	}
 	"***Zombies are blocked for 7 seconds***"
 	{
-		"trans"		"[{darkred}Map{default}]  僵尸将被空气墙阻挡7秒"
+		"trans"		"僵尸将被空气墙阻挡7秒"
 	}
 	"***Main Lift is leaving in 15 seconds***"
 	{
-		"trans"		"[{darkred}Map{default}] 电梯15秒后离开"
+		"trans"		"电梯15秒后离开"
 	}
 	"***Main Lift has left***"
 	{
-		"trans"		"[{darkred}Map{default}] 电梯已离开"
+		"trans"		"电梯已离开"
 	}
 	"***Raft leaving in 5 seconds***"
 	{
-		"trans"		"[{darkred}Map{default}] 木筏5秒后离开"
+		"trans"		"木筏5秒后离开"
 	}
 	"***Small boat 1 leaving in 5 seconds***"
 	{
-		"trans"		"[{darkred}Map{default}] 1号快艇5秒后离开"
+		"trans"		"1号快艇5秒后离开"
 	}
 	"***Small boat 2 leaving in 5 seconds***"
 	{
-		"trans"		"[{darkred}Map{default}] 2号快艇5秒后离开"
+		"trans"		"2号快艇5秒后离开"
 	}
 	"***Helicopter is leaving in 5 seconds***"
 	{
-		"trans"		"[{darkred}Map{default}] 直升机5秒后起飞 [建议只有一人上机]"
+		"trans"		"直升机5秒后起飞 [建议只有一人上机]"
 	}
 	"***Shoot at the tree or we will crash!***"
 	{
-		"trans"		"[{darkred}Map{default}]  直升机上的人快开枪打碎树枝!"
+		"trans"		"直升机上的人快开枪打碎树枝!"
 	}
 	"***Boat is almost here begin to FALL BACK***"
 	{
-		"trans"		"[{darkred}Map{default}]  准备撤退"
+		"trans"		"准备撤退"
 	}
 	"***Water after waterfall is very hazardous Instant-death***"
 	{
-		"trans"		"[{darkred}Map{default}]  墙后面的水体一碰即死"
+		"trans"		"墙后面的水体一碰即死"
 	}
 	"*** Oh god, get out. GET OUT OF THE BOAT NOW!"
 	{
-		"trans"		"[{darkred}Map{default}]  游艇里的人快出来!要粗事了!"
+		"trans"		"游艇里的人快出来!要粗事了!"
 	}
 	"***Second wall has collapsed***"
 	{
-		"trans"		"[{darkred}Map{default}]  前路障碍已清除"
+		"trans"		"前路障碍已清除"
 	}
 	"***Zombies are held for 10 seconds***"
 	{
-		"trans"		"[{darkred}Map{default}]  僵尸将被空气墙阻挡10秒"
+		"trans"		"僵尸将被空气墙阻挡10秒"
 	}
 	"***Washtub 3 will leave in 5 seconds***"
 	{
-		"trans"		"[{darkred}Map{default}]  3号木桶5秒后离开"
+		"trans"		"3号木桶5秒后离开"
 	}
 	"***Washtub 1 will leave in 5 seconds***"
 	{
-		"trans"		"[{darkred}Map{default}]  1号木桶5秒后离开"
+		"trans"		"1号木桶5秒后离开"
 	}
 	"***Washtub 4 will leave in 5 seconds***"
 	{
-		"trans"		"[{darkred}Map{default}]  4号木桶5秒后离开"
+		"trans"		"4号木桶5秒后离开"
 	}
 	"***Washtub 5 will leave in 5 seconds***"
 	{
-		"trans"		"[{darkred}Map{default}]  5号木桶5秒后离开"
+		"trans"		"5号木桶5秒后离开"
 	}
 	"***Washtub 2 will leave in 5 seconds***"
 	{
-		"trans"		"[{darkred}Map{default}]  2号木桶5秒后离开"
+		"trans"		"2号木桶5秒后离开"
 	}
 	"***Second Main Lift is leaving in 10 seconds***"
 	{
-		"trans"		"[{darkred}Map{default}]  电梯10秒后离开"
+		"trans"		"电梯10秒后离开"
 	}
 	"***Second Main Lift has left***"
 	{
-		"trans"		"[{darkred}Map{default}] 电梯已离开"
+		"trans"		"电梯已离开"
 	}
 	"***Teleport to other island available in 20 seconds***"
 	{
-		"trans"		"[{darkred}Map{default}]  僵尸传送点20秒后启动"
+		"trans"		"僵尸传送点20秒后启动"
 	}
 	"***Teleport to other island is now available***"
 	{
-		"trans"		"[{darkred}Map{default}]  僵尸传送点已启动"
+		"trans"		"僵尸传送点已启动"
 	}
 	"***Hold here for 35 seconds while the boats refuel***"
 	{
 		"countdown"		"35"
-		"trans"		"[{darkred}Map{default}]  坚守35秒"
+		"trans"		"坚守35秒"
 	}
 	"***Teleport past the course is now enabled***"
 	{
-		"trans"		"[{darkred}Map{default}]  僵尸已向前传送"
+		"trans"		"僵尸已向前传送"
 	}
 	"***Zombies are blocked for 10 seconds. get on the boats!***"
 	{
-		"trans"		"[{darkred}Map{default}]  僵尸将被空气墙阻挡10秒,快上船!"
+		"trans"		"僵尸将被空气墙阻挡10秒,快上船!"
 	}
 	"***Speed Boats are leaving in 8 seconds***"
 	{
-		"trans"		"[{darkred}Map{default}]  快艇8秒后离开"
+		"trans"		"快艇8秒后离开"
 	}
 	"***Speed Boats have left***"
 	{
-		"trans"		"[{darkred}Map{default}]  快艇已离开"
+		"trans"		"快艇已离开"
 	}
 	"***Hold here for 45 seconds***"
 	{
 		"countdown"		"45"
-		"trans"		"[{darkred}Map{default}]  坚守45秒"
+		"trans"		"坚守45秒"
 	}
 	"***Drawbridge is down***"
 	{
-		"trans"		"[{darkred}Map{default}]  大门尚未开启"
+		"trans"		"大门尚未开启"
 	}
 	"***Wait for the exterior doors to open, 20 seconds***"
 	{
 		"countdown"		"20"
-		"trans"		"[{darkred}Map{default}]  堡垒外层开启于20秒后"
+		"trans"		"堡垒外层开启于20秒后"
 	}
 	"***Exterior doors are opening, 8 seconds till bunker door opens***"
 	{
 		"countdown"		"8"
-		"trans"		"[{darkred}Map{default}]  堡垒门开启于8秒后"
+		"trans"		"堡垒门开启于8秒后"
 	}
 	"***Bunker doors are opening***"
 	{
-		"trans"		"[{darkred}Map{default}]  堡垒门已开启"
+		"trans"		"堡垒门已开启"
 	}
 	"***Nuclear bomb on it's way doors closing in 20 seconds***"
 	{
 		"countdown"		"20"
-		"trans"		"[{darkred}Map{default}]  核爆20秒后触发"
+		"trans"		"核爆20秒后触发"
 	}
 	"***Nuclear bomb has been sent***"
 	{
-		"trans"		"[{darkred}Map{default}]  核爆即将触发"
+		"trans"		"核爆即将触发"
 	}
 	"***Detonation in 3***"
 	{
-		"trans"		"[{darkred}Map{default}]  剩余3秒"
+		"trans"		"剩余3秒"
 	}
 	"***2***"
 	{
-		"trans"		"[{darkred}Map{default}]  剩余2秒"
+		"trans"		"剩余2秒"
 	}
 	"***1***"
 	{
-		"trans"		"[{darkred}Map{default}]  剩余1秒"
+		"trans"		"剩余1秒"
 	}
 	"=--[Get off the Helicopter and help defend]--="
 	{
-		"trans"		"[{darkred}Map{default}]  飞机里的菜B们快下来守僵尸!"
+		"trans"		"飞机里的菜B们快下来守僵尸!"
 	}
 	"--------Get out and fight you cowards!--------"
 	{
-		"trans"		"[{darkred}Map{default}]  你们这群怂B给我出来!"
+		"trans"		"你们这群怂B给我出来!"
 	}
 	"***Shoot the rock sticking out of the wall!***"
 	{
-		"trans"		"[{darkred}Map{default}]  直升机上的人开枪打对面的墙!"
+		"trans"		"直升机上的人开枪打对面的墙!"
 	}
 	"***Shoot a path through the wall or we will crash!***"
 	{
-		"trans"		"[{darkred}Map{default}]  不打爆这堵墙飞机上的就得跳机了!"
+		"trans"		"不打爆这堵墙飞机上的就得跳机了!"
 	}
 	"***Lift is leaving***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Lift is leaving***"
+		"trans"		"***Lift is leaving***"
 	}
 	"[Melon]"
 	{
-		"trans"		"[{darkred}Map{default}] [Melon]"
+		"trans"		"[Melon]"
 	}
 	"--------Laser initiating (Crouch!)--------"
 	{
-		"trans"		"[{darkred}Map{default}] --------Laser initiating (Crouch!)--------"
+		"trans"		"--------Laser initiating (Crouch!)--------"
 	}
 }

@@ -10,113 +10,113 @@
 	}
 	"**The ring has been picked!**"
 	{
-		"trans"		"[{darkred}Map{default}]  魔戒已被拾起"
+		"trans"		"魔戒已被拾起"
 	}
 	"**Saruman staff has been picked!**"
 	{
-		"trans"		"[{darkred}Map{default}]  萨鲁曼法杖已被拾起 [减速范围内僵尸]"
+		"trans"		"萨鲁曼法杖已被拾起 [减速范围内僵尸]"
 	}
 	"**Balrog coming to SPAWN CAVE AND LADDER ZONE in 15s**"
 	{
-		"trans"		"[{darkred}Map{default}]  15秒后处死出生点到梯子范围的玩家"
+		"trans"		"15秒后处死出生点到梯子范围的玩家"
 	}
 	"**Humans have reached Balin's tomb! Resist 55 s**"
 	{
 		"countdown" "55"
-		"trans"		"[{darkred}Map{default}]  人类已到达巴林陵!坚守55秒"
+		"trans"		"人类已到达巴林陵!坚守55秒"
 	}
 	"**Balin's door closing in 10 s**"
 	{
-		"trans"		"[{darkred}Map{default}]  大门关闭于10秒后"
+		"trans"		"大门关闭于10秒后"
 	}
 	"**Resist 30 s**"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守30秒"
+		"trans"		"坚守30秒"
 	}
 	"**Resist 15 s**"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守15秒"
+		"trans"		"坚守15秒"
 	}
 	"**Go to the Khazad-Dum bridge!**"
 	{
-		"trans"		"[{darkred}Map{default}]  撤退!"
+		"trans"		"撤退!"
 	}
 	"**Stay in the circle! Zombies can't go in!**"
 	{
-		"trans"		"[{darkred}Map{default}] 待在光环内!僵尸无法靠近"
+		"trans"		"待在光环内!僵尸无法靠近"
 	}
 	"** Protection ring will close in 15 s **"
 	{
 		"countdown" "15"
-		"trans"		"[{darkred}Map{default}]  光环15秒后失效"
+		"trans"		"光环15秒后失效"
 	}
 	"** ... **"
 	{
-		"trans"		"[{darkred}Map{default}] ** ... **"
+		"trans"		"** ... **"
 	}
 	"** Moria is unstable! Run towards the stairs in  **"
 	{
-		"trans"		"[{darkred}Map{default}]  离撤退还有"
+		"trans"		"离撤退还有"
 	}
 	"**5**"
 	{
-		"trans"		"[{darkred}Map{default}] **5**"
+		"trans"		"**5**"
 	}
 	"**4**"
 	{
-		"trans"		"[{darkred}Map{default}] **4**"
+		"trans"		"**4**"
 	}
 	"**3**"
 	{
-		"trans"		"[{darkred}Map{default}] **3**"
+		"trans"		"**3**"
 	}
 	"**2**"
 	{
-		"trans"		"[{darkred}Map{default}] **2**"
+		"trans"		"**2**"
 	}
 	"**1**"
 	{
-		"trans"		"[{darkred}Map{default}] **1**"
+		"trans"		"**1**"
 	}
 	"**Go!**"
 	{
-		"trans"		"[{darkred}Map{default}]  撤退!"
+		"trans"		"撤退!"
 	}
 	"**Balrog coming to BALIN AND COLUMN ZONE in 15s**"
 	{
-		"trans"		"[{darkred}Map{default}]  15秒后处死后面的玩家"
+		"trans"		"15秒后处死后面的玩家"
 	}
 	"**Congratulations! The ring has reached Khazad-Dum! The wooden bridge has been destroyed**"
 	{
-		"trans"		"[{darkred}Map{default}]  干的好,戒指到达了目标!你们只需要守中间一条路!"
+		"trans"		"干的好,戒指到达了目标!你们只需要守中间一条路!"
 	}
 	"**(Zombies) The door to Khazad-Dum bridge is now open**"
 	{
-		"trans"		"[{darkred}Map{default}]  僵尸传送点已开启"
+		"trans"		"僵尸传送点已开启"
 	}
 	"**Balrog coming to SUPERIOR STAIRS ZONE in 15s**"
 	{
-		"trans"		"[{darkred}Map{default}]  15秒后处死落后的玩家"
+		"trans"		"15秒后处死落后的玩家"
 	}
 	"**Gandalf in the middle**"
 	{
-		"trans"		"[{darkred}Map{default}]  甘道夫法杖已到达中心"
+		"trans"		"甘道夫法杖已到达中心"
 	}
 	"**Protect Gandalf during 35s! He must break the bridge! **"
 	{
 		"countdown" "35"
-		"trans"		"[{darkred}Map{default}]  保护持有甘道夫法杖的玩家35秒!"
+		"trans"		"保护持有甘道夫法杖的玩家35秒!"
 	}
 	"**Gandalf staff has been picked!**"
 	{
-		"trans"		"[{darkred}Map{default}]  甘道夫法杖已被拾起 [通关必备道具,持有者关卡后端需自我牺牲]"
+		"trans"		"甘道夫法杖已被拾起 [通关必备道具,持有者关卡后端需自我牺牲]"
 	}
 	"**Gandalf is dead!**"
 	{
-		"trans"		"[{darkred}Map{default}]  持有甘道夫法杖的玩家已阵亡!"
+		"trans"		"持有甘道夫法杖的玩家已阵亡!"
 	}
 	"**Zombies have been alerted!**"
 	{
-		"trans"		"[{darkred}Map{default}]  僵尸已被惊动"
+		"trans"		"僵尸已被惊动"
 	}
 }

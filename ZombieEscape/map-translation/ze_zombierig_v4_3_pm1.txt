@@ -2,94 +2,94 @@
 {
 	"*** LEVEL: EASY ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** LEVEL: EASY ***"
+		"trans"		"*** LEVEL: EASY ***"
 	}
 	"<<MAP BY TaskuVaras>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<MAP BY TaskuVaras>>"
+		"trans"		"<<MAP BY TaskuVaras>>"
 	}
 	"INFO: map too dark?"
 	{
-		"trans"		"[{darkred}Map{default}] INFO: map too dark?"
+		"trans"		"INFO: map too dark?"
 	}
 	"INFO: type MAT_COLORCORRECTION 0 or 1 to console"
 	{
-		"trans"		"[{darkred}Map{default}] INFO: type MAT_COLORCORRECTION 0 or 1 to console"
+		"trans"		"INFO: type MAT_COLORCORRECTION 0 or 1 to console"
 	}
 	"***defend for 30 seconds***"
 	{
-		"trans"		"[{darkred}Map{default}] ***defend for 30 seconds***"
+		"trans"		"***defend for 30 seconds***"
 	}
 	"***5 seconds to go***"
 	{
-		"trans"		"[{darkred}Map{default}] ***5 seconds to go***"
+		"trans"		"***5 seconds to go***"
 	}
 	"***GO! GO! GO!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***GO! GO! GO!***"
+		"trans"		"***GO! GO! GO!***"
 	}
 	"***teleporting everyone to first floor***"
 	{
-		"trans"		"[{darkred}Map{default}] ***teleporting everyone to first floor***"
+		"trans"		"***teleporting everyone to first floor***"
 	}
 	"***teleporting everyone to top floor***"
 	{
-		"trans"		"[{darkred}Map{default}] ***teleporting everyone to top floor***"
+		"trans"		"***teleporting everyone to top floor***"
 	}
 	"***GO! Run to the helicopter***"
 	{
-		"trans"		"[{darkred}Map{default}] ***GO! Run to the helicopter***"
+		"trans"		"***GO! Run to the helicopter***"
 	}
 	"***chopper leaving in 40 seconds***"
 	{
-		"trans"		"[{darkred}Map{default}] ***chopper leaving in 40 seconds***"
+		"trans"		"***chopper leaving in 40 seconds***"
 	}
 	"***GET TO THE CHOPPER!!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***GET TO THE CHOPPER!!***"
+		"trans"		"***GET TO THE CHOPPER!!***"
 	}
 	"*** Level Completed ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** LEVEL COMPLETED ***"
+		"trans"		"*** LEVEL COMPLETED ***"
 	}
 	"*** LEVEL: HARD ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** LEVEL: HARD ***"
+		"trans"		"*** LEVEL: HARD ***"
 	}
 	"*** LEVEL: EXTREME! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** LEVEL: EXTREME! ***"
+		"trans"		"*** LEVEL: EXTREME! ***"
 	}
 	"*** CHOPPER LEAVING IN 45 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] *** CHOPPER LEAVING IN 45 SECONDS***"
+		"trans"		"*** CHOPPER LEAVING IN 45 SECONDS***"
 	}
 	"*** WHAT!?!... CHOPPER GOT DAMAGED***"
 	{
-		"trans"		"[{darkred}Map{default}] *** WHAT!?!... CHOPPER GOT DAMAGED***"
+		"trans"		"*** WHAT!?!... CHOPPER GOT DAMAGED***"
 	}
 	"***FIND NEW WAY TO ESCAPE THE OILRIG***"
 	{
-		"trans"		"[{darkred}Map{default}] ***FIND NEW WAY TO ESCAPE THE OILRIG***"
+		"trans"		"***FIND NEW WAY TO ESCAPE THE OILRIG***"
 	}
 	"*** boat leaving in 30 seconds***"
 	{
-		"trans"		"[{darkred}Map{default}] *** boat leaving in 30 seconds***"
+		"trans"		"*** boat leaving in 30 seconds***"
 	}
 	"*** GET TO THE BOAT***"
 	{
-		"trans"		"[{darkred}Map{default}] *** GET TO THE BOAT***"
+		"trans"		"*** GET TO THE BOAT***"
 	}
 	"*** LEVEL: ZM ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** LEVEL: ZM ***"
+		"trans"		"*** LEVEL: ZM ***"
 	}
 	"*** SURVIVE FOR 3 MIN TO START ZE AGAIN ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** SURVIVE FOR 3 MIN TO START ZE AGAIN ***"
+		"trans"		"*** SURVIVE FOR 3 MIN TO START ZE AGAIN ***"
 	}
 	": nuke in 10 seconds"
 	{
-		"trans"		"[{darkred}Map{default}] : nuke in 10 seconds"
+		"trans"		": nuke in 10 seconds"
 	}
 }

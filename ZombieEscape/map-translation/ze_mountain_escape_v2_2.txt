@@ -2,30 +2,30 @@
 {
 	"***Nuke launched***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Nuke launched***"
+		"trans"		"***Nuke launched***"
 	}
 	"***10***"
 	{
-		"trans"		"[{darkred}Map{default}] ***10***"
+		"trans"		"***10***"
 	}
 	"***5***"
 	{
-		"trans"		"[{darkred}Map{default}] ***5***"
+		"trans"		"***5***"
 	}
 	"***3***"
 	{
-		"trans"		"[{darkred}Map{default}] ***3***"
+		"trans"		"***3***"
 	}
 	"***1***"
 	{
-		"trans"		"[{darkred}Map{default}] ***1***"
+		"trans"		"***1***"
 	}
 	"***Nuke impact***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Nuke impact***"
+		"trans"		"***Nuke impact***"
 	}
 	">>CS:GO Fix by [ESCAPE] Loving You<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>CS:GO Fix by [ESCAPE] Loving You<<"
+		"trans"		">>CS:GO Fix by [ESCAPE] Loving You<<"
 	}
 }

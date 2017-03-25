@@ -2,18 +2,18 @@
 {
 	"** We have reached the ranch at the edge of the peninsula. **"
 	{
-		"trans"		"[{darkred}Map{default}] ** We have reached the ranch at the edge of the peninsula. **"
+		"trans"		"** We have reached the ranch at the edge of the peninsula. **"
 	}
 	"** Our reports show that some sort of facility is hidden within it... **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Our reports show that some sort of facility is hidden within it... **"
+		"trans"		"** Our reports show that some sort of facility is hidden within it... **"
 	}
 	"** MISSION: FIND A WAY IN! NEUTRALIZE ANY OPPOSING FORCE! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** MISSION: FIND A WAY IN! NEUTRALIZE ANY OPPOSING FORCE! **"
+		"trans"		"** MISSION: FIND A WAY IN! NEUTRALIZE ANY OPPOSING FORCE! **"
 	}
 	"** Wait until we meet up! Hold the zombies off! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Wait until we meet up! Hold the zombies off! **"
+		"trans"		"** Wait until we meet up! Hold the zombies off! **"
 	}
 }

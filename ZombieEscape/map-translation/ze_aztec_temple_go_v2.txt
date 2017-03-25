@@ -6,66 +6,66 @@
 	}
 	">>Door opening in 25 seconds<<"
 	{
-		"trans"		"[{darkred}Map{default}]  门开于25秒后"
+		"trans"		"门开于25秒后"
 	}
 	">>Door will open in 30 sec<< "
 	{
-		"trans"		"[{darkred}Map{default}]  门开于30秒后"
+		"trans"		"门开于30秒后"
 	}
 	">>Door will open in 25 sec<< "
 	{
-		"trans"		"[{darkred}Map{default}]  门开于25秒后"
+		"trans"		"门开于25秒后"
 	}
 	">>Tram leaves in 25 sec<< "
 	{
-		"trans"		"[{darkred}Map{default}]  索道离开于25秒后"
+		"trans"		"索道离开于25秒后"
 	}
 	">>Tram leaves in 5 sec<< "
 	{
-		"trans"		"[{darkred}Map{default}]  索道离开于5秒后"
+		"trans"		"索道离开于5秒后"
 	}
 	">>Door opens in 20 sec<< "
 	{
-		"trans"		"[{darkred}Map{default}]  门开于20秒后"
+		"trans"		"门开于20秒后"
 	}
 	">>Door opens in 5 sec<< "
 	{
-		"trans"		"[{darkred}Map{default}]  门开于5秒后"
+		"trans"		"门开于5秒后"
 	}
 	">>Door opens in 30 sec<< "
 	{
-		"trans"		"[{darkred}Map{default}]  门开于30秒后"
+		"trans"		"门开于30秒后"
 	}
 	">>Door opens in 25 seconds<< "
 	{
-		"trans"		"[{darkred}Map{default}]  门开于25秒后"
+		"trans"		"门开于25秒后"
 	}
 	">>Door opens in 10 seconds<< "
 	{
-		"trans"		"[{darkred}Map{default}]  门开于10秒后"
+		"trans"		"门开于10秒后"
 	}
 	">>Door opens in 5 seconds<< "
 	{
-		"trans"		"[{darkred}Map{default}]  门开于5秒后"
+		"trans"		"门开于5秒后"
 	}
 	">>Run for the ancient vault!<< "
 	{
-		"trans"		"[{darkred}Map{default}]  杀进里面的仓库!"
+		"trans"		"杀进里面的仓库!"
 	}
 	">>Final door opens in 30 seconds<< "
 	{
-		"trans"		"[{darkred}Map{default}]  最后一道门开启于30秒后"
+		"trans"		"最后一道门开启于30秒后"
 	}
 	">>Resist until it closes<< "
 	{
-		"trans"		"[{darkred}Map{default}]  坚守到大门关闭"
+		"trans"		"坚守到大门关闭"
 	}
 	">>First door opening in 20 seconds<<"
 	{
-		"trans"		"[{darkred}Map{default}]  第一道门开启于20秒后"
+		"trans"		"第一道门开启于20秒后"
 	}
 	">>Door will open in 40 sec<< "
 	{
-		"trans"		"[{darkred}Map{default}]  门开于40秒后"
+		"trans"		"门开于40秒后"
 	}
 }

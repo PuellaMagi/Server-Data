@@ -2,130 +2,130 @@
 {
 	"***Bienvenido al camino de la serpiente***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Bienvenido al camino de la serpiente***"
+		"trans"		"***Bienvenido al camino de la serpiente***"
 	}
 	"***Mapa creado por: Bremm y Hardreton***Gracias por jugar***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Mapa creado por: Bremm y Hardreton***Gracias por jugar***"
+		"trans"		"***Mapa creado por: Bremm y Hardreton***Gracias por jugar***"
 	}
 	"***PORT TO CS GO BY EPIC |CABO|***"
 	{
-		"trans"		"[{darkred}Map{default}] ***PORT TO CS GO BY EPIC |CABO|***"
+		"trans"		"***PORT TO CS GO BY EPIC |CABO|***"
 	}
 	"***Comunidad de mapeadores visita la web www.Mapeadores.com"
 	{
-		"trans"		"[{darkred}Map{default}] ***Comunidad de mapeadores visita la web www.Mapeadores.com"
+		"trans"		"***Comunidad de mapeadores visita la web www.Mapeadores.com"
 	}
 	"***El camion sale en 15 segundos***"
 	{
-		"trans"		"[{darkred}Map{default}] ***El camion sale en 15 segundos***"
+		"trans"		"***El camion sale en 15 segundos***"
 	}
 	"***La verja se rompera en 10 segundos***"
 	{
-		"trans"		"[{darkred}Map{default}] ***La verja se rompera en 10 segundos***"
+		"trans"		"***La verja se rompera en 10 segundos***"
 	}
 	"***LA PUERTA SE ABRIRA EN 45 SEGUNDOS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***LA PUERTA SE ABRIRA EN 45 SEGUNDOS***"
+		"trans"		"***LA PUERTA SE ABRIRA EN 45 SEGUNDOS***"
 	}
 	"***20 SEGUNDOS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***20 SEGUNDOS***"
+		"trans"		"***20 SEGUNDOS***"
 	}
 	"***5 SEGUNDOS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***5 SEGUNDOS***"
+		"trans"		"***5 SEGUNDOS***"
 	}
 	"***RUN***"
 	{
-		"trans"		"[{darkred}Map{default}] ***RUN***"
+		"trans"		"***RUN***"
 	}
 	"***ESCAPA DE LA SERPIENTE***"
 	{
-		"trans"		"[{darkred}Map{default}] ***ESCAPA DE LA SERPIENTE***"
+		"trans"		"***ESCAPA DE LA SERPIENTE***"
 	}
 	"***HOLD 10 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***HOLD 10 SECONDS***"
+		"trans"		"***HOLD 10 SECONDS***"
 	}
 	"***10 SEGUNDOS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***10 SEGUNDOS***"
+		"trans"		"***10 SEGUNDOS***"
 	}
 	"***La serpiente ataca de nuevo !!!!CORRE!!!!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***La serpiente ataca de nuevo !!!!CORRE!!!!***"
+		"trans"		"***La serpiente ataca de nuevo !!!!CORRE!!!!***"
 	}
 	"***La puerta Final se cierra en 45 segundos***"
 	{
-		"trans"		"[{darkred}Map{default}] ***La puerta Final se cierra en 45 segundos***"
+		"trans"		"***La puerta Final se cierra en 45 segundos***"
 	}
 	"***Quedan 20 segundos ya casi esta***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Quedan 20 segundos ya casi esta***"
+		"trans"		"***Quedan 20 segundos ya casi esta***"
 	}
 	"***Quedan 5 segundos preparate a escapar***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Quedan 5 segundos preparate a escapar***"
+		"trans"		"***Quedan 5 segundos preparate a escapar***"
 	}
 	"***LA PUERTA SE ABRIRA EN 10 SEGUNDOS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***LA PUERTA SE ABRIRA EN 10 SEGUNDOS***"
+		"trans"		"***LA PUERTA SE ABRIRA EN 10 SEGUNDOS***"
 	}
 	"***La puerta se cierra y el cristal se ha roto es hora de escapar***"
 	{
-		"trans"		"[{darkred}Map{default}] ***La puerta se cierra y el cristal se ha roto es hora de escapar***"
+		"trans"		"***La puerta se cierra y el cristal se ha roto es hora de escapar***"
 	}
 	"***LA NAVE DESPEGARA EN 25 SEGUNDOS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***LA NAVE DESPEGARA EN 25 SEGUNDOS***"
+		"trans"		"***LA NAVE DESPEGARA EN 25 SEGUNDOS***"
 	}
 	"*** USA LA RADIO PARA LANZAR EL MISIL***"
 	{
-		"trans"		"[{darkred}Map{default}] *** USA LA RADIO PARA LANZAR EL MISIL***"
+		"trans"		"*** USA LA RADIO PARA LANZAR EL MISIL***"
 	}
 	"***Bomba nuclear en 15 segundos***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Bomba nuclear en 15 segundos***"
+		"trans"		"***Bomba nuclear en 15 segundos***"
 	}
 	"***5***"
 	{
-		"trans"		"[{darkred}Map{default}] ***5***"
+		"trans"		"***5***"
 	}
 	"***4***"
 	{
-		"trans"		"[{darkred}Map{default}] ***4***"
+		"trans"		"***4***"
 	}
 	"***3***"
 	{
-		"trans"		"[{darkred}Map{default}] ***3***"
+		"trans"		"***3***"
 	}
 	"***2***"
 	{
-		"trans"		"[{darkred}Map{default}] ***2***"
+		"trans"		"***2***"
 	}
 	"***1***"
 	{
-		"trans"		"[{darkred}Map{default}] ***1***"
+		"trans"		"***1***"
 	}
 	"***Map By Bremm and Hardreton***Gracias por jugar***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Map By Bremm and Hardreton***Gracias por jugar***"
+		"trans"		"***Map By Bremm and Hardreton***Gracias por jugar***"
 	}
 	"***LA PUERTA SE ABRIRA EN 20 SEGUNDOS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***LA PUERTA SE ABRIRA EN 20 SEGUNDOS***"
+		"trans"		"***LA PUERTA SE ABRIRA EN 20 SEGUNDOS***"
 	}
 	"***CORRE!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***CORRE!***"
+		"trans"		"***CORRE!***"
 	}
 	"*** EL BARCO 1 SE MOVERA EN 10 SEGUNDOS***"
 	{
-		"trans"		"[{darkred}Map{default}] *** EL BARCO 1 SE MOVERA EN 10 SEGUNDOS***"
+		"trans"		"*** EL BARCO 1 SE MOVERA EN 10 SEGUNDOS***"
 	}
 	"***EL BARCO 1 SE MOVERA EN 5 SEGUNDOS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***EL BARCO 1 SE MOVERA EN 5 SEGUNDOS***"
+		"trans"		"***EL BARCO 1 SE MOVERA EN 5 SEGUNDOS***"
 	}
 }

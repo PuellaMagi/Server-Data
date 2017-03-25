@@ -2,374 +2,374 @@
 {
 	">> WARMUP ROUND <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> WARMUP ROUND <<"
+		"trans"		">> WARMUP ROUND <<"
 	}
 	"*** Map By P'a'ss and Kim ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Map By P'a'ss and Kim ***"
+		"trans"		"*** Map By P'a'ss and Kim ***"
 	}
 	">>> mat_colorcorrection 1 IN CONSOLE FOR BETTER VISUALS <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> mat_colorcorrection 1 IN CONSOLE FOR BETTER VISUALS <<<"
+		"trans"		">>> mat_colorcorrection 1 IN CONSOLE FOR BETTER VISUALS <<<"
 	}
 	">>> After winning a round you will get 100 points which equals with 1 level  <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> After winning a round you will get 100 points which equals with 1 level  <<<"
+		"trans"		">>> After winning a round you will get 100 points which equals with 1 level  <<<"
 	}
 	">>> Level 1 item requires 100 points Level 2 item requires 200 points and so on. <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> Level 1 item requires 100 points Level 2 item requires 200 points and so on. <<<"
+		"trans"		">>> Level 1 item requires 100 points Level 2 item requires 200 points and so on. <<<"
 	}
 	">>> When round starts you have small amount of time to pick an item before the zombies spawn <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> When round starts you have small amount of time to pick an item before the zombies spawn <<<"
+		"trans"		">>> When round starts you have small amount of time to pick an item before the zombies spawn <<<"
 	}
 	">>> AFTER PICKING UP AN ITEM YOU CAN USE THEIR ATTACKS WITH EITHER LEFT OR RIGHT MOUSE CLICK <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> AFTER PICKING UP AN ITEM YOU CAN USE THEIR ATTACKS WITH EITHER LEFT OR RIGHT MOUSE CLICK <<<"
+		"trans"		">>> AFTER PICKING UP AN ITEM YOU CAN USE THEIR ATTACKS WITH EITHER LEFT OR RIGHT MOUSE CLICK <<<"
 	}
 	">>> Shooting the Zombie items in the head will push them back! <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> Shooting the Zombie items in the head will push them back! <<<"
+		"trans"		">>> Shooting the Zombie items in the head will push them back! <<<"
 	}
 	">>> ONLY 1 OF EACH HUMAN ITEMS CAN BE TAKEN AT ONCE <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> ONLY 1 OF EACH HUMAN ITEMS CAN BE TAKEN AT ONCE <<<"
+		"trans"		">>> ONLY 1 OF EACH HUMAN ITEMS CAN BE TAKEN AT ONCE <<<"
 	}
 	">> Stage 1 Helgen <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Stage 1 Helgen <<"
+		"trans"		">> Stage 1 Helgen <<"
 	}
 	">> City gate closes in 50 seconds <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> City gate closes in 50 seconds <<"
+		"trans"		">> City gate closes in 50 seconds <<"
 	}
 	">> Run for the helgen keep NOW! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Run for the helgen keep NOW! <<"
+		"trans"		">> Run for the helgen keep NOW! <<"
 	}
 	">> The dragon is fleeing! Run to the Helgen keep! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> The dragon is fleeing! Run to the Helgen keep! <<"
+		"trans"		">> The dragon is fleeing! Run to the Helgen keep! <<"
 	}
 	">> Defend until someone gets the key from the other room! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Defend until someone gets the key from the other room! <<"
+		"trans"		">> Defend until someone gets the key from the other room! <<"
 	}
 	"*** We got the key! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** We got the key! ***"
+		"trans"		"*** We got the key! ***"
 	}
 	"*** Door should open soon! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Door should open soon! ***"
+		"trans"		"*** Door should open soon! ***"
 	}
 	"*** Door opens in 25 seconds! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Door opens in 25 seconds! ***"
+		"trans"		"*** Door opens in 25 seconds! ***"
 	}
 	"*** FALL BACK ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** FALL BACK ***"
+		"trans"		"*** FALL BACK ***"
 	}
 	"*** Door Opens in 30 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Door opens in 30 seconds ***"
+		"trans"		"*** Door opens in 30 seconds ***"
 	}
 	">> Defend the bridge don't let the zombies on the other side! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Defend the bridge don't let the zombies on the other side! <<"
+		"trans"		">> Defend the bridge don't let the zombies on the other side! <<"
 	}
 	">> Fall back Now!! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Fall back Now!! <<"
+		"trans"		">> Fall back Now!! <<"
 	}
 	"*** Stage Completed ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Stage Completed ***"
+		"trans"		"*** Stage Completed ***"
 	}
 	">> Stage 2 Whiterun <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Stage 2 Whiterun <<"
+		"trans"		">> Stage 2 Whiterun <<"
 	}
 	">> City door opens in 35 seconds! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> City door opens in 35 seconds! <<"
+		"trans"		">> City door opens in 35 seconds! <<"
 	}
 	">> We need to inform the Jarl of Whiterun that the dragons are attacking! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> We need to inform the Jarl of Whiterun that the dragons are attacking! <<"
+		"trans"		">> We need to inform the Jarl of Whiterun that the dragons are attacking! <<"
 	}
 	">> We need to hold the Plains District for 40 seconds HOLD THEM BACK! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> We need to hold the Plains District for 40 seconds HOLD THEM BACK! <<"
+		"trans"		">> We need to hold the Plains District for 40 seconds HOLD THEM BACK! <<"
 	}
 	">> Fall Back Now! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Fall Back Now! <<"
+		"trans"		">> Fall Back Now! <<"
 	}
 	">> Hold here for 30 seconds! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Hold here for 30 seconds! <<"
+		"trans"		">> Hold here for 30 seconds! <<"
 	}
 	">> Hold them back for 25 more seconds! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Hold them back for 25 more seconds! <<"
+		"trans"		">> Hold them back for 25 more seconds! <<"
 	}
 	">> Run for the bridge of Dragons Reach!! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Run for the bridge of Dragons Reach!! <<"
+		"trans"		">> Run for the bridge of Dragons Reach!! <<"
 	}
 	">> Defend the bridge until door opens! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Defend the bridge until door opens! <<"
+		"trans"		">> Defend the bridge until door opens! <<"
 	}
 	">> Dragon has been spotted outside Whiterun! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Dragon has been spotted outside Whiterun! <<"
+		"trans"		">> Dragon has been spotted outside Whiterun! <<"
 	}
 	">> Exit through the secret door! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Exit through the secret door! <<"
+		"trans"		">> Exit through the secret door! <<"
 	}
 	">> IT'S A DRAGON! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> IT'S A DRAGON! <<"
+		"trans"		">> IT'S A DRAGON! <<"
 	}
 	">> SHOOT IT! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> SHOOT IT! <<"
+		"trans"		">> SHOOT IT! <<"
 	}
 	">> The dragon is fleeing! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> The dragon is fleeing! <<"
+		"trans"		">> The dragon is fleeing! <<"
 	}
 	">> Run towards the tower now! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Run towards the tower now! <<"
+		"trans"		">> Run towards the tower now! <<"
 	}
 	">> Door Closes in 25 seconds <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Door Closes in 25 seconds <<"
+		"trans"		">> Door Closes in 25 seconds <<"
 	}
 	">> Keep Defending! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Keep Defending! <<"
+		"trans"		">> Keep Defending! <<"
 	}
 	">> Door Closes in 15 seconds <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Door Closes in 15 seconds <<"
+		"trans"		">> Door Closes in 15 seconds <<"
 	}
 	">> Door Closes in 5 seconds <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Door Closes in 5 seconds <<"
+		"trans"		">> Door Closes in 5 seconds <<"
 	}
 	">> Stage Completed! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Stage Completed! <<"
+		"trans"		">> Stage Completed! <<"
 	}
 	">> Stage 3 Road To Dwemer Ruins <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Stage 3 Road To Dwemer Ruins <<"
+		"trans"		">> Stage 3 Road To Dwemer Ruins <<"
 	}
 	"*** Hold the cave for 30 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Hold the cave for 30 seconds ***"
+		"trans"		"*** Hold the cave for 30 seconds ***"
 	}
 	"*** Hold the bridges for 30 seconds *** "
 	{
-		"trans"		"[{darkred}Map{default}] *** Hold the bridges for 30 seconds *** "
+		"trans"		"*** Hold the bridges for 30 seconds *** "
 	}
 	"*** There should be a switch for that door somewhere! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** There should be a switch for that door somewhere! ***"
+		"trans"		"*** There should be a switch for that door somewhere! ***"
 	}
 	"*** You have found the switch! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** You have found the switch! ***"
+		"trans"		"*** You have found the switch! ***"
 	}
 	"*** Door will open in 25 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Door will open in 25 seconds ***"
+		"trans"		"*** Door will open in 25 seconds ***"
 	}
 	"*** Seems like the lever is broken ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Seems like the lever is broken ***"
+		"trans"		"*** Seems like the lever is broken ***"
 	}
 	"*** Find a way to fix it! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Find a way to fix it! ***"
+		"trans"		"*** Find a way to fix it! ***"
 	}
 	"*** Hold for 25 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Hold for 25 seconds ***"
+		"trans"		"*** Hold for 25 seconds ***"
 	}
 	"*** Door will open in 30 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Door will open in 30 seconds ***"
+		"trans"		"*** Door will open in 30 seconds ***"
 	}
 	"*** Hold for 45 seconds OR find a way to make it open faster ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Hold for 45 seconds OR find a way to make it open faster ***"
+		"trans"		"*** Hold for 45 seconds OR find a way to make it open faster ***"
 	}
 	"*** Good job ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Good job ***"
+		"trans"		"*** Good job ***"
 	}
 	"*** The doors will now open a bit faster! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** The doors will now open a bit faster! ***"
+		"trans"		"*** The doors will now open a bit faster! ***"
 	}
 	"*** Lever has been pulled! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Lever has been pulled! ***"
+		"trans"		"*** Lever has been pulled! ***"
 	}
 	"*** Hold for just 25 seconds more! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Hold for just 25 seconds more! ***"
+		"trans"		"*** Hold for just 25 seconds more! ***"
 	}
 	"*** Stage completed! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Stage completed! ***"
+		"trans"		"*** Stage completed! ***"
 	}
 	">> Stage 4 Dwemer ruins <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Stage 4 Dwemer ruins <<"
+		"trans"		">> Stage 4 Dwemer ruins <<"
 	}
 	">>> Doors open in 25 seconds <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> Doors open in 25 seconds <<<"
+		"trans"		">>> Doors open in 25 seconds <<<"
 	}
 	">> Door Opens in 45 seconds <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Door Opens in 45 seconds <<"
+		"trans"		">> Door Opens in 45 seconds <<"
 	}
 	">> Go Downstairs to the Treasure room and take the Elder Scroll! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Go Downstairs to the Treasure room and take the Elder Scroll! <<"
+		"trans"		">> Go Downstairs to the Treasure room and take the Elder Scroll! <<"
 	}
 	">> Find a way to open the Door! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Find a way to open the Door! <<"
+		"trans"		">> Find a way to open the Door! <<"
 	}
 	">> Lever has been pressed! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Lever has been pressed! <<"
+		"trans"		">> Lever has been pressed! <<"
 	}
 	">> Door Opens In 20 Seconds! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Door Opens In 20 Seconds! <<"
+		"trans"		">> Door Opens In 20 Seconds! <<"
 	}
 	">> Elevator leaves in 30 seconds! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Elevator leaves in 30 seconds! <<"
+		"trans"		">> Elevator leaves in 30 seconds! <<"
 	}
 	">> Elevator leaves in 10 seconds! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Elevator leaves in 10 seconds! <<"
+		"trans"		">> Elevator leaves in 10 seconds! <<"
 	}
 	">> Elevator leaves in 5 seconds! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Elevator leaves in 5 seconds! <<"
+		"trans"		">> Elevator leaves in 5 seconds! <<"
 	}
 	">> Elevator is leaving! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Elevator is leaving! <<"
+		"trans"		">> Elevator is leaving! <<"
 	}
 	">> Kill The Remaining Zombie! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Kill The Remaining Zombie! <<"
+		"trans"		">> Kill The Remaining Zombie! <<"
 	}
 	">> THE DRAGON IS GOING TO KILL US ALL !!! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> THE DRAGON IS GOING TO KILL US ALL !!! <<"
+		"trans"		">> THE DRAGON IS GOING TO KILL US ALL !!! <<"
 	}
 	">> Elevator leaves in 20 seconds! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Elevator leaves in 20 seconds! <<"
+		"trans"		">> Elevator leaves in 20 seconds! <<"
 	}
 	"*** THE ELDER SCROLL MADE IT TO THE END ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** THE ELDER SCROLL MADE IT TO THE END ***"
+		"trans"		"*** THE ELDER SCROLL MADE IT TO THE END ***"
 	}
 	"*** YOU CAN NOW USE IT ON NEXT STAGE ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** YOU CAN NOW USE IT ON NEXT STAGE ***"
+		"trans"		"*** YOU CAN NOW USE IT ON NEXT STAGE ***"
 	}
 	">> Stage 5 Sovngarde <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Stage 5 Sovngarde <<"
+		"trans"		">> Stage 5 Sovngarde <<"
 	}
 	">> City door opens in 25 seconds! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> City door opens in 25 seconds! <<"
+		"trans"		">> City door opens in 25 seconds! <<"
 	}
 	">> HOLD THEM BACK! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> HOLD THEM BACK! <<"
+		"trans"		">> HOLD THEM BACK! <<"
 	}
 	">> We need to get away from these dragons! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> We need to get away from these dragons! <<"
+		"trans"		">> We need to get away from these dragons! <<"
 	}
 	">> Go through the house to the sewers! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Go through the house to the sewers! <<"
+		"trans"		">> Go through the house to the sewers! <<"
 	}
 	">> Go through the balcony door! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Go through the balcony door! <<"
+		"trans"		">> Go through the balcony door! <<"
 	}
 	">> Kill the Dragonpriest! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Kill the Dragonpriest! <<"
+		"trans"		">> Kill the Dragonpriest! <<"
 	}
 	">> We killed the Dragonpriest! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> We killed the Dragonpriest! <<"
+		"trans"		">> We killed the Dragonpriest! <<"
 	}
 	">> Hold the zombies back until the teleporter activates! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Hold the zombies back until the teleporter activates! <<"
+		"trans"		">> Hold the zombies back until the teleporter activates! <<"
 	}
 	">> The teleporter is working JUMP INTO IT!  <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> The teleporter is working JUMP INTO IT!  <<"
+		"trans"		">> The teleporter is working JUMP INTO IT!  <<"
 	}
 	">> USE THE ELDER SCROLL NOW <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> USE THE ELDER SCROLL NOW <<"
+		"trans"		">> USE THE ELDER SCROLL NOW <<"
 	}
 	"*** Kill the remaining zombies! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Kill the remaining zombies! ***"
+		"trans"		"*** Kill the remaining zombies! ***"
 	}
 	">> Kill the remaining Zombies! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Kill the remaining Zombies! <<"
+		"trans"		">> Kill the remaining Zombies! <<"
 	}
 	">>> KILL THE REMAINING ZOMBIES <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> KILL THE REMAINING ZOMBIES <<<"
+		"trans"		">>> KILL THE REMAINING ZOMBIES <<<"
 	}
 	">> You Have Defeated Alduin <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> You Have Defeated Alduin <<"
+		"trans"		">> You Have Defeated Alduin <<"
 	}
 	">> Run for the Mead Hall <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Run for the Mead Hall <<"
+		"trans"		">> Run for the Mead Hall <<"
 	}
 	"** YOU HAVE BEATEN THE MAP CONGRATULATIONS !!! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** YOU HAVE BEATEN THE MAP CONGRATULATIONS !!! **"
+		"trans"		"** YOU HAVE BEATEN THE MAP CONGRATULATIONS !!! **"
 	}
 	"** MAP BY P'A'SS AND KIM !!! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** MAP BY P'A'SS AND KIM !!! **"
+		"trans"		"** MAP BY P'A'SS AND KIM !!! **"
 	}
 	">> Admin Pressed Kill All button! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> Admin Pressed Kill All button! <<"
+		"trans"		">> Admin Pressed Kill All button! <<"
 	}
 }

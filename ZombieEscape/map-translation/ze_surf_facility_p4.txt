@@ -2,7 +2,7 @@
 {
 	"***Prepare defences! 45 seconds!***"
 	{
-		"trans"		"[{darkred}Map{default}] 坚守45秒!"
+		"trans"		"坚守45秒!"
 	}
 	"***Intro song is Spanish Flea***"
 	{
@@ -26,83 +26,83 @@
 	}
 	"***5 seconds left!**"
 	{
-		"trans"		"[{darkred}Map{default}] 剩余5秒"
+		"trans"		"剩余5秒"
 	}
 	"***Humans Run to next exit***"
 	{
-		"trans"		"[{darkred}Map{default}]  人类前往下一个出口"
+		"trans"		"人类前往下一个出口"
 	}
 	"***Afk Killer is enabled for 5 seconds***"
 	{
-		"trans"		"[{darkred}Map{default}]  5秒后处死挂机者"
+		"trans"		"5秒后处死挂机者"
 	}
 	"***Zombies are out of jail***"
 	{
-		"trans"		"[{darkred}Map{default}]  僵尸已被释放"
+		"trans"		"僵尸已被释放"
 	}
 	"***Protect yourself from Jumpy Zomby!**"
 	{
-		"trans"		"[{darkred}Map{default}]  谨防连跳!"
+		"trans"		"谨防连跳!"
 	}
 	"***60 seconds left!**"
 	{
-		"trans"		"[{darkred}Map{default}]  剩余60秒"
+		"trans"		"剩余60秒"
 	}
 	"***Humans Run to next exit**"
 	{
-		"trans"		"[{darkred}Map{default}]  人类前往下一个出口"
+		"trans"		"人类前往下一个出口"
 	}
 	"***Prepare defences! 45 seconds!**"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守45秒"
+		"trans"		"坚守45秒"
 	}
 	"***Zombies have broken out of Jail!**"
 	{
-		"trans"		"[{darkred}Map{default}]  僵尸已被释放"
+		"trans"		"僵尸已被释放"
 	}
 	"***Zombies reached the Hill*** "
 	{
-		"trans"		"[{darkred}Map{default}]  有僵尸触及了平台!"
+		"trans"		"有僵尸触及了平台!"
 	}
 	"***No place is safe!*** "
 	{
-		"trans"		"[{darkred}Map{default}]  四边高台已消失!"
+		"trans"		"四边高台已消失!"
 	}
 	"***Humans reach final point***"
 	{
-		"trans"		"[{darkred}Map{default}]  人类已到达最后阵地"
+		"trans"		"人类已到达最后阵地"
 	}
 	"***Hold 75 seconds***"
 	{
-		"trans"		"[{darkred}Map{default}]  撑住75秒"
+		"trans"		"撑住75秒"
 	}
 	"***Zombies out of Jail**"
 	{
-		"trans"		"[{darkred}Map{default}]  僵尸已被释放"
+		"trans"		"僵尸已被释放"
 	}
 	"***Hold 50 seconds!***"
 	{
-		"trans"		"[{darkred}Map{default}]  50秒剩余"
+		"trans"		"50秒剩余"
 	}
 	"***Humans have been teleported!***"
 	{
-		"trans"		"[{darkred}Map{default}]  所有人类已被传送"
+		"trans"		"所有人类已被传送"
 	}
 	"***Hold 30 seconds!***"
 	{
-		"trans"		"[{darkred}Map{default}]  30秒剩余"
+		"trans"		"30秒剩余"
 	}
 	"***Final Zombie Wave is Inbound!***"
 	{
-		"trans"		"[{darkred}Map{default}]  顶住最后一波僵尸!"
+		"trans"		"顶住最后一波僵尸!"
 	}
 	"***Hold 10 seconds***"
 	{
-		"trans"		"[{darkred}Map{default}]  10秒剩余"
+		"trans"		"10秒剩余"
 	}
 	"***Final Escape is in progres***"
 	{
-		"trans"		"[{darkred}Map{default}]  即将开启最后一个滑翔通道"
+		"trans"		"即将开启最后一个滑翔通道"
 	}
 	"***No game score will be applied***"
 	{
@@ -110,6 +110,6 @@
 	}
 	"***Zombies reached final surf***"
 	{
-		"trans"		"[{darkred}Map{default}]  做掉闯进来的僵尸"
+		"trans"		"做掉闯进来的僵尸"
 	}
 }

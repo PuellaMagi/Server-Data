@@ -2,228 +2,228 @@
 {
 	"<<< DIFFICULTY LEVEL : EASY >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< DIFFICULTY LEVEL : EASY >>>"
+		"trans"		"<<< DIFFICULTY LEVEL : EASY >>>"
 	}
 	"<<< THE FIRST TO PRESS THE BUTTON IN HELICOPTER WINS >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< THE FIRST TO PRESS THE BUTTON IN HELICOPTER WINS >>>"
+		"trans"		"<<< THE FIRST TO PRESS THE BUTTON IN HELICOPTER WINS >>>"
 	}
 	">>>Map created by Dark Arrow<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Map created by Dark Arrow<<<"
+		"trans"		">>>Map created by Dark Arrow<<<"
 	}
 	">>>Edited first by [pF]Detonator<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Edited first by [pF]Detonator<<<"
+		"trans"		">>>Edited first by [pF]Detonator<<<"
 	}
 	">>>Finished by Hallucinogenic Troll"
 	{
 		" papaconas<<<"
 		{
-			"trans"		"[{darkred}Map{default}] >>>Finished by Hallucinogenic Troll/ papaconas<<<"
+			"trans"		">>>Finished by Hallucinogenic Troll/ papaconas<<<"
 		}
 	}
 	">>>Map remake by [ＥSＣAＰＥ] Loving You (수정자 : 러빙유)<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Map remake by [ＥSＣAＰＥ] Loving You (수정자 : 러빙유)<<<"
+		"trans"		">>>Map remake by [ＥSＣAＰＥ] Loving You (수정자 : 러빙유)<<<"
 	}
 	">>>Helicopter will leave in 3 seconds...<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Helicopter will leave in 3 seconds...<<<"
+		"trans"		">>>Helicopter will leave in 3 seconds...<<<"
 	}
 	">>>2<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>2<<<"
+		"trans"		">>>2<<<"
 	}
 	">>>1<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>1<<<"
+		"trans"		">>>1<<<"
 	}
 	">>>HELICOPTER IS LEAVING<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>HELICOPTER IS LEAVING<<<"
+		"trans"		">>>HELICOPTER IS LEAVING<<<"
 	}
 	"<<< SUITCASE(S) MADE IT ON TO CHOPPER. WELL DONE YOU WIN >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< SUITCASE(S) MADE IT ON TO CHOPPER. WELL DONE YOU WIN >>>"
+		"trans"		"<<< SUITCASE(S) MADE IT ON TO CHOPPER. WELL DONE YOU WIN >>>"
 	}
 	"<<< Nuke launched>>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< Nuke launched>>>"
+		"trans"		"<<< Nuke launched>>>"
 	}
 	"4"
 	{
-		"trans"		"[{darkred}Map{default}] 4"
+		"trans"		"4"
 	}
 	"3 "
 	{
-		"trans"		"[{darkred}Map{default}] 3 "
+		"trans"		"3 "
 	}
 	"2 "
 	{
-		"trans"		"[{darkred}Map{default}] 2 "
+		"trans"		"2 "
 	}
 	"1"
 	{
-		"trans"		"[{darkred}Map{default}] 1"
+		"trans"		"1"
 	}
 	"<<< DIFFICULTY LEVEL : NORMAL >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< DIFFICULTY LEVEL : NORMAL >>>"
+		"trans"		"<<< DIFFICULTY LEVEL : NORMAL >>>"
 	}
 	"<<< ADJUST THE MUSIC VOLUME IN AUDIO SETTINGS >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< ADJUST THE MUSIC VOLUME IN AUDIO SETTINGS >>>"
+		"trans"		"<<< ADJUST THE MUSIC VOLUME IN AUDIO SETTINGS >>>"
 	}
 	"<<< OBJECTIVE : RUN TO THE CHOPPER >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< OBJECTIVE : RUN TO THE CHOPPER >>>"
+		"trans"		"<<< OBJECTIVE : RUN TO THE CHOPPER >>>"
 	}
 	"<<< Door Opens In 15 sec >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< Door Opens In 15 sec >>>"
+		"trans"		"<<< Door Opens In 15 sec >>>"
 	}
 	"<<< Door Opens In 10 sec >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< Door Opens In 10 sec >>>"
+		"trans"		"<<< Door Opens In 10 sec >>>"
 	}
 	"<<< Door Opens In 5 sec >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< Door Opens In 5 sec >>>"
+		"trans"		"<<< Door Opens In 5 sec >>>"
 	}
 	"<<< HOLD HERE FOR 20 SEC >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< HOLD HERE FOR 20 SEC >>>"
+		"trans"		"<<< HOLD HERE FOR 20 SEC >>>"
 	}
 	"<<< RUN!!! >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< RUN!!! >>>"
+		"trans"		"<<< RUN!!! >>>"
 	}
 	"<<< Hold For 25 secs >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< Hold For 25 secs >>>"
+		"trans"		"<<< Hold For 25 secs >>>"
 	}
 	"<<< 10 Seconds Remaining >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< 10 Seconds Remaining >>>"
+		"trans"		"<<< 10 Seconds Remaining >>>"
 	}
 	"<<< Heli leaves in 30 seconds >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< Heli leaves in 30 seconds >>>"
+		"trans"		"<<< Heli leaves in 30 seconds >>>"
 	}
 	"<<< Heli leaves in 20 seconds >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< Heli leaves in 20 seconds >>>"
+		"trans"		"<<< Heli leaves in 20 seconds >>>"
 	}
 	"<<< Heli leaves in 10 seconds >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< Heli leaves in 10 seconds >>>"
+		"trans"		"<<< Heli leaves in 10 seconds >>>"
 	}
 	"<<< Heli is leaving hop on >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< Heli is leaving hop on >>>"
+		"trans"		"<<< Heli is leaving hop on >>>"
 	}
 	"<<< DIFFICULTY LEVEL : HARD >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< DIFFICULTY LEVEL : HARD >>>"
+		"trans"		"<<< DIFFICULTY LEVEL : HARD >>>"
 	}
 	"<<< OBJECTIVE : COLLECT 1 SUITCASE >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< OBJECTIVE : COLLECT 1 SUITCASE >>>"
+		"trans"		"<<< OBJECTIVE : COLLECT 1 SUITCASE >>>"
 	}
 	"<<< Door Opens In 20 sec >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< Door Opens In 20 sec >>>"
+		"trans"		"<<< Door Opens In 20 sec >>>"
 	}
 	"<<< SUITCASE DOOR OPENS IN 20 SECONDS >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< SUITCASE DOOR OPENS IN 20 SECONDS >>>"
+		"trans"		"<<< SUITCASE DOOR OPENS IN 20 SECONDS >>>"
 	}
 	"<<< SUITCASE DOOR IS OPENING!>>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< SUITCASE DOOR IS OPENING!>>>"
+		"trans"		"<<< SUITCASE DOOR IS OPENING!>>>"
 	}
 	"<<< SUITCASE COLLECTED! RUN! >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< SUITCASE COLLECTED! RUN! >>>"
+		"trans"		"<<< SUITCASE COLLECTED! RUN! >>>"
 	}
 	"<<< DIFFICULTY LEVEL : EXTREME >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< DIFFICULTY LEVEL : EXTREME >>>"
+		"trans"		"<<< DIFFICULTY LEVEL : EXTREME >>>"
 	}
 	"<<< OBJECTIVE: COLLECT 2 SUITCASES >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< OBJECTIVE: COLLECT 2 SUITCASES >>>"
+		"trans"		"<<< OBJECTIVE: COLLECT 2 SUITCASES >>>"
 	}
 	"<<< ZOMBIES ARE FASTER AND HAVE MORE HEALTH >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< ZOMBIES ARE FASTER AND HAVE MORE HEALTH >>>"
+		"trans"		"<<< ZOMBIES ARE FASTER AND HAVE MORE HEALTH >>>"
 	}
 	"<<< Door Opens In 30 sec >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< Door Opens In 30 sec >>>"
+		"trans"		"<<< Door Opens In 30 sec >>>"
 	}
 	"<<< SUITCASE DOOR WILL OPEN IN 10 SECONDS>>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< SUITCASE DOOR WILL OPEN IN 10 SECONDS>>>"
+		"trans"		"<<< SUITCASE DOOR WILL OPEN IN 10 SECONDS>>>"
 	}
 	"<<<SUITCASE DOOR IS OPENING! PRESS THE BUTTON>>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<<SUITCASE DOOR IS OPENING! PRESS THE BUTTON>>>"
+		"trans"		"<<<SUITCASE DOOR IS OPENING! PRESS THE BUTTON>>>"
 	}
 	">>>Hold more 25 seconds<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Hold more 25 seconds<<<"
+		"trans"		">>>Hold more 25 seconds<<<"
 	}
 	"<<< DIFFICULTY LEVEL : GOD "
 	{
 		" IMPOSSIBLE>>>"
 		{
-			"trans"		"[{darkred}Map{default}] <<< DIFFICULTY LEVEL : GOD / IMPOSSIBLE>>>"
+			"trans"		"<<< DIFFICULTY LEVEL : GOD / IMPOSSIBLE>>>"
 		}
 	}
 	"<<< YOU DONT HAVE WALLS OR PROPS TO HELP WITH COVER >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< YOU DONT HAVE WALLS OR PROPS TO HELP WITH COVER >>>"
+		"trans"		"<<< YOU DONT HAVE WALLS OR PROPS TO HELP WITH COVER >>>"
 	}
 	"<<< DOOR WILL BREAK IN 20 SECONDS >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< DOOR WILL BREAK IN 20 SECONDS >>>"
+		"trans"		"<<< DOOR WILL BREAK IN 20 SECONDS >>>"
 	}
 	"<<< DOOR WILL BREAK IN 10 SECONDS >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< DOOR WILL BREAK IN 10 SECONDS >>>"
+		"trans"		"<<< DOOR WILL BREAK IN 10 SECONDS >>>"
 	}
 	"<<< DOOR WILL BREAK IN 5 SECONDS >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< DOOR WILL BREAK IN 5 SECONDS >>>"
+		"trans"		"<<< DOOR WILL BREAK IN 5 SECONDS >>>"
 	}
 	"<<< DOOR ITS BROKEN!! RUN!!!! >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< DOOR ITS BROKEN!! RUN!!!! >>>"
+		"trans"		"<<< DOOR ITS BROKEN!! RUN!!!! >>>"
 	}
 	"<<< Door Opens In 35 sec >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< Door Opens In 35 sec >>>"
+		"trans"		"<<< Door Opens In 35 sec >>>"
 	}
 	"<<< BUTTON DOOR WILL OPEN IN 5 SECONDS >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< BUTTON DOOR WILL OPEN IN 5 SECONDS >>>"
+		"trans"		"<<< BUTTON DOOR WILL OPEN IN 5 SECONDS >>>"
 	}
 	"<<< BUTTON DOOR IS OPENING!! STAY COVER!!! >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< BUTTON DOOR IS OPENING!! STAY COVER!!! >>>"
+		"trans"		"<<< BUTTON DOOR IS OPENING!! STAY COVER!!! >>>"
 	}
 	"<<< BUTTON IS PRESSED! RUN!! >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< BUTTON IS PRESSED! RUN!! >>>"
+		"trans"		"<<< BUTTON IS PRESSED! RUN!! >>>"
 	}
 	"<<< DOOR IS FULLY OPENED!! PRESS THE BUTTON >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< DOOR IS FULLY OPENED!! PRESS THE BUTTON >>>"
+		"trans"		"<<< DOOR IS FULLY OPENED!! PRESS THE BUTTON >>>"
 	}
 	"<<< ZOMBIES MADE IT ON TO CHOPPER. YOU LOSE! >>>"
 	{
-		"trans"		"[{darkred}Map{default}] <<< ZOMBIES MADE IT ON TO CHOPPER. YOU LOSE! >>>"
+		"trans"		"<<< ZOMBIES MADE IT ON TO CHOPPER. YOU LOSE! >>>"
 	}
 }

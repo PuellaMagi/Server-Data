@@ -2,166 +2,166 @@
 {
 	"ZE Sunlight"
 	{
-		"trans"		"[{darkred}Map{default}] ZE Sunlight"
+		"trans"		"ZE Sunlight"
 	}
 	"Created by Soft Serve"
 	{
-		"trans"		"[{darkred}Map{default}] Created by Soft Serve"
+		"trans"		"Created by Soft Serve"
 	}
 	"Map ported by www.dashijie.es"
 	{
-		"trans"		"[{darkred}Map{default}] Map ported by www.dashijie.es"
+		"trans"		"Map ported by www.dashijie.es"
 	}
 	"*** STAGE I ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** STAGE I ***"
+		"trans"		"*** STAGE I ***"
 	}
 	"*** Defend for 30 seconds! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Defend for 30 seconds! ***"
+		"trans"		"*** Defend for 30 seconds! ***"
 	}
 	"*** Defend for 25 seconds! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Defend for 25 seconds! ***"
+		"trans"		"*** Defend for 25 seconds! ***"
 	}
 	"*** 5 seconds left ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** 5 seconds left ***"
+		"trans"		"*** 5 seconds left ***"
 	}
 	"*** Eye of the Storm has been acquired ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Eye of the Storm has been acquired ***"
+		"trans"		"*** Eye of the Storm has been acquired ***"
 	}
 	"*** Lift is leaving in 30 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Lift is leaving in 30 seconds ***"
+		"trans"		"*** Lift is leaving in 30 seconds ***"
 	}
 	"*** Defend for 20 seconds! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Defend for 20 seconds! ***"
+		"trans"		"*** Defend for 20 seconds! ***"
 	}
 	"*** Nuke in 1 minute ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Nuke in 1 minute ***"
+		"trans"		"*** Nuke in 1 minute ***"
 	}
 	"*** Final door is opening in 10 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Final door is opening in 10 seconds ***"
+		"trans"		"*** Final door is opening in 10 seconds ***"
 	}
 	"*** Stage failed! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Stage failed! ***"
+		"trans"		"*** Stage failed! ***"
 	}
 	"*** Sacrificial Orb has been acquired ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Sacrificial Orb has been acquired ***"
+		"trans"		"*** Sacrificial Orb has been acquired ***"
 	}
 	"*** Nuke in 10 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Nuke in 10 seconds ***"
+		"trans"		"*** Nuke in 10 seconds ***"
 	}
 	"*** Stage completed! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Stage completed! ***"
+		"trans"		"*** Stage completed! ***"
 	}
 	"*** STAGE II ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** STAGE II ***"
+		"trans"		"*** STAGE II ***"
 	}
 	"*** Melon Launcher has been acquired ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Melon Launcher has been acquired ***"
+		"trans"		"*** Melon Launcher has been acquired ***"
 	}
 	"*** Defend for 35 seconds! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Defend for 35 seconds! ***"
+		"trans"		"*** Defend for 35 seconds! ***"
 	}
 	"*** Defend while one person calls the lift! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Defend while one person calls the lift! ***"
+		"trans"		"*** Defend while one person calls the lift! ***"
 	}
 	"*** Lift is leaving in 10 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Lift is leaving in 10 seconds ***"
+		"trans"		"*** Lift is leaving in 10 seconds ***"
 	}
 	"*** STAGE III ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** STAGE III ***"
+		"trans"		"*** STAGE III ***"
 	}
 	"*** Defend for 45 seconds! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Defend for 45 seconds! ***"
+		"trans"		"*** Defend for 45 seconds! ***"
 	}
 	"*** Water is rising in 10 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Water is rising in 10 seconds ***"
+		"trans"		"*** Water is rising in 10 seconds ***"
 	}
 	"*** Orange Launcher has been acquired ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Orange Launcher has been acquired ***"
+		"trans"		"*** Orange Launcher has been acquired ***"
 	}
 	"*** Nuke in 2 minutes ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Nuke in 2 minutes ***"
+		"trans"		"*** Nuke in 2 minutes ***"
 	}
 	"*** Zombies have been teleported. Prepare to charge! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Zombies have been teleported. Prepare to charge! ***"
+		"trans"		"*** Zombies have been teleported. Prepare to charge! ***"
 	}
 	"*** STAGE IV ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** STAGE IV ***"
+		"trans"		"*** STAGE IV ***"
 	}
 	"*** Top door is breaking in 20 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Top door is breaking in 20 seconds ***"
+		"trans"		"*** Top door is breaking in 20 seconds ***"
 	}
 	"*** Bottom door is breaking in 10 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Bottom door is breaking in 10 seconds ***"
+		"trans"		"*** Bottom door is breaking in 10 seconds ***"
 	}
 	"*** Defend for 60 seconds! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Defend for 60 seconds! ***"
+		"trans"		"*** Defend for 60 seconds! ***"
 	}
 	"*** The dragon has been defeated. Keep defending the bridge! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** The dragon has been defeated. Keep defending the bridge! ***"
+		"trans"		"*** The dragon has been defeated. Keep defending the bridge! ***"
 	}
 	"*** STAGE V ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** STAGE V ***"
+		"trans"		"*** STAGE V ***"
 	}
 	"*** Teleporting humans in 10 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Teleporting humans in 10 seconds ***"
+		"trans"		"*** Teleporting humans in 10 seconds ***"
 	}
 	"*** Defend all 3 statues. Do not let zombies near! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Defend all 3 statues. Do not let zombies near! ***"
+		"trans"		"*** Defend all 3 statues. Do not let zombies near! ***"
 	}
 	"*** Teleporting zombies in 10 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Teleporting zombies in 10 seconds ***"
+		"trans"		"*** Teleporting zombies in 10 seconds ***"
 	}
 	"*** 3 minutes left ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** 3 minutes left ***"
+		"trans"		"*** 3 minutes left ***"
 	}
 	"*** 2 minutes left ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** 2 minutes left ***"
+		"trans"		"*** 2 minutes left ***"
 	}
 	"*** 1 minute left ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** 1 minute left ***"
+		"trans"		"*** 1 minute left ***"
 	}
 	"*** 10 seconds left ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** 10 seconds left ***"
+		"trans"		"*** 10 seconds left ***"
 	}
 	"*** Congratulations! You have completed ZE_SUNLIGHT! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Congratulations! You have completed ZE_SUNLIGHT! ***"
+		"trans"		"*** Congratulations! You have completed ZE_SUNLIGHT! ***"
 	}
 }

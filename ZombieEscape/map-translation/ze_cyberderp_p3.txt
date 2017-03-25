@@ -2,354 +2,354 @@
 {
 	"* * Map by Mojonero * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * Map by Mojonero * *"
+		"trans"		"* * Map by Mojonero * *"
 	}
 	"* * >>TIP<< ORANGE is a GOOD colour * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * >>TIP<< ORANGE is a GOOD colour * *"
+		"trans"		"* * >>TIP<< ORANGE is a GOOD colour * *"
 	}
 	"* * * Current phase: NOT TRAMPOLINES * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * Current phase: NOT TRAMPOLINES * * *"
+		"trans"		"* * * Current phase: NOT TRAMPOLINES * * *"
 	}
 	"* * The pedestal will be raising in 25 seconds * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * The pedestal will be raising in 25 seconds * *"
+		"trans"		"* * The pedestal will be raising in 25 seconds * *"
 	}
 	"* * * Current phase: CURSED HEXAHEDRON * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * Current phase: CURSED HEXAHEDRON * * *"
+		"trans"		"* * * Current phase: CURSED HEXAHEDRON * * *"
 	}
 	"* * Hold here for 20 seconds * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * Hold here for 20 seconds * *"
+		"trans"		"* * Hold here for 20 seconds * *"
 	}
 	"* * 3 seconds left * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * 3 seconds left * *"
+		"trans"		"* * 3 seconds left * *"
 	}
 	"* * Door opening in 25 seconds * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * Door opening in 25 seconds * *"
+		"trans"		"* * Door opening in 25 seconds * *"
 	}
 	"* * Closing door * * 5 seconds left * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * Closing door * * 5 seconds left * *"
+		"trans"		"* * Closing door * * 5 seconds left * *"
 	}
 	"* * KEEP DEFENDING * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * KEEP DEFENDING * *"
+		"trans"		"* * KEEP DEFENDING * *"
 	}
 	"* * * Projectile Deflector has been picked up * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * Projectile Deflector has been picked up * * *"
+		"trans"		"* * * Projectile Deflector has been picked up * * *"
 	}
 	"* * Go to the lower floor * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * Go to the lower floor * *"
+		"trans"		"* * Go to the lower floor * *"
 	}
 	"* * * Frost Wave has been picked up * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * Frost Wave has been picked up * * *"
+		"trans"		"* * * Frost Wave has been picked up * * *"
 	}
 	"* * * Starting elevator * * * 20 seconds * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * Starting elevator * * * 20 seconds * * *"
+		"trans"		"* * * Starting elevator * * * 20 seconds * * *"
 	}
 	"* * * Current phase: TOTALLY NEVER SEEN * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * Current phase: TOTALLY NEVER SEEN * * *"
+		"trans"		"* * * Current phase: TOTALLY NEVER SEEN * * *"
 	}
 	"* * * Aeolus' Spirit has been picked up * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * Aeolus' Spirit has been picked up * * *"
+		"trans"		"* * * Aeolus' Spirit has been picked up * * *"
 	}
 	"* * Hacking doors. This may take a few seconds * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * Hacking doors. This may take a few seconds * *"
+		"trans"		"* * Hacking doors. This may take a few seconds * *"
 	}
 	"* * Press the orange button to start the Core * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * Press the orange button to start the Core * *"
+		"trans"		"* * Press the orange button to start the Core * *"
 	}
 	"> INITIALIZING CORE <"
 	{
-		"trans"		"[{darkred}Map{default}] > INITIALIZING CORE <"
+		"trans"		"> INITIALIZING CORE <"
 	}
 	"> THE CORE WILL BE READY IN 21 SECONDS <"
 	{
-		"trans"		"[{darkred}Map{default}] > THE CORE WILL BE READY IN 21 SECONDS <"
+		"trans"		"> THE CORE WILL BE READY IN 21 SECONDS <"
 	}
 	"> CORE READY IN 5 SECONDS <"
 	{
-		"trans"		"[{darkred}Map{default}] > CORE READY IN 5 SECONDS <"
+		"trans"		"> CORE READY IN 5 SECONDS <"
 	}
 	"> CORE READY <"
 	{
-		"trans"		"[{darkred}Map{default}] > CORE READY <"
+		"trans"		"> CORE READY <"
 	}
 	"* * We can move * * FALL BACK * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * We can move * * FALL BACK * *"
+		"trans"		"* * We can move * * FALL BACK * *"
 	}
 	"* * Hold 25 seconds * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * Hold 25 seconds * *"
+		"trans"		"* * Hold 25 seconds * *"
 	}
 	"* * You have defended long enough * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * You have defended long enough * *"
+		"trans"		"* * You have defended long enough * *"
 	}
 	"* * Keep running * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * Keep running * *"
+		"trans"		"* * Keep running * *"
 	}
 	"* * The Core is getting unstable... * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * The Core is getting unstable... * *"
+		"trans"		"* * The Core is getting unstable... * *"
 	}
 	"* * * Flame of Udun has been picked up * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * Flame of Udun has been picked up * * *"
+		"trans"		"* * * Flame of Udun has been picked up * * *"
 	}
 	"* * 20 seconds until the door opens * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * 20 seconds until the door opens * *"
+		"trans"		"* * 20 seconds until the door opens * *"
 	}
 	"(Right) * * * Door opening * * * 8 seconds * * *"
 	{
-		"trans"		"[{darkred}Map{default}] (Right) * * * Door opening * * * 8 seconds * * *"
+		"trans"		"(Right) * * * Door opening * * * 8 seconds * * *"
 	}
 	"(Left) * * * Door opening * * * 8 seconds * * *"
 	{
-		"trans"		"[{darkred}Map{default}] (Left) * * * Door opening * * * 8 seconds * * *"
+		"trans"		"(Left) * * * Door opening * * * 8 seconds * * *"
 	}
 	"* * * HOLD FOR 15 SECONDS * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * HOLD FOR 15 SECONDS * * *"
+		"trans"		"* * * HOLD FOR 15 SECONDS * * *"
 	}
 	"* * * ONLY 3 SECONDS LEFT * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * ONLY 3 SECONDS LEFT * * *"
+		"trans"		"* * * ONLY 3 SECONDS LEFT * * *"
 	}
 	"* * * Wait 7 seconds * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * Wait 7 seconds * * *"
+		"trans"		"* * * Wait 7 seconds * * *"
 	}
 	"* * * Door opening in 12 seconds * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * Door opening in 12 seconds * * *"
+		"trans"		"* * * Door opening in 12 seconds * * *"
 	}
 	"* * * Door opening in 3 seconds * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * Door opening in 3 seconds * * *"
+		"trans"		"* * * Door opening in 3 seconds * * *"
 	}
 	"* * * The bridge will be enabled in 25 seconds * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * The bridge will be enabled in 25 seconds * * *"
+		"trans"		"* * * The bridge will be enabled in 25 seconds * * *"
 	}
 	"* * * MOVE * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * MOVE * * *"
+		"trans"		"* * * MOVE * * *"
 	}
 	"* * * Exit door will open in 10 seconds * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * Exit door will open in 10 seconds * * *"
+		"trans"		"* * * Exit door will open in 10 seconds * * *"
 	}
 	"* * * Hold this position for 30 seconds * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * Hold this position for 30 seconds * * *"
+		"trans"		"* * * Hold this position for 30 seconds * * *"
 	}
 	"* * * 10 seconds left * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * 10 seconds left * * *"
+		"trans"		"* * * 10 seconds left * * *"
 	}
 	"* * Top door will open in 15 seconds * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * Top door will open in 15 seconds * *"
+		"trans"		"* * Top door will open in 15 seconds * *"
 	}
 	"* * Top door will open in 3 seconds * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * Top door will open in 3 seconds * *"
+		"trans"		"* * Top door will open in 3 seconds * *"
 	}
 	"* * * Top exit door will open in 13 seconds * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * Top exit door will open in 13 seconds * * *"
+		"trans"		"* * * Top exit door will open in 13 seconds * * *"
 	}
 	"* * * There must be a way to open that door * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * There must be a way to open that door * * *"
+		"trans"		"* * * There must be a way to open that door * * *"
 	}
 	"* * * Figure it out * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * Figure it out * * *"
+		"trans"		"* * * Figure it out * * *"
 	}
 	"* * * Current phase: MAGIC IS REAL * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * Current phase: MAGIC IS REAL * * *"
+		"trans"		"* * * Current phase: MAGIC IS REAL * * *"
 	}
 	"* * Left route door will open in 20 seconds * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * Left route door will open in 20 seconds * *"
+		"trans"		"* * Left route door will open in 20 seconds * *"
 	}
 	"* * * Slightly Cursed Hexahedron has been picked up * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * Slightly Cursed Hexahedron has been picked up * * *"
+		"trans"		"* * * Slightly Cursed Hexahedron has been picked up * * *"
 	}
 	"* * Wait 23 seconds * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * Wait 23 seconds * *"
+		"trans"		"* * Wait 23 seconds * *"
 	}
 	"* * Press both buttons at the same time * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * Press both buttons at the same time * *"
+		"trans"		"* * Press both buttons at the same time * *"
 	}
 	"* * * The door will open in 15 seconds * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * The door will open in 15 seconds * * *"
+		"trans"		"* * * The door will open in 15 seconds * * *"
 	}
 	"* * BUTTONS PRESSED * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * BUTTONS PRESSED * *"
+		"trans"		"* * BUTTONS PRESSED * *"
 	}
 	"* * GO GO GO * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * GO GO GO * *"
+		"trans"		"* * GO GO GO * *"
 	}
 	"* * The main door WILL open in 35s... * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * The main door WILL open in 35s... * *"
+		"trans"		"* * The main door WILL open in 35s... * *"
 	}
 	"* * * GO WHITE DICK * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * GO WHITE DICK * * *"
+		"trans"		"* * * GO WHITE DICK * * *"
 	}
 	"* * * Hold 15 seconds * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * Hold 15 seconds * * *"
+		"trans"		"* * * Hold 15 seconds * * *"
 	}
 	"* * ...but this convenient side vent might help * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * ...but this convenient side vent might help * *"
+		"trans"		"* * ...but this convenient side vent might help * *"
 	}
 	"* * Final door opening in 20 seconds * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * Final door opening in 20 seconds * *"
+		"trans"		"* * Final door opening in 20 seconds * *"
 	}
 	"* * Final door opening in 5 seconds * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * Final door opening in 5 seconds * *"
+		"trans"		"* * Final door opening in 5 seconds * *"
 	}
 	"* * You have reached the escape zone * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * You have reached the escape zone * *"
+		"trans"		"* * You have reached the escape zone * *"
 	}
 	"* * Wait 40 seconds until the magic elevator is ready to go * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * Wait 40 seconds until the magic elevator is ready to go * *"
+		"trans"		"* * Wait 40 seconds until the magic elevator is ready to go * *"
 	}
 	"* * Only 10 seconds left * * Hold * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * Only 10 seconds left * * Hold * *"
+		"trans"		"* * Only 10 seconds left * * Hold * *"
 	}
 	"* * Magic elevator is ready * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * Magic elevator is ready * *"
+		"trans"		"* * Magic elevator is ready * *"
 	}
 	"* * Bottom door will open in 15 seconds * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * Bottom door will open in 15 seconds * *"
+		"trans"		"* * Bottom door will open in 15 seconds * *"
 	}
 	"* * Bottom door will open in 3 seconds * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * Bottom door will open in 3 seconds * *"
+		"trans"		"* * Bottom door will open in 3 seconds * *"
 	}
 	"* * * It's open * * * "
 	{
-		"trans"		"[{darkred}Map{default}] * * * It's open * * * "
+		"trans"		"* * * It's open * * * "
 	}
 	"* * * MOVE * * * "
 	{
-		"trans"		"[{darkred}Map{default}] * * * MOVE * * * "
+		"trans"		"* * * MOVE * * * "
 	}
 	"* * * Bottom exit door will open in 11 seconds * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * Bottom exit door will open in 11 seconds * * *"
+		"trans"		"* * * Bottom exit door will open in 11 seconds * * *"
 	}
 	"* * * Wait until magic happens * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * Wait until magic happens * * *"
+		"trans"		"* * * Wait until magic happens * * *"
 	}
 	"* * * GO CHARIZARD DICK * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * GO CHARIZARD DICK * * *"
+		"trans"		"* * * GO CHARIZARD DICK * * *"
 	}
 	"* * * 5 seconds left * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * 5 seconds left * * *"
+		"trans"		"* * * 5 seconds left * * *"
 	}
 	"* * Wait 15 seconds * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * Wait 15 seconds * *"
+		"trans"		"* * Wait 15 seconds * *"
 	}
 	"* * You can pass * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * You can pass * *"
+		"trans"		"* * You can pass * *"
 	}
 	"* * 15 seconds until final teleport * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * 15 seconds until final teleport * *"
+		"trans"		"* * 15 seconds until final teleport * *"
 	}
 	"* * Humans must reach the arena or they will be teleported * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * Humans must reach the arena or they will be teleported * *"
+		"trans"		"* * Humans must reach the arena or they will be teleported * *"
 	}
 	"* * * IT HAS RUN AWAY * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * IT HAS RUN AWAY * * *"
+		"trans"		"* * * IT HAS RUN AWAY * * *"
 	}
 	"* * * RUN! * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * RUN! * * *"
+		"trans"		"* * * RUN! * * *"
 	}
 	"* * 25 seconds until this... thing... starts * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * 25 seconds until this... thing... starts * *"
+		"trans"		"* * 25 seconds until this... thing... starts * *"
 	}
 	"* * Resist! * * It all will end soon * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * Resist! * * It all will end soon * *"
+		"trans"		"* * Resist! * * It all will end soon * *"
 	}
 	"* * * HOLD THIS POSITION * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * HOLD THIS POSITION * * *"
+		"trans"		"* * * HOLD THIS POSITION * * *"
 	}
 	"* * * Just a bit more... * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * Just a bit more... * * *"
+		"trans"		"* * * Just a bit more... * * *"
 	}
 	"* * * The Magic Fire has arrived! * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * The Magic Fire has arrived! * * *"
+		"trans"		"* * * The Magic Fire has arrived! * * *"
 	}
 	"* * * GO HULK DICK * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * GO HULK DICK * * *"
+		"trans"		"* * * GO HULK DICK * * *"
 	}
 	"* * * GO NIGGER DICK * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * GO NIGGER DICK * * *"
+		"trans"		"* * * GO NIGGER DICK * * *"
 	}
 	"* * Zombies got inside * * Learn2hold * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * Zombies got inside * * Learn2hold * *"
+		"trans"		"* * Zombies got inside * * Learn2hold * *"
 	}
 	"* * * ZOMBIES! nowin4u * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * ZOMBIES! nowin4u * * *"
+		"trans"		"* * * ZOMBIES! nowin4u * * *"
 	}
 	"* * * HASUL COMO HEL MAR HASUL * * *"
 	{
-		"trans"		"[{darkred}Map{default}] * * * HASUL COMO HEL MAR HASUL * * *"
+		"trans"		"* * * HASUL COMO HEL MAR HASUL * * *"
 	}
 }

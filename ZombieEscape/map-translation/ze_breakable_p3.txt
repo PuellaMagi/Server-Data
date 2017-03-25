@@ -2,86 +2,86 @@
 {
 	">>>BREAK CRATES AND GET ON IT TO ESCAPE FROM MOTHER ZOMBIE<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>BREAK CRATES AND GET ON IT TO ESCAPE FROM MOTHER ZOMBIE<<<"
+		"trans"		">>>BREAK CRATES AND GET ON IT TO ESCAPE FROM MOTHER ZOMBIE<<<"
 	}
 	">>>MAP BY LeGrem<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>MAP BY LeGrem<<<"
+		"trans"		">>>MAP BY LeGrem<<<"
 	}
 	">>>RUN<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>RUN<<<"
+		"trans"		">>>RUN<<<"
 	}
 	">>>COVER 30s<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>COVER 30s<<<"
+		"trans"		">>>COVER 30s<<<"
 	}
 	">>>PREPARE TO RUN - TAKE THE RIGHT DOOR<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>PREPARE TO RUN - TAKE THE RIGHT DOOR<<<"
+		"trans"		">>>PREPARE TO RUN - TAKE THE RIGHT DOOR<<<"
 	}
 	">>>COVER 35s<<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>COVER 35s<<<<"
+		"trans"		">>>COVER 35s<<<<"
 	}
 	">>>RUN<<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>RUN<<<<"
+		"trans"		">>>RUN<<<<"
 	}
 	">>>FIND GREEN LIGHT DOOR<<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>FIND GREEN LIGHT DOOR<<<<"
+		"trans"		">>>FIND GREEN LIGHT DOOR<<<<"
 	}
 	">>>BREAK THE CORRECT WALLS<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>BREAK THE CORRECT WALLS<<<"
+		"trans"		">>>BREAK THE CORRECT WALLS<<<"
 	}
 	">>>ZOMBIES PROTECTION ACTIVATED ! HURRY UP<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>ZOMBIES PROTECTION ACTIVATED ! HURRY UP<<<"
+		"trans"		">>>ZOMBIES PROTECTION ACTIVATED ! HURRY UP<<<"
 	}
 	">>>BREAK THE BLOCKING PILLAR OR COVER 1 MINUTE<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>BREAK THE BLOCKING PILLAR OR COVER 1 MINUTE<<<"
+		"trans"		">>>BREAK THE BLOCKING PILLAR OR COVER 1 MINUTE<<<"
 	}
 	">>>RUN TO THE OTHER SIDE OF THE BRIDGE<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>RUN TO THE OTHER SIDE OF THE BRIDGE<<<"
+		"trans"		">>>RUN TO THE OTHER SIDE OF THE BRIDGE<<<"
 	}
 	">>>PREPARE TO RUN - TAKE THE MIDDLE DOOR<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>PREPARE TO RUN - TAKE THE MIDDLE DOOR<<<"
+		"trans"		">>>PREPARE TO RUN - TAKE THE MIDDLE DOOR<<<"
 	}
 	">>>PREPARE TO RUN - TAKE THE LEFT DOOR<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>PREPARE TO RUN - TAKE THE LEFT DOOR<<<"
+		"trans"		">>>PREPARE TO RUN - TAKE THE LEFT DOOR<<<"
 	}
 	">>>SHOOT THE BRIDGE<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>SHOOT THE BRIDGE<<<"
+		"trans"		">>>SHOOT THE BRIDGE<<<"
 	}
 	">>>OR COVER 1 MINUTE<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>OR COVER 1 MINUTE<<<"
+		"trans"		">>>OR COVER 1 MINUTE<<<"
 	}
 	">>>30s LEFT<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>30s LEFT<<<"
+		"trans"		">>>30s LEFT<<<"
 	}
 	">>>5s LEFT<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>5s LEFT<<<"
+		"trans"		">>>5s LEFT<<<"
 	}
 	">>>TOO MUCH CRATES ARE BROKEN<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>TOO MUCH CRATES ARE BROKEN<<<"
+		"trans"		">>>TOO MUCH CRATES ARE BROKEN<<<"
 	}
 	">>>ESCAPE BY THE WATER<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>ESCAPE BY THE WATER<<<"
+		"trans"		">>>ESCAPE BY THE WATER<<<"
 	}
 	">> CT FOLLOW THE ARROW - GO UNDER WATER<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >> CT FOLLOW THE ARROW - GO UNDER WATER<<<"
+		"trans"		">> CT FOLLOW THE ARROW - GO UNDER WATER<<<"
 	}
 }

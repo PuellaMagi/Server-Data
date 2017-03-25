@@ -2,258 +2,258 @@
 {
 	"# WARM UP ROUND #"
 	{
-		"trans"		"[{darkred}Map{default}] # WARM UP ROUND #"
+		"trans"		"# WARM UP ROUND #"
 	}
 	"# RETURN TO CASTLE WOLFENSTEIN #"
 	{
-		"trans"		"[{darkred}Map{default}] # RETURN TO CASTLE WOLFENSTEIN #"
+		"trans"		"# RETURN TO CASTLE WOLFENSTEIN #"
 	}
 	"# MAP BY JB_GAMBLE #"
 	{
-		"trans"		"[{darkred}Map{default}] # MAP BY JB_GAMBLE #"
+		"trans"		"# MAP BY JB_GAMBLE #"
 	}
 	"# MISSION 1 - OMINOUS RUMORS #"
 	{
-		"trans"		"[{darkred}Map{default}] # MISSION 1 - OMINOUS RUMORS #"
+		"trans"		"# MISSION 1 - OMINOUS RUMORS #"
 	}
 	"# PART 1 - ESCAPE! #"
 	{
-		"trans"		"[{darkred}Map{default}] # PART 1 - ESCAPE! #"
+		"trans"		"# PART 1 - ESCAPE! #"
 	}
 	"<!!!> HOLD THIS POSITION <!!!>"
 	{
-		"trans"		"[{darkred}Map{default}] <!!!> HOLD THIS POSITION <!!!>"
+		"trans"		"<!!!> HOLD THIS POSITION <!!!>"
 	}
 	"<!!!> GATE OPEN <!!!>"
 	{
-		"trans"		"[{darkred}Map{default}] <!!!> GATE OPEN <!!!>"
+		"trans"		"<!!!> GATE OPEN <!!!>"
 	}
 	"<!!!> FALL BACK <!!!>"
 	{
-		"trans"		"[{darkred}Map{default}] <!!!> FALL BACK <!!!>"
+		"trans"		"<!!!> FALL BACK <!!!>"
 	}
 	"<!!!> DOOR OPEN <!!!>"
 	{
-		"trans"		"[{darkred}Map{default}] <!!!> DOOR OPEN <!!!>"
+		"trans"		"<!!!> DOOR OPEN <!!!>"
 	}
 	"# SANDBAG WALL #"
 	{
-		"trans"		"[{darkred}Map{default}] # SANDBAG WALL #"
+		"trans"		"# SANDBAG WALL #"
 	}
 	"<!!!> HOLD HERE <!!!>"
 	{
-		"trans"		"[{darkred}Map{default}] <!!!> HOLD HERE <!!!>"
+		"trans"		"<!!!> HOLD HERE <!!!>"
 	}
 	"<!!!> FINAL DOOR CLOSING IN <!!!>"
 	{
-		"trans"		"[{darkred}Map{default}] <!!!> FINAL DOOR CLOSING IN <!!!>"
+		"trans"		"<!!!> FINAL DOOR CLOSING IN <!!!>"
 	}
 	"<!!!> 40 SECONDS <!!!>"
 	{
-		"trans"		"[{darkred}Map{default}] <!!!> 40 SECONDS <!!!>"
+		"trans"		"<!!!> 40 SECONDS <!!!>"
 	}
 	"# BLACK MAGIC #"
 	{
-		"trans"		"[{darkred}Map{default}] # BLACK MAGIC #"
+		"trans"		"# BLACK MAGIC #"
 	}
 	"# MAGIC - FOG #"
 	{
-		"trans"		"[{darkred}Map{default}] # MAGIC - FOG #"
+		"trans"		"# MAGIC - FOG #"
 	}
 	"<!!!> 30 SECONDS <!!!>"
 	{
-		"trans"		"[{darkred}Map{default}] <!!!> 30 SECONDS <!!!>"
+		"trans"		"<!!!> 30 SECONDS <!!!>"
 	}
 	"<!!!> 20 SECONDS <!!!>"
 	{
-		"trans"		"[{darkred}Map{default}] <!!!> 20 SECONDS <!!!>"
+		"trans"		"<!!!> 20 SECONDS <!!!>"
 	}
 	"<!!!> 10 SECONDS <!!!>"
 	{
-		"trans"		"[{darkred}Map{default}] <!!!> 10 SECONDS <!!!>"
+		"trans"		"<!!!> 10 SECONDS <!!!>"
 	}
 	"<!!!> 5 SECONDS <!!!>"
 	{
-		"trans"		"[{darkred}Map{default}] <!!!> 5 SECONDS <!!!>"
+		"trans"		"<!!!> 5 SECONDS <!!!>"
 	}
 	"<!!!> PART 1 - ESCAPE! PASSED <!!!>"
 	{
-		"trans"		"[{darkred}Map{default}] <!!!> PART 1 - ESCAPE! PASSED <!!!>"
+		"trans"		"<!!!> PART 1 - ESCAPE! PASSED <!!!>"
 	}
 	"# PART 2 - CASTLE KEEP #"
 	{
-		"trans"		"[{darkred}Map{default}] # PART 2 - CASTLE KEEP #"
+		"trans"		"# PART 2 - CASTLE KEEP #"
 	}
 	"# HOLD HERE #"
 	{
-		"trans"		"[{darkred}Map{default}] # HOLD HERE #"
+		"trans"		"# HOLD HERE #"
 	}
 	"<!!!> ACTIVATE LEVER <!!!>"
 	{
-		"trans"		"[{darkred}Map{default}] <!!!> ACTIVATE LEVER <!!!>"
+		"trans"		"<!!!> ACTIVATE LEVER <!!!>"
 	}
 	"# 10 SECONDS #"
 	{
-		"trans"		"[{darkred}Map{default}] # 10 SECONDS #"
+		"trans"		"# 10 SECONDS #"
 	}
 	"<!!!> GO GO GO <!!!>"
 	{
-		"trans"		"[{darkred}Map{default}] <!!!> GO GO GO <!!!>"
+		"trans"		"<!!!> GO GO GO <!!!>"
 	}
 	"<!!!> UP THE STAIRS <!!!>"
 	{
-		"trans"		"[{darkred}Map{default}] <!!!> UP THE STAIRS <!!!>"
+		"trans"		"<!!!> UP THE STAIRS <!!!>"
 	}
 	"# HOLD THIS POSITION #"
 	{
-		"trans"		"[{darkred}Map{default}] # HOLD THIS POSITION #"
+		"trans"		"# HOLD THIS POSITION #"
 	}
 	"# PRESS BUTTON #"
 	{
-		"trans"		"[{darkred}Map{default}] # PRESS BUTTON #"
+		"trans"		"# PRESS BUTTON #"
 	}
 	"<!!!> GATE OPEN IN 20 SECONDS <!!!>"
 	{
-		"trans"		"[{darkred}Map{default}] <!!!> GATE OPEN IN 20 SECONDS <!!!>"
+		"trans"		"<!!!> GATE OPEN IN 20 SECONDS <!!!>"
 	}
 	"<!!!> GO LEFT <!!!>"
 	{
-		"trans"		"[{darkred}Map{default}] <!!!> GO LEFT <!!!>"
+		"trans"		"<!!!> GO LEFT <!!!>"
 	}
 	"<!!!> DOOR CLOSING IN 15 SECONDS <!!!>"
 	{
-		"trans"		"[{darkred}Map{default}] <!!!> DOOR CLOSING IN 15 SECONDS <!!!>"
+		"trans"		"<!!!> DOOR CLOSING IN 15 SECONDS <!!!>"
 	}
 	"<!!!> DEFEND THIS POSITION <!!!>"
 	{
-		"trans"		"[{darkred}Map{default}] <!!!> DEFEND THIS POSITION <!!!>"
+		"trans"		"<!!!> DEFEND THIS POSITION <!!!>"
 	}
 	"<!!!> PART 2 - CASTLE KEEP PASSED <!!!>"
 	{
-		"trans"		"[{darkred}Map{default}] <!!!> PART 2 - CASTLE KEEP PASSED <!!!>"
+		"trans"		"<!!!> PART 2 - CASTLE KEEP PASSED <!!!>"
 	}
 	"# PART 3 - TRAM RIDE #"
 	{
-		"trans"		"[{darkred}Map{default}] # PART 3 - TRAM RIDE #"
+		"trans"		"# PART 3 - TRAM RIDE #"
 	}
 	"# TRAM ON ITS WAY #"
 	{
-		"trans"		"[{darkred}Map{default}] # TRAM ON ITS WAY #"
+		"trans"		"# TRAM ON ITS WAY #"
 	}
 	"# TRAM ARRIVED # "
 	{
-		"trans"		"[{darkred}Map{default}] # TRAM ARRIVED # "
+		"trans"		"# TRAM ARRIVED # "
 	}
 	"# TRAM IS LEAVING # "
 	{
-		"trans"		"[{darkred}Map{default}] # TRAM IS LEAVING # "
+		"trans"		"# TRAM IS LEAVING # "
 	}
 	"# HOLD TRAM #"
 	{
-		"trans"		"[{darkred}Map{default}] # HOLD TRAM #"
+		"trans"		"# HOLD TRAM #"
 	}
 	"# TRAM START IN 20 SECONDS #"
 	{
-		"trans"		"[{darkred}Map{default}] # TRAM START IN 20 SECONDS #"
+		"trans"		"# TRAM START IN 20 SECONDS #"
 	}
 	"# DOOR OPEN IN 20 SECONDS #"
 	{
-		"trans"		"[{darkred}Map{default}] # DOOR OPEN IN 20 SECONDS #"
+		"trans"		"# DOOR OPEN IN 20 SECONDS #"
 	}
 	"# DOOR OPEN #"
 	{
-		"trans"		"[{darkred}Map{default}] # DOOR OPEN #"
+		"trans"		"# DOOR OPEN #"
 	}
 	"# TORCH #"
 	{
-		"trans"		"[{darkred}Map{default}] # TORCH #"
+		"trans"		"# TORCH #"
 	}
 	"# FINAL DOOR CLOSING IN 20 SECONDS #"
 	{
-		"trans"		"[{darkred}Map{default}] # FINAL DOOR CLOSING IN 20 SECONDS #"
+		"trans"		"# FINAL DOOR CLOSING IN 20 SECONDS #"
 	}
 	"# 5 SECONDS #"
 	{
-		"trans"		"[{darkred}Map{default}] # 5 SECONDS #"
+		"trans"		"# 5 SECONDS #"
 	}
 	"<!!!> PART 3 - TRAM RIDE PASSED <!!!>"
 	{
-		"trans"		"[{darkred}Map{default}] <!!!> PART 3 - TRAM RIDE PASSED <!!!>"
+		"trans"		"<!!!> PART 3 - TRAM RIDE PASSED <!!!>"
 	}
 	"<!!!> EASY COMPLETED <!!!>"
 	{
-		"trans"		"[{darkred}Map{default}] <!!!> EASY COMPLETED <!!!>"
+		"trans"		"<!!!> EASY COMPLETED <!!!>"
 	}
 	"<!!!> ZOMBIE'S DETECTED - YOU LOSE <!!!>"
 	{
-		"trans"		"[{darkred}Map{default}] <!!!> ZOMBIE'S DETECTED - YOU LOSE <!!!>"
+		"trans"		"<!!!> ZOMBIE'S DETECTED - YOU LOSE <!!!>"
 	}
 	"# FLAMETHROWER #"
 	{
-		"trans"		"[{darkred}Map{default}] # FLAMETHROWER #"
+		"trans"		"# FLAMETHROWER #"
 	}
 	"# VENT OPEN IN 15 SECONDS #"
 	{
-		"trans"		"[{darkred}Map{default}] # VENT OPEN IN 15 SECONDS #"
+		"trans"		"# VENT OPEN IN 15 SECONDS #"
 	}
 	"# VENT OPEN #"
 	{
-		"trans"		"[{darkred}Map{default}] # VENT OPEN #"
+		"trans"		"# VENT OPEN #"
 	}
 	"# FINAL DOOR CLOSING IN 40 SECONDS #"
 	{
-		"trans"		"[{darkred}Map{default}] # FINAL DOOR CLOSING IN 40 SECONDS #"
+		"trans"		"# FINAL DOOR CLOSING IN 40 SECONDS #"
 	}
 	"# 30 SECONDS #"
 	{
-		"trans"		"[{darkred}Map{default}] # 30 SECONDS #"
+		"trans"		"# 30 SECONDS #"
 	}
 	"# 20 SECONDS #"
 	{
-		"trans"		"[{darkred}Map{default}] # 20 SECONDS #"
+		"trans"		"# 20 SECONDS #"
 	}
 	"<!!!> MED COMPLETED <!!!>"
 	{
-		"trans"		"[{darkred}Map{default}] <!!!> MED COMPLETED <!!!>"
+		"trans"		"<!!!> MED COMPLETED <!!!>"
 	}
 	"# MG42 AMMO #"
 	{
-		"trans"		"[{darkred}Map{default}] # MG42 AMMO #"
+		"trans"		"# MG42 AMMO #"
 	}
 	"# MG42 AMMO LOADED #"
 	{
-		"trans"		"[{darkred}Map{default}] # MG42 AMMO LOADED #"
+		"trans"		"# MG42 AMMO LOADED #"
 	}
 	"# MAGIC - FREEZE #"
 	{
-		"trans"		"[{darkred}Map{default}] # MAGIC - FREEZE #"
+		"trans"		"# MAGIC - FREEZE #"
 	}
 	"# UNLIMITED AMMO #"
 	{
-		"trans"		"[{darkred}Map{default}] # UNLIMITED AMMO #"
+		"trans"		"# UNLIMITED AMMO #"
 	}
 	"# UNLIMITED AMMO - 14 SECONDS #"
 	{
-		"trans"		"[{darkred}Map{default}] # UNLIMITED AMMO - 14 SECONDS #"
+		"trans"		"# UNLIMITED AMMO - 14 SECONDS #"
 	}
 	"# BAZOOKA #"
 	{
-		"trans"		"[{darkred}Map{default}] # BAZOOKA #"
+		"trans"		"# BAZOOKA #"
 	}
 	"# ITEM RESTRICTION - BAZOOKA #"
 	{
-		"trans"		"[{darkred}Map{default}] # ITEM RESTRICTION - BAZOOKA #"
+		"trans"		"# ITEM RESTRICTION - BAZOOKA #"
 	}
 	"# ITEM RESTRICTION - SANDBAG WALL #"
 	{
-		"trans"		"[{darkred}Map{default}] # ITEM RESTRICTION - SANDBAG WALL #"
+		"trans"		"# ITEM RESTRICTION - SANDBAG WALL #"
 	}
 	"<!!!> 60 SECONDS <!!!>"
 	{
-		"trans"		"[{darkred}Map{default}] <!!!> 60 SECONDS <!!!>"
+		"trans"		"<!!!> 60 SECONDS <!!!>"
 	}
 	"<!!!> 50 SECONDS <!!!>"
 	{
-		"trans"		"[{darkred}Map{default}] <!!!> 50 SECONDS <!!!>"
+		"trans"		"<!!!> 50 SECONDS <!!!>"
 	}
 }

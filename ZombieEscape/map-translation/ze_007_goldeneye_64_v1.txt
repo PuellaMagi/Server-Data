@@ -2,14 +2,14 @@
 {
 	"*** STAGE 1 ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** STAGE 1 ***"
+		"trans"		"*** STAGE 1 ***"
 	}
 	"*** SURVIVE FOR 45 SECONDS ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** SURVIVE FOR 45 SECONDS ***"
+		"trans"		"*** SURVIVE FOR 45 SECONDS ***"
 	}
 	"*** 7 SECONDS REMAINING ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** 7 SECONDS REMAINING ***"
+		"trans"		"*** 7 SECONDS REMAINING ***"
 	}
 }

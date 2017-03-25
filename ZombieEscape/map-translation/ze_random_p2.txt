@@ -4,431 +4,431 @@
 	{
 		"RelaxingWalls***"
 		{
-			"trans"		"[{darkred}Map{default}] ***Map by SonicTheHitManHog/RelaxingWalls***"
+			"trans"		"***Map by SonicTheHitManHog/RelaxingWalls***"
 		}
 	}
 	"***LEVEL -- BOX WITH A LIGHT IN IT***"
 	{
-		"trans"		"[{darkred}Map{default}] ***LEVEL -- BOX WITH A LIGHT IN IT***"
+		"trans"		"***LEVEL -- BOX WITH A LIGHT IN IT***"
 	}
 	"***Hold off as the zombies spawn until you're teleport to 1 of the 9 maps!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Hold off as the zombies spawn until you're teleport to 1 of the 9 maps!***"
+		"trans"		"***Hold off as the zombies spawn until you're teleport to 1 of the 9 maps!***"
 	}
 	"***Teleporting in 20secs!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Teleporting in 20secs!***"
+		"trans"		"***Teleporting in 20secs!***"
 	}
 	"***3***"
 	{
-		"trans"		"[{darkred}Map{default}] ***3***"
+		"trans"		"***3***"
 	}
 	"***2***"
 	{
-		"trans"		"[{darkred}Map{default}] ***2***"
+		"trans"		"***2***"
 	}
 	"***1***"
 	{
-		"trans"		"[{darkred}Map{default}] ***1***"
+		"trans"		"***1***"
 	}
 	"***Good Luck!!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Good Luck!!***"
+		"trans"		"***Good Luck!!***"
 	}
 	"***LEVEL-- CITY NIGHT ESCAPE***"
 	{
-		"trans"		"[{darkred}Map{default}] ***LEVEL-- CITY NIGHT ESCAPE***"
+		"trans"		"***LEVEL-- CITY NIGHT ESCAPE***"
 	}
 	"***Elevator 1 coming in 10secs!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Elevator 1 coming in 10secs!***"
+		"trans"		"***Elevator 1 coming in 10secs!***"
 	}
 	"***Elevator 1 leaving in 5secs!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Elevator 1 leaving in 5secs!***"
+		"trans"		"***Elevator 1 leaving in 5secs!***"
 	}
 	"***Power lost. Shoot the doors!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Power lost. Shoot the doors!***"
+		"trans"		"***Power lost. Shoot the doors!***"
 	}
 	"***Hold until the escape helicopter comes in pick you up!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Hold until the escape helicopter comes in pick you up!***"
+		"trans"		"***Hold until the escape helicopter comes in pick you up!***"
 	}
 	"***Fall Back Balcony open!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Fall Back Balcony open!***"
+		"trans"		"***Fall Back Balcony open!***"
 	}
 	"***Helicopter coming in 5secs!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Helicopter coming in 5secs!***"
+		"trans"		"***Helicopter coming in 5secs!***"
 	}
 	"***4***"
 	{
-		"trans"		"[{darkred}Map{default}] ***4***"
+		"trans"		"***4***"
 	}
 	"***OH SH--!!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***OH SH--!!***"
+		"trans"		"***OH SH--!!***"
 	}
 	"***Hold W to go faster and S to slow down!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Hold W to go faster and S to slow down!***"
+		"trans"		"***Hold W to go faster and S to slow down!***"
 	}
 	"***Jump and be careful not to hit to many stoppers!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Jump and be careful not to hit to many stoppers!***"
+		"trans"		"***Jump and be careful not to hit to many stoppers!***"
 	}
 	"***LEVEL -- ICE CAP ESCAPE***"
 	{
-		"trans"		"[{darkred}Map{default}] ***LEVEL -- ICE CAP ESCAPE***"
+		"trans"		"***LEVEL -- ICE CAP ESCAPE***"
 	}
 	"***Everyone HOLD the boxes while someone starts up the teleporter!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Everyone HOLD the boxes while someone starts up the teleporter!***"
+		"trans"		"***Everyone HOLD the boxes while someone starts up the teleporter!***"
 	}
 	"***Teleporter will be fully charged in 20secs!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Teleporter will be fully charged in 20secs!***"
+		"trans"		"***Teleporter will be fully charged in 20secs!***"
 	}
 	"***Teleporter ERROR!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Teleporter ERROR!***"
+		"trans"		"***Teleporter ERROR!***"
 	}
 	"***Escape Boat leaving in 35secs!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Escape Boat leaving in 35secs!***"
+		"trans"		"***Escape Boat leaving in 35secs!***"
 	}
 	"***HOLD THE CRATES!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***HOLD THE CRATES!***"
+		"trans"		"***HOLD THE CRATES!***"
 	}
 	"***Escape Boat engine failure!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Escape Boat engine failure!***"
+		"trans"		"***Escape Boat engine failure!***"
 	}
 	"***...Take the Wash Bucket...?***"
 	{
-		"trans"		"[{darkred}Map{default}] ***...Take the Wash Bucket...?***"
+		"trans"		"***...Take the Wash Bucket...?***"
 	}
 	"***Don't Delay!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Don't Delay!***"
+		"trans"		"***Don't Delay!***"
 	}
 	"***Teleporting to next map!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Teleporting to next map!***"
+		"trans"		"***Teleporting to next map!***"
 	}
 	"***LEVEL -- COUCH ESCAPE***"
 	{
-		"trans"		"[{darkred}Map{default}] ***LEVEL -- COUCH ESCAPE***"
+		"trans"		"***LEVEL -- COUCH ESCAPE***"
 	}
 	"***Shoot the couch into the marked boxes to break the barriers and make your way to the escape tunnel in 180secs!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Shoot the couch into the marked boxes to break the barriers and make your way to the escape tunnel in 180secs!***"
+		"trans"		"***Shoot the couch into the marked boxes to break the barriers and make your way to the escape tunnel in 180secs!***"
 	}
 	"***If the world is going to end at least you'll have a warm seat!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***If the world is going to end at least you'll have a warm seat!***"
+		"trans"		"***If the world is going to end at least you'll have a warm seat!***"
 	}
 	"***Zombie barrier breaking in 20secs get moving!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Zombie barrier breaking in 20secs get moving!***"
+		"trans"		"***Zombie barrier breaking in 20secs get moving!***"
 	}
 	"***Hold these crates while someone breaks the barrier and gets the couch going!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Hold these crates while someone breaks the barrier and gets the couch going!***"
+		"trans"		"***Hold these crates while someone breaks the barrier and gets the couch going!***"
 	}
 	"***Barrier breaking in 5secs!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Barrier breaking in 5secs!***"
+		"trans"		"***Barrier breaking in 5secs!***"
 	}
 	"***Hurry under! Zombie block planks breaking in 15secs!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Hurry under! Zombie block planks breaking in 15secs!***"
+		"trans"		"***Hurry under! Zombie block planks breaking in 15secs!***"
 	}
 	"***Only 60secs left!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Only 60secs left!***"
+		"trans"		"***Only 60secs left!***"
 	}
 	"***Couch Only! Take the alleyway!"
 	{
-		"trans"		"[{darkred}Map{default}] ***Couch Only! Take the alleyway!"
+		"trans"		"***Couch Only! Take the alleyway!"
 	}
 	"***LEVEL -- FAIL NADES***"
 	{
-		"trans"		"[{darkred}Map{default}] ***LEVEL -- FAIL NADES***"
+		"trans"		"***LEVEL -- FAIL NADES***"
 	}
 	"***Zombie will arrive in 10secs!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Zombie will arrive in 10secs!***"
+		"trans"		"***Zombie will arrive in 10secs!***"
 	}
 	"***Split up on each side or group up on one! Just keep the zombies back until the valves on both sides are unlocked!*** "
 	{
-		"trans"		"[{darkred}Map{default}] ***Split up on each side or group up on one! Just keep the zombies back until the valves on both sides are unlocked!*** "
+		"trans"		"***Split up on each side or group up on one! Just keep the zombies back until the valves on both sides are unlocked!*** "
 	}
 	"***Valves unlocked in 35secs!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Valves unlocked in 35secs!***"
+		"trans"		"***Valves unlocked in 35secs!***"
 	}
 	"***Valves are stuck! BREAK THEM! Only 20secs to destroy both!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Valves are stuck! BREAK THEM! Only 20secs to destroy both!***"
+		"trans"		"***Valves are stuck! BREAK THEM! Only 20secs to destroy both!***"
 	}
 	"***If one side overrun start chucking nades over to break the valve!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***If one side overrun start chucking nades over to break the valve!***"
+		"trans"		"***If one side overrun start chucking nades over to break the valve!***"
 	}
 	"***Zombie drain open!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Zombie drain open!***"
+		"trans"		"***Zombie drain open!***"
 	}
 	"***Teleporting to FINAL MAP!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Teleporting to FINAL MAP!***"
+		"trans"		"***Teleporting to FINAL MAP!***"
 	}
 	"***FINAL LEVEL -- ZOMBIE MURDER****"
 	{
-		"trans"		"[{darkred}Map{default}] ***FINAL LEVEL -- ZOMBIE MURDER****"
+		"trans"		"***FINAL LEVEL -- ZOMBIE MURDER****"
 	}
 	"***Zombies will arrive soon!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Zombies will arrive soon!***"
+		"trans"		"***Zombies will arrive soon!***"
 	}
 	"***Hold the sign for 20secs!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Hold the sign for 20secs!***"
+		"trans"		"***Hold the sign for 20secs!***"
 	}
 	"***FINAL BOSS INCOMING!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***FINAL BOSS INCOMING!***"
+		"trans"		"***FINAL BOSS INCOMING!***"
 	}
 	"***ZOMBIE is about to collapse! GET OFF!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***ZOMBIE is about to collapse! GET OFF!***"
+		"trans"		"***ZOMBIE is about to collapse! GET OFF!***"
 	}
 	"***JUMP OFF!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***JUMP OFF!***"
+		"trans"		"***JUMP OFF!***"
 	}
 	"***Shoot it before your knocked off!!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Shoot it before your knocked off!!***"
+		"trans"		"***Shoot it before your knocked off!!***"
 	}
 	"***Final attack will be charged in 60secs!!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Final attack will be charged in 60secs!!***"
+		"trans"		"***Final attack will be charged in 60secs!!***"
 	}
 	"***Watch out for...barrel...attacks...?***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Watch out for...barrel...attacks...?***"
+		"trans"		"***Watch out for...barrel...attacks...?***"
 	}
 	"***The Boss has been weakened But it will recover in 60secs and use its final attack!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***The Boss has been weakened But it will recover in 60secs and use its final attack!***"
+		"trans"		"***The Boss has been weakened But it will recover in 60secs and use its final attack!***"
 	}
 	"***CT's will have to jump off and activate the switches!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***CT's will have to jump off and activate the switches!***"
+		"trans"		"***CT's will have to jump off and activate the switches!***"
 	}
 	"***Turn on all 4 to FINISH IT OFF and activate the Orb Teleport!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Turn on all 4 to FINISH IT OFF and activate the Orb Teleport!***"
+		"trans"		"***Turn on all 4 to FINISH IT OFF and activate the Orb Teleport!***"
 	}
 	"***Switch 1 Unlocked!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Switch 1 Unlocked!***"
+		"trans"		"***Switch 1 Unlocked!***"
 	}
 	"***LEVEL -- CLASSIC***"
 	{
-		"trans"		"[{darkred}Map{default}] ***LEVEL -- CLASSIC***"
+		"trans"		"***LEVEL -- CLASSIC***"
 	}
 	"***Zombie will arrive in 20secs!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Zombie will arrive in 20secs!***"
+		"trans"		"***Zombie will arrive in 20secs!***"
 	}
 	"***Survive for 75secs!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Survive for 75secs!***"
+		"trans"		"***Survive for 75secs!***"
 	}
 	"***Survive for 15secs!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Survive for 15secs!***"
+		"trans"		"***Survive for 15secs!***"
 	}
 	"***HOLD the first tunnel crates while the others gets the couch out of the maintenance path and break the barriers!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***HOLD the first tunnel crates while the others gets the couch out of the maintenance path and break the barriers!***"
+		"trans"		"***HOLD the first tunnel crates while the others gets the couch out of the maintenance path and break the barriers!***"
 	}
 	"***Switch Activated!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Switch Activated!***"
+		"trans"		"***Switch Activated!***"
 	}
 	"***All Switches ON!!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***All Switches ON!!***"
+		"trans"		"***All Switches ON!!***"
 	}
 	"***PORTAL COLLAPSING IN 10secs!! ***"
 	{
-		"trans"		"[{darkred}Map{default}] ***PORTAL COLLAPSING IN 10secs!! ***"
+		"trans"		"***PORTAL COLLAPSING IN 10secs!! ***"
 	}
 	"***JUMP INTO THE ORB!!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***JUMP INTO THE ORB!!***"
+		"trans"		"***JUMP INTO THE ORB!!***"
 	}
 	"***HURRY UP!!!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***HURRY UP!!!***"
+		"trans"		"***HURRY UP!!!***"
 	}
 	"***LEVEL -- INTERSTELLAR ESCAPE 9***"
 	{
-		"trans"		"[{darkred}Map{default}] ***LEVEL -- INTERSTELLAR ESCAPE 9***"
+		"trans"		"***LEVEL -- INTERSTELLAR ESCAPE 9***"
 	}
 	"***Make your way from train to train until you reach the Black Express!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Make your way from train to train until you reach the Black Express!***"
+		"trans"		"***Make your way from train to train until you reach the Black Express!***"
 	}
 	"***Cargo door opening in 15secs!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Cargo door opening in 15secs!***"
+		"trans"		"***Cargo door opening in 15secs!***"
 	}
 	"***Emergency doors closing in 10secs!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Emergency doors closing in 10secs!***"
+		"trans"		"***Emergency doors closing in 10secs!***"
 	}
 	"***Boxcar door opening in 10secs!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Boxcar door opening in 10secs!***"
+		"trans"		"***Boxcar door opening in 10secs!***"
 	}
 	"***LEVEL -- ZOMBIE DEATHRUN***"
 	{
-		"trans"		"[{darkred}Map{default}] ***LEVEL -- ZOMBIE DEATHRUN***"
+		"trans"		"***LEVEL -- ZOMBIE DEATHRUN***"
 	}
 	"***Shoot wisely!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Shoot wisely!***"
+		"trans"		"***Shoot wisely!***"
 	}
 	"***Zombies try to trap the CTs!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Zombies try to trap the CTs!***"
+		"trans"		"***Zombies try to trap the CTs!***"
 	}
 	"***CTs have 120secs to escape as the temple's curse spreads!*** "
 	{
-		"trans"		"[{darkred}Map{default}] ***CTs have 120secs to escape as the temple's curse spreads!*** "
+		"trans"		"***CTs have 120secs to escape as the temple's curse spreads!*** "
 	}
 	"***The curse has reached spawn!*** "
 	{
-		"trans"		"[{darkred}Map{default}] ***The curse has reached spawn!*** "
+		"trans"		"***The curse has reached spawn!*** "
 	}
 	"***The curse has reached the dual arch!*** "
 	{
-		"trans"		"[{darkred}Map{default}] ***The curse has reached the dual arch!*** "
+		"trans"		"***The curse has reached the dual arch!*** "
 	}
 	"***Good things come to those who wait...***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Good things come to those who wait...***"
+		"trans"		"***Good things come to those who wait...***"
 	}
 	"***Did someone see an awp?***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Did someone see an awp?***"
+		"trans"		"***Did someone see an awp?***"
 	}
 	"***Final express door opening in 25secs!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Final express door opening in 25secs!***"
+		"trans"		"***Final express door opening in 25secs!***"
 	}
 	"***Final express door open!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Final express door open!***"
+		"trans"		"***Final express door open!***"
 	}
 	"***LEVEL -- CARPET ESCAPE***"
 	{
-		"trans"		"[{darkred}Map{default}] ***LEVEL -- CARPET ESCAPE***"
+		"trans"		"***LEVEL -- CARPET ESCAPE***"
 	}
 	"***Take the Carpet and make your way to the escape door!*** "
 	{
-		"trans"		"[{darkred}Map{default}] ***Take the Carpet and make your way to the escape door!*** "
+		"trans"		"***Take the Carpet and make your way to the escape door!*** "
 	}
 	"***Carpet leaving in 3secs!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Carpet leaving in 3secs!***"
+		"trans"		"***Carpet leaving in 3secs!***"
 	}
 	"***Door breaking in 10secs!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Door breaking in 10secs!***"
+		"trans"		"***Door breaking in 10secs!***"
 	}
 	"***Hurry through the warehouse while the carpet passes under!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Hurry through the warehouse while the carpet passes under!***"
+		"trans"		"***Hurry through the warehouse while the carpet passes under!***"
 	}
 	"***Shoot the Block!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Shoot the Block!***"
+		"trans"		"***Shoot the Block!***"
 	}
 	"***C4 set to go off in 25secs!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***C4 set to go off in 25secs!***"
+		"trans"		"***C4 set to go off in 25secs!***"
 	}
 	"***Defend for 35secs as the Carpet...refuels...?***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Defend for 35secs as the Carpet...refuels...?***"
+		"trans"		"***Defend for 35secs as the Carpet...refuels...?***"
 	}
 	"***Carpet leaves in 5secs!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Carpet leaves in 5secs!***"
+		"trans"		"***Carpet leaves in 5secs!***"
 	}
 	"***LEVEL -- OPEN FIELD***"
 	{
-		"trans"		"[{darkred}Map{default}] ***LEVEL -- OPEN FIELD***"
+		"trans"		"***LEVEL -- OPEN FIELD***"
 	}
 	"***Survive for 90secs***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Survive for 90secs***"
+		"trans"		"***Survive for 90secs***"
 	}
 	"***Beware K.'s SlenderMan!*** "
 	{
-		"trans"		"[{darkred}Map{default}] ***Beware K.'s SlenderMan!*** "
+		"trans"		"***Beware K.'s SlenderMan!*** "
 	}
 	"***Survive for 15secs***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Survive for 15secs***"
+		"trans"		"***Survive for 15secs***"
 	}
 	"***CTs have 15secs to escape!*** "
 	{
-		"trans"		"[{darkred}Map{default}] ***CTs have 15secs to escape!*** "
+		"trans"		"***CTs have 15secs to escape!*** "
 	}
 	"***Wait here till everyone else makes it!*** "
 	{
-		"trans"		"[{darkred}Map{default}] ***Wait here till everyone else makes it!*** "
+		"trans"		"***Wait here till everyone else makes it!*** "
 	}
 	"***The curse has reached Mona's Hallway!*** "
 	{
-		"trans"		"[{darkred}Map{default}] ***The curse has reached Mona's Hallway!*** "
+		"trans"		"***The curse has reached Mona's Hallway!*** "
 	}
 	"***Hold final barrier for 15secs!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Hold final barrier for 15secs!***"
+		"trans"		"***Hold final barrier for 15secs!***"
 	}
 	"***Final barrier down!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Final barrier down!***"
+		"trans"		"***Final barrier down!***"
 	}
 	"***Final attack charged!!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Final attack charged!!***"
+		"trans"		"***Final attack charged!!***"
 	}
 	"***TEXT ATTACK FIRED!!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***TEXT ATTACK FIRED!!***"
+		"trans"		"***TEXT ATTACK FIRED!!***"
 	}
 	"***BACKSPACE!!!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***BACKSPACE!!!***"
+		"trans"		"***BACKSPACE!!!***"
 	}
 	"***CONGRATULATIONS -- ...Wait...F---!!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***CONGRATULATIONS -- ...Wait...F---!!***"
+		"trans"		"***CONGRATULATIONS -- ...Wait...F---!!***"
 	}
 	"***CONGRATULATIONS -- THANK YOU FOR PLAYING!!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***CONGRATULATIONS -- THANK YOU FOR PLAYING!!***"
+		"trans"		"***CONGRATULATIONS -- THANK YOU FOR PLAYING!!***"
 	}
 }

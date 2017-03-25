@@ -2,42 +2,42 @@
 {
 	"** WE'VE GOT TO GET THE TRAIN GOING... FOLLOW THE TRACKS TO THE TRAIN BUILDING! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** WE'VE GOT TO GET THE TRAIN GOING... FOLLOW THE TRACKS TO THE TRAIN BUILDING! **"
+		"trans"		"** WE'VE GOT TO GET THE TRAIN GOING... FOLLOW THE TRACKS TO THE TRAIN BUILDING! **"
 	}
 	"** SOME HUMANS WILL HAVE TO HOLD THE PYRAMID... THAT'S OUR ESCAPE POINT! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** SOME HUMANS WILL HAVE TO HOLD THE PYRAMID... THAT'S OUR ESCAPE POINT! **"
+		"trans"		"** SOME HUMANS WILL HAVE TO HOLD THE PYRAMID... THAT'S OUR ESCAPE POINT! **"
 	}
 	"** Napalm Launcher has been acquired! (4sec. cooldown w／ 32 rounds) **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Napalm Launcher has been acquired! (4sec. cooldown w／ 32 rounds) **"
+		"trans"		"** Napalm Launcher has been acquired! (4sec. cooldown w／ 32 rounds) **"
 	}
 	"** Advanced Crummy Pushgun has been acquired! (30sec. cooldown) **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Advanced Crummy Pushgun has been acquired! (30sec. cooldown) **"
+		"trans"		"** Advanced Crummy Pushgun has been acquired! (30sec. cooldown) **"
 	}
 	"** THE TRAIN IS APPROACHING! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** THE TRAIN IS APPROACHING! **"
+		"trans"		"** THE TRAIN IS APPROACHING! **"
 	}
 	"** THE TRAIN HAS ARRIVED AT THE TARGET BUILDING! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** THE TRAIN HAS ARRIVED AT THE TARGET BUILDING! **"
+		"trans"		"** THE TRAIN HAS ARRIVED AT THE TARGET BUILDING! **"
 	}
 	"** THE PYRAMID DOOR WILL OPEN IN 45 SECONDS! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** THE PYRAMID DOOR WILL OPEN IN 45 SECONDS! **"
+		"trans"		"** THE PYRAMID DOOR WILL OPEN IN 45 SECONDS! **"
 	}
 	"** THE PYRAMID DOOR WILL OPEN IN 15 SECONDS! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** THE PYRAMID DOOR WILL OPEN IN 15 SECONDS! **"
+		"trans"		"** THE PYRAMID DOOR WILL OPEN IN 15 SECONDS! **"
 	}
 	"** THE PYRAMID DOOR IS OPENING! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** THE PYRAMID DOOR IS OPENING! **"
+		"trans"		"** THE PYRAMID DOOR IS OPENING! **"
 	}
 	"** NUKE HAS BEEN LAUNCHED **"
 	{
-		"trans"		"[{darkred}Map{default}] ** NUKE HAS BEEN LAUNCHED **"
+		"trans"		"** NUKE HAS BEEN LAUNCHED **"
 	}
 }

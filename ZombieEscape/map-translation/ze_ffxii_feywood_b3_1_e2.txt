@@ -2,594 +2,594 @@
 {
 	"**ZE_FFXII_FEYWOOD**"
 	{
-		"trans"		"[{darkred}Map{default}] **ZE_FFXII_FEYWOOD**"
+		"trans"		"**ZE_FFXII_FEYWOOD**"
 	}
 	"**MAP PORTED BY  DaShiJie**"
 	{
-		"trans"		"[{darkred}Map{default}] **MAP PORTED BY  DaShiJie**"
+		"trans"		"**MAP PORTED BY  DaShiJie**"
 	}
 	"**MAP BY HaRyDe & Headshooter.SC**"
 	{
-		"trans"		"[{darkred}Map{default}] **MAP BY HaRyDe & Headshooter.SC**"
+		"trans"		"**MAP BY HaRyDe & Headshooter.SC**"
 	}
 	"**WARMUP ROUND**"
 	{
-		"trans"		"[{darkred}Map{default}] **WARMUP ROUND**"
+		"trans"		"**WARMUP ROUND**"
 	}
 	"**Special thanks to Kaesar Batnik_Ref.smd Kaem Hannibal[SPA] (effects from his maps) and Slayerdragon**"
 	{
-		"trans"		"[{darkred}Map{default}] **Special thanks to Kaesar Batnik_Ref.smd Kaem Hannibal[SPA] (effects from his maps) and Slayerdragon**"
+		"trans"		"**Special thanks to Kaesar Batnik_Ref.smd Kaem Hannibal[SPA] (effects from his maps) and Slayerdragon**"
 	}
 	"**MAP START**"
 	{
-		"trans"		"[{darkred}Map{default}] **MAP START**"
+		"trans"		"**MAP START**"
 	}
 	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 1)**"
 	{
-		"trans"		"[{darkred}Map{default}] **A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 1)**"
+		"trans"		"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 1)**"
 	}
 	"**Welcome to Garland airship**"
 	{
-		"trans"		"[{darkred}Map{default}] **Welcome to Garland airship**"
+		"trans"		"**Welcome to Garland airship**"
 	}
 	"**The airship is flying near Feywood. Search for some of items and get ready to set out**"
 	{
-		"trans"		"[{darkred}Map{default}] **The airship is flying near Feywood. Search for some of items and get ready to set out**"
+		"trans"		"**The airship is flying near Feywood. Search for some of items and get ready to set out**"
 	}
 	"**The teleporter to Feywood will be active in 30 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}] **The teleporter to Feywood will be active in 30 seconds**"
+		"trans"		"**The teleporter to Feywood will be active in 30 seconds**"
 	}
 	"**GET INTO THE TELEPORTER**"
 	{
-		"trans"		"[{darkred}Map{default}] **GET INTO THE TELEPORTER**"
+		"trans"		"**GET INTO THE TELEPORTER**"
 	}
 	"**A PLAYER HAS ACQUIRED BERSERK MAGICK**"
 	{
-		"trans"		"[{darkred}Map{default}] **A PLAYER HAS ACQUIRED BERSERK MAGICK**"
+		"trans"		"**A PLAYER HAS ACQUIRED BERSERK MAGICK**"
 	}
 	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 1)**"
 	{
-		"trans"		"[{darkred}Map{default}] **A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 1)**"
+		"trans"		"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 1)**"
 	}
 	"**ZOMIBIE WARP WAS PICKED UP**(DAMAGE LEVEL 1)**"
 	{
-		"trans"		"[{darkred}Map{default}] **ZOMIBIE WARP WAS PICKED UP**(DAMAGE LEVEL 1)**"
+		"trans"		"**ZOMIBIE WARP WAS PICKED UP**(DAMAGE LEVEL 1)**"
 	}
 	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 1)**"
 	{
-		"trans"		"[{darkred}Map{default}] **A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 1)**"
+		"trans"		"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 1)**"
 	}
 	"**THE GATE WILL OPEN IN 20 SECONDS**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE GATE WILL OPEN IN 20 SECONDS**"
+		"trans"		"**THE GATE WILL OPEN IN 20 SECONDS**"
 	}
 	"**THE TELEPORTER WILL BE ACTIVE IN 10 SECONDS**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE TELEPORTER WILL BE ACTIVE IN 10 SECONDS**"
+		"trans"		"**THE TELEPORTER WILL BE ACTIVE IN 10 SECONDS**"
 	}
 	"**DEFEND THE GROUND FOR 30 SECONDS**"
 	{
-		"trans"		"[{darkred}Map{default}] **DEFEND THE GROUND FOR 30 SECONDS**"
+		"trans"		"**DEFEND THE GROUND FOR 30 SECONDS**"
 	}
 	"**CHOCHOBO SIDEQUEST STRATED**"
 	{
-		"trans"		"[{darkred}Map{default}] **CHOCHOBO SIDEQUEST STRATED**"
+		"trans"		"**CHOCHOBO SIDEQUEST STRATED**"
 	}
 	"**FIND 300 GIL TO UNLOCK CHOCOBOS ON SPAWN**"
 	{
-		"trans"		"[{darkred}Map{default}] **FIND 300 GIL TO UNLOCK CHOCOBOS ON SPAWN**"
+		"trans"		"**FIND 300 GIL TO UNLOCK CHOCOBOS ON SPAWN**"
 	}
 	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 1)**"
 	{
-		"trans"		"[{darkred}Map{default}] **A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 1)**"
+		"trans"		"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 1)**"
 	}
 	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 1)**"
 	{
-		"trans"		"[{darkred}Map{default}] **A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 1)**"
+		"trans"		"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 1)**"
 	}
 	"**THE GATES WILL OPEN IN 20 SECONDS**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE GATES WILL OPEN IN 20 SECONDS**"
+		"trans"		"**THE GATES WILL OPEN IN 20 SECONDS**"
 	}
 	"**THIS IS A DRAGON**WE MUST KILL HIM**"
 	{
-		"trans"		"[{darkred}Map{default}] **THIS IS A DRAGON**WE MUST KILL HIM**"
+		"trans"		"**THIS IS A DRAGON**WE MUST KILL HIM**"
 	}
 	"** Nades do more damage **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Nades do more damage **"
+		"trans"		"** Nades do more damage **"
 	}
 	"**THE DRAGON USED POISON**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE DRAGON USED POISON**"
+		"trans"		"**THE DRAGON USED POISON**"
 	}
 	"**THE DRAGON USED FIRE**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE DRAGON USED FIRE**"
+		"trans"		"**THE DRAGON USED FIRE**"
 	}
 	"**THE DRAGON USED VAMPIRE (+10 HP TO BOSS ON 1 PLAYER HIT)**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE DRAGON USED VAMPIRE (+10 HP TO BOSS ON 1 PLAYER HIT)**"
+		"trans"		"**THE DRAGON USED VAMPIRE (+10 HP TO BOSS ON 1 PLAYER HIT)**"
 	}
 	"**THE DRAGON USED WIND**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE DRAGON USED WIND**"
+		"trans"		"**THE DRAGON USED WIND**"
 	}
 	"**THE DRAGON IS FLYING AWAY**GOOD WORK**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE DRAGON IS FLYING AWAY**GOOD WORK**"
+		"trans"		"**THE DRAGON IS FLYING AWAY**GOOD WORK**"
 	}
 	"**THE ROCK WILL EXPLODE IN 5 SECONDS**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE ROCK WILL EXPLODE IN 5 SECONDS**"
+		"trans"		"**THE ROCK WILL EXPLODE IN 5 SECONDS**"
 	}
 	"**THE WAY IS OPENED**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE WAY IS OPENED**"
+		"trans"		"**THE WAY IS OPENED**"
 	}
 	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 1)**"
 	{
-		"trans"		"[{darkred}Map{default}] **A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 1)**"
+		"trans"		"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 1)**"
 	}
 	"**THE TOMB GATES WILL OPEN IN 10 SECONDS**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE TOMB GATES WILL OPEN IN 10 SECONDS**"
+		"trans"		"**THE TOMB GATES WILL OPEN IN 10 SECONDS**"
 	}
 	"**THE TOMB GATES WILL CLOSE IN 25 SECONDS**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE TOMB GATES WILL CLOSE IN 25 SECONDS**"
+		"trans"		"**THE TOMB GATES WILL CLOSE IN 25 SECONDS**"
 	}
 	"**THE TOMB GATES WILL CLOSE IN 5 SECONDS**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE TOMB GATES WILL CLOSE IN 5 SECONDS**"
+		"trans"		"**THE TOMB GATES WILL CLOSE IN 5 SECONDS**"
 	}
 	"** GOOD JOB [YOU WON LEVEL 1] **"
 	{
-		"trans"		"[{darkred}Map{default}] ** GOOD JOB [YOU WON LEVEL 1] **"
+		"trans"		"** GOOD JOB [YOU WON LEVEL 1] **"
 	}
 	"**ZOMIBIE CURAGA WAS PICKED UP**(HEAL LEVEL 1)**"
 	{
-		"trans"		"[{darkred}Map{default}] **ZOMIBIE CURAGA WAS PICKED UP**(HEAL LEVEL 1)**"
+		"trans"		"**ZOMIBIE CURAGA WAS PICKED UP**(HEAL LEVEL 1)**"
 	}
 	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 2)**"
 	{
-		"trans"		"[{darkred}Map{default}] **A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 2)**"
+		"trans"		"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 2)**"
 	}
 	"**THE ROCK WILL EXPLODE IN 15 SECONDS**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE ROCK WILL EXPLODE IN 15 SECONDS**"
+		"trans"		"**THE ROCK WILL EXPLODE IN 15 SECONDS**"
 	}
 	"**THE TOMB GATES WILL OPEN IN 20 SECONDS**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE TOMB GATES WILL OPEN IN 20 SECONDS**"
+		"trans"		"**THE TOMB GATES WILL OPEN IN 20 SECONDS**"
 	}
 	"**THE GATES ARE OPENING**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE GATES ARE OPENING**"
+		"trans"		"**THE GATES ARE OPENING**"
 	}
 	"**YOU NEED TO BREAK CRYSTALS IN SIDE ROOMS TO GET ACCESS TO DOORS**"
 	{
-		"trans"		"[{darkred}Map{default}] **YOU NEED TO BREAK CRYSTALS IN SIDE ROOMS TO GET ACCESS TO DOORS**"
+		"trans"		"**YOU NEED TO BREAK CRYSTALS IN SIDE ROOMS TO GET ACCESS TO DOORS**"
 	}
 	"**WELL DONE! THE GATES WILL OPEN IN 20 SECONDS**"
 	{
-		"trans"		"[{darkred}Map{default}] **WELL DONE! THE GATES WILL OPEN IN 20 SECONDS**"
+		"trans"		"**WELL DONE! THE GATES WILL OPEN IN 20 SECONDS**"
 	}
 	"**THE GATES WILL OPEN IN 5 SECONDS**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE GATES WILL OPEN IN 5 SECONDS**"
+		"trans"		"**THE GATES WILL OPEN IN 5 SECONDS**"
 	}
 	"**OH NO! THIS IS A CHAOS**"
 	{
-		"trans"		"[{darkred}Map{default}] **OH NO! THIS IS A CHAOS**"
+		"trans"		"**OH NO! THIS IS A CHAOS**"
 	}
 	"**CHAOS HAS CAST FIRAGA**"
 	{
-		"trans"		"[{darkred}Map{default}] **CHAOS HAS CAST FIRAGA**"
+		"trans"		"**CHAOS HAS CAST FIRAGA**"
 	}
 	"**CHAOS HAS CAST THUNDAGA**"
 	{
-		"trans"		"[{darkred}Map{default}] **CHAOS HAS CAST THUNDAGA**"
+		"trans"		"**CHAOS HAS CAST THUNDAGA**"
 	}
 	"**CHAOS IS CASTING HOLY**GET OUT OF HIM!!!**"
 	{
-		"trans"		"[{darkred}Map{default}] **CHAOS IS CASTING HOLY**GET OUT OF HIM!!!**"
+		"trans"		"**CHAOS IS CASTING HOLY**GET OUT OF HIM!!!**"
 	}
 	"**CHAOS HAS CAST BLIZZAGA**"
 	{
-		"trans"		"[{darkred}Map{default}] **CHAOS HAS CAST BLIZZAGA**"
+		"trans"		"**CHAOS HAS CAST BLIZZAGA**"
 	}
 	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 2)**"
 	{
-		"trans"		"[{darkred}Map{default}] **A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 2)**"
+		"trans"		"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 2)**"
 	}
 	"**CHAOS HAS CAST DARKAGA**"
 	{
-		"trans"		"[{darkred}Map{default}] **CHAOS HAS CAST DARKAGA**"
+		"trans"		"**CHAOS HAS CAST DARKAGA**"
 	}
 	"**CHAOS HAS CAST TORNADO**"
 	{
-		"trans"		"[{darkred}Map{default}] **CHAOS HAS CAST TORNADO**"
+		"trans"		"**CHAOS HAS CAST TORNADO**"
 	}
 	"**Cactus found. The player who did it got 1 level**"
 	{
-		"trans"		"[{darkred}Map{default}] **Cactus found. The player who did it got 1 level**"
+		"trans"		"**Cactus found. The player who did it got 1 level**"
 	}
 	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 2)**"
 	{
-		"trans"		"[{darkred}Map{default}] **A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 2)**"
+		"trans"		"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 2)**"
 	}
 	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 2)**"
 	{
-		"trans"		"[{darkred}Map{default}] **A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 2)**"
+		"trans"		"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 2)**"
 	}
 	"**ZOMIBIE DARKAGA WAS PICKED UP**(PULL LEVEL 1)**"
 	{
-		"trans"		"[{darkred}Map{default}] **ZOMIBIE DARKAGA WAS PICKED UP**(PULL LEVEL 1)**"
+		"trans"		"**ZOMIBIE DARKAGA WAS PICKED UP**(PULL LEVEL 1)**"
 	}
 	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 2)**"
 	{
-		"trans"		"[{darkred}Map{default}] **A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 2)**"
+		"trans"		"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 2)**"
 	}
 	"**ZOMBIE JAIL OPENED**YOU HAVE FAILED**"
 	{
-		"trans"		"[{darkred}Map{default}] **ZOMBIE JAIL OPENED**YOU HAVE FAILED**"
+		"trans"		"**ZOMBIE JAIL OPENED**YOU HAVE FAILED**"
 	}
 	"**WE HAVE DEFEATED CHAOS**"
 	{
-		"trans"		"[{darkred}Map{default}] **WE HAVE DEFEATED CHAOS**"
+		"trans"		"**WE HAVE DEFEATED CHAOS**"
 	}
 	"**WE HAVE TO LEAVE THIS TEMPLE AS SOON AS POSSIBLE**"
 	{
-		"trans"		"[{darkred}Map{default}] **WE HAVE TO LEAVE THIS TEMPLE AS SOON AS POSSIBLE**"
+		"trans"		"**WE HAVE TO LEAVE THIS TEMPLE AS SOON AS POSSIBLE**"
 	}
 	"**WE ARE CLOSE TO LEAVE THE TOMB. THE GATES WILL OPEN IN 20 SECONDS**"
 	{
-		"trans"		"[{darkred}Map{default}] **WE ARE CLOSE TO LEAVE THE TOMB. THE GATES WILL OPEN IN 20 SECONDS**"
+		"trans"		"**WE ARE CLOSE TO LEAVE THE TOMB. THE GATES WILL OPEN IN 20 SECONDS**"
 	}
 	"**THE AIR SHIP WILL LEAVE IN 35 SECONDS. DEFEND THE GROUND**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE AIR SHIP WILL LEAVE IN 35 SECONDS. DEFEND THE GROUND**"
+		"trans"		"**THE AIR SHIP WILL LEAVE IN 35 SECONDS. DEFEND THE GROUND**"
 	}
 	"**5 SECONDS LEFT**"
 	{
-		"trans"		"[{darkred}Map{default}] **5 SECONDS LEFT**"
+		"trans"		"**5 SECONDS LEFT**"
 	}
 	"**THE AIR SHIP IS LEAVING...**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE AIR SHIP IS LEAVING...**"
+		"trans"		"**THE AIR SHIP IS LEAVING...**"
 	}
 	"** GOOD JOB [YOU WON LEVEL 2] **"
 	{
-		"trans"		"[{darkred}Map{default}] ** GOOD JOB [YOU WON LEVEL 2] **"
+		"trans"		"** GOOD JOB [YOU WON LEVEL 2] **"
 	}
 	"**THE TELEPORTER WILL BE ACTIVE IN 15 SECONDS**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE TELEPORTER WILL BE ACTIVE IN 15 SECONDS**"
+		"trans"		"**THE TELEPORTER WILL BE ACTIVE IN 15 SECONDS**"
 	}
 	"**YOU ARE ENTERING THE GOLMORE JUNGLE**GOOD LUCK**"
 	{
-		"trans"		"[{darkred}Map{default}] **YOU ARE ENTERING THE GOLMORE JUNGLE**GOOD LUCK**"
+		"trans"		"**YOU ARE ENTERING THE GOLMORE JUNGLE**GOOD LUCK**"
 	}
 	"**YOU WILL ENTER IN 5 SECONDS**"
 	{
-		"trans"		"[{darkred}Map{default}] **YOU WILL ENTER IN 5 SECONDS**"
+		"trans"		"**YOU WILL ENTER IN 5 SECONDS**"
 	}
 	"**THE WAY WILL OPEN IN 25 SECONDS**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE WAY WILL OPEN IN 25 SECONDS**"
+		"trans"		"**THE WAY WILL OPEN IN 25 SECONDS**"
 	}
 	"**THE WAY WILL OPEN IN 25 SECONDS**KEEP DEFENDING**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE WAY WILL OPEN IN 25 SECONDS**KEEP DEFENDING**"
+		"trans"		"**THE WAY WILL OPEN IN 25 SECONDS**KEEP DEFENDING**"
 	}
 	"**..WHAT IS IT?!**"
 	{
-		"trans"		"[{darkred}Map{default}] **..WHAT IS IT?!**"
+		"trans"		"**..WHAT IS IT?!**"
 	}
 	"**SHOOT THE DRAGON BEFORE ZOMBIES WILL GET US**"
 	{
-		"trans"		"[{darkred}Map{default}] **SHOOT THE DRAGON BEFORE ZOMBIES WILL GET US**"
+		"trans"		"**SHOOT THE DRAGON BEFORE ZOMBIES WILL GET US**"
 	}
 	"**WE GOT IT!!**GET IN THE SMALL ROOM AND DEFEND FOR SOME TIME**"
 	{
-		"trans"		"[{darkred}Map{default}] **WE GOT IT!!**GET IN THE SMALL ROOM AND DEFEND FOR SOME TIME**"
+		"trans"		"**WE GOT IT!!**GET IN THE SMALL ROOM AND DEFEND FOR SOME TIME**"
 	}
 	"**THE GATES WILL CLOSE IN 25 SECONDS**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE GATES WILL CLOSE IN 25 SECONDS**"
+		"trans"		"**THE GATES WILL CLOSE IN 25 SECONDS**"
 	}
 	"**THE GATES ARE CLOSING**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE GATES ARE CLOSING**"
+		"trans"		"**THE GATES ARE CLOSING**"
 	}
 	"** GOOD JOB [YOU WON LEVEL 3] **"
 	{
-		"trans"		"[{darkred}Map{default}] ** GOOD JOB [YOU WON LEVEL 3] **"
+		"trans"		"** GOOD JOB [YOU WON LEVEL 3] **"
 	}
 	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 3)**"
 	{
-		"trans"		"[{darkred}Map{default}] **A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 3)**"
+		"trans"		"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 3)**"
 	}
 	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 3)**"
 	{
-		"trans"		"[{darkred}Map{default}] **A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 3)**"
+		"trans"		"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 3)**"
 	}
 	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 3)**"
 	{
-		"trans"		"[{darkred}Map{default}] **A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 3)**"
+		"trans"		"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 3)**"
 	}
 	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 3)**"
 	{
-		"trans"		"[{darkred}Map{default}] **A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 3)**"
+		"trans"		"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 3)**"
 	}
 	"**WATCH OUT FOR THE STRONG WIND**"
 	{
-		"trans"		"[{darkred}Map{default}] **WATCH OUT FOR THE STRONG WIND**"
+		"trans"		"**WATCH OUT FOR THE STRONG WIND**"
 	}
 	"**THE DRAGON HAS CAST DARKAGA**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE DRAGON HAS CAST DARKAGA**"
+		"trans"		"**THE DRAGON HAS CAST DARKAGA**"
 	}
 	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 3)**"
 	{
-		"trans"		"[{darkred}Map{default}] **A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 3)**"
+		"trans"		"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 3)**"
 	}
 	"**THE GATES WILL OPEN IN 25 SECONDS**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE GATES WILL OPEN IN 25 SECONDS**"
+		"trans"		"**THE GATES WILL OPEN IN 25 SECONDS**"
 	}
 	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 3)**"
 	{
-		"trans"		"[{darkred}Map{default}] **A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 3)**"
+		"trans"		"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 3)**"
 	}
 	"**FALL BACK**10 SECONDS LEFT**"
 	{
-		"trans"		"[{darkred}Map{default}] **FALL BACK**10 SECONDS LEFT**"
+		"trans"		"**FALL BACK**10 SECONDS LEFT**"
 	}
 	"**CHUCHULAINN HAS USED MASSIVE POSION ATTACK GET OUT OF HIM TO SURVIVE**"
 	{
-		"trans"		"[{darkred}Map{default}] **CHUCHULAINN HAS USED MASSIVE POSION ATTACK GET OUT OF HIM TO SURVIVE**"
+		"trans"		"**CHUCHULAINN HAS USED MASSIVE POSION ATTACK GET OUT OF HIM TO SURVIVE**"
 	}
 	"**CHUCHULAINN HAS USED SHIELD(YOU CAN'T USE ITEMS FOR 10 SEC)**"
 	{
-		"trans"		"[{darkred}Map{default}] **CHUCHULAINN HAS USED SHIELD(YOU CAN'T USE ITEMS FOR 10 SEC)**"
+		"trans"		"**CHUCHULAINN HAS USED SHIELD(YOU CAN'T USE ITEMS FOR 10 SEC)**"
 	}
 	"**CHUCHULAINN HAS HEALED 150 HP**"
 	{
-		"trans"		"[{darkred}Map{default}] **CHUCHULAINN HAS HEALED 150 HP**"
+		"trans"		"**CHUCHULAINN HAS HEALED 150 HP**"
 	}
 	"**HE IS DEAD**GO AWAY FROM THE TEMPLE!!**"
 	{
-		"trans"		"[{darkred}Map{default}] **HE IS DEAD**GO AWAY FROM THE TEMPLE!!**"
+		"trans"		"**HE IS DEAD**GO AWAY FROM THE TEMPLE!!**"
 	}
 	"**THE GATES WILL OPEN IN 15 SECONDS**STAY DEFEND!!**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE GATES WILL OPEN IN 15 SECONDS**STAY DEFEND!!**"
+		"trans"		"**THE GATES WILL OPEN IN 15 SECONDS**STAY DEFEND!!**"
 	}
 	"**THE LAST GATES WILL OPEN IN 20 SECONDS**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE LAST GATES WILL OPEN IN 20 SECONDS**"
+		"trans"		"**THE LAST GATES WILL OPEN IN 20 SECONDS**"
 	}
 	"**GET TO THE OTHER SIDE OF THE BRIDGE AND DEFEND 30 SECONDS**"
 	{
-		"trans"		"[{darkred}Map{default}] **GET TO THE OTHER SIDE OF THE BRIDGE AND DEFEND 30 SECONDS**"
+		"trans"		"**GET TO THE OTHER SIDE OF THE BRIDGE AND DEFEND 30 SECONDS**"
 	}
 	"** GOOD JOB [YOU WON LEVEL 4] **"
 	{
-		"trans"		"[{darkred}Map{default}] ** GOOD JOB [YOU WON LEVEL 4] **"
+		"trans"		"** GOOD JOB [YOU WON LEVEL 4] **"
 	}
 	"**THE AIRSHIP IS BEING ATTACKED BY GUARDIANS**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE AIRSHIP IS BEING ATTACKED BY GUARDIANS**"
+		"trans"		"**THE AIRSHIP IS BEING ATTACKED BY GUARDIANS**"
 	}
 	"**CACTUAR BLOCKED THE ROAD**SHOOT HIM!**"
 	{
-		"trans"		"[{darkred}Map{default}] **CACTUAR BLOCKED THE ROAD**SHOOT HIM!**"
+		"trans"		"**CACTUAR BLOCKED THE ROAD**SHOOT HIM!**"
 	}
 	"**THE TELEPORTER WILL BE ACTIVE IN 20 SECONDS**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE TELEPORTER WILL BE ACTIVE IN 20 SECONDS**"
+		"trans"		"**THE TELEPORTER WILL BE ACTIVE IN 20 SECONDS**"
 	}
 	"**THE GATES WILL OPEN IN 10 SECONDS**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE GATES WILL OPEN IN 10 SECONDS**"
+		"trans"		"**THE GATES WILL OPEN IN 10 SECONDS**"
 	}
 	"**HOLD HERE FOR 20 SECONDS**"
 	{
-		"trans"		"[{darkred}Map{default}] **HOLD HERE FOR 20 SECONDS**"
+		"trans"		"**HOLD HERE FOR 20 SECONDS**"
 	}
 	"**THE FENCES WILL OPEN SOON**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE FENCES WILL OPEN SOON**"
+		"trans"		"**THE FENCES WILL OPEN SOON**"
 	}
 	"**THE HENNE MINES ENTRANCE WILL OPEN IN 20 SECONDS**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE HENNE MINES ENTRANCE WILL OPEN IN 20 SECONDS**"
+		"trans"		"**THE HENNE MINES ENTRANCE WILL OPEN IN 20 SECONDS**"
 	}
 	"**Good luck...**"
 	{
-		"trans"		"[{darkred}Map{default}] **Good luck...**"
+		"trans"		"**Good luck...**"
 	}
 	"**YOU WILL ENTER THE ARENA IN 10 SECONDS****"
 	{
-		"trans"		"[{darkred}Map{default}] **YOU WILL ENTER THE ARENA IN 10 SECONDS****"
+		"trans"		"**YOU WILL ENTER THE ARENA IN 10 SECONDS****"
 	}
 	"**Nades do more damage**"
 	{
-		"trans"		"[{darkred}Map{default}] **Nades do more damage**"
+		"trans"		"**Nades do more damage**"
 	}
 	"**THE BOSS IS DAMAGED BUT NOW HE'S THE MOST DANGEROUS**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE BOSS IS DAMAGED BUT NOW HE'S THE MOST DANGEROUS**"
+		"trans"		"**THE BOSS IS DAMAGED BUT NOW HE'S THE MOST DANGEROUS**"
 	}
 	"**KILL HIM FASTER**"
 	{
-		"trans"		"[{darkred}Map{default}] **KILL HIM FASTER**"
+		"trans"		"**KILL HIM FASTER**"
 	}
 	"**YOU HAVE KILLED ZODIARK** NOW GET OUT OF HENNES MINES**"
 	{
-		"trans"		"[{darkred}Map{default}] **YOU HAVE KILLED ZODIARK** NOW GET OUT OF HENNES MINES**"
+		"trans"		"**YOU HAVE KILLED ZODIARK** NOW GET OUT OF HENNES MINES**"
 	}
 	"**THE END GATES WILL OPEN IN 50 SECONDS**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE END GATES WILL OPEN IN 50 SECONDS**"
+		"trans"		"**THE END GATES WILL OPEN IN 50 SECONDS**"
 	}
 	"**THE END DOOR WILL OPEN IN 10 SECONDS**GET READY FOR THE END FIGHT**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE END DOOR WILL OPEN IN 10 SECONDS**GET READY FOR THE END FIGHT**"
+		"trans"		"**THE END DOOR WILL OPEN IN 10 SECONDS**GET READY FOR THE END FIGHT**"
 	}
 	"**DEFEND THIS PLACE FOR 15 SECONDS**"
 	{
-		"trans"		"[{darkred}Map{default}] **DEFEND THIS PLACE FOR 15 SECONDS**"
+		"trans"		"**DEFEND THIS PLACE FOR 15 SECONDS**"
 	}
 	"**GO GO GO!!**"
 	{
-		"trans"		"[{darkred}Map{default}] **GO GO GO!!**"
+		"trans"		"**GO GO GO!!**"
 	}
 	"**WE KILLED HIM. GO TO THE END OF THE ROAD***"
 	{
-		"trans"		"[{darkred}Map{default}] **WE KILLED HIM. GO TO THE END OF THE ROAD***"
+		"trans"		"**WE KILLED HIM. GO TO THE END OF THE ROAD***"
 	}
 	"**THIS PLACE WILL COLLAPCE IN 15 SECONDS. STAY HERE!!!**"
 	{
-		"trans"		"[{darkred}Map{default}] **THIS PLACE WILL COLLAPCE IN 15 SECONDS. STAY HERE!!!**"
+		"trans"		"**THIS PLACE WILL COLLAPCE IN 15 SECONDS. STAY HERE!!!**"
 	}
 	"**OH NO... THIS IS CHOCOBO**"
 	{
-		"trans"		"[{darkred}Map{default}] **OH NO... THIS IS CHOCOBO**"
+		"trans"		"**OH NO... THIS IS CHOCOBO**"
 	}
 	"**ZODIARK READIES FLARE**"
 	{
-		"trans"		"[{darkred}Map{default}] **ZODIARK READIES FLARE**"
+		"trans"		"**ZODIARK READIES FLARE**"
 	}
 	"**ZODIARK READIES SHIELD(BULLETS AND NADES DON'T DAMAGE HIM)**"
 	{
-		"trans"		"[{darkred}Map{default}] **ZODIARK READIES SHIELD(BULLETS AND NADES DON'T DAMAGE HIM)**"
+		"trans"		"**ZODIARK READIES SHIELD(BULLETS AND NADES DON'T DAMAGE HIM)**"
 	}
 	"**ZODIARK READIES DARK. USE HEAL IF NESSESARY**"
 	{
-		"trans"		"[{darkred}Map{default}] **ZODIARK READIES DARK. USE HEAL IF NESSESARY**"
+		"trans"		"**ZODIARK READIES DARK. USE HEAL IF NESSESARY**"
 	}
 	"***ZODIARK READIES BANISH RAY** GET OUT OF HIM!!!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***ZODIARK READIES BANISH RAY** GET OUT OF HIM!!!***"
+		"trans"		"***ZODIARK READIES BANISH RAY** GET OUT OF HIM!!!***"
 	}
 	"**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**"
 	{
-		"trans"		"[{darkred}Map{default}] **YOU MUST TO KILL ALL THE ZOMBIES TO WIN**"
+		"trans"		"**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**"
 	}
 	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 2)**"
 	{
-		"trans"		"[{darkred}Map{default}] **A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 2)**"
+		"trans"		"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 2)**"
 	}
 	"**THE DRAGON HAS CAST POISON**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE DRAGON HAS CAST POISON**"
+		"trans"		"**THE DRAGON HAS CAST POISON**"
 	}
 	"**ZODIARK IS USING ULTIMATE ATTACK**EVERYONE WILL DIE IN 15 SECONDS**"
 	{
-		"trans"		"[{darkred}Map{default}] **ZODIARK IS USING ULTIMATE ATTACK**EVERYONE WILL DIE IN 15 SECONDS**"
+		"trans"		"**ZODIARK IS USING ULTIMATE ATTACK**EVERYONE WILL DIE IN 15 SECONDS**"
 	}
 	"**NADES AREN'T DAMAGE HIM NOW**"
 	{
-		"trans"		"[{darkred}Map{default}] **NADES AREN'T DAMAGE HIM NOW**"
+		"trans"		"**NADES AREN'T DAMAGE HIM NOW**"
 	}
 	"**LAST CHANCE**NADES AND BULLETS DOES 200% DAMAGE ON HIM**"
 	{
-		"trans"		"[{darkred}Map{default}] **LAST CHANCE**NADES AND BULLETS DOES 200% DAMAGE ON HIM**"
+		"trans"		"**LAST CHANCE**NADES AND BULLETS DOES 200% DAMAGE ON HIM**"
 	}
 	"** CONGRATILATIONS!!! [YOU WON LEVEL 5] **"
 	{
-		"trans"		"[{darkred}Map{default}] ** CONGRATILATIONS!!! [YOU WON LEVEL 5] **"
+		"trans"		"** CONGRATILATIONS!!! [YOU WON LEVEL 5] **"
 	}
 	"**WE HAVE A EPIC SOLO WINNER!!!**"
 	{
-		"trans"		"[{darkred}Map{default}] **WE HAVE A EPIC SOLO WINNER!!!**"
+		"trans"		"**WE HAVE A EPIC SOLO WINNER!!!**"
 	}
 	"**THE SOLO WINNER WILL BE THE KING OF THE NEXT ROUND**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE SOLO WINNER WILL BE THE KING OF THE NEXT ROUND**"
+		"trans"		"**THE SOLO WINNER WILL BE THE KING OF THE NEXT ROUND**"
 	}
 	"**THE MAP IS BEATEN. ZOMBIE ROUNDS**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE MAP IS BEATEN. ZOMBIE ROUNDS**"
+		"trans"		"**THE MAP IS BEATEN. ZOMBIE ROUNDS**"
 	}
 	"**THE TELEPORTER TO RABANASTRA IS OPENED**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE TELEPORTER TO RABANASTRA IS OPENED**"
+		"trans"		"**THE TELEPORTER TO RABANASTRA IS OPENED**"
 	}
 	"**TRY TO SURVIVE WITHOUT ANY ITEMS**"
 	{
-		"trans"		"[{darkred}Map{default}] **TRY TO SURVIVE WITHOUT ANY ITEMS**"
+		"trans"		"**TRY TO SURVIVE WITHOUT ANY ITEMS**"
 	}
 	"**WE HAVE A SOLO WINNER**"
 	{
-		"trans"		"[{darkred}Map{default}] **WE HAVE A SOLO WINNER**"
+		"trans"		"**WE HAVE A SOLO WINNER**"
 	}
 	"**THIS ROUND IS ONLY FOR YOU!**"
 	{
-		"trans"		"[{darkred}Map{default}] **THIS ROUND IS ONLY FOR YOU!**"
+		"trans"		"**THIS ROUND IS ONLY FOR YOU!**"
 	}
 	"**2 MINUTES LEFT!**"
 	{
-		"trans"		"[{darkred}Map{default}] **2 MINUTES LEFT!**"
+		"trans"		"**2 MINUTES LEFT!**"
 	}
 	"**1 MINUTE LEFT**"
 	{
-		"trans"		"[{darkred}Map{default}] **1 MINUTE LEFT**"
+		"trans"		"**1 MINUTE LEFT**"
 	}
 	"**30 SECONDS LEFT!**"
 	{
-		"trans"		"[{darkred}Map{default}] **30 SECONDS LEFT!**"
+		"trans"		"**30 SECONDS LEFT!**"
 	}
 	"**15 SECONDS LEFT!**"
 	{
-		"trans"		"[{darkred}Map{default}] **15 SECONDS LEFT!**"
+		"trans"		"**15 SECONDS LEFT!**"
 	}
 	"**5 SECONDS LEFT!!!**"
 	{
-		"trans"		"[{darkred}Map{default}] **5 SECONDS LEFT!!!**"
+		"trans"		"**5 SECONDS LEFT!!!**"
 	}
 	"**TELEPORTING SOLO WINNER IN THE ADMIN ROOM. NOW HE WILL DECIDE...**"
 	{
-		"trans"		"[{darkred}Map{default}] **TELEPORTING SOLO WINNER IN THE ADMIN ROOM. NOW HE WILL DECIDE...**"
+		"trans"		"**TELEPORTING SOLO WINNER IN THE ADMIN ROOM. NOW HE WILL DECIDE...**"
 	}
 	"**RELAX AND JUST ENJOY THE MUSIC)**"
 	{
-		"trans"		"[{darkred}Map{default}] **RELAX AND JUST ENJOY THE MUSIC)**"
+		"trans"		"**RELAX AND JUST ENJOY THE MUSIC)**"
 	}
 	"**4 MINUTES LEFT!**"
 	{
-		"trans"		"[{darkred}Map{default}] **4 MINUTES LEFT!**"
+		"trans"		"**4 MINUTES LEFT!**"
 	}
 	"**3 MINUTES LEFT!**"
 	{
-		"trans"		"[{darkred}Map{default}] **3 MINUTES LEFT!**"
+		"trans"		"**3 MINUTES LEFT!**"
 	}
 	"**THANK YOU FOR PLAYING THE MAP** "
 	{
-		"trans"		"[{darkred}Map{default}] **THANK YOU FOR PLAYING THE MAP** "
+		"trans"		"**THANK YOU FOR PLAYING THE MAP** "
 	}
 	"**MAP RESET** "
 	{
-		"trans"		"[{darkred}Map{default}] **MAP RESET** "
+		"trans"		"**MAP RESET** "
 	}
 	"**ZOMIBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 1)**"
 	{
-		"trans"		"[{darkred}Map{default}] **ZOMIBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 1)**"
+		"trans"		"**ZOMIBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 1)**"
 	}
 	"**THE MOST POWERFUL ATTACK IS IN 5 SECONDS**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE MOST POWERFUL ATTACK IS IN 5 SECONDS**"
+		"trans"		"**THE MOST POWERFUL ATTACK IS IN 5 SECONDS**"
 	}
 	"** YOU HAVE FAILED **"
 	{
-		"trans"		"[{darkred}Map{default}] ** YOU HAVE FAILED **"
+		"trans"		"** YOU HAVE FAILED **"
 	}
 	"**ZOMIBIE WARP WAS PICKED UP**(DAMAGE LEVEL 2)**"
 	{
-		"trans"		"[{darkred}Map{default}] **ZOMIBIE WARP WAS PICKED UP**(DAMAGE LEVEL 2)**"
+		"trans"		"**ZOMIBIE WARP WAS PICKED UP**(DAMAGE LEVEL 2)**"
 	}
 }

@@ -2,110 +2,110 @@
 {
 	">>>Map created by FreeZe<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Map created by FreeZe<<<"
+		"trans"		">>>Map created by FreeZe<<<"
 	}
 	">>>MAKE YOUR WAY TO THE BLACK PEARL!<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>MAKE YOUR WAY TO THE BLACK PEARL!<<<"
+		"trans"		">>>MAKE YOUR WAY TO THE BLACK PEARL!<<<"
 	}
 	"Thanks to Belafarinrod Fuu and Kaemon!"
 	{
-		"trans"		"[{darkred}Map{default}] Thanks to Belafarinrod Fuu and Kaemon!"
+		"trans"		"Thanks to Belafarinrod Fuu and Kaemon!"
 	}
 	">>>JACKS PISTOL HAS BEEN TAKEN<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>JACKS PISTOL HAS BEEN TAKEN<<<"
+		"trans"		">>>JACKS PISTOL HAS BEEN TAKEN<<<"
 	}
 	">>>Cool Down 60 secs<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Cool Down 60 secs<<<"
+		"trans"		">>>Cool Down 60 secs<<<"
 	}
 	">>>Press USE to shoot<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Press USE to shoot<<<"
+		"trans"		">>>Press USE to shoot<<<"
 	}
 	">>>PISTOL-SHOT CHARGING<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>PISTOL-SHOT CHARGING<<<"
+		"trans"		">>>PISTOL-SHOT CHARGING<<<"
 	}
 	">>>>Pistol ready in 60 s<<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>>Pistol ready in 60 s<<<<"
+		"trans"		">>>>Pistol ready in 60 s<<<<"
 	}
 	">>>>Pistol ready in 30 s<<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>>Pistol ready in 30 s<<<<"
+		"trans"		">>>>Pistol ready in 30 s<<<<"
 	}
 	">>>>Pistol ready in 5 s<<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>>Pistol ready in 5 s<<<<"
+		"trans"		">>>>Pistol ready in 5 s<<<<"
 	}
 	">>>>PISTOL READY<<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>>PISTOL READY<<<<"
+		"trans"		">>>>PISTOL READY<<<<"
 	}
 	">>> HOLD 30 SECONDS <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> HOLD 30 SECONDS <<<"
+		"trans"		">>> HOLD 30 SECONDS <<<"
 	}
 	">>> 5 SECONDS LEFT <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> 5 SECONDS LEFT <<<"
+		"trans"		">>> 5 SECONDS LEFT <<<"
 	}
 	">>> RUUUN <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> RUUUN <<<"
+		"trans"		">>> RUUUN <<<"
 	}
 	">>>10 seconds until 1st hold zone gets teleported<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>10 seconds until 1st hold zone gets teleported<<<"
+		"trans"		">>>10 seconds until 1st hold zone gets teleported<<<"
 	}
 	">>> HOLD THE MILL 30 SECONDS <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> HOLD THE MILL 30 SECONDS <<<"
+		"trans"		">>> HOLD THE MILL 30 SECONDS <<<"
 	}
 	">>> JUMP ONTO THE WHEEL <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> JUMP ONTO THE WHEEL <<<"
+		"trans"		">>> JUMP ONTO THE WHEEL <<<"
 	}
 	">>>GET ONTO THE BLACK PEARL<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>GET ONTO THE BLACK PEARL<<<"
+		"trans"		">>>GET ONTO THE BLACK PEARL<<<"
 	}
 	">>>Jungle gettting teleported in 10 seconds<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Jungle gettting teleported in 10 seconds<<<"
+		"trans"		">>>Jungle gettting teleported in 10 seconds<<<"
 	}
 	">>>Defend 30 seconds<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Defend 30 seconds<<<"
+		"trans"		">>>Defend 30 seconds<<<"
 	}
 	">>>5 seconds left<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>5 seconds left<<<"
+		"trans"		">>>5 seconds left<<<"
 	}
 	">>>RUUUUUN<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>RUUUUUN<<<"
+		"trans"		">>>RUUUUUN<<<"
 	}
 	">>>Pearl has been reached<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Pearl has been reached<<<"
+		"trans"		">>>Pearl has been reached<<<"
 	}
 	">>>Cannons charging. 60 seconds left<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Cannons charging. 60 seconds left<<<"
+		"trans"		">>>Cannons charging. 60 seconds left<<<"
 	}
 	">>>15 seconds left<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>15 seconds left<<<"
+		"trans"		">>>15 seconds left<<<"
 	}
 	">>>CANNONS SHOOTING<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>CANNONS SHOOTING<<<"
+		"trans"		">>>CANNONS SHOOTING<<<"
 	}
 	">>>NUB<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>NUB<<<"
+		"trans"		">>>NUB<<<"
 	}
 }

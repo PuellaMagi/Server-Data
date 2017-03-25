@@ -2,126 +2,126 @@
 {
 	"** Hey there! Welcome to ze_colors **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Hey there! Welcome to ze_colors **"
+		"trans"		"** Hey there! Welcome to ze_colors **"
 	}
 	"** Believe it or not this map was once a tutorial and twice a duck! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Believe it or not this map was once a tutorial and twice a duck! **"
+		"trans"		"** Believe it or not this map was once a tutorial and twice a duck! **"
 	}
 	"** Level: Lemon **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Level: Lemon **"
+		"trans"		"** Level: Lemon **"
 	}
 	"** This level looks like good old Louisiana: lines and squares all along the little lonely land **"
 	{
-		"trans"		"[{darkred}Map{default}] ** This level looks like good old Louisiana: lines and squares all along the little lonely land **"
+		"trans"		"** This level looks like good old Louisiana: lines and squares all along the little lonely land **"
 	}
 	"** GET GOING! Tension has been built in the spawn area! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** GET GOING! Tension has been built in the spawn area! **"
+		"trans"		"** GET GOING! Tension has been built in the spawn area! **"
 	}
 	"** RESIST! We're pathetically close to the spawn still! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** RESIST! We're pathetically close to the spawn still! **"
+		"trans"		"** RESIST! We're pathetically close to the spawn still! **"
 	}
 	"** One tiny bit more! We're almost there! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** One tiny bit more! We're almost there! **"
+		"trans"		"** One tiny bit more! We're almost there! **"
 	}
 	"** Hold right here! There are 4 entrances - take care of them! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Hold right here! There are 4 entrances - take care of them! **"
+		"trans"		"** Hold right here! There are 4 entrances - take care of them! **"
 	}
 	"** Keep it up! 10 seconds left! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Keep it up! 10 seconds left! **"
+		"trans"		"** Keep it up! 10 seconds left! **"
 	}
 	"** RESIST! We need to wait for a bit until we fly-fly-fly! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** RESIST! We need to wait for a bit until we fly-fly-fly! **"
+		"trans"		"** RESIST! We need to wait for a bit until we fly-fly-fly! **"
 	}
 	"** Hold it a bit more! The magical energy is energy-ny-zing! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Hold it a bit more! The magical energy is energy-ny-zing! **"
+		"trans"		"** Hold it a bit more! The magical energy is energy-ny-zing! **"
 	}
 	"** Last few seconds! HOLD IT! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Last few seconds! HOLD IT! **"
+		"trans"		"** Last few seconds! HOLD IT! **"
 	}
 	"** Split hold! Both sides must survive! RESIST! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Split hold! Both sides must survive! RESIST! **"
+		"trans"		"** Split hold! Both sides must survive! RESIST! **"
 	}
 	"** Hold it! Last 10 seconds! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Hold it! Last 10 seconds! **"
+		"trans"		"** Hold it! Last 10 seconds! **"
 	}
 	"** Do you see it? Time to practice ropeless bungee jumping! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Do you see it? Time to practice ropeless bungee jumping! **"
+		"trans"		"** Do you see it? Time to practice ropeless bungee jumping! **"
 	}
 	"** Narrow hold! Narrower time! RESIST A LITTLE OR DIE! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Narrow hold! Narrower time! RESIST A LITTLE OR DIE! **"
+		"trans"		"** Narrow hold! Narrower time! RESIST A LITTLE OR DIE! **"
 	}
 	"** Get moving! We lost time! MAP IS LONG ENOUGH NOW TO BE DECENT! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Get moving! We lost time! MAP IS LONG ENOUGH NOW TO BE DECENT! **"
+		"trans"		"** Get moving! We lost time! MAP IS LONG ENOUGH NOW TO BE DECENT! **"
 	}
 	"** One more hold and then the woody poody finale! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** One more hold and then the woody poody finale! **"
+		"trans"		"** One more hold and then the woody poody finale! **"
 	}
 	"** I'm quite sure you're wishing you had done something with your life now... **"
 	{
-		"trans"		"[{darkred}Map{default}] ** I'm quite sure you're wishing you had done something with your life now... **"
+		"trans"		"** I'm quite sure you're wishing you had done something with your life now... **"
 	}
 	"** THIS IS OUR LAST STAND! RESIST! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** THIS IS OUR LAST STAND! RESIST! **"
+		"trans"		"** THIS IS OUR LAST STAND! RESIST! **"
 	}
 	"** GO! The absurdly stupid ending awaits with more absurd holding than ever! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** GO! The absurdly stupid ending awaits with more absurd holding than ever! **"
+		"trans"		"** GO! The absurdly stupid ending awaits with more absurd holding than ever! **"
 	}
 	"** THE BRIDGE WILL GO SOON! KEEP IT UP!!! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** THE BRIDGE WILL GO SOON! KEEP IT UP!!! **"
+		"trans"		"** THE BRIDGE WILL GO SOON! KEEP IT UP!!! **"
 	}
 	"** GET READY! THE LAST WAVE IS INCOMING! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** GET READY! THE LAST WAVE IS INCOMING! **"
+		"trans"		"** GET READY! THE LAST WAVE IS INCOMING! **"
 	}
 	"** HOLD IT! WE MUST SURVIVE FOR THE LAST BIT! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** HOLD IT! WE MUST SURVIVE FOR THE LAST BIT! **"
+		"trans"		"** HOLD IT! WE MUST SURVIVE FOR THE LAST BIT! **"
 	}
 	"*** Amazing! You did it!! Let's see how you do on Grape mode! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Amazing! You did it!! Let's see how you do on Grape mode! ***"
+		"trans"		"*** Amazing! You did it!! Let's see how you do on Grape mode! ***"
 	}
 	"** Level: Grape **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Level: Grape **"
+		"trans"		"** Level: Grape **"
 	}
 	"** Shake-shaka-shake-shaka-boom! Grape is a fruit with calcium! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Shake-shaka-shake-shaka-boom! Grape is a fruit with calcium! **"
+		"trans"		"** Shake-shaka-shake-shaka-boom! Grape is a fruit with calcium! **"
 	}
 	"*** Incredible! You managed to clear Grape mode! How about another go? ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Incredible! You managed to clear Grape mode! How about another go? ***"
+		"trans"		"*** Incredible! You managed to clear Grape mode! How about another go? ***"
 	}
 	"** Level: Grape 2 **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Level: Grape 2 **"
+		"trans"		"** Level: Grape 2 **"
 	}
 	"** Type mat_colorcorrection 0 to disable the redness... Oh! - nevermind **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Type mat_colorcorrection 0 to disable the redness... Oh! - nevermind **"
+		"trans"		"** Type mat_colorcorrection 0 to disable the redness... Oh! - nevermind **"
 	}
 	"*** Bet you didn't expect to see this message! Congratulations for beating Grape 2 mode! Do you dare to keep playing? ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Bet you didn't expect to see this message! Congratulations for beating Grape 2 mode! Do you dare to keep playing? ***"
+		"trans"		"*** Bet you didn't expect to see this message! Congratulations for beating Grape 2 mode! Do you dare to keep playing? ***"
 	}
 }

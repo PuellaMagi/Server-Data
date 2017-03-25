@@ -2,82 +2,82 @@
 {
 	"Map ported by: KratosMafia"
 	{
-		"trans"		"[{darkred}Map{default}] Map ported by: KratosMafia"
+		"trans"		"Map ported by: KratosMafia"
 	}
 	"Visit OpticalGaming.net"
 	{
-		"trans"		"[{darkred}Map{default}] Visit OpticalGaming.net"
+		"trans"		"Visit OpticalGaming.net"
 	}
 	"**The ship is sinking! You have 5 minutes to get to the surface!!!**"
 	{
-		"trans"		"[{darkred}Map{default}] **The ship is sinking! You have 5 minutes to get to the surface!!!**"
+		"trans"		"**The ship is sinking! You have 5 minutes to get to the surface!!!**"
 	}
 	"**Security gate closing in 5 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}] **Security gate closing in 5 seconds**"
+		"trans"		"**Security gate closing in 5 seconds**"
 	}
 	"**Elevator 1 is leaving in 5 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}] **Elevator 1 is leaving in 5 seconds**"
+		"trans"		"**Elevator 1 is leaving in 5 seconds**"
 	}
 	"**Elevator 2 is leaving in 5 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}] **Elevator 2 is leaving in 5 seconds**"
+		"trans"		"**Elevator 2 is leaving in 5 seconds**"
 	}
 	"**Main elevator is leaving in 15 seconds!!**"
 	{
-		"trans"		"[{darkred}Map{default}] **Main elevator is leaving in 15 seconds!!**"
+		"trans"		"**Main elevator is leaving in 15 seconds!!**"
 	}
 	"**Main elevator is leaving in 5 seconds!!**"
 	{
-		"trans"		"[{darkred}Map{default}] **Main elevator is leaving in 5 seconds!!**"
+		"trans"		"**Main elevator is leaving in 5 seconds!!**"
 	}
 	"**Final Door will open in 60 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}] **Final Door will open in 60 seconds**"
+		"trans"		"**Final Door will open in 60 seconds**"
 	}
 	"**Final Door will open in 30 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}] **Final Door will open in 30 seconds**"
+		"trans"		"**Final Door will open in 30 seconds**"
 	}
 	"**Main elevator's second doors now unlocked**"
 	{
-		"trans"		"[{darkred}Map{default}] **Main elevator's second doors now unlocked**"
+		"trans"		"**Main elevator's second doors now unlocked**"
 	}
 	"**Final Door will open unlock in 5 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}] **Final Door will open unlock in 5 seconds**"
+		"trans"		"**Final Door will open unlock in 5 seconds**"
 	}
 	"**The boats will leave in 2 minutes!** "
 	{
-		"trans"		"[{darkred}Map{default}] **The boats will leave in 2 minutes!** "
+		"trans"		"**The boats will leave in 2 minutes!** "
 	}
 	"**Lasers will be de-activated in 20 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}] **Lasers will be de-activated in 20 seconds**"
+		"trans"		"**Lasers will be de-activated in 20 seconds**"
 	}
 	"**Lasers will be de-activated in 5 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}] **Lasers will be de-activated in 5 seconds**"
+		"trans"		"**Lasers will be de-activated in 5 seconds**"
 	}
 	"**The boats will leave in 1 minute!**"
 	{
-		"trans"		"[{darkred}Map{default}] **The boats will leave in 1 minute!**"
+		"trans"		"**The boats will leave in 1 minute!**"
 	}
 	"**Zombies have reached the glass doors!!!**"
 	{
-		"trans"		"[{darkred}Map{default}] **Zombies have reached the glass doors!!!**"
+		"trans"		"**Zombies have reached the glass doors!!!**"
 	}
 	"**The boats will leave in 30 seconds!**"
 	{
-		"trans"		"[{darkred}Map{default}] **The boats will leave in 30 seconds!**"
+		"trans"		"**The boats will leave in 30 seconds!**"
 	}
 	"**The boats will leave in 10 seconds!**"
 	{
-		"trans"		"[{darkred}Map{default}] **The boats will leave in 10 seconds!**"
+		"trans"		"**The boats will leave in 10 seconds!**"
 	}
 	"**The boats have left!!!**"
 	{
-		"trans"		"[{darkred}Map{default}] **The boats have left!!!**"
+		"trans"		"**The boats have left!!!**"
 	}
 }

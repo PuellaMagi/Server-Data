@@ -2,250 +2,250 @@
 {
 	"** ZE_SIT_CAELUM_PARADISUS **"
 	{
-		"trans"		"[{darkred}Map{default}] ** ZE_SIT_CAELUM_PARADISUS **"
+		"trans"		"** ZE_SIT_CAELUM_PARADISUS **"
 	}
 	"** ROUTE ONE **"
 	{
-		"trans"		"[{darkred}Map{default}] ** ROUTE ONE **"
+		"trans"		"** ROUTE ONE **"
 	}
 	"** TAKE FRONT-LEFT DOOR **"
 	{
-		"trans"		"[{darkred}Map{default}] ** TAKE FRONT-LEFT DOOR **"
+		"trans"		"** TAKE FRONT-LEFT DOOR **"
 	}
 	"** ENTER THE CENTER OF HALL TO ACCESS SP ITEM ROOM **"
 	{
-		"trans"		"[{darkred}Map{default}] ** ENTER THE CENTER OF HALL TO ACCESS SP ITEM ROOM **"
+		"trans"		"** ENTER THE CENTER OF HALL TO ACCESS SP ITEM ROOM **"
 	}
 	"** TRY TO USE THEM **"
 	{
-		"trans"		"[{darkred}Map{default}] ** TRY TO USE THEM **"
+		"trans"		"** TRY TO USE THEM **"
 	}
 	"** VENTUS STAFF HAS BEEN PICKED UP **"
 	{
-		"trans"		"[{darkred}Map{default}] ** VENTUS STAFF HAS BEEN PICKED UP **"
+		"trans"		"** VENTUS STAFF HAS BEEN PICKED UP **"
 	}
 	"** IGNIS AXE HAS BEEN PICKED UP **"
 	{
-		"trans"		"[{darkred}Map{default}] ** IGNIS AXE HAS BEEN PICKED UP **"
+		"trans"		"** IGNIS AXE HAS BEEN PICKED UP **"
 	}
 	"** TERRA AXE HAS BEEN PICKED UP **"
 	{
-		"trans"		"[{darkred}Map{default}] ** TERRA AXE HAS BEEN PICKED UP **"
+		"trans"		"** TERRA AXE HAS BEEN PICKED UP **"
 	}
 	"**GRACIES ZOMBIE INCOMING**"
 	{
-		"trans"		"[{darkred}Map{default}] **GRACIES ZOMBIE INCOMING**"
+		"trans"		"**GRACIES ZOMBIE INCOMING**"
 	}
 	"** SANATIO STAFF HAS BEEN PICKED UP **"
 	{
-		"trans"		"[{darkred}Map{default}] ** SANATIO STAFF HAS BEEN PICKED UP **"
+		"trans"		"** SANATIO STAFF HAS BEEN PICKED UP **"
 	}
 	">>>DOOR BREAKING IN 20 SECS<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>DOOR BREAKING IN 20 SECS<<<"
+		"trans"		">>>DOOR BREAKING IN 20 SECS<<<"
 	}
 	">>>HOLD<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>HOLD<<<"
+		"trans"		">>>HOLD<<<"
 	}
 	">>>DOOR BREAKING IN 25 SECS<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>DOOR BREAKING IN 25 SECS<<<"
+		"trans"		">>>DOOR BREAKING IN 25 SECS<<<"
 	}
 	">>>HHOOLLDD<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>HHOOLLDD<<<"
+		"trans"		">>>HHOOLLDD<<<"
 	}
 	">>>HOLDDDD<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>HOLDDDD<<<"
+		"trans"		">>>HOLDDDD<<<"
 	}
 	">>>DOOR BREAKING IN 30 SECS<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>DOOR BREAKING IN 30 SECS<<<"
+		"trans"		">>>DOOR BREAKING IN 30 SECS<<<"
 	}
 	">>>DOOR BREAKING IN 15 SECS<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>DOOR BREAKING IN 15 SECS<<<"
+		"trans"		">>>DOOR BREAKING IN 15 SECS<<<"
 	}
 	">>>DOOR OPENING 20 SECS<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>DOOR OPENING 20 SECS<<<"
+		"trans"		">>>DOOR OPENING 20 SECS<<<"
 	}
 	">>>DOOR OPENING IN 35 SECS<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>DOOR OPENING IN 35 SECS<<<"
+		"trans"		">>>DOOR OPENING IN 35 SECS<<<"
 	}
 	">>>LAST HOLD 15 SECS<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>LAST HOLD 15 SECS<<<"
+		"trans"		">>>LAST HOLD 15 SECS<<<"
 	}
 	">>>WAIT FOR TELEPORT<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>WAIT FOR TELEPORT<<<"
+		"trans"		">>>WAIT FOR TELEPORT<<<"
 	}
 	"** WE SECURED ROUTE ONE **"
 	{
-		"trans"		"[{darkred}Map{default}] ** WE SECURED ROUTE ONE **"
+		"trans"		"** WE SECURED ROUTE ONE **"
 	}
 	">>>LETS GO ROUTE TWO<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>LETS GO ROUTE TWO<<<"
+		"trans"		">>>LETS GO ROUTE TWO<<<"
 	}
 	"*** MAP BY SATOKA***"
 	{
-		"trans"		"[{darkred}Map{default}] *** MAP BY SATOKA***"
+		"trans"		"*** MAP BY SATOKA***"
 	}
 	"** ROUTE TWO **"
 	{
-		"trans"		"[{darkred}Map{default}] ** ROUTE TWO **"
+		"trans"		"** ROUTE TWO **"
 	}
 	"** TAKE FRONT-RIGHT DOOR **"
 	{
-		"trans"		"[{darkred}Map{default}] ** TAKE FRONT-RIGHT DOOR **"
+		"trans"		"** TAKE FRONT-RIGHT DOOR **"
 	}
 	">>>DOOR OPENING IN 20 SECS<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>DOOR OPENING IN 20 SECS<<<"
+		"trans"		">>>DOOR OPENING IN 20 SECS<<<"
 	}
 	">>>WE MUST FIND AND PRESS THREE HIDDEN BUTTON<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>WE MUST FIND AND PRESS THREE HIDDEN BUTTON<<<"
+		"trans"		">>>WE MUST FIND AND PRESS THREE HIDDEN BUTTON<<<"
 	}
 	">>>TO HET OUT THIS LIBRARY<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>TO HET OUT THIS LIBRARY<<<"
+		"trans"		">>>TO HET OUT THIS LIBRARY<<<"
 	}
 	">>>GOOD JOB!<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>GOOD JOB!<<<"
+		"trans"		">>>GOOD JOB!<<<"
 	}
 	">>>NOW TIME TO HOLD<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>NOW TIME TO HOLD<<<"
+		"trans"		">>>NOW TIME TO HOLD<<<"
 	}
 	">>>DOOR BREAKING IN 45 SECS<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>DOOR BREAKING IN 45 SECS<<<"
+		"trans"		">>>DOOR BREAKING IN 45 SECS<<<"
 	}
 	">>>DOOR BREAKING IN 50 SECS<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>DOOR BREAKING IN 50 SECS<<<"
+		"trans"		">>>DOOR BREAKING IN 50 SECS<<<"
 	}
 	">>>RUN RUN RUN! <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>RUN RUN RUN! <<<"
+		"trans"		">>>RUN RUN RUN! <<<"
 	}
 	">>>GUARDIAN OF THE RUIN AHEAD <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>GUARDIAN OF THE RUIN AHEAD <<<"
+		"trans"		">>>GUARDIAN OF THE RUIN AHEAD <<<"
 	}
 	">>>EXTRA VENTUS ACTIVATED<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>EXTRA VENTUS ACTIVATED<<<"
+		"trans"		">>>EXTRA VENTUS ACTIVATED<<<"
 	}
 	"**IGNIS ZOMBIE INCOMING**"
 	{
-		"trans"		"[{darkred}Map{default}] **IGNIS ZOMBIE INCOMING**"
+		"trans"		"**IGNIS ZOMBIE INCOMING**"
 	}
 	">>>WELL DONE!<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>WELL DONE!<<<"
+		"trans"		">>>WELL DONE!<<<"
 	}
 	">>>THE GATE TO THE RUIN WILL OPEN SOON<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>THE GATE TO THE RUIN WILL OPEN SOON<<<"
+		"trans"		">>>THE GATE TO THE RUIN WILL OPEN SOON<<<"
 	}
 	">>>DEFEND!!<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>DEFEND!!<<<"
+		"trans"		">>>DEFEND!!<<<"
 	}
 	"** WE SECURED ROUTE TWO **"
 	{
-		"trans"		"[{darkred}Map{default}] ** WE SECURED ROUTE TWO **"
+		"trans"		"** WE SECURED ROUTE TWO **"
 	}
 	">>>GO TO ROUTE THREE<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>GO TO ROUTE THREE<<<"
+		"trans"		">>>GO TO ROUTE THREE<<<"
 	}
 	"** ROUTE THREE **"
 	{
-		"trans"		"[{darkred}Map{default}] ** ROUTE THREE **"
+		"trans"		"** ROUTE THREE **"
 	}
 	"** TAKE LEFT DOOR **"
 	{
-		"trans"		"[{darkred}Map{default}] ** TAKE LEFT DOOR **"
+		"trans"		"** TAKE LEFT DOOR **"
 	}
 	">> DOOR OPENING IN 30 SECS <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> DOOR OPENING IN 30 SECS <<"
+		"trans"		">> DOOR OPENING IN 30 SECS <<"
 	}
 	">>> DOOR OPENING IN 40 SECS <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> DOOR OPENING IN 40 SECS <<<"
+		"trans"		">>> DOOR OPENING IN 40 SECS <<<"
 	}
 	">> DOOR OPENING IN 50 SECS <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> DOOR OPENING IN 50 SECS <<"
+		"trans"		">> DOOR OPENING IN 50 SECS <<"
 	}
 	">> DOOR OPENING IN 10 SECS <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> DOOR OPENING IN 10 SECS <<"
+		"trans"		">> DOOR OPENING IN 10 SECS <<"
 	}
 	"*** THE DRAGON NOTICED US ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** THE DRAGON NOTICED US ***"
+		"trans"		"*** THE DRAGON NOTICED US ***"
 	}
 	">> KILL HIM!! <<"
 	{
-		"trans"		"[{darkred}Map{default}] >> KILL HIM!! <<"
+		"trans"		">> KILL HIM!! <<"
 	}
 	"*** IGNIS !!! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** IGNIS !!! ***"
+		"trans"		"*** IGNIS !!! ***"
 	}
 	"*** IGNIS !!!***"
 	{
-		"trans"		"[{darkred}Map{default}] *** IGNIS !!!***"
+		"trans"		"*** IGNIS !!!***"
 	}
 	"*** IGNIS WAVE !!! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** IGNIS WAVE !!! ***"
+		"trans"		"*** IGNIS WAVE !!! ***"
 	}
 	"*** VENTUS !!! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** VENTUS !!! ***"
+		"trans"		"*** VENTUS !!! ***"
 	}
 	"*** HEAL !!!***"
 	{
-		"trans"		"[{darkred}Map{default}] *** HEAL !!!***"
+		"trans"		"*** HEAL !!!***"
 	}
 	">>> NICELY DONE !! <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> NICELY DONE !! <<<"
+		"trans"		">>> NICELY DONE !! <<<"
 	}
 	">>> NOW GET THE HELL OUT OF HERE <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> NOW GET THE HELL OUT OF HERE <<<"
+		"trans"		">>> NOW GET THE HELL OUT OF HERE <<<"
 	}
 	">>> RUN TO THE FINAL ROOM <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> RUN TO THE FINAL ROOM <<<"
+		"trans"		">>> RUN TO THE FINAL ROOM <<<"
 	}
 	">>> AND DEFEND UNTIL TELEPORT <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> AND DEFEND UNTIL TELEPORT <<<"
+		"trans"		">>> AND DEFEND UNTIL TELEPORT <<<"
 	}
 	">>> 30 SECS LEFT !!! <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> 30 SECS LEFT !!! <<<"
+		"trans"		">>> 30 SECS LEFT !!! <<<"
 	}
 	"** WE SECURED ROUTE THREE **"
 	{
-		"trans"		"[{darkred}Map{default}] ** WE SECURED ROUTE THREE **"
+		"trans"		"** WE SECURED ROUTE THREE **"
 	}
 	">>>BACK TO ROUTE ONE<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>BACK TO ROUTE ONE<<<"
+		"trans"		">>>BACK TO ROUTE ONE<<<"
 	}
 }

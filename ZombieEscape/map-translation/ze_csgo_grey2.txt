@@ -2,126 +2,126 @@
 {
 	"**map made by jenz in under 24 hours**"
 	{
-		"trans"		"[{darkred}Map{default}] **map made by jenz in under 24 hours**"
+		"trans"		"**map made by jenz in under 24 hours**"
 	}
 	"**Defend Left gate  for 20 seconds!**"
 	{
-		"trans"		"[{darkred}Map{default}] **Defend Left gate  for 20 seconds!**"
+		"trans"		"**Defend Left gate  for 20 seconds!**"
 	}
 	"**Defend right gate  for 20 seconds!**"
 	{
-		"trans"		"[{darkred}Map{default}] **Defend right gate  for 20 seconds!**"
+		"trans"		"**Defend right gate  for 20 seconds!**"
 	}
 	"**5 seconds left at left gate!**"
 	{
-		"trans"		"[{darkred}Map{default}] **5 seconds left at left gate!**"
+		"trans"		"**5 seconds left at left gate!**"
 	}
 	"**fall back!**"
 	{
-		"trans"		"[{darkred}Map{default}] **fall back!**"
+		"trans"		"**fall back!**"
 	}
 	"**5 seconds left at right gate!**"
 	{
-		"trans"		"[{darkred}Map{default}] **5 seconds left at right gate!**"
+		"trans"		"**5 seconds left at right gate!**"
 	}
 	"**Left gate opens in 30 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}] **Left gate opens in 30 seconds**"
+		"trans"		"**Left gate opens in 30 seconds**"
 	}
 	"**Right gate opens in 30 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}] **Right gate opens in 30 seconds**"
+		"trans"		"**Right gate opens in 30 seconds**"
 	}
 	"**Left gate opens in 10 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}] **Left gate opens in 10 seconds**"
+		"trans"		"**Left gate opens in 10 seconds**"
 	}
 	"**Right gate opens in 10 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}] **Right gate opens in 10 seconds**"
+		"trans"		"**Right gate opens in 10 seconds**"
 	}
 	"**Left gate is open!**"
 	{
-		"trans"		"[{darkred}Map{default}] **Left gate is open!**"
+		"trans"		"**Left gate is open!**"
 	}
 	"**Right gate is open!**"
 	{
-		"trans"		"[{darkred}Map{default}] **Right gate is open!**"
+		"trans"		"**Right gate is open!**"
 	}
 	"**The wall will break in 15 seconds!**"
 	{
-		"trans"		"[{darkred}Map{default}] **The wall will break in 15 seconds!**"
+		"trans"		"**The wall will break in 15 seconds!**"
 	}
 	"**Defend 40 secnds**"
 	{
-		"trans"		"[{darkred}Map{default}] **Defend 40 secnds**"
+		"trans"		"**Defend 40 secnds**"
 	}
 	"**Defend 20 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}] **Defend 20 seconds**"
+		"trans"		"**Defend 20 seconds**"
 	}
 	"**10 seconds left!**"
 	{
-		"trans"		"[{darkred}Map{default}] **10 seconds left!**"
+		"trans"		"**10 seconds left!**"
 	}
 	"**Defend 30 seconds!**"
 	{
-		"trans"		"[{darkred}Map{default}] **Defend 30 seconds!**"
+		"trans"		"**Defend 30 seconds!**"
 	}
 	"**15 seconds left!**"
 	{
-		"trans"		"[{darkred}Map{default}] **15 seconds left!**"
+		"trans"		"**15 seconds left!**"
 	}
 	"**5 seconds left**"
 	{
-		"trans"		"[{darkred}Map{default}] **5 seconds left**"
+		"trans"		"**5 seconds left**"
 	}
 	"**Defend 30 seconds**"
 	{
-		"trans"		"[{darkred}Map{default}] **Defend 30 seconds**"
+		"trans"		"**Defend 30 seconds**"
 	}
 	"**15 seconds are left**"
 	{
-		"trans"		"[{darkred}Map{default}] **15 seconds are left**"
+		"trans"		"**15 seconds are left**"
 	}
 	"**The teleporter activates in 15 seconds!**"
 	{
-		"trans"		"[{darkred}Map{default}] **The teleporter activates in 15 seconds!**"
+		"trans"		"**The teleporter activates in 15 seconds!**"
 	}
 	"**teleporter ready!**"
 	{
-		"trans"		"[{darkred}Map{default}] **teleporter ready!**"
+		"trans"		"**teleporter ready!**"
 	}
 	"**Reach the top to survive the nuke!**"
 	{
-		"trans"		"[{darkred}Map{default}] **Reach the top to survive the nuke!**"
+		"trans"		"**Reach the top to survive the nuke!**"
 	}
 	"**The nuke will launch in 110 seconds!**"
 	{
-		"trans"		"[{darkred}Map{default}] **The nuke will launch in 110 seconds!**"
+		"trans"		"**The nuke will launch in 110 seconds!**"
 	}
 	"**90 seconds left**"
 	{
-		"trans"		"[{darkred}Map{default}] **90 seconds left**"
+		"trans"		"**90 seconds left**"
 	}
 	"**70 seconds left**"
 	{
-		"trans"		"[{darkred}Map{default}] **70 seconds left**"
+		"trans"		"**70 seconds left**"
 	}
 	"**50 seconds left**"
 	{
-		"trans"		"[{darkred}Map{default}] **50 seconds left**"
+		"trans"		"**50 seconds left**"
 	}
 	"**30 seconds left**"
 	{
-		"trans"		"[{darkred}Map{default}] **30 seconds left**"
+		"trans"		"**30 seconds left**"
 	}
 	"**10 seconds left**"
 	{
-		"trans"		"[{darkred}Map{default}] **10 seconds left**"
+		"trans"		"**10 seconds left**"
 	}
 	"**THE NUKE HAS LAUNCHED**"
 	{
-		"trans"		"[{darkred}Map{default}] **THE NUKE HAS LAUNCHED**"
+		"trans"		"**THE NUKE HAS LAUNCHED**"
 	}
 }

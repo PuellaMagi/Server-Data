@@ -2,22 +2,22 @@
 {
 	"***Map remake by [ＥSＣAＰＥ] Loving You (수정자 : 러빙유)***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Map remake by [ＥSＣAＰＥ] Loving You (수정자 : 러빙유)***"
+		"trans"		"***Map remake by [ＥSＣAＰＥ] Loving You (수정자 : 러빙유)***"
 	}
 	"***30 seconds for pressing button!!!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***30 seconds for pressing button!!!***"
+		"trans"		"***30 seconds for pressing button!!!***"
 	}
 	"***30 second for pressing button!!!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***30 second for pressing button!!!***"
+		"trans"		"***30 second for pressing button!!!***"
 	}
 	"***30 seconds for pressing right button!!!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***30 seconds for pressing right button!!!***"
+		"trans"		"***30 seconds for pressing right button!!!***"
 	}
 	"***map made by -sang-. helper: V1KT0P***"
 	{
-		"trans"		"[{darkred}Map{default}] ***map made by -sang-. helper: V1KT0P***"
+		"trans"		"***map made by -sang-. helper: V1KT0P***"
 	}
 }

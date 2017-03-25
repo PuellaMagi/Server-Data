@@ -2,34 +2,34 @@
 {
 	"Defend few seconds"
 	{
-		"trans"		"[{darkred}Map{default}] Defend few seconds"
+		"trans"		"Defend few seconds"
 	}
 	"Path will open in few seconds !"
 	{
-		"trans"		"[{darkred}Map{default}] Path will open in few seconds !"
+		"trans"		"Path will open in few seconds !"
 	}
 	"Hold them a bit !!!"
 	{
-		"trans"		"[{darkred}Map{default}] Hold them a bit !!!"
+		"trans"		"Hold them a bit !!!"
 	}
 	"Path is open ! Fall Back, Run !!"
 	{
-		"trans"		"[{darkred}Map{default}] Path is open ! Fall Back, Run !!"
+		"trans"		"Path is open ! Fall Back, Run !!"
 	}
 	"Hold zombies"
 	{
-		"trans"		"[{darkred}Map{default}] Hold zombies"
+		"trans"		"Hold zombies"
 	}
 	"Defend this spot"
 	{
-		"trans"		"[{darkred}Map{default}] Defend this spot"
+		"trans"		"Defend this spot"
 	}
 	"Last defend ! Hold on !"
 	{
-		"trans"		"[{darkred}Map{default}] Last defend ! Hold on !"
+		"trans"		"Last defend ! Hold on !"
 	}
 	"map by benz!n"
 	{
-		"trans"		"[{darkred}Map{default}] map by benz!n"
+		"trans"		"map by benz!n"
 	}
 }

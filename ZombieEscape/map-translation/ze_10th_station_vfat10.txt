@@ -6,11 +6,11 @@
 	}
 	"THE TRAIN SUDDENLY CRASHED!!! WE NEED TO FIND A WAY OUT OF THE TUNNELS!!"
 	{
-		"trans"		"[{darkred}Map{default}]  开着开着这车就翻了,你们得到另一边找个老司机给你们开车!!"
+		"trans"		"开着开着这车就翻了,你们得到另一边找个老司机给你们开车!!"
 	}
 	"And this Hazard Door."
 	{
-		"trans"		"[{darkred}Map{default}]  打爆这扇门!"
+		"trans"		"打爆这扇门!"
 	}
 	"Whats up with those Barrels?"
 	{
@@ -22,16 +22,16 @@
 	}
 	"The Fuck!   You Shot the Barrel"
 	{
-		"trans"		"[{darkred}Map{default}]  淦你粑粑!谁打的油桶!"
+		"trans"		"淦你粑粑!谁打的油桶!"
 	}
 	"Hey, Give me like 45 seconds to magically break this wall"
 	{
 		"countdown"		"45"
-		"trans"		"[{darkred}Map{default}]  围墙爆破于{darkred}45秒{default}后"
+		"trans"		"围墙爆破于{darkred}45秒{default}后"
 	}
 	"The Zombies Are Coming here in exactly 17 seconds! Run!!"
 	{
-		"trans"		"[{darkred}Map{default}]  僵尸传送点17秒后前移"
+		"trans"		"僵尸传送点17秒后前移"
 	}
 	"Stupid Noobs!"
 	{
@@ -55,31 +55,31 @@
 	}
 	"Take Both Sides! i think its important too!"
 	{
-		"trans"		"[{darkred}Map{default}]  两边都需要人防守!"
+		"trans"		"两边都需要人防守!"
 	}
 	"Its a Bar! Get in!!    I think i went  here Before?"
 	{
-		"trans"		"[{darkred}Map{default}]  守住这个酒吧!"
+		"trans"		"守住这个酒吧!"
 	}
 	"Barricade the Doors!, Stay away from the Windows!"
 	{
-		"trans"		"[{darkred}Map{default}]  严防贴边狗!"
+		"trans"		"严防贴边狗!"
 	}
 	"Dont see an Exit anywhere..."
 	{
-		"trans"		"[{darkred}Map{default}]  守到前路开通"
+		"trans"		"守到前路开通"
 	}
 	"i See a Crack in the Back Wall! Keep Defending While i Stabs it with a knife."
 	{
-		"trans"		"[{darkred}Map{default}]  楼梯后面有个裂缝!守到裂缝崩开!"
+		"trans"		"楼梯后面有个裂缝!守到裂缝崩开!"
 	}
 	"Aha! the Back Wall Broke Down! Run! Now Fat Ass Now!"
 	{
-		"trans"		"[{darkred}Map{default}]  裂缝崩开了!快撤!"
+		"trans"		"裂缝崩开了!快撤!"
 	}
 	"Door Opened so Go!"
 	{
-		"trans"		"[{darkred}Map{default}]  撤退!"
+		"trans"		"撤退!"
 	}
 	"GET BACK THEY HAX!"
 	{
@@ -95,19 +95,19 @@
 	}
 	"RUN!!!!"
 	{
-		"trans"		"[{darkred}Map{default}]  快跑!"
+		"trans"		"快跑!"
 	}
 	"Defend the Door!!!"
 	{
-		"trans"		"[{darkred}Map{default}]  守住门口!"
+		"trans"		"守住门口!"
 	}
 	"THE Thing! HAS FALLEN!! RUN TO THE EXIT AND SEAL THE GATE!!"
 	{
-		"trans"		"[{darkred}Map{default}]  你们干烂了BOSS,快出来!老司机要发车了!"
+		"trans"		"你们干烂了BOSS,快出来!老司机要发车了!"
 	}
 	"isnt this where we Started? Wait its Different..  i Can See my Body....."
 	{
-		"trans"		"[{darkred}Map{default}] 呃...老司机呢??"
+		"trans"		"呃...老司机呢??"
 	}
 	"Thanks For Playing."
 	{
@@ -115,58 +115,58 @@
 	}
 	"((( USE WASD TO MOVE BOSS) I WOULD RECOMMEND HOLDING FOR FLYING)"
 	{
-		"trans"		"[{darkred}Map{default}]  控制BOSS的玩家可用WASD四键来操控BOSS"
+		"trans"		"控制BOSS的玩家可用WASD四键来操控BOSS"
 	}
 	"A Zombie Has Control of The Thing!!"
 	{
-		"trans"		"[{darkred}Map{default}]  有僵尸玩家控制了BOSS!"
+		"trans"		"有僵尸玩家控制了BOSS!"
 	}
 	"EWW Kill It!!!"
 	{
-		"trans"		"[{darkred}Map{default}]  打爆这个玩意!"
+		"trans"		"打爆这个玩意!"
 	}
 	"The Mysterious Hand can be used in 50 Seconds!"
 	{
-		"trans"		"[{darkred}Map{default}] The Mysterious Hand can be used in 50 Seconds!"
+		"trans"		"The Mysterious Hand can be used in 50 Seconds!"
 	}
 	"Fish Can be used in 50 Seconds!!"
 	{
-		"trans"		"[{darkred}Map{default}] Fish Can be used in 50 Seconds!!"
+		"trans"		"Fish Can be used in 50 Seconds!!"
 	}
 	"The Glowing Fish has been Picked Up!!!"
 	{
-		"trans"		"[{darkred}Map{default}] The Glowing Fish has been Picked Up!!!"
+		"trans"		"The Glowing Fish has been Picked Up!!!"
 	}
 	"The Mysterious Hand has Been Picked Up!"
 	{
-		"trans"		"[{darkred}Map{default}] The Mysterious Hand has Been Picked Up!"
+		"trans"		"The Mysterious Hand has Been Picked Up!"
 	}
 	"The Mysterious Hand Started to Twitch!!"
 	{
-		"trans"		"[{darkred}Map{default}] The Mysterious Hand Started to Twitch!!"
+		"trans"		"The Mysterious Hand Started to Twitch!!"
 	}
 	"The Fish is Breathing!@$!%$"
 	{
-		"trans"		"[{darkred}Map{default}] The Fish is Breathing!@$!%$"
+		"trans"		"The Fish is Breathing!@$!%$"
 	}
 	"The Hand has Started to Move!"
 	{
-		"trans"		"[{darkred}Map{default}] The Hand has Started to Move!"
+		"trans"		"The Hand has Started to Move!"
 	}
 	"The Hand has Stopped Moving"
 	{
-		"trans"		"[{darkred}Map{default}] The Hand has Stopped Moving"
+		"trans"		"The Hand has Stopped Moving"
 	}
 	"Hand Can be Used Again!"
 	{
-		"trans"		"[{darkred}Map{default}] Hand Can be Used Again!"
+		"trans"		"Hand Can be Used Again!"
 	}
 	"The Fish is Breathing Fire!!"
 	{
-		"trans"		"[{darkred}Map{default}] The Fish is Breathing Fire!!"
+		"trans"		"The Fish is Breathing Fire!!"
 	}
 	"The Fish Seems to be Tired"
 	{
-		"trans"		"[{darkred}Map{default}] The Fish Seems to be Tired"
+		"trans"		"The Fish Seems to be Tired"
 	}
 }

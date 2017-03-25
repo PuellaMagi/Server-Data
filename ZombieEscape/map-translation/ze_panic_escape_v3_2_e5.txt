@@ -2,6 +2,6 @@
 {
 	"Map made by xXhamadryadesXx"
 	{
-		"trans"		"[{darkred}Map{default}] Map made by xXhamadryadesXx"
+		"trans"		"Map made by xXhamadryadesXx"
 	}
 }

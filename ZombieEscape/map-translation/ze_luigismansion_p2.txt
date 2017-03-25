@@ -2,86 +2,86 @@
 {
 	"*** Find the entrance to the Mansion and then locate and Destroy its ghostly power source! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Find the entrance to the Mansion and then locate and Destroy its ghostly power source! ***"
+		"trans"		"*** Find the entrance to the Mansion and then locate and Destroy its ghostly power source! ***"
 	}
 	"*** Hold Off Zombies for 20 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Hold Off Zombies for 20 seconds ***"
+		"trans"		"*** Hold Off Zombies for 20 seconds ***"
 	}
 	"*** Gate Open!!! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Gate Open!!! ***"
+		"trans"		"*** Gate Open!!! ***"
 	}
 	"*** All those still in the dark forest will be banished to the pit in 30 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** All those still in the dark forest will be banished to the pit in 30 seconds ***"
+		"trans"		"*** All those still in the dark forest will be banished to the pit in 30 seconds ***"
 	}
 	"*** Locate 1 of the 4 hidden Safe Zones and Hold off til the way to the tower is open ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Locate 1 of the 4 hidden Safe Zones and Hold off til the way to the tower is open ***"
+		"trans"		"*** Locate 1 of the 4 hidden Safe Zones and Hold off til the way to the tower is open ***"
 	}
 	"*** Safe zone exits will open in 60 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Safe zone exits will open in 60 seconds ***"
+		"trans"		"*** Safe zone exits will open in 60 seconds ***"
 	}
 	"*** All those in the Lobby will be banished to the pit in 30 seconds! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** All those in the Lobby will be banished to the pit in 30 seconds! ***"
+		"trans"		"*** All those in the Lobby will be banished to the pit in 30 seconds! ***"
 	}
 	"*** Destroy the Rouge Luma ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Destroy the Rouge Luma ***"
+		"trans"		"*** Destroy the Rouge Luma ***"
 	}
 	"*** Star Door will open in 35 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Star Door will open in 35 seconds ***"
+		"trans"		"*** Star Door will open in 35 seconds ***"
 	}
 	"*** The Haunted Dimension has become unstable ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** The Haunted Dimension has become unstable ***"
+		"trans"		"*** The Haunted Dimension has become unstable ***"
 	}
 	"*** We must escape the mansion before it take us with it! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** We must escape the mansion before it take us with it! ***"
+		"trans"		"*** We must escape the mansion before it take us with it! ***"
 	}
 	"*** All those in the tower will be banished to the pit in 15 seconds! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** All those in the tower will be banished to the pit in 15 seconds! ***"
+		"trans"		"*** All those in the tower will be banished to the pit in 15 seconds! ***"
 	}
 	"*** All those still in the courtyard will be banished to the pit in 30 seconds! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** All those still in the courtyard will be banished to the pit in 30 seconds! ***"
+		"trans"		"*** All those still in the courtyard will be banished to the pit in 30 seconds! ***"
 	}
 	"*** Bowser has ambushed and cut you all off from the exit! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Bowser has ambushed and cut you all off from the exit! ***"
+		"trans"		"*** Bowser has ambushed and cut you all off from the exit! ***"
 	}
 	"*** Defend yourselfs and hope that Luigi can rescue you in time ! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Defend yourselfs and hope that Luigi can rescue you in time ! ***"
+		"trans"		"*** Defend yourselfs and hope that Luigi can rescue you in time ! ***"
 	}
 	"*** Beware of Bowser's Fire Breath! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Beware of Bowser's Fire Breath! ***"
+		"trans"		"*** Beware of Bowser's Fire Breath! ***"
 	}
 	"*** Luigi has arrived ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Luigi has arrived ***"
+		"trans"		"*** Luigi has arrived ***"
 	}
 	"*** Luigi will now help by lowering the bridge ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Luigi will now help by lowering the bridge ***"
+		"trans"		"*** Luigi will now help by lowering the bridge ***"
 	}
 	"*** Luigi has done it!! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Luigi has done it!! ***"
+		"trans"		"*** Luigi has done it!! ***"
 	}
 	"*** Get across the bridge before it breaks! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Get across the bridge before it breaks! ***"
+		"trans"		"*** Get across the bridge before it breaks! ***"
 	}
 	"*** GET OUT NOW ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** GET OUT NOW ***"
+		"trans"		"*** GET OUT NOW ***"
 	}
 }

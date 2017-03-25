@@ -2,30 +2,30 @@
 {
 	"+++HOLD 30 SECONDS+++"
 	{
-		"trans"		"[{darkred}Map{default}] +++HOLD 30 SECONDS+++"
+		"trans"		"+++HOLD 30 SECONDS+++"
 	}
 	"+++HOLD 15 SECONDS+++"
 	{
-		"trans"		"[{darkred}Map{default}] +++HOLD 15 SECONDS+++"
+		"trans"		"+++HOLD 15 SECONDS+++"
 	}
 	"+++TARGET STARTS IN 50 SECONDS+++"
 	{
-		"trans"		"[{darkred}Map{default}] +++TARGET STARTS IN 50 SECONDS+++"
+		"trans"		"+++TARGET STARTS IN 50 SECONDS+++"
 	}
 	"+++TARGET STARTS IN 30 SECONDS+++"
 	{
-		"trans"		"[{darkred}Map{default}] +++TARGET STARTS IN 30 SECONDS+++"
+		"trans"		"+++TARGET STARTS IN 30 SECONDS+++"
 	}
 	"+++TARGET STARTS IN 5 SECONDS"
 	{
-		"trans"		"[{darkred}Map{default}] +++TARGET STARTS IN 5 SECONDS"
+		"trans"		"+++TARGET STARTS IN 5 SECONDS"
 	}
 	"+++TARGET STARTS+++"
 	{
-		"trans"		"[{darkred}Map{default}] +++TARGET STARTS+++"
+		"trans"		"+++TARGET STARTS+++"
 	}
 	"+++NUKE COMMING++"
 	{
-		"trans"		"[{darkred}Map{default}] +++NUKE COMMING++"
+		"trans"		"+++NUKE COMMING++"
 	}
 }

@@ -2,46 +2,46 @@
 {
 	"Defend, the door open soon !"
 	{
-		"trans"		"[{darkred}Map{default}] Defend, the door open soon !"
+		"trans"		"Defend, the door open soon !"
 	}
 	"Fall back !"
 	{
-		"trans"		"[{darkred}Map{default}] Fall back !"
+		"trans"		"Fall back !"
 	}
 	"Door its open !"
 	{
-		"trans"		"[{darkred}Map{default}] Door its open !"
+		"trans"		"Door its open !"
 	}
 	"The Train leave soon !"
 	{
-		"trans"		"[{darkred}Map{default}] The Train leave soon !"
+		"trans"		"The Train leave soon !"
 	}
 	"The Train leave in 10 seconds !"
 	{
-		"trans"		"[{darkred}Map{default}] The Train leave in 10 seconds !"
+		"trans"		"The Train leave in 10 seconds !"
 	}
 	"Jump in train !"
 	{
-		"trans"		"[{darkred}Map{default}] Jump in train !"
+		"trans"		"Jump in train !"
 	}
 	"Dont touch drilling device when it is on work !!!"
 	{
-		"trans"		"[{darkred}Map{default}] Dont touch drilling device when it is on work !!!"
+		"trans"		"Dont touch drilling device when it is on work !!!"
 	}
 	"Fall back to elevator !"
 	{
-		"trans"		"[{darkred}Map{default}] Fall back to elevator !"
+		"trans"		"Fall back to elevator !"
 	}
 	"Defend and wait until boats leave !"
 	{
-		"trans"		"[{darkred}Map{default}] Defend and wait until boats leave !"
+		"trans"		"Defend and wait until boats leave !"
 	}
 	"Zombie teleport in 5 seconds"
 	{
-		"trans"		"[{darkred}Map{default}] Zombie teleport in 5 seconds"
+		"trans"		"Zombie teleport in 5 seconds"
 	}
 	"Boats leave in 5 seconds !"
 	{
-		"trans"		"[{darkred}Map{default}] Boats leave in 5 seconds !"
+		"trans"		"Boats leave in 5 seconds !"
 	}
 }

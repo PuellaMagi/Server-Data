@@ -2,422 +2,422 @@
 {
 	"***DIFFICULTY --- NORMAL***"
 	{
-		"trans"		"[{darkred}Map{default}] ***DIFFICULTY --- NORMAL***"
+		"trans"		"***DIFFICULTY --- NORMAL***"
 	}
 	"***INFILTRATE AND DEFEND THE GUERILLA COMPOUND***"
 	{
-		"trans"		"[{darkred}Map{default}] ***INFILTRATE AND DEFEND THE GUERILLA COMPOUND***"
+		"trans"		"***INFILTRATE AND DEFEND THE GUERILLA COMPOUND***"
 	}
 	"***HOLD FOR 50 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***HOLD FOR 50 SECONDS***"
+		"trans"		"***HOLD FOR 50 SECONDS***"
 	}
 	"***FALL BACK***"
 	{
-		"trans"		"[{darkred}Map{default}] ***FALL BACK***"
+		"trans"		"***FALL BACK***"
 	}
 	"***5 SECONDS LEFT***"
 	{
-		"trans"		"[{darkred}Map{default}] ***5 SECONDS LEFT***"
+		"trans"		"***5 SECONDS LEFT***"
 	}
 	"***4 SECONDS LEFT***"
 	{
-		"trans"		"[{darkred}Map{default}] ***4 SECONDS LEFT***"
+		"trans"		"***4 SECONDS LEFT***"
 	}
 	"***3 SECONDS LEFT***"
 	{
-		"trans"		"[{darkred}Map{default}] ***3 SECONDS LEFT***"
+		"trans"		"***3 SECONDS LEFT***"
 	}
 	"***2 SECONDS LEFT***"
 	{
-		"trans"		"[{darkred}Map{default}] ***2 SECONDS LEFT***"
+		"trans"		"***2 SECONDS LEFT***"
 	}
 	"***1 SECONDS LEFT***"
 	{
-		"trans"		"[{darkred}Map{default}] ***1 SECONDS LEFT***"
+		"trans"		"***1 SECONDS LEFT***"
 	}
 	"***RUN***"
 	{
-		"trans"		"[{darkred}Map{default}] ***RUN***"
+		"trans"		"***RUN***"
 	}
 	"***HOLD THIS AREA FOR 10 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***HOLD THIS AREA FOR 10 SECONDS***"
+		"trans"		"***HOLD THIS AREA FOR 10 SECONDS***"
 	}
 	"***TELEPORTING EVERYONE TO COMPOUND***"
 	{
-		"trans"		"[{darkred}Map{default}] ***TELEPORTING EVERYONE TO COMPOUND***"
+		"trans"		"***TELEPORTING EVERYONE TO COMPOUND***"
 	}
 	"***MOVE IT***"
 	{
-		"trans"		"[{darkred}Map{default}] ***MOVE IT***"
+		"trans"		"***MOVE IT***"
 	}
 	"***ITS A PREDATOR!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***ITS A PREDATOR!***"
+		"trans"		"***ITS A PREDATOR!***"
 	}
 	"***KILL IT***"
 	{
-		"trans"		"[{darkred}Map{default}] ***KILL IT***"
+		"trans"		"***KILL IT***"
 	}
 	"***DODGE THE LASERS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***DODGE THE LASERS***"
+		"trans"		"***DODGE THE LASERS***"
 	}
 	"***IT LOOKS LIKE IT'S PREPARING FOR ANOTHER GROUNDSTOMP***"
 	{
-		"trans"		"[{darkred}Map{default}] ***IT LOOKS LIKE IT'S PREPARING FOR ANOTHER GROUNDSTOMP***"
+		"trans"		"***IT LOOKS LIKE IT'S PREPARING FOR ANOTHER GROUNDSTOMP***"
 	}
 	"***SHOOT IT BEFORE IT'S TOO LATE***"
 	{
-		"trans"		"[{darkred}Map{default}] ***SHOOT IT BEFORE IT'S TOO LATE***"
+		"trans"		"***SHOOT IT BEFORE IT'S TOO LATE***"
 	}
 	"***OH NO!     WATCH OUT!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***OH NO!     WATCH OUT!***"
+		"trans"		"***OH NO!     WATCH OUT!***"
 	}
 	"***IT'S RUNNING AWAY***"
 	{
-		"trans"		"[{darkred}Map{default}] ***IT'S RUNNING AWAY***"
+		"trans"		"***IT'S RUNNING AWAY***"
 	}
 	"***YOU COULD HAVE STOPPED THE ATTACK THOUGH...***"
 	{
-		"trans"		"[{darkred}Map{default}] ***YOU COULD HAVE STOPPED THE ATTACK THOUGH...***"
+		"trans"		"***YOU COULD HAVE STOPPED THE ATTACK THOUGH...***"
 	}
 	"***PLAYER PICKED UP GRENADE LAUNCHER***"
 	{
-		"trans"		"[{darkred}Map{default}] ***PLAYER PICKED UP GRENADE LAUNCHER***"
+		"trans"		"***PLAYER PICKED UP GRENADE LAUNCHER***"
 	}
 	"***HOLD FOR 30 seconds***"
 	{
-		"trans"		"[{darkred}Map{default}] ***HOLD FOR 30 SECONDS***"
+		"trans"		"***HOLD FOR 30 SECONDS***"
 	}
 	"***TELEPORTING EVERYONE TO CLIFF HIDEOUT***"
 	{
-		"trans"		"[{darkred}Map{default}] ***TELEPORTING EVERYONE TO CLIFF HIDEOUT***"
+		"trans"		"***TELEPORTING EVERYONE TO CLIFF HIDEOUT***"
 	}
 	"***FIRST AID PICKED UP***"
 	{
-		"trans"		"[{darkred}Map{default}] ***FIRST AID PICKED UP***"
+		"trans"		"***FIRST AID PICKED UP***"
 	}
 	"***HOLD THIS AREA FOR 40 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***HOLD THIS AREA FOR 40 SECONDS***"
+		"trans"		"***HOLD THIS AREA FOR 40 SECONDS***"
 	}
 	"***TELEPORTING EVERYONE TO RUINS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***TELEPORTING EVERYONE TO RUINS***"
+		"trans"		"***TELEPORTING EVERYONE TO RUINS***"
 	}
 	"***20 SECONDS LEFT***"
 	{
-		"trans"		"[{darkred}Map{default}] ***20 SECONDS LEFT***"
+		"trans"		"***20 SECONDS LEFT***"
 	}
 	"***10 SECONDS LEFT***"
 	{
-		"trans"		"[{darkred}Map{default}] ***10 SECONDS LEFT***"
+		"trans"		"***10 SECONDS LEFT***"
 	}
 	"***RUN! GO BEFORE ITS TOO LATE!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***RUN! GO BEFORE ITS TOO LATE!***"
+		"trans"		"***RUN! GO BEFORE ITS TOO LATE!***"
 	}
 	"***THE CHOPPER IS ON IT'S WAY!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***THE CHOPPER IS ON IT'S WAY!***"
+		"trans"		"***THE CHOPPER IS ON IT'S WAY!***"
 	}
 	"***CHOPPER LEAVING IN 10 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***CHOPPER LEAVING IN 10 SECONDS***"
+		"trans"		"***CHOPPER LEAVING IN 10 SECONDS***"
 	}
 	"***CHOPPER LEAVING IN 5 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***CHOPPER LEAVING IN 5 SECONDS***"
+		"trans"		"***CHOPPER LEAVING IN 5 SECONDS***"
 	}
 	"***CHOPPER IS LEAVING***"
 	{
-		"trans"		"[{darkred}Map{default}] ***CHOPPER IS LEAVING***"
+		"trans"		"***CHOPPER IS LEAVING***"
 	}
 	"***THE NUKE HAS EXPLODED***"
 	{
-		"trans"		"[{darkred}Map{default}] ***THE NUKE HAS EXPLODED***"
+		"trans"		"***THE NUKE HAS EXPLODED***"
 	}
 	"***OH NO! THE NUKE EXPLODED!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***OH NO! THE NUKE EXPLODED!***"
+		"trans"		"***OH NO! THE NUKE EXPLODED!***"
 	}
 	"***YOU COMPLETED NORMAL***"
 	{
-		"trans"		"[{darkred}Map{default}] ***YOU COMPLETED NORMAL***"
+		"trans"		"***YOU COMPLETED NORMAL***"
 	}
 	"***MOVING ON TO HARD***"
 	{
-		"trans"		"[{darkred}Map{default}] ***MOVING ON TO HARD***"
+		"trans"		"***MOVING ON TO HARD***"
 	}
 	"***DIFFICULTY --- HARD***"
 	{
-		"trans"		"[{darkred}Map{default}] ***DIFFICULTY --- HARD***"
+		"trans"		"***DIFFICULTY --- HARD***"
 	}
 	"***HOLD BOULDERAREA FOR 15 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***HOLD BOULDERAREA FOR 15 SECONDS***"
+		"trans"		"***HOLD BOULDERAREA FOR 15 SECONDS***"
 	}
 	"***HOLD AZTEC-RUINS FOR 25 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***HOLD AZTEC-RUINS FOR 25 SECONDS***"
+		"trans"		"***HOLD AZTEC-RUINS FOR 25 SECONDS***"
 	}
 	"***RUN !***"
 	{
-		"trans"		"[{darkred}Map{default}] ***RUN !***"
+		"trans"		"***RUN !***"
 	}
 	"***HOLD 30 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***HOLD 30 SECONDS***"
+		"trans"		"***HOLD 30 SECONDS***"
 	}
 	"***5***"
 	{
-		"trans"		"[{darkred}Map{default}] ***5***"
+		"trans"		"***5***"
 	}
 	"***4***"
 	{
-		"trans"		"[{darkred}Map{default}] ***4***"
+		"trans"		"***4***"
 	}
 	"***3***"
 	{
-		"trans"		"[{darkred}Map{default}] ***3***"
+		"trans"		"***3***"
 	}
 	"***2***"
 	{
-		"trans"		"[{darkred}Map{default}] ***2***"
+		"trans"		"***2***"
 	}
 	"***1***"
 	{
-		"trans"		"[{darkred}Map{default}] ***1***"
+		"trans"		"***1***"
 	}
 	"***GET INSIDE***"
 	{
-		"trans"		"[{darkred}Map{default}] ***GET INSIDE***"
+		"trans"		"***GET INSIDE***"
 	}
 	"***WELL DONE***"
 	{
-		"trans"		"[{darkred}Map{default}] ***WELL DONE***"
+		"trans"		"***WELL DONE***"
 	}
 	"***PLAYER PICKED UP CLAYMORE MINES***"
 	{
-		"trans"		"[{darkred}Map{default}] ***PLAYER PICKED UP CLAYMORE MINES***"
+		"trans"		"***PLAYER PICKED UP CLAYMORE MINES***"
 	}
 	"***PLAYER PICKED UP AMMO DISPENSER***"
 	{
-		"trans"		"[{darkred}Map{default}] ***PLAYER PICKED UP AMMO DISPENSER***"
+		"trans"		"***PLAYER PICKED UP AMMO DISPENSER***"
 	}
 	"***PLAYER PICKED UP GAUSS RIFLE***"
 	{
-		"trans"		"[{darkred}Map{default}] ***PLAYER PICKED UP GAUSS RIFLE***"
+		"trans"		"***PLAYER PICKED UP GAUSS RIFLE***"
 	}
 	"***PLAYER PICKED UP ALIEN DEVICE***"
 	{
-		"trans"		"[{darkred}Map{default}] ***PLAYER PICKED UP ALIEN DEVICE***"
+		"trans"		"***PLAYER PICKED UP ALIEN DEVICE***"
 	}
 	"***PLAYER PICKED UP ALIEN SAMPLE***"
 	{
-		"trans"		"[{darkred}Map{default}] ***PLAYER PICKED UP ALIEN SAMPLE***"
+		"trans"		"***PLAYER PICKED UP ALIEN SAMPLE***"
 	}
 	"***YOU HAVE DEFEATED THE PREDATOR!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***YOU HAVE DEFEATED THE PREDATOR!***"
+		"trans"		"***YOU HAVE DEFEATED THE PREDATOR!***"
 	}
 	"***YOU FAILED***"
 	{
-		"trans"		"[{darkred}Map{default}] ***YOU FAILED***"
+		"trans"		"***YOU FAILED***"
 	}
 	"***A ZOMBIE GOT INSIDE THE CHOPPER***"
 	{
-		"trans"		"[{darkred}Map{default}] ***A ZOMBIE GOT INSIDE THE CHOPPER***"
+		"trans"		"***A ZOMBIE GOT INSIDE THE CHOPPER***"
 	}
 	"***PLAYER PICKED UP PUSH GUN***"
 	{
-		"trans"		"[{darkred}Map{default}] ***PLAYER PICKED UP PUSH GUN***"
+		"trans"		"***PLAYER PICKED UP PUSH GUN***"
 	}
 	"***YOU COMPLETED HARD***"
 	{
-		"trans"		"[{darkred}Map{default}] ***YOU COMPLETED HARD***"
+		"trans"		"***YOU COMPLETED HARD***"
 	}
 	"***MOVING ON TO HYPER***"
 	{
-		"trans"		"[{darkred}Map{default}] ***MOVING ON TO HYPER***"
+		"trans"		"***MOVING ON TO HYPER***"
 	}
 	"***DIFFICULTY --- HYPER***"
 	{
-		"trans"		"[{darkred}Map{default}] ***DIFFICULTY --- HYPER***"
+		"trans"		"***DIFFICULTY --- HYPER***"
 	}
 	"***ELEVATOR IS WARMING UP***"
 	{
-		"trans"		"[{darkred}Map{default}] ***ELEVATOR IS WARMING UP***"
+		"trans"		"***ELEVATOR IS WARMING UP***"
 	}
 	"***ELEVATOR IS ON THE WAY***"
 	{
-		"trans"		"[{darkred}Map{default}] ***ELEVATOR IS ON THE WAY***"
+		"trans"		"***ELEVATOR IS ON THE WAY***"
 	}
 	"***ELEVATOR'S HERE***"
 	{
-		"trans"		"[{darkred}Map{default}] ***ELEVATOR'S HERE***"
+		"trans"		"***ELEVATOR'S HERE***"
 	}
 	"***TELEPORTING EVERYONE TO COMPLEX ELEVATOR***"
 	{
-		"trans"		"[{darkred}Map{default}] ***TELEPORTING EVERYONE TO COMPLEX ELEVATOR***"
+		"trans"		"***TELEPORTING EVERYONE TO COMPLEX ELEVATOR***"
 	}
 	"***C4 ACTIVATED***"
 	{
-		"trans"		"[{darkred}Map{default}] ***C4 ACTIVATED***"
+		"trans"		"***C4 ACTIVATED***"
 	}
 	"***HOLD FOR 20 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***HOLD FOR 20 SECONDS***"
+		"trans"		"***HOLD FOR 20 SECONDS***"
 	}
 	"***ITS THE PREDATOR!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***ITS THE PREDATOR!***"
+		"trans"		"***ITS THE PREDATOR!***"
 	}
 	"***TELEPORTING EVERYONE TO COMPLEX CORE***"
 	{
-		"trans"		"[{darkred}Map{default}] ***TELEPORTING EVERYONE TO COMPLEX CORE***"
+		"trans"		"***TELEPORTING EVERYONE TO COMPLEX CORE***"
 	}
 	"***THE PREDATOR IS CHARGING AN ATTACK!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***THE PREDATOR IS CHARGING AN ATTACK!***"
+		"trans"		"***THE PREDATOR IS CHARGING AN ATTACK!***"
 	}
 	"***YOU ARE TOO SLOW!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***YOU ARE TOO SLOW!***"
+		"trans"		"***YOU ARE TOO SLOW!***"
 	}
 	"***HOLD ON TO YOUR HELMETS!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***HOLD ON TO YOUR HELMETS!***"
+		"trans"		"***HOLD ON TO YOUR HELMETS!***"
 	}
 	"***YOU MUST PRESS ALL 4 ORBS TO SURVIVE!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***YOU MUST PRESS ALL 4 ORBS TO SURVIVE!***"
+		"trans"		"***YOU MUST PRESS ALL 4 ORBS TO SURVIVE!***"
 	}
 	"***YOU INTERUPTED THE PREDATORS ATTACK***"
 	{
-		"trans"		"[{darkred}Map{default}] ***YOU INTERUPTED THE PREDATORS ATTACK***"
+		"trans"		"***YOU INTERUPTED THE PREDATORS ATTACK***"
 	}
 	"***YOU KILLED THE PREDATOR***"
 	{
-		"trans"		"[{darkred}Map{default}] ***YOU KILLED THE PREDATOR***"
+		"trans"		"***YOU KILLED THE PREDATOR***"
 	}
 	"***RUN TOWARDS THE ELEVATOR!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***RUN TOWARDS THE ELEVATOR!***"
+		"trans"		"***RUN TOWARDS THE ELEVATOR!***"
 	}
 	"***PLAYER PICKED UP FLAMETHROWER***"
 	{
-		"trans"		"[{darkred}Map{default}] ***PLAYER PICKED UP FLAMETHROWER***"
+		"trans"		"***PLAYER PICKED UP FLAMETHROWER***"
 	}
 	"***CHOPPER IS ON IT'S WAY***"
 	{
-		"trans"		"[{darkred}Map{default}] ***CHOPPER IS ON IT'S WAY***"
+		"trans"		"***CHOPPER IS ON IT'S WAY***"
 	}
 	"***THE CHOPPER IS HERE! MOVE IT!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***THE CHOPPER IS HERE! MOVE IT!***"
+		"trans"		"***THE CHOPPER IS HERE! MOVE IT!***"
 	}
 	"***CHOPPER LEAVES IN 10 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***CHOPPER LEAVES IN 10 SECONDS***"
+		"trans"		"***CHOPPER LEAVES IN 10 SECONDS***"
 	}
 	"***CHOPPER LEAVES IN 5 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***CHOPPER LEAVES IN 5 SECONDS***"
+		"trans"		"***CHOPPER LEAVES IN 5 SECONDS***"
 	}
 	"***YOU COMPLETED HYPER***"
 	{
-		"trans"		"[{darkred}Map{default}] ***YOU COMPLETED HYPER***"
+		"trans"		"***YOU COMPLETED HYPER***"
 	}
 	"***MOVING ON TO ULTIMATE***"
 	{
-		"trans"		"[{darkred}Map{default}] ***MOVING ON TO ULTIMATE***"
+		"trans"		"***MOVING ON TO ULTIMATE***"
 	}
 	"***GOOD LUCK...***"
 	{
-		"trans"		"[{darkred}Map{default}] ***GOOD LUCK...***"
+		"trans"		"***GOOD LUCK...***"
 	}
 	"***DIFFICULTY --- ULTIMATE***"
 	{
-		"trans"		"[{darkred}Map{default}] ***DIFFICULTY --- ULTIMATE***"
+		"trans"		"***DIFFICULTY --- ULTIMATE***"
 	}
 	"***GET IN THE ELEVATOR***"
 	{
-		"trans"		"[{darkred}Map{default}] ***GET IN THE ELEVATOR***"
+		"trans"		"***GET IN THE ELEVATOR***"
 	}
 	"***HOLD THIS AREA FOR 20 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***HOLD THIS AREA FOR 20 SECONDS***"
+		"trans"		"***HOLD THIS AREA FOR 20 SECONDS***"
 	}
 	"***15 SECONDS LEFT***"
 	{
-		"trans"		"[{darkred}Map{default}] ***15 SECONDS LEFT***"
+		"trans"		"***15 SECONDS LEFT***"
 	}
 	"***TELEPORTING EVERYONE TO SPACESHIP ENTRANCE***"
 	{
-		"trans"		"[{darkred}Map{default}] ***TELEPORTING EVERYONE TO SPACESHIP ENTRANCE***"
+		"trans"		"***TELEPORTING EVERYONE TO SPACESHIP ENTRANCE***"
 	}
 	"***GET INSIDE THE TRANSPORTER***"
 	{
-		"trans"		"[{darkred}Map{default}] ***GET INSIDE THE TRANSPORTER***"
+		"trans"		"***GET INSIDE THE TRANSPORTER***"
 	}
 	"***TELEPORTING EVERYONE TO SPACESHIP CORE***"
 	{
-		"trans"		"[{darkred}Map{default}] ***TELEPORTING EVERYONE TO SPACESHIP CORE***"
+		"trans"		"***TELEPORTING EVERYONE TO SPACESHIP CORE***"
 	}
 	"***THE PREDATOR IS IN RAGEMODE***"
 	{
-		"trans"		"[{darkred}Map{default}] ***THE PREDATOR IS IN RAGEMODE***"
+		"trans"		"***THE PREDATOR IS IN RAGEMODE***"
 	}
 	"***THE SPACESHIP IS STARTING TO COLLAPSE***"
 	{
-		"trans"		"[{darkred}Map{default}] ***THE SPACESHIP IS STARTING TO COLLAPSE***"
+		"trans"		"***THE SPACESHIP IS STARTING TO COLLAPSE***"
 	}
 	"ZOMBIES ARE RELEASED!"
 	{
-		"trans"		"[{darkred}Map{default}] ZOMBIES ARE RELEASED!"
+		"trans"		"ZOMBIES ARE RELEASED!"
 	}
 	"YOU TOOK TOO LONG!"
 	{
-		"trans"		"[{darkred}Map{default}] YOU TOOK TOO LONG!"
+		"trans"		"YOU TOOK TOO LONG!"
 	}
 	"***PLAYER PICKED UP IMPULSOR***"
 	{
-		"trans"		"[{darkred}Map{default}] ***PLAYER PICKED UP IMPULSOR***"
+		"trans"		"***PLAYER PICKED UP IMPULSOR***"
 	}
 	"***PLAYER PICKED UP MINI GUN***"
 	{
-		"trans"		"[{darkred}Map{default}] ***PLAYER PICKED UP MINI GUN***"
+		"trans"		"***PLAYER PICKED UP MINI GUN***"
 	}
 	"***SOMEONE MUST JUMP INTO THE CORE***"
 	{
-		"trans"		"[{darkred}Map{default}] ***SOMEONE MUST JUMP INTO THE CORE***"
+		"trans"		"***SOMEONE MUST JUMP INTO THE CORE***"
 	}
 	"***ZOMBIE BRIDGE ACTIVATED***"
 	{
-		"trans"		"[{darkred}Map{default}] ***ZOMBIE BRIDGE ACTIVATED***"
+		"trans"		"***ZOMBIE BRIDGE ACTIVATED***"
 	}
 	"***THE CORE IS GOING UNSTABLE***"
 	{
-		"trans"		"[{darkred}Map{default}] ***THE CORE IS GOING UNSTABLE***"
+		"trans"		"***THE CORE IS GOING UNSTABLE***"
 	}
 	"***RUN TOWARDS THE FINAL ROOM***"
 	{
-		"trans"		"[{darkred}Map{default}] ***RUN TOWARDS THE FINAL ROOM***"
+		"trans"		"***RUN TOWARDS THE FINAL ROOM***"
 	}
 	"***THIS IS YOUR FINAL STAND***"
 	{
-		"trans"		"[{darkred}Map{default}] ***THIS IS YOUR FINAL STAND***"
+		"trans"		"***THIS IS YOUR FINAL STAND***"
 	}
 	"***HOLD YOUR GROUND***"
 	{
-		"trans"		"[{darkred}Map{default}] ***HOLD YOUR GROUND***"
+		"trans"		"***HOLD YOUR GROUND***"
 	}
 	"***KEEP FIRING WITH UNLIMITED AMMO***"
 	{
-		"trans"		"[{darkred}Map{default}] ***KEEP FIRING WITH UNLIMITED AMMO***"
+		"trans"		"***KEEP FIRING WITH UNLIMITED AMMO***"
 	}
 }

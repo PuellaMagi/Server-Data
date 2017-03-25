@@ -6,39 +6,39 @@
 	}
 	"***Wall will break in 20 sec***"
 	{
-		"trans"		"[{darkred}Map{default}] 墙破碎于20秒后"
+		"trans"		"墙破碎于20秒后"
 	}
 	"***Doors will opens in 20 sec***"
 	{
-		"trans"		"[{darkred}Map{default}] 大门开启于20秒后"
+		"trans"		"大门开启于20秒后"
 	}
 	"***Shit ! the door is blocked ! Hold this position***"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守阵地直到前路畅通"
+		"trans"		"坚守阵地直到前路畅通"
 	}
 	"***Hold this position for 20 sec***"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守20秒"
+		"trans"		"坚守20秒"
 	}
 	"***Defend this position for 20 sec***"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守20秒"
+		"trans"		"坚守20秒"
 	}
 	"***Defend this position 20 sec***"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守20秒"
+		"trans"		"坚守20秒"
 	}
 	"***Defend this position for 15 sec***"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守15秒"
+		"trans"		"坚守15秒"
 	}
 	"***Team Fall Back to the reactor room***"
 	{
-		"trans"		"[{darkred}Map{default}]  撤退至反应室中"
+		"trans"		"撤退至反应室中"
 	}
 	"***Defend the reactor for 20 sec***"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守20秒"
+		"trans"		"坚守20秒"
 	}
 	"***Fuck! the reactor is uncontrollable, exit the K-19***"
 	{
@@ -46,10 +46,10 @@
 	}
 	"***Crate will break in 25 sec***"
 	{
-		"trans"		"[{darkred}Map{default}]  障碍破除于25秒后"
+		"trans"		"障碍破除于25秒后"
 	}
 	"***Defend the exit for 25 sec***"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守25秒"
+		"trans"		"坚守25秒"
 	}
 }

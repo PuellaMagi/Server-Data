@@ -2,146 +2,146 @@
 {
 	"---Feedback:noojeff@gmail.com---"
 	{
-		"trans"		"[{darkred}Map{default}] ---Feedback:noojeff@gmail.com---"
+		"trans"		"---Feedback:noojeff@gmail.com---"
 	}
 	"---Special Thank To:HZM654321 and JackBauer123---"
 	{
-		"trans"		"[{darkred}Map{default}] ---Special Thank To:HZM654321 and JackBauer123---"
+		"trans"		"---Special Thank To:HZM654321 and JackBauer123---"
 	}
 	"---Map made by Jeff---"
 	{
-		"trans"		"[{darkred}Map{default}] ---Map made by Jeff---"
+		"trans"		"---Map made by Jeff---"
 	}
 	"---Have Fun!---"
 	{
-		"trans"		"[{darkred}Map{default}] ---Have Fun!---"
+		"trans"		"---Have Fun!---"
 	}
 	">>>Now get in the tunnel!<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Now get in the tunnel!<<<"
+		"trans"		">>>Now get in the tunnel!<<<"
 	}
 	">>>And def the path for 30 seconds<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>And def the path for 30 seconds<<<"
+		"trans"		">>>And def the path for 30 seconds<<<"
 	}
 	">>>Door has opened,GOGOGO<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Door has opened,GOGOGO<<<"
+		"trans"		">>>Door has opened,GOGOGO<<<"
 	}
 	">>>Gate will open in 40 seconds!<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Gate will open in 40 seconds!<<<"
+		"trans"		">>>Gate will open in 40 seconds!<<<"
 	}
 	">>>Now hold these bridges!<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Now hold these bridges!<<<"
+		"trans"		">>>Now hold these bridges!<<<"
 	}
 	">>>10 seconds left!<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>10 seconds left!<<<"
+		"trans"		">>>10 seconds left!<<<"
 	}
 	">>>Door has opened,RUUUUUUNNN<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Door has opened,RUUUUUUNNN<<<"
+		"trans"		">>>Door has opened,RUUUUUUNNN<<<"
 	}
 	">>>The bridge will be activated in 40 seconds!<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>The bridge will be activated in 40 seconds!<<<"
+		"trans"		">>>The bridge will be activated in 40 seconds!<<<"
 	}
 	">>>Lowing the bridge,GO!<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Lowing the bridge,GO!<<<"
+		"trans"		">>>Lowing the bridge,GO!<<<"
 	}
 	">>>Zombies trapped for 17 seconds!<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Zombies trapped for 17 seconds!<<<"
+		"trans"		">>>Zombies trapped for 17 seconds!<<<"
 	}
 	">>>Door opening<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Door opening<<<"
+		"trans"		">>>Door opening<<<"
 	}
 	">>>Please wait<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Please wait<<<"
+		"trans"		">>>Please wait<<<"
 	}
 	">>>This door is moving VERY SLOWLY<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>This door is moving VERY SLOWLY<<<"
+		"trans"		">>>This door is moving VERY SLOWLY<<<"
 	}
 	">>>Thanks for your patience<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Thanks for your patience<<<"
+		"trans"		">>>Thanks for your patience<<<"
 	}
 	">>>Door now is fully opened<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Door now is fully opened<<<"
+		"trans"		">>>Door now is fully opened<<<"
 	}
 	">>>AFK teleport in 20s<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>AFK teleport in 20s<<<"
+		"trans"		">>>AFK teleport in 20s<<<"
 	}
 	">>>Zombies trapped for 25 seconds<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Zombies trapped for 25 seconds<<<"
+		"trans"		">>>Zombies trapped for 25 seconds<<<"
 	}
 	">>>Door open in 40 seconds<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Door open in 40 seconds<<<"
+		"trans"		">>>Door open in 40 seconds<<<"
 	}
 	">>>10 Seconds left<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>10 Seconds left<<<"
+		"trans"		">>>10 Seconds left<<<"
 	}
 	">>>Exit is open!<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Exit is open!<<<"
+		"trans"		">>>Exit is open!<<<"
 	}
 	">>>Door close in 5s<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Door close in 5s<<<"
+		"trans"		">>>Door close in 5s<<<"
 	}
 	">>>Teleport initializing<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Teleport initializing<<<"
+		"trans"		">>>Teleport initializing<<<"
 	}
 	">>>PLease Stand By<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>PLease Stand By<<<"
+		"trans"		">>>PLease Stand By<<<"
 	}
 	">>>Door B fatal ERROR detected<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Door B fatal ERROR detected<<<"
+		"trans"		">>>Door B fatal ERROR detected<<<"
 	}
 	">>>Def!!!!<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Def!!!!<<<"
+		"trans"		">>>Def!!!!<<<"
 	}
 	">>>10%<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>10%<<<"
+		"trans"		">>>10%<<<"
 	}
 	">>>50%<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>50%<<<"
+		"trans"		">>>50%<<<"
 	}
 	">>>Door A Losing power!!!<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Door A Losing power!!!<<<"
+		"trans"		">>>Door A Losing power!!!<<<"
 	}
 	">>>WATCH OUT<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>WATCH OUT<<<"
+		"trans"		">>>WATCH OUT<<<"
 	}
 	">>>90%<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>90%<<<"
+		"trans"		">>>90%<<<"
 	}
 	">>>Teleport is Online<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Teleport is Online<<<"
+		"trans"		">>>Teleport is Online<<<"
 	}
 	">>>Get in the Teleport!!!!<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Get in the Teleport!!!!<<<"
+		"trans"		">>>Get in the Teleport!!!!<<<"
 	}
 }

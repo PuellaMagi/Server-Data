@@ -2,346 +2,346 @@
 {
 	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  剩余40秒"
+		"trans"		"剩余40秒"
 	}
 	">>> Map created by Moray <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  作者 Moray 翻译 milulu"
+		"trans"		"作者 Moray 翻译 milulu"
 	}
 	">>> WARMUP ROUND 30 SECONDS REMAINING <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  剩余30秒"
+		"trans"		"剩余30秒"
 	}
 	">>> WARMUP ROUND 20 SECONDS REMAINING <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  剩余20秒"
+		"trans"		"剩余20秒"
 	}
 	">>> WARMUP ROUND 10 SECONDS REMAINING <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  剩余10秒"
+		"trans"		"剩余10秒"
 	}
 	">>> WARMUP ROUND END <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  热身结束"
+		"trans"		"热身结束"
 	}
 	">>> STAGE 1 <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  第一关"
+		"trans"		"第一关"
 	}
 	">>> ENTRANCE DOOR OPENING <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  大门开放"
+		"trans"		"大门开放"
 	}
 	">>> PLAYER HAS PICKED UP ICE <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  玩家拿起了冰神器 可以开心的刷僵尸啦"
+		"trans"		"玩家拿起了冰神器 可以开心的刷僵尸啦"
 	}
 	">>> HOLD 25 SECONDS <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  守25秒"
+		"trans"		"守25秒"
 	}
 	">>> AFK TELEPORT IN 10 SECONDS <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  10秒后传送不爱活动的人了哦"
+		"trans"		"10秒后传送不爱活动的人了哦"
 	}
 	">>> HOLD 20 SECONDS <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  守20秒"
+		"trans"		"守20秒"
 	}
 	">>> AFK TELEPORT IN 5 SECONDS <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  5秒后传送不爱活动的人了哦"
+		"trans"		"5秒后传送不爱活动的人了哦"
 	}
 	">>> HOLD 10 SECONDS <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  还有10秒哦"
+		"trans"		"还有10秒哦"
 	}
 	">>> HOLD 5 SECONDS <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  你们的雷准备好了没有"
+		"trans"		"你们的雷准备好了没有"
 	}
 	">>> PLAYER HAS PICKED UP PUSH <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  玩家拿起了风神器（小心使用哦）"
+		"trans"		"玩家拿起了风神器（小心使用哦）"
 	}
 	">>> PLAYER HAS PICKED UP FIRE <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  玩家拿起了火神器 好烫啊"
+		"trans"		"玩家拿起了火神器 好烫啊"
 	}
 	">>> HOLD 15 SECONDS <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  哦糟了 现在只可以守僵尸了"
+		"trans"		"哦糟了 现在只可以守僵尸了"
 	}
 	">>> PLAYER HAS PICKED UP HEAL <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  玩家拿起了奶神器 希望是兔子拿的哦~"
+		"trans"		"玩家拿起了奶神器 希望是兔子拿的哦~"
 	}
 	">>> SPIDER IS COMING <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  可怕的蜘蛛来了"
+		"trans"		"可怕的蜘蛛来了"
 	}
 	">>> SPIDER USED POISON. HURRY <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  蜘蛛用毒药了 "
+		"trans"		"蜘蛛用毒药了 "
 	}
 	">>> SPIDER IS DEAD <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  蜘蛛死了 希望下次不要在碰到了"
+		"trans"		"蜘蛛死了 希望下次不要在碰到了"
 	}
 	">>> TELEPORTER ACTIVATE IN 20 SECONDS <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  干的好 传送器在20秒内激活 马上就可以回去了"
+		"trans"		"干的好 传送器在20秒内激活 马上就可以回去了"
 	}
 	">>> DOOR CLOSING <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  关门了"
+		"trans"		"关门了"
 	}
 	">>> FAIL ROUND <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  失败了 不要沮丧加油↖(^ω^)↗"
+		"trans"		"失败了 不要沮丧加油↖(^ω^)↗"
 	}
 	">>> LEVEL COMPLETED <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  你们居然完成了任务"
+		"trans"		"你们居然完成了任务"
 	}
 	">>> STAGE 2 <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  第2关"
+		"trans"		"第2关"
 	}
 	">>> GO RIGHT <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> GO RIGHT <<<"
+		"trans"		">>> GO RIGHT <<<"
 	}
 	">>> PLAYER HAS PICKED UP AMMO <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  玩家拿起弹药神器 我们有无限子弹啦"
+		"trans"		"玩家拿起弹药神器 我们有无限子弹啦"
 	}
 	">>> PLAYER HAS PICKED UP LIGHTNING <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  玩家拿起电神器 不要去传送点开哦"
+		"trans"		"玩家拿起电神器 不要去传送点开哦"
 	}
 	">>> TROLL IS COMING <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  巨魔会来了"
+		"trans"		"巨魔会来了"
 	}
 	">>> TROLL IS DEAD <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  巨魔好像是死了"
+		"trans"		"巨魔好像是死了"
 	}
 	">>> IT'S DRAGON <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  不好是龙 小心点"
+		"trans"		"不好是龙 小心点"
 	}
 	">>> DRAGON IS HURT <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  龙受伤了 希望不要在碰到了"
+		"trans"		"龙受伤了 希望不要在碰到了"
 	}
 	">>> STAGE 3 <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  第3关"
+		"trans"		"第3关"
 	}
 	">>> PLAYER HAS PICKED UP HEDGE <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  玩家拿起了墙神器 不会把自己盖进去吧"
+		"trans"		"玩家拿起了墙神器 不会把自己盖进去吧"
 	}
 	">>> HOLD 30 SECONDS <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  守30秒"
+		"trans"		"守30秒"
 	}
 	">>> PLAYER HAS PICKED UP KILLER <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家拿到了传说中的神器 不过好像就可以开一次啊"
+		"trans"		"有玩家拿到了传说中的神器 不过好像就可以开一次啊"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE FIRE <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  有僵尸拿到了僵尸的火了 情况不好啊"
+		"trans"		"有僵尸拿到了僵尸的火了 情况不好啊"
 	}
 	">>> DRAGON IS COMING <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  这龙又来了 好头痛啊"
+		"trans"		"这龙又来了 好头痛啊"
 	}
 	">>> DRAGON USED WATER. GO FOWARD <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  龙用了水还傻傻的不动 向前走啊"
+		"trans"		"龙用了水还傻傻的不动 向前走啊"
 	}
 	">>> DRAGON USED GRAVITY <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  小心啊龙想把我们吸过去吃了 快跑啊"
+		"trans"		"小心啊龙想把我们吸过去吃了 快跑啊"
 	}
 	">>> DRAGON USED FIRE. GO SIDE <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  龙用火 好烫啊"
+		"trans"		"龙用火 好烫啊"
 	}
 	">>> DRAGON USED POISON <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  这个龙居然还会喷毒orz"
+		"trans"		"这个龙居然还会喷毒orz"
 	}
 	">>> GATE OPENING IN 5 SECONDS <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  5秒后门开启 准备跑路了"
+		"trans"		"5秒后门开启 准备跑路了"
 	}
 	">>> HOLD 35 SECONDS <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  给我35秒了我去把门撬开"
+		"trans"		"给我35秒了我去把门撬开"
 	}
 	">>> 5 SECONDS REMAINING. DON'T DELAY <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  剩余5秒。不要延迟"
+		"trans"		"剩余5秒。不要延迟"
 	}
 	">>> RUN <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  跑"
+		"trans"		"跑"
 	}
 	">>> GARGANTUA IS COMING. KEEP RUNNING <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  我的天啊怎么还有这么大的大块头 不要回头继续跑"
+		"trans"		"我的天啊怎么还有这么大的大块头 不要回头继续跑"
 	}
 	">>> DRAGON IS COMING AGAIN <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  龙又回来了这次一定屠龙"
+		"trans"		"龙又回来了这次一定屠龙"
 	}
 	">>> DRAGON IS HURT. GET TO THE TELEPORTER <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  狡猾的龙又跑了 先到传送器去"
+		"trans"		"狡猾的龙又跑了 先到传送器去"
 	}
 	">>> TELEPORTER ACTIVATE IN 10 SECONDS <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  在守10秒我可不希望我们和僵尸一起回去"
+		"trans"		"在守10秒我可不希望我们和僵尸一起回去"
 	}
 	">>> STAGE 4 <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  第4关"
+		"trans"		"第4关"
 	}
 	">>> GARGANTUA IS COMING <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  这个不就是刚才碰到的巨人吗怎么在这里"
+		"trans"		"这个不就是刚才碰到的巨人吗怎么在这里"
 	}
 	">>> GARGANTUA USED PUSH <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  巨人使用推"
+		"trans"		"巨人使用推"
 	}
 	">>> GARGANTUA USED KILLER. GO SIDE <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  巨人好像生气了快去边上"
+		"trans"		"巨人好像生气了快去边上"
 	}
 	">>> GARGANTUA USED POISON <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  巨人好像用了毒"
+		"trans"		"巨人好像用了毒"
 	}
 	">>> GARGANTUA USED ICE <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  巨人使用冰 好冷啊"
+		"trans"		"巨人使用冰 好冷啊"
 	}
 	">>> GARGANTUA USED FIRE <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  巨人使用了火 希望不要跟这我喷"
+		"trans"		"巨人使用了火 希望不要跟这我喷"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  玩家已经捡起了僵尸治疗"
+		"trans"		"玩家已经捡起了僵尸治疗"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE INVISIBLE <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  玩家已经捡起了让你看不见的魔法"
+		"trans"		"玩家已经捡起了让你看不见的魔法"
 	}
 	"**Jetstream Sam has been defeated!**"
 	{
-		"trans"		"[{darkred}Map{default}]  你们成功了"
+		"trans"		"你们成功了"
 	}
 	">>> GARGANTUA IS DEAD <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  巨人死了 我们快离开这里吧"
+		"trans"		"巨人死了 我们快离开这里吧"
 	}
 	">>> GATE OPENING IN 10 SECONDS <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  10秒后竞技场门打开"
+		"trans"		"10秒后竞技场门打开"
 	}
 	">>> HOLD 40 SECONDS <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  这个门有点麻烦啊需要40秒"
+		"trans"		"这个门有点麻烦啊需要40秒"
 	}
 	">>> HOLD 15 SECONDS<<<"
 	{
-		"trans"		"[{darkred}Map{default}]  还有15秒"
+		"trans"		"还有15秒"
 	}
 	">>> BRIDGE IS BROKEN <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  桥断了"
+		"trans"		"桥断了"
 	}
 	">>> IT'S BALROG <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  他是谁啊"
+		"trans"		"他是谁啊"
 	}
 	">>> BALROG IS ESCAPED <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  怎么跑了我要去问他的名字"
+		"trans"		"怎么跑了我要去问他的名字"
 	}
 	">>> STAGE 5 <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  第5关"
+		"trans"		"第5关"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  玩家捡到了僵尸的重力 我可不想进僵尸的怀抱"
+		"trans"		"玩家捡到了僵尸的重力 我可不想进僵尸的怀抱"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE POISON <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  玩家捡到了僵尸毒"
+		"trans"		"玩家捡到了僵尸毒"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE DRAG <<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>> PLAYER HAS PICKED UP ZOMBIE DRAG <<<"
+		"trans"		">>> PLAYER HAS PICKED UP ZOMBIE DRAG <<<"
 	}
 	">>> BREAK STATUE TO GET ITEM <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  雕像后我在告诉你们一个好消息一个坏消息"
+		"trans"		"雕像后我在告诉你们一个好消息一个坏消息"
 	}
 	">>> PLAYER HAS PICKED UP GRAVITY <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  好消息是玩家已经捡起了重力"
+		"trans"		"好消息是玩家已经捡起了重力"
 	}
 	">>> NOOB TRASHED <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  嘘 不要说话了用心来体验"
+		"trans"		"嘘 不要说话了用心来体验"
 	}
 	">>> BALROG IS COMING <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  炎魔来了"
+		"trans"		"炎魔来了"
 	}
 	">>> BALROG USED POISON <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  炎魔使用毒 这家伙好厉害啊"
+		"trans"		"炎魔使用毒 这家伙好厉害啊"
 	}
 	">>> BALROG HEALED 150HP <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  炎魔愈合150血 好怕死啊"
+		"trans"		"炎魔愈合150血 好怕死啊"
 	}
 	">>> BALROG USED KILLER. GO BACK <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  炎魔在蓄力开大我们去边上"
+		"trans"		"炎魔在蓄力开大我们去边上"
 	}
 	">>> BALROG USED GRAVITY <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  炎魔使用吸 没有时间聊了先保名"
+		"trans"		"炎魔使用吸 没有时间聊了先保名"
 	}
 	">>> BALROG USED SHIELD. DON'T USE ITEMS <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  炎魔使用盾牌。不要使用神器了"
+		"trans"		"炎魔使用盾牌。不要使用神器了"
 	}
 	">>> BALROG USE LASER. CROUCH TO AVOID IT <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  不要问了快蹲下"
+		"trans"		"不要问了快蹲下"
 	}
 	">>> BALROG USED PUSH <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  炎魔使用推 掉下去可就回不来了"
+		"trans"		"炎魔使用推 掉下去可就回不来了"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE KILLER <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  坏消息僵尸拿了秒杀"
+		"trans"		"坏消息僵尸拿了秒杀"
 	}
 	">>> BALROG USED FIRE <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  炎魔开火了去没有火的一半"
+		"trans"		"炎魔开火了去没有火的一半"
 	}
 }

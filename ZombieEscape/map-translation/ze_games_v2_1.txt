@@ -2,334 +2,334 @@
 {
 	"-=[ Welcome to Zombie Games ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 欢迎来到僵尸小游戏   地图翻译：小四"
+		"trans"		"欢迎来到僵尸小游戏   地图翻译：小四"
 	}
 	"-=[ Round starting in 10 seconds ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 回合开始于10秒后 "
+		"trans"		"回合开始于10秒后 "
 	}
 	"-=[ Starting game: Obstacle Race ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 游戏开始：障碍赛"
+		"trans"		"游戏开始：障碍赛"
 	}
 	"-=[ You have 1 minute to reach the end ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 你们有1分钟时间到达终点"
+		"trans"		"你们有1分钟时间到达终点"
 	}
 	"-=[ You have 40 seconds ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 还有40秒"
+		"trans"		"还有40秒"
 	}
 	"-=[ You have 20 more seconds ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 还有20秒"
+		"trans"		"还有20秒"
 	}
 	"-=[ Hurry, 10 seconds left ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 还有10秒，快"
+		"trans"		"还有10秒，快"
 	}
 	"-=[ 5 ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 5"
+		"trans"		"5"
 	}
 	"-=[ 4 ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 4"
+		"trans"		"4"
 	}
 	"-=[ 3 ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 3"
+		"trans"		"3"
 	}
 	"-=[ 2 ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 2"
+		"trans"		"2"
 	}
 	"-=[ 1 ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 1"
+		"trans"		"1"
 	}
 	"-=[ Select your first game ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 选择你们的第一个游戏"
+		"trans"		"选择你们的第一个游戏"
 	}
 	"-=[ Autopick in 1 minute ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 自动选择于1分钟后"
+		"trans"		"自动选择于1分钟后"
 	}
 	"-=[ Starting game: Frogger ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 游戏开始：青蛙过河"
+		"trans"		"游戏开始：青蛙过河"
 	}
 	"-=[ Collect the gems in 45 seconds ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 45秒内收集所有卡片"
+		"trans"		"45秒内收集所有卡片"
 	}
 	"-=[ Zombies are free ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 僵尸楼梯开放"
+		"trans"		"僵尸楼梯开放"
 	}
 	"-=[ Hard Mode :: CT"
 	{
 		"T == 1 ]=-"
 		{
-			"trans"		"[{darkred}Map{default}] 难度 :: CT/T == 1"
+			"trans"		"难度 :: CT/T == 1"
 		}
 		"T > 1 < 2 ]=-"
 		{
-			"trans"		"[{darkred}Map{default}] 难度 :: CT/T > 1 < 2"
+			"trans"		"难度 :: CT/T > 1 < 2"
 		}
 	}
 	"-=[ Starting game: Slingshot ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 游戏开始：打靶"
+		"trans"		"游戏开始：打靶"
 	}
 	"-=[ Hard Mode ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 困难模式"
+		"trans"		"困难模式"
 	}
 	"-=[ Survive 60 Seconds... ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 生存60秒..."
+		"trans"		"生存60秒..."
 	}
 	"-=[ It's time for the final minigame ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 是时候选择你们最后一个小游戏了"
+		"trans"		"是时候选择你们最后一个小游戏了"
 	}
 	"-=[ Starting game: Obstacle ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 开始游戏：障碍赛"
+		"trans"		"开始游戏：障碍赛"
 	}
 	"-=[ Normal Mode ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 普通模式"
+		"trans"		"普通模式"
 	}
 	"-=[ Survive 90 Seconds... ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 生存90秒..."
+		"trans"		"生存90秒..."
 	}
 	"-=[ Here come the zombies ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 僵尸来了"
+		"trans"		"僵尸来了"
 	}
 	"-=[ You have 60 seconds ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 你们有60秒到终点"
+		"trans"		"你们有60秒到终点"
 	}
 	"-=[ Zombie spawn has advanced ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 僵尸传送点已刷新"
+		"trans"		"僵尸传送点已刷新"
 	}
 	"-=[ Humans Win ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 人类胜利"
+		"trans"		"人类胜利"
 	}
 	"-=[ Killing zombies in 5 ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 5秒后杀死所有僵尸"
+		"trans"		"5秒后杀死所有僵尸"
 	}
 	"-=[ Starting game: Drop ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 游戏开始：坠落"
+		"trans"		"游戏开始：坠落"
 	}
 	"-=[ Activating in 5 ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 5秒后激活"
+		"trans"		"5秒后激活"
 	}
 	"-=[ Starting game: Deathrun ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 游戏开始：死亡奔跑（僵尸没人权）"
+		"trans"		"游戏开始：死亡奔跑（僵尸没人权）"
 	}
 	"-=[ Hold for 90 seconds ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 守住90秒"
+		"trans"		"守住90秒"
 	}
 	"-=[ 1 more minute ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 还有1分钟"
+		"trans"		"还有1分钟"
 	}
 	"-=[ Zombie spawn advanced ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 僵尸传送点已刷新"
+		"trans"		"僵尸传送点已刷新"
 	}
 	"-=[ 30 more seconds... ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 还有30秒..."
+		"trans"		"还有30秒..."
 	}
 	"-=[ Finishing in 5... ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 结束于5秒..."
+		"trans"		"结束于5秒..."
 	}
 	"-=[ Starting Game: Castle Defence ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 游戏开始：城堡守卫战"
+		"trans"		"游戏开始：城堡守卫战"
 	}
 	"-=[ Enter the Castle ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 进入城堡"
+		"trans"		"进入城堡"
 	}
 	"-=[ Doors closing in 5 seconds ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 5秒后关门"
+		"trans"		"5秒后关门"
 	}
 	"-=[ Hold for 30 seconds ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 守住30秒"
+		"trans"		"守住30秒"
 	}
 	"-=[ Shoot the ladders down ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 把梯子射下去（无视梯子上的僵尸）"
+		"trans"		"把梯子射下去（无视梯子上的僵尸）"
 	}
 	"-=[ The catapult is coming!!! ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 僵尸投石车来啦!!!"
+		"trans"		"僵尸投石车来啦!!!"
 	}
 	"-=[ All Gems have been collected ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 所有卡片收集完毕"
+		"trans"		"所有卡片收集完毕"
 	}
 	"-=[ Make your way to the highway ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 跑向高速公路"
+		"trans"		"跑向高速公路"
 	}
 	"-=[ Middle Exit opening in 30 seconds ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 30秒后中间的安全出口打开"
+		"trans"		"30秒后中间的安全出口打开"
 	}
 	"-=[ Doors opening in 5 ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 5秒后开门"
+		"trans"		"5秒后开门"
 	}
 	"-=[ Finishing in 5 ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 5秒后完成 "
+		"trans"		"5秒后完成 "
 	}
 	"-=[ Starting game: Low Gravity ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 开始游戏：低重力"
+		"trans"		"开始游戏：低重力"
 	}
 	"-=[ Survive 60 seconds ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 生存60秒"
+		"trans"		"生存60秒"
 	}
 	"-=[ Here come the zombies!!! ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 僵尸来了!!!"
+		"trans"		"僵尸来了!!!"
 	}
 	"-=[ Castle gates open in 30 seconds ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 30秒后城堡大门开启"
+		"trans"		"30秒后城堡大门开启"
 	}
 	"-=[ Fallback ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 撤退"
+		"trans"		"撤退"
 	}
 	"-=[ Castle gates open in 15 seconds ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 15秒后城堡大门开启"
+		"trans"		"15秒后城堡大门开启"
 	}
 	"-=[ Castle gates are opening ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 城堡大门开启"
+		"trans"		"城堡大门开启"
 	}
 	"-=[ Finishing in 30 seconds ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 30秒后结束"
+		"trans"		"30秒后结束"
 	}
 	"-=[ Starting game: Murder in the dark ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 开始游戏：躲猫猫"
+		"trans"		"开始游戏：躲猫猫"
 	}
 	"-=[ Zombies are blind!!!! ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 僵尸失明了!"
+		"trans"		"僵尸失明了!"
 	}
 	"-=[ Starting game: The Trap ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 开始游戏：陷阱"
+		"trans"		"开始游戏：陷阱"
 	}
 	"-=[ You have 30 seconds ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 你们有30秒钟"
+		"trans"		"你们有30秒钟"
 	}
 	"-=[ Extreme Mode :: CT"
 	{
 		"T < 1 ]=-"
 		{
-			"trans"		"[{darkred}Map{default}] 极限难度 :: CT/T < 1 "
+			"trans"		"极限难度 :: CT/T < 1 "
 		}
 	}
 	"-=[ Extreme Mode ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 极限模式 "
+		"trans"		"极限模式 "
 	}
 	"-=[ Normal Mode :: CT"
 	{
 		"T > 2 < 4 ]=-"
 		{
-			"trans"		"[{darkred}Map{default}] 普通难度 :: CT/T > 2 < 4"
+			"trans"		"普通难度 :: CT/T > 2 < 4"
 		}
 		"T == 2 ]=-"
 		{
-			"trans"		"[{darkred}Map{default}] 普通模式 :: CT/T == 2"
+			"trans"		"普通模式 :: CT/T == 2"
 		}
 	}
 	"-=[ Easy Mode :: CT"
 	{
 		"T == 4 ]=-"
 		{
-			"trans"		"[{darkred}Map{default}] 简单难度 :: CT/T == 4"
+			"trans"		"简单难度 :: CT/T == 4"
 		}
 		"T > 4 ]=-"
 		{
-			"trans"		"[{darkred}Map{default}] 简单模式 :: CT/T > 4"
+			"trans"		"简单模式 :: CT/T > 4"
 		}
 	}
 	"-=[ The main gates have been penetrated ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 主城门被破坏！"
+		"trans"		"主城门被破坏！"
 	}
 	"-=[ Lavapit activating in 5 seconds ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 岩浆坑5秒后开启"
+		"trans"		"岩浆坑5秒后开启"
 	}
 	"-=[ Fallback up the ladders ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 向楼上撤退"
+		"trans"		"向楼上撤退"
 	}
 	"-=[ Starting game: Conveyor ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 游戏开始：传送带"
+		"trans"		"游戏开始：传送带"
 	}
 	"-=[Normal Mode ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 普通难度"
+		"trans"		"普通难度"
 	}
 	"-=[ Activating Trap ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 陷阱启动中"
+		"trans"		"陷阱启动中"
 	}
 	"-=[ Easy Mode ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 简单模式"
+		"trans"		"简单模式"
 	}
 	"-=[ Survive until next ratio mode ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 生存到下一个比赛模式"
+		"trans"		"生存到下一个比赛模式"
 	}
 	"-=[ Finishing Game :: < 2 ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 最终游戏 :: < 2"
+		"trans"		"最终游戏 :: < 2"
 	}
 	"-=[ Zombies Activated Trap ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 僵尸激活陷阱"
+		"trans"		"僵尸激活陷阱"
 	}
 	"-=[ Hold 15 seconds ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 守住15秒 "
+		"trans"		"守住15秒 "
 	}
 	"-=[ Finishing Game :: == 2 ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] -=[ Finishing Game :: == 2 ]=-"
+		"trans"		"-=[ Finishing Game :: == 2 ]=-"
 	}
 }

@@ -2,50 +2,50 @@
 {
 	"***Map remake by [ＥSＣAＰＥ] Loving You (수정자 : 러빙유)***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Map remake by [ＥSＣAＰＥ] Loving You (수정자 : 러빙유)***"
+		"trans"		"***Map remake by [ＥSＣAＰＥ] Loving You (수정자 : 러빙유)***"
 	}
 	"*** NUCLEAR CORE UNSTABLE ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** NUCLEAR CORE UNSTABLE ***"
+		"trans"		"*** NUCLEAR CORE UNSTABLE ***"
 	}
 	"*** MAP BY JB_GAMBLE ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** MAP BY JB_GAMBLE ***"
+		"trans"		"*** MAP BY JB_GAMBLE ***"
 	}
 	"*** HOLD HERE! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** HOLD HERE! ***"
+		"trans"		"*** HOLD HERE! ***"
 	}
 	"*** 5 SECONDS ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** 5 SECONDS ***"
+		"trans"		"*** 5 SECONDS ***"
 	}
 	"*** FALL BACK ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** FALL BACK ***"
+		"trans"		"*** FALL BACK ***"
 	}
 	"*** WATER CART LEAVING IN 5 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] *** WATER CART LEAVING IN 5 SECONDS***"
+		"trans"		"*** WATER CART LEAVING IN 5 SECONDS***"
 	}
 	"***** HOLD THIS POSITION *****"
 	{
-		"trans"		"[{darkred}Map{default}] ***** HOLD THIS POSITION *****"
+		"trans"		"***** HOLD THIS POSITION *****"
 	}
 	"*** ELEVATOR 1 & 2 OPENING ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** ELEVATOR 1 & 2 OPENING ***"
+		"trans"		"*** ELEVATOR 1 & 2 OPENING ***"
 	}
 	"*** USE RADIO ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** USE RADIO ***"
+		"trans"		"*** USE RADIO ***"
 	}
 	"*** SELF DESTRUCT ACTIVATED - 60 SECONDS ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** SELF DESTRUCT ACTIVATED - 60 SECONDS ***"
+		"trans"		"*** SELF DESTRUCT ACTIVATED - 60 SECONDS ***"
 	}
 	"*** MAP CRASH FIXED BY 5UNZ ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** MAP CRASH FIXED BY 5UNZ ***"
+		"trans"		"*** MAP CRASH FIXED BY 5UNZ ***"
 	}
 }

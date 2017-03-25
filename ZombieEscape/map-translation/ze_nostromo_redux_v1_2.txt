@@ -2,27 +2,27 @@
 {
 	">>>ze_nostromo_v1_0b. Map by AngryAngus3<<<"
 	{
-		"trans"		"[{darkred}Map{default}]  本地图灵感来自于电影《异形》"
+		"trans"		"本地图灵感来自于电影《异形》"
 	}
 	">>>Alert, hypersleep interrupted! MU-TH-ER has detected non human life forms on the ship!<<<"
 	{
-		"trans"		"[{darkred}Map{default}]  警报,深度睡眠已被中断! 计算机终端侦测到非人类生物活动踪迹!"
+		"trans"		"警报,深度睡眠已被中断! 计算机终端侦测到非人类生物活动踪迹!"
 	}
 	">>>You must navigate the ship and find Captian Dallas' keycard!<<<"
 	{
-		"trans"		"[{darkred}Map{default}]  目标1:找到舰长室"
+		"trans"		"目标1:找到舰长室"
 	}
 	">>>With it you can access MU-TH-ER's mainframe and gain access to engineering! <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  目标2:找到维修区"
+		"trans"		"目标2:找到维修区"
 	}
 	">>>Activate the self destruct mechanism and get the hell off this ship, don't let the alien escape!<<<"
 	{
-		"trans"		"[{darkred}Map{default}]  目标3:启动自毁装置,不让任何僵尸离开这里"
+		"trans"		"目标3:启动自毁装置,不让任何僵尸离开这里"
 	}
 	">>>Good Luck!<<<"
 	{
-		"trans"		"[{darkred}Map{default}]  看不见路的玩家请按下F键启用手电或在聊天栏内输入!nvg启动夜视仪.."
+		"trans"		"看不见路的玩家请按下F键启用手电或在聊天栏内输入!nvg启动夜视仪.."
 	}
 	">>>MU-TH-ER reports the Aliens are using the ship's vents to move around! Be careful!<<<"
 	{
@@ -30,23 +30,23 @@
 	}
 	">>>Infirmary vent override in 15 seconds!<<<"
 	{
-		"trans"		"[{darkred}Map{default}]  管道15秒后开放"
+		"trans"		"管道15秒后开放"
 	}
 	">>>Vent opening in 5 seconds<<<"
 	{
-		"trans"		"[{darkred}Map{default}]  管道5秒后开放"
+		"trans"		"管道5秒后开放"
 	}
 	"Hold off for 15 seconds and wait for the ladder access override!"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守15秒等待梯子开放"
+		"trans"		"坚守15秒等待梯子开放"
 	}
 	">>> 5 seconds left! <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  梯子开放于5秒后"
+		"trans"		"梯子开放于5秒后"
 	}
 	"Make a run to B deck! I hope you packed a flashlight today!"
 	{
-		"trans"		"[{darkred}Map{default}]  往两边的控制室走!"
+		"trans"		"往两边的控制室走!"
 	}
 	"MU-TH-ER is detecting movement in the ventilation shafts!"
 	{
@@ -54,54 +54,54 @@
 	}
 	"Override the door controls to gain access to the Garage area!"
 	{
-		"trans"		"[{darkred}Map{default}]  正在建立控制权"
+		"trans"		"正在建立控制权"
 	}
 	"Door override initiated, please wait 15 seconds"
 	{
 		"countdown"		"15"
-		"trans"		"[{darkred}Map{default}]  坚守15秒"
+		"trans"		"坚守15秒"
 	}
 	">>>Elevator Powering up in 5 seconds!<<<"
 	{
-		"trans"		"[{darkred}Map{default}]  电梯5秒后离开 [不要断后,断后的跟不上]"
+		"trans"		"电梯5秒后离开 [不要断后,断后的跟不上]"
 	}
 	">>>Hold off for 30 seconds and wait for the vent doors to open!<<<"
 	{
 		"countdown"		"30"
-		"trans"		"[{darkred}Map{default}]  坚守30秒直到管道开放!"
+		"trans"		"坚守30秒直到管道开放!"
 	}
 	">>>5 seconds left!<<<"
 	{
-		"trans"		"[{darkred}Map{default}] 5秒剩余"
+		"trans"		"5秒剩余"
 	}
 	">>>GO GO GO!<<<"
 	{
-		"trans"		"[{darkred}Map{default}]  撤撤撤!"
+		"trans"		"撤撤撤!"
 	}
 	">>>Hold off for 15 seconds!<<<"
 	{
 		"countdown"		"15"
-		"trans"		"[{darkred}Map{default}]  坚守15秒"
+		"trans"		"坚守15秒"
 	}
 	"'***Flamethrower is charging in 3 seconds!***'"
 	{
-		"trans"		"[{darkred}Map{default}]  喷火器3秒后开始充能"
+		"trans"		"喷火器3秒后开始充能"
 	}
 	"'***Flamethrower recharging, 10 seconds!***'"
 	{
-		"trans"		"[{darkred}Map{default}]  喷火器10秒后就绪"
+		"trans"		"喷火器10秒后就绪"
 	}
 	"'***Flamethrower ready!***'"
 	{
-		"trans"		"[{darkred}Map{default}]  喷火器已就绪"
+		"trans"		"喷火器已就绪"
 	}
 	">>>Access MU-TH-UR by using the keyboard!<<<"
 	{
-		"trans"		"[{darkred}Map{default}]  按下键盘启动程序"
+		"trans"		"按下键盘启动程序"
 	}
 	">>>Access Granted<<<"
 	{
-		"trans"		"[{darkred}Map{default}]  正在开启前方的管道"
+		"trans"		"正在开启前方的管道"
 	}
 	">>>Interface 2037 Ready For Inquiry<<<"
 	{
@@ -125,73 +125,73 @@
 	}
 	">>>Access Granted! GO GO GO!<<<"
 	{
-		"trans"		"[{darkred}Map{default}]  管道已开启!撤退!"
+		"trans"		"管道已开启!撤退!"
 	}
 	">>>One person must initiate the self destruct sequence!<<<"
 	{
-		"trans"		"[{darkred}Map{default}]  一名玩家上去开启自毁装置,其他人守住!"
+		"trans"		"一名玩家上去开启自毁装置,其他人守住!"
 	}
 	">>>Self destruct sequence preparing, hold off for 20 seconds!"
 	{
 		"countdown"		"20"
-		"trans"		"[{darkred}Map{default}]  自毁装置20秒后启动"
+		"trans"		"自毁装置20秒后启动"
 	}
 	"Flamethrower picked up. Use to push aliens away!"
 	{
-		"trans"		"[{darkred}Map{default}]  喷火器已被拾取[推开前方僵尸]"
+		"trans"		"喷火器已被拾取[推开前方僵尸]"
 	}
 	"Airlock cycling, get out of there!"
 	{
-		"trans"		"[{darkred}Map{default}]  从房间里出来!!"
+		"trans"		"从房间里出来!!"
 	}
 	">>>DANGER! THE EMERGENCY DESTRUCT SYSTEM IS NOW ACTIVATED!<<<"
 	{
-		"trans"		"[{darkred}Map{default}]  自毁装置已启动"
+		"trans"		"自毁装置已启动"
 	}
 	">>>THE SHIP WILL DETONATE IN T-MINUS 40 SECONDS!<<<"
 	{
 		"countdown"		"20"
-		"trans"		"[{darkred}Map{default}]  20秒后逃生舱关闭,40秒后核爆!"
+		"trans"		"20秒后逃生舱关闭,40秒后核爆!"
 	}
 	">>>GO! GO! GO!<<<"
 	{
-		"trans"		"[{darkred}Map{default}]  快跑!"
+		"trans"		"快跑!"
 	}
 	">>>Shuttle departs in 10 seconds! Doors are shutting in 5 seconds!<<<"
 	{
 		"countdown"		"5"
-		"trans"		"[{darkred}Map{default}]  逃生舱门5秒后关闭!"
+		"trans"		"逃生舱门5秒后关闭!"
 	}
 	">>>Shuttle has left!<<<"
 	{
-		"trans"		"[{darkred}Map{default}]  逃生舱已离开"
+		"trans"		"逃生舱已离开"
 	}
 	">>>T-MINUS 10 SECONDS<<<"
 	{
-		"trans"		"[{darkred}Map{default}]  核爆于10秒后"
+		"trans"		"核爆于10秒后"
 	}
 	">>>5<<<"
 	{
-		"trans"		"[{darkred}Map{default}]  核爆于5秒后"
+		"trans"		"核爆于5秒后"
 	}
 	">>>4<<<"
 	{
-		"trans"		"[{darkred}Map{default}]  核爆于4秒后"
+		"trans"		"核爆于4秒后"
 	}
 	">>>3<<<"
 	{
-		"trans"		"[{darkred}Map{default}]  核爆于3秒后"
+		"trans"		"核爆于3秒后"
 	}
 	">>>2<<<"
 	{
-		"trans"		"[{darkred}Map{default}]  核爆于2秒后"
+		"trans"		"核爆于2秒后"
 	}
 	">>>1<<<"
 	{
-		"trans"		"[{darkred}Map{default}]  核爆于1秒后"
+		"trans"		"核爆于1秒后"
 	}
 	"Prod picked up. Aim at alien for shock damage!"
 	{
-		"trans"		"[{darkred}Map{default}] Prod picked up. Aim at alien for shock damage!"
+		"trans"		"Prod picked up. Aim at alien for shock damage!"
 	}
 }

@@ -2,14 +2,14 @@
 {
 	"**** MAP BY AERIS.004 ****"
 	{
-		"trans"		"[{darkred}Map{default}] **** MAP BY AERIS.004 ****"
+		"trans"		"**** MAP BY AERIS.004 ****"
 	}
 	"*MAP RESIDENT EVIL ONE - THE MANOR*"
 	{
-		"trans"		"[{darkred}Map{default}] *MAP RESIDENT EVIL ONE - THE MANOR*"
+		"trans"		"*MAP RESIDENT EVIL ONE - THE MANOR*"
 	}
 	"*immediate evacuation of the laboratory*"
 	{
-		"trans"		"[{darkred}Map{default}] *immediate evacuation of the laboratory*"
+		"trans"		"*immediate evacuation of the laboratory*"
 	}
 }

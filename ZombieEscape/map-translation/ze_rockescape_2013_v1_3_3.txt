@@ -2,135 +2,135 @@
 {
 	"-=[ Use C4 to blow your way out!!! ]=-"
 	{
-		"trans"		"[{darkred}Map{default}]  按下C4来炸开道路"
+		"trans"		"按下C4来炸开道路"
 	}
 	"-=[ C4 has been armed ]=-"
 	{
-		"trans"		"[{darkred}Map{default}]  C4已被安放 [请远离C4以免被炸死]"
+		"trans"		"C4已被安放 [请远离C4以免被炸死]"
 	}
 	"-=[ Detonation in 20 seconds ]=-"
 	{
 		"countdown" "20" 
-		"trans"		"[{darkred}Map{default}]  20秒后爆破"
+		"trans"		"20秒后爆破"
 	}
 	"-=[ Detonation in 5 seconds ]=-"
 	{
-		"trans"		"[{darkred}Map{default}]  5秒后爆破"
+		"trans"		"5秒后爆破"
 	}
 	"-=[ 4 ]=-"
 	{
-		"trans"		"[{darkred}Map{default}]  4秒后爆破"
+		"trans"		"4秒后爆破"
 	}
 	"-=[ CLEAR THE FLOOR ]=-"
 	{
-		"trans"		"[{darkred}Map{default}]  离C4远点要炸死人了!!"
+		"trans"		"离C4远点要炸死人了!!"
 	}
 	"-=[ 2 ]=-"
 	{
-		"trans"		"[{darkred}Map{default}]  2秒后爆破"
+		"trans"		"2秒后爆破"
 	}
 	"-=[ 1 ]=-"
 	{
-		"trans"		"[{darkred}Map{default}]  1秒后爆破"
+		"trans"		"1秒后爆破"
 	}
 	"-=[ Detonation in 15 seconds ]=-"
 	{
 		"countdown" "15" 
-		"trans"		"[{darkred}Map{default}]  15秒后爆破"
+		"trans"		"15秒后爆破"
 	}
 	"-=[ Final C4 has been armed ]=-"
 	{
-		"trans"		"[{darkred}Map{default}]  最后一个C4已安放"
+		"trans"		"最后一个C4已安放"
 	}
 	"-=[ Zombie spawn has advanced ]=-"
 	{
-		"trans"		"[{darkred}Map{default}]  僵尸传送点已前移"
+		"trans"		"僵尸传送点已前移"
 	}
 	"-=[ Lift starting in 45 seconds ]=-"
 	{
 		"countdown" "45" 
-		"trans"		"[{darkred}Map{default}]  电梯45秒后启动"
+		"trans"		"电梯45秒后启动"
 	}
 	"-=[ C4 Detonation in 5 seconds... ]=-"
 	{
-		"trans"		"[{darkred}Map{default}]  5秒后爆破"
+		"trans"		"5秒后爆破"
 	}
 	"-=[ Lift starting in 5 seconds ]=-"
 	{
-		"trans"		"[{darkred}Map{default}]  电梯5秒后启动"
+		"trans"		"电梯5秒后启动"
 	}
 	"-=[ 3 ]=-"
 	{
-		"trans"		"[{darkred}Map{default}]  3秒后爆破"
+		"trans"		"3秒后爆破"
 	}
 	"-=[ Detonation in 25 seconds ]=-"
 	{
-		"trans"		"[{darkred}Map{default}]  25秒后爆破"
+		"trans"		"25秒后爆破"
 	}
 	"-=[ Zombie Spawn Advanced ]=-"
 	{
-		"trans"		"[{darkred}Map{default}]  僵尸传送点已前移"
+		"trans"		"僵尸传送点已前移"
 	}
 	"-=[ Lift leaving in 20 seconds... ]=-"
 	{
-		"trans"		"[{darkred}Map{default}]  电梯20秒后启动"
+		"trans"		"电梯20秒后启动"
 	}
 	"-=[ Lift leaving in 10 seconds... ]=-"
 	{
-		"trans"		"[{darkred}Map{default}]  电梯10秒后启动"
+		"trans"		"电梯10秒后启动"
 	}
 	"-=[ Lift leaving in 5 seconds... ]=-"
 	{
-		"trans"		"[{darkred}Map{default}]  电梯5秒后启动"
+		"trans"		"电梯5秒后启动"
 	}
 	"-=[ Air island leaving in 10 seconds ]=-"
 	{
-		"trans"		"[{darkred}Map{default}]  小岛5秒后起飞"
+		"trans"		"小岛5秒后起飞"
 	}
 	"-=[ Boats ready in 90 seconds... ]=-"
 	{
-		"trans"		"[{darkred}Map{default}]  船90秒后启动"
+		"trans"		"船90秒后启动"
 	}
 	"-=[ Heli inbound... ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] -=[ Heli inbound... ]=-"
+		"trans"		"-=[ Heli inbound... ]=-"
 	}
 	"-=[ Boats ready in 60 seconds... ]=-"
 	{
-		"trans"		"[{darkred}Map{default}]  船60秒后就绪"
+		"trans"		"船60秒后就绪"
 	}
 	"-=[ Command exit opening in 60 seconds ]=-"
 	{
 		"countdown" "60" 
-		"trans"		"[{darkred}Map{default}]  堡垒出口60秒后打开"
+		"trans"		"堡垒出口60秒后打开"
 	}
 	"-=[ Boats ready in 30 seconds... ]=-"
 	{
-		"trans"		"[{darkred}Map{default}]  船30秒后就绪"
+		"trans"		"船30秒后就绪"
 	}
 	"-=[ Command exit has opened ]=-"
 	{
-		"trans"		"[{darkred}Map{default}]  堡垒出口已打开"
+		"trans"		"堡垒出口已打开"
 	}
 	"-=[ Boats ready in 10 seconds... ]=-"
 	{
-		"trans"		"[{darkred}Map{default}]  船10秒后就绪"
+		"trans"		"船10秒后就绪"
 	}
 	"-=[ Boats ready in 5 seconds... ]=-"
 	{
-		"trans"		"[{darkred}Map{default}] 船5秒后就绪"
+		"trans"		"船5秒后就绪"
 	}
 	"-=[ Boats are ready!!! ]=-"
 	{
-		"trans"		"[{darkred}Map{default}]  船已就绪"
+		"trans"		"船已就绪"
 	}
 	"-=[ Nuke detonation in 10 seconds ]=-"
 	{
 		"countdown" "10" 
-		"trans"		"[{darkred}Map{default}]  核爆10秒后启动"
+		"trans"		"核爆10秒后启动"
 	}
 	"-=[ Nuke detonation in 5 seconds ]=-"
 	{
-		"trans"		"[{darkred}Map{default}]  核爆5秒后启动"
+		"trans"		"核爆5秒后启动"
 	}
 }

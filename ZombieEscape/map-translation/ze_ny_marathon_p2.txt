@@ -2,302 +2,302 @@
 {
 	"*** NY MARATHON: GET READY TO RUN! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** NY MARATHON: GET READY TO RUN! ***"
+		"trans"		"*** NY MARATHON: GET READY TO RUN! ***"
 	}
 	"*** MODE: RABBIT RIBBIT ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** MODE: RABBIT RIBBIT ***"
+		"trans"		"*** MODE: RABBIT RIBBIT ***"
 	}
 	"* [[ NYCRockRadio FM 81.2 :: The Gun - Race With The Devil ]] *"
 	{
-		"trans"		"[{darkred}Map{default}] * [[ NYCRockRadio FM 81.2 :: The Gun - Race With The Devil ]] *"
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: The Gun - Race With The Devil ]] *"
 	}
 	"*** Stage 4: Cuckoo ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Stage 4: Cuckoo ***"
+		"trans"		"*** Stage 4: Cuckoo ***"
 	}
 	"* [[ NYCRockRadio FM 81.2 :: M.O.D. - Surfin' USA ]] *"
 	{
-		"trans"		"[{darkred}Map{default}] * [[ NYCRockRadio FM 81.2 :: M.O.D. - Surfin' USA ]] *"
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: M.O.D. - Surfin' USA ]] *"
 	}
 	"* [[ NYCRockRadio FM 81.2 :: Leaf Hound - Growers Of Mushroom ]] *"
 	{
-		"trans"		"[{darkred}Map{default}] * [[ NYCRockRadio FM 81.2 :: Leaf Hound - Growers Of Mushroom ]] *"
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: Leaf Hound - Growers Of Mushroom ]] *"
 	}
 	"*** LEVEL: ULTIMATE ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** LEVEL: ULTIMATE ***"
+		"trans"		"*** LEVEL: ULTIMATE ***"
 	}
 	"* [[ NYCRockRadio FM 81.2 :: Deep Purple - Highway Star ]] *"
 	{
-		"trans"		"[{darkred}Map{default}] * [[ NYCRockRadio FM 81.2 :: Deep Purple - Highway Star ]] *"
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: Deep Purple - Highway Star ]] *"
 	}
 	"** Oh noes! The tunnel is locked! We'll have to hold a bit (30s) **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Oh noes! The tunnel is locked! We'll have to hold a bit (30s) **"
+		"trans"		"** Oh noes! The tunnel is locked! We'll have to hold a bit (30s) **"
 	}
 	"** 15 seconds left! Keep defending! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** 15 seconds left! Keep defending! **"
+		"trans"		"** 15 seconds left! Keep defending! **"
 	}
 	"** 5 seconds left! Resist! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** 5 seconds left! Resist! **"
+		"trans"		"** 5 seconds left! Resist! **"
 	}
 	"** HOLD! The doors will open in 15 seconds!!! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** HOLD! The doors will open in 15 seconds!!! **"
+		"trans"		"** HOLD! The doors will open in 15 seconds!!! **"
 	}
 	"** RESIST! 5 seconds left!!! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** RESIST! 5 seconds left!!! **"
+		"trans"		"** RESIST! 5 seconds left!!! **"
 	}
 	"** CHECKPOINT REACHED: STAY ON THE WHITE CIRCLES TO KEEP GOING. **"
 	{
-		"trans"		"[{darkred}Map{default}] ** CHECKPOINT REACHED: STAY ON THE WHITE CIRCLES TO KEEP GOING. **"
+		"trans"		"** CHECKPOINT REACHED: STAY ON THE WHITE CIRCLES TO KEEP GOING. **"
 	}
 	"** THE CHECKPOINT HAS BEEN ENABLED! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** THE CHECKPOINT HAS BEEN ENABLED! **"
+		"trans"		"** THE CHECKPOINT HAS BEEN ENABLED! **"
 	}
 	"** AFK AND SLOW WOBBLES WILL BE TELEPORTED TO IT IN 20 SECONDS. **"
 	{
-		"trans"		"[{darkred}Map{default}] ** AFK AND SLOW WOBBLES WILL BE TELEPORTED TO IT IN 20 SECONDS. **"
+		"trans"		"** AFK AND SLOW WOBBLES WILL BE TELEPORTED TO IT IN 20 SECONDS. **"
 	}
 	"** Engine area door is opening in 30 seconds. **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Engine area door is opening in 30 seconds. **"
+		"trans"		"** Engine area door is opening in 30 seconds. **"
 	}
 	"** Engine area door is opening in 15 seconds. **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Engine area door is opening in 15 seconds. **"
+		"trans"		"** Engine area door is opening in 15 seconds. **"
 	}
 	"** Engine area door is opening in 5 seconds. RESIST!!! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Engine area door is opening in 5 seconds. RESIST!!! **"
+		"trans"		"** Engine area door is opening in 5 seconds. RESIST!!! **"
 	}
 	"* [[ NYCRockRadio FM 81.2 :: Flower Travellin' Band - Satori PT1 ]] *"
 	{
-		"trans"		"[{darkred}Map{default}] * [[ NYCRockRadio FM 81.2 :: Flower Travellin' Band - Satori PT1 ]] *"
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: Flower Travellin' Band - Satori PT1 ]] *"
 	}
 	"** We must resist here until the door unlocks! (25s) **"
 	{
-		"trans"		"[{darkred}Map{default}] ** We must resist here until the door unlocks! (25s) **"
+		"trans"		"** We must resist here until the door unlocks! (25s) **"
 	}
 	"** Valve room door is opening in 15 seconds. **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Valve room door is opening in 15 seconds. **"
+		"trans"		"** Valve room door is opening in 15 seconds. **"
 	}
 	"** Resist! 10 seconds left! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Resist! 10 seconds left! **"
+		"trans"		"** Resist! 10 seconds left! **"
 	}
 	"** Valve room door is opening in 5 seconds. RESIST!!! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Valve room door is opening in 5 seconds. RESIST!!! **"
+		"trans"		"** Valve room door is opening in 5 seconds. RESIST!!! **"
 	}
 	"*** Current stage: Mines of Moria ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Current stage: Mines of Moria ***"
+		"trans"		"*** Current stage: Mines of Moria ***"
 	}
 	"* [[ NYCRockRadio FM 81.2 :: Warpig - Rock Star ]] *"
 	{
-		"trans"		"[{darkred}Map{default}] * [[ NYCRockRadio FM 81.2 :: Warpig - Rock Star ]] *"
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: Warpig - Rock Star ]] *"
 	}
 	"** We need to resist! The park's door will open in 20 seconds! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** We need to resist! The park's door will open in 20 seconds! **"
+		"trans"		"** We need to resist! The park's door will open in 20 seconds! **"
 	}
 	"** RESIST! Last 5 seconds! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** RESIST! Last 5 seconds! **"
+		"trans"		"** RESIST! Last 5 seconds! **"
 	}
 	"** Hold the broken wall! The door will open in 25 seconds! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Hold the broken wall! The door will open in 25 seconds! **"
+		"trans"		"** Hold the broken wall! The door will open in 25 seconds! **"
 	}
 	"** Resist! 10 more seconds! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Resist! 10 more seconds! **"
+		"trans"		"** Resist! 10 more seconds! **"
 	}
 	"* [[ NYCRockRadio FM 81.2 :: Arthur Brown - I've Got Money ]] *"
 	{
-		"trans"		"[{darkred}Map{default}] * [[ NYCRockRadio FM 81.2 :: Arthur Brown - I've Got Money ]] *"
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: Arthur Brown - I've Got Money ]] *"
 	}
 	"** Spam E on the valves! We need to let the toxic waste out!!! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Spam E on the valves! We need to let the toxic waste out!!! **"
+		"trans"		"** Spam E on the valves! We need to let the toxic waste out!!! **"
 	}
 	"** This will wipe out those darn filthy zombies! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** This will wipe out those darn filthy zombies! **"
+		"trans"		"** This will wipe out those darn filthy zombies! **"
 	}
 	"*** I FUCKING HATE YOU WALT WHITMAN!!! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** I FUCKING HATE YOU WALT WHITMAN!!! ***"
+		"trans"		"*** I FUCKING HATE YOU WALT WHITMAN!!! ***"
 	}
 	"* [[ NYCRockRadio FM 81.2 :: Steppenwolf - Born To Be Wild ]] *"
 	{
-		"trans"		"[{darkred}Map{default}] * [[ NYCRockRadio FM 81.2 :: Steppenwolf - Born To Be Wild ]] *"
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: Steppenwolf - Born To Be Wild ]] *"
 	}
 	"** HOLD! The station door will open in 25 seconds! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** HOLD! The station door will open in 25 seconds! **"
+		"trans"		"** HOLD! The station door will open in 25 seconds! **"
 	}
 	"** HOLD! The station door will open in 10 seconds! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** HOLD! The station door will open in 10 seconds! **"
+		"trans"		"** HOLD! The station door will open in 10 seconds! **"
 	}
 	"** JUMP OVER THE TRAINS! WE HAVE TO GET TO THE OTHER SIDE!!! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** JUMP OVER THE TRAINS! WE HAVE TO GET TO THE OTHER SIDE!!! **"
+		"trans"		"** JUMP OVER THE TRAINS! WE HAVE TO GET TO THE OTHER SIDE!!! **"
 	}
 	"*** Current level: Onion ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Current level: Onion ***"
+		"trans"		"*** Current level: Onion ***"
 	}
 	"* [[ NYCRockRadio FM 81.2 :: The Doors - Roadhouse Blues ]] *"
 	{
-		"trans"		"[{darkred}Map{default}] * [[ NYCRockRadio FM 81.2 :: The Doors - Roadhouse Blues ]] *"
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: The Doors - Roadhouse Blues ]] *"
 	}
 	"*** Word: BIRD ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Word: BIRD ***"
+		"trans"		"*** Word: BIRD ***"
 	}
 	"*** DIFFICULTY: XTRIMER ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** DIFFICULTY: XTRIMER ***"
+		"trans"		"*** DIFFICULTY: XTRIMER ***"
 	}
 	"* [[ NYCRockRadio FM 81.2 :: Girlschool - C'mon Let's Go! ]] *"
 	{
-		"trans"		"[{darkred}Map{default}] * [[ NYCRockRadio FM 81.2 :: Girlschool - C'mon Let's Go! ]] *"
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: Girlschool - C'mon Let's Go! ]] *"
 	}
 	"* [[ NYCRockRadio FM 81.2 :: Ram Jam - Black Betty ]] *"
 	{
-		"trans"		"[{darkred}Map{default}] * [[ NYCRockRadio FM 81.2 :: Ram Jam - Black Betty ]] *"
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: Ram Jam - Black Betty ]] *"
 	}
 	"* [[ NYCRockRadio FM 81.2 :: Motorhead - Ace of Spades ]] *"
 	{
-		"trans"		"[{darkred}Map{default}] * [[ NYCRockRadio FM 81.2 :: Motorhead - Ace of Spades ]] *"
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: Motorhead - Ace of Spades ]] *"
 	}
 	"*** Turn on the chopper's engines! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Turn on the chopper's engines! ***"
+		"trans"		"*** Turn on the chopper's engines! ***"
 	}
 	"** The helicopter is leaving in 30 seconds. RESIST! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** The helicopter is leaving in 30 seconds. RESIST! **"
+		"trans"		"** The helicopter is leaving in 30 seconds. RESIST! **"
 	}
 	"** C'mon! 15 more seconds! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** C'mon! 15 more seconds! **"
+		"trans"		"** C'mon! 15 more seconds! **"
 	}
 	"** Last 5 seconds! HOLD!!! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Last 5 seconds! HOLD!!! **"
+		"trans"		"** Last 5 seconds! HOLD!!! **"
 	}
 	"***5***"
 	{
-		"trans"		"[{darkred}Map{default}] ***5***"
+		"trans"		"***5***"
 	}
 	"***4***"
 	{
-		"trans"		"[{darkred}Map{default}] ***4***"
+		"trans"		"***4***"
 	}
 	"***3***"
 	{
-		"trans"		"[{darkred}Map{default}] ***3***"
+		"trans"		"***3***"
 	}
 	"***2***"
 	{
-		"trans"		"[{darkred}Map{default}] ***2***"
+		"trans"		"***2***"
 	}
 	"***1***"
 	{
-		"trans"		"[{darkred}Map{default}] ***1***"
+		"trans"		"***1***"
 	}
 	"***0***"
 	{
-		"trans"		"[{darkred}Map{default}] ***0***"
+		"trans"		"***0***"
 	}
 	"*** Difficulty: MissingNo ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Difficulty: MissingNo ***"
+		"trans"		"*** Difficulty: MissingNo ***"
 	}
 	"*** Escape: THE PAPER DIMENSION ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Escape: THE PAPER DIMENSION ***"
+		"trans"		"*** Escape: THE PAPER DIMENSION ***"
 	}
 	"*** Address: 0x6469636b ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Address: 0x6469636b ***"
+		"trans"		"*** Address: 0x6469636b ***"
 	}
 	"* [[ NYCRockRadio FM 81.2 :: Sir Lord Baltimore - Hell Hound ]] *"
 	{
-		"trans"		"[{darkred}Map{default}] * [[ NYCRockRadio FM 81.2 :: Sir Lord Baltimore - Hell Hound ]] *"
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: Sir Lord Baltimore - Hell Hound ]] *"
 	}
 	"* [[ NYCRockRadio FM 81.2 :: Granicus - Cleveland Ohio ]] *"
 	{
-		"trans"		"[{darkred}Map{default}] * [[ NYCRockRadio FM 81.2 :: Granicus - Cleveland Ohio ]] *"
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: Granicus - Cleveland Ohio ]] *"
 	}
 	"* [[ NYCRockRadio FM 81.2 :: Buffalo - Shylock ]] *"
 	{
-		"trans"		"[{darkred}Map{default}] * [[ NYCRockRadio FM 81.2 :: Buffalo - Shylock ]] *"
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: Buffalo - Shylock ]] *"
 	}
 	"** The exitless park doors are opening in 20 seconds! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** The exitless park doors are opening in 20 seconds! **"
+		"trans"		"** The exitless park doors are opening in 20 seconds! **"
 	}
 	"** GO! We have to hold the park until we find a way out! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** GO! We have to hold the park until we find a way out! **"
+		"trans"		"** GO! We have to hold the park until we find a way out! **"
 	}
 	"** We could call a Penis-UFO and split the fare... **"
 	{
-		"trans"		"[{darkred}Map{default}] ** We could call a Penis-UFO and split the fare... **"
+		"trans"		"** We could call a Penis-UFO and split the fare... **"
 	}
 	"** OK GO! The Penis-UFO is coming! RESIST!!! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** OK GO! The Penis-UFO is coming! RESIST!!! **"
+		"trans"		"** OK GO! The Penis-UFO is coming! RESIST!!! **"
 	}
 	"* [[ NYCRockRadio FM 81.2 :: Arzachel - Leg ]] *"
 	{
-		"trans"		"[{darkred}Map{default}] * [[ NYCRockRadio FM 81.2 :: Arzachel - Leg ]] *"
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: Arzachel - Leg ]] *"
 	}
 	"** Left valve has been fully opened! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Left valve has been fully opened! **"
+		"trans"		"** Left valve has been fully opened! **"
 	}
 	"** BOTH VALVES HAVE BEEN UNLOCKED!!! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** BOTH VALVES HAVE BEEN UNLOCKED!!! **"
+		"trans"		"** BOTH VALVES HAVE BEEN UNLOCKED!!! **"
 	}
 	"** RESIST FOR 15 SECONDS!!! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** RESIST FOR 15 SECONDS!!! **"
+		"trans"		"** RESIST FOR 15 SECONDS!!! **"
 	}
 	"*** 0110100001101001 ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** 0110100001101001 ***"
+		"trans"		"*** 0110100001101001 ***"
 	}
 	"*** FIDDICULTU: STRING 2 ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** FIDDICULTU: STRING 2 ***"
+		"trans"		"*** FIDDICULTU: STRING 2 ***"
 	}
 	"** GO! The penis UFO doors are opening!!! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** GO! The penis UFO doors are opening!!! **"
+		"trans"		"** GO! The penis UFO doors are opening!!! **"
 	}
 	"** RESIST FOR 20 SECONDS!!! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** RESIST FOR 20 SECONDS!!! **"
+		"trans"		"** RESIST FOR 20 SECONDS!!! **"
 	}
 	"** Right valve has been fully opened! **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Right valve has been fully opened! **"
+		"trans"		"** Right valve has been fully opened! **"
 	}
 	"*** PACO! THERE IS UNA PARTY EN MY PANTALONES ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** PACO! THERE IS UNA PARTY EN MY PANTALONES ***"
+		"trans"		"*** PACO! THERE IS UNA PARTY EN MY PANTALONES ***"
 	}
 }
