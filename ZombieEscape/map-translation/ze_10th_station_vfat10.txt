@@ -26,7 +26,8 @@
 	}
 	"Hey, Give me like 45 seconds to magically break this wall"
 	{
-		"trans"		"围墙爆破于45秒{default}后"
+		"countdown"		"45"
+		"trans"		"围墙爆破于{darkred}45秒{default}后"
 	}
 	"The Zombies Are Coming here in exactly 17 seconds! Run!!"
 	{

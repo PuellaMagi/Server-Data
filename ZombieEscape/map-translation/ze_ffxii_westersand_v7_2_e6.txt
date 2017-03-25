@@ -2,221 +2,215 @@
 {
 	"[NORMAL MODE]"
 	{
-		"trans"		"***[普通模式]"
+		"trans"		"[普通模式]"
 	}
 	"** MAP BY SLAYERDRAGON **"
 	{
-		"trans"		"***** MAP BY SLAYERDRAGON ** / Translate:F2A"
+		"trans"		"** MAP BY SLAYERDRAGON ** / Translate:F2A"
 	}
 	"** Map Ported By 上古,單純 **"
 	{
-		"trans"		"***** Map Ported By 上古,單純 **"
+		"trans"		"** Map Ported By 上古,單純 **"
 	}
 	"** Defend untill the guards open the airport. **"
 	{
-		"trans"		"***在机场入口开放前守住"
+		"trans"		"在机场入口开放前守住"
 	}
 	"** Airport opened. **"
 	{
-		"trans"		"***机场已开放"
+		"trans"		"机场已开放"
 	}
 	"** A player has learned Electro magick. **"
 	{
-		"blocked"	"1"
-		"trans"		"***有玩家拾起了电"
+		"trans"		"有玩家拾起了电"
 	}
 	"** A player has learned Earth magick. **"
 	{
-		"blocked"	"1"
-		"trans"		"***有玩家拾起了土"
+		"trans"		"有玩家拾起了土"
 	}
 	"** Defend 25 seconds untill the guards open the hallway. **"
 	{
-		"trans"		"***在守卫开放出口前坚守25秒***"
+		"trans"		"在守卫开放出口前坚守25秒"
 	}
 	"** 5 seconds left **"
 	{
-		"trans"		"***5秒剩余***"
+		"trans"		"5秒剩余"
 	}
 	"** Defend here so the guards will open the gates to the city! **"
 	{
-		"trans"		"***在门口前面守住!***"
+		"trans"		"在门口前面守住!"
 	}
 	"** A player has learned Wind magick. **"
 	{
-		"blocked"	"1"
-		"trans"		"***有玩家拾起了风"
+		"trans"		"有玩家拾起了风"
 	}
 	"** A player has learned Heal magick. **"
 	{
-		"blocked"	"1"
-		"trans"		"***有玩家拾起了奶"
+		"trans"		"有玩家拾起了奶"
 	}
 	"** Cover here till the rock explodes **"
 	{
-		"trans"		"***守到前方石头爆破[远离石头,谨防被炸]"
+		"trans"		"守到前方石头爆破[远离石头,谨防被炸]"
 	}
 	"** The elevator will leave in 20 seconds **"
 	{
-		"trans"		"***电梯离开于20秒后[在电梯外守,优先打退带跃迁和黑洞的僵尸]"
+		"trans"		"电梯离开于20秒后[在电梯外守,优先打退带跃迁和黑洞的僵尸]"
 	}
 	"** The elevator will leave in 5 seconds **"
 	{
-		"trans"		"***电梯离开于5秒后[撤退]"
+		"trans"		"电梯离开于5秒后[撤退]"
 	}
 	"** The first door will open in 10 seconds **"
 	{
-		"trans"		"***第一道门开启于10秒后**"
+		"trans"		"第一道门开启于10秒后"
 	}
 	"** The second door will open in 15 seconds **"
 	{
-		"trans"		"***第二道门开启于15秒后**"
+		"trans"		"第二道门开启于15秒后"
 	}
 	"[ADMIN] Selected [EPIC MODE] for next round. Restarting round in 5 seconds."
 	{
-		"trans"		"***权限X选择了EPIC难度,5秒后重置"
+		"trans"		"权限X选择了EPIC难度,5秒后重置"
 	}
 	"[EPIC MODE]"
 	{
-		"trans"		"***[EPIC MODE]"
+		"trans"		"[EPIC MODE]"
 	}
 	"** A player has learned Water magick. **"
 	{
-		"blocked"	"1"
-		"trans"		"***有玩家拾起了水"
+		"trans"		"有玩家拾起了水"
 	}
 	"** A player has learned Holy magick. **"
 	{
-		"trans"		"***有玩家拾起了终极"
+		"trans"		"有玩家拾起了终极"
 	}
 	"** A player has learned Fire magick. **"
 	{
-		"blocked"	"1"
-		"trans"		"***有玩家拾起了火"
+		"trans"		"有玩家拾起了火"
 	}
 	"** Teleporter will be ready in 20 seconds! **"
 	{
-		"trans"		"***传送点就绪于20秒后**"
+		"trans"		"传送点就绪于20秒后"
 	}
 	"** Teleporter will be ready in 5 seconds! **"
 	{
-		"trans"		"***传送点就绪于5秒后**"
+		"trans"		"传送点就绪于5秒后"
 	}
 	"** Door will open in 5 seconds **"
 	{
-		"trans"		"***门开于5秒后**"
+		"trans"		"门开于5秒后"
 	}
 	"** Second door will open in 10 seconds **"
 	{
-		"trans"		"***第二道门开启于10秒后**"
+		"trans"		"第二道门开启于10秒后"
 	}
 	"** Hold 10 more seconds!! **"
 	{
-		"trans"		"***再守10秒***"
+		"trans"		"再守10秒"
 	}
 	"** Nades do more damage **"
 	{
-		"trans"		"***高爆可造成额外伤害"
+		"trans"		"高爆可造成额外伤害"
 	}
 	"** The guardians are dead!! Run back to the entrance!! **"
 	{
-		"trans"		"***BOSS挂了!原路返回!***"
+		"trans"		"BOSS挂了!原路返回!"
 	}
 	"** The healer is down!! **"
 	{
-		"trans"		"***奶BOSS挂了!***"
+		"trans"		"奶BOSS挂了!"
 	}
 	"** The battlemage is down!! **"
 	{
-		"trans"		"***战法BOSS挂了!***"
+		"trans"		"战法BOSS挂了!"
 	}
 	"** ZM JAIL OPEN **"
 	{
-		"trans"		"***僵尸已被释放"
+		"trans"		"僵尸已被释放"
 	}
 	"** Defend here for 30 seconds **"
 	{
-		"trans"		"***坚守30秒***"
+		"trans"		"坚守30秒"
 	}
 	"** 5 MORE SECONDS **"
 	{
-		"trans"		"***5秒剩余***"
+		"trans"		"5秒剩余"
 	}
 	"** The airship reactors are going to explode!! **"
 	{
-		"trans"		"***飞船的反应炉要炸了!***"
+		"trans"		"飞船的反应炉要炸了!"
 	}
 	"** CHAOS is using a deathwall - RUN FASTER!! **"
 	{
-		"trans"		"***CHAOS在你后面放了致命的屏障,打快点!***"
+		"trans"		"CHAOS在你后面放了致命的屏障,打快点!"
 	}
 	"** Keep defending!! **"
 	{
-		"trans"		"***继续守!***"
+		"trans"		"继续守!"
 	}
 	"** The dragon has been defeated **"
 	{
-		"trans"		"***BOSS挂了***"
+		"trans"		"BOSS挂了"
 	}
 	"** Nades do a lot of damage ** "
 	{
-		"trans"		"***高爆可造成额外伤害"
+		"trans"		"高爆可造成额外伤害"
 	}
 	"** Cover 10 seconds till the rock explodes **"
 	{
-		"trans"		"***在石头爆破前坚守10秒***"
+		"trans"		"在石头爆破前坚守10秒"
 	}
 	"[ADMIN] Selected [NORMAL MODE] for next round. Restarting round in 5 seconds."
 	{
-		"trans"		"***权限X选择了普通难度.5秒后重置***"
+		"trans"		"权限X选择了普通难度.5秒后重置"
 	}
 	"** METEOR INBOUND **"
 	{
-		"trans"		"***陨石来袭***"
+		"trans"		"陨石来袭"
 	}
 	"** USE ELECTRO TO  BREAK IT **"
 	{
-		"trans"		"***开启电神器以规避"
+		"trans"		"开启电神器以规避"
 	}
 	"** Go to the end of the road! **"
 	{
-		"trans"		"***杀向路的尽头"
+		"trans"		"杀向路的尽头"
 	}
 	"** 50 SECS REMAINING **"
 	{
-		"trans"		"***50秒剩余***"
+		"trans"		"50秒剩余"
 	}
 	"** 40 SECS REMAINING **"
 	{
-		"trans"		"***40秒剩余***"
+		"trans"		"40秒剩余"
 	}
 	"** 30 SECS REMAINING **"
 	{
-		"trans"		"***30秒剩余***"
+		"trans"		"30秒剩余"
 	}
 	"** 20 SECS REMAINING **"
 	{
-		"trans"		"***20秒剩余***"
+		"trans"		"20秒剩余"
 	}
 	"** 10 SECS REMAINING **"
 	{
-		"trans"		"***10秒剩余***"
+		"trans"		"10秒剩余"
 	}
 	"** 5 SECS REMAINING **"
 	{
-		"trans"		"***5秒剩余***"
+		"trans"		"5秒剩余"
 	}
 	"** Congratulations - u won [NORMAL] **"
 	{
-		"trans"		"***普通难度已完成"
+		"trans"		"普通难度已完成"
 	}
 	"[HARD MODE]"
 	{
-		"trans"		"***困难难度***"
+		"trans"		"困难难度"
 	}
 	"** Cover 20 seconds till the rock explodes **"
 	{
-		"trans"		"***在石头爆破前坚守20秒
+		"trans"		"在石头爆破前坚守20秒
 	}
 	"
 		"**"		"60"
@@ -224,8 +218,8 @@
 		"**"		"
 	{
 		"
-		"trans"		"***		"
-		"]"		"60秒剩余***"
+		"trans"		"		"
+		"]"		"60秒剩余"
 		"
 	}
 	"		"**"
@@ -233,7 +227,7 @@
 		"**"		"
 	{
 		"
-		"trans"		"***		"
+		"trans"		"		"
 		"]"		"困难难度已完成"
 		"
 	}
@@ -241,7 +235,7 @@
 		"MODE]"		"
 	{
 		"
-		"trans"		"***		"
+		"trans"		"		"
 		"]"		"极限难度"
 		"
 	}
@@ -268,66 +262,66 @@
 	"{"		"darkred"
 	"** Zombies Have Escaped **"
 	{
-		"trans"		"***** Zombies Have Escaped **"
+		"trans"		"** Zombies Have Escaped **"
 	}
 	"** FIRE NOVA INBOUND **"
 	{
-		"trans"		"***** FIRE NOVA INBOUND **"
+		"trans"		"** FIRE NOVA INBOUND **"
 	}
 	"** USE WATER TO DODGE IT  **"
 	{
-		"trans"		"***** USE WATER TO DODGE IT  **"
+		"trans"		"** USE WATER TO DODGE IT  **"
 	}
 	"** 60 SECS REMAINING **"
 	{
-		"trans"		"***** 60 SECS REMAINING **"
+		"trans"		"** 60 SECS REMAINING **"
 	}
 	"** Congratulations - u won [HARD] **"
 	{
-		"trans"		"***** Congratulations - u won [HARD] **"
+		"trans"		"** Congratulations - u won [HARD] **"
 	}
 	"[EXTREME MODE]"
 	{
-		"trans"		"***[EXTREME MODE]"
+		"trans"		"[EXTREME MODE]"
 	}
 	"** Cover 30 seconds till the rock explodes **"
 	{
-		"trans"		"***** Cover 30 seconds till the rock explodes **"
+		"trans"		"** Cover 30 seconds till the rock explodes **"
 	}
 	"** U have failed... **"
 	{
-		"trans"		"***** U have failed... **"
+		"trans"		"** U have failed... **"
 	}
 	"** 70 SECS REMAINING **"
 	{
-		"trans"		"***** 70 SECS REMAINING **"
+		"trans"		"** 70 SECS REMAINING **"
 	}
-	"[3 WINS IN A ROW] Easteregg unlocked!***"
+	"[3 WINS IN A ROW] Easteregg unlocked!"
 	{
-		"trans"		"***[3 WINS IN A ROW] Easteregg unlocked!***"
+		"trans"		"[3 WINS IN A ROW] Easteregg unlocked!"
 	}
 	"** Congratulations - u won [EXTREME] **"
 	{
-		"trans"		"***** Congratulations - u won [EXTREME] **"
+		"trans"		"** Congratulations - u won [EXTREME] **"
 	}
 	"** Chaos has been defeated - RUN !!!!! **"
 	{
-		"trans"		"***** Chaos has been defeated - RUN !!!!! **"
+		"trans"		"** Chaos has been defeated - RUN !!!!! **"
 	}
 	"** Congratulations - u won [EPIC] **"
 	{
-		"trans"		"***** Congratulations - u won [EPIC] **"
+		"trans"		"** Congratulations - u won [EPIC] **"
 	}
 	"[GOD MODE]"
 	{
-		"trans"		"***[GOD MODE]"
+		"trans"		"[GOD MODE]"
 	}
 	"** The dragon has been defeated! GOGOGO **"
 	{
-		"trans"		"***** The dragon has been defeated! GOGOGO **"
+		"trans"		"** The dragon has been defeated! GOGOGO **"
 	}
 	"[ADMIN] Selected [GOD MODE] for next round. Restarting round in 5 seconds."
 	{
-		"trans"		"***[ADMIN] Selected [GOD MODE] for next round. Restarting round in 5 seconds."
+		"trans"		"[ADMIN] Selected [GOD MODE] for next round. Restarting round in 5 seconds."
 	}
 }

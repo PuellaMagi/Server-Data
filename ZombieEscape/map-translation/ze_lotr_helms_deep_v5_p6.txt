@@ -10,6 +10,7 @@
 	}
 	"**Door will close in 30 s  ** Get safe into Helms Deep!**"
 	{
+		"countdown"		"30"
 		"trans"		"城门30秒后关闭"
 	}
 	"** The door is closing in 10s **"
@@ -86,6 +87,7 @@
 	}
 	"** Defend at fort! Hall door will open in 40s!**"
 	{
+		"countdown"		"40"
 		"trans"		"殿堂大门开启于40秒后"
 	}
 	"** Get safe in the fort! **"

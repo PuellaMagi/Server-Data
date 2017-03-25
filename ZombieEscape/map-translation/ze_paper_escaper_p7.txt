@@ -30,7 +30,6 @@
 	}
 	"** Mojonero's PenisGun has been picked up. **"
 	{
-		"blocked"	"1"
 		"trans"		"** Mojonero's PenisGun has been picked up. **"
 	}
 	"*Water deposit door opening in 15 seconds*"
@@ -87,7 +86,6 @@
 	}
 	"**Flamethrower has been picked up. Press +Use (E) to activate**"
 	{
-		"blocked"	"1"
 		"trans"		"**Flamethrower has been picked up. Press +Use (E) to activate**"
 	}
 	"**Fuel lasts about 10 seconds. **"
@@ -100,7 +98,6 @@
 	}
 	"**Rocket launcher picked up. Press +USE (E) to activate.**"
 	{
-		"blocked"	"1"
 		"trans"		"**Rocket launcher picked up. Press +USE (E) to activate.**"
 	}
 	"**It only has one use**"
@@ -193,7 +190,6 @@
 	}
 	"*Speed weapon has been picked up. It grants a slight speed boost.*"
 	{
-		"blocked"	"1"
 		"trans"		"*Speed weapon has been picked up. It grants a slight speed boost.*"
 	}
 	"*Emergency elevator activates in 12 seconds*"
@@ -206,7 +202,6 @@
 	}
 	"*Heal has been picked up. Press +USE (E) to activate.*"
 	{
-		"blocked"	"1"
 		"trans"		"*Heal has been picked up. Press +USE (E) to activate.*"
 	}
 	"*It has a 90 seconds cooldown.*"
@@ -223,7 +218,6 @@
 	}
 	"*Ammo Box has been picked up. Press +USE (E) to activate.*"
 	{
-		"blocked"	"1"
 		"trans"		"*Ammo Box has been picked up. Press +USE (E) to activate.*"
 	}
 	"*The doors are now open. LEAVE!!!*"
@@ -288,7 +282,6 @@
 	}
 	"** Raivb1000 prototype has been picked up. Press E (+USE) to activate. **"
 	{
-		"blocked"	"1"
 		"trans"		"** Raivb1000 prototype has been picked up. Press E (+USE) to activate. **"
 	}
 	"** WARNING: It only has one use and affects zombies and killer robots. **"
@@ -301,7 +294,6 @@
 	}
 	"*Landmine picked up. Jump and press +USE (E) to activate.*"
 	{
-		"blocked"	"1"
 		"trans"		"*Landmine picked up. Jump and press +USE (E) to activate.*"
 	}
 	"*Evil Corp. Headquarters' doors opening in 10 seconds.*"
@@ -402,7 +394,6 @@
 	}
 	"*Tornado generator has been picked up. Press +USE (E) to activate.*"
 	{
-		"blocked"	"1"
 		"trans"		"*Tornado generator has been picked up. Press +USE (E) to activate.*"
 	}
 	"*It has a 120 seconds cooldown.*"
@@ -686,7 +677,6 @@
 	}
 	"* Cisneros' Hero Burguer has been picked up! *"
 	{
-		"blocked"	"1"
 		"trans"		"* Cisneros' Hero Burguer has been picked up! *"
 	}
 	"* GO BACK! ELEVATOR LEAVES IN 5 SECONDS *"

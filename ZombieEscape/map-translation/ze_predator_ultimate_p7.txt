@@ -86,7 +86,6 @@
 	}
 	"***PLAYER PICKED UP GRENADE LAUNCHER***"
 	{
-		"blocked"	"1"
 		"trans"		"***PLAYER PICKED UP GRENADE LAUNCHER***"
 	}
 	"***HOLD FOR 30 seconds***"
@@ -99,7 +98,6 @@
 	}
 	"***FIRST AID PICKED UP***"
 	{
-		"blocked"	"1"
 		"trans"		"***FIRST AID PICKED UP***"
 	}
 	"***HOLD THIS AREA FOR 40 SECONDS***"
@@ -204,27 +202,22 @@
 	}
 	"***PLAYER PICKED UP CLAYMORE MINES***"
 	{
-		"blocked"	"1"
 		"trans"		"***PLAYER PICKED UP CLAYMORE MINES***"
 	}
 	"***PLAYER PICKED UP AMMO DISPENSER***"
 	{
-		"blocked"	"1"
 		"trans"		"***PLAYER PICKED UP AMMO DISPENSER***"
 	}
 	"***PLAYER PICKED UP GAUSS RIFLE***"
 	{
-		"blocked"	"1"
 		"trans"		"***PLAYER PICKED UP GAUSS RIFLE***"
 	}
 	"***PLAYER PICKED UP ALIEN DEVICE***"
 	{
-		"blocked"	"1"
 		"trans"		"***PLAYER PICKED UP ALIEN DEVICE***"
 	}
 	"***PLAYER PICKED UP ALIEN SAMPLE***"
 	{
-		"blocked"	"1"
 		"trans"		"***PLAYER PICKED UP ALIEN SAMPLE***"
 	}
 	"***YOU HAVE DEFEATED THE PREDATOR!***"
@@ -237,12 +230,10 @@
 	}
 	"***A ZOMBIE GOT INSIDE THE CHOPPER***"
 	{
-			"blocked"	"1"
 		"trans"		"***A ZOMBIE GOT INSIDE THE CHOPPER***"
 	}
 	"***PLAYER PICKED UP PUSH GUN***"
 	{
-		"blocked"	"1"
 		"trans"		"***PLAYER PICKED UP PUSH GUN***"
 	}
 	"***YOU COMPLETED HARD***"
@@ -319,7 +310,6 @@
 	}
 	"***PLAYER PICKED UP FLAMETHROWER***"
 	{
-		"blocked"	"1"
 		"trans"		"***PLAYER PICKED UP FLAMETHROWER***"
 	}
 	"***CHOPPER IS ON IT'S WAY***"
@@ -396,12 +386,10 @@
 	}
 	"***PLAYER PICKED UP IMPULSOR***"
 	{
-		"blocked"	"1"
 		"trans"		"***PLAYER PICKED UP IMPULSOR***"
 	}
 	"***PLAYER PICKED UP MINI GUN***"
 	{
-		"blocked"	"1"
 		"trans"		"***PLAYER PICKED UP MINI GUN***"
 	}
 	"***SOMEONE MUST JUMP INTO THE CORE***"

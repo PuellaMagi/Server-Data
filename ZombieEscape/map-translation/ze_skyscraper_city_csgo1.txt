@@ -2,6 +2,7 @@
 {
 	">>Door will open in 20 sec<< "
 	{
+		"countdown" "20"
 		"trans"		"门开启于20秒后"
 	}
 	">>Go!<< "
@@ -10,6 +11,7 @@
 	}
 	">>Metal Gate opens in 15 sec<< "
 	{
+		"countdown" "15"
 		"trans"		"栅栏开启于15秒后"
 	}
 	">>The Gate is open!<< "
@@ -18,6 +20,7 @@
 	}
 	">>Tram departs in 20 sec<< "
 	{
+		"countdown" "20"
 		"trans"		"缆车20秒后离开"
 	}
 	">>Door will open in 25 sec<< "
@@ -42,6 +45,7 @@
 	}
 	">>Train will leave in 45 sec<< "
 	{
+		"countdown" "45"
 		"trans"		"火车45秒后离开"
 	}
 }

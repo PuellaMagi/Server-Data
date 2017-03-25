@@ -146,7 +146,6 @@
 	}
 	"** SECRET FREEZE MACHINE HAS BEEN PICKED UP **"
 	{
-		"blocked"	"1"
 		"trans"		"** SECRET FREEZE MACHINE HAS BEEN PICKED UP **"
 	}
 	"** ROCKY DOOR IN SECTION D8 WILL BREAK IN 30 SECONDS **"
@@ -239,17 +238,14 @@
 	}
 	"** BOMB PLACER HAS BEEN PICKED UP **"
 	{
-		"blocked"	"1"
 		"trans"		"** BOMB PLACER HAS BEEN PICKED UP **"
 	}
 	"** PUSH GUN HAS BEEN PICKED UP **"
 	{
-		"blocked"	"1"
 		"trans"		"** PUSH GUN HAS BEEN PICKED UP **"
 	}
 	"** NADE SPAWNER HAS BEEN PICKED UP **"
 	{
-		"blocked"	"1"
 		"trans"		"** NADE SPAWNER HAS BEEN PICKED UP **"
 	}
 	"** HUMANS WIN **"
@@ -318,7 +314,6 @@
 	}
 	"** SECRET CONFUSING TOOL HAS BEEN PICKED UP **"
 	{
-		"blocked"	"1"
 		"trans"		"** SECRET CONFUSING TOOL HAS BEEN PICKED UP **"
 	}
 	"** ACTIVATING THE TELEPORTER ** GET READY TO FALL BACK **"
@@ -359,12 +354,10 @@
 	}
 	"** AMMO BOX HAS BEEN PICKED UP **"
 	{
-		"blocked"	"1"
 		"trans"		"** AMMO BOX HAS BEEN PICKED UP **"
 	}
 	"** SLOWMOTION GUN HAS BEEN PICKED UP **"
 	{
-		"blocked"	"1"
 		"trans"		"** SLOWMOTION GUN HAS BEEN PICKED UP **"
 	}
 	"** NUKE WILL BE DROPPED IN 10 SECONDS **"
@@ -425,7 +418,6 @@
 	}
 	"** HEALTH BOX HAS BEEN PICKED UP **"
 	{
-		"blocked"	"1"
 		"trans"		"** HEALTH BOX HAS BEEN PICKED UP **"
 	}
 	"** EXORATH HAS LOCATED YOUR POSITION ** BE PREPARED FOR A FIGHT **"
@@ -470,7 +462,6 @@
 	}
 	"** SECRET FLAMETHROWER HAS BEEN PICKED UP **"
 	{
-		"blocked"	"1"
 		"trans"		"** SECRET FLAMETHROWER HAS BEEN PICKED UP **"
 	}
 	"** ZOMBIES DETECTED IN THE TEMPLE **"
@@ -495,7 +486,6 @@
 	}
 	"** MINI NUKE HAS BEEN PICKED UP **"
 	{
-		"blocked"	"1"
 		"trans"		"** MINI NUKE HAS BEEN PICKED UP **"
 	}
 	"** EXORATH HAS LOST THE BATTLE **"

@@ -2,30 +2,37 @@
 {
 	"*** DOOR #1 OPENING IN 30 SECONDS ***"
 	{
+		"countdown" "50"
 		"trans"		"1号门开启于50秒后"
 	}
 	"*** DOOR #2 OPENING IN 50 SECONDS ***"
 	{
+		"countdown" "50"
 		"trans"		"2号门开启于50秒后"
 	}
 	"*** DOOR #3 OPENING IN 50 SECONDS ***"
 	{
+		"countdown" "50"
 		"trans"		"3号门开启于50秒后"
 	}
 	"*** DOOR #4 OPENING IN 50 SECONDS ***"
 	{
+		"countdown" "50"
 		"trans"		"4号门开启于50秒后"
 	}
 	"*** DOOR #5 OPENING IN 50 SECONDS ***"
 	{
+		"countdown" "50"
 		"trans"		"5号门开启于50秒后"
 	}
 	"*** DOOR #6 OPENING IN 50 SECONDS ***"
 	{
+		"countdown" "50"
 		"trans"		"6号门开启于50秒后"
 	}
 	"*** THIS IS THE FINAL BATTLE. HOLD OFF THE ZOMBIES FOR 50 SECONDS. ***"
 	{
+		"countdown" "50"
 		"trans"		"再坚守50秒"
 	}
 	"*** THE GHOST DEMON IS APPROACHING , TAKE HIM DOWN BEFORE HE GETS TOO CLOSE ***"

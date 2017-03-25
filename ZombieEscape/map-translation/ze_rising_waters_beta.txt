@@ -18,6 +18,7 @@
 	}
 	">>>lift is opening in 5 seconds<<<"
 	{
+		"countdown"		"5"
 		"trans"		"电梯离开于5秒后"
 	}
 }

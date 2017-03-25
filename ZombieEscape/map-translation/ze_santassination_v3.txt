@@ -2,32 +2,32 @@
 {
 	"***ROCK WALL WILL BREAK IN 15 SECONDS***"
 	{
-		"trans"		"***前方障碍15秒后破碎***"
+		"countdown"		"15"
+		"trans"		"前方障碍15秒后破碎"
 	}
 	"***ROCK WALL WILL BREAK IN 5 SECONDS***"
 	{
-		"trans"		"***前方障碍5秒后破碎***"
+		"trans"		"前方障碍5秒后破碎"
 	}
 	"***FALL BACK***"
 	{
-		"trans"		"***撤退***
+		"trans"		"撤退"
 	}
 	"***PLAYER PICKED UP ITEM - SPEEDER***"
 	{
-		"blocked"	"1"
-		"trans"		"***有玩家拾起了加速***"
+		"trans"		"有玩家拾起了加速"
 	}
 	"***SOMETHING IS COMING...***"
 	{
-		"trans"		"***有什么东西正在奔我们而来..***"
+		"trans"		"有什么东西正在奔我们而来.."
 	}
 	"***RUN***"
 	{
-		"trans"		"***只管跑!***"
+		"trans"		"只管跑!"
 	}
 	"***GET UP ON THAT ROCK***"
 	{
-		"trans"		"***跳上前方的巨石***"
+		"trans"		"跳上前方的巨石"
 	}
 	"***MUFASA.. IS DEAD...***"
 	{
@@ -39,52 +39,56 @@
 	}
 	"***PROLOGUE COMPLETE***"
 	{
-		"trans"		"***序章已完成"
+		"trans"		"序章已完成"
 	}
 	"***SNOW WALL WILL BREAK IN 10 SECONDS***"
 	{
-		"trans"		"***雪墙崩塌于10秒后***"
+		"countdown"		"10"
+		"trans"		"雪墙崩塌于10秒后"
 	}
 	"***DRAWBRIDGE WILL DRAW ITSELF IN 5 SECONDS***"
 	{
-		"trans"		"***吊桥启动于5秒后***"
+		"countdown"		"5"
+		"trans"		"吊桥启动于5秒后"
 	}
 	"***DRAWBRIDGE IS DRAWING***"
 	{
-		"trans"		"***吊桥启动中***"
+		"trans"		"吊桥启动中"
 	}
 	"***DRAWBRIDGE HAS BEEN DRAWED***"
 	{
-		"trans"		"***吊桥已完全启动***"
+		"trans"		"吊桥已完全启动"
 	}
 	"***PLAYER PICKED UP ITEM - HEALING SHITBOX***"
 	{
-		"blocked"	"1"
-		"trans"		"***有玩家拾起了治疗盒子***"
+		"trans"		"有玩家拾起了治疗盒子"
 	}
 	"***INNER BEAVER BLASTDOOR IS OPENING IN 20 SECONDS***"
 	{
-		"trans"		"***门开于20秒后***"
+		"countdown"		"20"
+		"trans"		"门开于20秒后"
 	}
 	"***INNER INNEST INCEST BEAVER BLASTDOOR IS OPENING IN 15 SECONDS***"
 	{
-		"trans"		"***门开于15秒后***"
+		"trans"		"门开于15秒后"
 	}
 	"***THIS GATE WILL OPEN ONCE BOTH PATHS HAVE BEEN CLEARED***"
 	{
-		"trans"		"***门将在两边确保安全后打开***"
+		"trans"		"门将在两边确保安全后打开"
 	}
 	"***FIRST FIRST JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***"
 	{
-		"trans"		"***卷闸门1号开于15秒后***"
+		"countdown"		"15"
+		"trans"		"卷闸门1号开于15秒后"
 	}
 	"***SECOND FIRST JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***"
 	{
-		"trans"		"***卷闸门2号开于15秒后***"
+		"countdown"		"15"
+		"trans"		"卷闸门2号开于15秒后"
 	}
 	"***SECOND FIRST JEDI-SCROLL-DOOR IS OPENING***"
 	{
-		"trans"		"***卷闸门2号开启中***"
+		"trans"		"卷闸门2号开启中"
 	}
 	"***INCEST***"
 	{
@@ -92,11 +96,12 @@
 	}
 	"***FIRST FIRST JEDI-SCROLL-DOOR IS OPENING***"
 	{
-		"trans"		"***卷闸门1号开启中***"
+		"trans"		"卷闸门1号开启中"
 	}
 	"***SECOND SECOND JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***"
 	{
-		"trans"		"***二道卷闸门2号开于15秒后***"
+		"countdown"		"15"
+		"trans"		"二道卷闸门2号开于15秒后"
 	}
 	"***WINCEST***"
 	{
@@ -104,160 +109,168 @@
 	}
 	"***SECOND SECOND JEDI-SCROLL-DOOR IS OPENING***"
 	{
-		"trans"		"***二道卷闸门2号正在开启***"
+		"trans"		"二道卷闸门2号正在开启"
 	}
 	"***STEELWORKS DOOR WILL OPEN IN 30 SECONDS***"
 	{
-		"trans"		"***钢铁门开于30秒后***"
+		"countdown"		"30"
+		"trans"		"钢铁门开于30秒后"
 	}
 	"***STEELWORKS DOOR WILL OPEN IN 5 SECONDS***"
 	{
-		"trans"		"***钢铁门开于5秒后***"
+		"trans"		"钢铁门开于5秒后"
 	}
 	"***STEELWORKS DOOR IS OPENING***"
 	{
-		"trans"		"***钢铁门正在开启***"
+		"trans"		"钢铁门正在开启"
 	}
 	"***STEELWORKS DOOR WILL CLOSE IN 5 SECONDS***"
 	{
-		"trans"		"***钢铁门关闭于5秒后***"
+		"trans"		"钢铁门关闭于5秒后"
 	}
 	"***PLAYER PICKED UP ITEM - MINI CANNON***"
 	{
-		"blocked"	"1"
-		"trans"		"***有玩家拾起了迷你炮***"
+		"trans"		"有玩家拾起了迷你炮"
 	}
 	"***STEELWORKS DOOR IS CLOSING***"
 	{
-		"trans"		"***钢铁门正在关闭***"
+		"trans"		"钢铁门正在关闭"
 	}
 	"***THE BEAVERS ARE COMING***"
 	{
-		"trans"		"***小心从天而降的猴子***"
+		"trans"		"小心从天而降的猴子"
 	}
 	"***THE BEAVERS ARE AGRESSIVE***"
 	{
-		"trans"		"***远离并向它们开枪,切忌抱团!***"
+		"trans"		"远离并向它们开枪,切忌抱团!"
 	}
 	"***THAT SEEMS TO BE THE LAST OF THEM***"
 	{
-		"trans"		"***这应该是最后一批猴子了***"
+		"trans"		"这应该是最后一批猴子了"
 	}
 	"***SUB-PRIMARY PROTOCOL DOOR WILL OPEN IN 40 SECONDS***"
 	{
-		"trans"		"***门开于40秒后***"
+		"countdown"		"40"
+		"trans"		"门开于40秒后"
 	}
 	"***SUB-PRIMARY PROTOCOL DOOR WILL OPEN IN 5 SECONDS***"
 	{
-		"trans"		"***门开于5秒后***"
+		"trans"		"门开于5秒后"
 	}
 	"***SELF-DESTRUCT SEQUENCE HAS BEEN INITIATED***"
 	{
-		"trans"		"***自毁程序已启动***"
+		"trans"		"自毁程序已启动"
 	}
 	"***LASER SHUTDOWN IN 20 SECONDS***"
 	{
-		"trans"		"***激光关闭于20秒后***"
+		"countdown"		"20"
+		"trans"		"激光关闭于20秒后"
 	}
 	"***LASER SHUTDOWN IN 5 SECONDS***"
 	{
-		"trans"		"***激光关闭于5秒后***"
+		"trans"		"激光关闭于5秒后"
 	}
 	"***ESCAPE THE BEAVER STEELWORKS FACILITY***"
 	{
-		"trans"		"***逃离钢厂***"
+		"trans"		"逃离钢厂"
 	}
 	"***PRIMARY PROTOCOL DOOR WILL OPEN IN 20 SECONDS***"
 	{
-		"trans"		"***1号厂门启动于20秒后***"
+		"countdown"		"20"
+		"trans"		"1号厂门启动于20秒后"
 	}
 	"***SECONDARY PROTOCOL DOOR WILL OPEN IN 20 SECONDS***"
 	{
-		"trans"		"***2号厂门启动于20秒后***"
+		"countdown"		"20"
+		"trans"		"2号厂门启动于20秒后"
 	}
 	"***ELEVATOR OPENS IN 15 SECONDS***"
 	{
-		"trans"		"***电梯门开于15秒后***"
+		"countdown"		"15"
+		"trans"		"电梯门开于15秒后"
 	}
 	"***ELEVATOR DOOR IS OPEN***"
 	{
-		"trans"		"***电梯门正在开启***"
+		"trans"		"电梯门正在开启"
 	}
 	"***ELEVATOR LEAVES IN 5 SECONDS***"
 	{
-		"trans"		"***电梯离开于5秒后***"
+		"trans"		"电梯离开于5秒后"
 	}
 	"***FINAL ELEVATOR DOOR WILL CLOSE IN 30 SECONDS***"
 	{
-		"trans"		"***最后***一架电梯离开于30秒后***"
+		"countdown"		"30"
+		"trans"		"最后一架电梯离开于30秒后"
 	}
 	"***FINAL ELEVATOR DOOR WILL CLOSE IN 5 SECONDS***"
 	{
-		"trans"		"***最后***一架电梯离开于5秒后***"
+		"trans"		"最后一架电梯离开于5秒后"
 	}
 	"***FINAL ELEVATOR DOOR IS CLOSING***"
 	{
-		"trans"		"***最后***一架电梯正在离开"
+		"trans"		"最后一架电梯正在离开"
 	}
 	"***ACT 1 COMPLETE***"
 	{
-		"trans"		"***第一章已完成***"
+		"trans"		"第一章已完成"
 	}
 	"***RIGHT PRIMAL ELEVATOR LEAVES IN 10 SECONDS***"
 	{
-		"trans"		"***右侧电梯10秒后离开***"
+		"trans"		"右侧电梯10秒后离开"
 	}
 	"***LEFT PRIMAL ELEVATOR LEAVES IN 10 SECONDS***"
 	{
-		"trans"		"***左侧电梯10秒后离开***"
+		"trans"		"左侧电梯10秒后离开"
 	}
 	"***RIGHT PRIMAL ELEVATOR IS LEAVING***"
 	{
-		"trans"		"***右侧电梯正在离开***"
+		"trans"		"右侧电梯正在离开"
 	}
 	"***LEFT PRIMAL ELEVATOR IS LEAVING***"
 	{
-		"trans"		"***左侧电梯正在离开***"
+		"trans"		"左侧电梯正在离开"
 	}
 	"***SECONDARY PROTOCOL ELEVATOR IS LEAVING IN 30 SECONDS***"
 	{
-		"trans"		"***二级电梯离开于30秒后***"
+		"trans"		"二级电梯离开于30秒后"
 	}
 	"***SECONDARY PROTOCOL ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
-		"trans"		"***二级电梯离开于5秒后***"
+		"countdown"		"5"
+		"trans"		"二级电梯离开于5秒后"
 	}
 	"***SECONDARY PROTOCOL ELEVATOR IS LEAVING***"
 	{
-		"trans"		"***二级电梯正在离开***"
+		"trans"		"二级电梯正在离开"
 	}
 	"***SATISFY THE LIPS WITH SEWER CHOCOLATE IN ORDER TO ENTER***"
 	{
-		"trans"		"***给这个大头智障喂够翔牌巧克力以开通前路***"
+		"trans"		"给这个大头智障喂够翔牌巧克力以开通前路"
 	}
 	"***7 SMEARED HUMANS SHOULD BE ABLE TO SATISFY THOSE SORE LIPS***"
 	{
-		"trans"		"***需要7个人才能喂饱这个智障***"
+		"trans"		"需要7个人才能喂饱这个智障"
 	}
 	"***GOOD LUCK***"
 	{
-		"trans"		"***小心脚下***"
+		"trans"		"小心脚下"
 	}
 	"***THE PIZZA IS AGGRESSIVE***"
 	{
-		"trans"		"***切忌碰触地上的比萨饼***"
+		"trans"		"切忌碰触地上的比萨饼"
 	}
 	"***SANTA FACTORY DOOR IS OPENING IN 20 SECONDS***"
 	{
-		"trans"		"***工厂大门打开于20秒后***"
+		"countdown"		"20"
+		"trans"		"工厂大门打开于20秒后"
 	}
 	"***SANTA FACTORY DOOR IS OPENING IN 5 SECONDS***"
 	{
-		"trans"		"***工厂大门打开于5秒后***"
+		"trans"		"工厂大门打开于5秒后"
 	}
 	"***SANTA FACTORY DOOR IS OPENING***"
 	{
-		"trans"		"***工厂大门正在开启"
+		"trans"		"工厂大门正在开启"
 	}
 	"***SMELL THE DANK MIXTAPE***"
 	{
@@ -269,43 +282,43 @@
 	}
 	"***MAIN ELEVATOR IS LEAVING IN 20 SECONDS***"
 	{
-		"trans"		"***一级电梯20秒后离开***"
+		"trans"		"一级电梯20秒后离开"
 	}
 	"***MAIN ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
-		"trans"		"***一级电梯5秒后离开***"
+		"trans"		"一级电梯5秒后离开"
 	}
 	"***MAIN ELEVATOR IS LEAVING***"
 	{
-		"trans"		"***一级电梯正在离开***"
+		"trans"		"一级电梯正在离开"
 	}
 	"***MAJOR FACE WALL EXPLODES IN 15 SECONDS***"
 	{
-		"trans"		"***墙15秒后爆破***"
+		"trans"		"墙15秒后爆破"
 	}
 	"***MAJOR FACE WALL IS ABOUT TO EXPLODE***"
 	{
-		"trans"		"***墙即将爆破***"
+		"trans"		"墙即将爆破"
 	}
 	"***MAJOR FACE WALL WENT BOOM***"
 	{
-		"trans"		"***墙已爆破***"
+		"trans"		"墙已爆破"
 	}
 	"***NAZI NIPPLE***"
 	{
-		"trans"		"***元首尖头已触发***"
+		"trans"		"元首尖头已触发"
 	}
 	"***BUTTON 1 PRESSED***"
 	{
-		"trans"		"***按钮1已触发***"
+		"trans"		"按钮1已触发"
 	}
 	"***BUTTON 2 PRESSED***"
 	{
-		"trans"		"***按钮2已触发***"
+		"trans"		"按钮2已触发"
 	}
 	"***BUTTON 3 PRESSED***"
 	{
-		"trans"		"***按钮3已触发***"
+		"trans"		"按钮3已触发"
 	}
 	"***THE MEXISLED CAN TAKE YOU OVER THE BORDER FOR 40$***"
 	{
@@ -313,7 +326,7 @@
 	}
 	"***YOU CAN NOW ADVANCE***"
 	{
-		"trans"		"***我们可以继续前进了***"
+		"trans"		"我们可以继续前进了"
 	}
 	"***YOU MANAGED TO SCRAPE TOGETHER 41$ FROM YOUR TUITION MONEY***"
 	{
@@ -321,7 +334,7 @@
 	}
 	"***20 SECONDS UNTIL DEPARTURE***"
 	{
-		"trans"		"***船离港于20秒后***"
+		"trans"		"船离港于20秒后"
 	}
 	"***THE MEXISLED WOULD PREFER YOU TO CALL IT -THE BURRITO SHITTER-***"
 	{
@@ -333,147 +346,154 @@
 	}
 	"***5 SECONDS UNTIL DEPARTURE***"
 	{
-		"trans"		"***船离港于5秒后***"
+		"trans"		"船离港于5秒后"
 	}
 	"***OPENING UPPER CHAPEL DOOR IN 10 SECONDS***"
 	{
-		"trans"		"***门开启于10秒后***"
+		"countdown"		"10"
+		"trans"		"门开启于10秒后"
 	}
 	"***THE BURRITO SHITTER IS DEPARTING***"
 	{
-		"trans"		"***船正在离港***"
+		"trans"		"船正在离港"
 	}
 	"***NEXT STOP - ILLEGALITY***"
 	{
-		"trans"		"***下一站***"
+		"trans"		"下一站"
 	}
 	"***OPENING UPPER CHAPEL DOOR IN 5 SECONDS***"
 	{
-		"trans"		"***门开于5秒后***"
+		"trans"		"门开于5秒后"
 	}
 	"***PUNISHING EDGERS WITH BURRITO LOVE***"
 	{
-		"trans"		"***船将击退前方靠近的僵尸[不要贴边,开火丢高爆/火击退进犯的僵尸]***"
+		"trans"		"船将击退前方靠近的僵尸[不要贴边,开火丢高爆/火击退进犯的僵尸]"
 	}
 	"***OPENING UPPER CHAPEL DOOR***"
 	{
-		"trans"		"***门正在开启***"
+		"trans"		"门正在开启"
 	}
 	"***SEXY REINDEER IS OPENING IN 15 SECONDS***"
 	{
-		"trans"		"***门开于15秒后***"
+		"countdown"		"15"
+		"trans"		"门开于15秒后"
 	}
 	"***MAGIC ZOMBIE PUSH IS DISABLED***"
 	{
-		"trans"		"***僵尸空气墙已被解除***"
+		"trans"		"僵尸空气墙已被解除"
 	}
 	"***ZOMBIES CAN NOW GET YOU FROM THE SIDES***"
 	{
-		"trans"		"***僵尸路已打开***"
+		"trans"		"僵尸路已打开"
 	}
 	"***SEXY REINDEER IS OPENING IN 5 SECONDS***"
 	{
-		"trans"		"***驯鹿启动于5秒后***"
+		"countdown"		"5"
+		"trans"		"驯鹿启动于5秒后"
 	}
 	"***SEXY REINDEER IS SPREADING***"
 	{
-		"trans"		"***驯鹿正在四散***"
+		"trans"		"驯鹿正在四散"
 	}
 	"***BRIDGE EXIT GATE IS OPENING IN 15 SECONDS***"
 	{
-		"trans"		"***大桥出口15秒后启动***"
+		"trans"		"大桥出口15秒后启动"
 	}
 	"***FACTORY DOOR OPENS IN 10 SECONDS***"
 	{
-		"trans"		"***厂门开启于10秒后***"
+		"trans"		"厂门开启于10秒后"
 	}
 	"***BRIDGE EXIT GATE IS OPENING IN 5 SECONDS***"
 	{
-		"trans"		"***大桥出口5秒后启动***"
+		"trans"		"大桥出口5秒后启动"
 	}
 	"***FACTORY DOOR OPENS IN 5 SECONDS***"
 	{
-		"trans"		"***厂门开启于5秒后***"
+		"trans"		"厂门开启于5秒后"
 	}
 	"***BRIDGE EXIT GATE IS OPENING***"
 	{
-		"trans"		"***大桥出口正在启动"
+		"trans"		"大桥出口正在启动"
 	}
 	"***FACTORY DOOR OPENS IN 4 SECONDS***"
 	{
-		"trans"		"***厂门开启于4秒后***"
+		"trans"		"厂门开启于4秒后"
 	}
 	"***FACTORY DOOR OPENS IN 3 SECONDS***"
 	{
-		"trans"		"***厂门开启于3秒后***"
+		"trans"		"厂门开启于3秒后"
 	}
 	"***FACTORY DOOR OPENS IN 2 SECONDS***"
 	{
-		"trans"		"***厂门开启于2秒后***"
+		"trans"		"厂门开启于2秒后"
 	}
 	"***FACTORY DOOR OPENS IN 1 SECOND***"
 	{
-		"trans"		"***厂门开启于1秒后***"
+		"trans"		"厂门开启于1秒后"
 	}
 	"***HEAD TOWARD SANTAS LAIR***"
 	{
-		"trans"		"***杀入BOSS的藏身处***"
+		"trans"		"杀入BOSS的藏身处"
 	}
 	"***YOUR FEET BECOME NIMBLE THROUGH DETERMINATION***"
 	{
-		"trans"		"***移动速度将暂时加快***"
+		"trans"		"移动速度将暂时加快"
 	}
 	"***GET INSIDE SANTAS LAIR***"
 	{
-		"trans"		"***进入BOSS的藏身处***"
+		"trans"		"进入BOSS的藏身处"
 	}
 	"***SANTA'S LAIR GATE IS CLOSING IN 10 SECONDS***"
 	{
-		"trans"		"***BOSS藏身处的大门10秒后打开***"
+		"countdown"		"10"
+		"trans"		"BOSS藏身处的大门10秒后打开"
 	}
 	"***SANTA'S LAIR GATE IS CLOSING***"
 	{
-		"trans"		"***BOSS藏身处大门正在关闭***"
+		"trans"		"BOSS藏身处大门正在关闭"
 	}
 	"***ACT 2 COMPLETE***"
 	{
-		"trans"		"***第二章已完成***"
+		"trans"		"第二章已完成"
 	}
 	"***LOWER ELEVATOR IS LEAVING IN 20 SECONDS***"
 	{
-		"trans"		"***下层电梯20秒后离开***"
+		"countdown"		"20"
+		"trans"		"下层电梯20秒后离开"
 	}
 	"***TRAM 1 IS LEAVING IN 20 SECONDS***"
 	{
-		"trans"		"***1号索道20秒后离开***"
+		"countdown"		"20"
+		"trans"		"1号索道20秒后离开"
 	}
 	"***LOWER ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
-		"trans"		"***下层电梯5秒后离开***"
+		"trans"		"下层电梯5秒后离开"
 	}
 	"***LOWER ELEVATOR IS LEAVING***"
 	{
-		"trans"		"***下层电梯正在上升***"
+		"trans"		"下层电梯正在上升"
 	}
 	"***TRAM 1 IS LEAVING***"
 	{
-		"trans"		"***1号索道正在离开***"
+		"trans"		"1号索道正在离开"
 	}
 	"***TRAM 2 IS LEAVING IN 10 SECONDS***"
 	{
-		"trans"		"***2号索道10秒后离开***"
+		"trans"		"2号索道10秒后离开"
 	}
 	"***TRAM 2 IS LEAVING***"
 	{
-		"trans"		"***2号索道正在离开***"
+		"trans"		"2号索道正在离开"
 	}
 	"***CENTER GATE IS OPENING IN 30 SECONDS***"
 	{
-		"trans"		"***中央大门打开于30秒后***"
+		"countdown"		"30"
+		"trans"		"中央大门打开于30秒后"
 	}
 	"***OUTER GATE IS OPENING IN 50 SECONDS***"
 	{
-		"trans"		"***外门打开于50秒后***"
+		"trans"		"外门打开于50秒后"
 	}
 	"***SIMBA IS PRAYING FOR THE TRUTH***"
 	{
@@ -481,7 +501,7 @@
 	}
 	"***CENTER GATE IS OPENING IN 5 SECONDS***"
 	{
-		"trans"		"***中央大门打开于5秒后***"
+		"trans"		"中央大门打开于5秒后"
 	}
 	"***ZAZU IS PRAYING FOR THE TRUTH***"
 	{
@@ -489,156 +509,159 @@
 	}
 	"***CENTER GATE IS OPENING***"
 	{
-		"trans"		"***中央大门正在打开***"
+		"trans"		"中央大门正在打开"
 	}
 	"***LOWER GATE IS OPENING IN 35 SECONDS***"
 	{
-		"trans"		"***下层大门打开于35秒后***"
+		"trans"		"下层大门打开于35秒后"
 	}
 	"***OUTER ELEVATOR IS LEAVING IN 40 SECONDS***"
 	{
-		"trans"		"***外层电梯离开于40秒后***"
+		"trans"		"外层电梯离开于40秒后"
 	}
 	"***OUTER GATE IS OPENING IN 10 SECONDS***"
 	{
-		"trans"		"***外层电梯离开于10秒后***"
+		"countdown"		"10"
+		"trans"		"外层电梯离开于10秒后"
 	}
 	"***OUTER GATE IS OPENING***"
 	{
-		"trans"		"***外层电梯正已离开***"
+		"trans"		"外层电梯正已离开"
 	}
 	"***LOWER GATE IS OPENING IN 5 SECONDS***"
 	{
-		"trans"		"***下层大门打开于5秒后***"
+		"trans"		"下层大门打开于5秒后"
 	}
 	"***ELEVATOR SHAFT GATE IS OPENING IN 30 SECONDS***"
 	{
-		"trans"		"***电梯轴心门启动于30秒后***"
+		"countdown"		"30"
+		"trans"		"电梯轴心门启动于30秒后"
 	}
 	"***LOWER GATE IS OPENING***"
 	{
-		"trans"		"***下层大门正在打开***"
+		"trans"		"下层大门正在打开"
 	}
 	"***OUTER ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
-		"trans"		"***外层电梯离开于5秒后***"
+		"trans"		"外层电梯离开于5秒后"
 	}
 	"***OUTER ELEVATOR IS LEAVING***"
 	{
-		"trans"		"***外层电梯正在离开***"
+		"trans"		"外层电梯正在离开"
 	}
 	"***ELEVATOR SHAFT GATE IS OPENING IN 5 SECONDS***"
 	{
-		"trans"		"***电梯轴心门启动于5秒后***"
+		"trans"		"电梯轴心门启动于5秒后"
 	}
 	"***ELEVATOR SHAFT GATE IS OPENING***"
 	{
-		"trans"		"***电梯轴心门正在启动***"
+		"trans"		"电梯轴心门正在启动"
 	}
 	"***OUTER WALL ENTRANCE IS OPENING IN 30 SECONDS***"
 	{
-		"trans"		"***外层围墙入口打开于30秒后***"
+		"trans"		"外层围墙入口打开于30秒后"
 	}
 	"***OUTER WALL ENTRANCE IS OPENING IN 5 SECONDS***"
 	{
-		"trans"		"***外层围墙入口打开于5秒后***"
+		"trans"		"外层围墙入口打开于5秒后"
 	}
 	"***OUTER WALL ENTRANCE IS OPENING***"
 	{
-		"trans"		"***外层围墙入口正在打开"
+		"trans"		"外层围墙入口正在打开"
 	}
 	"***PLAYER PICKED UP ITEM - ROCKET CANNON***"
 	{
-		"blocked"	"1"
-		"trans"		"***有玩家拾起了火箭炮***"
+		"trans"		"有玩家拾起了火箭炮"
 	}
 	"***UPPER GATE IS OPENING IN 30 SECONDS***"
 	{
-		"trans"		"***上层大门打开于30秒后***"
+		"trans"		"上层大门打开于30秒后"
 	}
 	"***OUTER GATE WILL OPEN IN 20 SECONDS***"
 	{
-		"trans"		"***外层大门打开于20秒后***"
+		"trans"		"外层大门打开于20秒后"
 	}
 	"***LOWER GATE IS OPENING IN 30 SECONDS***"
 	{
-		"trans"		"***下层大门打开于30秒后***"
+		"trans"		"下层大门打开于30秒后"
 	}
 	"***OUTER GATE WILL OPEN IN 5 SECONDS***"
 	{
-		"trans"		"***外层大门打开于5秒后***"
+		"trans"		"外层大门打开于5秒后"
 	}
 	"***MOVE IT***"
 	{
-		"trans"		"***快动身***"
+		"trans"		"快动身"
 	}
 	"***SANTA'S DOOR IS OPENING IN 20 SECONDS***"
 	{
-		"trans"		"***BOSS门打开于20秒后***"
+		"countdown"		"20"
+		"trans"		"BOSS门打开于20秒后"
 	}
 	"***UPPER GATE IS OPENING***"
 	{
-		"trans"		"***上层大门正在打开"
+		"trans"		"上层大门正在打开"
 	}
 	"***SANTA'S DOOR IS OPENING***"
 	{
-		"trans"		"***BOSS房大门正在打开***"
+		"trans"		"BOSS房大门正在打开"
 	}
 	"***SANTA'S DOOR IS CLOSING IN 5 SECONDS***"
 	{
-		"trans"		"***BOSS房大门5秒后关闭***"
+		"trans"		"BOSS房大门5秒后关闭"
 	}
 	"***SANTA'S DOOR IS CLOSING IN 4 SECONDS***"
 	{
-		"trans"		"***BOSS房大门4秒后关闭***"
+		"trans"		"BOSS房大门4秒后关闭"
 	}
 	"***SANTA'S DOOR IS CLOSING IN 3 SECONDS***"
 	{
-		"trans"		"***BOSS房大门3秒后关闭***"
+		"trans"		"BOSS房大门3秒后关闭"
 	}
 	"***SANTA'S DOOR IS CLOSING IN 2 SECONDS***"
 	{
-		"trans"		"***BOSS房大门2秒后关闭***"
+		"trans"		"BOSS房大门2秒后关闭"
 	}
 	"***SANTA'S DOOR IS CLOSING IN 1 SECONDS***"
 	{
-		"trans"		"***BOSS房大门1秒后关闭***"
+		"trans"		"BOSS房大门1秒后关闭"
 	}
 	"***SANTA'S DOOR IS CLOSING***"
 	{
-		"trans"		"***BOSS房已封闭***"
+		"trans"		"BOSS房已封闭"
 	}
 	"*** - SANTA - ***"
 	{
-		"trans"		"***BOSS来了***"
+		"trans"		"BOSS来了"
 	}
 	"***YOU HAVE DEFEATED SANTA***"
 	{
-		"trans"		"***BOSS被我们干死了***"
+		"trans"		"BOSS被我们干死了"
 	}
 	"***FOR NOW... IT SEEMS***"
 	{
-		"trans"		"***至少看上去被我们干死了***"
+		"trans"		"至少看上去被我们干死了"
 	}
 	"***UPPER TOWER DOOR IS OPENING IN 20 SECONDS***"
 	{
-		"trans"		"***上层塔门开启于20秒后***"
+		"trans"		"上层塔门开启于20秒后"
 	}
 	"***THE FINAL ELEVATOR IS LEAVING IN 50 SECONDS***"
 	{
-		"trans"		"***最终电梯离开于50秒后***"
+		"countdown"		"50"
+		"trans"		"最终电梯离开于50秒后"
 	}
 	"***UPPER TOWER DOOR IS OPENING***"
 	{
-		"trans"		"***上层塔门正在打开***"
+		"trans"		"上层塔门正在打开"
 	}
 	"***MUFASA IS PRAYING FOR THE TRUTH***"
 	{
-		"trans"		"***老狮王的信标已触发***"
+		"trans"		"老狮王的信标已触发"
 	}
 	"***THE TRUE PATH IS CLEAR NOW***"
 	{
-		"trans"		"***前方道路已肃清***"
+		"trans"		"前方道路已肃清"
 	}
 	"***YOU SUDDENLY FEEL UNEASY ABOUT FACING SANTA...***"
 	{
@@ -650,7 +673,8 @@
 	}
 	"***THE FINAL ELEVATOR IS LEAVING IN 20 SECONDS***"
 	{
-		"trans"		"***最终电梯离开于20秒后***"
+		"countdown"		"20"
+		"trans"		"最终电梯离开于20秒后"
 	}
 	"***YOU DO NOT WANT TO DO THIS ANYMORE...***"
 	{
@@ -662,62 +686,62 @@
 	}
 	"***THE FINAL ELEVATOR IS LEAVING IN 10 SECONDS***"
 	{
-		"trans"		"***最终电梯离开于10秒后***"
+		"trans"		"最终电梯离开于10秒后"
 	}
 	"***THE FINAL ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
-		"trans"		"***最终电梯离开于5秒后***"
+		"trans"		"最终电梯离开于5秒后"
 	}
 	"***THE FINAL ELEVATOR IS LEAVING***"
 	{
-		"trans"		"***最终电梯正在离开***"
+		"trans"		"最终电梯正在离开于"
 	}
 	"***FINAL GATE IS CLOSING IN 15 SECONDS***"
 	{
-		"trans"		"***最终大门关闭于15秒后***"
+		"trans"		"最终大门关闭于15秒后"
 	}
 	"***FINAL GATE IS CLOSING IN 5 SECONDS***"
 	{
-		"trans"		"***最终大门关闭于5秒后***"
+		"trans"		"最终大门关闭于5秒后"
 	}
 	"***FINAL GATE IS CLOSING***"
 	{
-		"trans"		"***最终大门正在关闭***"
+		"trans"		"最终大门正在关闭"
 	}
 	"*** - BIG SANTA - ***"
 	{
-		"trans"		"***淦你爸爸!这个BOSS还没死!***"
+		"trans"		"淦你爸爸!这个BOSS还没死!"
 	}
 	"***YOU HAVE DEFEATED SANTA CLAUS***"
 	{
-		"trans"		"***这回BOSS算是死透了***"
+		"trans"		"这回BOSS算是死透了"
 	}
 	"***MUFASAS DEATH HAS BEEN AVENGED***"
 	{
 		"blocked"		"1"
-		"trans"		"***已触发MUFASAS***"
+		"trans"		"已触发MUFASAS"
 	}
 	"***PEACE WILL NOW SPREAD THROUGH THE LANDS***"
 	{
 		"blocked"		"1"
-		"trans"		"***已触发MUFASAS***"
+		"trans"		"已触发MUFASAS"
 	}
 	"***THANK YOU FOR PLAYING***"
 	{
-		"trans"		"***感谢游玩***"
+		"trans"		"感谢游玩"
 	}
 	"***MAP MADE BY - LUFFAREN***"
 	{
-		"trans"		"***LUFFAREN倾情巨作***"
+		"trans"		"LUFFAREN倾情巨作"
 	}
 	"***THIS IS WRONG...***"
 	{
 		"command"	"szw_enabled"
-		"trans"		"***不对头...***"
+		"trans"		"不对头..."
 	}
 	"***THIS.. IS THE TRUTH***"
 	{
-		"trans"		"***我们的旅程还没有结束...***"
+		"trans"		"我们的旅程还没有结束..."
 	}
 	"***SOCRATES IS JUDGING YOU***"
 	{
@@ -753,19 +777,19 @@
 	}
 	"***THE TRUE TRAM IS LEAVING IN 30 SECONDS***"
 	{
-		"trans"		"***索道30秒后离开***"
+		"trans"		"索道30秒后离开"
 	}
 	"***THE TRUE TRAM IS LEAVING IN 5 SECONDS***"
 	{
-		"trans"		"***索道5秒后离开***"
+		"trans"		"索道5秒后离开"
 	}
 	"***THE TRUE TRAM IS LEAVING***"
 	{
-		"trans"		"***索道正在离开***"
+		"trans"		"索道正在离开"
 	}
 	"***SPECIAL SOCRATES ZOMBIE TELEPORT IN 5***"
 	{
-		"trans"		"***僵尸5秒传送后***"
+		"trans"		"僵尸5秒后传送"
 	}
 	"***4***"
 	{
@@ -793,15 +817,16 @@
 	}
 	"***THE TRUE ELEVATOR IS LEAVING IN 30 SECONDS***"
 	{
-		"trans"		"***电梯离开于30秒后***"
+		"countdown"		"30"
+		"trans"		"电梯离开于30秒后"
 	}
 	"***THE TRUE ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
-		"trans"		"***电梯离开于5秒后***"
+		"trans"		"电梯离开于5秒后"
 	}
 	"***THE TRUE ELEVATOR IS LEAVING***"
 	{
-		"trans"		"***电梯已离开***"
+		"trans"		"电梯已离开"
 	}
 	"***SOCRATES WISHES SILENTLY***"
 	{
@@ -897,93 +922,92 @@
 	}
 	"***PLAYER PICKED UP ITEM - HERDER***"
 	{
-		"blocked"	"1"
-		"trans"		"***有玩家拾起了HERDER***"
+		"trans"		"有玩家拾起了HERDER"
 	}
 	"*** - TRUE SANTA - ***"
 	{
-		"trans"		"***放你X的血!这才是BOSS的真身!***"
+		"trans"		"放你X的血!这才是BOSS的真身!"
 	}
 	"***SPEEDER ITEMS ACTIVATED***"
 	{
-		"trans"		"***加速物品已启动"
+		"trans"		"加速物品已启动"
 	}
 	"***YOU HAVE DONE IT!***"
 	{
-		"trans"		"***你办成了!!***"
+		"trans"		"你办成了!!"
 	}
 	"***YOU HAVE DEFEATED SOCRATES - THE TRUE SANTA!***"
 	{
-		"trans"		"***这回BOSS死透了!***"
+		"trans"		"这回BOSS死透了!"
 	}
 	"***YOU WILL BE REMEMBERED AS CHAMPIONS***"
 	{
 		"command"		"szw_disable"
-		"trans"		"***你们搞定了这张智障地图!***"
+		"trans"		"你们搞定了这张智障地图!"
 	}
 	"***THE END***"
 	{
-		"trans"		"***剧·终***"
+		"trans"		"剧·终"
 	}
 	"***THE ETERNAL TRUTH LOOMS***"
 	{
-		"trans"		"***LUFFAREN的脑洞剧场到此告一段落***"
+		"trans"		"LUFFAREN的脑洞剧场到此告一段落"
 	}
 	"^That was the stupidest thing i've ever heard as a map"
 	{
-		"trans"		"***^That was the stupidest thing i've ever heard as a map***"
+		"trans"		"^That was the stupidest thing i've ever heard as a map"
 	}
-	"ALL HAIL LUFFAREN, THE GOD OF BEAVERS AND DREAMS!***"
+	"ALL HAIL LUFFAREN, THE GOD OF BEAVERS AND DREAMS!"
 	{
-		"trans"		"***ALL HAIL LUFFAREN, THE GOD OF BEAVERS AND DREAMS!***"
+		"trans"		"ALL HAIL LUFFAREN, THE GOD OF BEAVERS AND DREAMS!"
 	}
 	"What"
 	{
-		"trans"		"***What***"
+		"trans"		"What"
 	}
 	"***SEWER BLASTDOOR WILL OPEN IN 40 SECONDS***"
 	{
-		"trans"		"***下水道大门启动于40秒后***"
+		"trans"		"下水道大门启动于40秒后"
 	}
 	"***SEWER BLASTDOOR IS OPENING***"
 	{
-		"trans"		"***下水道大门正在打开***"
+		"trans"		"下水道大门正在打开"
 	}
 	"***ZOMBIE DETECTED - YOU FAIL***"
 	{
-		"trans"		"***有僵尸闯进来了 - 僵尸胜利!***"
+		"trans"		"有僵尸闯进来了 - 僵尸胜利!"
 	}
 	"***SECRET SANTA CHAPEL DOOR IS OPENING IN 20 SECONDS*** "
 	{
-		"trans"		"***门开于20秒后***"
+		"trans"		"门开于20秒后"
 	}
 	"***SECRET SANTA CHAPEL DOOR IS OPENING*** "
 	{
-		"trans"		"***门正在打开***"
+		"trans"		"门正在打开"
 	}
 	"***RIGHT RIGHT SECOND FACE WALL OPENS IN 20 SECONDS***"
 	{
-		"trans"		"***右方大门开启于20秒后***"
+		"trans"		"右方大门开启于20秒后"
 	}
 	"***RIGHT RIGHT SECOND FACE WALL HAS EXPLODED***"
 	{
-		"trans"		"***右方墙壁已爆破***"
+		"trans"		"右方墙壁已爆破"
 	}
 	"***THE GATEFACE IS PLEASED WITH YOUR CHOCOLATE SERVICE***"
 	{
-		"trans"		"***你们喂饱了这个智障***"
+		"trans"		"你们喂饱了这个智障"
 	}
 	"***YOU MAY NOW ENTER***"
 	{
-		"trans"		"***现在可以进去了***"
+		"trans"		"现在可以进去了"
 	}
 	"***HEAD TOWARDS SANTA'S FACTORY***"
 	{
-		"trans"		"***杀向BOSS的工厂***"
+		"trans"		"杀向BOSS的工厂"
 	}
 	"***BE PREPARED FOR ANYTHING***"
 	{
-		"trans"		"***小心从天而降的敌人...***"
+		"trans"		"小心从天而降的猴子..."
 	}
 	"***HITLERS TEETH ARE NOW BROKEN***"
 	{
@@ -995,60 +1019,59 @@
 	}
 	"Everyone should really consider sending Luffaren some nudes"
 	{
-		"trans"		"***Everyone should really consider sending Luffaren some nudes"
+		"trans"		"Everyone should really consider sending Luffaren some nudes"
 	}
 	"***BLACK HOLE***"
 	{
-		"trans"		"***黑洞已触发***"
+		"trans"		"黑洞已触发"
 	}
 	"***BLACK HOLE AND NAZI NIPPLE HAS BEEN ACTIVATED***"
 	{
-		"trans"		"***黑洞与元首尖头已触发***"
+		"trans"		"黑洞与元首尖头已触发"
 	}
 	"***GLASS WILL BREAK IN 5 SECONDS***"
 	{
-		"trans"		"***玻璃破裂于5秒后***"
+		"trans"		"玻璃破裂于5秒后"
 	}
 	"***LEFT LEFT SECOND FACE WALL OPENS IN 30 SECONDS***"
 	{
-		"trans"		"***左侧墙30秒后开启***"
+		"trans"		"左侧墙30秒后开启"
 	}
 	"***LEFT LEFT SECOND FACE WALL HAS EXPLODED***"
 	{
-		"trans"		"***左侧墙已爆破***"
+		"trans"		"左侧墙已爆破"
 	}
 	"***PLAYER PICKED UP ITEM - BEAM CANNON***"
 	{
-		"blocked"	"1"
-		"trans"		"***有玩家拾起了光点枪***"
+		"trans"		"有玩家拾起了光点枪"
 	}
 	"EVERYONE GO HERE AND TELL KAEMON TO STOP SLACKING - http:"
 	{
-		"trans"		"***EVERYONE GO HERE AND TELL KAEMON TO STOP SLACKING - http:"
+		"trans"		"EVERYONE GO HERE AND TELL KAEMON TO STOP SLACKING - http:"
 	}
 	"***LUFFAREN HAS ENTERED THE GAME***"
 	{
-		"trans"		"***本图作者Luffaren进入了服务器***"
+		"trans"		"本图作者Luffaren进入了服务器"
 	}
 	"***OPENING DOORS IN 10 SECONDS***"
 	{
-		"trans"		"***门打开于10秒后***"
+		"trans"		"门打开于10秒后"
 	}
 	"***OPENING DOORS IN 5 SECONDS***"
 	{
-		"trans"		"***门打开于5秒后***"
+		"trans"		"门打开于5秒后"
 	}
 	"***OPENING DOORS***"
 	{
-		"trans"		"***门正在打开"
+		"trans"		"门正在打开"
 	}
 	"***FIND THE BABY - PRESS THE BUTTON IN ORDER TO OPEN THE SEXY VENT GATE***"
 	{
-		"trans"		"***找到正确的按钮来打开大门***"
+		"trans"		"找到正确的按钮来打开大门"
 	}
 	"***THE BABYLON BABY BUTTON HAS BEEN TOUCHED***"
 	{
-		"trans"		"***按钮已触发***"
+		"trans"		"按钮已触发"
 	}
 	"***THE BABYLON BABY IS PLEASED WITH YOUR ASSISTANCE***"
 	{
@@ -1056,75 +1079,75 @@
 	}
 	"SEND ALL YOUR NUDES TO LUFFAREN!!!"
 	{
-		"trans"		"***SEND ALL YOUR NUDES TO LUFFAREN!!!***"
+		"trans"		"SEND ALL YOUR NUDES TO LUFFAREN!!!"
 	}
 	"^Wtf are you even talking about?"
 	{
-		"trans"		"***你TM在说什么?***"
+		"trans"		"你TM在说什么?"
 	}
 	"..."
 	{
-		"trans"		"***...***"
+		"trans"		"..."
 	}
 	"***SEXY VENT GATE IS OPENING IN 20 SECONDS***"
 	{
-		"trans"		"***R18坡道门开启于20秒后***"
+		"trans"		"R18坡道门开启于20秒后"
 	}
 	"***SEXY VENT GATE IS OPENING IN 5 SECONDS***"
 	{
-		"trans"		"***R18坡道门开启于5秒后***"
+		"trans"		"R18坡道门开启于5秒后"
 	}
 	"***SEXY VENT GATE IS OPENING***"
 	{
-		"trans"		"***R18坡道门正在开启***"
+		"trans"		"R18坡道门正在开启"
 	}
 	"***OPENING BASE SOCRATES ELEVATOR GATE***"
 	{
-		"trans"		"***电梯门正在打开***"
+		"trans"		"电梯门正在打开"
 	}
 	"***TIP - YOU CAN BREAK THE RUSTY METAL***"
 	{
-		"trans"		"***提示:可以开枪打碎侧边的铁板***"
+		"trans"		"提示:可以开枪打碎侧边的铁板"
 	}
 	"***FIND THE BUTTONS***"
 	{
-		"trans"		"***找到按钮***"
+		"trans"		"找到按钮"
 	}
 	"***INNER UPPER GATE IS OPENING IN 40 SECONDS***"
 	{
-		"trans"		"***内部上层大门开启于40秒后***"
+		"trans"		"内部上层大门开启于40秒后"
 	}
 	"***INNER UPPER GATE IS OPENING IN 5 SECONDS***"
 	{
-		"trans"		"***内部上层大门开启于5秒后***"
+		"trans"		"内部上层大门开启于5秒后"
 	}
 	"***INNER UPPER GATE IS OPENING***"
 	{
-		"trans"		"***内部上层大门已开启"
+		"trans"		"内部上层大门已开启"
 	}
 	"***MAP RESET - GOING BACK TO PROLOUGE***"
 	{
-		"trans"		"***由于你未触发完全信标按钮,地图已重置为序章关卡...***"
+		"trans"		"由于你未触发完全信标按钮,地图已重置为序章关卡..."
 	}
 	"***IT FEELS LIKE YOU MISSED SOMETHING***"
 	{
-		"trans"		"***回头再玩一遍!触发所有该触发的东西!!***"
+		"trans"		"回头再玩一遍!触发所有该触发的东西!!"
 	}
 	"***IS THIS THE REAL ENDING?***"
 	{
-		"trans"		"***然而这是一个假结局***"
+		"trans"		"然而这是一个假结局"
 	}
 	"***WHAT...***"
 	{
-		"trans"		"***什么鬼....***"
+		"trans"		"什么鬼...."
 	}
 	"***STAGE SET - ACT III***"
 	{
-		"trans"		"***权限X已调关至:第三章***"
+		"trans"		"权限X已调关至:第三章"
 	}
 	"***THE ULTIMATE MURDER BUTTON HAS BEEN PRESSED***"
 	{
-		"trans"		"***按钮已触发***"
+		"trans"		"按钮已触发"
 	}
 	"***MERRY XMAS***"
 	{
@@ -1136,23 +1159,23 @@
 	}
 	"***NOTHING IS NOT REAL***"
 	{
-		"trans"		"***唯物主义即真理***"
+		"trans"		"唯物主义即真理"
 	}
-	"Hey there everyone, you should totally send Luffaren some hot nudes ASAP!***"
+	"Hey there everyone, you should totally send Luffaren some hot nudes ASAP!"
 	{
-		"trans"		"***Hey there everyone, you should totally send Luffaren some hot nudes ASAP!***"
+		"trans"		"Hey there everyone, you should totally send Luffaren some hot nudes ASAP!"
 	}
 	"Type 1 if you are jerking it right now"
 	{
-		"trans"		"***Type 1 if you are jerking it right now***"
+		"trans"		"Type 1 if you are jerking it right now"
 	}
 	"***LUFFAREN HAS ENTERED THE ADMIN ROOM***"
 	{
-		"trans"		"***有人进入了跳关房***"
+		"trans"		"有人进入了跳关房"
 	}
 	"U WOT M8"
 	{
-		"trans"		"***U WOT M8***"
+		"trans"		"U WOT M8"
 	}
 	"***YOU HAVE DEFILED MUFASAS CORPSE***"
 	{
@@ -1160,7 +1183,7 @@
 	}
 	"***SKIPPING CUTSCENE***"
 	{
-		"trans"		"***跳过删减内容***"
+		"trans"		"跳过删减内容"
 	}
 	"***YOU SICK BASTARDS...***"
 	{
@@ -1168,11 +1191,11 @@
 	}
 	"***ZOMBIES GOT INSIDE - YOU LOSE***"
 	{
-		"trans"		"***有僵尸闯进了终点 - 你们输了!***"
+		"trans"		"有僵尸闯进了终点 - 你们输了!"
 	}
 	"***STAGE SET - ACT II***"
 	{
-		"trans"		"***权限X已调关至:第二章***"
+		"trans"		"权限X已调关至:第二章"
 	}
 	"***IT HAS COME TO THE MAPMAKERS ATTENTION THAT YOU DON'T ENJOY HIS FRESH MIXTAPE...***"
 	{
@@ -1200,19 +1223,19 @@
 	}
 	"***STAGE SET - ACT I***"
 	{
-		"trans"		"***权限X已调关至:第一章"***
+		"trans"		"权限X已调关至:第一章"
 	}
 	"YOU AND EVERYONE YOU KNOW WILL DIE ONE DAY"
 	{
-		"trans"		"***YOU AND EVERYONE YOU KNOW WILL DIE ONE DAY"
+		"trans"		"YOU AND EVERYONE YOU KNOW WILL DIE ONE DAY"
 	}
-	"HEY GUYS!***"
+	"HEY GUYS!"
 	{
-		"trans"		"***HEY GUYS!***"
+		"trans"		"HEY GUYS!"
 	}
 	"HEY EVERYONE! Kaemon is a wet biscuit!!!"
 	{
-		"trans"		"***HEY EVERYONE! Kaemon is a wet biscuit!!!"
+		"trans"		"HEY EVERYONE! Kaemon is a wet biscuit!!!"
 	}
 	"***WANNA SKIP TO EXTREME MODE? > STEP ON THE PLATFORM***"
 	{

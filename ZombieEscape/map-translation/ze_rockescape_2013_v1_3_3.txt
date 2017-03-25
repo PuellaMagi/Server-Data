@@ -10,6 +10,7 @@
 	}
 	"-=[ Detonation in 20 seconds ]=-"
 	{
+		"countdown" "20" 
 		"trans"		"20秒后爆破"
 	}
 	"-=[ Detonation in 5 seconds ]=-"
@@ -34,6 +35,7 @@
 	}
 	"-=[ Detonation in 15 seconds ]=-"
 	{
+		"countdown" "15" 
 		"trans"		"15秒后爆破"
 	}
 	"-=[ Final C4 has been armed ]=-"
@@ -46,6 +48,7 @@
 	}
 	"-=[ Lift starting in 45 seconds ]=-"
 	{
+		"countdown" "45" 
 		"trans"		"电梯45秒后启动"
 	}
 	"-=[ C4 Detonation in 5 seconds... ]=-"
@@ -98,6 +101,7 @@
 	}
 	"-=[ Command exit opening in 60 seconds ]=-"
 	{
+		"countdown" "60" 
 		"trans"		"堡垒出口60秒后打开"
 	}
 	"-=[ Boats ready in 30 seconds... ]=-"
@@ -122,6 +126,7 @@
 	}
 	"-=[ Nuke detonation in 10 seconds ]=-"
 	{
+		"countdown" "10" 
 		"trans"		"核爆10秒后启动"
 	}
 	"-=[ Nuke detonation in 5 seconds ]=-"

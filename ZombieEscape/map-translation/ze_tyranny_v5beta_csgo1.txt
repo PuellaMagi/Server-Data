@@ -34,7 +34,6 @@
 	}
 	">>> PLAYER HAS PICKED UP ICE <<<"
 	{
-		"blocked"	"1"
 		"trans"		"玩家拿起了冰神器 可以开心的刷僵尸啦"
 	}
 	">>> HOLD 25 SECONDS <<<"
@@ -63,12 +62,10 @@
 	}
 	">>> PLAYER HAS PICKED UP PUSH <<<"
 	{
-		"blocked"	"1"
 		"trans"		"玩家拿起了风神器（小心使用哦）"
 	}
 	">>> PLAYER HAS PICKED UP FIRE <<<"
 	{
-		"blocked"	"1"
 		"trans"		"玩家拿起了火神器 好烫啊"
 	}
 	">>> HOLD 15 SECONDS <<<"
@@ -77,8 +74,7 @@
 	}
 	">>> PLAYER HAS PICKED UP HEAL <<<"
 	{
-		"blocked"	"1"
-		"trans"		"玩家拿起了奶神器~"
+		"trans"		"玩家拿起了奶神器 希望是兔子拿的哦~"
 	}
 	">>> SPIDER IS COMING <<<"
 	{
@@ -118,12 +114,10 @@
 	}
 	">>> PLAYER HAS PICKED UP AMMO <<<"
 	{
-		"blocked"	"1"
 		"trans"		"玩家拿起弹药神器 我们有无限子弹啦"
 	}
 	">>> PLAYER HAS PICKED UP LIGHTNING <<<"
 	{
-		"blocked"	"1"
 		"trans"		"玩家拿起电神器 不要去传送点开哦"
 	}
 	">>> TROLL IS COMING <<<"
@@ -148,7 +142,6 @@
 	}
 	">>> PLAYER HAS PICKED UP HEDGE <<<"
 	{
-		"blocked"	"1"
 		"trans"		"玩家拿起了墙神器 不会把自己盖进去吧"
 	}
 	">>> HOLD 30 SECONDS <<<"
@@ -157,12 +150,10 @@
 	}
 	">>> PLAYER HAS PICKED UP KILLER <<<"
 	{
-		"blocked"	"1"
 		"trans"		"有玩家拿到了传说中的神器 不过好像就可以开一次啊"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE FIRE <<<"
 	{
-		"blocked"	"1"
 		"trans"		"有僵尸拿到了僵尸的火了 情况不好啊"
 	}
 	">>> DRAGON IS COMING <<<"
@@ -239,22 +230,18 @@
 	}
 	">>> GARGANTUA USED ICE <<<"
 	{
-		"blocked"	"1"
 		"trans"		"巨人使用冰 好冷啊"
 	}
 	">>> GARGANTUA USED FIRE <<<"
 	{
-		"blocked"	"1"
 		"trans"		"巨人使用了火 希望不要跟这我喷"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<"
 	{
-		"blocked"	"1"
 		"trans"		"玩家已经捡起了僵尸治疗"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE INVISIBLE <<<"
 	{
-		"blocked"	"1"
 		"trans"		"玩家已经捡起了让你看不见的魔法"
 	}
 	"**Jetstream Sam has been defeated!**"
@@ -295,17 +282,14 @@
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<"
 	{
-		"blocked"	"1"
 		"trans"		"玩家捡到了僵尸的重力 我可不想进僵尸的怀抱"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE POISON <<<"
 	{
-		"blocked"	"1"
 		"trans"		"玩家捡到了僵尸毒"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE DRAG <<<"
 	{
-		"blocked"	"1"
 		"trans"		">>> PLAYER HAS PICKED UP ZOMBIE DRAG <<<"
 	}
 	">>> BREAK STATUE TO GET ITEM <<<"
@@ -314,7 +298,6 @@
 	}
 	">>> PLAYER HAS PICKED UP GRAVITY <<<"
 	{
-		"blocked"	"1"
 		"trans"		"好消息是玩家已经捡起了重力"
 	}
 	">>> NOOB TRASHED <<<"
@@ -355,7 +338,6 @@
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE KILLER <<<"
 	{
-		"blocked"	"1"
 		"trans"		"坏消息僵尸拿了秒杀"
 	}
 	">>> BALROG USED FIRE <<<"

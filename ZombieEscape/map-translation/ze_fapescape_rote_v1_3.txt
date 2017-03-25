@@ -2,7 +2,7 @@
 {
 	"*** Level 1 ***"
 	{
-		"trans"		"第一关"
+		"trans"		"{Orange}第一关{default}"
 	}
 	"* Turning music on *"
 	{
@@ -11,6 +11,7 @@
 	}
 	"*** Doors open in 35 Seconds ***"
 	{
+		"countdown"		"35"
 		"trans"		"门将在35秒后打开"
 	}
 	"*** Player has picked up EyeTech Cannon ***"
@@ -23,6 +24,7 @@
 	}
 	"*** Doors open in 25 Seconds ***"
 	{
+		"countdown"		"25"
 		"trans"		"门将在25秒后打开"
 	}
 	"*** Player has picked up Pipe bombs ***"
@@ -39,10 +41,12 @@
 	}
 	"*** Doors open in 10 Seconds ***"
 	{
+		"countdown"		"10"
 		"trans"		"门将在10秒后打开"
 	}
 	"*** Doors are opening ***"
 	{
+		"countdown"		"30"
 		"trans"		"开了"
 	}
 	"*** Bridge activates in 30 seconds ***"
@@ -51,6 +55,7 @@
 	}
 	"*** Bridge activates in 15 seconds ***"
 	{
+		"countdown"		"15"
 		"trans"		"桥将在15后激活"
 	}
 	"*** Hold until the path is cleared ***"
@@ -63,10 +68,12 @@
 	}
 	"*** Door opens in 25 seconds ***"
 	{
+		"countdown"		"25"
 		"trans"		"门将在25秒后打开"
 	}
 	"*** Door opens in 10 seconds ***"
 	{
+		"countdown"		"10"
 		"trans"		"门将在10秒后打开"
 	}
 	"*** DOOR IS OPENING ***"
@@ -88,7 +95,7 @@
 	}
 	"*** It has 1 use ***"
 	{
-		"trans"		"奥利奥只能用一次"
+		"trans"		"{darkred}奥利奥只能用一次{default}"
 	}
 	"*** Player has picked up Lego Maker ***"
 	{
@@ -114,6 +121,7 @@
 	}
 	"*** Hold them back for 10 seconds ***"
 	{
+		"countdown"		"10"
 		"trans"		"再守10秒钟"
 	}
 	"*** FALL BACK ***"
@@ -148,11 +156,13 @@
 	}
 	"*** Hold them back for final 20 seconds! ***"
 	{
+		"countdown"		"20"
 		"trans"		"坚守20秒"
 	}
 	"*** 10 seconds left ***"
 	{
-		"trans"		"还剩10秒"
+		"countdown"		"10"
+		"trans"		"还剩{darkred}10{default}秒"
 	}
 	"*** Zombie at the end ***"
 	{
@@ -164,14 +174,15 @@
 	}
 	"*** Level Completed! ***"
 	{
-		"trans"		"关卡已完成!"
+		"trans"		"{green}关卡已完成{default}!"
 	}
 	"*** Level 2 ***"
 	{
-		"trans"		"第二关"
+		"trans"		"{Orange}第二关{default}"
 	}
 	"*** Doors open in 30 seconds ***"
 	{
+		"countdown"		"30"
 		"trans"		"门将在30秒后打开"
 	}
 	"*** Press both buttons at the same time to open the door! ***"
@@ -184,6 +195,7 @@
 	}
 	"*** Door opens in 30 seconds! ***"
 	{
+		"countdown"		"30"
 		"trans"		"门将在30秒后打开"
 	}
 	"*** FALL BACK ****"
@@ -196,6 +208,7 @@
 	}
 	"*** Final door opens in 25 seconds! ***"
 	{
+		"countdown"		"25"
 		"trans"		"最后一道门开启于25秒后"
 	}
 	"*** Almost at the end.. ***"
@@ -208,6 +221,7 @@
 	}
 	"*** 15 seconds left ***"
 	{
+		"countdown"		"15"
 		"trans"		"15秒剩余"
 	}
 	"*** THIS IS THE FINAL HOLD ***"
@@ -216,22 +230,26 @@
 	}
 	"*** Hold for 30 seconds! ***"
 	{
+		"countdown"		"30"
 		"trans"		"坚守30秒!"
 	}
 	"*** 20 more seconds! ***"
 	{
+		"countdown"		"20"
 		"trans"		"还剩20秒!"
 	}
 	"*** 10 more seconds! ***"
 	{
+		"countdown"		"10"
 		"trans"		"还剩十秒!"
 	}
 	"*** Level 3 ***"
 	{
-		"trans"		"第三关"
+		"trans"		"{Orange}第三关{default}"
 	}
 	"*** Door opens in 25 seconds! ***"
 	{
+		"countdown"		"25"
 		"trans"		"门将在25秒后打开!"
 	}
 	"*** Elevator leaves in 25 seconds *** "
@@ -248,6 +266,7 @@
 	}
 	"*** Doors are opening in 25 seconds ***"
 	{
+		"countdown"		"25"
 		"trans"		"门将在25秒后打开!"
 	}
 	"*** RESIST ***"
@@ -284,6 +303,7 @@
 	}
 	"*** Elevator descends in 20 seconds ***"
 	{
+		"countdown"		"20"
 		"trans"		"电梯20秒后离开"
 	}
 	"*** HOLD THEM BACK  ***"
