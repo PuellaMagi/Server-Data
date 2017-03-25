@@ -41,7 +41,6 @@
 		"** GATES OPEN IN 30 SECONDS **"
 		{
 			"trans"		"门开于30秒后"
-			"countdown"		"30"
 		}
 		"** GATE OPENS IN 5 SECONDS **"
 		{
@@ -58,7 +57,6 @@
 		"** HOLD 20 SECONDS BEFORE A RANDOM PATH OPENS **"
 		{
 			"trans"		"坚守20秒直到随机一边的门打开"
-			"countdown"		"20"
 		}
 		"** WE ARE ALMOST OUT THIS FOREST **"
 		{
@@ -75,7 +73,6 @@
 		"** 15 MORE SECONDS **"
 		{
 			"trans"		"15秒剩余"
-			"countdown"		"15"
 		}
 		"** 5 seconds left **"
 		{
@@ -222,7 +219,6 @@
 					"** HOLD THE ENTRANCE FOR 30 SECONDS **"
 					{
 						"trans"		"坚守入口30秒"
-						"countdown"		"30"
 					}
 					"** THIS IS THE END OF THE FIRST STAGE **"
 					{
@@ -283,12 +279,10 @@
 					"** BARRIER 1 OPENS IN 15 SECS **"
 					{
 						"trans"		"屏障降在15秒内消失..."
-						"countdown"		"15"
 					}
 					"** BARRIER 2 OPENS IN 15 SECS"
 					{
 						"trans"		"屏障降在15秒内消失..."
-						"countdown"		"15"
 					}
 					"** COVER AND WAIT FOR SOMETHING TO HAPPEN **"
 					{
@@ -301,7 +295,6 @@
 					"** MYSTERIOUS ROOM WILL OPEN IN 30 SECONDS **"
 					{
 						"trans"		"神秘房间将在30秒后开启"
-						"countdown"		"30"
 					}
 					"** 5 MORE SECONDS LEFT BEFORE ENTERING THE MYSTERIOUS ROOM **"
 					{
@@ -366,6 +359,7 @@
 				}
 				"** Player has acquired the esper MATEUS **"
 				{
+					"blocked"	"1"
 					"trans"		"有玩家拾起了背徳の皇帝[秒杀区域内僵尸]"
 				}
 				"** The esper MATEUS has been summoned **"
@@ -482,10 +476,12 @@
 				}
 				"** Player has acquired a HOLY-POTION **"
 				{
+					"blocked"	"1"
 					"trans"		"有玩家拾起了弹药药水[数秒内免疫]"
 				}
 				"** Player has acquired a HP-POTION **"
 				{
+					"blocked"	"1"
 					"trans"		"有玩家拾起了治疗药水[回复150HP]"
 				}
 				"** ALL STATUES HAVE BEEN ALIGNED.. **"
@@ -502,6 +498,7 @@
 				}
 				"** Player has acquired a SPEED-POTION **"
 				{
+					"blocked"	"1"
 					"trans"		"有玩家拾起了速度药水[短暂加速]"
 				}
 				"** HOLD HERE TILL THE GATE OPENS **"
@@ -514,10 +511,12 @@
 				}
 				"** Player has acquired a AMMO-POTION **"
 				{
+					"blocked"	"1"
 					"trans"		"有玩家拾起了弹药药水[数秒内无限子弹]"
 				}
 				"** Player has acquired a HI-POTION **"
 				{
+					"blocked"	"1"
 					"trans"		"有玩家拾起了治疗药水"
 				}
 				"** DOOR WILL OPEN IN 25 SECONDS **"

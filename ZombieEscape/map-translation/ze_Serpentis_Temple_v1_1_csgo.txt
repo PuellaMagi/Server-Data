@@ -49,6 +49,7 @@
 	}
 	"*** Poison Snake has been picked ***"
 	{
+		"blocked"	"1"
 		"trans"		"*** Poison Snake has been picked ***"
 	}
 	"*** DOOR OPEN IN 20 SECONDS ***"
@@ -63,11 +64,13 @@
 	{
 		"Ammo Snake has been picked ***"
 		{
+			"blocked"	"1"
 			"trans"		"*** Heal/Ammo Snake has been picked ***"
 		}
 	}
 	"*** Fire Snake has been picked ***"
 	{
+		"blocked"	"1"
 		"trans"		"*** Fire Snake has been picked ***"
 	}
 	"*** AFK TELEPORT IN 15 SECONDS ***"

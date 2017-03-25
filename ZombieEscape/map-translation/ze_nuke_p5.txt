@@ -2,7 +2,6 @@
 {
 	"Please wait 20 seconds before the door opening"
 	{
-		"countdown" "20"
 		"trans"		"门开于20秒后"
 	}
 	"Welcome ! Map made by Valve and zombified by Obscuri"
@@ -19,7 +18,6 @@
 	}
 	"***RESIST 30 SECONDS BEHIND THE BOXES***"
 	{
-		"countdown" "30"
 		"trans"		"门开于30秒后"
 	}
 	"***5 SECONDS***"
@@ -28,7 +26,6 @@
 	}
 	"***RESIST 20 SECONDS***"
 	{
-		"countdown" "20"
 		"trans"		"坚守20秒"
 	}
 	"***RUN***"
@@ -37,12 +34,10 @@
 	}
 	"10 seconds until the fence break"
 	{
-		"countdown" "10"
 		"trans"		"三楼围栏开放于10秒后"
 	}
 	"***20 SECONDS FOR TELEPORT***"
 	{
-		"countdown" "20"
 		"trans"		"传送点20秒后启动"
 	}
 	"***5 SECONDS FOR TELEPORT***"
@@ -71,7 +66,6 @@
 	}
 	"***Truck departure in 45 seconds***"
 	{
-		"countdown" "45"
 		"trans"		"卡车45秒后离开[建议在梯子前守]"
 	}
 	"Warning! Overloading of reactor."

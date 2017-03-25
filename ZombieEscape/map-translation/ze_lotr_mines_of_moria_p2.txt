@@ -10,11 +10,11 @@
 	}
 	"**The ring has been picked!**"
 	{
-		"trans"		"魔戒已被拾起"
+		"blocked"	"1"
 	}
 	"**Saruman staff has been picked!**"
 	{
-		"trans"		"萨鲁曼法杖已被拾起 [减速范围内僵尸]"
+		"blocked"	"1"
 	}
 	"**Balrog coming to SPAWN CAVE AND LADDER ZONE in 15s**"
 	{
@@ -22,7 +22,6 @@
 	}
 	"**Humans have reached Balin's tomb! Resist 55 s**"
 	{
-		"countdown" "55"
 		"trans"		"人类已到达巴林陵!坚守55秒"
 	}
 	"**Balin's door closing in 10 s**"
@@ -47,7 +46,6 @@
 	}
 	"** Protection ring will close in 15 s **"
 	{
-		"countdown" "15"
 		"trans"		"光环15秒后失效"
 	}
 	"** ... **"
@@ -104,11 +102,11 @@
 	}
 	"**Protect Gandalf during 35s! He must break the bridge! **"
 	{
-		"countdown" "35"
 		"trans"		"保护持有甘道夫法杖的玩家35秒!"
 	}
 	"**Gandalf staff has been picked!**"
 	{
+		"blocked"	"1"
 		"trans"		"甘道夫法杖已被拾起 [通关必备道具,持有者关卡后端需自我牺牲]"
 	}
 	"**Gandalf is dead!**"

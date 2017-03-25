@@ -2,59 +2,59 @@
 {
 	"***Wait for 20 seconds ***"
 	{
-		"trans"		"坚守20秒"
+		"trans"		"***坚守20秒***"
 	}
 	"***Door close 10 seconds***"
 	{
-		"trans"		"门关于10秒后"
+		"trans"		"***门关于10秒后**"
 	}
 	"***5 SECONDS***"
 	{
-		"trans"		"5秒剩余"
+		"trans"		"***5秒剩余***"
 	}
 	"***Location: The Wanderer's Palace***"
 	{
-		"trans"		"当前位置:流浪者宫殿"
+		"trans"		"***当前位置:流浪者宫殿"
 	}
 	"***15 seconds to Active Nymian Device***"
 	{
-		"trans"		"设备启动于15秒后"
+		"trans"		"***设备启动于15秒后**"
 	}
 	"***Level:Normal"
 	{
-		"trans"		"难度:普通"
+		"trans"		"***难度:普通**"
 	}
 	"***Look for RED,YELLOW,GREEN Nymian Devices***"
 	{
-		"trans"		"寻找红/黄/绿色的设备"
+		"trans"		"***寻找红/黄/绿色的设备***"
 	}
 	"***Enkidu appered***"
 	{
-		"trans"		"BOSS已出现"
+		"trans"		"***BOSS已出现**"
 	}
 	"***Keep shooting Enkidu***"
 	{
-		"trans"		"集火BOSS"
+		"trans"		"***集火BOSS***"
 	}
 	"***10 seconds to Active Nymian Device***"
 	{
-		"trans"		"设备启动于10秒后"
+		"trans"		"***设备启动于10秒后**"
 	}
 	"***Door opened***"
 	{
-		"trans"		"门已开启"
+		"trans"		"***门已开启***"
 	}
 	"***20 seconds to Activate Escape Elevator***"
 	{
-		"trans"		"逃生电梯20秒后启动"
+		"trans"		"***逃生电梯20秒后启动***"
 	}
 	"***Congratulations***"
 	{
-		"trans"		"本关已破"
+		"trans"		"***本关已破***"
 	}
 	"***Next Level Savage***"
 	{
-		"trans"		"下一关:残酷"
+		"trans"		"***下一关:残酷***"
 	}
 	"***Map made by Altima***"
 	{
@@ -62,83 +62,83 @@
 	}
 	"***10 seconds to attack of the boss***"
 	{
-		"trans"		"BOSS出现于10秒后"
+		"trans"		"***BOSS出现于10秒后***"
 	}
 	"***Attack of the boss***"
 	{
-		"trans"		"BOSS来了"
+		"trans"		"***BOSS来了***"
 	}
 	"***Level:Savage"
 	{
-		"trans"		"难度:残酷"
+		"trans"		"***难度:残酷***"
 	}
 	"***20 seconds to Activate Nymian Device***"
 	{
-		"trans"		"设备启动于20秒后"
+		"trans"		"***设备启动于20秒后***"
 	}
 	"***Hold this position 35 seconds***"
 	{
-		"trans"		"坚守35秒"
+		"trans"		"***坚守35秒***"
 	}
 	"***10 seconds***"
 	{
-		"trans"		"10秒剩余"
+		"trans"		"***10秒剩余***"
 	}
 	"***Teleporter Activate***"
 	{
-		"trans"		"传送点已启动"
+		"trans"		"***传送点已启动***"
 	}
 	"***Location:The Binding Coil of Bahamut***"
 	{
-		"trans"		"当前位置:巴哈姆特禁闭圈"
+		"trans"		"***当前位置:巴哈姆特禁闭圈***"
 	}
 	"***Found Intruders!!!!!!!***"
 	{
-		"trans"		"发现入侵者!"
+		"trans"		"***发现入侵者!***"
 	}
 	"***ADS........Activated***"
 	{
-		"trans"		"ADS已被启动"
+		"trans"		"***ADS已被启动***"
 	}
 	"***ADS appeared***"
 	{
-		"trans"		"ADS已现身"
+		"trans"		"***ADS已现身***"
 	}
 	"***Keep shooting to ADS***"
 	{
-		"trans"		"开枪集火ADS"
+		"trans"		"***开枪集火ADS***"
 	}
 	"***ADS is selecting now...***"
 	{
-		"trans"		"ADS:准备进攻"
+		"trans"		"***ADS:准备进攻***"
 	}
 	"*** Cauterize***"
 	{
-		"trans"		"ADS释放了火"
+		"trans"		"***ADS释放了火***"
 	}
 	"*** Electro***"
 	{
-		"trans"		"ADS释放了电"
+		"trans"		"***ADS释放了电***"
 	}
 	"*** Heavens Fall***"
 	{
-		"trans"		"小心头顶落石!"
+		"trans"		"***小心头顶落石!***"
 	}
 	"***ADS died***"
 	{
-		"trans"		"ADS已被击败"
+		"trans"		"***ADS已被击败***"
 	}
 	"***45 seconds to MAP CLEAR***"
 	{
-		"trans"		"地图净空于45秒后"
+		"trans"		"***地图净空于45秒后***"
 	}
 	"***Gravity ON***"
 	{
-		"trans"		"低重力已开启"
+		"trans"		"***低重力已开启***"
 	}
 	"***STAGE CLEAR***"
 	{
-		"trans"		"关卡:净空领域"
+		"trans"		"***关卡:净空领域***"
 	}
 	"***Texture Support by fujione***"
 	{
@@ -146,63 +146,63 @@
 	}
 	"***Next Level A Realm Reborn***"
 	{
-		"trans"		"下一关:境界重生"
+		"trans"		"***下一关:境界重生***"
 	}
 	"***Wait for 20 seconds***"
 	{
-		"trans"		"坚守20秒"
+		"trans"		"***坚守20秒***"
 	}
 	"***Look for Nymian Device***"
 	{
-		"trans"		"寻找设备"
+		"trans"		"***寻找设备***"
 	}
 	"***A player found Nymian Device***"
 	{
-		"trans"		"有玩家找到了设备"
+		"trans"		"***有玩家找到了设备***"
 	}
 	"*** 5 seconds***"
 	{
-		"trans"		"5秒剩余"
+		"trans"		"***5秒剩余***"
 	}
 	"***Break Fence***"
 	{
-		"trans"		"开枪打碎围栏"
+		"trans"		"***开枪打碎围栏***"
 	}
 	"***10 seconds to Activate Nymian Device***"
 	{
-		"trans"		"设备启动于10秒后"
+		"trans"		"***设备启动于10秒后***"
 	}
 	"***Enkidu died***"
 	{
-		"trans"		"BOSS已被击败"
+		"trans"		"***BOSS已被击败***"
 	}
 	"***Activated YELLOW Nymian Device***"
 	{
-		"trans"		"黄色设备已启动"
+		"trans"		"***黄色设备已启动***"
 	}
 	"***Activated GREEN Nymian Device***"
 	{
-		"trans"		"绿色设备已启动"
+		"trans"		"***绿色设备已启动***"
 	}
 	"***Activated RED Nymian Device***"
 	{
-		"trans"		"红色设备已启动"
+		"trans"		"***红色设备已启动***"
 	}
 	"***Wait for 30 seconds"
 	{
-		"trans"		"坚守30秒"
+		"trans"		"***坚守30秒***"
 	}
 	"***Human Killer ON***"
 	{
-		"trans"		"处死所有人类"
+		"trans"		"***处死所有人类***"
 	}
 	"***Skill Unlocked***"
 	{
-		"trans"		"地图神器已解锁"
+		"trans"		"***地图神器已解锁***"
 	}
 	"***Level:A Realm Reborn***"
 	{
-		"trans"		"关卡:境界重生"
+		"trans"		"***关卡:境界重生***"
 	}
 	"***A player picked up Summoner Shadow Flare***"
 	{
@@ -210,7 +210,7 @@
 	}
 	"***Recast 60s***"
 	{
-		"trans"		"60秒冷却时间"
+		"trans"		"***60秒冷却时间***"
 	}
 	"***A player picked up Black Mage Flare***"
 	{
@@ -218,11 +218,11 @@
 	}
 	"***Recast 45s***"
 	{
-		"trans"		"45秒冷却时间"
+		"trans"		"***45秒冷却时间***"
 	}
 	"***Wait for 30 seconds***"
 	{
-		"trans"		"坚守30秒"
+		"trans"		"***坚守30秒***"
 	}
 	"***A player picked up Paladin Shild Oath"
 	{
@@ -230,7 +230,7 @@
 	}
 	"***Recast 70s***"
 	{
-		"trans"		"70秒冷却时间"
+		"trans"		"***70秒冷却时间***"
 	}
 	"***A player picked up Mount Night Mare***"
 	{
@@ -242,31 +242,31 @@
 	}
 	"***30 seconds to Active Nymian Device***"
 	{
-		"trans"		"设备启动于30秒后"
+		"trans"		"***设备启动于30秒后**"
 	}
 	"***Hold this position 20 seconds***"
 	{
-		"trans"		"坚守20秒"
+		"trans"		"***坚守20秒***"
 	}
 	"***Hold this position 60 seconds***"
 	{
-		"trans"		"坚守60秒"
+		"trans"		"***坚守60秒***"
 	}
 	"***Heavens Fall***"
 	{
-		"trans"		"谨防头顶落石"
+		"trans"		"***谨防头顶落石***"
 	}
 	"***Go to the Escape Elevator Tower***"
 	{
-		"trans"		"前往逃生电梯塔台"
+		"trans"		"***前往逃生电梯塔台***"
 	}
 	"***20 seconds to Active Nymian Device***"
 	{
-		"trans"		"设备启动于20秒后"
+		"trans"		"***设备启动于20秒后***"
 	}
 	"***30 seconds to Activate Escape Elevator***"
 	{
-		"trans"		"逃生电梯30秒后启动"
+		"trans"		"***逃生电梯30秒后启动***"
 	}
 	"***3***"
 	{
@@ -286,31 +286,31 @@
 	}
 	"***Next Level:Heavens Ward***"
 	{
-		"trans"		"下一关:天空守卫"
+		"trans"		"***下一关:天空守卫***"
 	}
 	"***Level:Heavens Ward***"
 	{
-		"trans"		"关卡:天空守卫"
+		"trans"		"***关卡:天空守卫***"
 	}
 	"***Hold this position 40 seconds***"
 	{
-		"trans"		"坚守40秒"
+		"trans"		"***坚守40秒***"
 	}
 	"***20 seconds to Activate Elevator"
 	{
-		"trans"		"逃生电梯20秒后启动"
+		"trans"		"***逃生电梯20秒后启动***"
 	}
 	"***30 seconds to Activate Elevator***"
 	{
-		"trans"		"逃生电梯30秒后启动"
+		"trans"		"***逃生电梯30秒后启动***"
 	}
 	"***30 seconds to Break Wall***"
 	{
-		"trans"		"墙30秒后炸毁"
+		"trans"		"***墙30秒后炸毁***"
 	}
 	"***40 seconds to Activate Telepoter"
 	{
-		"trans"		"传送点40秒后启动"
+		"trans"		"***传送点40秒后启动***"
 	}
 	"***A player picked up White Mage Benediction***"
 	{
@@ -318,7 +318,7 @@
 	}
 	"***Recast 90s***"
 	{
-		"trans"		"90秒冷却时间"
+		"trans"		"***90秒冷却时间***"
 	}
 	"***A player picked up Bird Armys Paeon***"
 	{
@@ -326,11 +326,11 @@
 	}
 	"***Bahamut Prime appeared***"
 	{
-		"trans"		"BOSS已出现"
+		"trans"		"***BOSS已出现"
 	}
 	"***Bahamut Prime has casting now***"
 	{
-		"trans"		"BOSS正在预备工具"
+		"trans"		"***BOSS正在预备工具***"
 	}
 	"***Akh Morn***"
 	{
@@ -358,31 +358,31 @@
 	}
 	"***Bahamut Prime died***"
 	{
-		"trans"		"BOSS已被击败"
+		"trans"		"***BOSS已被击败***"
 	}
 	"***Go to the Escape Elevator***"
 	{
-		"trans"		"前往逃生电梯"
+		"trans"		"***前往逃生电梯***"
 	}
 	"***Elevator Gravity ON***"
 	{
-		"trans"		"电梯位置低重力已开启"
+		"trans"		"***电梯位置低重力已开启***"
 	}
 	"***Hold this position to 15 seconds***"
 	{
-		"trans"		"坚守15秒"
+		"trans"		"***坚守15秒***"
 	}
 	"***Jump!***"
 	{
-		"trans"		"跳!"
+		"trans"		"***跳!***"
 	}
 	"***ADS Attack***"
 	{
-		"trans"		"ADS正在释放攻击"
+		"trans"		"***ADS正在释放攻击***"
 	}
 	"***shoot ADS and Zombies***"
 	{
-		"trans"		"朝ADS和僵尸开火"
+		"trans"		"***朝ADS和僵尸开火***"
 	}
 	"***Tempest Wing***"
 	{
@@ -390,7 +390,7 @@
 	}
 	"***Recast 55s***"
 	{
-		"trans"		"55秒冷却时间"
+		"trans"		"***55秒冷却时间***"
 	}
 	"***A player picked up Paladin Shield Oath"
 	{
@@ -398,23 +398,23 @@
 	}
 	"***Recast 80s***"
 	{
-		"trans"		"80秒冷却时间"
+		"trans"		"***80秒冷却时间***"
 	}
 	"***Hold this position to 30 seconds***"
 	{
-		"trans"		"坚守30秒"
+		"trans"		"***坚守30秒***"
 	}
 	"***LASER***"
 	{
-		"trans"		"激光"
+		"trans"		"***激光"
 	}
 	"***The Wanderer's Palace Clear to 10 seconds***"
 	{
-		"trans"		"流浪者宫殿净空于10秒后"
+		"trans"		"***流浪者宫殿净空于10秒后**"
 	}
 	"***The Wanderer's Palace CLEAR***"
 	{
-		"trans"		"流浪者宫殿已被净空[地图已通关]"
+		"trans"		"***流浪者宫殿已被净空[地图已通关]"
 	}
 	"***Nael Van Durnas appeared***"
 	{
