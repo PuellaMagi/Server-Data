@@ -1,7 +1,0 @@
-"Chat"
-{
-	"Map made by xXhamadryadesXx"
-	{
-		"trans"		"Map made by xXhamadryadesXx"
-	}
-}

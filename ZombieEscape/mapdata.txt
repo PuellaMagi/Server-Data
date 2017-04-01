@@ -1395,14 +1395,14 @@
 	}
 	"ze_30_seconds_go_v2"
 	{
-		"Desc"		"不详: 尚未明朗"
+		"Desc"		"生死三十秒2: 尚未明朗"
 		"Price"		"100"
 		"Size"		"21"
 		"Nice"		"0"
 	}
 	"ze_mountain_escape_snow_v5_4"
 	{
-		"Desc"		"不详: 尚未明朗"
+		"Desc"		"雪山逃亡: 尚未明朗"
 		"Price"		"100"
 		"Size"		"65"
 		"Nice"		"0"
@@ -1423,14 +1423,14 @@
 	}
 	"ze_elevator_escape_p2"
 	{
-		"Desc"		"不详: 尚未明朗"
+		"Desc"		"电梯惊魂: 尚未明朗"
 		"Price"		"100"
 		"Size"		"31"
 		"Nice"		"0"
 	}
 	"ze_atix_panic_v1"
 	{
-		"Desc"		"不详: 尚未明朗"
+		"Desc"		"ATIX-避难处: 尚未明朗"
 		"Price"		"100"
 		"Size"		"84"
 		"Nice"		"0"
@@ -1440,6 +1440,139 @@
 		"Desc"		"不详: 尚未明朗"
 		"Price"		"100"
 		"Size"		"65"
+		"Nice"		"0"
+	}
+	"ze_EmpireCity_v1_t"
+	{
+		"Desc"		"皇城帝都: 尚未明朗"
+		"Price"		"100"
+		"Size"		"36"
+		"Nice"		"0"
+	}
+	"ze_PotC_IV_p2"
+	{
+		"Desc"		"加勒比海盗4: 尚未明朗"
+		"Price"		"100"
+		"Size"		"66"
+		"Nice"		"0"
+	}
+	"ze_anima_ruins_v2_2"
+	{
+		"Desc"		"废墟: 尚未明朗"
+		"Price"		"100"
+		"Size"		"77"
+		"Nice"		"0"
+	}
+	"ze_antfarm_2v"
+	{
+		"Desc"		"蚂蚁农场: 尚未明朗"
+		"Price"		"100"
+		"Size"		"20"
+		"Nice"		"0"
+	}
+	"ze_apollo_e1"
+	{
+		"Desc"		"火箭发射场: 尚未明朗"
+		"Price"		"100"
+		"Size"		"67"
+		"Nice"		"0"
+	}
+	"ze_bioshock_v6_2_csgo2"
+	{
+		"Desc"		"生化奇兵: 尚未明朗"
+		"Price"		"100"
+		"Size"		"150"
+		"Nice"		"0"
+	}
+	"ze_dreamin_v1_6"
+	{
+		"Desc"		"迷幻密室: 尚未明朗"
+		"Price"		"100"
+		"Size"		"80"
+		"Nice"		"0"
+	}
+	"ze_exchange_innovation_v1b_ps4"
+	{
+		"Desc"		"革新者研究所: 尚未明朗"
+		"Price"		"100"
+		"Size"		"171"
+		"Nice"		"0"
+	}
+	"ze_forestbunkers_v1_b3_e2"
+	{
+		"Desc"		"丛林堡垒: 尚未明朗"
+		"Price"		"100"
+		"Size"		"117"
+		"Nice"		"0"
+	}
+	"ze_frozentemple_rc1_1"
+	{
+		"Desc"		"冰封神殿: 尚未明朗"
+		"Price"		"100"
+		"Size"		"65"
+		"Nice"		"0"
+	}
+	"ze_hive_complex_v1_2"
+	{
+		"Desc"		"蜂巢: 尚未明朗"
+		"Price"		"100"
+		"Size"		"84"
+		"Nice"		"0"
+	}
+	"ze_infected_lab_v4_1"
+	{
+		"Desc"		"感染实验室: 尚未明朗"
+		"Price"		"100"
+		"Size"		"65"
+		"Nice"		"0"
+	}
+	"ze_kororinpa_v1_6"
+	{
+		"Desc"		"克洛林巴: 尚未明朗"
+		"Price"		"100"
+		"Size"		"26"
+		"Nice"		"0"
+	}
+	"ze_mytex_escape_v3_p"
+	{
+		"Desc"		"荒野殿堂: 尚未明朗"
+		"Price"		"100"
+		"Size"		"48"
+		"Nice"		"0"
+	}
+	"ze_omega_p3"
+	{
+		"Desc"		"欧米茄: 尚未明朗"
+		"Price"		"100"
+		"Size"		"36"
+		"Nice"		"0"
+	}
+	"ze_opti_variety_missions_p3"
+	{
+		"Desc"		"像素方块: 尚未明朗"
+		"Price"		"100"
+		"Size"		"8"
+		"Nice"		"0"
+	}
+	"ze_pd2_crime_art_v2"
+	{
+		"Desc"		"PD2-美术馆劫案: 尚未明朗"
+		"Price"		"100"
+		"Size"		"45"
+		"Nice"		"0"
+	}
+	"ze_phantasy_escape_4_pm1"
+	{
+		"Desc"		"逃离幻境: 尚未明朗"
+		"Price"		"100"
+		"Size"		"128"
+		"Nice"		"0"
+	}
+	"ze_sg1_missions_v2_1_p2"
+	{
+		"Desc"		"星际之门: 尚未明朗"
+		"Price"		"100"
+		"Size"		"81"
 		"Nice"		"0"
 	}
 }
