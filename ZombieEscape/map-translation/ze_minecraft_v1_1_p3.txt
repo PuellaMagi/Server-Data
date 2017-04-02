@@ -156,110 +156,110 @@
 	"{"		"darkred"
 	"***MINE CARTS ARRIVE IN 25 SECONDS***"
 	{
-		"trans"		"***MINE CARTS ARRIVE IN 25 SECONDS***"
+		"trans"		"***矿车到达于25秒后***"
 	}
 	"***MINE CARTS ARRIVE IN 20 SECONDS***"
 	{
-		"trans"		"***MINE CARTS ARRIVE IN 20 SECONDS***"
+		"trans"		"***矿车到达于20秒后***"
 	}
 	"***MINE CARTS ARRIVE IN 15 SECONDS***"
 	{
-		"trans"		"***MINE CARTS ARRIVE IN 15 SECONDS***"
+		"trans"		"***矿车到达于15秒后***"
 	}
 	"***MINE CARTS ARRIVE IN 10 SECONDS***"
 	{
-		"trans"		"***MINE CARTS ARRIVE IN 10 SECONDS***"
+		"trans"		"***矿车到达于10秒后***"
 	}
 	"***MINE CARTS ARRIVE IN 5 SECONDS***"
 	{
-		"trans"		"***MINE CARTS ARRIVE IN 5 SECONDS***"
+		"trans"		"***矿车到达于5秒后***"
 	}
 	"***GET ON TOP OF THE MINE CARTS***"
 	{
-		"trans"		"***GET ON TOP OF THE MINE CARTS***"
+		"trans"		"***搭上矿车***"
 	}
 	"***BUNKER HAS BEEN REACHED***"
 	{
-		"trans"		"***BUNKER HAS BEEN REACHED***"
+		"trans"		"***已经抵达堡垒外***"
 	}
 	"***BUNKER DOOR OPENING IN 20 SECONDS***"
 	{
-		"trans"		"***BUNKER DOOR OPENING IN 20 SECONDS***"
+		"trans"		"***堡垒门开启于20秒后***"
 	}
 	"***DEFEND THE RAILWAY TRACK***"
 	{
-		"trans"		"***DEFEND THE RAILWAY TRACK***"
+		"trans"		"***守住铁轨***"
 	}
 	"***BUNKER DOOR OPENING IN 15 SECONDS***"
 	{
-		"trans"		"***BUNKER DOOR OPENING IN 15 SECONDS***"
+		"trans"		"***堡垒门开启于15秒后***"
 	}
 	"***BUNKER DOOR OPENING IN 10 SECONDS***"
 	{
-		"trans"		"***BUNKER DOOR OPENING IN 10 SECONDS***"
+		"trans"		"***堡垒门开启于10秒后***"
 	}
 	"***BUNKER DOOR OPENING IN 5 SECONDS***"
 	{
-		"trans"		"***BUNKER DOOR OPENING IN 5 SECONDS***"
+		"trans"		"***堡垒门开启于5秒后***"
 	}
 	"***BUNKER DOOR OPEN!***"
 	{
-		"trans"		"***BUNKER DOOR OPEN!***"
+		"trans"		"***地堡门已开启***"
 	}
 	"***GET INSIDE THE BUNKER***"
 	{
-		"trans"		"***GET INSIDE THE BUNKER***"
+		"trans"		"***进入堡垒***"
 	}
 	"***BUNKER DOOR CLOSING***"
 	{
-		"trans"		"***BUNKER DOOR CLOSING***"
+		"trans"		"***堡垒门正在关闭***"
 	}
 	"***NUKE LAUNCHED! ***"
 	{
-		"trans"		"***NUKE LAUNCHED! ***"
+		"trans"		"***核爆已启动! ***"
 	}
 	"***PUMPKIN HEAD HAS BEEN PICKED UP***"
 	{
-		"trans"		"***PUMPKIN HEAD HAS BEEN PICKED UP***"
+		"blocked"		"1"
 	}
 	"***CREEPER HEAD HAS BEEN PICKED UP***"
 	{
-		"trans"		"***CREEPER HEAD HAS BEEN PICKED UP***"
+		"blocked"		"1"
 	}
 	"***ALL MATERIALS FOR DIAMOND SWORD HAVE BEEN FOUND*** "
 	{
-		"trans"		"***ALL MATERIALS FOR DIAMOND SWORD HAVE BEEN FOUND*** "
+		"blocked"		"1"
 	}
 	"***PRESS use ON THE WORKBENCH AT THE TNT HOLD POINT*** "
 	{
-		"trans"		"***PRESS use ON THE WORKBENCH AT THE TNT HOLD POINT*** "
+		"blocked"		"1"
 	}
 	"***THIS WILL CRAFT THE SWORD*** "
 	{
-		"trans"		"***THIS WILL CRAFT THE SWORD*** "
+		"blocked"		"1"
 	}
 	"***THE SWORD HAS BEEN PICKED UP***"
 	{
-		"trans"		"***THE SWORD HAS BEEN PICKED UP***"
+		"blocked"		"1"
 	}
 	"***SWORD READY***"
 	{
-		"trans"		"***SWORD READY***"
+		"blocked"		"1"
 	}
 	"***TROLL FACE HAS BEEN PICKED UP***"
 	{
-		"trans"		"***TROLL FACE HAS BEEN PICKED UP***"
+		"blocked"		"1"
 	}
 	"***YOU BE TROLL'IN***"
 	{
-		"trans"		"***YOU BE TROLL'IN***"
+		"blocked"		"1"
 	}
 	"***ZOMBIE HAVE BEEN DETECTED IN THE BOAT***"
 	{
-		"trans"		"***ZOMBIE HAVE BEEN DETECTED IN THE BOAT***"
+		"blocked"		"1"
 	}
 	"***BOAT SELF DESTRUCT!!***"
 	{
-		"trans"		"***BOAT SELF DESTRUCT!!***"
+		"blocked"		"1"
 	}
 }

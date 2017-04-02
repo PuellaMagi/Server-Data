@@ -403,7 +403,7 @@
 	}
 	"**CURRENT DIFFICULTY ** >> NORMAL << **"
 	{
-		"trans"		"**当前难度:中等"
+		"trans"		"**当前难度:普通**"
 	}
 	"*** MATERIAS AT LVL 1 **"
 	{
@@ -411,7 +411,7 @@
 	}
 	"**Congratulations ! You beat NORMAL mode ! The challenge begins at HARD mode ! **"
 	{
-		"trans"		"**你干倒了NORMAL难度"
+		"trans"		"**你干倒了普通难度**"
 	}
 	"*** MATERIAS AT LVL 2 **"
 	{
@@ -419,7 +419,7 @@
 	}
 	"**Bahamut has been defeated ! ** Go go! Run upstairs ! **"
 	{
-		"trans"		"**巴哈已经嗝屁了,快跑"
+		"trans"		"**巴哈已经嗝屁了,快跑**"
 	}
 	"*** MATERIAS AT LVL 3 **"
 	{
@@ -460,30 +460,30 @@
 	}
 	"** HUMAN VICTORY IN 4 MINUTES **"
 	{
-		"trans"		"**** HUMAN VICTORY IN 4 MINUTES **"
+		"blocked"	"1"
 	}
 	"** HUMAN VICTORY IN 3 MINUTES **"
 	{
-		"trans"		"**** HUMAN VICTORY IN 3 MINUTES **"
+		"blocked"	"1"
 	}
 	"** HUMAN VICTORY IN 2 MINUTES **"
 	{
-		"trans"		"**** HUMAN VICTORY IN 2 MINUTES **"
+		"blocked"	"1"
 	}
 	"** HUMAN VICTORY IN 1 MINUTES **"
 	{
-		"trans"		"**** HUMAN VICTORY IN 1 MINUTES **"
+		"blocked"	"1"
 	}
 	"** HUMAN VICTORY IN 20 SECONDS **"
 	{
-		"trans"		"**** HUMAN VICTORY IN 20 SECONDS **"
+		"blocked"	"1"
 	}
 	"** BAHAMUT HAS CAST GRAVITY **"
 	{
-		"trans"		"**** BAHAMUT HAS CAST GRAVITY **"
+		"trans"		"** 巴哈姆特释放了黑洞 **"
 	}
 	"** ADMIN PRESSED KILL ALL BUTTON **"
 	{
-		"trans"		"**** ADMIN PRESSED KILL ALL BUTTON **"
+		"blocked"	"1"
 	}
 }

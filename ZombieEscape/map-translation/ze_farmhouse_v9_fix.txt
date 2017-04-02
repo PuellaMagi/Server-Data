@@ -185,26 +185,26 @@
 	}
 	"*** JUMP ON THE CEILING TO HOLD ON IT! ***"
 	{
-		"trans"		"*** JUMP ON THE CEILING TO HOLD ON IT! ***"
+		"blocked"		"1"
 	}
 	"*** THE LADDER WILL NOT BREAK ANYMORE! FALL BACK!! ***"
 	{
-		"trans"		"*** THE LADDER WILL NOT BREAK ANYMORE! FALL BACK!! ***"
+		"blocked"		"1"
 	}
 	"*** ADMIN SWITCHED DIFFICULT TO EXTREME FOR THE NEXT ROUND!! ***"
 	{
-		"trans"		"*** ADMIN SWITCHED DIFFICULT TO EXTREME FOR THE NEXT ROUND!! ***"
+		"blocked"		"1"
 	}
 	"*** ADMIN SWITCHED DIFFICULT TO EASY FOR THE NEXT ROUND!! ***"
 	{
-		"trans"		"*** ADMIN SWITCHED DIFFICULT TO EASY FOR THE NEXT ROUND!! ***"
+		"blocked"		"1"
 	}
 	"*** ADMIN SWITCHED DIFFICULT TO MEDIUM FOR THE NEXT ROUND!! ***"
 	{
-		"trans"		"*** ADMIN SWITCHED DIFFICULT TO MEDIUM FOR THE NEXT ROUND!! ***"
+		"blocked"		"1"
 	}
 	"*** ADMIN SWITCHED DIFFICULT TO HARD FOR THE NEXT ROUND!! ***"
 	{
-		"trans"		"*** ADMIN SWITCHED DIFFICULT TO HARD FOR THE NEXT ROUND!! ***"
+		"blocked"		"1"
 	}
 }

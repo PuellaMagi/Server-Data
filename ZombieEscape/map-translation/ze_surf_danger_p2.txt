@@ -111,6 +111,6 @@
 	}
 	">>>Secret pistols picked up<<<"
 	{
-		"trans"		">>>Secret pistols picked up<<<"
+		"blocked"		"1"
 	}
 }

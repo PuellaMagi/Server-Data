@@ -1,14 +1,14 @@
 "Chat"
 {
-	">> IDEA: Sienestaja <<"
+	">> IDEA: Sienestaja << ***"
 	{
 		"blocked"		"1"
 	}
-	">> Map by TaskuVaras <<"
+	">> Map by TaskuVaras << ***"
 	{
 		"blocked"		"1"
 	}
-	">> Fixed by Moltard <<"
+	">> Fixed by Moltard << ***"
 	{
 		"blocked"		"1"
 	}
@@ -20,35 +20,35 @@
 	{
 		"blocked"		"1"
 	}
-	">> WARMUP ROUND <<"
+	">> WARMUP ROUND << ***"
 	{
 		"blocked"		"1"
 	}
-	">> 40 SECONDS LEFT <<"
+	">> 40 SECONDS LEFT << ***"
 	{
 		"blocked"		"1"
 	}
-	">> 30 SECONDS LEFT <<"
+	">> 30 SECONDS LEFT << ***"
 	{
 		"blocked"		"1"
 	}
-	">> 20 SECONDS LEFT <<"
+	">> 20 SECONDS LEFT << ***"
 	{
 		"blocked"		"1"
 	}
-	">> 10 SECONDS LEFT <<"
+	">> 10 SECONDS LEFT << ***"
 	{
 		"blocked"		"1"
 	}
-	">> WARMUP ROUND END <<"
+	">> WARMUP ROUND END << ***"
 	{
 		"blocked"		"1"
 	}
-	">> LEVEL: FLAT GRASS <<"
+	">> LEVEL: FLAT GRASS << ***"
 	{
 		"trans"		"***第一关***"
 	}
-	">> PLAYER HAS PICKED UP 6 MINES <<"
+	">> PLAYER HAS PICKED UP 6 MINES << ***"
 	{
 		"blocked"	"1"
 		"trans"		"***有玩家拾起了地雷***"
@@ -61,7 +61,7 @@
 	{
 		"trans"		"***墙已崩塌,撤退***"
 	}
-	">> PLAYER HAS PICKED UP EARTH <<"
+	">> PLAYER HAS PICKED UP EARTH << ***"
 	{
 		"blocked"	"1"
 		"trans"		"***有玩家拾起了土***"
@@ -82,22 +82,22 @@
 	{
 		"trans"		"***2号叶片离开于7秒后***"
 	}
-	">> ALL 6 MINES USED <<"
+	">> ALL 6 MINES USED << ***"
 	{
 		"trans"		"***地雷已被用尽***"
 	}
-	">> HOLD FOR 30 seconds <<"
+	">> HOLD FOR 30 seconds << ***"
 	{
-		"trans"		">>坚守30秒<<"
+		"trans"		">>坚守30秒<< ***"
 	}
-	">> 5 more seconds <<"
+	">> 5 more seconds << ***"
 	{
-		"trans"		">>5秒剩余<<"
+		"trans"		">>5秒剩余<< ***"
 	}
 	"
 		">>"		"GO!"
 		"GO!"		"GO!"
-		"<<"		"
+		"<< ***"		"
 	{
 		"
 		"trans"		"***		"
@@ -142,47 +142,47 @@
 	"		">>"
 	"BUTTERFLY"		"LEAVING"
 	"IN"		"10"
-	"seconds"		"<<"
+	"seconds"		"<< ***"
 	"
 	{
 		"		"trans"
 	"		"		"["
 	"{"		"darkred"
-	">> PLAYER HAS PICKED UP UNLIMITED AMMO <<"
+	">> PLAYER HAS PICKED UP UNLIMITED AMMO << ***"
 	{
-		"trans"		"***>> PLAYER HAS PICKED UP UNLIMITED AMMO <<"
+		"blocked"		"1"
 	}
-	">> PLAYER HAS PICKED UP WIND <<"
+	">> PLAYER HAS PICKED UP WIND << ***"
 	{
-		"trans"		"***>> PLAYER HAS PICKED UP WIND <<"
+		blocked"		"1"
 	}
-	">> GO! GO! GO! <<"
+	">> GO! GO! GO! << ***"
 	{
-		"trans"		"***>> GO! GO! GO! <<"
+		"trans"		"***>> 撤退 <<***"
 	}
 	"*** OH NO Its an EVIL BUTTERFLY ***"
 	{
-		"trans"		"****** OH NO Its an EVIL BUTTERFLY ***"
+		"trans"		"*** BOSS出现了 ***"
 	}
 	"*** SHOOT IT BEFORE ITS TOO LATE!! ***"
 	{
-		"trans"		"****** SHOOT IT BEFORE ITS TOO LATE!! ***"
+		"trans"		"*** 集火攻击 ***"
 	}
 	"*** BUTTERFLY IS DEAD RESCUE IS COMING ***"
 	{
-		"trans"		"****** BUTTERFLY IS DEAD RESCUE IS COMING ***"
+		"trans"		"***  ***"
 	}
-	">> BUTTERFLY LEAVING IN 10 seconds <<"
+	">> BUTTERFLY LEAVING IN 10 seconds << ***"
 	{
-		"trans"		"***>> BUTTERFLY LEAVING IN 10 seconds <<"
+		"trans"		"***>> BUTTERFLY LEAVING IN 10 seconds << ***"
 	}
-	">> LEVEL COMPLETED!! <<"
+	">> LEVEL COMPLETED!! << ***"
 	{
-		"trans"		"***>> LEVEL COMPLETED!! <<"
+		"trans"		"***>> LEVEL COMPLETED!! << ***"
 	}
-	">> LEVEL: BIG TREE <<"
+	">> LEVEL: BIG TREE << ***"
 	{
-		"trans"		"***>> LEVEL: BIG TREE <<"
+		"trans"		"***>> LEVEL: BIG TREE << ***"
 	}
 	"*** HOLD FOR 10 seconds ***"
 	{
@@ -196,17 +196,17 @@
 	{
 		"trans"		"****** HOLD FOR 40 seconds ***"
 	}
-	">> PLAYER HAS PICKED UP FIRE <<"
+	">> PLAYER HAS PICKED UP FIRE << ***"
 	{
-		"trans"		"***>> PLAYER HAS PICKED UP FIRE <<"
+		"trans"		"***>> PLAYER HAS PICKED UP FIRE << ***"
 	}
 	"*** HOLD FOR 5 seconds ***"
 	{
 		"trans"		"****** HOLD FOR 5 seconds ***"
 	}
-	">> PLAYER HAS PICKED UP HEAL <<"
+	">> PLAYER HAS PICKED UP HEAL << ***"
 	{
-		"trans"		"***>> PLAYER HAS PICKED UP HEAL <<"
+		"trans"		"***>> PLAYER HAS PICKED UP HEAL << ***"
 	}
 	"*** GO GO GO!!!! ***"
 	{
@@ -224,29 +224,29 @@
 	{
 		"trans"		"****** ELEVATOR LEAVING IN 5 seconds ***"
 	}
-	">> ITS ANGRY PIKACHU SHOOT IT!!!!!!!!!! <<"
+	">> ITS ANGRY PIKACHU SHOOT IT!!!!!!!!!! << ***"
 	{
-		"trans"		"***>> ITS ANGRY PIKACHU SHOOT IT!!!!!!!!!! <<"
+		"trans"		"***>> ITS ANGRY PIKACHU SHOOT IT!!!!!!!!!! << ***"
 	}
-	">> CT GET OFF THE ELEVATOR OR U WILL GET PUNISHED <<"
+	">> CT GET OFF THE ELEVATOR OR U WILL GET PUNISHED << ***"
 	{
-		"trans"		"***>> CT GET OFF THE ELEVATOR OR U WILL GET PUNISHED <<"
+		"trans"		"***>> CT GET OFF THE ELEVATOR OR U WILL GET PUNISHED << ***"
 	}
-	">> PIKACHU IS USING THUNDERBOLT KEEP SHOOTING!!!!!!!!!! <<"
+	">> PIKACHU IS USING THUNDERBOLT KEEP SHOOTING!!!!!!!!!! << ***"
 	{
-		"trans"		"***>> PIKACHU IS USING THUNDERBOLT KEEP SHOOTING!!!!!!!!!! <<"
+		"trans"		"***>> PIKACHU IS USING THUNDERBOLT KEEP SHOOTING!!!!!!!!!! << ***"
 	}
 	"*** PIKACHU IS DEAD!! RUN TO RESCUE BUTTERFLY ***"
 	{
 		"trans"		"****** PIKACHU IS DEAD!! RUN TO RESCUE BUTTERFLY ***"
 	}
-	">> BUTTERFLY LEAVING IN 15 seconds <<"
+	">> BUTTERFLY LEAVING IN 15 seconds << ***"
 	{
-		"trans"		"***>> BUTTERFLY LEAVING IN 15 seconds <<"
+		"trans"		"***>> BUTTERFLY LEAVING IN 15 seconds << ***"
 	}
-	">> LEVEL: HELL <<"
+	">> LEVEL: HELL << ***"
 	{
-		"trans"		"***>> LEVEL: HELL <<"
+		"trans"		"***>> LEVEL: HELL << ***"
 	}
 	"*** HOLD FOR 30 seconds ***"
 	{
@@ -256,21 +256,21 @@
 	{
 		"trans"		"****** DOOR IS OPEN! RUUUN! ***"
 	}
-	">> PLAYER HAS PICKED UP ICE <<"
+	">> PLAYER HAS PICKED UP ICE << ***"
 	{
-		"trans"		"***>> PLAYER HAS PICKED UP ICE <<"
+		"trans"		"***>> PLAYER HAS PICKED UP ICE << ***"
 	}
-	">> SECRET IS NOW OPEN <<"
+	">> SECRET IS NOW OPEN << ***"
 	{
-		"trans"		"***>> SECRET IS NOW OPEN <<"
+		"trans"		"***>> SECRET IS NOW OPEN << ***"
 	}
-	">> YOU NEED TO FIND A KEY TO OPEN THAT LOCK <<"
+	">> YOU NEED TO FIND A KEY TO OPEN THAT LOCK << ***"
 	{
-		"trans"		"***>> YOU NEED TO FIND A KEY TO OPEN THAT LOCK <<"
+		"trans"		"***>> YOU NEED TO FIND A KEY TO OPEN THAT LOCK << ***"
 	}
-	">> MAYBE ITS IN THOSE BOXES IN SIDE ROOMS <<"
+	">> MAYBE ITS IN THOSE BOXES IN SIDE ROOMS << ***"
 	{
-		"trans"		"***>> MAYBE ITS IN THOSE BOXES IN SIDE ROOMS <<"
+		"trans"		"***>> MAYBE ITS IN THOSE BOXES IN SIDE ROOMS << ***"
 	}
 	"*** PLAYER FOUND A KEY ***"
 	{
@@ -292,29 +292,29 @@
 	{
 		"trans"		"****** SATAN IS HURT YOU ARE FREE TO LEAVE HELL ***"
 	}
-	">> WAIT FOR 10 SECONDS <<"
+	">> WAIT FOR 10 SECONDS << ***"
 	{
-		"trans"		"***>> WAIT FOR 10 SECONDS <<"
+		"trans"		"***>> WAIT FOR 10 SECONDS << ***"
 	}
-	">> LEVEL COMPLETED <<"
+	">> LEVEL COMPLETED << ***"
 	{
-		"trans"		"***>> LEVEL COMPLETED <<"
+		"trans"		"***>> LEVEL COMPLETED << ***"
 	}
-	">> EXTREME MODE ADDED <<"
+	">> EXTREME MODE ADDED << ***"
 	{
-		"trans"		"***>> EXTREME MODE ADDED <<"
+		"trans"		"***>> EXTREME MODE ADDED << ***"
 	}
-	">> BOSSES ON LEVEL II <<"
+	">> BOSSES ON LEVEL II << ***"
 	{
-		"trans"		"***>> BOSSES ON LEVEL II <<"
+		"trans"		"***>> BOSSES ON LEVEL II << ***"
 	}
 	"*** HOLD FOR ABOUT 30 SECONDS ***"
 	{
 		"trans"		"****** HOLD FOR ABOUT 30 SECONDS ***"
 	}
-	">> PLAYER HAS PICKED UP GRAVITY <<"
+	">> PLAYER HAS PICKED UP GRAVITY << ***"
 	{
-		"trans"		"***>> PLAYER HAS PICKED UP GRAVITY <<"
+		"trans"		"***>> PLAYER HAS PICKED UP GRAVITY << ***"
 	}
 	"*** GO TO PRESS 2 BUTTONS AT THE SAME TIME TO CONTINUE ***"
 	{
@@ -324,49 +324,49 @@
 	{
 		"trans"		"****** GREAT DEFEND FOR 10 MORE SECONDS ***"
 	}
-	">> WILD DITTO APPEARS SHOOT IT!!!!!!!!!! <<"
+	">> WILD DITTO APPEARS SHOOT IT!!!!!!!!!! << ***"
 	{
-		"trans"		"***>> WILD DITTO APPEARS SHOOT IT!!!!!!!!!! <<"
+		"trans"		"***>> WILD DITTO APPEARS SHOOT IT!!!!!!!!!! << ***"
 	}
-	">> WILD DITTO IS USING TRANSFORM!!!!!!!!! <<"
+	">> WILD DITTO IS USING TRANSFORM!!!!!!!!! << ***"
 	{
-		"trans"		"***>> WILD DITTO IS USING TRANSFORM!!!!!!!!! <<"
+		"trans"		"***>> WILD DITTO IS USING TRANSFORM!!!!!!!!! << ***"
 	}
-	">> DITTO IS USING SEED ATTACK <<"
+	">> DITTO IS USING SEED ATTACK << ***"
 	{
-		"trans"		"***>> DITTO IS USING SEED ATTACK <<"
+		"trans"		"***>> DITTO IS USING SEED ATTACK << ***"
 	}
-	">> DITTO IS USING FLAMETHROWER <<"
+	">> DITTO IS USING FLAMETHROWER << ***"
 	{
-		"trans"		"***>> DITTO IS USING FLAMETHROWER <<"
+		"trans"		"***>> DITTO IS USING FLAMETHROWER << ***"
 	}
-	">> DITTO IS USING WATER... SOMETHING <<"
+	">> DITTO IS USING WATER... SOMETHING << ***"
 	{
-		"trans"		"***>> DITTO IS USING WATER... SOMETHING <<"
+		"trans"		"***>> DITTO IS USING WATER... SOMETHING << ***"
 	}
-	">> DITTO IS USING THUNDERBOLT SWIM TO SAFETY <<"
+	">> DITTO IS USING THUNDERBOLT SWIM TO SAFETY << ***"
 	{
-		"trans"		"***>> DITTO IS USING THUNDERBOLT SWIM TO SAFETY <<"
+		"trans"		"***>> DITTO IS USING THUNDERBOLT SWIM TO SAFETY << ***"
 	}
-	">> DITTO IS USING SOMETHING... FUNNY? <<"
+	">> DITTO IS USING SOMETHING... FUNNY? << ***"
 	{
-		"trans"		"***>> DITTO IS USING SOMETHING... FUNNY? <<"
+		"trans"		"***>> DITTO IS USING SOMETHING... FUNNY? << ***"
 	}
-	">> WILD DITTO IS DEFEATED RUN!!!!!!!!! <<"
+	">> WILD DITTO IS DEFEATED RUN!!!!!!!!! << ***"
 	{
-		"trans"		"***>> WILD DITTO IS DEFEATED RUN!!!!!!!!! <<"
+		"trans"		"***>> WILD DITTO IS DEFEATED RUN!!!!!!!!! << ***"
 	}
-	">> AN ANGRY PIKACHU IS BLOCKING THE WAY !! <<"
+	">> AN ANGRY PIKACHU IS BLOCKING THE WAY !! << ***"
 	{
-		"trans"		"***>> AN ANGRY PIKACHU IS BLOCKING THE WAY !! <<"
+		"trans"		"***>> AN ANGRY PIKACHU IS BLOCKING THE WAY !! << ***"
 	}
-	">> BUTTERFLY LEAVING IN 30 seconds <<"
+	">> BUTTERFLY LEAVING IN 30 seconds << ***"
 	{
-		"trans"		"***>> BUTTERFLY LEAVING IN 30 seconds <<"
+		"trans"		"***>> BUTTERFLY LEAVING IN 30 seconds << ***"
 	}
-	">> ZOMBIES ABOARD!! LEVEL FAILED!! <<"
+	">> ZOMBIES ABOARD!! LEVEL FAILED!! << ***"
 	{
-		"trans"		"***>> ZOMBIES ABOARD!! LEVEL FAILED!! <<"
+		"trans"		"***>> ZOMBIES ABOARD!! LEVEL FAILED!! << ***"
 	}
 	"*** SATAN IS PREPARING TO ATTACK ***"
 	{
@@ -384,21 +384,21 @@
 	{
 		"trans"		"****** DRAGON IS HURT YOU ARE FREE TO LEAVE HELL ***"
 	}
-	">> DEFEND YOUR VILLAGE FOR 30 SECONDS <<"
+	">> DEFEND YOUR VILLAGE FOR 30 SECONDS << ***"
 	{
-		"trans"		"***>> DEFEND YOUR VILLAGE FOR 30 SECONDS <<"
+		"trans"		"***>> DEFEND YOUR VILLAGE FOR 30 SECONDS << ***"
 	}
-	">> You have succesfully saved Shroomforest <<"
+	">> You have succesfully saved Shroomforest << ***"
 	{
-		"trans"		"***>> You have succesfully saved Shroomforest <<"
+		"trans"		"***>> You have succesfully saved Shroomforest << ***"
 	}
-	">> NEW LEVEL UNLOCKED IN ADMIN ROOM <<"
+	">> NEW LEVEL UNLOCKED IN ADMIN ROOM << ***"
 	{
-		"trans"		"***>> NEW LEVEL UNLOCKED IN ADMIN ROOM <<"
+		"trans"		"***>> NEW LEVEL UNLOCKED IN ADMIN ROOM << ***"
 	}
-	">> LEVEL: CHOOSING LEVEL <<"
+	">> LEVEL: CHOOSING LEVEL << ***"
 	{
-		"trans"		"***>> LEVEL: CHOOSING LEVEL <<"
+		"trans"		"***>> LEVEL: CHOOSING LEVEL << ***"
 	}
 	"*** RACE TO REACH THE TELEPORTER TO ADMIN ROOM ***"
 	{
@@ -432,17 +432,17 @@
 	{
 		"trans"		"****** YOU HAVE 5 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
 	}
-	">> PLAYER HAS CHOSEN LEVEL: A NEW BEGINNING <<"
+	">> PLAYER HAS CHOSEN LEVEL: A NEW BEGINNING << ***"
 	{
-		"trans"		"***>> PLAYER HAS CHOSEN LEVEL: A NEW BEGINNING <<"
+		"trans"		"***>> PLAYER HAS CHOSEN LEVEL: A NEW BEGINNING << ***"
 	}
-	">> NUKE INCOMING IN 5 SECONDS <<"
+	">> NUKE INCOMING IN 5 SECONDS << ***"
 	{
-		"trans"		"***>> NUKE INCOMING IN 5 SECONDS <<"
+		"trans"		"***>> NUKE INCOMING IN 5 SECONDS << ***"
 	}
-	">> LEVEL: A NEW BEGINNING <<"
+	">> LEVEL: A NEW BEGINNING << ***"
 	{
-		"trans"		"***>> LEVEL: A NEW BEGINNING <<"
+		"trans"		"***>> LEVEL: A NEW BEGINNING << ***"
 	}
 	"*** SATAN IS ATTACKING ***"
 	{

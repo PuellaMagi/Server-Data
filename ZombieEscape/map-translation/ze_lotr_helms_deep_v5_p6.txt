@@ -130,6 +130,6 @@
 	}
 	"**Horn activated ** Charge with unlimited ammo **"
 	{
-		"trans"		"**Horn activated ** Charge with unlimited ammo **"
+		"blocked"		"1"
 	}
 }

@@ -42,11 +42,11 @@
 	}
 	"ShroomForest2"
 	{
-		"trans"		">>蘑菇房2***"
+		"trans"		"蘑菇房2"
 	}
 	"[Level1] Find the Groke"
 	{
-		"trans"		">>第一关"
+		"trans"		">>第一关<<"
 	}
 	">> LEVEL: RAVINE <<"
 	{

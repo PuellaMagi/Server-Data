@@ -10,19 +10,19 @@
 	}
 	">>>You must navigate the ship and find Captian Dallas' keycard!<<<"
 	{
-		"trans"		"***目标1:找到舰长室"
+		"trans"		"***目标1:找到舰长室***"
 	}
 	">>>With it you can access MU-TH-ER's mainframe and gain access to engineering! <<<"
 	{
-		"trans"		"***目标2:找到维修区"
+		"trans"		"***目标2:找到维修区***"
 	}
 	">>>Activate the self destruct mechanism and get the hell off this ship, don't let the alien escape!<<<"
 	{
-		"trans"		"***目标3:启动自毁装置,不让任何僵尸离开这里"
+		"trans"		"***目标3:启动自毁装置,不让任何僵尸离开这里***"
 	}
 	">>>Good Luck!<<<"
 	{
-		"trans"		"***看不见路的玩家请按下F键启用手电或在聊天栏内输入!nvg启动夜视仪.."
+		"trans"		"***看不见路的玩家请按下F键启用手电或在按Y输入!nvg启动夜视仪..***"
 	}
 	">>>MU-TH-ER reports the Aliens are using the ship's vents to move around! Be careful!<<<"
 	{
@@ -30,15 +30,15 @@
 	}
 	">>>Infirmary vent override in 15 seconds!<<<"
 	{
-		"trans"		"***管道15秒后开放"
+		"trans"		"***管道15秒后开放***"
 	}
 	">>>Vent opening in 5 seconds<<<"
 	{
-		"trans"		"***管道5秒后开放"
+		"trans"		"***管道5秒后开放***"
 	}
 	"Hold off for 15 seconds and wait for the ladder access override!***"
 	{
-		"trans"		"***坚守15秒等待梯子开放"
+		"trans"		"***坚守15秒等待梯子开放***"
 	}
 	">>> 5 seconds left! <<<"
 	{

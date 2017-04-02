@@ -170,18 +170,18 @@
 	}
 	"++Difficulty level: MEDIUM++"
 	{
-		"trans"		"++Difficulty level: MEDIUM++"
+		"trans"		"++难度:中等++"
 	}
 	"++Reaching the end will raise the difficulty++"
 	{
-		"trans"		"++Reaching the end will raise the difficulty++"
+		"blocked"		"1"
 	}
 	"++We're overriding the gates, should take about 15 seconds++"
 	{
-		"trans"		"++We're overriding the gates, should take about 15 seconds++"
+		"trans"		"++等待15秒++"
 	}
 	"++Door One will open in 25 seconds++"
 	{
-		"trans"		"++Door One will open in 25 seconds++"
+		"trans"		"++门开启于25秒后++"
 	}
 }

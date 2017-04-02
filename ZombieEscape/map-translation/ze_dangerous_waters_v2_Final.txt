@@ -190,14 +190,14 @@
 	}
 	"***Lift is leaving***"
 	{
-		"trans"		"***Lift is leaving***"
+		"blocked"		"1"
 	}
 	"[Melon]"
 	{
-		"trans"		"[Melon]"
+		"blocked"		"1"
 	}
 	"--------Laser initiating (Crouch!)--------"
 	{
-		"trans"		"--------Laser initiating (Crouch!)--------"
+		"blocked"		"1"
 	}
 }
