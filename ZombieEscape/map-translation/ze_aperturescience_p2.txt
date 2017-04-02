@@ -166,10 +166,10 @@
 	}
 	"--YES____      NO_____--"
 	{
-		"trans"		"--YES____      NO_____--"
+		"blocked"		"1"
 	}
 	"--YES _X_--"
 	{
-		"trans"		"--YES _X_--"
+		"blocked"		"1"
 	}
 }
