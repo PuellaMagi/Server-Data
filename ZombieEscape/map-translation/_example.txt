@@ -2,16 +2,17 @@
 {
 	"***ROCK WALL WILL BREAK IN 15 SECONDS***"
 	{
-		"countdown"		"15"
+		//普通翻译
 		"trans"		"前方障碍15秒后破碎"
 	}
 	"***THE MEXISLED WOULD PREFER YOU TO CALL IT -THE BURRITO SHITTER-***"
 	{
+		//屏蔽废话
 		"blocked"		"1"
 	}
 	"***5 SECONDS UNTIL DEPARTURE***"
 	{
+		//执行命令
 		"command"		"sm_xzbd"
-		"trans"		"船离港于5秒后"
 	}
 }
