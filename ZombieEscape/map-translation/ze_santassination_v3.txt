@@ -10,7 +10,7 @@
 	}
 	"***FALL BACK***"
 	{
-		"trans"		"***撤退***
+		"trans"		"***撤退***"
 	}
 	"***PLAYER PICKED UP ITEM - SPEEDER***"
 	{
