@@ -2,14 +2,14 @@
 {
 	"**** MAP BY AERIS.004 ****"
 	{
-		"trans"		"**** MAP BY AERIS.004 ****"
+		"blocked"		"**** MAP BY AERIS.004 ****"
 	}
 	"*MAP RESIDENT EVIL ONE - THE MANOR*"
 	{
-		"trans"		"*MAP RESIDENT EVIL ONE - THE MANOR*"
+		"blocked"		"*MAP RESIDENT EVIL ONE - THE MANOR*"
 	}
 	"*immediate evacuation of the laboratory*"
 	{
-		"trans"		"*immediate evacuation of the laboratory*"
+		"trans"		"马上撤离实验室"
 	}
 }
