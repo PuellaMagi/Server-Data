@@ -1,0 +1,19 @@
+"Chat"
+{
+	"***Turtle Reactions - Anima Ruins***"
+	{
+		"trans"		"***Turtle Reactions - Anima Ruins***"
+	}
+	"***Stage 1 - Ruins***"
+	{
+		"trans"		"***Stage 1 - Ruins***"
+	}
+	"*Gate 1 will open in 30 sec*"
+	{
+		"trans"		"*Gate 1 will open in 30 sec*"
+	}
+	"*Gate 1 Opening*"
+	{
+		"trans"		"*Gate 1 Opening*"
+	}
+}

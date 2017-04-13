@@ -1,0 +1,11 @@
+"Chat"
+{
+	">> ZOMBIE SHROOM HAS BEEN PICKED UP <<"
+	{
+		"trans"		">> ZOMBIE SHROOM HAS BEEN PICKED UP <<"
+	}
+	">> ZOMBIE CLOUD HAS BEEN PICKED UP <<"
+	{
+		"trans"		">> ZOMBIE CLOUD HAS BEEN PICKED UP <<"
+	}
+}

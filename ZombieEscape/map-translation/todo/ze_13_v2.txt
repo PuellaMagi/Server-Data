@@ -1,0 +1,19 @@
+"Chat"
+{
+	"*** Map made by Manficool (제작자 : Manficool) ***"
+	{
+		"trans"		"*** Map made by Manficool (제작자 : Manficool) ***"
+	}
+	"*** Map ported by [ＥSＣAＰＥ] Loving You (수정자 : 러빙유) ***"
+	{
+		"trans"		"*** Map ported by [ＥSＣAＰＥ] Loving You (수정자 : 러빙유) ***"
+	}
+	"*** AFK／SPAWN CAMP KILLER IN 60 SECONDS ***"
+	{
+		"trans"		"*** AFK／SPAWN CAMP KILLER IN 60 SECONDS ***"
+	}
+	"*** REAR DOORS OPENING IN 30 SECONDS ***"
+	{
+		"trans"		"*** REAR DOORS OPENING IN 30 SECONDS ***"
+	}
+}

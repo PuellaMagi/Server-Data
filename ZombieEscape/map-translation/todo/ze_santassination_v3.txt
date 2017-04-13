@@ -1,0 +1,67 @@
+"Chat"
+{
+	"***PLAYER PICKED UP ITEM - SPEEDER***"
+	{
+		"trans"		"***PLAYER PICKED UP ITEM - SPEEDER***"
+	}
+	"***ROCK WALL WILL BREAK IN 15 SECONDS***"
+	{
+		"trans"		"***ROCK WALL WILL BREAK IN 15 SECONDS***"
+	}
+	"***WANNA SKIP TO EXTREME MODE? > STEP ON THE PLATFORM***"
+	{
+		"trans"		"***WANNA SKIP TO EXTREME MODE? > STEP ON THE PLATFORM***"
+	}
+	"***90% OF THE HUMANS NEED TO VOTE IN ORDER FOR IT TO PASS***"
+	{
+		"trans"		"***90% OF THE HUMANS NEED TO VOTE IN ORDER FOR IT TO PASS***"
+	}
+	"***TRUMP IS PROUD OF YOU***"
+	{
+		"trans"		"***TRUMP IS PROUD OF YOU***"
+	}
+	"***ROCK WALL WILL BREAK IN 5 SECONDS***"
+	{
+		"trans"		"***ROCK WALL WILL BREAK IN 5 SECONDS***"
+	}
+	"***FALL BACK***"
+	{
+		"trans"		"***FALL BACK***"
+	}
+	"***SOMETHING IS COMING...***"
+	{
+		"trans"		"***SOMETHING IS COMING...***"
+	}
+	"***RUN***"
+	{
+		"trans"		"***RUN***"
+	}
+	"***GET UP ON THAT ROCK***"
+	{
+		"trans"		"***GET UP ON THAT ROCK***"
+	}
+	"***YOU HAVE DEFILED MUFASAS CORPSE***"
+	{
+		"trans"		"***YOU HAVE DEFILED MUFASAS CORPSE***"
+	}
+	"***SKIPPING CUTSCENE***"
+	{
+		"trans"		"***SKIPPING CUTSCENE***"
+	}
+	"***YOU SICK BASTARDS...***"
+	{
+		"trans"		"***YOU SICK BASTARDS...***"
+	}
+	"***PROLOGUE COMPLETE***"
+	{
+		"trans"		"***PROLOGUE COMPLETE***"
+	}
+	"***SNOW WALL WILL BREAK IN 10 SECONDS***"
+	{
+		"trans"		"***SNOW WALL WILL BREAK IN 10 SECONDS***"
+	}
+	"***MUFASA.. IS DEAD...***"
+	{
+		"trans"		"***MUFASA.. IS DEAD...***"
+	}
+}

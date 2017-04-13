@@ -1,0 +1,15 @@
+"Chat"
+{
+	">>stairs will clear in 30 seconds<<"
+	{
+		"trans"		">>stairs will clear in 30 seconds<<"
+	}
+	">>5 seconds<<"
+	{
+		"trans"		">>5 seconds<<"
+	}
+	">>stairs will be clear in 60 seconds<<"
+	{
+		"trans"		">>stairs will be clear in 60 seconds<<"
+	}
+}

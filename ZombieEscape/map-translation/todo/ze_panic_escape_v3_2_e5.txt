@@ -1,0 +1,15 @@
+"Chat"
+{
+	"***1***"
+	{
+		"trans"		"***1***"
+	}
+	"***Modified by Reflelia***"
+	{
+		"trans"		"***Modified by Reflelia***"
+	}
+	"Map made by xXhamadryadesXx"
+	{
+		"trans"		"Map made by xXhamadryadesXx"
+	}
+}

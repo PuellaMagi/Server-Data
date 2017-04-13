@@ -1,0 +1,147 @@
+"Chat"
+{
+	"*-'This is your slightly eccentric commander speaking, get a move on!'-*"
+	{
+		"trans"		"*-'This is your slightly eccentric commander speaking, get a move on!'-*"
+	}
+	"*-'Maybe there's something here we can use'-*"
+	{
+		"trans"		"*-'Maybe there's something here we can use'-*"
+	}
+	"*-'An airlock? That's strange. I don't remember them having these.'-*"
+	{
+		"trans"		"*-'An airlock? That's strange. I don't remember them having these.'-*"
+	}
+	"*Airlock Door Malfunction. Attempting repairs. Estimated duration: 30 seconds*"
+	{
+		"trans"		"*Airlock Door Malfunction. Attempting repairs. Estimated duration: 30 seconds*"
+	}
+	"--5 seconds--"
+	{
+		"trans"		"--5 seconds--"
+	}
+	"*-'What was that!?'-*"
+	{
+		"trans"		"*-'What was that!?'-*"
+	}
+	"--Door opens in 40 seconds--"
+	{
+		"trans"		"--Door opens in 40 seconds--"
+	}
+	"--Door opens in 5 seconds--"
+	{
+		"trans"		"--Door opens in 5 seconds--"
+	}
+	"--Zombies held for 10 seconds--"
+	{
+		"trans"		"--Zombies held for 10 seconds--"
+	}
+	"--Photonic Blade Obtained: 30 seconds cooldown--"
+	{
+		"trans"		"--Photonic Blade Obtained: 30 seconds cooldown--"
+	}
+	"*-'A low gravity room.Kinda expected that'-*"
+	{
+		"trans"		"*-'A low gravity room.Kinda expected that'-*"
+	}
+	"*-'Oh look,chemical weapons.More specificly VX '-*"
+	{
+		"trans"		"*-'Oh look,chemical weapons.More specificly VX '-*"
+	}
+	"*Ventilaton system set to: Fill facility.Estimated duration 25 seconds*"
+	{
+		"trans"		"*Ventilaton system set to: Fill facility.Estimated duration 25 seconds*"
+	}
+	"*-'Great.Now plant C4 here and run!'-*"
+	{
+		"trans"		"*-'Great.Now plant C4 here and run!'-*"
+	}
+	"*-'Mmmkay the Excalibre is a key to...'-*"
+	{
+		"trans"		"*-'Mmmkay the Excalibre is a key to...'-*"
+	}
+	"*-'Damn.That gateway leads to a pocket dimension with tons of antimatter.'-*"
+	{
+		"trans"		"*-'Damn.That gateway leads to a pocket dimension with tons of antimatter.'-*"
+	}
+	"*Uploading.Estimated time of completion: 30 seconds*"
+	{
+		"trans"		"*Uploading.Estimated time of completion: 30 seconds*"
+	}
+	"*-'Upload the data.'-*"
+	{
+		"trans"		"*-'Upload the data.'-*"
+	}
+	"*Upload 50% complete*"
+	{
+		"trans"		"*Upload 50% complete*"
+	}
+	"*Upload 75% complete*"
+	{
+		"trans"		"*Upload 75% complete*"
+	}
+	"*Upload complete!*"
+	{
+		"trans"		"*Upload complete!*"
+	}
+	"*-'It's activating its weapon systems!'-*"
+	{
+		"trans"		"*-'It's activating its weapon systems!'-*"
+	}
+	"*-'Shoot the computer!The blue part!'-*"
+	{
+		"trans"		"*-'Shoot the computer!The blue part!'-*"
+	}
+	"*Self-destruct sequence activated: 1 minute to detonation.*"
+	{
+		"trans"		"*Self-destruct sequence activated: 1 minute to detonation.*"
+	}
+	"*Nuclear detonation imminent! 30 seconds remaining.*"
+	{
+		"trans"		"*Nuclear detonation imminent! 30 seconds remaining.*"
+	}
+	"*5*"
+	{
+		"trans"		"*5*"
+	}
+	"*4*"
+	{
+		"trans"		"*4*"
+	}
+	"*3*"
+	{
+		"trans"		"*3*"
+	}
+	"*2*"
+	{
+		"trans"		"*2*"
+	}
+	"*1*"
+	{
+		"trans"		"*1*"
+	}
+	"*-'Halfway there!Keep firing!'-*"
+	{
+		"trans"		"*-'Halfway there!Keep firing!'-*"
+	}
+	"*-'Hurry!To the left'-*"
+	{
+		"trans"		"*-'Hurry!To the left'-*"
+	}
+	"*Emergency bunker closing in 35 seconds*"
+	{
+		"trans"		"*Emergency bunker closing in 35 seconds*"
+	}
+	"*-'Well,that's convenient.'-*"
+	{
+		"trans"		"*-'Well,that's convenient.'-*"
+	}
+	"--Map made by:Tgting--"
+	{
+		"trans"		"--Map made by:Tgting--"
+	}
+	"--Music by RageVI and CT--"
+	{
+		"trans"		"--Music by RageVI and CT--"
+	}
+}

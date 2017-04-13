@@ -1,0 +1,15 @@
+"Chat"
+{
+	" LVL 1 - Easy"
+	{
+		"trans"		" LVL 1 - Easy"
+	}
+	" LVL 2 - Normal"
+	{
+		"trans"		" LVL 2 - Normal"
+	}
+	" LVL 3 - Hard"
+	{
+		"trans"		" LVL 3 - Hard"
+	}
+}

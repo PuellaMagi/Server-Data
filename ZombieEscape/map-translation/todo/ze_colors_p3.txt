@@ -1,0 +1,31 @@
+"Chat"
+{
+	"** Hey there! Welcome to ze_colors **"
+	{
+		"trans"		"** Hey there! Welcome to ze_colors **"
+	}
+	"** Believe it or not this map was once a tutorial and twice a duck! **"
+	{
+		"trans"		"** Believe it or not this map was once a tutorial and twice a duck! **"
+	}
+	"** Level: Lemon **"
+	{
+		"trans"		"** Level: Lemon **"
+	}
+	"** This level looks like good old Louisiana: lines and squares all along the little lonely land **"
+	{
+		"trans"		"** This level looks like good old Louisiana: lines and squares all along the little lonely land **"
+	}
+	"** GET GOING! Tension has been built in the spawn area! **"
+	{
+		"trans"		"** GET GOING! Tension has been built in the spawn area! **"
+	}
+	"** RESIST! We're pathetically close to the spawn still! **"
+	{
+		"trans"		"** RESIST! We're pathetically close to the spawn still! **"
+	}
+	"** One tiny bit more! We're almost there! **"
+	{
+		"trans"		"** One tiny bit more! We're almost there! **"
+	}
+}

@@ -1,0 +1,67 @@
+"Chat"
+{
+	"*** Map by : Airvulpes ***"
+	{
+		"trans"		"*** Map by : Airvulpes ***"
+	}
+	"*** Door Opens in 10 seconds ***"
+	{
+		"trans"		"*** Door Opens in 10 seconds ***"
+	}
+	"*** Door opening in 5 seconds !***"
+	{
+		"trans"		"*** Door opening in 5 seconds !***"
+	}
+	"*** Resist 30 seconds ! ***"
+	{
+		"trans"		"*** Resist 30 seconds ! ***"
+	}
+	"***Button Pressed***"
+	{
+		"trans"		"***Button Pressed***"
+	}
+	"*** Wall Opens in 30 seconds! ***"
+	{
+		"trans"		"*** Wall Opens in 30 seconds! ***"
+	}
+	"*** Wall Opening ***"
+	{
+		"trans"		"*** Wall Opening ***"
+	}
+	"*** HOLD 20 seconds ! ***"
+	{
+		"trans"		"*** HOLD 20 seconds ! ***"
+	}
+	"*** Resist 10 seconds ! ***"
+	{
+		"trans"		"*** Resist 10 seconds ! ***"
+	}
+	"*** Resist 20 seconds ! ***"
+	{
+		"trans"		"*** Resist 20 seconds ! ***"
+	}
+	"*** Door opens in 5 seconds ***"
+	{
+		"trans"		"*** Door opens in 5 seconds ***"
+	}
+	"*** Hold 25 seconds ! ***"
+	{
+		"trans"		"*** Hold 25 seconds ! ***"
+	}
+	"*** Human beat red emblem !! ***"
+	{
+		"trans"		"*** Human beat red emblem !! ***"
+	}
+	"*** HOLD ON ! ***"
+	{
+		"trans"		"*** HOLD ON ! ***"
+	}
+	"*** Entrance Door will close in 1 minutes ! ***"
+	{
+		"trans"		"*** Entrance Door will close in 1 minutes ! ***"
+	}
+	"*** STAGE COMPLETED ***"
+	{
+		"trans"		"*** STAGE COMPLETED ***"
+	}
+}

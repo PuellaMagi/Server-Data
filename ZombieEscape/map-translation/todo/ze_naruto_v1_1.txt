@@ -1,0 +1,39 @@
+"Chat"
+{
+	"** !!! THIS IS A WARMUP ROUND !!! **"
+	{
+		"trans"		"** !!! THIS IS A WARMUP ROUND !!! **"
+	}
+	"** !!! WAITING FOR MORE PLAYERS !!! **"
+	{
+		"trans"		"** !!! WAITING FOR MORE PLAYERS !!! **"
+	}
+	">>>Map by CriSsys<<<"
+	{
+		"trans"		">>>Map by CriSsys<<<"
+	}
+	">>>Help tips opinions and adjustements by Aeris004<<<"
+	{
+		"trans"		">>>Help tips opinions and adjustements by Aeris004<<<"
+	}
+	">>>Thanks to FireWavezZ<<<"
+	{
+		"trans"		">>>Thanks to FireWavezZ<<<"
+	}
+	"** !!! GAME WILL START IN FEW SECOND !!! **"
+	{
+		"trans"		"** !!! GAME WILL START IN FEW SECOND !!! **"
+	}
+	"** !!! CURRENT DIFFICULTY : EASY !!! **"
+	{
+		"trans"		"** !!! CURRENT DIFFICULTY : EASY !!! **"
+	}
+	"** Naruto will open the way ! Follow him ! **"
+	{
+		"trans"		"** Naruto will open the way ! Follow him ! **"
+	}
+	">>>Type mat_colorcorrection 1 for a better illumination<<<"
+	{
+		"trans"		">>>Type mat_colorcorrection 1 for a better illumination<<<"
+	}
+}

@@ -1,0 +1,107 @@
+"Chat"
+{
+	"***SEWER OPENING IN 20 SECONDS***"
+	{
+		"trans"		"***SEWER OPENING IN 20 SECONDS***"
+	}
+	"***SEWER OPENING IN 5 SECONDS***"
+	{
+		"trans"		"***SEWER OPENING IN 5 SECONDS***"
+	}
+	"***COMPLEX GATE OPENING IN 20 SECONDS***"
+	{
+		"trans"		"***COMPLEX GATE OPENING IN 20 SECONDS***"
+	}
+	"***COMPLEX GATE OPENING IN 5 SECONDS***"
+	{
+		"trans"		"***COMPLEX GATE OPENING IN 5 SECONDS***"
+	}
+	"***OPENING BLASTDOOR TO INNER COMPLEX***"
+	{
+		"trans"		"***OPENING BLASTDOOR TO INNER COMPLEX***"
+	}
+	"***DOOR IS OPENING IN 15 SECONDS***"
+	{
+		"trans"		"***DOOR IS OPENING IN 15 SECONDS***"
+	}
+	"***DOOR IS OPENING IN 5 SECONDS***"
+	{
+		"trans"		"***DOOR IS OPENING IN 5 SECONDS***"
+	}
+	"***HACKING SECURITY BLASTDOOR...***"
+	{
+		"trans"		"***HACKING SECURITY BLASTDOOR...***"
+	}
+	"***ESTIMATED TIME IS 20 SECONDS***"
+	{
+		"trans"		"***ESTIMATED TIME IS 20 SECONDS***"
+	}
+	"***HACKING 100% COMPLETE***"
+	{
+		"trans"		"***HACKING 100% COMPLETE***"
+	}
+	"***SECURITY BLASTDOOR IS OPEN***"
+	{
+		"trans"		"***SECURITY BLASTDOOR IS OPEN***"
+	}
+	"***FALL BACK***"
+	{
+		"trans"		"***FALL BACK***"
+	}
+	"***FENCE OPENING IN 15 SECONDS***"
+	{
+		"trans"		"***FENCE OPENING IN 15 SECONDS***"
+	}
+	"***FENCE OPENING IN 5 SECONDS***"
+	{
+		"trans"		"***FENCE OPENING IN 5 SECONDS***"
+	}
+	"***DOUBLE ELEVATOR IS LEAVING IN 10 SECONDS***"
+	{
+		"trans"		"***DOUBLE ELEVATOR IS LEAVING IN 10 SECONDS***"
+	}
+	"***DOUBLE ELEVATOR IS LEAVING IN 5 SECONDS***"
+	{
+		"trans"		"***DOUBLE ELEVATOR IS LEAVING IN 5 SECONDS***"
+	}
+	"***DOOR IS OPENING IN 10 SECONDS***"
+	{
+		"trans"		"***DOOR IS OPENING IN 10 SECONDS***"
+	}
+	"***DUAL DOORS ARE OPENING IN 30 SECONDS***"
+	{
+		"trans"		"***DUAL DOORS ARE OPENING IN 30 SECONDS***"
+	}
+	"***DUAL DOORS ARE OPENING IN 10 SECONDS***"
+	{
+		"trans"		"***DUAL DOORS ARE OPENING IN 10 SECONDS***"
+	}
+	"***DUAL DOORS ARE OPENING IN 5 SECONDS***"
+	{
+		"trans"		"***DUAL DOORS ARE OPENING IN 5 SECONDS***"
+	}
+	"***DUAL DOORS ARE OPENING***"
+	{
+		"trans"		"***DUAL DOORS ARE OPENING***"
+	}
+	"***ELEVATOR LEAVING IN 20 SECONDS***"
+	{
+		"trans"		"***ELEVATOR LEAVING IN 20 SECONDS***"
+	}
+	"***ELEVATOR LEAVING IN 10 SECONDS***"
+	{
+		"trans"		"***ELEVATOR LEAVING IN 10 SECONDS***"
+	}
+	"***ELEVATOR LEAVING IN 5 SECONDS***"
+	{
+		"trans"		"***ELEVATOR LEAVING IN 5 SECONDS***"
+	}
+	"***OPENING FINAL DOOR***"
+	{
+		"trans"		"***OPENING FINAL DOOR***"
+	}
+	"***FINAL DOOR IS CLOSING***"
+	{
+		"trans"		"***FINAL DOOR IS CLOSING***"
+	}
+}
