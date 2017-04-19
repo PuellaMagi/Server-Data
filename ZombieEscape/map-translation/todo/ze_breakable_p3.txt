@@ -6,7 +6,7 @@
 	}
 	">>>MAP BY LeGrem<<<"
 	{
-		"blocked"		">>>MAP BY LeGrem<<<"
+		"blocked"		"1"
 	}
 	">>>RUN<<<"
 	{

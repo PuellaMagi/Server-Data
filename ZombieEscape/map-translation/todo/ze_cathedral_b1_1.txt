@@ -2,7 +2,7 @@
 {
 	"*** ZE_CATHEDRAL_V1 created by JorisCeoen ***"
 	{
-		"trans"		"欢迎来到大教堂"
+		"trans"		"欢迎来到大教堂 作者JorisCeoen 翻译DohiCircle"
 	}
 	"*** MARIA PLATFORM HAS BEEN REACHED. STAY ON IT TO BE SAFE ***"
 	{
@@ -62,7 +62,7 @@
 	}
 	"*** Music currently being played: J.S. Bach - BWV 599 (Chorale) ***"
 	{
-		"blocked"		"*** Music currently being played: J.S. Bach - BWV 599 (Chorale) ***"
+		"blocked"		"1"
 	}
 	"*** THE HOLY LIGHT WILL BE GENERATED IN 40 seconds ***"
 	{
@@ -110,7 +110,7 @@
 	}
 	"*** Music currently being played: J.S. Bach - BWV 538 (Doric Toccata D minor) ***"
 	{
-		"blocked"		"*** Music currently being played: J.S. Bach - BWV 538 (Doric Toccata D minor) ***"
+		"blocked"		"1"
 	}
 	"*** LOOK OVER THERE! THERE'S A HOLY GRAIL! ***"
 	{

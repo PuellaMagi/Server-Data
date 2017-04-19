@@ -2,11 +2,11 @@
 {
 	"*** Map made by Manficool (제작자 : Manficool) ***"
 	{
-		"blocked"		"*** Map made by Manficool (제작자 : Manficool) ***"
+		"trans"		"欢迎来到十三号设施 作者Manficool 翻译DohiCircle"
 	}
 	"*** Map ported by [ＥSＣAＰＥ] Loving You (수정자 : 러빙유) ***"
 	{
-		"blocked"		"*** Map ported by [ＥSＣAＰＥ] Loving You (수정자 : 러빙유) ***"
+		"blocked"		"1"
 	}
 	"*** AFK／SPAWN CAMP KILLER IN 60 SECONDS ***"
 	{

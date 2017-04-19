@@ -2,14 +2,14 @@
 {
 	">>stairs will clear in 30 seconds<<"
 	{
-		"trans"		">>stairs will clear in 30 seconds<<"
+		"trans"		"等待30秒，正在清理这些椅子"
 	}
 	">>5 seconds<<"
 	{
-		"trans"		">>5 seconds<<"
+		"trans"		"还有5秒"
 	}
 	">>stairs will be clear in 60 seconds<<"
 	{
-		"trans"		">>stairs will be clear in 60 seconds<<"
+		"trans"		"等待60秒，正在清理这些椅子"
 	}
 }
