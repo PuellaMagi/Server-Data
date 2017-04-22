@@ -2,102 +2,102 @@
 {
 	"*** Door opening in 20 seconds ***"
 	{
-		"trans"		"*** Door opening in 20 seconds ***"
+		"trans"		"防守20秒直至门打开"
 	}
 	"*** Door opening in 5 seconds ***"
 	{
-		"trans"		"*** Door opening in 5 seconds ***"
+		"trans"		"还有5秒门将打开，坚持住！"
 	}
 	"*** Boats departing in 20 seconds ***"
 	{
-		"trans"		"*** Boats departing in 20 seconds ***"
+		"trans"		"船将在20秒后离开"
 	}
 	"*** Boats departing in 5 seconds ***"
 	{
-		"trans"		"*** Boats departing in 5 seconds ***"
+		"trans"		"没时间解释了还有5秒快上船"
 	}
 	"*** Gust Orb has been acquired ***"
 	{
-		"trans"		"*** Gust Orb has been acquired ***"
+		"trans"		"狂风之球已被捡起"
 	}
 	"*** Divine Orb has been acquired ***"
 	{
-		"trans"		"*** Divine Orb has been acquired ***"
+		"trans"		"神圣之球已被捡起"
 	}
 	"*** Gate opening in 10 seconds ***"
 	{
-		"trans"		"*** Gate opening in 10 seconds ***"
+		"trans"		"大门将在10秒后打开"
 	}
 	"*** 5 seconds left ***"
 	{
-		"trans"		"*** 5 seconds left ***"
+		"trans"		"还有5秒我们就可以撤退了"
 	}
 	"*** Abyssal Orb has been acquired ***"
 	{
-		"trans"		"*** Abyssal Orb has been acquired ***"
+		"trans"		"深海之球已被捡起（放逐僵尸）"
 	}
 	"*** Round failed! Zombies have reached the objective! ***"
 	{
-		"trans"		"*** Round failed! Zombies have reached the objective! ***"
+		"trans"		"你们输了，僵尸已经进来了"
 	}
 	"*** Lightning Orb has been acquired ***"
 	{
-		"trans"		"*** Lightning Orb has been acquired ***"
+		"trans"		"闪电之球已被捡起"
 	}
 	"*** Celestial Embrace has been acquired ***"
 	{
-		"trans"		"*** Celestial Embrace has been acquired ***"
+		"trans"		"黑洞已被捡起"
 	}
 	"*** Glacial Orb has been acquired ***"
 	{
-		"trans"		"*** Glacial Orb has been acquired ***"
+		"trans"		"冰霜之球被捡起"
 	}
 	"*** All 4 levers activated ***"
 	{
-		"trans"		"*** All 4 levers activated ***"
+		"trans"		"四个开关都被激活了"
 	}
 	"*** Gate opening in 15 seconds ***"
 	{
-		"trans"		"*** Gate opening in 15 seconds ***"
+		"trans"		"大门将在15秒后打开"
 	}
 	"*** Gate opening ***"
 	{
-		"trans"		"*** Gate opening ***"
+		"trans"		"大门已经打开"
 	}
 	"*** Lift activated ***"
 	{
-		"trans"		"*** Lift activated ***"
+		"trans"		"升降梯已触发"
 	}
 	"*** Gate opening in 20 seconds ***"
 	{
-		"trans"		"*** Gate opening in 20 seconds ***"
+		"trans"		"大门将在20秒后打开"
 	}
 	"*** Door opening in 15 seconds ***"
 	{
-		"trans"		"*** Door opening in 15 seconds ***"
+		"trans"		"门将在15秒后打开"
 	}
 	"*** Platform rising in 15 seconds ***"
 	{
-		"trans"		"*** Platform rising in 15 seconds ***"
+		"trans"		"平台将在15秒后上升"
 	}
 	"*** Left lever activated ***"
 	{
-		"trans"		"*** Left lever activated ***"
+		"trans"		"左边的杠杆已被触发"
 	}
 	"*** Right lever activated ***"
 	{
-		"trans"		"*** Right lever activated ***"
+		"trans"		"右边的杠杆已被触发"
 	}
 	"*** Final door opening in 30 seconds ***"
 	{
-		"trans"		"*** Final door opening in 30 seconds ***"
+		"trans"		"最后的大门将在30秒后打开"
 	}
 	"*** Final door opening in 5 seconds ***"
 	{
-		"trans"		"*** Final door opening in 5 seconds ***"
+		"trans"		"坚持住还有5秒！"
 	}
 	"*** Final door closing in 5 seconds ***"
 	{
-		"trans"		"*** Final door closing in 5 seconds ***"
+		"trans"		"再防守5秒就安全了"
 	}
 }

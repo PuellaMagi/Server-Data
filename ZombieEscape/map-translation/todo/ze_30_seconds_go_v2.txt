@@ -2,18 +2,18 @@
 {
 	"***30 seconds for pressing button!!!***"
 	{
-		"trans"		"***30 seconds for pressing button!!!***"
+		"trans"		"你们只有30秒时间按下按钮!!!"
 	}
 	"***30 second for pressing button!!!***"
 	{
-		"trans"		"***30 second for pressing button!!!***"
+		"trans"		"你们只有30秒时间按下按钮!!!"
 	}
 	"***30 seconds for pressing right button!!!***"
 	{
-		"trans"		"***30 seconds for pressing right button!!!***"
+		"trans"		"你们只有30秒时间找到正确的按钮！"
 	}
 	"map made by -sang-. helper: V1KT0P"
 	{
-		"trans"		"map made by -sang-. helper: V1KT0P"
+		"blocked"		"1"
 	}
 }

@@ -2,14 +2,14 @@
 {
 	">>>BREAK CRATES AND GET ON IT TO ESCAPE FROM MOTHER ZOMBIE<<<"
 	{
-		"trans"		">>>BREAK CRATES AND GET ON IT TO ESCAPE FROM MOTHER ZOMBIE<<<"
+		"trans"		">>>打破木箱躲避僵尸的袭击<<<"
 	}
 	">>>MAP BY LeGrem<<<"
 	{
-		"trans"		">>>MAP BY LeGrem<<<"
+		"blocked"		"1"
 	}
 	">>>RUN<<<"
 	{
-		"trans"		">>>RUN<<<"
+		"trans"		">>>没时间解释了快撤退<<<"
 	}
 }

@@ -2,18 +2,18 @@
 {
 	"***Turtle Reactions - Anima Ruins***"
 	{
-		"trans"		"***Turtle Reactions - Anima Ruins***"
+		"trans"		"欢迎来到阿尼玛废墟"
 	}
 	"***Stage 1 - Ruins***"
 	{
-		"trans"		"***Stage 1 - Ruins***"
+		"trans"		"第一关————废墟"
 	}
 	"*Gate 1 will open in 30 sec*"
 	{
-		"trans"		"*Gate 1 will open in 30 sec*"
+		"trans"		"大门将在30秒后打开"
 	}
 	"*Gate 1 Opening*"
 	{
-		"trans"		"*Gate 1 Opening*"
+		"trans"		"大门已经打开"
 	}
 }
