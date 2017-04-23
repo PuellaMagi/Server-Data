@@ -2,11 +2,11 @@
 {
 	"** Hey there! Welcome to ze_colors **"
 	{
-		"trans"		"** Hey there! Welcome to ze_colors **"
+		"trans"		"欢迎来到五彩世界 翻译DohiCircle"
 	}
 	"** Believe it or not this map was once a tutorial and twice a duck! **"
 	{
-		"trans"		"** Believe it or not this map was once a tutorial and twice a duck! **"
+		"blocked"		"1"
 	}
 	"** Level: Lemon **"
 	{
@@ -14,18 +14,18 @@
 	}
 	"** This level looks like good old Louisiana: lines and squares all along the little lonely land **"
 	{
-		"trans"		"** This level looks like good old Louisiana: lines and squares all along the little lonely land **"
+		"trans"		"请防守好两个大路，请不要躲在小管道，一旦失守迎接你的就是死亡"
 	}
 	"** GET GOING! Tension has been built in the spawn area! **"
 	{
-		"trans"		"** GET GOING! Tension has been built in the spawn area! **"
+		"trans"		"快走吧，出生点已经有了空气墙阻挡僵尸了"
 	}
 	"** RESIST! We're pathetically close to the spawn still! **"
 	{
-		"trans"		"** RESIST! We're pathetically close to the spawn still! **"
+		"trans"		"停留在出生点的玩家将被推出"
 	}
 	"** One tiny bit more! We're almost there! **"
 	{
-		"trans"		"** One tiny bit more! We're almost there! **"
+		"trans"		"都聚在一起防守到背后门开"
 	}
 }
