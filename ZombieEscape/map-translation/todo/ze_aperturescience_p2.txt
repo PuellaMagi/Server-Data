@@ -1,0 +1,35 @@
+"Chat"
+{
+	"--YES____      NO_____--"
+	{
+		"trans"		"--YES____      NO_____--"
+	}
+	"--**HINT: Crouch to clear the orange sphere!**--"
+	{
+		"trans"		"--**HINT: Crouch to clear the orange sphere!**--"
+	}
+	"--Hold this position from any zombies--"
+	{
+		"trans"		"--Hold this position from any zombies--"
+	}
+	"--Office doors are now closed--"
+	{
+		"trans"		"--Office doors are now closed--"
+	}
+	"--Zombie teleport in 25 secs!--"
+	{
+		"trans"		"--Zombie teleport in 25 secs!--"
+	}
+	"--GLaDOS is exploding! Take cover!--"
+	{
+		"trans"		"--GLaDOS is exploding! Take cover!--"
+	}
+	"--Escape lift doors closing in 10 seconds--"
+	{
+		"trans"		"--Escape lift doors closing in 10 seconds--"
+	}
+	"--Lift has now left Aperture Science--"
+	{
+		"trans"		"--Lift has now left Aperture Science--"
+	}
+}

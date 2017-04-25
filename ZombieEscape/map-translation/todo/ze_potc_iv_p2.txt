@@ -1,0 +1,99 @@
+"Chat"
+{
+	">>LEVEL: EASY<<"
+	{
+		"trans"		">>LEVEL: EASY<<"
+	}
+	">>MAP MADE BY TaskuVaras<<"
+	{
+		"trans"		">>MAP MADE BY TaskuVaras<<"
+	}
+	">>Special thanks to: T-Money and Enviolinador<<"
+	{
+		"trans"		">>Special thanks to: T-Money and Enviolinador<<"
+	}
+	">> 1 player must go to lighthouse and shoot the oil<<"
+	{
+		"trans"		">> 1 player must go to lighthouse and shoot the oil<<"
+	}
+	">> others try to keep zombies in water<<"
+	{
+		"trans"		">> others try to keep zombies in water<<"
+	}
+	">> Lighthouse exploding automatically in 30 seconds <<"
+	{
+		"trans"		">> Lighthouse exploding automatically in 30 seconds <<"
+	}
+	">>>LIGHT HAS BEEN TAKEN<<<"
+	{
+		"trans"		">>>LIGHT HAS BEEN TAKEN<<<"
+	}
+	">>>Press USE to fire<<<"
+	{
+		"trans"		">>>Press USE to fire<<<"
+	}
+	">> DEFEND FOR 30 SEC<<"
+	{
+		"trans"		">> DEFEND FOR 30 SEC<<"
+	}
+	">>  TELEPORTING everyone to jungle<<"
+	{
+		"trans"		">>  TELEPORTING everyone to jungle<<"
+	}
+	">>  5 MORE SECONDS<<"
+	{
+		"trans"		">>  5 MORE SECONDS<<"
+	}
+	">> IMPORTANT!!!!!!!! <<"
+	{
+		"trans"		">> IMPORTANT!!!!!!!! <<"
+	}
+	">> TAKE THE SILVER CHALICES <<"
+	{
+		"trans"		">> TAKE THE SILVER CHALICES <<"
+	}
+	">> TAKE CHALICES TO FOUNTAIN OF YOUTH <<"
+	{
+		"trans"		">> TAKE CHALICES TO FOUNTAIN OF YOUTH <<"
+	}
+	">>  TELEPORTING everyone to ponce de leon<<"
+	{
+		"trans"		">>  TELEPORTING everyone to ponce de leon<<"
+	}
+	">> SURVIVE FOR 60 SEC<<"
+	{
+		"trans"		">> SURVIVE FOR 60 SEC<<"
+	}
+	">>  TELEPORTING everyone to fountain of youth<<"
+	{
+		"trans"		">>  TELEPORTING everyone to fountain of youth<<"
+	}
+	">>LEVEL COMPLETED!<<"
+	{
+		"trans"		">>LEVEL COMPLETED!<<"
+	}
+	">> LIGHT CAN BE NOW USED AGAIN<<"
+	{
+		"trans"		">> LIGHT CAN BE NOW USED AGAIN<<"
+	}
+	">>LEVEL: NORMAL<<"
+	{
+		"trans"		">>LEVEL: NORMAL<<"
+	}
+	">>LEVEL: HARD<<"
+	{
+		"trans"		">>LEVEL: HARD<<"
+	}
+	">> DEFEND FOR 60 SEC<<"
+	{
+		"trans"		">> DEFEND FOR 60 SEC<<"
+	}
+	">>LEVEL: EXTREME<<"
+	{
+		"trans"		">>LEVEL: EXTREME<<"
+	}
+	">> YOU FORGOT THE CHALICES<<"
+	{
+		"trans"		">> YOU FORGOT THE CHALICES<<"
+	}
+}

@@ -1,0 +1,31 @@
+"Chat"
+{
+	">>MISSION 1: INTERCEPTION (EASY)<<"
+	{
+		"trans"		">>MISSION 1: INTERCEPTION (EASY)<<"
+	}
+	">>HOLD THE COMPOUND FOR 50 SECONDS<<"
+	{
+		"trans"		">>HOLD THE COMPOUND FOR 50 SECONDS<<"
+	}
+	">>10 SECONDS LEFT<<"
+	{
+		"trans"		">>10 SECONDS LEFT<<"
+	}
+	">>FALL BACK<<"
+	{
+		"trans"		">>FALL BACK<<"
+	}
+	">>SPLIT UP! GO TOP AND BOTTOM<<"
+	{
+		"trans"		">>SPLIT UP! GO TOP AND BOTTOM<<"
+	}
+	">>HOLD UP HERE WHILE DOORS ARE HACKED OPEN<<"
+	{
+		"trans"		">>HOLD UP HERE WHILE DOORS ARE HACKED OPEN<<"
+	}
+	">>HOLD FOR 40 SECONDS<<"
+	{
+		"trans"		">>HOLD FOR 40 SECONDS<<"
+	}
+}

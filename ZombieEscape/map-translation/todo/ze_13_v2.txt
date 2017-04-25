@@ -2,18 +2,62 @@
 {
 	"*** Map made by Manficool (제작자 : Manficool) ***"
 	{
-		"trans"		"欢迎来到十三号设施 作者Manficool 翻译DohiCircle"
+		"trans"		"*** Map made by Manficool (제작자 : Manficool) ***"
 	}
 	"*** Map ported by [ＥSＣAＰＥ] Loving You (수정자 : 러빙유) ***"
 	{
-		"blocked"		"1"
+		"trans"		"*** Map ported by [ＥSＣAＰＥ] Loving You (수정자 : 러빙유) ***"
 	}
 	"*** AFK／SPAWN CAMP KILLER IN 60 SECONDS ***"
 	{
-		"trans"		"60秒后将处死AFK玩家"
+		"trans"		"*** AFK／SPAWN CAMP KILLER IN 60 SECONDS ***"
 	}
 	"*** REAR DOORS OPENING IN 30 SECONDS ***"
 	{
-		"trans"		"后门将在30秒后打开"
+		"trans"		"*** REAR DOORS OPENING IN 30 SECONDS ***"
+	}
+	"*** REAR DOORS OPENING IN 10 SECONDS ***"
+	{
+		"trans"		"*** REAR DOORS OPENING IN 10 SECONDS ***"
+	}
+	"*** SAFETY DOOR CLOSING ***"
+	{
+		"trans"		"*** SAFETY DOOR CLOSING ***"
+	}
+	"*** DOORS OPENING ***"
+	{
+		"trans"		"*** DOORS OPENING ***"
+	}
+	"*** TRUST IN THE LIGHT! ***"
+	{
+		"trans"		"*** TRUST IN THE LIGHT! ***"
+	}
+	"*** DARK ROOM FLOOR STABLE ***"
+	{
+		"trans"		"*** DARK ROOM FLOOR STABLE ***"
+	}
+	"*** DOOR OPENING SHORTLY ***"
+	{
+		"trans"		"*** DOOR OPENING SHORTLY ***"
+	}
+	"*** DOOR IS NOW OPEN ***"
+	{
+		"trans"		"*** DOOR IS NOW OPEN ***"
+	}
+	"*** BIG ELEVATOR LEAVING IN 5 SECONDS ***"
+	{
+		"trans"		"*** BIG ELEVATOR LEAVING IN 5 SECONDS ***"
+	}
+	"*** SIDE DOOR OPENING ***"
+	{
+		"trans"		"*** SIDE DOOR OPENING ***"
+	}
+	"*** NUKE ARRIVING IN 30 SECONDS ***"
+	{
+		"trans"		"*** NUKE ARRIVING IN 30 SECONDS ***"
+	}
+	"*** NUKE IMPACTING ***"
+	{
+		"trans"		"*** NUKE IMPACTING ***"
 	}
 }

@@ -1,0 +1,31 @@
+"Chat"
+{
+	"# RETURN TO CASTLE WOLFENSTEIN #"
+	{
+		"trans"		"# RETURN TO CASTLE WOLFENSTEIN #"
+	}
+	"# MAP BY JB_GAMBLE #"
+	{
+		"trans"		"# MAP BY JB_GAMBLE #"
+	}
+	"# MISSION 1 - OMINOUS RUMORS #"
+	{
+		"trans"		"# MISSION 1 - OMINOUS RUMORS #"
+	}
+	"# PART 1 - ESCAPE! #"
+	{
+		"trans"		"# PART 1 - ESCAPE! #"
+	}
+	"<!!!> HOLD THIS POSITION <!!!>"
+	{
+		"trans"		"<!!!> HOLD THIS POSITION <!!!>"
+	}
+	"<!!!> GATE OPEN <!!!>"
+	{
+		"trans"		"<!!!> GATE OPEN <!!!>"
+	}
+	"<!!!> FALL BACK <!!!>"
+	{
+		"trans"		"<!!!> FALL BACK <!!!>"
+	}
+}

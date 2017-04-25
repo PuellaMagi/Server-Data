@@ -1,0 +1,59 @@
+"Chat"
+{
+	"**The door will open in 45 seconds. Cover!!**"
+	{
+		"trans"		"**The door will open in 45 seconds. Cover!!**"
+	}
+	"**Door is open 10 sec**"
+	{
+		"trans"		"**Door is open 10 sec**"
+	}
+	"**Elevator is leaving in 25s**"
+	{
+		"trans"		"**Elevator is leaving in 25s**"
+	}
+	"**Elevator is leaving in 5s**"
+	{
+		"trans"		"**Elevator is leaving in 5s**"
+	}
+	"**Boat will arrive in 30 seconds**"
+	{
+		"trans"		"**Boat will arrive in 30 seconds**"
+	}
+	"***Boat is leaving***"
+	{
+		"trans"		"***Boat is leaving***"
+	}
+	"***The teleporter it's now available for zombies!***"
+	{
+		"trans"		"***The teleporter it's now available for zombies!***"
+	}
+	"** Boss Fight in 10s **"
+	{
+		"trans"		"** Boss Fight in 10s **"
+	}
+	"** Boss Fight in 5s **"
+	{
+		"trans"		"** Boss Fight in 5s **"
+	}
+	"** Nades do more damage **"
+	{
+		"trans"		"** Nades do more damage **"
+	}
+	"** Boss is dead - Escape ! **"
+	{
+		"trans"		"** Boss is dead - Escape ! **"
+	}
+	"**The door will open in 30 seconds. Cover!!**"
+	{
+		"trans"		"**The door will open in 30 seconds. Cover!!**"
+	}
+	"***Congratulations!***"
+	{
+		"trans"		"***Congratulations!***"
+	}
+	"***Map fixed by Et3rnity***"
+	{
+		"trans"		"***Map fixed by Et3rnity***"
+	}
+}

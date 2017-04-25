@@ -64,4 +64,32 @@
 	{
 		"trans"		"*** STAGE COMPLETED ***"
 	}
+	"*** Door opens in 15 seconds ***"
+	{
+		"trans"		"*** Door Opens in 15 seconds ***"
+	}
+	"*** Wall opens in 20 seconds ! ***"
+	{
+		"trans"		"*** Wall opens in 20 seconds ! ***"
+	}
+	"*** Door opens in 15 seconds ! ***"
+	{
+		"trans"		"*** Door opens in 15 seconds ! ***"
+	}
+	"*** Hold here ***"
+	{
+		"trans"		"*** Hold here ***"
+	}
+	"*** Door opening in 10 seconds ! ***"
+	{
+		"trans"		"*** Door opening in 10 seconds ! ***"
+	}
+	"*** Door opens in 10 seconds ! ***"
+	{
+		"trans"		"*** Door opens in 10 seconds ! ***"
+	}
+	"*** Superior door opens in 30 seconds ! ***"
+	{
+		"trans"		"*** Superior door opens in 30 seconds ! ***"
+	}
 }

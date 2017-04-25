@@ -120,4 +120,24 @@
 	{
 		"trans"		"*** Difficulty : rtv ***"
 	}
+	"Admin pressed Insane button"
+	{
+		"trans"		"Admin pressed Insane button"
+	}
+	"Admin pressed rtv button"
+	{
+		"trans"		"Admin pressed rtv button"
+	}
+	"Admin pressed Extreme button"
+	{
+		"trans"		"Admin pressed Extreme button"
+	}
+	"Admin pressed Ex disable button"
+	{
+		"trans"		"Admin pressed Ex disable button"
+	}
+	"Admin pressed Ex button"
+	{
+		"trans"		"Admin pressed Ex button"
+	}
 }

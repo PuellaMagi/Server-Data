@@ -1,0 +1,11 @@
+"Chat"
+{
+	"***HOLD 25 SECONDS***"
+	{
+		"trans"		"***HOLD 25 SECONDS***"
+	}
+	"***TRUCK LEAVING IN 20 SECONDS***"
+	{
+		"trans"		"***TRUCK LEAVING IN 20 SECONDS***"
+	}
+}

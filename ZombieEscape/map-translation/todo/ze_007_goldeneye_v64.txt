@@ -1,0 +1,79 @@
+"Chat"
+{
+	"*** STAGE 1 ***"
+	{
+		"trans"		"*** STAGE 1 ***"
+	}
+	"*** SURVIVE FOR 20 SECONDS ***"
+	{
+		"trans"		"*** SURVIVE FOR 20 SECONDS ***"
+	}
+	"*** 7 SECONDS REMAINING ***"
+	{
+		"trans"		"*** 7 SECONDS REMAINING ***"
+	}
+	"*** >????????????????????? ***"
+	{
+		"trans"		"*** >????????????????????? ***"
+	}
+	"*** ??????%%%%%%%? ***"
+	{
+		"trans"		"*** ??????%%%%%%%? ***"
+	}
+	"*** ?? ***"
+	{
+		"trans"		"*** ?? ***"
+	}
+	"*** FIND AN ESCAPE ***"
+	{
+		"trans"		"*** FIND AN ESCAPE ***"
+	}
+	"*** ELEVATOR LEAVING SOON ***"
+	{
+		"trans"		"*** ELEVATOR LEAVING SOON ***"
+	}
+	"*** HOLD FOR 30 SECONDS ***"
+	{
+		"trans"		"*** HOLD FOR 30 SECONDS ***"
+	}
+	"*** STAGE 1 PASSED ***"
+	{
+		"trans"		"*** STAGE 1 PASSED ***"
+	}
+	"*** STAGE 2 ***"
+	{
+		"trans"		"*** STAGE 2 ***"
+	}
+	"*** COUNTDOWN BEGINNING ***"
+	{
+		"trans"		"*** COUNTDOWN BEGINNING ***"
+	}
+	"*** INCOMING TRANSMISSION ***"
+	{
+		"trans"		"*** INCOMING TRANSMISSION ***"
+	}
+	"*** DEFEND THE STAIRS ***"
+	{
+		"trans"		"*** DEFEND THE STAIRS ***"
+	}
+	"*** COUNTDOWN DISABLED ***"
+	{
+		"trans"		"*** COUNTDOWN DISABLED ***"
+	}
+	"*** 3 ***"
+	{
+		"trans"		"*** 3 ***"
+	}
+	"*** 2 ***"
+	{
+		"trans"		"*** 2 ***"
+	}
+	"*** 1 ***"
+	{
+		"trans"		"*** 1 ***"
+	}
+	"** TRANSMISSION COMPLETE **"
+	{
+		"trans"		"** TRANSMISSION COMPLETE **"
+	}
+}

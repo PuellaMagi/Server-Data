@@ -1,0 +1,7 @@
+"Chat"
+{
+	"Map ported by KratosMafia"
+	{
+		"trans"		"Map ported by KratosMafia"
+	}
+}

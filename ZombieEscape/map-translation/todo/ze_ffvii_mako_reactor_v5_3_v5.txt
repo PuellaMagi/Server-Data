@@ -144,4 +144,88 @@
 	{
 		"trans"		"*** MATERIAS AT LVL 3 ***"
 	}
+	"** A player has adquired ELECTRO MATERIA **"
+	{
+		"trans"		"** A player has adquired ELECTRO MATERIA **"
+	}
+	"** A player has adquired EARTH MATERIA **"
+	{
+		"trans"		"** A player has adquired EARTH MATERIA **"
+	}
+	"** A player has adquired ICE MATERIA **"
+	{
+		"trans"		"** A player has adquired ICE MATERIA **"
+	}
+	"** A player has adquired WIND MATERIA **"
+	{
+		"trans"		"** A player has adquired WIND MATERIA **"
+	}
+	"** ZOMBIES HAVE INFECTED THE BUNKER **"
+	{
+		"trans"		"** ZOMBIES HAVE INFECTED THE BUNKER **"
+	}
+	"** A player has adquired HEAL MATERIA **"
+	{
+		"trans"		"** A player has adquired HEAL MATERIA **"
+	}
+	"** A player has adquired GRAVITY MATERIA **"
+	{
+		"trans"		"** A player has adquired GRAVITY MATERIA **"
+	}
+	"** A player has adquired ULTIMA MATERIA **"
+	{
+		"trans"		"** A player has adquired ULTIMA MATERIA **"
+	}
+	"** RUN! **"
+	{
+		"trans"		"** RUN! **"
+	}
+	"**Nice done! You interrumped Sephiroth s attack**"
+	{
+		"trans"		"**Nice done! You interrumped Sephiroth s attack**"
+	}
+	"**  10 SECONDS LEFT **"
+	{
+		"trans"		"**  10 SECONDS LEFT **"
+	}
+	"** You did it ! You won at the HARDEST difficult ** Time to EXTREME mode ** Good luck ! ** "
+	{
+		"trans"		"** You did it ! You won at the HARDEST difficult ** Time to EXTREME mode ** Good luck ! ** "
+	}
+	"**  120 SECONDS LEFT **"
+	{
+		"trans"		"**  120 SECONDS LEFT **"
+	}
+	"** 30 seconds left **"
+	{
+		"trans"		"** 30 SECONDS LEFT **"
+	}
+	"** YOU DID IT! YOU WON EXTREME ! YOU OWN! ** "
+	{
+		"trans"		"** YOU DID IT! YOU WON EXTREME ! YOU OWN! ** "
+	}
+	"** A player has adquired FIRE MATERIA **"
+	{
+		"trans"		"** A player has adquired FIRE MATERIA **"
+	}
+	"** Bahamut is going to cast Mega Flare !! Shoot !! **"
+	{
+		"trans"		"** Bahamut is going to cast Mega Flare !! Shoot !! **"
+	}
+	"** BAHAMUT IS DEAD ** KEEP RUNNING **"
+	{
+		"trans"		"** BAHAMUT IS DEAD ** KEEP RUNNING **"
+	}
+	"** 10 SECONDS LEFT **"
+	{
+		"trans"		"** 10 SECONDS LEFT **"
+	}
+	"** YOU ARE THE MASTERS OF MAKO REACTOR! ** "
+	{
+		"trans"		"** YOU ARE THE MASTERS OF MAKO REACTOR! ** "
+	}
+	"** HUMAN VICTORY IN 3 MINUTES **"
+	{
+		"trans"		"** HUMAN VICTORY IN 3 MINUTES **"
+	}
 }

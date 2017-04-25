@@ -1,0 +1,199 @@
+"Chat"
+{
+	"> ZE UT2004 CONVOY"
+	{
+		"trans"		"> ZE UT2004 CONVOY"
+	}
+	"> NOVICE DIFFICULTY"
+	{
+		"trans"		"> NOVICE DIFFICULTY"
+	}
+	"> Map by SubDelt@"
+	{
+		"trans"		"> Map by SubDelt@"
+	}
+	"> Thanks to"
+	{
+		"trans"		"> Thanks to"
+	}
+	"> Cuniczek and Kaemon - helping with Propper"
+	{
+		"trans"		"> Cuniczek and Kaemon - helping with Propper"
+	}
+	"> Kaesar - providing UT2004 models"
+	{
+		"trans"		"> Kaesar - providing UT2004 models"
+	}
+	"> JorisCeoen - modeling help"
+	{
+		"trans"		"> JorisCeoen - modeling help"
+	}
+	"> Enviolinador - lots of general help"
+	{
+		"trans"		"> Enviolinador - lots of general help"
+	}
+	">>> EXTEND THE BOARDING PLATFORM TO GAIN ACCESS TO THE REPAIR VESSEL <<<"
+	{
+		"trans"		">>> EXTEND THE BOARDING PLATFORM TO GAIN ACCESS TO THE REPAIR VESSEL <<<"
+	}
+	"> BERSERK COMBO has been acquired"
+	{
+		"trans"		"> BERSERK COMBO has been acquired"
+	}
+	">>> THE BOARDING PLATFORM EXTENDS IN 35 SECONDS <<<"
+	{
+		"trans"		">>> THE BOARDING PLATFORM EXTENDS IN 35 SECONDS <<<"
+	}
+	">>> THE BOARDING PLATFORM EXTENDS IN 15 SECONDS <<<"
+	{
+		"trans"		">>> THE BOARDING PLATFORM EXTENDS IN 15 SECONDS <<<"
+	}
+	">>> THE FORWARD WEAPON CACHE HAS BEEN STOLEN! <<<"
+	{
+		"trans"		">>> THE FORWARD WEAPON CACHE HAS BEEN STOLEN! <<<"
+	}
+	">>> THE BOARDING PLATFORM EXTENDS IN 5 SECONDS <<<"
+	{
+		"trans"		">>> THE BOARDING PLATFORM EXTENDS IN 5 SECONDS <<<"
+	}
+	">>> THE BOARDING PLATFORM HAS BEEN EXTENDED <<<"
+	{
+		"trans"		">>> THE BOARDING PLATFORM HAS BEEN EXTENDED <<<"
+	}
+	">>> DESTROY THE DOOR OF THE REPAIR VESSEL <<<"
+	{
+		"trans"		">>> DESTROY THE DOOR OF THE REPAIR VESSEL <<<"
+	}
+	">>> THE EXPLOSIVES ARE IN PLACE! <<<"
+	{
+		"trans"		">>> THE EXPLOSIVES ARE IN PLACE! <<<"
+	}
+	">>> EXPLOSION IN 40 SECONDS <<<"
+	{
+		"trans"		">>> EXPLOSION IN 40 SECONDS <<<"
+	}
+	"> REDEEMER has been acquired"
+	{
+		"trans"		"> REDEEMER has been acquired"
+	}
+	">>> EXPLOSION IN 20 SECONDS <<<"
+	{
+		"trans"		">>> EXPLOSION IN 20 SECONDS <<<"
+	}
+	">>> EXPLOSION IN 5 SECONDS <<<"
+	{
+		"trans"		">>> EXPLOSION IN 5 SECONDS <<<"
+	}
+	">>> YOU MUST OPEN THE REAR DOOR OF THE REPAIR VESSEL <<<"
+	{
+		"trans"		">>> YOU MUST OPEN THE REAR DOOR OF THE REPAIR VESSEL <<<"
+	}
+	"> Tip - You can do this by standing near the lever at the rear part of the vessel"
+	{
+		"trans"		"> Tip - You can do this by standing near the lever at the rear part of the vessel"
+	}
+	">>> THE REAR DOOR HAS BEEN OPENED <<<"
+	{
+		"trans"		">>> THE REAR DOOR HAS BEEN OPENED <<<"
+	}
+	">>> REINFORCEMENTS ARE ON THE WAY! <<<"
+	{
+		"trans"		">>> REINFORCEMENTS ARE ON THE WAY! <<<"
+	}
+	">>> YOU MUST OPEN THE SIDE DOORS OF THE REPAIR VESSEL <<<"
+	{
+		"trans"		">>> YOU MUST OPEN THE SIDE DOORS OF THE REPAIR VESSEL <<<"
+	}
+	">>> WARNING! INBOUND AIRSTRIKE! <<<"
+	{
+		"trans"		">>> WARNING! INBOUND AIRSTRIKE! <<<"
+	}
+	">>> SEEK SHELTER WITHIN THE REPAIR VESSEL IMMEDIATELY! <<<"
+	{
+		"trans"		">>> SEEK SHELTER WITHIN THE REPAIR VESSEL IMMEDIATELY! <<<"
+	}
+	">>> SIDE DOORS OPEN IN 45 SECONDS <<<"
+	{
+		"trans"		">>> SIDE DOORS OPEN IN 45 SECONDS <<<"
+	}
+	">>> SIDE DOORS OPEN IN 20 SECONDS <<<"
+	{
+		"trans"		">>> SIDE DOORS OPEN IN 20 SECONDS <<<"
+	}
+	">>> SIDE DOORS OPEN IN 5 SECONDS <<<"
+	{
+		"trans"		">>> SIDE DOORS OPEN IN 5 SECONDS <<<"
+	}
+	">>> SIDE DOORS ARE OPENING <<<"
+	{
+		"trans"		">>> SIDE DOORS ARE OPENING <<<"
+	}
+	">>> YOU MUST INFILTRATE THE N.E.X.U.S. TRAILER <<<"
+	{
+		"trans"		">>> YOU MUST INFILTRATE THE N.E.X.U.S. TRAILER <<<"
+	}
+	">>> N.E.X.U.S. TRAILER HATCH OPENS IN 40 SECONDS <<<"
+	{
+		"trans"		">>> N.E.X.U.S. TRAILER HATCH OPENS IN 40 SECONDS <<<"
+	}
+	">>> N.E.X.U.S. TRAILER HATCH OPENS IN 20 SECONDS <<<"
+	{
+		"trans"		">>> N.E.X.U.S. TRAILER HATCH OPENS IN 20 SECONDS <<<"
+	}
+	">>> N.E.X.U.S. TRAILER HATCH OPENS IN 5 SECONDS <<<"
+	{
+		"trans"		">>> N.E.X.U.S. TRAILER HATCH OPENS IN 5 SECONDS <<<"
+	}
+	">>> N.E.X.U.S. TRAILER HATCH IS OPEN! <<<"
+	{
+		"trans"		">>> N.E.X.U.S. TRAILER HATCH IS OPEN! <<<"
+	}
+	">>> YOU CAN NOW RETRIEVE THE N.E.X.U.S. MISSILES <<<"
+	{
+		"trans"		">>> YOU CAN NOW RETRIEVE THE N.E.X.U.S. MISSILES <<<"
+	}
+	">>> WE ARE LEAVING IN 10 SECONDS! <<<"
+	{
+		"trans"		">>> WE ARE LEAVING IN 10 SECONDS! <<<"
+	}
+	">>> 5 <<<"
+	{
+		"trans"		">>> 5 <<<"
+	}
+	">>> 4 <<<"
+	{
+		"trans"		">>> 4 <<<"
+	}
+	">>> 3 <<<"
+	{
+		"trans"		">>> 3 <<<"
+	}
+	">>> 2 <<<"
+	{
+		"trans"		">>> 2 <<<"
+	}
+	">>> 1 <<<"
+	{
+		"trans"		">>> 1 <<<"
+	}
+	">>> THE N.E.X.U.S. MISSILES HAVE BEEN SECURED <<<"
+	{
+		"trans"		">>> THE N.E.X.U.S. MISSILES HAVE BEEN SECURED <<<"
+	}
+	">>> MOVING ON TO EXPERIENCED DIFFICULTY <<<"
+	{
+		"trans"		">>> MOVING ON TO EXPERIENCED DIFFICULTY <<<"
+	}
+	"> EXPERIENCED DIFFICULTY"
+	{
+		"trans"		"> EXPERIENCED DIFFICULTY"
+	}
+	"> ROCKET LAUNCHER has been acquired"
+	{
+		"trans"		"> ROCKET LAUNCHER has been acquired"
+	}
+	">>> MOVING ON TO MASTERFUL DIFFICULTY <<<"
+	{
+		"trans"		">>> MOVING ON TO MASTERFUL DIFFICULTY <<<"
+	}
+}

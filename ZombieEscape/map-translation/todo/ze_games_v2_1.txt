@@ -1,0 +1,27 @@
+"Chat"
+{
+	"-=[ Easy Mode :: CT／T > 4 ]=-"
+	{
+		"trans"		"-=[ Easy Mode :: CT／T > 4 ]=-"
+	}
+	"-=[ Normal Mode :: CT／T > 2 < 4 ]=-"
+	{
+		"trans"		"-=[ Normal Mode :: CT／T > 2 < 4 ]=-"
+	}
+	"-=[ Easy Mode :: CT／T == 4 ]=-"
+	{
+		"trans"		"-=[ Easy Mode :: CT／T == 4 ]=-"
+	}
+	"-=[ Extreme Mode :: CT／T < 1 ]=-"
+	{
+		"trans"		"-=[ Extreme Mode :: CT／T < 1 ]=-"
+	}
+	"-=[ Hard Mode :: CT／T > 1 < 2 ]=-"
+	{
+		"trans"		"-=[ Hard Mode :: CT／T > 1 < 2 ]=-"
+	}
+	"-=[ Hard Mode :: CT／T == 1 ]=-"
+	{
+		"trans"		"-=[ Hard Mode :: CT／T == 1 ]=-"
+	}
+}

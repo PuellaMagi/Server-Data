@@ -1,0 +1,347 @@
+"Chat"
+{
+	"** MAP BY SLAYERDRAGON **"
+	{
+		"trans"		"** MAP BY SLAYERDRAGON **"
+	}
+	"** LEVEL 1 (EASY) **"
+	{
+		"trans"		"** LEVEL 1 (EASY) **"
+	}
+	"** DOOR OPENS IN 10 SECONDS **"
+	{
+		"trans"		"** DOOR OPENS IN 10 SECONDS **"
+	}
+	"** DOOR OPENS IN 15 SECONDS **"
+	{
+		"trans"		"** DOOR OPENS IN 15 SECONDS **"
+	}
+	"** 5 MORE SECONDS LEFT **"
+	{
+		"trans"		"** 5 MORE SECONDS LEFT **"
+	}
+	"** Button A1 pressed **"
+	{
+		"trans"		"** Button A1 pressed **"
+	}
+	"** AMMO GUN - 40 sec cooldown **"
+	{
+		"trans"		"** AMMO GUN - 40 sec cooldown **"
+	}
+	"** Button A2 pressed **"
+	{
+		"trans"		"** Button A2 pressed **"
+	}
+	"** Button A3 Pressed **"
+	{
+		"trans"		"** Button A3 Pressed **"
+	}
+	"** ALL BUTTONS HAVE BEEN PRESSED **"
+	{
+		"trans"		"** ALL BUTTONS HAVE BEEN PRESSED **"
+	}
+	"** DEFEND 20 SECONDS **"
+	{
+		"trans"		"** DEFEND 20 SECONDS **"
+	}
+	"** DEFEND 5 MORE SECONDS **"
+	{
+		"trans"		"** DEFEND 5 MORE SECONDS **"
+	}
+	"** Button B2 Pressed **"
+	{
+		"trans"		"** Button B2 Pressed **"
+	}
+	"** Button B1 Pressed **"
+	{
+		"trans"		"** Button B1 Pressed **"
+	}
+	"** Button B3 Pressed **"
+	{
+		"trans"		"** Button B3 Pressed **"
+	}
+	"** GO TO THE CENTRAL BUILDING... **"
+	{
+		"trans"		"** GO TO THE CENTRAL BUILDING... **"
+	}
+	"** ... AND WAIT FOR EVACUATION **"
+	{
+		"trans"		"** ... AND WAIT FOR EVACUATION **"
+	}
+	"** DEFEND 10 SECONDS **"
+	{
+		"trans"		"** DEFEND 10 SECONDS **"
+	}
+	"** END OF THE LINE !! **"
+	{
+		"trans"		"** END OF THE LINE !! **"
+	}
+	"** HOLD THIS POSITION FOR 60 SECONDS !! **"
+	{
+		"trans"		"** HOLD THIS POSITION FOR 60 SECONDS !! **"
+	}
+	"** 50 SECONDS REMAINING **"
+	{
+		"trans"		"** 50 SECONDS REMAINING **"
+	}
+	"** 40 SECONDS REMAINING **"
+	{
+		"trans"		"** 40 SECONDS REMAINING **"
+	}
+	"** 30 SECONDS REMAINING **"
+	{
+		"trans"		"** 30 SECONDS REMAINING **"
+	}
+	"** 20 SECONDS REMAINING **"
+	{
+		"trans"		"** 20 SECONDS REMAINING **"
+	}
+	"** 10 SECONDS REMAINING **"
+	{
+		"trans"		"** 10 SECONDS REMAINING **"
+	}
+	"** 5 SECONDS REMAINING **"
+	{
+		"trans"		"** 5 SECONDS REMAINING **"
+	}
+	"** U WON LEVEL 1 (EASY) **"
+	{
+		"trans"		"** U WON LEVEL 1 (EASY) **"
+	}
+	"** LEVEL 2 (BOSS) **"
+	{
+		"trans"		"** LEVEL 2 (BOSS) **"
+	}
+	"** FIRE BARREL - 50 sec cooldown **"
+	{
+		"trans"		"** FIRE BARREL - 50 sec cooldown **"
+	}
+	"** GATE WILL OPEN IN 15 SECONDS **"
+	{
+		"trans"		"** GATE WILL OPEN IN 15 SECONDS **"
+	}
+	"** GATE WILL OPEN IN 5 SECONDS **"
+	{
+		"trans"		"** GATE WILL OPEN IN 5 SECONDS **"
+	}
+	"** GATE WILL CLOSE IN 10 SECONDS **"
+	{
+		"trans"		"** GATE WILL CLOSE IN 10 SECONDS **"
+	}
+	"** OH NOES! ITs PEDOBEAR !! **"
+	{
+		"trans"		"** OH NOES! ITs PEDOBEAR !! **"
+	}
+	"** KILL IT BEFORE IT RAPES EVERYONE !! **"
+	{
+		"trans"		"** KILL IT BEFORE IT RAPES EVERYONE !! **"
+	}
+	"** NADES AND SPECIAL ITEMS DO MORE DAMAGE !! **"
+	{
+		"trans"		"** NADES AND SPECIAL ITEMS DO MORE DAMAGE !! **"
+	}
+	"** PEDOBEAR HAS BEEN DEFEATED **"
+	{
+		"trans"		"** PEDOBEAR HAS BEEN DEFEATED **"
+	}
+	"** U WON LEVEL 2 (BOSS) **"
+	{
+		"trans"		"** U WON LEVEL 2 (BOSS) **"
+	}
+	"** LEVEL 3 (HARD) **"
+	{
+		"trans"		"** LEVEL 3 (HARD) **"
+	}
+	"** U WON LEVEL 3 (HARD) **"
+	{
+		"trans"		"** U WON LEVEL 3 (HARD) **"
+	}
+	"** LEVEL 4 (BOSS) **"
+	{
+		"trans"		"** LEVEL 4 (BOSS) **"
+	}
+	"** BOSS ATTACKS ENABLED **"
+	{
+		"trans"		"** BOSS ATTACKS ENABLED **"
+	}
+	"** U WON LEVEL 4 (BOSS) **"
+	{
+		"trans"		"** U WON LEVEL 4 (BOSS) **"
+	}
+	"** LEVEL 5 (ZM ROUND) **"
+	{
+		"trans"		"** LEVEL 5 (ZM ROUND) **"
+	}
+	"** 180 SECONDS left until VICTORY **"
+	{
+		"trans"		"** 180 SECONDS left until VICTORY **"
+	}
+	"** 120 SECONDS left until VICTORY **"
+	{
+		"trans"		"** 120 SECONDS left until VICTORY **"
+	}
+	"** 60 SECONDS left until VICTORY **"
+	{
+		"trans"		"** 60 SECONDS left until VICTORY **"
+	}
+	"** 30 SECONDS left until VICTORY **"
+	{
+		"trans"		"** 30 SECONDS left until VICTORY **"
+	}
+	"** 20 SECONDS left until VICTORY **"
+	{
+		"trans"		"** 20 SECONDS left until VICTORY **"
+	}
+	"** 10 SECONDS left until VICTORY **"
+	{
+		"trans"		"** 10 SECONDS left until VICTORY **"
+	}
+	"** 5 SECONDS left until VICTORY **"
+	{
+		"trans"		"** 5 SECONDS left until VICTORY **"
+	}
+	"** U WON LEVEL 5 (ZM ROUND) **"
+	{
+		"trans"		"** U WON LEVEL 5 (ZM ROUND) **"
+	}
+	"** LEVEL 6 (BOSS) **"
+	{
+		"trans"		"** LEVEL 6 (BOSS) **"
+	}
+	"** ITEM COLLECTED - ALL HUMANS GET 250 HP **"
+	{
+		"trans"		"** ITEM COLLECTED - ALL HUMANS GET 250 HP **"
+	}
+	"** U WON LEVEL 6 (BOSS) **"
+	{
+		"trans"		"** U WON LEVEL 6 (BOSS) **"
+	}
+	"** LEVEL 7 (EXTREME) **"
+	{
+		"trans"		"** LEVEL 7 (EXTREME) **"
+	}
+	"** DOOR OPENS IN 20 SECONDS **"
+	{
+		"trans"		"** DOOR OPENS IN 20 SECONDS **"
+	}
+	"** DOOR OPENS IN 5 SECONDS **"
+	{
+		"trans"		"** DOOR OPENS IN 5 SECONDS **"
+	}
+	"** MISSION - PLANT THE BOMB AND ESCAPE! **"
+	{
+		"trans"		"** MISSION - PLANT THE BOMB AND ESCAPE! **"
+	}
+	"** BOMB HAS BEEN PLANTED **"
+	{
+		"trans"		"** BOMB HAS BEEN PLANTED **"
+	}
+	"** AIRLOCK TURBINE IS STARTING... **"
+	{
+		"trans"		"** AIRLOCK TURBINE IS STARTING... **"
+	}
+	"** WE ARE READY TO ESCAPE THIS COMPOUND ! **"
+	{
+		"trans"		"** WE ARE READY TO ESCAPE THIS COMPOUND ! **"
+	}
+	"** 20 SECONDS BEFORE THE AIRLOCK OPENS **"
+	{
+		"trans"		"** 20 SECONDS BEFORE THE AIRLOCK OPENS **"
+	}
+	"** 5 SECONDS LEFT BEFORE THE AIRLOCK OPENS **"
+	{
+		"trans"		"** 5 SECONDS LEFT BEFORE THE AIRLOCK OPENS **"
+	}
+	"** WE ARE BACK IN THE COMPOUND ! **"
+	{
+		"trans"		"** WE ARE BACK IN THE COMPOUND ! **"
+	}
+	"** AFK wall will BREAK in 5 SECONDS **"
+	{
+		"trans"		"** AFK wall will BREAK in 5 SECONDS **"
+	}
+	"** 80 SECONDS REMAINING **"
+	{
+		"trans"		"** 80 SECONDS REMAINING **"
+	}
+	"** 70 SECONDS REMAINING **"
+	{
+		"trans"		"** 70 SECONDS REMAINING **"
+	}
+	"** LILA PANIC COMPOUND IS FALLING APART !! **"
+	{
+		"trans"		"** LILA PANIC COMPOUND IS FALLING APART !! **"
+	}
+	"** ENEMY CHOPPER INBOUND !! **"
+	{
+		"trans"		"** ENEMY CHOPPER INBOUND !! **"
+	}
+	"** YOU CAN KILL IT OR LEAVE IT !! **"
+	{
+		"trans"		"** YOU CAN KILL IT OR LEAVE IT !! **"
+	}
+	"** 60 SECONDS REMAINING **"
+	{
+		"trans"		"** 60 SECONDS REMAINING **"
+	}
+	"** U WON LEVEL 7 (EXTREME) **"
+	{
+		"trans"		"** U WON LEVEL 7 (EXTREME) **"
+	}
+	"** LEVEL 8 (FINAL BOSS) **"
+	{
+		"trans"		"** LEVEL 8 (FINAL BOSS) **"
+	}
+	"** FREEZE BOTTLE - 50 sec cooldown **"
+	{
+		"trans"		"** FREEZE BOTTLE - 50 sec cooldown **"
+	}
+	"** U WON LEVEL 8 (FINAL BOSS) **"
+	{
+		"trans"		"** U WON LEVEL 8 (FINAL BOSS) **"
+	}
+	"** CONGRATZ !! U WON THE MAP !! **"
+	{
+		"trans"		"** CONGRATZ !! U WON THE MAP !! **"
+	}
+	"** LEVEL 9 (ZM ROUND) **"
+	{
+		"trans"		"** LEVEL 9 (ZM ROUND) **"
+	}
+	"** ADMIN ROOM IS OPEN ! **"
+	{
+		"trans"		"** ADMIN ROOM IS OPEN ! **"
+	}
+	"** HEAL GUN - 40 sec cooldown **"
+	{
+		"trans"		"** HEAL GUN - 40 sec cooldown **"
+	}
+	"** LASER GUN - 60 sec cooldown **"
+	{
+		"trans"		"** LASER GUN - 60 sec cooldown **"
+	}
+	"** ADMIN chose LEVEL 9 for NEXT ROUND **"
+	{
+		"trans"		"** ADMIN chose LEVEL 9 for NEXT ROUND **"
+	}
+	"** ADMIN gives EVERYONE LEVEL 5! ENJOY!**"
+	{
+		"trans"		"** ADMIN gives EVERYONE LEVEL 5! ENJOY!**"
+	}
+	"** U WON LEVEL 9 (ZM ROUND) **"
+	{
+		"trans"		"** U WON LEVEL 9 (ZM ROUND) **"
+	}
+	"** ADMIN chose LEVEL 3 for NEXT ROUND **"
+	{
+		"trans"		"** ADMIN chose LEVEL 3 for NEXT ROUND **"
+	}
+	"** ADMIN chose LEVEL 5 for NEXT ROUND **"
+	{
+		"trans"		"** ADMIN chose LEVEL 5 for NEXT ROUND **"
+	}
+	"** ITEM COLLECTED - PEDOBEAR LOST 150 HP **"
+	{
+		"trans"		"** ITEM COLLECTED - PEDOBEAR LOST 150 HP **"
+	}
+}

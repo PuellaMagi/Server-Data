@@ -2,14 +2,14 @@
 {
 	"**** MAP BY AERIS.004 ****"
 	{
-		"blocked"		"1"
+		"trans"		"**** MAP BY AERIS.004 ****"
 	}
 	"*MAP RESIDENT EVIL ONE - THE MANOR*"
 	{
-		"trans"		"欢迎来到洋馆（生化危机） 作者AERIS.004 翻译DohiCircle"
+		"trans"		"*MAP RESIDENT EVIL ONE - THE MANOR*"
 	}
 	"*immediate evacuation of the laboratory*"
 	{
-		"trans"		"马上撤离实验室"
+		"trans"		"*immediate evacuation of the laboratory*"
 	}
 }

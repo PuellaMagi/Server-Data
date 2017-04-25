@@ -1,0 +1,59 @@
+"Chat"
+{
+	"***Tram Leaving Momentarily***"
+	{
+		"trans"		"***Tram Leaving Momentarily***"
+	}
+	"***Outdoor Tram Starting in 25 Seconds***"
+	{
+		"trans"		"***Outdoor Tram Starting in 25 Seconds***"
+	}
+	"***Outdoor Tram Starting in 10 Seconds***"
+	{
+		"trans"		"***Outdoor Tram Starting in 10 Seconds***"
+	}
+	"***Outdoor Tram Starting in 5 Seconds***"
+	{
+		"trans"		"***Outdoor Tram Starting in 5 Seconds***"
+	}
+	"***Rocket Lift Leaving In 10 Seconds***"
+	{
+		"trans"		"***Rocket Lift Leaving In 10 Seconds***"
+	}
+	"<Rocket Launch In 30 Seconds>"
+	{
+		"trans"		"<Rocket Launch In 30 Seconds>"
+	}
+	"<Rocket Launch In 20 Seconds>"
+	{
+		"trans"		"<Rocket Launch In 20 Seconds>"
+	}
+	"<Rocket Launch In 10 Seconds>"
+	{
+		"trans"		"<Rocket Launch In 10 Seconds>"
+	}
+	"<Rocket Launch In 5 Seconds>"
+	{
+		"trans"		"<Rocket Launch In 5 Seconds>"
+	}
+	"<<ROCKET LAUNCHING>>"
+	{
+		"trans"		"<<ROCKET LAUNCHING>>"
+	}
+	"<<<Map by Thatguyoverthere>>>"
+	{
+		"trans"		"<<<Map by Thatguyoverthere>>>"
+	}
+	"<<<Map ported by Et3rnity>>>"
+	{
+		"trans"		"<<<Map ported by Et3rnity>>>"
+	}
+	"***Aux Door Opening In 30 Seconds***"
+	{
+		"trans"		"***Aux Door Opening In 30 Seconds***"
+	}
+	"***Airlock Door Opening In 20 Seconds***"
+	{
+		"trans"		"***Airlock Door Opening In 20 Seconds***"
+	}
+}

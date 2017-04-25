@@ -2,14 +2,86 @@
 {
 	">>>BREAK CRATES AND GET ON IT TO ESCAPE FROM MOTHER ZOMBIE<<<"
 	{
-		"trans"		">>>打破木箱躲避僵尸的袭击<<<"
+		"trans"		">>>BREAK CRATES AND GET ON IT TO ESCAPE FROM MOTHER ZOMBIE<<<"
 	}
 	">>>MAP BY LeGrem<<<"
 	{
-		"blocked"		"1"
+		"trans"		">>>MAP BY LeGrem<<<"
 	}
 	">>>RUN<<<"
 	{
-		"trans"		">>>没时间解释了快撤退<<<"
+		"trans"		">>>RUN<<<"
+	}
+	">>>COVER 30s<<<"
+	{
+		"trans"		">>>COVER 30s<<<"
+	}
+	">>>PREPARE TO RUN - TAKE THE RIGHT DOOR<<<"
+	{
+		"trans"		">>>PREPARE TO RUN - TAKE THE RIGHT DOOR<<<"
+	}
+	">>>COVER 35s<<<<"
+	{
+		"trans"		">>>COVER 35s<<<<"
+	}
+	">>>RUN<<<<"
+	{
+		"trans"		">>>RUN<<<<"
+	}
+	">>>FIND GREEN LIGHT DOOR<<<<"
+	{
+		"trans"		">>>FIND GREEN LIGHT DOOR<<<<"
+	}
+	">>>BREAK THE CORRECT WALLS<<<"
+	{
+		"trans"		">>>BREAK THE CORRECT WALLS<<<"
+	}
+	">>>ZOMBIES PROTECTION ACTIVATED ! HURRY UP<<<"
+	{
+		"trans"		">>>ZOMBIES PROTECTION ACTIVATED ! HURRY UP<<<"
+	}
+	">>>BREAK THE BLOCKING PILLAR OR COVER 1 MINUTE<<<"
+	{
+		"trans"		">>>BREAK THE BLOCKING PILLAR OR COVER 1 MINUTE<<<"
+	}
+	">>>RUN TO THE OTHER SIDE OF THE BRIDGE<<<"
+	{
+		"trans"		">>>RUN TO THE OTHER SIDE OF THE BRIDGE<<<"
+	}
+	">>>SHOOT THE BRIDGE<<<"
+	{
+		"trans"		">>>SHOOT THE BRIDGE<<<"
+	}
+	">>>OR COVER 1 MINUTE<<<"
+	{
+		"trans"		">>>OR COVER 1 MINUTE<<<"
+	}
+	">>>30s LEFT<<<"
+	{
+		"trans"		">>>30s LEFT<<<"
+	}
+	">>>PREPARE TO RUN - TAKE THE LEFT DOOR<<<"
+	{
+		"trans"		">>>PREPARE TO RUN - TAKE THE LEFT DOOR<<<"
+	}
+	">>>PREPARE TO RUN - TAKE THE MIDDLE DOOR<<<"
+	{
+		"trans"		">>>PREPARE TO RUN - TAKE THE MIDDLE DOOR<<<"
+	}
+	">>>5s LEFT<<<"
+	{
+		"trans"		">>>5s LEFT<<<"
+	}
+	">>>TOO MUCH CRATES ARE BROKEN<<<"
+	{
+		"trans"		">>>TOO MUCH CRATES ARE BROKEN<<<"
+	}
+	">> CT FOLLOW THE ARROW - GO UNDER WATER<<<"
+	{
+		"trans"		">> CT FOLLOW THE ARROW - GO UNDER WATER<<<"
+	}
+	">>>ESCAPE BY THE WATER<<<"
+	{
+		"trans"		">>>ESCAPE BY THE WATER<<<"
 	}
 }

@@ -1,0 +1,7 @@
+"Chat"
+{
+	"<!!!> MAP BY JB_GAMBLE <!!!>"
+	{
+		"trans"		"<!!!> MAP BY JB_GAMBLE <!!!>"
+	}
+}

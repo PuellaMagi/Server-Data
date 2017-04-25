@@ -1,0 +1,19 @@
+"Chat"
+{
+	"-=Hold here for 40 seconds=-"
+	{
+		"trans"		"-=Hold here for 40 seconds=-"
+	}
+	"**Zombies ate the main gate!**"
+	{
+		"trans"		"**Zombies ate the main gate!**"
+	}
+	"-=DOOR JAMMED! FIND ANOTHER WAY OUT!=-"
+	{
+		"trans"		"-=DOOR JAMMED! FIND ANOTHER WAY OUT!=-"
+	}
+	"**Those Planks Look Oftly Flimsy!**"
+	{
+		"trans"		"**Those Planks Look Oftly Flimsy!**"
+	}
+}

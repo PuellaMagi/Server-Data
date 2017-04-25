@@ -1,0 +1,203 @@
+"Chat"
+{
+	"***PRESS ALL 3 LEVERS TO OPEN THE GATES UP AHEAD***"
+	{
+		"trans"		"***PRESS ALL 3 LEVERS TO OPEN THE GATES UP AHEAD***"
+	}
+	"***THE FIRST LEVER HAS BEEN PRESSED***"
+	{
+		"trans"		"***THE FIRST LEVER HAS BEEN PRESSED***"
+	}
+	"***THE SECOND LEVER HAS BEEN PRESSED***"
+	{
+		"trans"		"***THE SECOND LEVER HAS BEEN PRESSED***"
+	}
+	"***ONE MORE TO GO...***"
+	{
+		"trans"		"***ONE MORE TO GO...***"
+	}
+	"***ALL LEVERS HAVE BEEN PRESSED***"
+	{
+		"trans"		"***ALL LEVERS HAVE BEEN PRESSED***"
+	}
+	"***THE GATES ARE OPENING IN 30 SECONDS***"
+	{
+		"trans"		"***THE GATES ARE OPENING IN 30 SECONDS***"
+	}
+	"***THE GATES ARE OPENING***"
+	{
+		"trans"		"***THE GATES ARE OPENING***"
+	}
+	"***FALL BACK TOWARDS THE TOWER***"
+	{
+		"trans"		"***FALL BACK TOWARDS THE TOWER***"
+	}
+	"***ONE LEVER HAS BEEN PRESSED***"
+	{
+		"trans"		"***ONE LEVER HAS BEEN PRESSED***"
+	}
+	"***BOTH LEVERS HAVE BEEN PRESSED***"
+	{
+		"trans"		"***BOTH LEVERS HAVE BEEN PRESSED***"
+	}
+	"***NOW FIND THE FINAL LEVER***"
+	{
+		"trans"		"***NOW FIND THE FINAL LEVER***"
+	}
+	"***THE GATE WILL OPEN IN 30 SECONDS***"
+	{
+		"trans"		"***THE GATE WILL OPEN IN 30 SECONDS***"
+	}
+	"***THE GATE IS OPENING***"
+	{
+		"trans"		"***THE GATE IS OPENING***"
+	}
+	"***FALL BACK***"
+	{
+		"trans"		"***FALL BACK***"
+	}
+	"***THE ELEVATOR IS LEAVING IN 15 SECONDS***"
+	{
+		"trans"		"***THE ELEVATOR IS LEAVING IN 15 SECONDS***"
+	}
+	"***THE ELEVATOR IS LEAVING***"
+	{
+		"trans"		"***THE ELEVATOR IS LEAVING***"
+	}
+	"***THE GATE WILL OPEN IN 60 SECONDS***"
+	{
+		"trans"		"***THE GATE WILL OPEN IN 60 SECONDS***"
+	}
+	"***FIND A HIDING SPOT AND HOLD OUT UNTIL THEN***"
+	{
+		"trans"		"***FIND A HIDING SPOT AND HOLD OUT UNTIL THEN***"
+	}
+	"***10 SECONDS LEFT***"
+	{
+		"trans"		"***10 SECONDS LEFT***"
+	}
+	"***THE GATE IS OPEN***"
+	{
+		"trans"		"***THE GATE IS OPEN***"
+	}
+	"***HOLD HERE UNTIL THE DOORS OPEN***"
+	{
+		"trans"		"***HOLD HERE UNTIL THE DOORS OPEN***"
+	}
+	"***THE GATE WILL OPEN IN 10 SECONDS***"
+	{
+		"trans"		"***THE GATE WILL OPEN IN 10 SECONDS***"
+	}
+	"***THE OUTER GATE WILL OPEN IN 10 SECONDS***"
+	{
+		"trans"		"***THE OUTER GATE WILL OPEN IN 10 SECONDS***"
+	}
+	"***THE OUTER GATE IS OPENING***"
+	{
+		"trans"		"***THE OUTER GATE IS OPENING***"
+	}
+	"***HOLD FOR 20 SECONDS***"
+	{
+		"trans"		"***HOLD FOR 20 SECONDS***"
+	}
+	"***ELEVATOR IS LEAVING IN 10 SECONDS***"
+	{
+		"trans"		"***ELEVATOR IS LEAVING IN 10 SECONDS***"
+	}
+	"***ELEVATOR IS LEAVING IN 5 SECONDS***"
+	{
+		"trans"		"***ELEVATOR IS LEAVING IN 5 SECONDS***"
+	}
+	"***ELEVATOR IS LEAVING***"
+	{
+		"trans"		"***ELEVATOR IS LEAVING***"
+	}
+	"***THE GATES WILL OPEN IN 10 SECONDS***"
+	{
+		"trans"		"***THE GATES WILL OPEN IN 10 SECONDS***"
+	}
+	"***THE TOWER GATE WILL OPEN IN 15 SECONDS***"
+	{
+		"trans"		"***THE TOWER GATE WILL OPEN IN 15 SECONDS***"
+	}
+	"***THE TOWER GATE IS OPEN***"
+	{
+		"trans"		"***THE TOWER GATE IS OPEN***"
+	}
+	"***THE UPPER TOWER GATE WILL OPEN IN 20 SECONDS***"
+	{
+		"trans"		"***THE UPPER TOWER GATE WILL OPEN IN 20 SECONDS***"
+	}
+	"***THE UPPER TOWER GATE IS OPEN***"
+	{
+		"trans"		"***THE UPPER TOWER GATE IS OPEN***"
+	}
+	"***THE GATE WILL OPEN IN 15 SECONDS***"
+	{
+		"trans"		"***THE GATE WILL OPEN IN 15 SECONDS***"
+	}
+	"***FIND A HIDING SPOT AND HOLD OUT FOR 60 SECONDS***"
+	{
+		"trans"		"***FIND A HIDING SPOT AND HOLD OUT FOR 60 SECONDS***"
+	}
+	"***CLIMB THE TOWER***"
+	{
+		"trans"		"***CLIMB THE TOWER***"
+	}
+	"***HOLD FOR 15 SECONDS***"
+	{
+		"trans"		"***HOLD FOR 15 SECONDS***"
+	}
+	"***FALL BACK TOWARDS THE TOP***"
+	{
+		"trans"		"***FALL BACK TOWARDS THE TOP***"
+	}
+	"***IT'S COMING***"
+	{
+		"trans"		"***IT'S COMING***"
+	}
+	"***PREPARE YOURSELF***"
+	{
+		"trans"		"***PREPARE YOURSELF***"
+	}
+	"***THE ZOMBIE CAGE IS OPEN***"
+	{
+		"trans"		"***THE ZOMBIE CAGE IS OPEN***"
+	}
+	"***MAKE SURE TO HOLD THEM OFF DURING THE BATTLE***"
+	{
+		"trans"		"***MAKE SURE TO HOLD THEM OFF DURING THE BATTLE***"
+	}
+	"***YOU DID IT***"
+	{
+		"trans"		"***YOU DID IT***"
+	}
+	"*** YOU HAVE SLAYED ANCHELION***"
+	{
+		"trans"		"*** YOU HAVE SLAYED ANCHELION***"
+	}
+	"*** THE CURSE IS BROKEN***"
+	{
+		"trans"		"*** THE CURSE IS BROKEN***"
+	}
+	"***ESCAPE TOWARDS THE END***"
+	{
+		"trans"		"***ESCAPE TOWARDS THE END***"
+	}
+	"***JUMP***"
+	{
+		"trans"		"***JUMP***"
+	}
+	"***YOU WON***"
+	{
+		"trans"		"***YOU WON***"
+	}
+	"***MAP MADE BY LUFFAREN***"
+	{
+		"trans"		"***MAP MADE BY LUFFAREN***"
+	}
+	"***THANK YOU FOR PLAYING***"
+	{
+		"trans"		"***THANK YOU FOR PLAYING***"
+	}
+}

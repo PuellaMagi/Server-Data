@@ -1,0 +1,843 @@
+"Chat"
+{
+	"*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
+	{
+		"trans"		"*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
+	}
+	"*** map created by thas ***"
+	{
+		"trans"		"*** map created by thas ***"
+	}
+	"*** STAGE 1 ***"
+	{
+		"trans"		"*** STAGE 1 ***"
+	}
+	"*** FIRST PORTAL ACTIVATED in 20 SEDONDS ***"
+	{
+		"trans"		"*** FIRST PORTAL ACTIVATED in 20 SEDONDS ***"
+	}
+	"*** Porting helped by Airvulpes,kune***"
+	{
+		"trans"		"*** Porting helped by Airvulpes,kune***"
+	}
+	"*** HUMAN>>> Climb the ladder ***"
+	{
+		"trans"		"*** HUMAN>>> Climb the ladder ***"
+	}
+	"*** ZOMBIE>>> Should go to under the entrance ***"
+	{
+		"trans"		"*** ZOMBIE>>> Should go to under the entrance ***"
+	}
+	"*** ANTI BHOP SYSTEM>>> If you use bhopping.You will get some penalty ***"
+	{
+		"trans"		"*** ANTI BHOP SYSTEM>>> If you use bhopping.You will get some penalty ***"
+	}
+	"*** FIRST PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"trans"		"*** FIRST PORTAL ACTIVATED in 5 SECONDS ***"
+	}
+	"*** PORTAL ACTIVATED ***"
+	{
+		"trans"		"*** PORTAL ACTIVATED ***"
+	}
+	"*** LEVEL 1: NORMAL JUMP ***"
+	{
+		"trans"		"*** LEVEL 1: NORMAL JUMP ***"
+	}
+	"*** LEVEL2 PORTAL ACTIVATED in 30 SECONDS***"
+	{
+		"trans"		"*** LEVEL2 PORTAL ACTIVATED in 30 SECONDS***"
+	}
+	"***ZOMBIE IS COMING***"
+	{
+		"trans"		"***ZOMBIE IS COMING***"
+	}
+	"*** LEVEL2 PORTAL ACTIVATED in 20 SECONDS***"
+	{
+		"trans"		"*** LEVEL2 PORTAL ACTIVATED in 20 SECONDS***"
+	}
+	"*** LEVEL2 PORTAL ACTIVATED in 10 SECONDS***"
+	{
+		"trans"		"*** LEVEL2 PORTAL ACTIVATED in 10 SECONDS***"
+	}
+	"*** LEVEL2 PORTAL ACTIVATED in 5 SECONDS***"
+	{
+		"trans"		"*** LEVEL2 PORTAL ACTIVATED in 5 SECONDS***"
+	}
+	"*** LEVEL 2:  LADDERS ***"
+	{
+		"trans"		"*** LEVEL 2:  LADDERS ***"
+	}
+	"*** LEVEL3 PORTAL ACTIVATED in 30 SECONDS***"
+	{
+		"trans"		"*** LEVEL3 PORTAL ACTIVATED in 30 SECONDS***"
+	}
+	"*** LEVEL3 PORTAL ACTIVATED in 20 SECONDS***"
+	{
+		"trans"		"*** LEVEL3 PORTAL ACTIVATED in 20 SECONDS***"
+	}
+	"*** LEVEL3 PORTAL ACTIVATED in 10 SECONDS***"
+	{
+		"trans"		"*** LEVEL3 PORTAL ACTIVATED in 10 SECONDS***"
+	}
+	"*** LEVEL3 PORTAL ACTIVATED in 5 SECONDS***"
+	{
+		"trans"		"*** LEVEL3 PORTAL ACTIVATED in 5 SECONDS***"
+	}
+	"***LEVEL 3: MOVING SCAFFOLDS 1 ***"
+	{
+		"trans"		"***LEVEL 3: MOVING SCAFFOLDS 1 ***"
+	}
+	"*** LEVEL4 PORTAL ACTIVATED in 30 SECONDS***"
+	{
+		"trans"		"*** LEVEL4 PORTAL ACTIVATED in 30 SECONDS***"
+	}
+	"*** LEVEL4 PORTAL ACTIVATED in 20 SECONDS***"
+	{
+		"trans"		"*** LEVEL4 PORTAL ACTIVATED in 20 SECONDS***"
+	}
+	"*** LEVEL4 PORTAL ACTIVATED in 10 SECONDS***"
+	{
+		"trans"		"*** LEVEL4 PORTAL ACTIVATED in 10 SECONDS***"
+	}
+	"*** LEVEL4 PORTAL ACTIVATED in 5 SECONDS***"
+	{
+		"trans"		"*** LEVEL4 PORTAL ACTIVATED in 5 SECONDS***"
+	}
+	"*** LEVEL4 LOW GRAVITY ***"
+	{
+		"trans"		"*** LEVEL4 LOW GRAVITY ***"
+	}
+	"*** LEVEL5 PORTAL ACTIVATED in 30 SECONDS***"
+	{
+		"trans"		"*** LEVEL5 PORTAL ACTIVATED in 30 SECONDS***"
+	}
+	"*** LEVEL5 PORTAL ACTIVATED in 20 SECONDS***"
+	{
+		"trans"		"*** LEVEL5 PORTAL ACTIVATED in 20 SECONDS***"
+	}
+	"*** LEVEL5 PORTAL ACTIVATED in 10 SECONDS***"
+	{
+		"trans"		"*** LEVEL5 PORTAL ACTIVATED in 10 SECONDS***"
+	}
+	"*** LEVEL5 PORTAL ACTIVATED in 5 SECONDS***"
+	{
+		"trans"		"*** LEVEL5 PORTAL ACTIVATED in 5 SECONDS***"
+	}
+	"*** LEVEL5 WINDY ***"
+	{
+		"trans"		"*** LEVEL5 WINDY ***"
+	}
+	"*** LEVEL6 PORTAL ACTIVATED in 30 SECONDS***"
+	{
+		"trans"		"*** LEVEL6 PORTAL ACTIVATED in 30 SECONDS***"
+	}
+	"*** LEVEL6 PORTAL ACTIVATED in 20 SECONDS***"
+	{
+		"trans"		"*** LEVEL6 PORTAL ACTIVATED in 20 SECONDS***"
+	}
+	"*** LEVEL6 PORTAL ACTIVATED in 10 SECONDS***"
+	{
+		"trans"		"*** LEVEL6 PORTAL ACTIVATED in 10 SECONDS***"
+	}
+	"*** LEVEL6 PORTAL ACTIVATED in 5 SECONDS***"
+	{
+		"trans"		"*** LEVEL6 PORTAL ACTIVATED in 5 SECONDS***"
+	}
+	"*** LEVEL6 SLIDE 1 ***"
+	{
+		"trans"		"*** LEVEL6 SLIDE 1 ***"
+	}
+	"*** LEVEL7 PORTAL ACTIVATED in 30 SECONDS***"
+	{
+		"trans"		"*** LEVEL7 PORTAL ACTIVATED in 30 SECONDS***"
+	}
+	"*** LEVEL7 PORTAL ACTIVATED in 20 SECONDS***"
+	{
+		"trans"		"*** LEVEL7 PORTAL ACTIVATED in 20 SECONDS***"
+	}
+	"*** LEVEL7 PORTAL ACTIVATED in 10 SECONDS***"
+	{
+		"trans"		"*** LEVEL7 PORTAL ACTIVATED in 10 SECONDS***"
+	}
+	"*** LEVEL7 PORTAL ACTIVATED in 5 SECONDS***"
+	{
+		"trans"		"*** LEVEL7 PORTAL ACTIVATED in 5 SECONDS***"
+	}
+	"*** LEVEL7 HOLD THIS POTISION ***"
+	{
+		"trans"		"*** LEVEL7 HOLD THIS POTISION ***"
+	}
+	"*** HOLD THIS POTISION for 30 SECONDS***"
+	{
+		"trans"		"*** HOLD THIS POTISION for 30 SECONDS***"
+	}
+	"*** HOLD THIS POTISION for 20 SECONDS***"
+	{
+		"trans"		"*** HOLD THIS POTISION for 20 SECONDS***"
+	}
+	"*** HOLD THIS POTISION for 10 SECONDS***"
+	{
+		"trans"		"*** HOLD THIS POTISION for 10 SECONDS***"
+	}
+	"*** HOLD THIS POTISION for 5 SECONDS***"
+	{
+		"trans"		"*** HOLD THIS POTISION for 5 SECONDS***"
+	}
+	"*** STAGE 1 COMPLETED ***"
+	{
+		"trans"		"*** STAGE 1 COMPLETED ***"
+	}
+	"*** STAGE 2 ***"
+	{
+		"trans"		"*** STAGE 2 ***"
+	}
+	"*** LEVEL 8: THE MOVING WALLS ***"
+	{
+		"trans"		"*** LEVEL 8: THE MOVING WALLS ***"
+	}
+	"*** PUSHING ZOMBIE IS COMING ***"
+	{
+		"trans"		"*** PUSHING ZOMBIE IS COMING ***"
+	}
+	"*** LEVEL9 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"trans"		"*** LEVEL9 PORTAL ACTIVATED in 30 SECONDS ***"
+	}
+	"*** A PLAYER HAS PICKED UP A BIG HEALTH LIGHT ***"
+	{
+		"trans"		"*** A PLAYER HAS PICKED UP A BIG HEALTH LIGHT ***"
+	}
+	"CAUTION :It can use only once"
+	{
+		"trans"		"CAUTION :It can use only once"
+	}
+	"*** LEVEL9 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"trans"		"*** LEVEL9 PORTAL ACTIVATED in 20 SECONDS ***"
+	}
+	"*** LEVEL9 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"trans"		"*** LEVEL9 PORTAL ACTIVATED in 10 SEDONDS ***"
+	}
+	"*** LEVEL9 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"trans"		"*** LEVEL9 PORTAL ACTIVATED in 5 SECONDS ***"
+	}
+	"*** LEVEL 9:  THE ROTATING SCAFFOLDS ***"
+	{
+		"trans"		"*** LEVEL 9:  THE ROTATING SCAFFOLDS ***"
+	}
+	"*** A PLAYER HAS PICKED UP A BURNING LIGHT ***"
+	{
+		"trans"		"*** A PLAYER HAS PICKED UP A BURNING LIGHT ***"
+	}
+	"*** LEVEL10 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"trans"		"*** LEVEL10 PORTAL ACTIVATED in 30 SECONDS ***"
+	}
+	"COOL DOWN : 35 SEC"
+	{
+		"trans"		"COOL DOWN : 35 SEC"
+	}
+	"*** HURTING ZOMBIE IS COMING ***"
+	{
+		"trans"		"*** HURTING ZOMBIE IS COMING ***"
+	}
+	"*** LEVEL10 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"trans"		"*** LEVEL10 PORTAL ACTIVATED in 20 SECONDS ***"
+	}
+	"*** LEVEL10 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"trans"		"*** LEVEL10 PORTAL ACTIVATED in 10 SEDONDS ***"
+	}
+	"*** LEVEL10 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"trans"		"*** LEVEL10 PORTAL ACTIVATED in 5 SECONDS ***"
+	}
+	"*** LEVEL 10:  THE MOVING SCAFFOLDS 2 ***"
+	{
+		"trans"		"*** LEVEL 10:  THE MOVING SCAFFOLDS 2 ***"
+	}
+	"*** LEVEL11 PORTAL ACTIVATED in 40 SECONDS ***"
+	{
+		"trans"		"*** LEVEL11 PORTAL ACTIVATED in 40 SECONDS ***"
+	}
+	"*** LEVEL11 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"trans"		"*** LEVEL11 PORTAL ACTIVATED in 30 SECONDS ***"
+	}
+	"*** LEVEL11 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"trans"		"*** LEVEL11 PORTAL ACTIVATED in 20 SECONDS ***"
+	}
+	"*** LEVEL11 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"trans"		"*** LEVEL11 PORTAL ACTIVATED in 10 SEDONDS ***"
+	}
+	"*** LEVEL11 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"trans"		"*** LEVEL11 PORTAL ACTIVATED in 5 SECONDS ***"
+	}
+	"*** LEVEL 11:  SURF ***"
+	{
+		"trans"		"*** LEVEL 11:  SURF ***"
+	}
+	"*** A PLAYER HAS PICKED UP A PUSH LIGHT ***"
+	{
+		"trans"		"*** A PLAYER HAS PICKED UP A PUSH LIGHT ***"
+	}
+	"COOL DOWN : 40 SEC"
+	{
+		"trans"		"COOL DOWN : 40 SEC"
+	}
+	"*** LEVEL12 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"trans"		"*** LEVEL12 PORTAL ACTIVATED in 30 SECONDS ***"
+	}
+	"*** LEVEL12 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"trans"		"*** LEVEL12 PORTAL ACTIVATED in 20 SECONDS ***"
+	}
+	"*** LEVEL12 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"trans"		"*** LEVEL12 PORTAL ACTIVATED in 10 SEDONDS ***"
+	}
+	"*** LEVEL12 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"trans"		"*** LEVEL12 PORTAL ACTIVATED in 5 SECONDS ***"
+	}
+	"*** LEVEL 12:  LASERS ***"
+	{
+		"trans"		"*** LEVEL 12:  LASERS ***"
+	}
+	"*** LEVEL13 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"trans"		"*** LEVEL13 PORTAL ACTIVATED in 30 SECONDS ***"
+	}
+	"*** THE LASER MACHINE IS BROKEN ***"
+	{
+		"trans"		"*** THE LASER MACHINE IS BROKEN ***"
+	}
+	"*** ALL OF THE FINAL LASER IS DISABLED ***"
+	{
+		"trans"		"*** ALL OF THE FINAL LASER IS DISABLED ***"
+	}
+	"*** LEVEL13 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"trans"		"*** LEVEL13 PORTAL ACTIVATED in 20 SECONDS ***"
+	}
+	"*** LEVEL13 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"trans"		"*** LEVEL13 PORTAL ACTIVATED in 10 SEDONDS ***"
+	}
+	"*** LEVEL13 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"trans"		"*** LEVEL13 PORTAL ACTIVATED in 5 SECONDS ***"
+	}
+	"*** LEVEL 13: FLYING ***"
+	{
+		"trans"		"*** LEVEL 13: FLYING ***"
+	}
+	"*** LEVEL14 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"trans"		"*** LEVEL14 PORTAL ACTIVATED in 30 SECONDS ***"
+	}
+	"*** LEVEL14 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"trans"		"*** LEVEL14 PORTAL ACTIVATED in 20 SECONDS ***"
+	}
+	"*** LEVEL14 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"trans"		"*** LEVEL14 PORTAL ACTIVATED in 10 SEDONDS ***"
+	}
+	"*** LEVEL14 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"trans"		"*** LEVEL14 PORTAL ACTIVATED in 5 SECONDS ***"
+	}
+	"*** LEVEL 14:  THE CLOUD BOSS ***"
+	{
+		"trans"		"*** LEVEL 14:  THE CLOUD BOSS ***"
+	}
+	"*** THE SCAFFOLD WILL RISE IN 20 SECONDS ***"
+	{
+		"trans"		"*** THE SCAFFOLD WILL RISE IN 20 SECONDS ***"
+	}
+	"*** THE SCAFFOLD WILL RISE IN 10 SECONDS ***"
+	{
+		"trans"		"*** THE SCAFFOLD WILL RISE IN 10 SECONDS ***"
+	}
+	"*** THE SCAFFOLD WILL RISE IN 5 SECONDS ***"
+	{
+		"trans"		"*** THE SCAFFOLD WILL RISE IN 5 SECONDS ***"
+	}
+	"*** THE CUTE CLOUD and HIS CHILDREN are APPEARED!! SHOOT THEM!! ***"
+	{
+		"trans"		"*** THE CUTE CLOUD and HIS CHILDREN are APPEARED!! SHOOT THEM!! ***"
+	}
+	"*** THE CUTE CLOUD STARTED MOVING ***"
+	{
+		"trans"		"*** THE CUTE CLOUD STARTED MOVING ***"
+	}
+	"*** THE CUTE CLOUD IS ANGRY!! DON'T STOP SHOOTING!! ***"
+	{
+		"trans"		"*** THE CUTE CLOUD IS ANGRY!! DON'T STOP SHOOTING!! ***"
+	}
+	"*** IT CALLED MORE HIS CHILDREN ***"
+	{
+		"trans"		"*** IT CALLED MORE HIS CHILDREN ***"
+	}
+	"*** THE CUTE CLOUD IS DEFEATED ***"
+	{
+		"trans"		"*** THE CUTE CLOUD IS DEFEATED ***"
+	}
+	"*** RUN TO THE NEXT DEFENCE POINT ***"
+	{
+		"trans"		"*** RUN TO THE NEXT DEFENCE POINT ***"
+	}
+	"*** ZOMBIE WILL COME IN 10 SECONDS ***"
+	{
+		"trans"		"*** ZOMBIE WILL COME IN 10 SECONDS ***"
+	}
+	"*** STAGE COMPLETE IN 30 SECONDS ***"
+	{
+		"trans"		"*** STAGE COMPLETE IN 30 SECONDS ***"
+	}
+	"*** ZOMBIE IS COMING ***"
+	{
+		"trans"		"*** ZOMBIE IS COMING ***"
+	}
+	"*** STAGE COMPLETE IN 20 SECONDS ***"
+	{
+		"trans"		"*** STAGE COMPLETE IN 20 SECONDS ***"
+	}
+	"*** STAGE COMPLETE IN 10 SECONDS ***"
+	{
+		"trans"		"*** STAGE COMPLETE IN 10 SECONDS ***"
+	}
+	"*** STAGE COMPLETE IN 5 SECONDS ***"
+	{
+		"trans"		"*** STAGE COMPLETE IN 5 SECONDS ***"
+	}
+	"*** STAGE 2 COMPLETED ***"
+	{
+		"trans"		"*** STAGE 2 COMPLETED ***"
+	}
+	"*** STAGE 3 ***"
+	{
+		"trans"		"*** STAGE 3 ***"
+	}
+	"*** LEVEL 15: THE MOVING SCAFFOLD 3 ***"
+	{
+		"trans"		"*** LEVEL 15: THE MOVING SCAFFOLD 3 ***"
+	}
+	"*** THE SCAFFOLD WILL MOVE IN 5 SECONDS ***"
+	{
+		"trans"		"*** THE SCAFFOLD WILL MOVE IN 5 SECONDS ***"
+	}
+	"*** LEFT DOOR AND RIGHT DOOR ARE OPENING ***"
+	{
+		"trans"		"*** LEFT DOOR AND RIGHT DOOR ARE OPENING ***"
+	}
+	"*** LEVEL16 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"trans"		"*** LEVEL16 PORTAL ACTIVATED in 30 SECONDS ***"
+	}
+	"*** LEVEL16 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"trans"		"*** LEVEL16 PORTAL ACTIVATED in 20 SECONDS ***"
+	}
+	"*** LEVEL16 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"trans"		"*** LEVEL16 PORTAL ACTIVATED in 10 SEDONDS ***"
+	}
+	"*** LEVEL16 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"trans"		"*** LEVEL16 PORTAL ACTIVATED in 5 SECONDS ***"
+	}
+	"*** LEVEL 16: VARIOUS TYPE ROAD 1 ***"
+	{
+		"trans"		"*** LEVEL 16: VARIOUS TYPE ROAD 1 ***"
+	}
+	"*** A PLAYER HAS PICKED UP A COLD LIGHT ***"
+	{
+		"trans"		"*** A PLAYER HAS PICKED UP A COLD LIGHT ***"
+	}
+	"COOL DOWN : 50 SEC"
+	{
+		"trans"		"COOL DOWN : 50 SEC"
+	}
+	"*** LEVEL17 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"trans"		"*** LEVEL17 PORTAL ACTIVATED in 30 SECONDS ***"
+	}
+	"*** LEVEL17 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"trans"		"*** LEVEL17 PORTAL ACTIVATED in 20 SECONDS ***"
+	}
+	"*** LEVEL17 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"trans"		"*** LEVEL17 PORTAL ACTIVATED in 10 SEDONDS ***"
+	}
+	"*** LEVEL17 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"trans"		"*** LEVEL17 PORTAL ACTIVATED in 5 SECONDS ***"
+	}
+	"*** LEVEL 17: VARIOUS TYPE ROAD 2 ***"
+	{
+		"trans"		"*** LEVEL 17: VARIOUS TYPE ROAD 2 ***"
+	}
+	"*** LEVEL18 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"trans"		"*** LEVEL18 PORTAL ACTIVATED in 30 SECONDS ***"
+	}
+	"*** LEVEL18 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"trans"		"*** LEVEL18 PORTAL ACTIVATED in 20 SECONDS ***"
+	}
+	"*** LEVEL18 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"trans"		"*** LEVEL18 PORTAL ACTIVATED in 10 SEDONDS ***"
+	}
+	"*** LEVEL18 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"trans"		"*** LEVEL18 PORTAL ACTIVATED in 5 SECONDS ***"
+	}
+	"*** LEVEL18 SLIDE 2 ***"
+	{
+		"trans"		"*** LEVEL18 SLIDE 2 ***"
+	}
+	"*** LEVEL19 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"trans"		"*** LEVEL19 PORTAL ACTIVATED in 30 SECONDS ***"
+	}
+	"*** LEVEL19 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"trans"		"*** LEVEL19 PORTAL ACTIVATED in 20 SECONDS ***"
+	}
+	"*** LEVEL19 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"trans"		"*** LEVEL19 PORTAL ACTIVATED in 10 SEDONDS ***"
+	}
+	"*** LEVEL19 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"trans"		"*** LEVEL19 PORTAL ACTIVATED in 5 SECONDS ***"
+	}
+	"*** LEVEL 19: VARIOUS TYPE ROAD 3 ***"
+	{
+		"trans"		"*** LEVEL 19: VARIOUS TYPE ROAD 3 ***"
+	}
+	"*** BARRIER DISABLED ***"
+	{
+		"trans"		"*** BARRIER DISABLED ***"
+	}
+	"*** LEVEL20 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"trans"		"*** LEVEL20 PORTAL ACTIVATED in 30 SECONDS ***"
+	}
+	"*** KAMIKAZE ZOMBIE IS COMING ***"
+	{
+		"trans"		"*** KAMIKAZE ZOMBIE IS COMING ***"
+	}
+	"*** LEVEL20 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"trans"		"*** LEVEL20 PORTAL ACTIVATED in 20 SECONDS ***"
+	}
+	"*** LEVEL20 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"trans"		"*** LEVEL20 PORTAL ACTIVATED in 10 SEDONDS ***"
+	}
+	"*** LEVEL20 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"trans"		"*** LEVEL20 PORTAL ACTIVATED in 5 SECONDS ***"
+	}
+	"*** LEVEL 20: VARIOUS TYPE ROAD 4 ***"
+	{
+		"trans"		"*** LEVEL 20: VARIOUS TYPE ROAD 4 ***"
+	}
+	"*** FINAL PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"trans"		"*** FINAL PORTAL ACTIVATED in 30 SECONDS ***"
+	}
+	"*** FINAL PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"trans"		"*** FINAL PORTAL ACTIVATED in 20 SECONDS ***"
+	}
+	"*** FINAL PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"trans"		"*** FINAL PORTAL ACTIVATED in 10 SEDONDS ***"
+	}
+	"*** FINAL PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"trans"		"*** FINAL PORTAL ACTIVATED in 5 SECONDS ***"
+	}
+	"*** FINAL LEVEL:  ???? ***"
+	{
+		"trans"		"*** FINAL LEVEL:  ???? ***"
+	}
+	"*** KEY BOARD CRASHER IS APPEARED!! SHOOT HIM!! ***"
+	{
+		"trans"		"*** KEY BOARD CRASHER IS APPEARED!! SHOOT HIM!! ***"
+	}
+	"*** KEY BOARD CRASHER STARTED MOVING ***"
+	{
+		"trans"		"*** KEY BOARD CRASHER STARTED MOVING ***"
+	}
+	"*** Watch out for esc cannon and your head !! ***"
+	{
+		"trans"		"*** Watch out for esc cannon and your head !! ***"
+	}
+	"*** KEY BOARD CRASHER IS ANGRY!! DON'T STOP SHOOTING!! ***"
+	{
+		"trans"		"*** KEY BOARD CRASHER IS ANGRY!! DON'T STOP SHOOTING!! ***"
+	}
+	"*** Another cannon started ***"
+	{
+		"trans"		"*** Another cannon started ***"
+	}
+	"*** Watch out for something !! ***"
+	{
+		"trans"		"*** Watch out for something !! ***"
+	}
+	"*** KEY BOARD CRASHER IS DEAD ***"
+	{
+		"trans"		"*** KEY BOARD CRASHER IS DEAD ***"
+	}
+	"*** ALL STAGE COMPLETE IN 30 SECONDS ***"
+	{
+		"trans"		"*** ALL STAGE COMPLETE IN 30 SECONDS ***"
+	}
+	"*** ALL STAGE COMPLETE IN 20 SECONDS ***"
+	{
+		"trans"		"*** ALL STAGE COMPLETE IN 20 SECONDS ***"
+	}
+	"*** !? ***"
+	{
+		"trans"		"*** !? ***"
+	}
+	"*** CAREFULL!!! ***"
+	{
+		"trans"		"*** CAREFULL!!! ***"
+	}
+	"*** ALL STAGE COMPLETE IN 10 SECONDS ***"
+	{
+		"trans"		"*** ALL STAGE COMPLETE IN 10 SECONDS ***"
+	}
+	"*** ALL STAGE COMPLETE IN 5 SECONDS ***"
+	{
+		"trans"		"*** ALL STAGE COMPLETE IN 5 SECONDS ***"
+	}
+	"*** ALL STAGE COMPLETED. EXTREME MODE IS COMING ***"
+	{
+		"trans"		"*** ALL STAGE COMPLETED. EXTREME MODE IS COMING ***"
+	}
+	"*** EXPLOSION IN 3 SECONDS!!!!! ***"
+	{
+		"trans"		"*** EXPLOSION IN 3 SECONDS!!!!! ***"
+	}
+	"*** 2!!! ***"
+	{
+		"trans"		"*** 2!!! ***"
+	}
+	"*** 1!!! ***"
+	{
+		"trans"		"*** 1!!! ***"
+	}
+	"*** WARNING : FAST SPAWN ***"
+	{
+		"trans"		"*** WARNING : FAST SPAWN ***"
+	}
+	"*** STAGE 1: EXTREME ***"
+	{
+		"trans"		"*** STAGE 1: EXTREME ***"
+	}
+	"*** ONE PERSON CAN SELLECT THE EXTREME MODE !! ***"
+	{
+		"trans"		"*** ONE PERSON CAN SELLECT THE EXTREME MODE !! ***"
+	}
+	"*** HURRY ! HURRY !! ***"
+	{
+		"trans"		"*** HURRY ! HURRY !! ***"
+	}
+	"*** ONE PERSON WENT TO EXTRA MODE SELECTION ZONE ***"
+	{
+		"trans"		"*** ONE PERSON WENT TO EXTRA MODE SELECTION ZONE ***"
+	}
+	"*** A PERSON PRESSED QUICK MODE BUTTON ***"
+	{
+		"trans"		"*** A PERSON PRESSED QUICK MODE BUTTON ***"
+	}
+	"*** ALL HUMANS TELEPORT IN 5 SECONDS ***"
+	{
+		"trans"		"*** ALL HUMANS TELEPORT IN 5 SECONDS ***"
+	}
+	"*** ALL ZOMBIES TELEPORT IN 5 SECONDS ***"
+	{
+		"trans"		"*** ALL ZOMBIES TELEPORT IN 5 SECONDS ***"
+	}
+	"*** A PERSON PRESSED LOW FRICTION MODE BUTTON ***"
+	{
+		"trans"		"*** A PERSON PRESSED LOW FRICTION MODE BUTTON ***"
+	}
+	"*** WHAT !! where is there...? ***"
+	{
+		"trans"		"*** WHAT !! where is there...? ***"
+	}
+	"*** Be careful !! ***"
+	{
+		"trans"		"*** Be careful !! ***"
+	}
+	"????? : I saw you when you were fighting with my brother ...."
+	{
+		"trans"		"????? : I saw you when you were fighting with my brother ...."
+	}
+	"????? : I'm cute cloud's sister..."
+	{
+		"trans"		"????? : I'm cute cloud's sister..."
+	}
+	"Girl cloud : and... you defeated my brother..."
+	{
+		"trans"		"Girl cloud : and... you defeated my brother..."
+	}
+	"Girl cloud : I will avenge the death...!!!!!"
+	{
+		"trans"		"Girl cloud : I will avenge the death...!!!!!"
+	}
+	"Girl cloud : Let's fight with me !!!!!"
+	{
+		"trans"		"Girl cloud : Let's fight with me !!!!!"
+	}
+	"Girl cloud : OMG...I was defeated..."
+	{
+		"trans"		"Girl cloud : OMG...I was defeated..."
+	}
+	"Girl cloud : but... I prepared the machine for killing humans...!!"
+	{
+		"trans"		"Girl cloud : but... I prepared the machine for killing humans...!!"
+	}
+	"Girl cloud : LOOK THE MY MACHINE !!!!"
+	{
+		"trans"		"Girl cloud : LOOK THE MY MACHINE !!!!"
+	}
+	"Girl cloud : What do you think about this machine ???"
+	{
+		"trans"		"Girl cloud : What do you think about this machine ???"
+	}
+	"Girl cloud : I think.... It's very beautiful !!!!!!!!!!!!!!"
+	{
+		"trans"		"Girl cloud : I think.... It's very beautiful !!!!!!!!!!!!!!"
+	}
+	"Girl cloud : GO TO HELL !!!!!!!!!!!!!!!!"
+	{
+		"trans"		"Girl cloud : GO TO HELL !!!!!!!!!!!!!!!!"
+	}
+	"WARNING : ZOMBIES ARE ALIVE !!!"
+	{
+		"trans"		"WARNING : ZOMBIES ARE ALIVE !!!"
+	}
+	"*** HINT : Don't shoot the machine !! SHOOT THE her head !!! ***"
+	{
+		"trans"		"*** HINT : Don't shoot the machine !! SHOOT THE her head !!! ***"
+	}
+	"*** A PERSON PRESSED ALL ITEM MODE BUTTON ***"
+	{
+		"trans"		"*** A PERSON PRESSED ALL ITEM MODE BUTTON ***"
+	}
+	"Girl cloud : I...I can't die in here...!!!!!"
+	{
+		"trans"		"Girl cloud : I...I can't die in here...!!!!!"
+	}
+	"Girl cloud : need....FULL POWER.....!!!!!!!!"
+	{
+		"trans"		"Girl cloud : need....FULL POWER.....!!!!!!!!"
+	}
+	"*** She is awakening !!! Don't stop shooting !!!! ***"
+	{
+		"trans"		"*** She is awakening !!! Don't stop shooting !!!! ***"
+	}
+	"Girl cloud : What...? Machine error..!?"
+	{
+		"trans"		"Girl cloud : What...? Machine error..!?"
+	}
+	"Girl cloud : OH no!!! Please move !!!!"
+	{
+		"trans"		"Girl cloud : OH no!!! Please move !!!!"
+	}
+	"Girl cloud : AHHHHHHHHHHHH !!!!!!!"
+	{
+		"trans"		"Girl cloud : AHHHHHHHHHHHH !!!!!!!"
+	}
+	"*** You defeated Girl cloud ***"
+	{
+		"trans"		"*** You defeated Girl cloud ***"
+	}
+	"*** Shit!! Zombies come here!! Defend your self !! ***"
+	{
+		"trans"		"*** Shit!! Zombies come here!! Defend your self !! ***"
+	}
+	"*** SURVIVE FOR 15 SECONDS !! ***"
+	{
+		"trans"		"*** SURVIVE FOR 15 SECONDS !! ***"
+	}
+	"*** SURVIVE FOR 14 SECONDS !! ***"
+	{
+		"trans"		"*** SURVIVE FOR 14 SECONDS !! ***"
+	}
+	"*** SURVIVE FOR 13 SECONDS !! ***"
+	{
+		"trans"		"*** SURVIVE FOR 13 SECONDS !! ***"
+	}
+	"*** SURVIVE FOR 12 SECONDS !! ***"
+	{
+		"trans"		"*** SURVIVE FOR 12 SECONDS !! ***"
+	}
+	"*** SURVIVE FOR 11 SECONDS !! ***"
+	{
+		"trans"		"*** SURVIVE FOR 11 SECONDS !! ***"
+	}
+	"*** SURVIVE FOR 10 SECONDS !! ***"
+	{
+		"trans"		"*** SURVIVE FOR 10 SECONDS !! ***"
+	}
+	"*** SURVIVE FOR 9 SECONDS !! ***"
+	{
+		"trans"		"*** SURVIVE FOR 9 SECONDS !! ***"
+	}
+	"*** SURVIVE FOR 8 SECONDS !! ***"
+	{
+		"trans"		"*** SURVIVE FOR 8 SECONDS !! ***"
+	}
+	"*** SURVIVE FOR 7 SECONDS !! ***"
+	{
+		"trans"		"*** SURVIVE FOR 7 SECONDS !! ***"
+	}
+	"*** SURVIVE FOR 6 SECONDS !! ***"
+	{
+		"trans"		"*** SURVIVE FOR 6 SECONDS !! ***"
+	}
+	"*** SURVIVE FOR 5 SECONDS !! ***"
+	{
+		"trans"		"*** SURVIVE FOR 5 SECONDS !! ***"
+	}
+	"*** SURVIVE FOR 4 SECONDS !! ***"
+	{
+		"trans"		"*** SURVIVE FOR 4 SECONDS !! ***"
+	}
+	"*** SURVIVE FOR 3 SECONDS !! ***"
+	{
+		"trans"		"*** SURVIVE FOR 3 SECONDS !! ***"
+	}
+	"*** SURVIVE FOR 2 SECONDS !! ***"
+	{
+		"trans"		"*** SURVIVE FOR 2 SECONDS !! ***"
+	}
+	"*** SURVIVE FOR 1 SECONDS !! ***"
+	{
+		"trans"		"*** SURVIVE FOR 1 SECONDS !! ***"
+	}
+	"*** STAGE 1: EXTREME COMPLETED ***"
+	{
+		"trans"		"*** STAGE 1: EXTREME COMPLETED ***"
+	}
+}

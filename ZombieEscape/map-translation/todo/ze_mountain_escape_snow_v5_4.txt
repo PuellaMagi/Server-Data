@@ -28,7 +28,7 @@
 	{
 		"trans"		"***20 SECONDS LEFT***"
 	}
-	"***10 SECONDS LEFT***"
+	"***10 seconds left***"
 	{
 		"trans"		"***10 SECONDS LEFT***"
 	}
@@ -75,5 +75,49 @@
 	"***Barrel picked up***"
 	{
 		"trans"		"***Barrel picked up***"
+	}
+	"***Jump portal opened***"
+	{
+		"trans"		"***Jump portal opened***"
+	}
+	"***Heal picked up***"
+	{
+		"trans"		"***Heal picked up***"
+	}
+	"***Zombie picked up Freeze***"
+	{
+		"trans"		"***Zombie picked up Freeze***"
+	}
+	"***Snow picked up***"
+	{
+		"trans"		"***Snow picked up***"
+	}
+	"***ADMIN ENABLE ADDON MODE [LOW FRICTION]***"
+	{
+		"trans"		"***ADMIN ENABLE ADDON MODE [LOW FRICTION]***"
+	}
+	"***ADMIN CHANGED MODE [NORMAL]***"
+	{
+		"trans"		"***ADMIN CHANGED MODE [NORMAL]***"
+	}
+	"***ADMIN CHANGED MODE [CUSTOM]***"
+	{
+		"trans"		"***ADMIN CHANGED MODE [CUSTOM]***"
+	}
+	"***Protector picked up***"
+	{
+		"trans"		"***Protector picked up***"
+	}
+	"***Wind picked up***"
+	{
+		"trans"		"***Wind picked up***"
+	}
+	"***Ice picked up***"
+	{
+		"trans"		"***Ice picked up***"
+	}
+	"***A PLAYER SLAIN BY A BARREL***"
+	{
+		"trans"		"***A PLAYER SLAIN BY A BARREL***"
 	}
 }

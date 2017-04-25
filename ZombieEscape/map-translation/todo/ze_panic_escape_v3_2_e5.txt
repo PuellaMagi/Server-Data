@@ -12,4 +12,24 @@
 	{
 		"trans"		"Map made by xXhamadryadesXx"
 	}
+	"***2***"
+	{
+		"trans"		"***2***"
+	}
+	"***3***"
+	{
+		"trans"		"***3***"
+	}
+	"***4***"
+	{
+		"trans"		"***4***"
+	}
+	"***COMPLETE!***"
+	{
+		"trans"		"***COMPLETE!***"
+	}
+	"***5***"
+	{
+		"trans"		"***5***"
+	}
 }

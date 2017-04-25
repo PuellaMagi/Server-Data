@@ -384,4 +384,20 @@
 	{
 		"trans"		"***YOU COULD HAVE STOPPED THE ATTACK THOUGH...***"
 	}
+	"***WELL DONE***"
+	{
+		"trans"		"***WELL DONE***"
+	}
+	"***YOU FAILED***"
+	{
+		"trans"		"***YOU FAILED***"
+	}
+	"***A ZOMBIE GOT INSIDE THE CHOPPER***"
+	{
+		"trans"		"***A ZOMBIE GOT INSIDE THE CHOPPER***"
+	}
+	"***PLAYER PICKED UP GRENADE LAUNCHER***"
+	{
+		"trans"		"***PLAYER PICKED UP GRENADE LAUNCHER***"
+	}
 }

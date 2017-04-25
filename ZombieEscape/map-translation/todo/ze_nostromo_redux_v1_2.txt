@@ -1,0 +1,39 @@
+"Chat"
+{
+	">>>ze_nostromo_redux_v1_2. Map by AngryAngus3<<<"
+	{
+		"trans"		">>>ze_nostromo_redux_v1_2. Map by AngryAngus3<<<"
+	}
+	"Override the door controls to gain access to the Garage area!"
+	{
+		"trans"		"Override the door controls to gain access to the Garage area!"
+	}
+	"Hold off for 15 seconds and wait for the ladder access override!"
+	{
+		"trans"		"Hold off for 15 seconds and wait for the ladder access override!"
+	}
+	"Make a run to B deck! I hope you packed a flashlight today!"
+	{
+		"trans"		"Make a run to B deck! I hope you packed a flashlight today!"
+	}
+	">>> Airlock button will activate in 15 seconds <<<"
+	{
+		"trans"		">>> Airlock button will activate in 15 seconds <<<"
+	}
+	">>> 5 seconds until airlock button activates <<<"
+	{
+		"trans"		">>> 5 seconds until airlock button activates <<<"
+	}
+	">>> Use airlock button to flush Aliens into space! <<<"
+	{
+		"trans"		">>> Use airlock button to flush Aliens into space! <<<"
+	}
+	"Airlock cycling, get out of there!"
+	{
+		"trans"		"Airlock cycling, get out of there!"
+	}
+	">>>Self destruct sequence preparing, hold off for 20 seconds!"
+	{
+		"trans"		">>>Self destruct sequence preparing, hold off for 20 seconds!"
+	}
+}

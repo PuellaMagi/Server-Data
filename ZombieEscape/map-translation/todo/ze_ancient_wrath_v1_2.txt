@@ -1,0 +1,47 @@
+"Chat"
+{
+	"<Stage 3>"
+	{
+		"trans"		"<Stage 3>"
+	}
+	">>NUKE<<ADMINROOM NUKE ACTIVATED>>NUKE<<"
+	{
+		"trans"		">>NUKE<<ADMINROOM NUKE ACTIVATED>>NUKE<<"
+	}
+	"||| FALL BACK |||"
+	{
+		"trans"		"||| FALL BACK |||"
+	}
+	"||| CHAPTER 1 => RETURN |||"
+	{
+		"trans"		"||| CHAPTER 1 => RETURN |||"
+	}
+	"<Ammo gun has been acquired>"
+	{
+		"trans"		"<Ammo gun has been acquired>"
+	}
+	"<Growth gun has been acquired>"
+	{
+		"trans"		"<Growth gun has been acquired>"
+	}
+	"<Rift gun has been acquired>"
+	{
+		"trans"		"<Rift gun has been acquired>"
+	}
+	"||| ELEVATOR OPENS IN 25 SECONDS |||"
+	{
+		"trans"		"||| ELEVATOR OPENS IN 25 SECONDS |||"
+	}
+	"<Tornado gun has been acquired>"
+	{
+		"trans"		"<Tornado gun has been acquired>"
+	}
+	"||| ZOMBIES TAKE THE STAIRS |||"
+	{
+		"trans"		"||| ZOMBIES TAKE THE STAIRS |||"
+	}
+	"||| HOLD FOR 10 SECONDS |||"
+	{
+		"trans"		"||| HOLD FOR 10 SECONDS |||"
+	}
+}

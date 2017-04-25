@@ -1,0 +1,163 @@
+"Chat"
+{
+	"***Map by Reflelia***"
+	{
+		"trans"		"***Map by Reflelia***"
+	}
+	"***Teleport activates in 20 seconds***"
+	{
+		"trans"		"***Teleport activates in 20 seconds***"
+	}
+	"***3***"
+	{
+		"trans"		"***3***"
+	}
+	"***2***"
+	{
+		"trans"		"***2***"
+	}
+	"***1***"
+	{
+		"trans"		"***1***"
+	}
+	"***RUN***"
+	{
+		"trans"		"***RUN***"
+	}
+	"***Resist for 60 seconds***"
+	{
+		"trans"		"***Resist for 60 seconds***"
+	}
+	"***Safeplace has been activated***"
+	{
+		"trans"		"***Safeplace has been activated***"
+	}
+	"***Zombies are coming!!***"
+	{
+		"trans"		"***Zombies are coming!!***"
+	}
+	"***Teleporting all humans...***"
+	{
+		"trans"		"***Teleporting all humans...***"
+	}
+	"***Teleporting all zombies...***"
+	{
+		"trans"		"***Teleporting all zombies...***"
+	}
+	"***10 seconds left***"
+	{
+		"trans"		"***10 seconds left***"
+	}
+	"***Gravity picked up***"
+	{
+		"trans"		"***Gravity picked up***"
+	}
+	"***Gravity Used***"
+	{
+		"trans"		"***Gravity Used***"
+	}
+	"***shorcut open***"
+	{
+		"trans"		"***shorcut open***"
+	}
+	"***Resist 60 seconds***"
+	{
+		"trans"		"***Resist 60 seconds***"
+	}
+	"***Blue block==bhop***"
+	{
+		"trans"		"***Blue block==bhop***"
+	}
+	"***Zombies are coming!***"
+	{
+		"trans"		"***Zombies are coming!***"
+	}
+	"***Watermelon***"
+	{
+		"trans"		"***Watermelon***"
+	}
+	"***Don't break the glass***"
+	{
+		"trans"		"***Don't break the glass***"
+	}
+	"***Teleport error***"
+	{
+		"trans"		"***Teleport error***"
+	}
+	"***Go to red block and resist***"
+	{
+		"trans"		"***Go to red block and resist***"
+	}
+	"***Do not fall from blocks***"
+	{
+		"trans"		"***Do not fall from blocks***"
+	}
+	"***Try to find button***"
+	{
+		"trans"		"***Try to find button***"
+	}
+	"***Zombies are coming in 15 seconds***"
+	{
+		"trans"		"***Zombies are coming in 15 seconds***"
+	}
+	"***Teleport error fixed in 30 seconds***"
+	{
+		"trans"		"***Teleport error fixed in 30 seconds***"
+	}
+	"***Try to find second button***"
+	{
+		"trans"		"***Try to find second button***"
+	}
+	"***Zombies are coming***"
+	{
+		"trans"		"***Zombies are coming***"
+	}
+	"***Second teleport fixed in 30 seconds***"
+	{
+		"trans"		"***Second teleport fixed in 30 seconds***"
+	}
+	"***5 seconds left, prepare yourself***"
+	{
+		"trans"		"***5 seconds left, prepare yourself***"
+	}
+	"***Watch out!***"
+	{
+		"trans"		"***Watch out!***"
+	}
+	"***Resist for 30 seconds***"
+	{
+		"trans"		"***Resist for 30 seconds***"
+	}
+	"***Ready for final surf***"
+	{
+		"trans"		"***Ready for final surf***"
+	}
+	"***Nuke in 10 seconds***"
+	{
+		"trans"		"***Nuke in 10 seconds***"
+	}
+	"***Thank you for playing***"
+	{
+		"trans"		"***Thank you for playing***"
+	}
+	"***1／4***"
+	{
+		"trans"		"***1／4***"
+	}
+	"***2／4***"
+	{
+		"trans"		"***2／4***"
+	}
+	"***1 left***"
+	{
+		"trans"		"***1 left***"
+	}
+	"..."
+	{
+		"trans"		"..."
+	}
+	"***Destructive in 3 seconds***"
+	{
+		"trans"		"***Destructive in 3 seconds***"
+	}
+}

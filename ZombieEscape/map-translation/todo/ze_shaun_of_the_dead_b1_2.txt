@@ -1,0 +1,115 @@
+"Chat"
+{
+	"***BOAT ROUTE***"
+	{
+		"trans"		"***BOAT ROUTE***"
+	}
+	"***OFFICE ROUTE***"
+	{
+		"trans"		"***OFFICE ROUTE***"
+	}
+	"***DOORS OPENS IN 30 SECONDS***"
+	{
+		"trans"		"***DOORS OPENS IN 30 SECONDS***"
+	}
+	"***DOORS OPENS IN 20 SECONDS***"
+	{
+		"trans"		"***DOORS OPENS IN 20 SECONDS***"
+	}
+	"***DOORS OPENS IN 10 SECONDS***"
+	{
+		"trans"		"***DOORS OPENS IN 10 SECONDS***"
+	}
+	"***DOORS OPENS IN 5 SECONDS***"
+	{
+		"trans"		"***DOORS OPENS IN 5 SECONDS***"
+	}
+	"***FALL BACK***"
+	{
+		"trans"		"***FALL BACK***"
+	}
+	"***UNDERGROUND ROUTE***"
+	{
+		"trans"		"***UNDERGROUND ROUTE***"
+	}
+	"***A PLAYER NEEDS TO GO INSIDE THE VENT***"
+	{
+		"trans"		"***A PLAYER NEEDS TO GO INSIDE THE VENT***"
+	}
+	"***TRUCKS LEAVE IN 20 SECONDS***"
+	{
+		"trans"		"***TRUCKS LEAVE IN 20 SECONDS***"
+	}
+	"***TRUCKS LEAVE IN 10 SECONDS***"
+	{
+		"trans"		"***TRUCKS LEAVE IN 10 SECONDS***"
+	}
+	"***HUMANS STAY ON THE BLUE TRUCK***"
+	{
+		"trans"		"***HUMANS STAY ON THE BLUE TRUCK***"
+	}
+	"***GET TO THE SAFETY OF THE WINCHESTER***"
+	{
+		"trans"		"***GET TO THE SAFETY OF THE WINCHESTER***"
+	}
+	"***COVER THE DOOR***"
+	{
+		"trans"		"***COVER THE DOOR***"
+	}
+	"***ESCAPE ROUTE: ROOFTOP***"
+	{
+		"trans"		"***ESCAPE ROUTE: ROOFTOP***"
+	}
+	"***AFK TELE 10 SECONDS***"
+	{
+		"trans"		"***AFK TELE 10 SECONDS***"
+	}
+	"***RESTORE THE POWER***"
+	{
+		"trans"		"***RESTORE THE POWER***"
+	}
+	"***HOLD THE WINDOWS***"
+	{
+		"trans"		"***HOLD THE WINDOWS***"
+	}
+	"***WATCH OUT FOR ZOMBIES AT THE BACK DOOR***"
+	{
+		"trans"		"***WATCH OUT FOR ZOMBIES AT THE BACK DOOR***"
+	}
+	"***FALL BACK UPSTAIRS***"
+	{
+		"trans"		"***FALL BACK UPSTAIRS***"
+	}
+	"***FLOOD GATE OPENING***"
+	{
+		"trans"		"***FLOOD GATE OPENING***"
+	}
+	"***ELEVATOR LEAVING 15 SECONDS***"
+	{
+		"trans"		"***ELEVATOR LEAVING 15 SECONDS***"
+	}
+	"***ESCAPE ROUTE: CELLAR***"
+	{
+		"trans"		"***ESCAPE ROUTE: CELLAR***"
+	}
+	"***FALL BACK BEHIND THE BAR***"
+	{
+		"trans"		"***FALL BACK BEHIND THE BAR***"
+	}
+	"***WAIT FOR HATCH TO OPEN***"
+	{
+		"trans"		"***WAIT FOR HATCH TO OPEN***"
+	}
+	"***HATCH IS OPEN FALL BACK***"
+	{
+		"trans"		"***HATCH IS OPEN FALL BACK***"
+	}
+	"***LIFT LEAVING IN 15 SECONDS***"
+	{
+		"trans"		"***LIFT LEAVING IN 15 SECONDS***"
+	}
+	"***LIFT LEAVING IN 5 SECONDS***"
+	{
+		"trans"		"***LIFT LEAVING IN 5 SECONDS***"
+	}
+}
