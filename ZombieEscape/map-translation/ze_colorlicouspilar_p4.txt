@@ -1,0 +1,7 @@
+"Chat"
+{
+	"***Defend for 20secs***"
+	{
+		"trans"		"***防守20秒***"
+	}
+}
