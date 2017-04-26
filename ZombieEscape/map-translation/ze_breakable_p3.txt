@@ -1,0 +1,87 @@
+"Chat"
+{
+	">>>BREAK CRATES AND GET ON IT TO ESCAPE FROM MOTHER ZOMBIE<<<"
+	{
+		"trans"		"打破易碎的木箱躲避僵尸的袭击"
+	}
+	">>>MAP BY LeGrem<<<"
+	{
+		"trans"		"易碎木箱逃亡 作者LeGrem 翻译DohiCircle"
+	}
+	">>>RUN<<<"
+	{
+		"trans"		"快跑"
+	}
+	">>>COVER 30s<<<"
+	{
+		"trans"		"防守30秒"
+	}
+	">>>PREPARE TO RUN - TAKE THE RIGHT DOOR<<<"
+	{
+		"trans"		"让我看看……我们走右边的门！"
+	}
+	">>>COVER 35s<<<<"
+	{
+		"trans"		"防守35秒"
+	}
+	">>>RUN<<<<"
+	{
+		"trans"		"撤退"
+	}
+	">>>FIND GREEN LIGHT DOOR<<<<"
+	{
+		"trans"		"找到绿灯的门"
+	}
+	">>>BREAK THE CORRECT WALLS<<<"
+	{
+		"trans"		"打碎这些拦路的墙"
+	}
+	">>>ZOMBIES PROTECTION ACTIVATED ! HURRY UP<<<"
+	{
+		"trans"		"AT立场开启能阻挡僵尸一会 快点跑！"
+	}
+	">>>BREAK THE BLOCKING PILLAR OR COVER 1 MINUTE<<<"
+	{
+		"trans"		"破坏这根柱子或者等待1分钟我帮你们清理"
+	}
+	">>>RUN TO THE OTHER SIDE OF THE BRIDGE<<<"
+	{
+		"trans"		"快到桥的另一边"
+	}
+	">>>SHOOT THE BRIDGE<<<"
+	{
+		"trans"		"射击这座桥"
+	}
+	">>>OR COVER 1 MINUTE<<<"
+	{
+		"trans"		"或者防守1分钟"
+	}
+	">>>30s LEFT<<<"
+	{
+		"trans"		"还剩30秒"
+	}
+	">>>PREPARE TO RUN - TAKE THE LEFT DOOR<<<"
+	{
+		"trans"		"让我看看……我们走左边的门！"
+	}
+	">>>PREPARE TO RUN - TAKE THE MIDDLE DOOR<<<"
+	{
+		"trans"		"让我看看……我们走中间的门！"
+	}
+	">>>5s LEFT<<<"
+	{
+		"trans"		"还有5秒"
+	}
+	">>>TOO MUCH CRATES ARE BROKEN<<<"
+	{
+		"trans"		"你们打坏太多木箱了 感觉要GG"
+	}
+	">> CT FOLLOW THE ARROW - GO UNDER WATER<<<"
+	{
+		"trans"		"人类跟着箭头走 快下水！"
+	}
+	">>>ESCAPE BY THE WATER<<<"
+	{
+		"trans"		"通过水流逃脱"
+	}
+}
