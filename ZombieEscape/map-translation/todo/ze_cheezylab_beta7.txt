@@ -14,7 +14,7 @@
 	}
 	"*Airlock Door Malfunction. Attempting repairs. Estimated duration: 30 seconds*"
 	{
-		"trans"		"AI：闸门故障【哔哔】尝试修理【哔哔】预计时间：30秒"
+		"trans"		"AI：闸门故障……尝试修理……预计时间：30秒"
 	}
 	"--5 seconds--"
 	{
@@ -38,7 +38,7 @@
 	}
 	"--Photonic Blade Obtained: 30 seconds cooldown--"
 	{
-		"trans"		"AI：高频光子刀已被捡起【哔哔】两次使用之间有30秒的间隔"
+		"trans"		"AI：高频光子刀已被捡起……两次使用之间有30秒的间隔"
 	}
 	"*-'A low gravity room.Kinda expected that'-*"
 	{
@@ -50,7 +50,7 @@
 	}
 	"*Ventilaton system set to: Fill facility.Estimated duration 25 seconds*"
 	{
-		"trans"		"AI：通风系统设置【哔哔】填充气体中【哔哔】预计需要25秒"
+		"trans"		"AI：通风系统设置……填充气体中……预计需要25秒"
 	}
 	"*-'Great.Now plant C4 here and run!'-*"
 	{
@@ -66,7 +66,7 @@
 	}
 	"*Uploading.Estimated time of completion: 30 seconds*"
 	{
-		"trans"		"AI：正在上传【哔哔】预计完成时间30秒"
+		"trans"		"AI：正在上传……预计完成时间30秒"
 	}
 	"*-'Upload the data.'-*"
 	{
@@ -94,7 +94,7 @@
 	}
 	"*Self-destruct sequence activated: 1 minute to detonation.*"
 	{
-		"trans"		"AI：基地自毁装置已启动【哔哔】1分钟后爆炸"
+		"trans"		"AI：基地自毁装置已启动……1分钟后爆炸"
 	}
 	"*Nuclear detonation imminent! 30 seconds remaining.*"
 	{

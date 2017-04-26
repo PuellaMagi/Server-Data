@@ -2,126 +2,126 @@
 {
 	"*** ZE_CATHEDRAL_V1 created by JorisCeoen ***"
 	{
-		"trans"		"*** ZE_CATHEDRAL_V1 created by JorisCeoen ***"
+		"trans"		"欢迎来到大教堂 作者JorisCeoen 翻译DohiCircle"
 	}
 	"*** MARIA PLATFORM HAS BEEN REACHED. STAY ON IT TO BE SAFE ***"
 	{
-		"trans"		"*** MARIA PLATFORM HAS BEEN REACHED. STAY ON IT TO BE SAFE ***"
+		"trans"		"我们到达了玛利亚平台，这里是安全的"
 	}
 	"*** ROUTES CURRENTLY UNDER DEVELOPMENT. ONLY 1 ROUTE WILL BE CHOOSEN! ***"
 	{
-		"trans"		"*** ROUTES CURRENTLY UNDER DEVELOPMENT. ONLY 1 ROUTE WILL BE CHOOSEN! ***"
+		"trans"		"道路还没有被打开，我们只有一条路能走"
 	}
 	"*** HOLY GRAIL EVENT TRIGGERED ***"
 	{
-		"trans"		"*** HOLY GRAIL EVENT TRIGGERED ***"
+		"trans"		"圣杯事件已触发"
 	}
 	"*** PREPARE TO ESCAPE TO THE UPPER LEVEL IN 10 SECONDS ***"
 	{
-		"trans"		"*** PREPARE TO ESCAPE TO THE UPPER LEVEL IN 10 SECONDS ***"
+		"trans"		"防守10秒准备撤退至上层"
 	}
 	"*** 5 SECONDS LEFT ***"
 	{
-		"trans"		"*** 5 SECONDS LEFT ***"
+		"trans"		"5秒后撤退"
 	}
 	"*** GO! GET BACK TO THE SPAWN ZONE AND TAKE THE DOOR ON THE RIGHT! ***"
 	{
-		"trans"		"*** GO! GET BACK TO THE SPAWN ZONE AND TAKE THE DOOR ON THE RIGHT! ***"
+		"trans"		"快返回出生点我们从左边的门上楼"
 	}
 	"*** DEFEND FOR 20 SECONDS THE GATE TO THE UPPER LEVEL***"
 	{
-		"trans"		"*** DEFEND FOR 20 SECONDS THE GATE TO THE UPPER LEVEL***"
+		"trans"		"防守20秒等待大门打开"
 	}
 	"*** 10 SECONDS LEFT ***"
 	{
-		"trans"		"*** 10 SECONDS LEFT ***"
+		"trans"		"10秒后大门打开"
 	}
 	"*** GO! ***"
 	{
-		"trans"		"*** GO! ***"
+		"trans"		"撤退！"
 	}
 	"*** WAIT HERE 30 SECONDS UNTIL ALL PLAYERS ARE GATHERED ***"
 	{
-		"trans"		"*** WAIT HERE 30 SECONDS UNTIL ALL PLAYERS ARE GATHERED ***"
+		"trans"		"等待30秒到所有人到齐"
 	}
 	"*** 20 SECONDS LEFT ***"
 	{
-		"trans"		"*** 20 SECONDS LEFT ***"
+		"trans"		"20秒后门开"
 	}
 	"*** MAKE YOUR WAY TO THE ORGAN! ***"
 	{
-		"trans"		"*** MAKE YOUR WAY TO THE ORGAN! ***"
+		"trans"		"找到去风琴的路"
 	}
 	"*** DEFEND THE ORGAN WHILE THE HOLY LIGHT IS BEING GENERATED ***"
 	{
-		"trans"		"*** DEFEND THE ORGAN WHILE THE HOLY LIGHT IS BEING GENERATED ***"
+		"trans"		"防守风琴到圣光产生"
 	}
 	"*** EVERYONE LEFT BEHIND WILL GET TELEPORTED IN 10 SECONDS (ZOMBIES AND HUMANS)! ***"
 	{
-		"trans"		"*** EVERYONE LEFT BEHIND WILL GET TELEPORTED IN 10 SECONDS (ZOMBIES AND HUMANS)! ***"
+		"trans"		"所有落后的玩家将在10秒后传送"
 	}
 	"*** Music currently being played: J.S. Bach - BWV 599 (Chorale) ***"
 	{
-		"trans"		"*** Music currently being played: J.S. Bach - BWV 599 (Chorale) ***"
+		"blocked"		"1"
 	}
 	"*** THE HOLY LIGHT WILL BE GENERATED IN 40 seconds ***"
 	{
-		"trans"		"*** THE HOLY LIGHT WILL BE GENERATED IN 40 seconds ***"
+		"trans"		"圣光将在40秒后产生"
 	}
 	"*** EVERYONE HAS BEEN TELEPORTED! ***"
 	{
-		"trans"		"*** EVERYONE HAS BEEN TELEPORTED! ***"
+		"trans"		"所有落后玩家已被传送"
 	}
 	"*** THE HOLY LIGHT WILL BE GENERATED IN 20 seconds ***"
 	{
-		"trans"		"*** THE HOLY LIGHT WILL BE GENERATED IN 20 seconds ***"
+		"trans"		"圣光将在20秒后产生"
 	}
 	"*** THE HOLY LIGHT WILL BE GENERATED IN 10 seconds ***"
 	{
-		"trans"		"*** THE HOLY LIGHT WILL BE GENERATED IN 10 seconds ***"
+		"trans"		"圣光将在10秒后产生"
 	}
 	"*** THE HOLY LIGHT WILL BE GENERATED IN 5 seconds ***"
 	{
-		"trans"		"*** THE HOLY LIGHT WILL BE GENERATED IN 5 seconds ***"
+		"trans"		"圣光将在5秒后产生"
 	}
 	"*** 4 ***"
 	{
-		"trans"		"*** 4 ***"
+		"trans"		"4"
 	}
 	"*** 3 ***"
 	{
-		"trans"		"*** 3 ***"
+		"trans"		"3"
 	}
 	"*** 2 ***"
 	{
-		"trans"		"*** 2 ***"
+		"trans"		"2"
 	}
 	"*** 1 ***"
 	{
-		"trans"		"*** 1 ***"
+		"trans"		"1"
 	}
 	"*** THE HOLY LIGHT HAS BEEN REACHED! ***"
 	{
-		"trans"		"*** THE HOLY LIGHT HAS BEEN REACHED! ***"
+		"trans"		"圣光已经产生"
 	}
 	"*** 10 SECONDS LEFT BEFORE IT WILL START FORWARD TOWARDS THE ALTAR! ***"
 	{
-		"trans"		"*** 10 SECONDS LEFT BEFORE IT WILL START FORWARD TOWARDS THE ALTAR! ***"
+		"trans"		"圣光在10秒后离开，它将前往祭坛"
 	}
 	"*** Music currently being played: J.S. Bach - BWV 538 (Doric Toccata D minor) ***"
 	{
-		"trans"		"*** Music currently being played: J.S. Bach - BWV 538 (Doric Toccata D minor) ***"
+		"blocked"		"1"
 	}
 	"*** LOOK OVER THERE! THERE'S A HOLY GRAIL! ***"
 	{
-		"trans"		"*** LOOK OVER THERE! THERE'S A HOLY GRAIL! ***"
+		"trans"		"看，前面有一个圣杯"
 	}
 	"*** WE HAVE TO PICK IT UP IN ORDER TO CONTINUE! ***"
 	{
-		"trans"		"*** WE HAVE TO PICK IT UP IN ORDER TO CONTINUE! ***"
+		"trans"		"我们必须把它捡起来才可以继续"
 	}
 	"*** 60 SECONDS BEFORE LIGHT KILLS US AL IF THE GRAIL IS NOT PICKED UP! ***"
 	{
-		"trans"		"*** 60 SECONDS BEFORE LIGHT KILLS US AL IF THE GRAIL IS NOT PICKED UP! ***"
+		"trans"		"我们只有60秒去捡起圣杯"
 	}
 }
