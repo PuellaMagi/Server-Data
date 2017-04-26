@@ -30,75 +30,75 @@
 	}
 	"** Hold right here! There are 4 entrances - take care of them! **"
 	{
-		"trans"		"** Hold right here! There are 4 entrances - take care of them! **"
+		"trans"		"守住这里 一共有四个口子别让僵尸上来"
 	}
 	"** Keep it up! 10 seconds left! **"
 	{
-		"trans"		"** Keep it up! 10 seconds left! **"
+		"trans"		"坚持住还有10秒"
 	}
 	"** RESIST! We need to wait for a bit until we fly-fly-fly! **"
 	{
-		"trans"		"** RESIST! We need to wait for a bit until we fly-fly-fly! **"
+		"trans"		"守住 直到玻璃关上 我们就能一飞冲天"
 	}
 	"** Hold it a bit more! The magical energy is energy-ny-zing! **"
 	{
-		"trans"		"** Hold it a bit more! The magical energy is energy-ny-zing! **"
+		"trans"		"再守一会 巴拉拉能量马上就充能完毕了"
 	}
 	"** Last few seconds! HOLD IT! **"
 	{
-		"trans"		"** Last few seconds! HOLD IT! **"
+		"trans"		"最后几秒了 绝对不能让僵尸进来"
 	}
 	"** Split hold! Both sides must survive! RESIST! **"
 	{
-		"trans"		"** Split hold! Both sides must survive! RESIST! **"
+		"trans"		"有两条路守住等待玻璃消失"
 	}
 	"** Hold it! Last 10 seconds! **"
 	{
-		"trans"		"** Hold it! Last 10 seconds! **"
+		"trans"		"守住这里还有10秒"
 	}
 	"** Do you see it? Time to practice ropeless bungee jumping! **"
 	{
-		"trans"		"** Do you see it? Time to practice ropeless bungee jumping! **"
+		"trans"		"知道刺客信条么 信仰之跃!!!!!"
 	}
 	"** Narrow hold! Narrower time! RESIST A LITTLE OR DIE! **"
 	{
-		"trans"		"** Narrow hold! Narrower time! RESIST A LITTLE OR DIE! **"
+		"trans"		"防守这个窄口一会"
 	}
 	"** Get moving! We lost time! MAP IS LONG ENOUGH NOW TO BE DECENT! **"
 	{
-		"trans"		"** Get moving! We lost time! MAP IS LONG ENOUGH NOW TO BE DECENT! **"
+		"trans"		"后退 跳上后面的平台"
 	}
 	"** One more hold and then the woody poody finale! **"
 	{
-		"trans"		"** One more hold and then the woody poody finale! **"
+		"trans"		"守住这个平台 等待背后的玻璃消失"
 	}
 	"** I'm quite sure you're wishing you had done something with your life now... **"
 	{
-		"trans"		"** I'm quite sure you're wishing you had done something with your life now... **"
+		"blocked"		"1"
 	}
 	"** GO! The absurdly stupid ending awaits with more absurd holding than ever! **"
 	{
-		"trans"		"** GO! The absurdly stupid ending awaits with more absurd holding than ever! **"
+		"trans"		"撤退！我们就快要胜利了"
 	}
 	"** THIS IS OUR LAST STAND! RESIST! **"
 	{
-		"trans"		"** THIS IS OUR LAST STAND! RESIST! **"
+		"trans"		"这是最后一个平台了 坚持住！"
 	}
 	"** THE BRIDGE WILL GO SOON! KEEP IT UP!!! **"
 	{
-		"trans"		"** THE BRIDGE WILL GO SOON! KEEP IT UP!!! **"
+		"trans"		"桥马上要断了 继续开火！"
 	}
 	"** GET READY! THE LAST WAVE IS INCOMING! **"
 	{
-		"trans"		"** GET READY! THE LAST WAVE IS INCOMING! **"
+		"trans"		"注意 四周会出现旋转板 僵尸会从板上出现"
 	}
 	"** HOLD IT! WE MUST SURVIVE FOR THE LAST BIT! **"
 	{
-		"trans"		"** HOLD IT! WE MUST SURVIVE FOR THE LAST BIT! **"
+		"trans"		"守住！我们必须撑住 已经没有退路了"
 	}
 	"*** Amazing! You did it!! Let's see how you do on Grape mode! ***"
 	{
-		"trans"		"*** Amazing! You did it!! Let's see how you do on Grape mode! ***"
+		"trans"		"太让人惊讶了，我们做到了！下一关 Grape"
 	}
 	"** Level: Grape **"
 	{
@@ -106,6 +106,6 @@
 	}
 	"** Shake-shaka-shake-shaka-boom! Grape is a fruit with calcium! **"
 	{
-		"trans"		"** Shake-shaka-shake-shaka-boom! Grape is a fruit with calcium! **"
+		"blocked"		"1"
 	}
 }

@@ -82,6 +82,6 @@
 	}
 	">>>ESCAPE BY THE WATER<<<"
 	{
-		"trans"		"从水中逃脱"
+		"trans"		"通过水流逃脱"
 	}
 }
