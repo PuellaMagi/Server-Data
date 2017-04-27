@@ -2,14 +2,14 @@
 {
 	" LVL 1 - Easy"
 	{
-		"trans"		" LVL 1 - Easy"
+		"trans"		"等级1——简单"
 	}
 	" LVL 2 - Normal"
 	{
-		"trans"		" LVL 2 - Normal"
+		"trans"		"等级2——普通"
 	}
 	" LVL 3 - Hard"
 	{
-		"trans"		" LVL 3 - Hard"
+		"trans"		"等级3——困难"
 	}
 }

@@ -10,7 +10,7 @@
 	}
 	"** Level: Lemon **"
 	{
-		"trans"		"** Level: Lemon **"
+		"trans"		"Level: Lemon"
 	}
 	"** This level looks like good old Louisiana: lines and squares all along the little lonely land **"
 	{
@@ -102,7 +102,7 @@
 	}
 	"** Level: Grape **"
 	{
-		"trans"		"** Level: Grape **"
+		"trans"		"Level: Grape"
 	}
 	"** Shake-shaka-shake-shaka-boom! Grape is a fruit with calcium! **"
 	{
