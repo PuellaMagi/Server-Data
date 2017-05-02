@@ -2,11 +2,11 @@
 {
 	"*** WARMUP ROUND (60 sec) ***"
 	{
-		"trans"		"热身局（60秒）"
+		"trans"		"***热身局(60秒)***"
 	}
 	"*** Map By Nostar & Moltard ***"
 	{
-		"trans"		"美杜莎神庙 作者Nostar&Moltard 翻译DohiCircle"
+		"trans"		"***<美杜莎神庙> 作者Nostar&Moltard 翻译DohiCircle***"
 	}
 	"*** This map is based on mg_Serpentis_Temple by Kaemon and Luffaren ***"
 	{
@@ -18,107 +18,107 @@
 	}
 	"*** WARMUP ROUND (50 sec) ***"
 	{
-		"trans"		"热身局（50秒）"
+		"trans"		"***热身局(50秒)***"
 	}
 	"*** WARMUP ROUND (40 sec) ***"
 	{
-		"trans"		"热身局（40秒）"
+		"trans"		"***热身局(40秒)***"
 	}
 	"*** WARMUP ROUND (30 sec) ***"
 	{
-		"trans"		"热身局（30秒）"
+		"trans"		"***热身局(30秒)***"
 	}
 	"*** WARMUP ROUND (20 sec) ***"
 	{
-		"trans"		"热身局（20秒）"
+		"trans"		"***热身局(20秒)***"
 	}
 	"*** WARMUP ROUND (10 sec) ***"
 	{
-		"trans"		"热身局（10秒）"
+		"trans"		"***热身局(10秒)***"
 	}
 	"*** Stage 1 loaded ***"
 	{
-		"trans"		"关卡1正在加载……请稍后"
+		"trans"		"***关卡1正在加载……请稍后***"
 	}
 	"*** STAGE 1 ***"
 	{
-		"trans"		"关卡1"
+		"trans"		"***关卡1***"
 	}
 	"*** Find a way to reach the temple ***"
 	{
-		"trans"		"我们需要找一条路达到神庙"
+		"trans"		"***我们需要找一条路达到神庙***"
 	}
 	"*** Poison Snake has been picked ***"
 	{
-		"trans"		"剧毒之杖（毒）已被捡起"
+		"trans"		"***剧毒之杖(毒)已被捡起***"
 	}
 	"*** DOOR OPEN IN 30 SECONDS ***"
 	{
-		"trans"		"门将在30秒后打开"
+		"trans"		"***门将在30秒后打开***"
 	}
 	"*** DOOR OPEN IN 20 SECONDS ***"
 	{
-		"trans"		"门将在20秒后打开"
+		"trans"		"***门将在20秒后打开***"
 	}
 	"*** AFK TELEPORT IN 5 SECONDS ***"
 	{
-		"trans"		"所有落后玩家将在5秒后传送"
+		"trans"		"***所有落后玩家将在5秒后传送***"
 	}
 	"*** Fire Snake has been picked ***"
 	{
-		"trans"		"炽火之杖（火）已被捡起"
+		"trans"		"***炽火之杖(火)已被捡起***"
 	}
 	"*** AFK TELEPORT IN 15 SECONDS ***"
 	{
-		"trans"		"所有落后玩家将在15秒后传送"
+		"trans"		"***所有落后玩家将在15秒后传送***"
 	}
 	"*** Heal／Ammo Snake has been picked ***"
 	{
-		"trans"		"光耀之杖（奶）已被捡起"
+		"trans"		"***光耀之杖(奶)已被捡起***"
 	}
 	"*** TELEPORT IN 25 SECONDS ***"
 	{
-		"trans"		"25秒后传送"
+		"trans"		"***25秒后传送***"
 	}
 	"*** ZM TELEPORT IN 10 SECONDS ***"
 	{
-		"trans"		"僵尸将在10秒后传送"
+		"trans"		"***僵尸将在10秒后传送***"
 	}
 	"*** A sacrifice is necessary to open this passage ***"
 	{
-		"trans"		"我们需要一个人来当甘道夫才能继续前进"
+		"trans"		"***我们需要一个人来当甘道夫才能继续前进***"
 	}
 	"*** The passage will be open in 10 seconds ***"
 	{
-		"trans"		"通道将在10秒后打开"
+		"trans"		"***通道将在10秒后打开***"
 	}
 	"*** DOOR OPEN IN 25 SECONDS ***"
 	{
-		"trans"		"门将在25秒后开启"
+		"trans"		"***门将在25秒后开启***"
 	}
 	"*** ZM TELEPORT IN 5 SECONDS ***"
 	{
-		"trans"		"僵尸将在5秒后传送"
+		"trans"		"***僵尸将在5秒后传送***"
 	}
 	"*** HOLD 10 SECONDS ***"
 	{
-		"trans"		"守住10秒"
+		"trans"		"***守住10秒***"
 	}
 	"*** DOOR CLOSE IN 5 SECONDS ! ***"
 	{
-		"trans"		"门将在5秒后关闭"
+		"trans"		"***门将在5秒后关闭***"
 	}
 	"*** KILL REMAINING ZOMBIES ***"
 	{
-		"trans"		"杀死剩余的僵尸"
+		"trans"		"***杀死剩余的僵尸***"
 	}
 	"*** YOU WON STAGE 1 ***"
 	{
-		"trans"		"关卡1已通过"
+		"trans"		"***关卡1已通过***"
 	}
 	"*** STAGE 2 LOADED ***"
 	{
-		"trans"		"关卡2正在加载……请稍后"
+		"trans"		"***关卡2正在加载……请稍后***"
 	}
 	"*** Map By Nostar ***"
 	{
@@ -126,111 +126,111 @@
 	}
 	"*** STAGE 2 ***"
 	{
-		"trans"		"关卡2"
+		"trans"		"***关卡2***"
 	}
 	"*** HOLD 25 SECONDS ***"
 	{
-		"trans"		"守住25秒"
+		"trans"		"***守住25秒***"
 	}
 	"*** FALL BACK ***"
 	{
-		"trans"		"撤退"
+		"trans"		"***撤退***"
 	}
 	"*** Snake come in 25 seconds ***"
 	{
-		"trans"		"蛇路将在25秒后打通"
+		"trans"		"***蛇路将在25秒后打通***"
 	}
 	"*** Hold here ***"
 	{
-		"trans"		"守住这里"
+		"trans"		"***守住这里***"
 	}
 	"*** CRYSTAL HAS BEEN ACTIVATED ***"
 	{
-		"trans"		"中央水晶已被触发"
+		"trans"		"***中央水晶已被触发***"
 	}
 	"*** The portal is open in 30 seconds ***"
 	{
-		"trans"		"传送门将在30秒后打开"
+		"trans"		"***传送门将在30秒后打开***"
 	}
 	"*** PORTAL IS READY ! FALL BACK ! ***"
 	{
-		"trans"		"传送门就绪！撤退！"
+		"trans"		"***传送门就绪!撤退!***"
 	}
 	"*** AFK TELEPORT IN 10 SECONDS ***"
 	{
-		"trans"		"所有落后玩家将在10秒后传送"
+		"trans"		"***所有落后玩家将在10秒后传送***"
 	}
 	"*** DOOR CLOSE IN 10 SECONDS ***"
 	{
-		"trans"		"门将在10秒后关闭"
+		"trans"		"***门将在10秒后关闭***"
 	}
 	"*** COVER ! GET TO THE DOOR ! ***"
 	{
-		"trans"		"守住！到达门口！"
+		"trans"		"***守住!到达门口!***"
 	}
 	"*** COVER 15 SECONDS ***"
 	{
-		"trans"		"继续防守15秒"
+		"trans"		"***继续防守15秒***"
 	}
 	"*** DOORS OPEN IN 20 SECONDS ***"
 	{
-		"trans"		"门开启于20秒后"
+		"trans"		"***门开启于20秒后***"
 	}
 	"*** AFK TELE IN 5 SECONDS ***"
 	{
-		"trans"		"所有落后玩家将在5秒后传送"
+		"trans"		"***所有落后玩家将在5秒后传送"
 	}
 	"*** NEXT DOOR OPEN IN 10 SECONDS ***"
 	{
-		"trans"		"下一个门开启于10秒后"
+		"trans"		"***下一个门开启于10秒后"
 	}
 	"*** First doors will be close in 5 seconds ***"
 	{
-		"trans"		"*** First doors will be close in 5 seconds ***"
+		"trans"		"***第一个门将在5秒后关闭***"
 	}
 	"*** DOORS CLOSE IN 10 SECONDS ***"
 	{
-		"trans"		"门将在10秒后关闭"
+		"trans"		"***门将在10秒后关闭***"
 	}
 	"*** YOU WON STAGE 2 ! ***"
 	{
-		"trans"		"关卡2已通过"
+		"trans"		"***关卡2已通过***"
 	}
 	"*** STAGE 3 LOADED ***"
 	{
-		"trans"		"关卡3正在加载……请稍后"
+		"trans"		"***关卡3正在加载……请稍后***"
 	}
 	"*** STAGE 3 ***"
 	{
-		"trans"		"关卡3"
+		"trans"		"***关卡3***"
 	}
 	"*** C4 EXPLODE IN 25 SECONDS ***"
 	{
-		"trans"		"C4将在25秒后爆炸"
+		"trans"		"***C4将在25秒后爆炸***"
 	}
 	"*** C4 EXPLODE IN 30 SECONDS ***"
 	{
-		"trans"		"C4将在30秒后爆炸"
+		"trans"		"***C4将在30秒后爆炸***"
 	}
 	"*** Door Opens in 10 seconds ***"
 	{
-		"trans"		"门将在10秒后打开"
+		"trans"		"***门将在10秒后打开***"
 	}
 	"*** DOOR OPEN IN 15 SECONDS ***"
 	{
-		"trans"		"门将在15秒后打开"
+		"trans"		"***门将在15秒后打开***"
 	}
 	"*** DOOR OPEN IN 10 SECONDS ***"
 	{
-		"trans"		"门将在10秒后打开"
+		"trans"		"***门将在10秒后打开***"
 	}
 	"*** DOOR OPEN IN 5 SECONDS ***"
 	{
-		"trans"		"门将在5秒后打开"
+		"trans"		"***门将在5秒后打开***"
 	}
 	"*** HOLD 20 SECONDS ***"
 	{
-		"trans"		"防守20秒"
+		"trans"		"***防守20秒***"
 	}
 	"*** HOLD HERE 30 SECONDS ***"
 	{
@@ -238,50 +238,50 @@
 	}
 	"*** DOOR OPEN ! ***"
 	{
-		"trans"		"门开了快进来！"
+		"trans"		"***门开了快进来!***"
 	}
 	"*** DOORS CLOSE IN 15 SECONDS ***"
 	{
-		"trans"		"门将在15秒后关闭"
+		"trans"		"***门将在15秒后关闭***"
 	}
 	"*** YOU WON STAGE 3 ! ***"
 	{
-		"trans"		"关卡3已通过"
+		"trans"		"***关卡3已通过***"
 	}
 	"*** STAGE 4 LOADED ***"
 	{
-		"trans"		"关卡4正在加载……请稍后"
+		"trans"		"***关卡4正在加载……请稍后***"
 	}
 	"*** STAGE 4 ***"
 	{
-		"trans"		"关卡4"
+		"trans"		"***关卡4***"
 	}
 	"*** HOLD HERE 20 SECONDS ***"
 	{
-		"trans"		"守住这里20秒"
+		"trans"		"***守住这里20秒***"
 	}
 	"*** TELEPORT IN 30 SECONDS ***"
 	{
-		"trans"		"30秒后传送"
+		"trans"		"***30秒后传送***"
 	}
 	"*** ELEVATOR WILL MOVE IN 20 SECONDS ***"
 	{
-		"trans"		"电梯将在20秒后离开"
+		"trans"		"***电梯将在20秒后离开***"
 	}
 	"*** Door opens in 15 seconds ***"
 	{
-		"trans"		"门将在15后打开"
+		"trans"		"***门将在15后打开***"
 	}
 	"*** NUKE IN 7 SECONDS ***"
 	{
-		"trans"		"7秒后核爆胜利就在眼前"
+		"trans"		"***7秒后核爆胜利就在眼前***"
 	}
 	"*** THE BRIDGE IS GOING TO BREAK IN 15 SECONDS ***"
 	{
-		"trans"		"桥在15秒后断裂"
+		"trans"		"***桥在15秒后断裂***"
 	}
 	"*** Get in the portal ***"
 	{
-		"trans"		"进入传送门!!!"
+		"trans"		"***进入传送门!!!***"
 	}
 }

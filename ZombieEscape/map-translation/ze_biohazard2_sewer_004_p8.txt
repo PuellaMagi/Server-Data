@@ -2,7 +2,7 @@
 {
 	"**** MAP BY AERIS_004 ****"
 	{
-		"blocked"		"1"
+		"trans"		"****<生化危机2-下水道> 作者AERIS_004 翻译DohiCircle****"
 	}
 	"***WWW.SUPREME-ELITE.FR ***"
 	{
@@ -10,42 +10,42 @@
 	}
 	"***START ELEVATOR 15 SEC***"
 	{
-		"trans"		"电梯启动于15秒后"
+		"trans"		"***升降机将在15秒后下降***"
 	}
 	"***ELEVATOR UP 14 SEC***"
 	{
-		"trans"		"电梯上升于14秒后"
-	}
-	"***GENERATOR DESACTIVED***"
-	{
-		"trans"		"发电机已启动"
-	}
-	"***CATCH FUSE***"
-	{
-		"trans"		"有玩家拾起了阀门"
-	}
-	"***CATCH SILVER MEDAL***"
-	{
-		"trans"		"有玩家拾起了银色徽章"
+		"trans"		"***活动桥上升于14秒后***"
 	}
 	"*** CATCH GOLD MEDAL ***"
 	{
-		"trans"		"有玩家拾起了金色徽章"
+		"trans"		"***金色徽章已被拾起***"
+	}
+	"***GENERATOR DESACTIVED***"
+	{
+		"trans"		"***发动机已被关闭***"
+	}
+	"***CATCH FUSE***"
+	{
+		"trans"		"***熔断器已被拾起***"
+	}
+	"***CATCH SILVER MEDAL***"
+	{
+		"trans"		"***银色徽章已被拾起***"
 	}
 	"***START TRAIN 20 SEC ***"
 	{
-		"trans"		"缆车启动于20秒后"
+		"trans"		"***火车平台将在20秒后下降***"
 	}
 	"*** START TRAIN 10 SEC ***"
 	{
-		"trans"		"缆车启动于10秒后"
+		"trans"		"***火车平台将在10秒后下降***"
 	}
 	"***START ELEVATOR 25 SEC***"
 	{
-		"trans"		"电梯下降于25秒后"
+		"trans"		"***升降机将在25秒后下降***"
 	}
 	"*** GAS ACTIVATED 40 SEC ***"
 	{
-		"trans"		"神经毒气释放于40秒后"
+		"trans"		"***神经毒气将在40秒后释放***"
 	}
 }

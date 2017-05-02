@@ -102,6 +102,6 @@
 	}
 	"***FINAL DOOR IS CLOSING***"
 	{
-		"trans"		"*最终大门正在关闭"
+		"trans"		"最终大门正在关闭"
 	}
 }

@@ -1,0 +1,79 @@
+"Chat"
+{
+	"*** STAGE 1 ***"
+	{
+		"trans"		"***<007-黄金眼> 关卡1***"
+	}
+	"*** SURVIVE FOR 20 SECONDS ***"
+	{
+		"trans"		"***生存20秒***"
+	}
+	"*** 7 SECONDS REMAINING ***"
+	{
+		"trans"		"***还有7秒坚持住***"
+	}
+	"*** >????????????????????? ***"
+	{
+		"trans"		"***??????????????????????***"
+	}
+	"*** ??????%%%%%%%? ***"
+	{
+		"trans"		"***???????@#$%^&*????????***"
+	}
+	"*** ?? ***"
+	{
+		"trans"		"***??***"
+	}
+	"*** FIND AN ESCAPE ***"
+	{
+		"trans"		"***找到一条路离开这个鬼地方***"
+	}
+	"*** ELEVATOR LEAVING SOON ***"
+	{
+		"trans"		"***电梯马上就要离开了***"
+	}
+	"*** HOLD FOR 30 SECONDS ***"
+	{
+		"trans"		"***在这里守住30秒***"
+	}
+	"*** STAGE 1 PASSED ***"
+	{
+		"trans"		"***关卡1完成***"
+	}
+	"*** STAGE 2 ***"
+	{
+		"trans"		"***关卡2***"
+	}
+	"*** COUNTDOWN BEGINNING ***"
+	{
+		"trans"		"***倒计时开始***"
+	}
+	"*** INCOMING TRANSMISSION ***"
+	{
+		"trans"		"***信息正在传输***"
+	}
+	"*** DEFEND THE STAIRS ***"
+	{
+		"trans"		"***守住楼梯***"
+	}
+	"*** COUNTDOWN DISABLED ***"
+	{
+		"trans"		"***倒计时停止***"
+	}
+	"*** 3 ***"
+	{
+		"trans"		"***3***"
+	}
+	"*** 2 ***"
+	{
+		"trans"		"***2***"
+	}
+	"*** 1 ***"
+	{
+		"trans"		"***1***"
+	}
+	"** TRANSMISSION COMPLETE **"
+	{
+		"trans"		"***传输完成***"
+	}
+}
