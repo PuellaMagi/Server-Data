@@ -1,0 +1,83 @@
+"Chat"
+{
+	"## Doors Will Open in 10 Seconds ##"
+	{
+		"trans"		"## Doors Will Open in 10 Seconds ##"
+	}
+	"## Doors Will Open in 5 Seconds ##"
+	{
+		"trans"		"## Doors Will Open in 5 Seconds ##"
+	}
+	"## Doors Open RUN ##"
+	{
+		"trans"		"## Doors Open RUN ##"
+	}
+	"## Lift Leaving in 10 Seconds ##"
+	{
+		"trans"		"## Lift Leaving in 10 Seconds ##"
+	}
+	"## Lift Leaving in 5 Seconds ##"
+	{
+		"trans"		"## Lift Leaving in 5 Seconds ##"
+	}
+	"## Lift Leaving ##"
+	{
+		"trans"		"## Lift Leaving ##"
+	}
+	"## Trap Door Opening in 10 Seconds ##"
+	{
+		"trans"		"## Trap Door Opening in 10 Seconds ##"
+	}
+	"## Trap Door Opening in 5 Seconds ##"
+	{
+		"trans"		"## Trap Door Opening in 5 Seconds ##"
+	}
+	"## Trap Door OPEN FALL BACK ##"
+	{
+		"trans"		"## Trap Door OPEN FALL BACK ##"
+	}
+	"##Each Block will turn red when a zombie is in the corridor##"
+	{
+		"trans"		"##Each Block will turn red when a zombie is in the corridor##"
+	}
+	"##Door Opens 10 Seconds##"
+	{
+		"trans"		"##Door Opens 10 Seconds##"
+	}
+	"##Door Open RUNNN##"
+	{
+		"trans"		"##Door Open RUNNN##"
+	}
+	"##Door Opening in 10 Seconds Defend!##"
+	{
+		"trans"		"##Door Opening in 10 Seconds Defend!##"
+	}
+	"##Door Open FALL BACK##"
+	{
+		"trans"		"##Door Open FALL BACK##"
+	}
+	"## HOLD and DEFEND ##"
+	{
+		"trans"		"## HOLD and DEFEND ##"
+	}
+	"## Final Door Opening 10 Seconds ##"
+	{
+		"trans"		"## Final Door Opening 10 Seconds ##"
+	}
+	"## Final Door Opening 5 Seconds ##"
+	{
+		"trans"		"## Final Door Opening 5 Seconds ##"
+	}
+	"## Door Open Run ##"
+	{
+		"trans"		"## Door Open Run ##"
+	}
+	"## All Players if not in the boss room will be teleported ##"
+	{
+		"trans"		"## All Players if not in the boss room will be teleported ##"
+	}
+	"## Boss Room Door Closed...Prepare for BATTLE ##"
+	{
+		"trans"		"## Boss Room Door Closed...Prepare for BATTLE ##"
+	}
+}

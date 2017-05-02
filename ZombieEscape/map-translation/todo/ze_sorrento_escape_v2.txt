@@ -1,0 +1,15 @@
+"Chat"
+{
+	"++ CURRENT DIFFICULTY ++"
+	{
+		"trans"		"++ CURRENT DIFFICULTY ++"
+	}
+	"++ EASY ++"
+	{
+		"trans"		"++ EASY ++"
+	}
+	"MAP MADE BY MR.MUESLI AND GARGANTUA"
+	{
+		"trans"		"MAP MADE BY MR.MUESLI AND GARGANTUA"
+	}
+}

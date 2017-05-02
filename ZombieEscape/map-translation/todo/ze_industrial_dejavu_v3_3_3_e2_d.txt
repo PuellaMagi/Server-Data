@@ -1,0 +1,11 @@
+"Chat"
+{
+	"*** Resist for 30 seconds! ***"
+	{
+		"trans"		"*** Resist for 30 seconds! ***"
+	}
+	"*** Resist for 10 more seconds! ***"
+	{
+		"trans"		"*** Resist for 10 more seconds! ***"
+	}
+}

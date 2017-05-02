@@ -1,0 +1,191 @@
+"Chat"
+{
+	"[Map] Map by Blogger(Dog)"
+	{
+		"trans"		"[Map] Map by Blogger(Dog)"
+	}
+	"[Map] Player selected"
+	{
+		"trans"		"[Map] Player selected"
+	}
+	"[Map]  AFK TIMER in 30 sec"
+	{
+		"trans"		"[Map]  AFK TIMER in 30 sec"
+		"[Map] Player selected"
+		{
+			"trans"		"[Map] Player selected"
+		}
+		"[Map] Map by Blogger(Dog)"
+		{
+			"trans"		"[Map] Map by Blogger(Dog)"
+		}
+		"[Map] Skate"
+		{
+			"trans"		"[Map] Skate"
+		}
+		"[Map] Surf Battle"
+		{
+			"trans"		"[Map] Surf Battle"
+		}
+		"[Map] Football"
+		{
+			"trans"		"[Map] Football"
+		}
+		"[Map] Arena fight"
+		{
+			"trans"		"[Map] Arena fight"
+		}
+		"[Map] Climb"
+		{
+			"trans"		"[Map] Climb"
+		}
+		"[Map] BhopBattle"
+		{
+			"trans"		"[Map] BhopBattle"
+		}
+	}
+	"[Map] Surf Battle"
+	{
+		"trans"		"[Map] Surf Battle"
+	}
+	"[Music] Krewella - Come And Get It (Razihel Remix) "
+	{
+		"trans"		"[Music] Krewella - Come And Get It (Razihel Remix) "
+	}
+	"[Mod] Normal nod"
+	{
+		"trans"		"[Mod] Normal nod"
+	}
+	"[Music] Matisyahu - Live Like A Warrior (Richello Remix)"
+	{
+		"trans"		"[Music] Matisyahu - Live Like A Warrior (Richello Remix)"
+	}
+	"[Music] Dope Arcade - Ascension (MitiS Remix)"
+	{
+		"trans"		"[Music] Dope Arcade - Ascension (MitiS Remix)"
+	}
+	"[MAP] GOAL!!!!"
+	{
+		"trans"		"[MAP] GOAL!!!!"
+	}
+	"[Map] CT give weapons"
+	{
+		"trans"		"[Map] CT give weapons"
+	}
+	"[Music] Calvin Harris ft. Ellie Goulding - Outside (Anevo Remix)"
+	{
+		"trans"		"[Music] Calvin Harris ft. Ellie Goulding - Outside (Anevo Remix)"
+	}
+	"[Map] TimeLimit"
+	{
+		"trans"		"[Map] TimeLimit"
+	}
+	"[Map] Football"
+	{
+		"trans"		"[Map] Football"
+	}
+	"[Music] Imagine Dragons - On Top of the World - Lyrics"
+	{
+		"trans"		"[Music] Imagine Dragons - On Top of the World - Lyrics"
+	}
+	"[Map] Random Weapon"
+	{
+		"trans"		"[Map] Random Weapon"
+	}
+	"[Map] Weapon Scout"
+	{
+		"trans"		"[Map] Weapon Scout"
+	}
+	"[Map] Skate"
+	{
+		"trans"		"[Map] Skate"
+	}
+	"[Map] 3 MINUTES REMAINING"
+	{
+		"trans"		"[Map] 3 MINUTES REMAINING"
+	}
+	"[Music] Arman Cekin - Hold On Ft. BR-VE "
+	{
+		"trans"		"[Music] Arman Cekin - Hold On Ft. BR-VE "
+	}
+	"[Map] 2 MINUTES REMAINING"
+	{
+		"trans"		"[Map] 2 MINUTES REMAINING"
+	}
+	"[Map] 1 MINUTES REMAINING"
+	{
+		"trans"		"[Map] 1 MINUTES REMAINING"
+	}
+	"[Map] 30 Seconds"
+	{
+		"trans"		"[Map] 30 Seconds"
+		"[Map] Player selected"
+		{
+			"trans"		"[Map] Player selected"
+		}
+	}
+	"[Mod] BackStab mod"
+	{
+		"trans"		"[Mod] BackStab mod"
+	}
+	"[Map] Weapon Deagle"
+	{
+		"trans"		"[Map] Weapon Deagle"
+	}
+	"[Music] Sander van Doorn, Martin Garrix, DVBBS ft. Aleesia - Gold Skies (Justin Caruso Remix)"
+	{
+		"trans"		"[Music] Sander van Doorn, Martin Garrix, DVBBS ft. Aleesia - Gold Skies (Justin Caruso Remix)"
+	}
+	"[MAP] AIM"
+	{
+		"trans"		"[Map] Aim"
+	}
+	"[MAP] PISTOLS"
+	{
+		"trans"		"[Map] Pistols"
+	}
+	"[Mod] Headshot mod"
+	{
+		"trans"		"[Mod] Headshot mod"
+	}
+	"[Map] AFK KILLER"
+	{
+		"trans"		"[Map] AFK KILLER"
+	}
+	"[Map] 60 seconds before the battle"
+	{
+		"trans"		"[Map] 60 seconds before the battle"
+		"[Music] Matisyahu - Live Like A Warrior (Richello Remix)"
+		{
+			"trans"		"[Music] Matisyahu - Live Like A Warrior (Richello Remix)"
+		}
+		"[Music] Calvin Harris ft. Ellie Goulding - Outside (Anevo Remix)"
+		{
+			"trans"		"[Music] Calvin Harris ft. Ellie Goulding - Outside (Anevo Remix)"
+		}
+	}
+	"[Map] 5"
+	{
+		"trans"		"[Map] 5"
+	}
+	"[Map] 4"
+	{
+		"trans"		"[Map] 4"
+	}
+	"[Map] 3"
+	{
+		"trans"		"[Map] 3"
+	}
+	"[Map] 2"
+	{
+		"trans"		"[Map] 2"
+	}
+	"[Map] 1"
+	{
+		"trans"		"[Map] 1"
+	}
+	"[Map] Battle"
+	{
+		"trans"		"[Map] Battle"
+	}
+}

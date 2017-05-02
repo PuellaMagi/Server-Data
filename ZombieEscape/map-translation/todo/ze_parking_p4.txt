@@ -1,183 +1,27 @@
 "Chat"
 {
-	">>You are the last survivors of the zombie infection<<"
-	{
-		"trans"		">>You are the last survivors of the zombie infection<<"
-	}
-	">>The last messages of the army invite us to evacuate to the parking in the middle of the city<<"
-	{
-		"trans"		">>The last messages of the army invite us to evacuate to the parking in the middle of the city<<"
-	}
-	">>But they won't wait for long time !<<"
-	{
-		"trans"		">>But they won't wait for long time !<<"
-	}
-	">>>LEVEL 1 : EVACUATION POINT : ELEVATORS<<<"
-	{
-		"trans"		">>>LEVEL 1 : EVACUATION POINT : ELEVATORS<<<"
-	}
-	">>Let's go ! but be carefull ! there are still some zombies around us<<"
-	{
-		"trans"		">>Let's go ! but be carefull ! there are still some zombies around us<<"
-	}
-	">>GOLD KNIFE = ACCESS TO SPECIAL WEAPONS<<"
-	{
-		"trans"		">>GOLD KNIFE = ACCESS TO SPECIAL WEAPONS<<"
-	}
-	">>>MAP BY LeGrem<<<"
-	{
-		"trans"		">>>MAP BY LeGrem<<<"
-	}
-	">>>Thx to JorisCeoen for help with models<<<"
-	{
-		"trans"		">>>Thx to JorisCeoen for help with models<<<"
-	}
-	">>>>Only 15 Proxi Mines<<<<"
-	{
-		"trans"		">>>>Only 15 Proxi Mines<<<<"
-	}
-	">>>>Proxi Mine has been picked<<<<"
-	{
-		"trans"		">>>>Proxi Mine has been picked<<<<"
-	}
-	">>>>Flamethrower has been picked<<<<"
-	{
-		"trans"		">>>>Flamethrower has been picked<<<<"
-	}
-	">>COVER 30 SECONDS UNTIL C4 EXPLOSION<<"
-	{
-		"trans"		">>COVER 30 SECONDS UNTIL C4 EXPLOSION<<"
-	}
 	">> RETURN TO COVER THE DOOR <<<"
 	{
 		"trans"		">> RETURN TO COVER THE DOOR <<<"
-	}
-	">>PREPARE TO RUN IN 5 SECONDS<<"
-	{
-		"trans"		">>PREPARE TO RUN IN 5 SECONDS<<"
-	}
-	">>RUN<<"
-	{
-		"trans"		">>RUN<<"
-	}
-	">>FLOOR UNSTABLE ! TAKE CARE !<<"
-	{
-		"trans"		">>FLOOR UNSTABLE ! TAKE CARE !<<"
-	}
-	">>TAKE THE ELEVATORS<<"
-	{
-		"trans"		">>TAKE THE ELEVATORS<<"
-	}
-	">>COVER THE ELEVATORS ENTRY 30 SECONDS<<"
-	{
-		"trans"		">>COVER THE ELEVATORS ENTRY 30 SECONDS<<"
 	}
 	">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 2<<<"
 	{
 		"trans"		">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 2<<<"
 	}
-	">>AFK TELEPORT<<"
-	{
-		"trans"		">>AFK TELEPORT<<"
-	}
-	">>ELEVATORS OPEN ! 15 SECONDS LEFT<<"
-	{
-		"trans"		">>ELEVATORS OPEN ! 15 SECONDS LEFT<<"
-	}
-	">>ELEVATORS LEAVING !<<"
-	{
-		"trans"		">>ELEVATORS LEAVING !<<"
-	}
-	">>>CT WIN - ACCESS TO SPECIAL WEAPONS GRANTED<<<"
-	{
-		"trans"		">>>CT WIN - ACCESS TO SPECIAL WEAPONS GRANTED<<<"
-	}
-	">>>LEVEL 2 : EVACUATION POINT : STREET<<<"
-	{
-		"trans"		">>>LEVEL 2 : EVACUATION POINT : STREET<<<"
-	}
-	">>>>Grenade Launcher has been picked<<<<"
-	{
-		"trans"		">>>>Grenade Launcher has been picked<<<<"
-	}
-	">>>>Minigun has been picked<<<<"
-	{
-		"trans"		">>>>Minigun has been picked<<<<"
-	}
-	">>ZOMBIES TAKE THE STAIRS<<"
-	{
-		"trans"		">>ZOMBIES TAKE THE STAIRS<<"
-	}
-	">>ELEVATOR LEAVING IN 5 SECONDS<<"
-	{
-		"trans"		">>ELEVATOR LEAVING IN 5 SECONDS<<"
-	}
 	">>RUN TO THE COMMAND TENT TO START THE EXPLOSION<<"
 	{
 		"trans"		">>RUN TO THE COMMAND TENT TO START THE EXPLOSION<<"
 	}
-	">>COVER THE EVACUATION AREA 45 SECONDS<<"
+	">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE EVACUATION AREA !!<<<"
 	{
-		"trans"		">>COVER THE EVACUATION AREA 45 SECONDS<<"
+		"trans"		">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE EVACUATION AREA !!<<<"
 	}
-	">>NO ZOMBIES ALLOWED BEHIND THE CRATES<<"
+	">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE CHOPPER !!<<<"
 	{
-		"trans"		">>NO ZOMBIES ALLOWED BEHIND THE CRATES<<"
+		"trans"		">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE CHOPPER !!<<<"
 	}
-	">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 3<<<"
+	">>>RESTART AT NORMAL LEVEL 1<<<"
 	{
-		"trans"		">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 3<<<"
-	}
-	">>EXPLOSION IN 5 SECONDS<<"
-	{
-		"trans"		">>EXPLOSION IN 5 SECONDS<<"
-	}
-	">>>LEVEL 3 : EVACUATION POINT : ROOF<<<"
-	{
-		"trans"		">>>LEVEL 3 : EVACUATION POINT : ROOF<<<"
-	}
-	">>COVER UNTIL CHOPPER ARRIVE<<"
-	{
-		"trans"		">>COVER UNTIL CHOPPER ARRIVE<<"
-	}
-	">>THIS IS THE LAST CHOPPER<<"
-	{
-		"trans"		">>THIS IS THE LAST CHOPPER<<"
-	}
-	">>YOU ARE THE LAST SURVIVORS<<"
-	{
-		"trans"		">>YOU ARE THE LAST SURVIVORS<<"
-	}
-	">>EVERYONE HAVE BEEN EVACUATED<<"
-	{
-		"trans"		">>EVERYONE HAVE BEEN EVACUATED<<"
-	}
-	">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 1<<<"
-	{
-		"trans"		">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 1<<<"
-	}
-	">>EXTREME MODE ACTIVATED FOR NEXT ROUNDS<<"
-	{
-		"trans"		">>EXTREME MODE ACTIVATED FOR NEXT ROUNDS<<"
-	}
-	">>CHOPPER ON WAY<<"
-	{
-		"trans"		">>CHOPPER ON WAY<<"
-	}
-	">>CHOPPER LEAVING IN 15 SECONDS<<"
-	{
-		"trans"		">>CHOPPER LEAVING IN 15 SECONDS<<"
-	}
-	">>5 SECONDS LEFT<<"
-	{
-		"trans"		">>5 SECONDS LEFT<<"
-	}
-	">>>EXTREME MODE ACTIVATED<<<"
-	{
-		"trans"		">>>EXTREME MODE ACTIVATED<<<"
-	}
-	">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE ELEVATORS !!<<<"
-	{
-		"trans"		">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE ELEVATORS !!<<<"
+		"trans"		">>>RESTART AT NORMAL LEVEL 1<<<"
 	}
 }

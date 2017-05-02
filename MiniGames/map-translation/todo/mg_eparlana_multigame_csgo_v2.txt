@@ -1,0 +1,127 @@
+"Chat"
+{
+	"Map By KarKz"
+	{
+		"trans"		"Map By KarKz"
+	}
+	"[AFK TIMER] 30 secs"
+	{
+		"trans"		"[AFK TIMER] 30 secs"
+		"Thanks to the Following Frags members"
+		{
+			"trans"		"Thanks to the Following Frags members"
+		}
+		"Map By KarKz"
+		{
+			"trans"		"Map By KarKz"
+		}
+	}
+	"Map ported by Blogger(Dog)"
+	{
+		"trans"		"Map ported by Blogger(Dog)"
+	}
+	"[MUSIC] Tritonal - Getaway"
+	{
+		"trans"		"[MUSIC] Tritonal - Getaway"
+	}
+	"== Climb =="
+	{
+		"trans"		"== Climb =="
+	}
+	"[MUSIC] Maduk ft. Veela - Ghost Assassin VIP"
+	{
+		"trans"		"[MUSIC] Maduk ft. Veela - Ghost Assassin VIP"
+	}
+	"== AWP =="
+	{
+		"trans"		"== AWP =="
+	}
+	"[MUSIC] Matbow - Catch Up"
+	{
+		"trans"		"[MUSIC] Matbow - Catch Up"
+	}
+	"== Ak47  =="
+	{
+		"trans"		"== Ak47  =="
+	}
+	"[MUSIC] Mike Posner - I Took A Pill In Ibiza (SeeB Remix)"
+	{
+		"trans"		"[MUSIC] Mike Posner - I Took A Pill In Ibiza (SeeB Remix)"
+	}
+	"== IceSkate =="
+	{
+		"trans"		"== IceSkate =="
+	}
+	"[MUSIC] ODESZA ft. Shy Girls - All We Need (Dzeko & Torres Remix)"
+	{
+		"trans"		"[MUSIC] ODESZA ft. Shy Girls - All We Need (Dzeko & Torres Remix)"
+	}
+	"== Grenade=="
+	{
+		"trans"		"== Grenade=="
+	}
+	"==The map start in 5sec=="
+	{
+		"trans"		"==The map start in 5sec=="
+		"==One grenade every 5 sec=="
+		{
+			"trans"		"==One grenade every 5 sec=="
+		}
+	}
+	"==Bridge active in 20 secs=="
+	{
+		"trans"		"==Bridge active in 20 secs=="
+		"==Regen and nade disable in 20secs=="
+		{
+			"trans"		"==Regen and nade disable in 20secs=="
+		}
+	}
+	"[MUSIC] Calvin Harris feat. Example - We'll Be Coming Back"
+	{
+		"trans"		"[MUSIC] Calvin Harris feat. Example - We'll Be Coming Back"
+	}
+	"== SMG =="
+	{
+		"trans"		"== SMG =="
+	}
+	"== Knife =="
+	{
+		"trans"		"== Knife =="
+	}
+	"[MUSIC] Calvin Harris  Alesso - Under Control ft  Hurts"
+	{
+		"trans"		"[MUSIC] Calvin Harris  Alesso - Under Control ft  Hurts"
+	}
+	"== Race =="
+	{
+		"trans"		"== Race =="
+	}
+	"== 3 =="
+	{
+		"trans"		"== 3 =="
+	}
+	"== 2 =="
+	{
+		"trans"		"== 2 =="
+	}
+	"== 1 =="
+	{
+		"trans"		"== 1 =="
+	}
+	"== Go =="
+	{
+		"trans"		"== Go =="
+	}
+	"== CT WIN=="
+	{
+		"trans"		"== CT WIN=="
+	}
+	"== HS deagle =="
+	{
+		"trans"		"== HS deagle =="
+	}
+	"Thanks to the Following Frags members"
+	{
+		"trans"		"Thanks to the Following Frags members"
+	}
+}

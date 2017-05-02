@@ -1,0 +1,159 @@
+"Chat"
+{
+	"Map By Batson - Have Fun :P"
+	{
+		"trans"		"Map By Batson - Have Fun :P"
+	}
+	"Thanks To Cosmo For Helping"
+	{
+		"trans"		"Thanks To Cosmo For Helping"
+	}
+	"----> Skate <----"
+	{
+		"trans"		"----> Skate <----"
+	}
+	"Martin Garrix - Animals"
+	{
+		"trans"		"Martin Garrix - Animals"
+	}
+	"----> Race <----"
+	{
+		"trans"		"----> Race <----"
+	}
+	"----> 5 Seconds <----"
+	{
+		"trans"		"----> 5 Seconds <----"
+		"Ylvis - The Fox"
+		{
+			"trans"		"Ylvis - The Fox"
+		}
+		"Martin Garrix - Animals"
+		{
+			"trans"		"Martin Garrix - Animals"
+		}
+		"Pharrell Williams - Happy"
+		{
+			"trans"		"Pharrell Williams - Happy"
+		}
+		"Avicii - Levels"
+		{
+			"trans"		"Avicii - Levels"
+		}
+	}
+	"----> 4 Seconds <----"
+	{
+		"trans"		"----> 4 Seconds <----"
+		"----> 3 Seconds <----"
+		{
+			"trans"		"----> 3 Seconds <----"
+			"----> 2 Seconds <----"
+			{
+				"trans"		"----> 2 Seconds <----"
+				"----> 1 Second <----"
+				{
+					"trans"		"----> 1 Second <----"
+					"----> RUN ! <----"
+					{
+						"trans"		"----> RUN ! <----"
+					}
+				}
+			}
+		}
+	}
+	"----> 2 Seconds <----"
+	{
+		"trans"		"----> 2 Seconds <----"
+		"----> 1 Second <----"
+		{
+			"trans"		"----> 1 Second <----"
+			"----> RUN ! <----"
+			{
+				"trans"		"----> RUN ! <----"
+			}
+		}
+	}
+	"----> RUN ! <----"
+	{
+		"trans"		"----> RUN ! <----"
+	}
+	"Ylvis - The Fox"
+	{
+		"trans"		"Ylvis - The Fox"
+	}
+	"----> Dodgeball <----"
+	{
+		"trans"		"----> Dodgeball <----"
+	}
+	"----> AWP <----"
+	{
+		"trans"		"----> AWP <----"
+	}
+	"Avicii - Levels"
+	{
+		"trans"		"Avicii - Levels"
+	}
+	"----> Someone Reached The End :D <----"
+	{
+		"trans"		"----> Someone Reached The End :D <----"
+	}
+	"Pharrell Williams - Happy"
+	{
+		"trans"		"Pharrell Williams - Happy"
+	}
+	"----> Buy <----"
+	{
+		"trans"		"----> Buy <----"
+	}
+	"----> Scout <----"
+	{
+		"trans"		"----> Scout <----"
+	}
+	"Owl City - Fireflies"
+	{
+		"trans"		"Owl City - Fireflies"
+	}
+	"----> Nova Fight <----"
+	{
+		"trans"		"----> Nova Fight <----"
+	}
+	"----> Knife <----"
+	{
+		"trans"		"----> Knife <----"
+	}
+	"----> Break Floor <----"
+	{
+		"trans"		"----> Break Floor <----"
+	}
+	"----> Wall Break : 60 Seconds <----"
+	{
+		"trans"		"----> Wall Break : 60 Seconds <----"
+		"Map By Batson - Have Fun :P"
+		{
+			"trans"		"Map By Batson - Have Fun :P"
+		}
+	}
+	"----> Small Area : 1 Min <----"
+	{
+		"trans"		"----> Small Area : 1 Min <----"
+	}
+	"----> Small Area : 10 Seconds <----"
+	{
+		"trans"		"----> Small Area : 10 Seconds <----"
+		"----> Small Area : 5 Seconds <----"
+		{
+			"trans"		"----> Small Area : 5 Seconds <----"
+			"----> Small Area Activated <----"
+			{
+				"trans"		"----> Small Area Activated <----"
+			}
+		}
+	}
+	"----> Small Area Activated <----"
+	{
+		"trans"		"----> Small Area Activated <----"
+	}
+	"----> Random .... <----"
+	{
+		"trans"		"----> Random .... <----"
+	}
+}

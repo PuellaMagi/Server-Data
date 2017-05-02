@@ -1,0 +1,7 @@
+"Chat"
+{
+	"Peter sb"
+	{
+		"trans"		"Peter sb"
+	}
+}

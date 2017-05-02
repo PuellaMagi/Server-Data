@@ -1,0 +1,71 @@
+"Chat"
+{
+	"mg_crash_bandicoot_party_csgo"
+	{
+		"trans"		"mg_crash_bandicoot_party_csgo"
+	}
+	"by 93sunderland"
+	{
+		"trans"		"by 93sunderland"
+	}
+	"Phantommunity.it"
+	{
+		"trans"		"Phantommunity.it"
+	}
+	"Low Gravity War"
+	{
+		"trans"		"Low Gravity War"
+	}
+	"You have 5 minutes left"
+	{
+		"trans"		"You have 5 minutes left"
+	}
+	"LET'S KILL"
+	{
+		"trans"		"LET'S KILL"
+	}
+	"Search & Kill"
+	{
+		"trans"		"Search & Kill"
+	}
+	"Knife Waders"
+	{
+		"trans"		"Knife Waders"
+	}
+	"River Bhop"
+	{
+		"trans"		"River Bhop"
+	}
+	"Someone won"
+	{
+		"trans"		"Someone won"
+	}
+	"Everyone got a knife"
+	{
+		"trans"		"Everyone got a knife"
+	}
+	"Slippery Course"
+	{
+		"trans"		"Slippery Course"
+	}
+	"Futuristic Awp"
+	{
+		"trans"		"Futuristic Awp"
+	}
+	"Dark Castle Course"
+	{
+		"trans"		"Dark Castle Course"
+	}
+	"Flashlight disabled"
+	{
+		"trans"		"Flashlight disabled"
+	}
+	"Purple Gem obtained"
+	{
+		"trans"		"Purple Gem obtained"
+	}
+	"Jump & Jump"
+	{
+		"trans"		"Jump & Jump"
+	}
+}

@@ -1,0 +1,115 @@
+"Chat"
+{
+	"***Prepare defences! 45 seconds!***"
+	{
+		"trans"		"***Prepare defences! 45 seconds!***"
+	}
+	"***Intro song is Spanish Flea***"
+	{
+		"trans"		"***Intro song is Spanish Flea***"
+	}
+	"***Middle song is Red Canyon by F-Zero***"
+	{
+		"trans"		"***Middle song is Red Canyon by F-Zero***"
+	}
+	"***Finale song is Jump by Two Steps From Hell***"
+	{
+		"trans"		"***Finale song is Jump by Two Steps From Hell***"
+	}
+	"****Map by Eugenio *Motanum* Roman****"
+	{
+		"trans"		"****Map by Eugenio *Motanum* Roman****"
+	}
+	"****Contact me at eugenio.motanum91@gmail.com****"
+	{
+		"trans"		"****Contact me at eugenio.motanum91@gmail.com****"
+	}
+	"***5 seconds left!**"
+	{
+		"trans"		"***5 seconds left!**"
+	}
+	"***Humans Run to next exit***"
+	{
+		"trans"		"***Humans Run to next exit***"
+	}
+	"***Afk Killer is enabled for 5 seconds***"
+	{
+		"trans"		"***Afk Killer is enabled for 5 seconds***"
+	}
+	"***Zombies are out of jail***"
+	{
+		"trans"		"***Zombies are out of jail***"
+	}
+	"***Protect yourself from Jumpy Zomby!**"
+	{
+		"trans"		"***Protect yourself from Jumpy Zomby!**"
+	}
+	"***60 seconds left!**"
+	{
+		"trans"		"***60 seconds left!**"
+	}
+	"***Humans Run to next exit**"
+	{
+		"trans"		"***Humans Run to next exit**"
+	}
+	"***Prepare defences! 45 seconds!**"
+	{
+		"trans"		"***Prepare defences! 45 seconds!**"
+	}
+	"***Zombies have broken out of Jail!**"
+	{
+		"trans"		"***Zombies have broken out of Jail!**"
+	}
+	"***Zombies out of Jail**"
+	{
+		"trans"		"***Zombies out of Jail**"
+	}
+	"***Humans reach final point***"
+	{
+		"trans"		"***Humans reach final point***"
+	}
+	"***Hold 75 seconds***"
+	{
+		"trans"		"***Hold 75 seconds***"
+	}
+	"***Hold 50 seconds!***"
+	{
+		"trans"		"***Hold 50 seconds!***"
+	}
+	"***Humans have been teleported!***"
+	{
+		"trans"		"***Humans have been teleported!***"
+	}
+	"***Hold 30 seconds!***"
+	{
+		"trans"		"***Hold 30 seconds!***"
+	}
+	"***Final Zombie Wave is Inbound!***"
+	{
+		"trans"		"***Final Zombie Wave is Inbound!***"
+	}
+	"***Hold 10 seconds***"
+	{
+		"trans"		"***Hold 10 seconds***"
+	}
+	"***Final Escape is in progres***"
+	{
+		"trans"		"***Final Escape is in progres***"
+	}
+	"***No game score will be applied***"
+	{
+		"trans"		"***No game score will be applied***"
+	}
+	"***Zombies reached final surf***"
+	{
+		"trans"		"***Zombies reached final surf***"
+	}
+	"***Zombies reached the Hill*** "
+	{
+		"trans"		"***Zombies reached the Hill*** "
+	}
+	"***No place is safe!*** "
+	{
+		"trans"		"***No place is safe!*** "
+	}
+}

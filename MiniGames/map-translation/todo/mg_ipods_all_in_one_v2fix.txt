@@ -1,0 +1,11 @@
+"Chat"
+{
+	">>>Whitelist the commands below:<<<"
+	{
+		"trans"		">>>Whitelist the commands below:<<<"
+	}
+	">>sm_cvar, sm_say<<"
+	{
+		"trans"		">>sm_cvar, sm_say<<"
+	}
+}

@@ -1,24 +1,12 @@
 "Chat"
 {
-	">>Door will open in 20 sec<< "
-	{
-		"trans"		">>Door will open in 20 sec<< "
-	}
 	">>Go!<< "
 	{
 		"trans"		">>Go!<< "
 	}
-	">>Metal Gate opens in 15 sec<< "
-	{
-		"trans"		">>Metal Gate opens in 15 sec<< "
-	}
 	">>The Gate is open!<< "
 	{
 		"trans"		">>The Gate is open!<< "
-	}
-	">>Tram departs in 20 sec<< "
-	{
-		"trans"		">>Tram departs in 20 sec<< "
 	}
 	">>Press the button at the door!l<< "
 	{
@@ -28,20 +16,20 @@
 	{
 		"trans"		">>Stair door opens in 15 sec<< "
 	}
-	">>Door will open in 25 sec<< "
-	{
-		"trans"		">>Door will open in 25 sec<< "
-	}
 	">>Door open. Run!<< "
 	{
 		"trans"		">>Door open. Run!<< "
 	}
-	">> Hold for 15 sec!<< "
-	{
-		"trans"		">> Hold for 15 sec!<< "
-	}
 	">>Train will leave in 45 sec<< "
 	{
 		"trans"		">>Train will leave in 45 sec<< "
+	}
+	">>Door will open in 20 sec<< "
+	{
+		"trans"		">>Door will open in 20 sec<< "
+	}
+	">>Door will open in 25 sec<< "
+	{
+		"trans"		">>Door will open in 25 sec<< "
 	}
 }

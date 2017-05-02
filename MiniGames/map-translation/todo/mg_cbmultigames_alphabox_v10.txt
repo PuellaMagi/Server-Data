@@ -1,0 +1,35 @@
+"Chat"
+{
+	"[Map] A player is choosing the game! You have 20 seconds."
+	{
+		"trans"		"[Map] A player is choosing the game! You have 20 seconds."
+		"[Map] Novaskate!"
+		{
+			"trans"		"[Map] Novaskate!"
+		}
+		"[Map] Sky Awp!"
+		{
+			"trans"		"[Map] Sky Awp!"
+		}
+	}
+	"[Map] Begin!"
+	{
+		"trans"		"[Map] Begin!"
+	}
+	"[Map] Music: Lil Wayne, Wiz Khalifa & Imagine Dragons w／ Logic & Ty Dolla $ign ft X Ambassadors - Sucker for Pain"
+	{
+		"trans"		"[Map] Music: Lil Wayne, Wiz Khalifa & Imagine Dragons w／ Logic & Ty Dolla $ign ft X Ambassadors - Sucker for Pain"
+	}
+	"[Map] Novaskate will end in 60 seconds.."
+	{
+		"trans"		"[Map] Novaskate will end in 60 seconds.."
+		"[Map] A player is choosing the game! You have 20 seconds."
+		{
+			"trans"		"[Map] A player is choosing the game! You have 20 seconds."
+		}
+	}
+	"[Map] Music: A-Ha - Take On Me"
+	{
+		"trans"		"[Map] Music: A-Ha - Take On Me"
+	}
+}

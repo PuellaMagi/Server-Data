@@ -1,11 +1,67 @@
 "Chat"
 {
+	"Welcome ! Map made by Valve and zombified by Obscuri"
+	{
+		"trans"		"Welcome ! Map made by Valve and zombified by Obscuri"
+	}
+	"***5 SECONDS***"
+	{
+		"trans"		"***5 SECONDS***"
+	}
+	"***RESIST 20 SECONDS***"
+	{
+		"trans"		"***RESIST 20 SECONDS***"
+	}
+	"Please wait 20 seconds before the door opening"
+	{
+		"trans"		"Please wait 20 seconds before the door opening"
+	}
+	"***RUN***"
+	{
+		"trans"		"***RUN***"
+	}
+	"***20 SECONDS FOR TELEPORT***"
+	{
+		"trans"		"***20 SECONDS FOR TELEPORT***"
+	}
+	"***5 SECONDS FOR TELEPORT***"
+	{
+		"trans"		"***5 SECONDS FOR TELEPORT***"
+	}
+	"***ZOMBIES WILL BE TELEPORTED IN 5 SECONDS***"
+	{
+		"trans"		"***ZOMBIES WILL BE TELEPORTED IN 5 SECONDS***"
+	}
+	"Second way open !"
+	{
+		"trans"		"Second way open !"
+	}
 	"***HOLD 25 SECONDS***"
 	{
 		"trans"		"***HOLD 25 SECONDS***"
 	}
+	"Warning! Overloading of reactor."
+	{
+		"trans"		"Warning! Overloading of reactor."
+	}
 	"***TRUCK LEAVING IN 20 SECONDS***"
 	{
 		"trans"		"***TRUCK LEAVING IN 20 SECONDS***"
+	}
+	"Contact me at obscuri@obsmail.tk"
+	{
+		"trans"		"Contact me at obscuri@obsmail.tk"
+	}
+	"***DESTROY THE POWER GENERATORS***"
+	{
+		"trans"		"***DESTROY THE POWER GENERATORS***"
+	}
+	"*** WELL DONE***"
+	{
+		"trans"		"*** WELL DONE***"
+	}
+	"***1 REMAINING***"
+	{
+		"trans"		"***1 REMAINING***"
 	}
 }

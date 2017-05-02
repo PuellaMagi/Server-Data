@@ -1,15 +1,23 @@
 "Chat"
 {
+	"FALL BACK !!"
+	{
+		"trans"		"FALL BACK !!"
+	}
 	" LVL 1 - Easy"
 	{
 		"trans"		" LVL 1 - Easy"
 	}
-	" LVL 2 - Normal"
+	"You can pass !"
 	{
-		"trans"		" LVL 2 - Normal"
+		"trans"		"You can pass !"
 	}
-	" LVL 3 - Hard"
+	"King Pedobear will let you pass in 40 sec"
 	{
-		"trans"		" LVL 3 - Hard"
+		"trans"		"King Pedobear will let you pass in 40 sec"
+	}
+	"Fall back !"
+	{
+		"trans"		"Fall back !"
 	}
 }

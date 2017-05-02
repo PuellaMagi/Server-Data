@@ -1,0 +1,139 @@
+"Chat"
+{
+	"*** Player has picked up PushGun ***"
+	{
+		"trans"		"*** Player has picked up PushGun ***"
+	}
+	"*** Gate opening ***"
+	{
+		"trans"		"*** Gate opening ***"
+	}
+	"*** Player has picked up Lego Maker ***"
+	{
+		"trans"		"*** Player has picked up Lego Maker ***"
+	}
+	"*** FALL BACK ***"
+	{
+		"trans"		"*** FALL BACK ***"
+	}
+	">>> Hold for a bit more! <<<"
+	{
+		"trans"		">>> Hold for a bit more! <<<"
+	}
+	"*** Door Opens in 30 seconds ***"
+	{
+		"trans"		"*** Door Opens in 30 seconds ***"
+	}
+	"*** OH NOOES ***"
+	{
+		"trans"		"*** OH NOOES ***"
+	}
+	"*** Hold 20 second for victory! ***"
+	{
+		"trans"		"*** Hold 20 second for victory! ***"
+	}
+	"*** Level Completed ***"
+	{
+		"trans"		"*** Level Completed ***"
+	}
+	"*** 10 seconds left ***"
+	{
+		"trans"		"*** 10 seconds left ***"
+	}
+	"*** DOOR IS OPENING ***"
+	{
+		"trans"		"*** Door is Opening ***"
+	}
+	"*** Right Door Opens in 10 seconds ***"
+	{
+		"trans"		"*** Right Door Opens in 10 seconds ***"
+	}
+	"*** Success! ***"
+	{
+		"trans"		"*** Success! ***"
+	}
+	"*** Player has picked up HandCannon ***"
+	{
+		"trans"		"*** Player has picked up HandCannon ***"
+	}
+	"*** Door opens in 10 seconds ***"
+	{
+		"trans"		"*** Door opens in 10 seconds ***"
+	}
+	"*** Door Opens in 5 seconds ***"
+	{
+		"trans"		"*** Door Opens in 5 seconds ***"
+	}
+	"*** Door Opens in 4 seconds ***"
+	{
+		"trans"		"*** Door Opens in 4 seconds ***"
+	}
+	"*** Door Opens in 3 seconds ***"
+	{
+		"trans"		"*** Door Opens in 3 seconds ***"
+	}
+	"*** Door Opens in 2 seconds ***"
+	{
+		"trans"		"*** Door Opens in 2 seconds ***"
+	}
+	"*** Door Opens in 1 second ***"
+	{
+		"trans"		"*** Door Opens in 1 second ***"
+	}
+	"*** Tram Leaves in 35 seconds ***"
+	{
+		"trans"		"*** Tram Leaves in 35 seconds ***"
+	}
+	"*** 15 seconds left ***"
+	{
+		"trans"		"*** 15 seconds left ***"
+	}
+	"*** 5 seconds left ***"
+	{
+		"trans"		"*** 5 seconds left ***"
+	}
+	"*** Tram is leaving ***"
+	{
+		"trans"		"*** Tram is leaving ***"
+	}
+	"*** Player has picked up Flamethrower ***"
+	{
+		"trans"		"*** Player has picked up Flamethrower ***"
+	}
+	"*** OH NO ITS AN EVIL ROBO BOSS ***"
+	{
+		"trans"		"*** OH NO ITS AN EVIL ROBO BOSS ***"
+	}
+	"*** Left Door Opens in 10 seconds ***"
+	{
+		"trans"		"*** Left Door Opens in 10 seconds ***"
+	}
+	"*** Door opens in 25 seconds ***"
+	{
+		"trans"		"*** Door opens in 25 seconds ***"
+	}
+	"*** Player has picked up Explosive Mines ***"
+	{
+		"trans"		"*** Player has picked up Explosive Mines ***"
+	}
+	"*** Level 1 ***"
+	{
+		"trans"		"*** Level 1 ***"
+	}
+	"*** Player has picked up Heal ***"
+	{
+		"trans"		"*** Player has picked up Heal ***"
+	}
+	"*** Level 3 ***"
+	{
+		"trans"		"*** Level 3 ***"
+	}
+	"*** Player has picked up Ammo Box ***"
+	{
+		"trans"		"*** Player has picked up Ammo Box ***"
+	}
+	"*** Level 2 ***"
+	{
+		"trans"		"*** Level 2 ***"
+	}
+}

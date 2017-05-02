@@ -1,0 +1,103 @@
+"Chat"
+{
+	"*** You Must Wait For Your Team ***"
+	{
+		"trans"		"*** You Must Wait For Your Team ***"
+	}
+	"*** The Train Will Leave in 5 seconds ***"
+	{
+		"trans"		"*** The Train Will Leave in 5 seconds ***"
+	}
+	"*** Level B Door Opens in 15 Seconds ***"
+	{
+		"trans"		"*** Level B Door Opens in 15 Seconds ***"
+	}
+	"*** Zombies Has Reached The Checkpoint ***"
+	{
+		"trans"		"*** Zombies Has Reached The Checkpoint ***"
+	}
+	"*** Press RIGHT MOUSE BUTTON to freeze the water with this gun!! ***"
+	{
+		"trans"		"*** Press RIGHT MOUSE BUTTON to freeze the water with this gun!! ***"
+	}
+	"*** HOLD LEFT MOUSE BUTTON to charge this plasma gun, and PRESS RIGHT MOUSE BUTTON TOGETHER TO SHOOT!! ***"
+	{
+		"trans"		"*** HOLD LEFT MOUSE BUTTON to charge this plasma gun, and PRESS RIGHT MOUSE BUTTON TOGETHER TO SHOOT!! ***"
+	}
+	"*** THIS ELEVATOR IS HAUNTED, YOU MAY BE LUCKY IF YOU SURVIVE!!! ***"
+	{
+		"trans"		"*** THIS ELEVATOR IS HAUNTED, YOU MAY BE LUCKY IF YOU SURVIVE!!! ***"
+	}
+	"*** BREAK THE BLUE BARREL TO PLAY AS THE TANK!!! ***"
+	{
+		"trans"		"*** BREAK THE BLUE BARREL TO PLAY AS THE TANK!!! ***"
+	}
+	"*** WAIT WHILE THE PORTAL IS BEING OPENED!!!! ***"
+	{
+		"trans"		"*** WAIT WHILE THE PORTAL IS BEING OPENED!!!! ***"
+	}
+	"*** Exit Door Opens in 5 Seconds ***"
+	{
+		"trans"		"*** Exit Door Opens in 5 Seconds ***"
+	}
+	"*** To use the barricade hammer press LEFT MOUSE button for wood go up, RIGHT MOUSE for wood go down, and LEFT+RIGHT MOUSE button for place a wood barricade! ***"
+	{
+		"trans"		"*** To use the barricade hammer press LEFT MOUSE button for wood go up, RIGHT MOUSE for wood go down, and LEFT+RIGHT MOUSE button for place a wood barricade! ***"
+	}
+	"*** Level B Door Opens in 25 Seconds ***"
+	{
+		"trans"		"*** Level B Door Opens in 25 Seconds ***"
+	}
+	"*** THE ICE GUN HOLDER HAS 60 SECONDS TO LEAVE THE VENTS BEFORE THE ANTI CAMPER ACTIVATES! ***"
+	{
+		"trans"		"*** THE ICE GUN HOLDER HAS 60 SECONDS TO LEAVE THE VENTS BEFORE THE ANTI CAMPER ACTIVATES! ***"
+	}
+	"*** For sugestions and bug reports or any information contact me on steam Steam Community ID --> JackBauer123 ***"
+	{
+		"trans"		"*** For sugestions and bug reports or any information contact me on steam Steam Community ID --> JackBauer123 ***"
+	}
+	"*** THE ICE GUN HOLDER HAS 10 MORE SECONDS TO LEAVE THE VENTS BEFORE THE ANTI CAMPER ACTIVATES! ***"
+	{
+		"trans"		"*** THE ICE GUN HOLDER HAS 10 MORE SECONDS TO LEAVE THE VENTS BEFORE THE ANTI CAMPER ACTIVATES! ***"
+	}
+	"*** Detonation in 3 Seconds ***"
+	{
+		"trans"		"*** Detonation in 3 Seconds ***"
+	}
+	"*** The Helicopter Will Depart in 30 seconds ***"
+	{
+		"trans"		"*** The Helicopter Will Depart in 30 seconds ***"
+	}
+	"*** The Helicopter Will Depart in 20 seconds ***"
+	{
+		"trans"		"*** The Helicopter Will Depart in 20 seconds ***"
+	}
+	"*** The Helicopter Will Depart in 10 seconds ***"
+	{
+		"trans"		"*** The Helicopter Will Depart in 10 seconds ***"
+	}
+	"*** The Helicopter Will Depart in 5 seconds ***"
+	{
+		"trans"		"*** The Helicopter Will Depart in 5 seconds ***"
+	}
+	"*** The Helicopter is Departing ***"
+	{
+		"trans"		"*** The Helicopter is Departing ***"
+	}
+	"*** Rocket in 5 seconds ***"
+	{
+		"trans"		"*** Rocket in 5 seconds ***"
+	}
+	"*** Rocket Launched ***"
+	{
+		"trans"		"*** Rocket Launched ***"
+	}
+	"*** Press RIGHT MOUSE BUTTON to push things away with this gun! ***"
+	{
+		"trans"		"*** Press RIGHT MOUSE BUTTON to push things away with this gun! ***"
+	}
+	"*** THE BIG ROCK ON THE WOOD PLATFORM CAN BE BROKEN BY THE TANK WITH ARROUND 5 PUNCHS／ROCKS!!! ***"
+	{
+		"trans"		"*** THE BIG ROCK ON THE WOOD PLATFORM CAN BE BROKEN BY THE TANK WITH ARROUND 5 PUNCHS／ROCKS!!! ***"
+	}
+}

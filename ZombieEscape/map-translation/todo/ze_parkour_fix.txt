@@ -1,51 +1,27 @@
 "Chat"
 {
-	"***PORT TO CS GO BY EPIC |CABO|***"
-	{
-		"trans"		"***PORT TO CS GO BY EPIC |CABO|***"
-	}
-	"***shoot the table legs***"
-	{
-		"trans"		"***shoot the table legs***"
-	}
-	"***low gravity zone ahead. jump over the wall***"
-	{
-		"trans"		"***low gravity zone ahead. jump over the wall***"
-	}
-	"***metal door opens in 30 seconds***"
-	{
-		"trans"		"***metal door opens in 30 seconds***"
-	}
 	"***metal door is opening***"
 	{
 		"trans"		"***metal door is opening***"
 	}
-	"***low gravity area ahead. walk onto the launchpad***"
+	"***PORT TO CS GO BY EPIC |CABO|***"
 	{
-		"trans"		"***low gravity area ahead. walk onto the launchpad***"
-	}
-	"***storage door opens in 15 seconds***"
-	{
-		"trans"		"***storage door opens in 15 seconds***"
+		"trans"		"***PORT TO CS GO BY EPIC |CABO|***"
 	}
 	"***storage door is opening***"
 	{
 		"trans"		"***storage door is opening***"
 	}
-	"***low gravity zone ahead. jump from the platfrom to the roof***"
-	{
-		"trans"		"***low gravity zone ahead. jump from the platfrom to the roof***"
-	}
-	"***elevator is arriving in 40 seconds***"
-	{
-		"trans"		"***elevator is arriving in 40 seconds***"
-	}
 	"***Elevator is here***"
 	{
 		"trans"		"***Elevator is here***"
 	}
-	"***push gun have been found. takes 10 seconds to reload. press e to fire***"
+	"**wtf boom nuke is launched. 10 seconds until explosion**"
 	{
-		"trans"		"***push gun have been found. takes 10 seconds to reload. press e to fire***"
+		"trans"		"**wtf boom nuke is launched. 10 seconds until explosion**"
+	}
+	"***map by Denn15***"
+	{
+		"trans"		"***map by Denn15***"
 	}
 }

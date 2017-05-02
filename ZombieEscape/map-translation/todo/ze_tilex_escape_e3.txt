@@ -1,0 +1,11 @@
+"Chat"
+{
+	"Map created by Xquality."
+	{
+		"trans"		"Map created by Xquality."
+	}
+	"Elivator leaving in: 3"
+	{
+		"trans"		"Elivator leaving in: 3"
+	}
+}

@@ -1,0 +1,403 @@
+"Chat"
+{
+	"[MAP] HEADSHOT PISTOL"
+	{
+		"trans"		"[MAP] HEADSHOT PISTOL"
+	}
+	"[MUSIC] Avicii ft. Robbie Williams - The Days"
+	{
+		"trans"		"[MUSIC] Avicii ft. Robbie Williams - The Days"
+	}
+	"[MAP] AFK KILLER IMMINENT"
+	{
+		"trans"		"[MAP] AFK KILLER IMMINENT"
+	}
+	"[MUSIC] Ellie Goulding - Goodness Gracious"
+	{
+		"trans"		"[MUSIC] Ellie Goulding - Goodness Gracious"
+	}
+	"[MAP] SKEET"
+	{
+		"trans"		"[MAP] SKEET"
+	}
+	"[MUSIC] Watsky- Never Let it Die"
+	{
+		"trans"		"[MUSIC] Watsky- Never Let it Die"
+	}
+	"[MAP] CORRIDOR"
+	{
+		"trans"		"[MAP] CORRIDOR"
+	}
+	"[MUSIC] Ed Sheeran - I See Fire (Kygo Remix)"
+	{
+		"trans"		"[MUSIC] Ed Sheeran - I See Fire (Kygo Remix)"
+	}
+	"[MAP] WALLHACKS"
+	{
+		"trans"		"[MAP] WALLHACKS"
+	}
+	"[MUSIC] Taylor Swift - Shake It Off"
+	{
+		"trans"		"[MUSIC] Taylor Swift - Shake It Off"
+	}
+	"[MUSIC] Cazzette feat. The High - Sleepless"
+	{
+		"trans"		"[MUSIC] Cazzette feat. The High - Sleepless"
+	}
+	"[MAP] SMOKEWARS"
+	{
+		"trans"		"[MAP] SMOKEWARS"
+	}
+	"[MAP] SLIDE"
+	{
+		"trans"		"[MAP] SLIDE"
+	}
+	"[MAP] KILLER BALLS"
+	{
+		"trans"		"[MAP] KILLER BALLS"
+	}
+	"[MAP] 3...."
+	{
+		"trans"		"[MAP] 3...."
+	}
+	"[MAP] 2...."
+	{
+		"trans"		"[MAP] 2...."
+	}
+	"[MAP] 1...."
+	{
+		"trans"		"[MAP] 1...."
+	}
+	"[MAP] SURVIVAL"
+	{
+		"trans"		"[MAP] SURVIVAL"
+	}
+	"[MAP] Game starting in 10 seconds.."
+	{
+		"trans"		"[MAP] Game starting in 10 seconds.."
+		"[MUSIC] Kool & The Gang - Get Down On It"
+		{
+			"trans"		"[MUSIC] Kool & The Gang - Get Down On It"
+		}
+		"[MUSIC] Kid Cudi - Pursuit Of Happiness ft. MGMT"
+		{
+			"trans"		"[MUSIC] Kid Cudi - Pursuit Of Happiness ft. MGMT"
+		}
+		"[MUSIC] Watsky- Never Let it Die"
+		{
+			"trans"		"[MUSIC] Watsky- Never Let it Die"
+		}
+		"[MUSIC] Ellie Goulding - Goodness Gracious"
+		{
+			"trans"		"[MUSIC] Ellie Goulding - Goodness Gracious"
+		}
+	}
+	"[MAP] Game starting in 5 seconds.."
+	{
+		"trans"		"[MAP] Game starting in 5 seconds.."
+		"[MAP] ORANGE - 5 seconds"
+		{
+			"trans"		"[MAP] ORANGE - 5 seconds"
+		}
+		"[MAP] CYAN - 10 seconds"
+		{
+			"trans"		"[MAP] CYAN - 10 seconds"
+		}
+		"[MAP] RED - 5 seconds"
+		{
+			"trans"		"[MAP] RED - 5 seconds"
+		}
+		"[MAP] PURPLE - 13 seconds"
+		{
+			"trans"		"[MAP] PURPLE - 13 seconds"
+		}
+	}
+	"[MAP] RED - 5 seconds"
+	{
+		"trans"		"[MAP] RED - 5 seconds"
+		"[MAP] ORANGE - 5 seconds"
+		{
+			"trans"		"[MAP] ORANGE - 5 seconds"
+			"[MAP] Map ending...."
+			{
+				"trans"		"[MAP] Map ending...."
+			}
+		}
+		"[MAP] CYAN - 10 seconds"
+		{
+			"trans"		"[MAP] CYAN - 10 seconds"
+			"[MAP] GREEN - 5 seconds"
+			{
+				"trans"		"[MAP] GREEN - 5 seconds"
+			}
+		}
+		"[MAP] BLUE - 7 seconds"
+		{
+			"trans"		"[MAP] BLUE - 7 seconds"
+		}
+		"[MAP] BROWN - 11 seconds"
+		{
+			"trans"		"[MAP] BROWN - 11 seconds"
+		}
+	}
+	"[MAP] CYAN - 10 seconds"
+	{
+		"trans"		"[MAP] CYAN - 10 seconds"
+		"[MAP] BROWN - 11 seconds"
+		{
+			"trans"		"[MAP] BROWN - 11 seconds"
+		}
+		"[MAP] Map ending...."
+		{
+			"trans"		"[MAP] Map ending...."
+		}
+		"[MAP] GREEN - 5 seconds"
+		{
+			"trans"		"[MAP] GREEN - 5 seconds"
+			"[MAP] WHITE - 5 seconds"
+			{
+				"trans"		"[MAP] WHITE - 5 seconds"
+			}
+		}
+		"[MAP] PURPLE - 13 seconds"
+		{
+			"trans"		"[MAP] PURPLE - 13 seconds"
+		}
+		"[MAP] PINK - 13 seconds"
+		{
+			"trans"		"[MAP] PINK - 13 seconds"
+		}
+	}
+	"[MAP] YELLOW - 8 seconds"
+	{
+		"trans"		"[MAP] YELLOW - 8 seconds"
+		"[MAP] PURPLE - 13 seconds"
+		{
+			"trans"		"[MAP] PURPLE - 13 seconds"
+		}
+		"[MAP] BLUE - 7 seconds"
+		{
+			"trans"		"[MAP] BLUE - 7 seconds"
+		}
+	}
+	"[MAP] GREEN - 5 seconds"
+	{
+		"trans"		"[MAP] GREEN - 5 seconds"
+		"[MAP] WHITE - 5 seconds"
+		{
+			"trans"		"[MAP] WHITE - 5 seconds"
+		}
+		"[MAP] YELLOW - 8 seconds"
+		{
+			"trans"		"[MAP] YELLOW - 8 seconds"
+		}
+		"[MAP] ORANGE - 5 seconds"
+		{
+			"trans"		"[MAP] ORANGE - 5 seconds"
+		}
+	}
+	"[MAP] 1HP FOOTBALL"
+	{
+		"trans"		"[MAP] 1HP FOOTBALL"
+	}
+	"[MAP] GOAL!!!!"
+	{
+		"trans"		"[MAP] GOAL!!!!"
+	}
+	"[MAP] TUNNEL VISION"
+	{
+		"trans"		"[MAP] TUNNEL VISION"
+	}
+	"[MAP] VIP"
+	{
+		"trans"		"[MAP] VIP"
+	}
+	"[MAP] [Objective] - Eliminate both of the enemies VIPs!"
+	{
+		"trans"		"[MAP] [Objective] - Eliminate both of the enemies VIPs!"
+	}
+	"[MAP] ONE TERRORIST VIP REMAINING!"
+	{
+		"trans"		"[MAP] ONE TERRORIST VIP REMAINING!"
+	}
+	"[MAP] ONE COUNTER-TERRORIST VIP REMAINING!"
+	{
+		"trans"		"[MAP] ONE COUNTER-TERRORIST VIP REMAINING!"
+	}
+	"[MAP] Both TERRORIST VIP's have been killed!"
+	{
+		"trans"		"[MAP] Both TERRORIST VIP's have been killed!"
+	}
+	"[MAP] Both COUNTER-TERRORIST VIP's have been killed!"
+	{
+		"trans"		"[MAP] Both COUNTER-TERRORIST VIP's have been killed!"
+	}
+	"[MAP] WHITE - 5 seconds"
+	{
+		"trans"		"[MAP] WHITE - 5 seconds"
+		"[MAP] PURPLE - 13 seconds"
+		{
+			"trans"		"[MAP] PURPLE - 13 seconds"
+		}
+		"[MAP] RED - 5 seconds"
+		{
+			"trans"		"[MAP] RED - 5 seconds"
+		}
+	}
+	"[MAP] BROWN - 11 seconds"
+	{
+		"trans"		"[MAP] BROWN - 11 seconds"
+		"[MAP] RED - 5 seconds"
+		{
+			"trans"		"[MAP] RED - 5 seconds"
+			"[MAP] ORANGE - 5 seconds"
+			{
+				"trans"		"[MAP] ORANGE - 5 seconds"
+			}
+		}
+	}
+	"[MAP] Map ending...."
+	{
+		"trans"		"[MAP] Map ending...."
+	}
+	"[MAP] EXPLOSIVE BALLS"
+	{
+		"trans"		"[MAP] EXPLOSIVE BALLS"
+	}
+	"[MAP] START!"
+	{
+		"trans"		"[MAP] START!"
+	}
+	"[MUSIC] MGMT - Electric Feel (DallasK Remix)"
+	{
+		"trans"		"[MUSIC] MGMT - Electric Feel (DallasK Remix)"
+	}
+	"[MUSIC] Kid Cudi - Pursuit Of Happiness ft. MGMT"
+	{
+		"trans"		"[MUSIC] Kid Cudi - Pursuit Of Happiness ft. MGMT"
+	}
+	"[MAP] Ceiling breaking in 5 seconds!"
+	{
+		"trans"		"[MAP] Ceiling breaking in 5 seconds!"
+		"[MAP] SLIDE"
+		{
+			"trans"		"[MAP] SLIDE"
+		}
+		"[MAP] SKEET"
+		{
+			"trans"		"[MAP] SKEET"
+		}
+		"[MAP] SMOKEWARS"
+		{
+			"trans"		"[MAP] SMOKEWARS"
+		}
+		"[MAP] The sniping team can now leave the awping area!"
+		{
+			"trans"		"[MAP] The sniping team can now leave the awping area!"
+		}
+		"[MAP] EXPLOSIVE BALLS"
+		{
+			"trans"		"[MAP] EXPLOSIVE BALLS"
+		}
+		"[MAP] VIP"
+		{
+			"trans"		"[MAP] VIP"
+		}
+		"[MAP] KNIFE"
+		{
+			"trans"		"[MAP] KNIFE"
+		}
+	}
+	"[MUSIC] Kool & The Gang - Get Down On It"
+	{
+		"trans"		"[MUSIC] Kool & The Gang - Get Down On It"
+	}
+	"[MAP] 50HP KNIFE"
+	{
+		"trans"		"[MAP] 50HP KNIFE"
+	}
+	"[MAP] Conveyers disabled"
+	{
+		"trans"		"[MAP] Conveyers disabled"
+	}
+	"[MAP] You may now cross-over"
+	{
+		"trans"		"[MAP] You may now cross-over"
+	}
+	"[MAP] PORTAL SLIDE"
+	{
+		"trans"		"[MAP] PORTAL SLIDE"
+	}
+	"[MAP] Weapons supply in 5 seconds..."
+	{
+		"trans"		"[MAP] Weapons supply in 5 seconds..."
+		"[MUSIC] Taylor Swift - Shake It Off"
+		{
+			"trans"		"[MUSIC] Taylor Swift - Shake It Off"
+		}
+		"[MUSIC] Ellie Goulding - Goodness Gracious"
+		{
+			"trans"		"[MUSIC] Ellie Goulding - Goodness Gracious"
+		}
+		"[MUSIC] Kid Cudi - Pursuit Of Happiness ft. MGMT"
+		{
+			"trans"		"[MUSIC] Kid Cudi - Pursuit Of Happiness ft. MGMT"
+		}
+		"[MUSIC] Avicii ft. Robbie Williams - The Days"
+		{
+			"trans"		"[MUSIC] Avicii ft. Robbie Williams - The Days"
+		}
+	}
+	"[MAP] FALL DAMAGE is DISABLED"
+	{
+		"trans"		"[MAP] FALL DAMAGE is DISABLED"
+	}
+	"[MAP] BombSite Unlocked"
+	{
+		"trans"		"[MAP] BombSite Unlocked"
+	}
+	"[MAP] Shotguns enabled in 5 seconds"
+	{
+		"trans"		"[MAP] Shotguns enabled in 5 seconds"
+		"[MAP] SLIDE"
+		{
+			"trans"		"[MAP] SLIDE"
+		}
+		"[MAP] HEADSHOT PISTOL"
+		{
+			"trans"		"[MAP] HEADSHOT PISTOL"
+		}
+		"[MAP] Conveyers disabled"
+		{
+			"trans"		"[MAP] Conveyers disabled"
+		}
+	}
+	"[MAP] AIRDROP"
+	{
+		"trans"		"[MAP] AIRDROP"
+	}
+	"[MAP] You can now go up the middle!"
+	{
+		"trans"		"[MAP] You can now go up the middle!"
+	}
+	"[MAP] PINK - 13 seconds"
+	{
+		"trans"		"[MAP] PINK - 13 seconds"
+		"[MAP] CYAN - 10 seconds"
+		{
+			"trans"		"[MAP] CYAN - 10 seconds"
+		}
+		"[MAP] RED - 5 seconds"
+		{
+			"trans"		"[MAP] RED - 5 seconds"
+		}
+	}
+	"[MAP] KNIFE"
+	{
+		"trans"		"[MAP] KNIFE"
+	}
+	"[MAP] Knife Damage Enabled"
+	{
+		"trans"		"[MAP] Knife Damage Enabled"
+	}
+}

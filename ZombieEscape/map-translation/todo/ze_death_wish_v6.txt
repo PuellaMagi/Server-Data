@@ -1,0 +1,67 @@
+"Chat"
+{
+	"<< key card is fixed !!! >>"
+	{
+		"trans"		"<< key card is fixed !!! >>"
+	}
+	"<< fence will open in few seconds >>"
+	{
+		"trans"		"<< fence will open in few seconds >>"
+	}
+	"<< fend off zombies !!! >>>"
+	{
+		"trans"		"<< fend off zombies !!! >>>"
+	}
+	"<< fence will open in 5 seconds >>"
+	{
+		"trans"		"<< fence will open in 5 seconds >>"
+	}
+	"<< Door wiill open soon >>"
+	{
+		"trans"		"<< Door wiill open soon >>"
+	}
+	"<< defend against the horde >>"
+	{
+		"trans"		"<< defend against the horde >>"
+	}
+	"<< Door is open >>"
+	{
+		"trans"		"<< Door is open >>"
+	}
+	"<< Fall Back !! >>"
+	{
+		"trans"		"<< Fall Back !! >>"
+	}
+	"<< defend until teleport is ready >>>"
+	{
+		"trans"		"<< defend until teleport is ready >>>"
+	}
+	"<< 5 seconds to escape >>"
+	{
+		"trans"		"<< 5 seconds to escape >>"
+	}
+	"<< access to highway in few seconds >>"
+	{
+		"trans"		"<< access to highway in few seconds >>"
+	}
+	"<< defend this spot >>"
+	{
+		"trans"		"<< defend this spot >>"
+	}
+	"<< nuke has been launched !!! >>"
+	{
+		"trans"		"<< nuke has been launched !!! >>"
+	}
+	"<< defend till !!! >>"
+	{
+		"trans"		"<< defend till !!! >>"
+	}
+	"<< you will be safe in 5 seconds !!! >>"
+	{
+		"trans"		"<< you will be safe in 5 seconds !!! >>"
+	}
+	"<< Map made by Lup4n` >>"
+	{
+		"trans"		"<< Map made by Lup4n` >>"
+	}
+}

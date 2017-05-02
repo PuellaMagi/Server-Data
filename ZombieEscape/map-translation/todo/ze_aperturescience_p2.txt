@@ -32,4 +32,12 @@
 	{
 		"trans"		"--Lift has now left Aperture Science--"
 	}
+	"**Hint: Crouch to go over the glass**"
+	{
+		"trans"		"**Hint: Crouch to go over the glass**"
+	}
+	"--Welcome to the Aperture Science Center--"
+	{
+		"trans"		"--Welcome to the Aperture Science Center--"
+	}
 }

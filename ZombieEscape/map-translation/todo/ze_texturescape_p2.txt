@@ -1,0 +1,27 @@
+"Chat"
+{
+	"*** Platforms will begin rising in 15 seconds! ***"
+	{
+		"trans"		"*** Platforms will begin rising in 15 seconds! ***"
+	}
+	"*** Get in the center! ***"
+	{
+		"trans"		"*** Get in the center! ***"
+	}
+	"*** Get going before the platform breaks! Hurry! ***"
+	{
+		"trans"		"*** Get going before the platform breaks! Hurry! ***"
+	}
+	"*** Wall breaks in 20 seconds. ***"
+	{
+		"trans"		"*** Wall breaks in 20 seconds. ***"
+	}
+	"*** Move! ***"
+	{
+		"trans"		"*** Move! ***"
+	}
+	"*** Slowpoke teleport in 15 seconds.***"
+	{
+		"trans"		"*** Slowpoke teleport in 15 seconds.***"
+	}
+}

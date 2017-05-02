@@ -1,0 +1,43 @@
+"Chat"
+{
+	"Welcome to hype2"
+	{
+		"trans"		"Welcome to hype2"
+	}
+	"Song - Embers : Feint"
+	{
+		"trans"		"Song - Embers : Feint"
+	}
+	"Song - It'll Be Okay : SMLE ft. Helen Tess"
+	{
+		"trans"		"Song - It'll Be Okay : SMLE ft. Helen Tess"
+	}
+	"Song - Closer : Lazlo"
+	{
+		"trans"		"Song - Closer : Lazlo"
+	}
+	"Song - ROZES - Fragile (AVNU Remix)"
+	{
+		"trans"		"Song - ROZES - Fragile (AVNU Remix)"
+	}
+	"Song - Ed Sheeran - I See Fire (Kygo Remix)"
+	{
+		"trans"		"Song - Ed Sheeran - I See Fire (Kygo Remix)"
+	}
+	"Song - Henrix - Feel Alive (Fever Remix) "
+	{
+		"trans"		"Song - Henrix - Feel Alive (Fever Remix) "
+	}
+	"Song - Jumper : Third Eye Blind"
+	{
+		"trans"		"Song - Jumper : Third Eye Blind"
+	}
+	"Song - Said The Sky ft. Diamond Eyes - Mountains"
+	{
+		"trans"		"Song - Said The Sky ft. Diamond Eyes - Mountains"
+	}
+	"Song - Kygo - Stay (ft. Maty Noyes)"
+	{
+		"trans"		"Song - Kygo - Stay (ft. Maty Noyes)"
+	}
+}

@@ -1,11 +1,175 @@
 "Chat"
 {
+	">> Map by TaskuVaras <<"
+	{
+		"trans"		">> Map by Taskuvaras <<"
+	}
+	">> PLAYER HAS PICKED UP WIND <<"
+	{
+		"trans"		">> PLAYER HAS PICKED UP WIND <<"
+	}
+	"*** 5 MORE SECONDS ***"
+	{
+		"trans"		"*** 5 MORE SECONDS ***"
+	}
+	"*** DOOR IS OPEN! RUUUN! ***"
+	{
+		"trans"		"*** DOOR IS OPEN! RUUUN! ***"
+	}
+	">> LEVEL COMPLETED !!! <<"
+	{
+		"trans"		">> LEVEL COMPLETED !!! <<"
+	}
+	">> PLAYER HAS PICKED UP HEAL <<"
+	{
+		"trans"		">> PLAYER HAS PICKED UP HEAL <<"
+	}
+	"*** FALL BACK !!! ***"
+	{
+		"trans"		"*** FALL BACK !!! ***"
+	}
+	"*** ELEVATOR LEAVING IN 10 seconds ***"
+	{
+		"trans"		"*** ELEVATOR LEAVING IN 10 SECONDS ***"
+	}
+	"*** FAN STOPPING IN 30 SECONDS ***"
+	{
+		"trans"		"*** FAN STOPPING IN 30 SECONDS ***"
+	}
+	"*** FALL BACK ***"
+	{
+		"trans"		"*** FALL BACK ***"
+	}
+	"*** FLY LEAVING IN 15 SECONDS ***"
+	{
+		"trans"		"*** FLY LEAVING IN 15 SECONDS ***"
+	}
+	">> LEVEL COMPLETED!! <<"
+	{
+		"trans"		">> LEVEL COMPLETED!! <<"
+	}
+	">> PLAYER HAS PICKED UP ICE <<"
+	{
+		"trans"		">> PLAYER HAS PICKED UP ICE <<"
+	}
+	"*** GATE OPENING IN 25 SECONDS ***"
+	{
+		"trans"		"*** GATE OPENING IN 25 SECONDS ***"
+	}
+	"*** DOORS OPENING IN 30 SECONDS ***"
+	{
+		"trans"		"*** DOORS OPENING IN 30 SECONDS ***"
+	}
+	">> OH NO!! ITS GOD <<"
+	{
+		"trans"		">> OH NO!! ITS GOD <<"
+	}
+	"*** HEAVEN GATES OPENING IN 25 SECONDS ***"
+	{
+		"trans"		"*** HEAVEN GATES OPENING IN 25 SECONDS ***"
+	}
 	">> ZOMBIE SHROOM HAS BEEN PICKED UP <<"
 	{
 		"trans"		">> ZOMBIE SHROOM HAS BEEN PICKED UP <<"
 	}
+	"*** FLY LEAVING IN 30 SECONDS ***"
+	{
+		"trans"		"*** FLY LEAVING IN 30 SECONDS ***"
+	}
 	">> ZOMBIE CLOUD HAS BEEN PICKED UP <<"
 	{
 		"trans"		">> ZOMBIE CLOUD HAS BEEN PICKED UP <<"
+	}
+	">> PLAYER HAS PICKED UP GRAVITY <<"
+	{
+		"trans"		">> PLAYER HAS PICKED UP GRAVITY <<"
+	}
+	">> FALL BACK <<"
+	{
+		"trans"		">> FALL BACK <<"
+	}
+	">> OH NO!! ITS FALLEN ANGEL <<"
+	{
+		"trans"		">> OH NO!! ITS FALLEN ANGEL <<"
+	}
+	"*** BUTTERFLY IS DEAD !!!! DEFEND LONGER !!!! ***"
+	{
+		"trans"		"*** BUTTERFLY IS DEAD !!!! DEFEND LONGER !!!! ***"
+	}
+	">> PLAYER HAS PICKED UP EARTH <<"
+	{
+		"trans"		">> PLAYER HAS PICKED UP EARTH <<"
+	}
+	">> THE GRID IS CLOSED <<"
+	{
+		"trans"		">> THE GRID IS CLOSED <<"
+	}
+	">> IT'S SATAN WITH THE ANGELS !!! <<"
+	{
+		"trans"		">> IT'S SATAN WITH THE ANGELS !!! <<"
+	}
+	"*** WHERE DID SATAN GO... ***"
+	{
+		"trans"		"*** WHERE DID SATAN GO... ***"
+	}
+	">> PORTAL CLOSING IN 5 SECONDS !!! <<"
+	{
+		"trans"		">> PORTAL CLOSING IN 5 SECONDS !!! <<"
+	}
+	">> PORTAL IS CLOSING !!! <<"
+	{
+		"trans"		">> PORTAL IS CLOSING !!! <<"
+	}
+	">> PLAYER HAS PICKED UP FIRE <<"
+	{
+		"trans"		">> PLAYER HAS PICKED UP FIRE <<"
+	}
+	">> 90 SECONDS LEFT <<"
+	{
+		"trans"		">> 90 SECONDS LEFT <<"
+	}
+	">> ALL 6 MINES USED <<"
+	{
+		"trans"		">> ALL 6 MINES USED <<"
+	}
+	">> 50 SECONDS LEFT <<"
+	{
+		"trans"		">> 50 SECONDS LEFT <<"
+	}
+	">> 30 SECONDS LEFT <<"
+	{
+		"trans"		">> 30 SECONDS LEFT <<"
+	}
+	">> FIND THE TELEPORTER TO LEVEL ROOM <<"
+	{
+		"trans"		">> FIND THE TELEPORTER TO LEVEL ROOM <<"
+	}
+	">> 120 SECONDS LEFT <<"
+	{
+		"trans"		">> 120 SECONDS LEFT <<"
+	}
+	">> 70 SECONDS LEFT <<"
+	{
+		"trans"		">> 70 SECONDS LEFT <<"
+	}
+	">> PLAYER HAS PICKED UP 6 MINES <<"
+	{
+		"trans"		">> PLAYER HAS PICKED UP 6 MINES <<"
+	}
+	">> PLAYER HAS PICKED UP WATER <<"
+	{
+		"trans"		">> PLAYER HAS PICKED UP WATER <<"
+	}
+	"*** HOLD FOR 30 seconds ***"
+	{
+		"trans"		"*** HOLD FOR 30 SECONDS ***"
+	}
+	"*** GATE OPENING IN 30 SECONDS ***"
+	{
+		"trans"		"*** GATE OPENING IN 30 SECONDS ***"
+	}
+	">> 20 SECONDS LEFT <<"
+	{
+		"trans"		">> 20 SECONDS LEFT <<"
 	}
 }

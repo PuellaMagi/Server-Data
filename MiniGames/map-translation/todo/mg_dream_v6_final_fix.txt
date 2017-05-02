@@ -1,0 +1,103 @@
+"Chat"
+{
+	"*mg_dream_v6*"
+	{
+		"trans"		"*mg_dream_v6*"
+	}
+	"*Map By SkyK1llx3*"
+	{
+		"trans"		"*Map By SkyK1llx3*"
+	}
+	"*Have Fun!!!*"
+	{
+		"trans"		"*Have Fun!!!*"
+	}
+	"**Wait 35 Sec. to activate RANDOM**"
+	{
+		"trans"		"**Wait 35 Sec. to activate RANDOM**"
+		"*mg_dream_v6*"
+		{
+			"trans"		"*mg_dream_v6*"
+		}
+		"**Music Choosen RANDOM**"
+		{
+			"trans"		"**Music Choosen RANDOM**"
+		}
+	}
+	"Player has Choosen Long Jump"
+	{
+		"trans"		"Player has Choosen Long Jump"
+	}
+	"Music : Lana Del Rey ~ Summertime Sadness [Remix]"
+	{
+		"trans"		"Music : Lana Del Rey ~ Summertime Sadness [Remix]"
+	}
+	"Break in *3*"
+	{
+		"trans"		"Break in *3*"
+	}
+	"Break in *2*"
+	{
+		"trans"		"Break in *2*"
+	}
+	"Break in *1*"
+	{
+		"trans"		"Break in *1*"
+	}
+	"Music : Dubstep [Remix]"
+	{
+		"trans"		"Music : Dubstep [Remix]"
+	}
+	"Player has Choosen AWP"
+	{
+		"trans"		"Player has Choosen AWP"
+	}
+	"Player has Choosen DEAGLE"
+	{
+		"trans"		"Player has Choosen DEAGLE"
+	}
+	"Music : Kollegah - Bossaura"
+	{
+		"trans"		"Music : Kollegah - Bossaura"
+	}
+	"Player has Choosen Spped Jump"
+	{
+		"trans"		"Player has Choosen Spped Jump"
+	}
+	"Music : Jumped - Loituma Jumpstyle"
+	{
+		"trans"		"Music : Jumped - Loituma Jumpstyle"
+	}
+	"Music : Izay - Replay"
+	{
+		"trans"		"Music : Izay - Replay"
+	}
+	"Music : Ich denke oft an dich [Remix Technobase.fm]"
+	{
+		"trans"		"Music : Ich denke oft an dich [Remix Technobase.fm]"
+	}
+	"Player has Choosen Race"
+	{
+		"trans"		"Player has Choosen Race"
+	}
+	"*3*"
+	{
+		"trans"		"*3*"
+	}
+	"*2*"
+	{
+		"trans"		"*2*"
+	}
+	"*1*"
+	{
+		"trans"		"*1*"
+	}
+	"Player has Choosen Trampolin"
+	{
+		"trans"		"Player has Choosen Trampolin"
+	}
+	"Player has Choosen B - HOP"
+	{
+		"trans"		"Player has Choosen B - HOP"
+	}
+}
