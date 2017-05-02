@@ -1,0 +1,111 @@
+"Chat"
+{
+	"** Hey there! Welcome to ze_colors **"
+	{
+		"trans"		"**<五彩世界> 翻译DohiCircle**"
+	}
+	"** Believe it or not this map was once a tutorial and twice a duck! **"
+	{
+		"blocked"		"1"
+	}
+	"** Level: Lemon **"
+	{
+		"trans"		"**Level: Lemon**"
+	}
+	"** This level looks like good old Louisiana: lines and squares all along the little lonely land **"
+	{
+		"trans"		"**请防守好两个大路，请不要躲在小管道，一旦失守迎接你的就是死亡**"
+	}
+	"** GET GOING! Tension has been built in the spawn area! **"
+	{
+		"trans"		"**快走吧，出生点已经有了空气墙阻挡僵尸了**"
+	}
+	"** RESIST! We're pathetically close to the spawn still! **"
+	{
+		"trans"		"**停留在出生点的玩家将被推出**"
+	}
+	"** One tiny bit more! We're almost there! **"
+	{
+		"trans"		"**都聚在一起防守到背后门开**"
+	}
+	"** Hold right here! There are 4 entrances - take care of them! **"
+	{
+		"trans"		"**守住这里 一共有四个口子别让僵尸上来**"
+	}
+	"** Keep it up! 10 seconds left! **"
+	{
+		"trans"		"**坚持住还有10秒**"
+	}
+	"** RESIST! We need to wait for a bit until we fly-fly-fly! **"
+	{
+		"trans"		"**守住 直到玻璃关上 我们就能一飞冲天**"
+	}
+	"** Hold it a bit more! The magical energy is energy-ny-zing! **"
+	{
+		"trans"		"**再守一会 巴拉拉能量马上就充能完毕了**"
+	}
+	"** Last few seconds! HOLD IT! **"
+	{
+		"trans"		"**最后几秒了 绝对不能让僵尸进来**"
+	}
+	"** Split hold! Both sides must survive! RESIST! **"
+	{
+		"trans"		"**有两条路守住等待玻璃消失**"
+	}
+	"** Hold it! Last 10 seconds! **"
+	{
+		"trans"		"**守住这里还有10秒**"
+	}
+	"** Do you see it? Time to practice ropeless bungee jumping! **"
+	{
+		"trans"		"**知道刺客信条么 信仰之跃!!!!!**"
+	}
+	"** Narrow hold! Narrower time! RESIST A LITTLE OR DIE! **"
+	{
+		"trans"		"**防守这个窄口一会**"
+	}
+	"** Get moving! We lost time! MAP IS LONG ENOUGH NOW TO BE DECENT! **"
+	{
+		"trans"		"**后退 跳上后面的平台**"
+	}
+	"** One more hold and then the woody poody finale! **"
+	{
+		"trans"		"**守住这个平台 等待背后的玻璃消失**"
+	}
+	"** I'm quite sure you're wishing you had done something with your life now... **"
+	{
+		"blocked"		"1"
+	}
+	"** GO! The absurdly stupid ending awaits with more absurd holding than ever! **"
+	{
+		"trans"		"**撤退!我们就快要胜利了**"
+	}
+	"** THIS IS OUR LAST STAND! RESIST! **"
+	{
+		"trans"		"**这是最后一个平台了 坚持住!**"
+	}
+	"** THE BRIDGE WILL GO SOON! KEEP IT UP!!! **"
+	{
+		"trans"		"**桥马上要断了 继续开火!**"
+	}
+	"** GET READY! THE LAST WAVE IS INCOMING! **"
+	{
+		"trans"		"**注意 四周会出现旋转板 僵尸会从板上出现**"
+	}
+	"** HOLD IT! WE MUST SURVIVE FOR THE LAST BIT! **"
+	{
+		"trans"		"**守住!我们必须撑住 已经没有退路了**"
+	}
+	"*** Amazing! You did it!! Let's see how you do on Grape mode! ***"
+	{
+		"trans"		"**太让人惊讶了，我们做到了!下一关 Grape**"
+	}
+	"** Level: Grape **"
+	{
+		"trans"		"**Level: Grape**"
+	}
+	"** Shake-shaka-shake-shaka-boom! Grape is a fruit with calcium! **"
+	{
+		"blocked"		"1"
+	}
+}

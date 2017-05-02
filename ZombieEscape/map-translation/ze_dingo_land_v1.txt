@@ -1,0 +1,43 @@
+"Chat"
+{
+	">>stairs will clear in 30 seconds<<"
+	{
+		"trans"		">>等待30秒，正在清理这些椅子<<"
+	}
+	">>5 seconds<<"
+	{
+		"trans"		">>还有5秒<<"
+	}
+	">>stairs will be clear in 60 seconds<<"
+	{
+		"trans"		">>等待60秒，正在清理这些椅子<<"
+	}
+	">>5 seconds left<<"
+	{
+		"trans"		">>还有5秒<<"
+	}
+	">>RUN!!!<<"
+	{
+		"trans"		">>快跑!!!!<<"
+	}
+	">> wall will clear in 20 seconds<<"
+	{
+		"trans"		">>墙将在20秒后消失<<"
+	}
+	">> 5 seconds left<<"
+	{
+		"trans"		">>还有5秒<<"
+	}
+	">>hold this point till door opens<<"
+	{
+		"trans"		">>守住这里 等待通路打开<<"
+	}
+	">>nuke launched. eta 40 seconds<<"
+	{
+		"trans"		">>40秒后核爆<<"
+	}
+	">>10 seconds till impact<<"
+	{
+		"trans"		">>10秒后核弹到达<<"
+	}
+}

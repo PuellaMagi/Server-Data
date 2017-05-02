@@ -1,0 +1,147 @@
+"Chat"
+{
+	"*-'This is your slightly eccentric commander speaking, get a move on!'-*"
+	{
+		"trans"		"指挥官：这驾驶员怕不是二五仔差点团灭，算了正事要紧，我们进入大楼吧"
+	}
+	"*-'Maybe there's something here we can use'-*"
+	{
+		"trans"		"指挥官：这里的东西我们应该可以用到，自己拿吧"
+	}
+	"*-'An airlock? That's strange. I don't remember them having these.'-*"
+	{
+		"trans"		"指挥官：闸门？我不记得有这个玩意吧。"
+	}
+	"*Airlock Door Malfunction. Attempting repairs. Estimated duration: 30 seconds*"
+	{
+		"trans"		"AI：闸门故障……尝试修理……预计时间：30秒"
+	}
+	"--5 seconds--"
+	{
+		"trans"		"AI：还有5秒"
+	}
+	"*-'What was that!?'-*"
+	{
+		"trans"		"指挥官：这TM是个啥，给我打开它"
+	}
+	"--Door opens in 40 seconds--"
+	{
+		"trans"		"AI：门将在40秒后打开"
+	}
+	"--Door opens in 5 seconds--"
+	{
+		"trans"		"AI：门将在5秒后打开"
+	}
+	"--Zombies held for 10 seconds--"
+	{
+		"trans"		"AI：僵尸将被阻拦10秒，请尽快撤离"
+	}
+	"--Photonic Blade Obtained: 30 seconds cooldown--"
+	{
+		"trans"		"AI：高频光子刀已被捡起……两次使用之间有30秒的间隔"
+	}
+	"*-'A low gravity room.Kinda expected that'-*"
+	{
+		"trans"		"*指挥官：低重力房间，我们快往上走"
+	}
+	"*-'Oh look,chemical weapons.More specificly VX '-*"
+	{
+		"trans"		"指挥官：这么多化学武器。我的天，VX!这里究竟在做什么!"
+	}
+	"*Ventilaton system set to: Fill facility.Estimated duration 25 seconds*"
+	{
+		"trans"		"AI：通风系统设置……填充气体中……预计需要25秒"
+	}
+	"*-'Great.Now plant C4 here and run!'-*"
+	{
+		"trans"		"指挥官：干得漂亮，大兵快把C4装好我们走"
+	}
+	"*-'Mmmkay the Excalibre is a key to...'-*"
+	{
+		"trans"		"指挥官：嗯。。这个光子刀的核心是……"
+	}
+	"*-'Damn.That gateway leads to a pocket dimension with tons of antimatter.'-*"
+	{
+		"trans"		"指挥官：该死。这么小的部件竟然装这么多反物质，这些研究人员是疯了么"
+	}
+	"*Uploading.Estimated time of completion: 30 seconds*"
+	{
+		"trans"		"AI：正在上传……预计完成时间30秒"
+	}
+	"*-'Upload the data.'-*"
+	{
+		"trans"		"指挥官：快，上传这些数据"
+	}
+	"*Upload 50% complete*"
+	{
+		"trans"		"AI：上传50%"
+	}
+	"*Upload 75% complete*"
+	{
+		"trans"		"AI：上传75%"
+	}
+	"*Upload complete!*"
+	{
+		"trans"		"AI：上传完成"
+	}
+	"*-'It's activating its weapon systems!'-*"
+	{
+		"trans"		"指挥官：这个大家伙正在激活它的武器系统"
+	}
+	"*-'Shoot the computer!The blue part!'-*"
+	{
+		"trans"		"指挥官：攻击它的核心!就是那个像眼睛的屏幕"
+	}
+	"*Self-destruct sequence activated: 1 minute to detonation.*"
+	{
+		"trans"		"AI：基地自毁装置已启动……1分钟后爆炸"
+	}
+	"*Nuclear detonation imminent! 30 seconds remaining.*"
+	{
+		"trans"		"AI：基地即将爆炸，还有30秒"
+	}
+	"*5*"
+	{
+		"trans"		"*5*"
+	}
+	"*4*"
+	{
+		"trans"		"*4*"
+	}
+	"*3*"
+	{
+		"trans"		"*3*"
+	}
+	"*2*"
+	{
+		"trans"		"*2*"
+	}
+	"*1*"
+	{
+		"trans"		"*1*"
+	}
+	"*-'Halfway there!Keep firing!'-*"
+	{
+		"trans"		"指挥官：我们摧毁它一半了，继续开火!"
+	}
+	"*-'Hurry!To the left'-*"
+	{
+		"trans"		"指挥官：快点，走这边!"
+	}
+	"*Emergency bunker closing in 35 seconds*"
+	{
+		"trans"		"AI：紧急掩体即将在35秒后关闭"
+	}
+	"*-'Well,that's convenient.'-*"
+	{
+		"trans"		"指挥官：这很棒!继续防守到大门关上"
+	}
+	"--Map made by:Tgting--"
+	{
+		"trans"		"<秘密实验室> 作者Tgting 翻译DohiCircle"
+	}
+	"--Music by RageVI and CT--"
+	{
+		"blocked"		"1"
+	}
+}
