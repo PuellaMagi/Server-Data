@@ -1,7 +1,0 @@
-"Chat"
-{
-	"*** Press E on a wall to gain a Nade ***"
-	{
-		"trans"		"*** Press E on a wall to gain a Nade ***"
-	}
-}

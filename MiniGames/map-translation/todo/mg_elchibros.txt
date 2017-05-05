@@ -1,7 +1,0 @@
-"Chat"
-{
-	"Map by ElChibros --  www.steamcommunity.com／id／ElChibros"
-	{
-		"trans"		"Map by ElChibros --  www.steamcommunity.com／id／ElChibros"
-	}
-}

@@ -1,7 +1,0 @@
-"Chat"
-{
-	"*Map by BES*"
-	{
-		"trans"		"*Map by BES*"
-	}
-}
