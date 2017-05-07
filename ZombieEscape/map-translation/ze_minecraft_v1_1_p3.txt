@@ -2,7 +2,7 @@
 {
 	"***MAP BY thegregster101***"
 	{
-		"trans"		"[{darkred}Map{default}] 地图制作：thegregster101 翻译：小四"
+		"trans"		"地图制作：thegregster101 翻译：小四"
 	}
 	"***YOU ARE PLAYING ze_minecraft_v1_1***"
 	{
@@ -10,87 +10,87 @@
 	}
 	"***STONE DOOR OPENING***"
 	{
-		"trans"		"[{darkred}Map{default}] 石门开了"
+		"trans"		"石门开了"
 	}
 	"***BOAT LEAVES IN 20 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] 20秒后船开"
+		"trans"		"20秒后船开"
 	}
 	"***BOAT LEAVES IN 10 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] 10秒后船开"
+		"trans"		"10秒后船开"
 	}
 	"***PATH BLOCKERS BREAK IN 5 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] 小路在5秒后破坏"
+		"trans"		"小路在5秒后破坏"
 	}
 	"***TNT EXPLODING IN 30 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] TNT爆破于30秒后"
+		"trans"		"TNT爆破于30秒后"
 	}
 	"***HOLD THE CAVE!!!!***"
 	{
-		"trans"		"[{darkred}Map{default}] 守住洞穴！"
+		"trans"		"守住洞穴！"
 	}
 	"***TNT EXPLODING IN 20 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] TNT引爆于20秒后"
+		"trans"		"TNT引爆于20秒后"
 	}
 	"***TNT EXPLODING IN 10 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] TNT引爆于10秒后"
+		"trans"		"TNT引爆于10秒后"
 	}
 	"***TNT EXPLODING IN 5 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] TNT引爆于5秒后"
+		"trans"		"TNT引爆于5秒后"
 	}
 	"***GOGO.. GET TO THE SLIP GATE***"
 	{
-		"trans"		"[{darkred}Map{default}] 跑向大门"
+		"trans"		"跑向大门"
 	}
 	"***AFK TELE TO CAGE IN 15 SECONDS**"
 	{
-		"trans"		"[{darkred}Map{default}] 挂机玩家15秒后传送到笼子里"
+		"trans"		"挂机玩家15秒后传送到笼子里"
 	}
 	"***AFK TELE 2 TELEPORTING IN 20 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] 挂机玩家20秒后传送"
+		"trans"		"挂机玩家20秒后传送"
 	}
 	"***DOOR OPENING IN 15 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] 门开于15秒后"
+		"trans"		"门开于15秒后"
 	}
 	"***DOOR OPENING IN 10 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] 门开于10秒后"
+		"trans"		"门开于10秒后"
 	}
 	"***DOOR OPENING IN 5 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] 门开于5秒后"
+		"trans"		"门开于5秒后"
 	}
 	"***DOOR OPEN... RUN!!***"
 	{
-		"trans"		"[{darkred}Map{default}] 门开了，跑！！"
+		"trans"		"门开了，跑！！"
 	}
 	"***DEFEND THE CASTLE DOORS***"
 	{
-		"trans"		"[{darkred}Map{default}] 防守城门"
+		"trans"		"防守城门"
 	}
 	"***THE BOW HAS BEEN PICKED UP***"
 	{
-		"trans"		"[{darkred}Map{default}] 弓被捡起"
+		"trans"		"弓被捡起"
 	}
 	"***GO GO.. GET TO THE MINE!***"
 	{
-		"trans"		"[{darkred}Map{default}] 跑到地雷处"
+		"trans"		"跑到地雷处"
 	}
 	"***DEFEND FOR 35 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] 防守30秒"
+		"trans"		"防守30秒"
 	}
 	"***MINE CARTS ARRIVE IN 30 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] 矿车到达于30秒后
+		"trans"		"矿车到达于30秒后
 	}
 	"
 		"***MINE"		"CARTS"
@@ -156,110 +156,110 @@
 	"{"		"darkred"
 	"***MINE CARTS ARRIVE IN 25 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***MINE CARTS ARRIVE IN 25 SECONDS***"
+		"trans"		"***矿车到达于25秒后***"
 	}
 	"***MINE CARTS ARRIVE IN 20 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***MINE CARTS ARRIVE IN 20 SECONDS***"
+		"trans"		"***矿车到达于20秒后***"
 	}
 	"***MINE CARTS ARRIVE IN 15 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***MINE CARTS ARRIVE IN 15 SECONDS***"
+		"trans"		"***矿车到达于15秒后***"
 	}
 	"***MINE CARTS ARRIVE IN 10 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***MINE CARTS ARRIVE IN 10 SECONDS***"
+		"trans"		"***矿车到达于10秒后***"
 	}
 	"***MINE CARTS ARRIVE IN 5 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***MINE CARTS ARRIVE IN 5 SECONDS***"
+		"trans"		"***矿车到达于5秒后***"
 	}
 	"***GET ON TOP OF THE MINE CARTS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***GET ON TOP OF THE MINE CARTS***"
+		"trans"		"***搭上矿车***"
 	}
 	"***BUNKER HAS BEEN REACHED***"
 	{
-		"trans"		"[{darkred}Map{default}] ***BUNKER HAS BEEN REACHED***"
+		"trans"		"***已经抵达堡垒外***"
 	}
 	"***BUNKER DOOR OPENING IN 20 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***BUNKER DOOR OPENING IN 20 SECONDS***"
+		"trans"		"***堡垒门开启于20秒后***"
 	}
 	"***DEFEND THE RAILWAY TRACK***"
 	{
-		"trans"		"[{darkred}Map{default}] ***DEFEND THE RAILWAY TRACK***"
+		"trans"		"***守住铁轨***"
 	}
 	"***BUNKER DOOR OPENING IN 15 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***BUNKER DOOR OPENING IN 15 SECONDS***"
+		"trans"		"***堡垒门开启于15秒后***"
 	}
 	"***BUNKER DOOR OPENING IN 10 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***BUNKER DOOR OPENING IN 10 SECONDS***"
+		"trans"		"***堡垒门开启于10秒后***"
 	}
 	"***BUNKER DOOR OPENING IN 5 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}] ***BUNKER DOOR OPENING IN 5 SECONDS***"
+		"trans"		"***堡垒门开启于5秒后***"
 	}
 	"***BUNKER DOOR OPEN!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***BUNKER DOOR OPEN!***"
+		"trans"		"***地堡门已开启***"
 	}
 	"***GET INSIDE THE BUNKER***"
 	{
-		"trans"		"[{darkred}Map{default}] ***GET INSIDE THE BUNKER***"
+		"trans"		"***进入堡垒***"
 	}
 	"***BUNKER DOOR CLOSING***"
 	{
-		"trans"		"[{darkred}Map{default}] ***BUNKER DOOR CLOSING***"
+		"trans"		"***堡垒门正在关闭***"
 	}
 	"***NUKE LAUNCHED! ***"
 	{
-		"trans"		"[{darkred}Map{default}] ***NUKE LAUNCHED! ***"
+		"trans"		"***核爆已启动! ***"
 	}
 	"***PUMPKIN HEAD HAS BEEN PICKED UP***"
 	{
-		"trans"		"[{darkred}Map{default}] ***PUMPKIN HEAD HAS BEEN PICKED UP***"
+		"blocked"		"1"
 	}
 	"***CREEPER HEAD HAS BEEN PICKED UP***"
 	{
-		"trans"		"[{darkred}Map{default}] ***CREEPER HEAD HAS BEEN PICKED UP***"
+		"blocked"		"1"
 	}
 	"***ALL MATERIALS FOR DIAMOND SWORD HAVE BEEN FOUND*** "
 	{
-		"trans"		"[{darkred}Map{default}] ***ALL MATERIALS FOR DIAMOND SWORD HAVE BEEN FOUND*** "
+		"blocked"		"1"
 	}
 	"***PRESS use ON THE WORKBENCH AT THE TNT HOLD POINT*** "
 	{
-		"trans"		"[{darkred}Map{default}] ***PRESS use ON THE WORKBENCH AT THE TNT HOLD POINT*** "
+		"blocked"		"1"
 	}
 	"***THIS WILL CRAFT THE SWORD*** "
 	{
-		"trans"		"[{darkred}Map{default}] ***THIS WILL CRAFT THE SWORD*** "
+		"blocked"		"1"
 	}
 	"***THE SWORD HAS BEEN PICKED UP***"
 	{
-		"trans"		"[{darkred}Map{default}] ***THE SWORD HAS BEEN PICKED UP***"
+		"blocked"		"1"
 	}
 	"***SWORD READY***"
 	{
-		"trans"		"[{darkred}Map{default}] ***SWORD READY***"
+		"blocked"		"1"
 	}
 	"***TROLL FACE HAS BEEN PICKED UP***"
 	{
-		"trans"		"[{darkred}Map{default}] ***TROLL FACE HAS BEEN PICKED UP***"
+		"blocked"		"1"
 	}
 	"***YOU BE TROLL'IN***"
 	{
-		"trans"		"[{darkred}Map{default}] ***YOU BE TROLL'IN***"
+		"blocked"		"1"
 	}
 	"***ZOMBIE HAVE BEEN DETECTED IN THE BOAT***"
 	{
-		"trans"		"[{darkred}Map{default}] ***ZOMBIE HAVE BEEN DETECTED IN THE BOAT***"
+		"blocked"		"1"
 	}
 	"***BOAT SELF DESTRUCT!!***"
 	{
-		"trans"		"[{darkred}Map{default}] ***BOAT SELF DESTRUCT!!***"
+		"blocked"		"1"
 	}
 }

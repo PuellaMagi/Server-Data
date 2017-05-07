@@ -1,7 +1,0 @@
-"Chat"
-{
-	"*** Map by Airvulpes ***"
-	{
-		"blocked"		"1"
-	}
-}

@@ -10,42 +10,42 @@
 	}
 	"***START ELEVATOR 15 SEC***"
 	{
-		"trans"		"[{darkred}Map{default}]  电梯启动于15秒后"
+		"trans"		"电梯启动于15秒后"
 	}
 	"***ELEVATOR UP 14 SEC***"
 	{
-		"trans"		"[{darkred}Map{default}]  电梯上升于14秒后"
+		"trans"		"电梯上升于14秒后"
 	}
 	"***GENERATOR DESACTIVED***"
 	{
-		"trans"		"[{darkred}Map{default}]  发电机已启动"
+		"trans"		"发电机已启动"
 	}
 	"***CATCH FUSE***"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家拾起了阀门"
+		"trans"		"有玩家拾起了阀门"
 	}
 	"***CATCH SILVER MEDAL***"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家拾起了银色徽章"
+		"trans"		"有玩家拾起了银色徽章"
 	}
 	"*** CATCH GOLD MEDAL ***"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家拾起了金色徽章"
+		"trans"		"有玩家拾起了金色徽章"
 	}
 	"***START TRAIN 20 SEC ***"
 	{
-		"trans"		"[{darkred}Map{default}]  缆车启动于20秒后"
+		"trans"		"缆车启动于20秒后"
 	}
 	"*** START TRAIN 10 SEC ***"
 	{
-		"trans"		"[{darkred}Map{default}]  缆车启动于10秒后"
+		"trans"		"缆车启动于10秒后"
 	}
 	"***START ELEVATOR 25 SEC***"
 	{
-		"trans"		"[{darkred}Map{default}]  电梯下降于25秒后"
+		"trans"		"电梯下降于25秒后"
 	}
 	"*** GAS ACTIVATED 40 SEC ***"
 	{
-		"trans"		"[{darkred}Map{default}]  神经毒气释放于40秒后"
+		"trans"		"神经毒气释放于40秒后"
 	}
 }

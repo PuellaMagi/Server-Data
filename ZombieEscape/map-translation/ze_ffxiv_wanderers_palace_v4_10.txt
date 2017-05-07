@@ -1,0 +1,851 @@
+"Chat"
+{
+	"***Wait for 20 seconds ***"
+	{
+		"trans"		"***坚守20秒***"
+	}
+	"***Door close 10 seconds***"
+	{
+		"trans"		"***门关于10秒后**"
+	}
+	"***5 SECONDS***"
+	{
+		"trans"		"***5秒剩余***"
+	}
+	"***Location: The Wanderer's Palace***"
+	{
+		"trans"		"***当前位置:流浪者宫殿"
+	}
+	"***15 seconds to Active Nymian Device***"
+	{
+		"trans"		"***设备启动于15秒后**"
+	}
+	"***Level:Normal"
+	{
+		"trans"		"***难度:普通**"
+	}
+	"***Look for RED,YELLOW,GREEN Nymian Devices***"
+	{
+		"trans"		"***寻找红/黄/绿色的设备***"
+	}
+	"***Enkidu appered***"
+	{
+		"trans"		"***BOSS已出现**"
+	}
+	"***Keep shooting Enkidu***"
+	{
+		"trans"		"***集火BOSS***"
+	}
+	"***10 seconds to Active Nymian Device***"
+	{
+		"trans"		"***设备启动于10秒后**"
+	}
+	"***Door opened***"
+	{
+		"trans"		"***门已开启***"
+	}
+	"***20 seconds to Activate Escape Elevator***"
+	{
+		"trans"		"***逃生电梯20秒后启动***"
+	}
+	"***Congratulations***"
+	{
+		"trans"		"***本关已破***"
+	}
+	"***Next Level Savage***"
+	{
+		"trans"		"***下一关:残酷***"
+	}
+	"***Map made by Altima***"
+	{
+		"trans"		"***Map made by Altima*** / Translate:F2A"
+	}
+	"***10 seconds to attack of the boss***"
+	{
+		"trans"		"***BOSS出现于10秒后***"
+	}
+	"***Attack of the boss***"
+	{
+		"trans"		"***BOSS来了***"
+	}
+	"***Level:Savage"
+	{
+		"trans"		"***难度:残酷***"
+	}
+	"***20 seconds to Activate Nymian Device***"
+	{
+		"trans"		"***设备启动于20秒后***"
+	}
+	"***Hold this position 35 seconds***"
+	{
+		"trans"		"***坚守35秒***"
+	}
+	"***10 seconds***"
+	{
+		"trans"		"***10秒剩余***"
+	}
+	"***Teleporter Activate***"
+	{
+		"trans"		"***传送点已启动***"
+	}
+	"***Location:The Binding Coil of Bahamut***"
+	{
+		"trans"		"***当前位置:巴哈姆特禁闭圈***"
+	}
+	"***Found Intruders!!!!!!!***"
+	{
+		"trans"		"***发现入侵者!***"
+	}
+	"***ADS........Activated***"
+	{
+		"trans"		"***ADS已被启动***"
+	}
+	"***ADS appeared***"
+	{
+		"trans"		"***ADS已现身***"
+	}
+	"***Keep shooting to ADS***"
+	{
+		"trans"		"***开枪集火ADS***"
+	}
+	"***ADS is selecting now...***"
+	{
+		"trans"		"***ADS:准备进攻***"
+	}
+	"*** Cauterize***"
+	{
+		"trans"		"***ADS释放了火***"
+	}
+	"*** Electro***"
+	{
+		"trans"		"***ADS释放了电***"
+	}
+	"*** Heavens Fall***"
+	{
+		"trans"		"***小心头顶落石!***"
+	}
+	"***ADS died***"
+	{
+		"trans"		"***ADS已被击败***"
+	}
+	"***45 seconds to MAP CLEAR***"
+	{
+		"trans"		"***地图净空于45秒后***"
+	}
+	"***Gravity ON***"
+	{
+		"trans"		"***低重力已开启***"
+	}
+	"***STAGE CLEAR***"
+	{
+		"trans"		"***关卡:净空领域***"
+	}
+	"***Texture Support by fujione***"
+	{
+		"blocked"		"1"
+	}
+	"***Next Level A Realm Reborn***"
+	{
+		"trans"		"***下一关:境界重生***"
+	}
+	"***Wait for 20 seconds***"
+	{
+		"trans"		"***坚守20秒***"
+	}
+	"***Look for Nymian Device***"
+	{
+		"trans"		"***寻找设备***"
+	}
+	"***A player found Nymian Device***"
+	{
+		"trans"		"***有玩家找到了设备***"
+	}
+	"*** 5 seconds***"
+	{
+		"trans"		"***5秒剩余***"
+	}
+	"***Break Fence***"
+	{
+		"trans"		"***开枪打碎围栏***"
+	}
+	"***10 seconds to Activate Nymian Device***"
+	{
+		"trans"		"***设备启动于10秒后***"
+	}
+	"***Enkidu died***"
+	{
+		"trans"		"***BOSS已被击败***"
+	}
+	"***Activated YELLOW Nymian Device***"
+	{
+		"trans"		"***黄色设备已启动***"
+	}
+	"***Activated GREEN Nymian Device***"
+	{
+		"trans"		"***绿色设备已启动***"
+	}
+	"***Activated RED Nymian Device***"
+	{
+		"trans"		"***红色设备已启动***"
+	}
+	"***Wait for 30 seconds"
+	{
+		"trans"		"***坚守30秒***"
+	}
+	"***Human Killer ON***"
+	{
+		"trans"		"***处死所有人类***"
+	}
+	"***Skill Unlocked***"
+	{
+		"trans"		"***地图神器已解锁***"
+	}
+	"***Level:A Realm Reborn***"
+	{
+		"trans"		"***关卡:境界重生***"
+	}
+	"***A player picked up Summoner Shadow Flare***"
+	{
+		"blocked"		"1"
+	}
+	"***Recast 60s***"
+	{
+		"trans"		"***60秒冷却时间***"
+	}
+	"***A player picked up Black Mage Flare***"
+	{
+		"blocked"		"1"
+	}
+	"***Recast 45s***"
+	{
+		"trans"		"***45秒冷却时间***"
+	}
+	"***Wait for 30 seconds***"
+	{
+		"trans"		"***坚守30秒***"
+	}
+	"***A player picked up Paladin Shild Oath"
+	{
+		"blocked"		"1"
+	}
+	"***Recast 70s***"
+	{
+		"trans"		"***70秒冷却时间***"
+	}
+	"***A player picked up Mount Night Mare***"
+	{
+		"blocked"		"1"
+	}
+	"***Recast 50s***"
+	{
+		"trans"		"***Recast 50s***"
+	}
+	"***30 seconds to Active Nymian Device***"
+	{
+		"trans"		"***设备启动于30秒后**"
+	}
+	"***Hold this position 20 seconds***"
+	{
+		"trans"		"***坚守20秒***"
+	}
+	"***Hold this position 60 seconds***"
+	{
+		"trans"		"***坚守60秒***"
+	}
+	"***Heavens Fall***"
+	{
+		"trans"		"***谨防头顶落石***"
+	}
+	"***Go to the Escape Elevator Tower***"
+	{
+		"trans"		"***前往逃生电梯塔台***"
+	}
+	"***20 seconds to Active Nymian Device***"
+	{
+		"trans"		"***设备启动于20秒后***"
+	}
+	"***30 seconds to Activate Escape Elevator***"
+	{
+		"trans"		"***逃生电梯30秒后启动***"
+	}
+	"***3***"
+	{
+		"trans"		"***3***"
+	}
+	"***2***"
+	{
+		"trans"		"***2***"
+	}
+	"***1***"
+	{
+		"trans"		"***1***"
+	}
+	"***Ravana Used Stop***"
+	{
+		"trans"		"***Ravana Used Stop***"
+	}
+	"***Next Level:Heavens Ward***"
+	{
+		"trans"		"***下一关:天空守卫***"
+	}
+	"***Level:Heavens Ward***"
+	{
+		"trans"		"***关卡:天空守卫***"
+	}
+	"***Hold this position 40 seconds***"
+	{
+		"trans"		"***坚守40秒***"
+	}
+	"***20 seconds to Activate Elevator"
+	{
+		"trans"		"***逃生电梯20秒后启动***"
+	}
+	"***30 seconds to Activate Elevator***"
+	{
+		"trans"		"***逃生电梯30秒后启动***"
+	}
+	"***30 seconds to Break Wall***"
+	{
+		"trans"		"***墙30秒后炸毁***"
+	}
+	"***40 seconds to Activate Telepoter"
+	{
+		"trans"		"***传送点40秒后启动***"
+	}
+	"***A player picked up White Mage Benediction***"
+	{
+		"blocked"		"1"
+	}
+	"***Recast 90s***"
+	{
+		"trans"		"***90秒冷却时间***"
+	}
+	"***A player picked up Bird Armys Paeon***"
+	{
+		"blocked"		"1"
+	}
+	"***Bahamut Prime appeared***"
+	{
+		"trans"		"***BOSS已出现"
+	}
+	"***Bahamut Prime has casting now***"
+	{
+		"trans"		"***BOSS正在预备工具***"
+	}
+	"***Akh Morn***"
+	{
+		"trans"		"***Akh Morn***"
+	}
+	"*** 3 ***"
+	{
+		"trans"		"*** 3 ***"
+	}
+	"*** 2 ***"
+	{
+		"trans"		"*** 2 ***"
+	}
+	"*** 1 ***"
+	{
+		"trans"		"*** 1 ***"
+	}
+	"***Earth Shaker***"
+	{
+		"trans"		"***Earth Shaker***"
+	}
+	"***Flare***"
+	{
+		"trans"		"***Flare***"
+	}
+	"***Bahamut Prime died***"
+	{
+		"trans"		"***BOSS已被击败***"
+	}
+	"***Go to the Escape Elevator***"
+	{
+		"trans"		"***前往逃生电梯***"
+	}
+	"***Elevator Gravity ON***"
+	{
+		"trans"		"***电梯位置低重力已开启***"
+	}
+	"***Hold this position to 15 seconds***"
+	{
+		"trans"		"***坚守15秒***"
+	}
+	"***Jump!***"
+	{
+		"trans"		"***跳!***"
+	}
+	"***ADS Attack***"
+	{
+		"trans"		"***ADS正在释放攻击***"
+	}
+	"***shoot ADS and Zombies***"
+	{
+		"trans"		"***朝ADS和僵尸开火***"
+	}
+	"***Tempest Wing***"
+	{
+		"blocked"		"1"
+	}
+	"***Recast 55s***"
+	{
+		"trans"		"***55秒冷却时间***"
+	}
+	"***A player picked up Paladin Shield Oath"
+	{
+		"blocked"		"1"
+	}
+	"***Recast 80s***"
+	{
+		"trans"		"***80秒冷却时间***"
+	}
+	"***Hold this position to 30 seconds***"
+	{
+		"trans"		"***坚守30秒***"
+	}
+	"***LASER***"
+	{
+		"trans"		"***激光"
+	}
+	"***The Wanderer's Palace Clear to 10 seconds***"
+	{
+		"trans"		"***流浪者宫殿净空于10秒后**"
+	}
+	"***The Wanderer's Palace CLEAR***"
+	{
+		"trans"		"***流浪者宫殿已被净空[地图已通关]"
+	}
+	"***Nael Van Durnas appeared***"
+	{
+		"trans"		"***Nael Van Durnas appeared***"
+	}
+	"***KILL HER***"
+	{
+		"trans"		"***KILL HER***"
+	}
+	"***Nael Van Darnus DIED***"
+	{
+		"trans"		"***Nael Van Darnus DIED***"
+	}
+	"***GO GO GO GO***"
+	{
+		"trans"		"***GO GO GO GO***"
+	}
+	"***The Wanderer's Palace Clear...?***"
+	{
+		"trans"		"***The Wanderer's Palace Clear...?***"
+	}
+	"***I will kill you guys***"
+	{
+		"trans"		"***I will kill you guys***"
+	}
+	"***Savage Nael appeared ***"
+	{
+		"trans"		"***Savage Nael appeared ***"
+	}
+	"***Dogde Last Lasers***"
+	{
+		"trans"		"***Dogde Last Lasers***"
+	}
+	"***Level:Secret Type-0***"
+	{
+		"trans"		"***Level:Secret Type-0***"
+	}
+	"***Hold this position to 70 seconds***"
+	{
+		"trans"		"***Hold this position to 70 seconds***"
+	}
+	"***The Wanderer's Palace Clear to 20 seconds***"
+	{
+		"trans"		"***The Wanderer's Palace Clear to 20 seconds***"
+	}
+	"***SECRET CLEAR ALLMODE COMPLETE***"
+	{
+		"trans"		"***SECRET CLEAR ALLMODE COMPLETE***"
+	}
+	"*** Mapping Help Airvulpes,Kune,thas,Rukly,Shufen ***"
+	{
+		"trans"		"*** Mapping Help Airvulpes,Kune,thas,Rukly,Shufen ***"
+	}
+	"*** Map made by Altima ***"
+	{
+		"trans"		"*** Map made by Altima ***"
+	}
+	"*** ze_ffxiv_wanderers_palace ***"
+	{
+		"trans"		"*** ze_ffxiv_wanderers_palace ***"
+	}
+	"*** Level:Normal ***"
+	{
+		"trans"		"*** Level:Normal ***"
+	}
+	"*** HINT: Activate Nymian Device ***"
+	{
+		"trans"		"*** HINT: Activate Nymian Device ***"
+	}
+	"*** 15 seconds to activate Nymian device ***"
+	{
+		"trans"		"*** 15 seconds to activate Nymian device ***"
+	}
+	"*** 5 seconds ***"
+	{
+		"trans"		"*** 5 seconds ***"
+	}
+	"*** 30 seconds to Activate Nymian device ***"
+	{
+		"trans"		"*** 30 seconds to Activate Nymian device ***"
+	}
+	"*** 15 seconds to Enkidu Battle and AFK Teleport ***"
+	{
+		"trans"		"*** 15 seconds to Enkidu Battle and AFK Teleport ***"
+	}
+	"*** Enkidu appeared ***"
+	{
+		"trans"		"*** Enkidu appeared ***"
+	}
+	"*** Shoot to Enkidu ***"
+	{
+		"trans"		"*** Shoot to Enkidu ***"
+	}
+	"*** 25 seconds to Activate Nymian device ***"
+	{
+		"trans"		"*** 25 seconds to Activate Nymian device ***"
+	}
+	"*** 10 seconds  ***"
+	{
+		"trans"		"*** 10 seconds  ***"
+	}
+	"*** Look for all of Nymian device ***"
+	{
+		"trans"		"*** Look for all of Nymian device ***"
+	}
+	"*** Nymian device 1 activated ***"
+	{
+		"trans"		"*** Nymian device 1 activated ***"
+	}
+	"*** Nymian device 4 activated ***"
+	{
+		"trans"		"*** Nymian device 4 activated ***"
+	}
+	"*** Nymian device 3 activated ***"
+	{
+		"trans"		"*** Nymian device 3 activated ***"
+	}
+	"*** Nymian device 2 activated ***"
+	{
+		"trans"		"*** Nymian device 2 activated ***"
+	}
+	"*** ALL Nymian device Activated ***"
+	{
+		"trans"		"*** ALL Nymian device Activated ***"
+	}
+	"*** 5 seconds to Activate Nymian device ***"
+	{
+		"trans"		"*** 5 seconds to Activate Nymian device ***"
+	}
+	"*** Normal Clear!! ***"
+	{
+		"trans"		"*** Normal Clear!! ***"
+	}
+	"*** Next Level Hard ***"
+	{
+		"trans"		"*** Next Level Hard ***"
+	}
+	"*** Level:Hard ***"
+	{
+		"trans"		"*** Level:Hard ***"
+	}
+	"*** 15 seconds to leave Tonberrys ***"
+	{
+		"trans"		"*** 15 seconds to leave Tonberrys ***"
+	}
+	"*** 20 seconds to activate Nymian device ***"
+	{
+		"trans"		"*** 20 seconds to activate Nymian device ***"
+	}
+	"*** 30 seconds to Open Road ***"
+	{
+		"trans"		"*** 30 seconds to Open Road ***"
+	}
+	"*** 30 seconds to Activate Nymian device  ***"
+	{
+		"trans"		"*** 30 seconds to Activate Nymian device  ***"
+	}
+	"*** 10 seconds   ***"
+	{
+		"trans"		"*** 10 seconds   ***"
+	}
+	"*** Location: The Navel ***"
+	{
+		"trans"		"*** Location: The Navel ***"
+	}
+	"*** Behemoth King Appeared ***"
+	{
+		"trans"		"*** Behemoth King Appeared ***"
+	}
+	"*** Shoot him ***"
+	{
+		"trans"		"*** Shoot him ***"
+	}
+	"*** Flare ***"
+	{
+		"trans"		"*** Flare ***"
+	}
+	"*** Enkidu dead ***"
+	{
+		"trans"		"*** Enkidu dead ***"
+	}
+	"*** Land Slide ***"
+	{
+		"trans"		"*** Land Slide ***"
+	}
+	"*** Heavens Fall ***"
+	{
+		"trans"		"*** Heavens Fall ***"
+	}
+	"*** Behemoth King dead ***"
+	{
+		"trans"		"*** Behemoth King dead ***"
+	}
+	"***45 seconds to HARD CLEAR***"
+	{
+		"trans"		"***45 seconds to HARD CLEAR***"
+	}
+	"***HARD CLEAR***"
+	{
+		"trans"		"***HARD CLEAR***"
+	}
+	"***Next Level Extreme***"
+	{
+		"trans"		"***Next Level Extreme***"
+	}
+	"*** Level:Extreme ***"
+	{
+		"trans"		"*** Level:Extreme ***"
+	}
+	"*** 35 seconds to activate Nymian device ***"
+	{
+		"trans"		"*** 35 seconds to activate Nymian device ***"
+	}
+	"*** 10 seconds ***"
+	{
+		"trans"		"*** 10 seconds ***"
+	}
+	"*** Chase the ADS ***"
+	{
+		"trans"		"*** Chase the ADS ***"
+	}
+	"*** 30 seconds to Open Door ***"
+	{
+		"trans"		"*** 30 seconds to Open Door ***"
+	}
+	"*** 45 seconds to Break Rocks ***"
+	{
+		"trans"		"*** 45 seconds to Break Rocks ***"
+	}
+	"***Bahamut Prime is Casting now***"
+	{
+		"trans"		"***Bahamut Prime is Casting now***"
+	}
+	"*** Recast 150s ***"
+	{
+		"trans"		"*** Recast 150s ***"
+	}
+	"***A player picked up Limit Break***"
+	{
+		"trans"		"***A player picked up Limit Break***"
+	}
+	"*** once only ***"
+	{
+		"trans"		"*** once only ***"
+	}
+	"***Bahamut Prime dead***"
+	{
+		"trans"		"***Bahamut Prime dead***"
+	}
+	"*** 15 seconds to activate Elevator ***"
+	{
+		"trans"		"*** 15 seconds to activate Elevator ***"
+	}
+	"*** 30 seconds to Open Wall ***"
+	{
+		"trans"		"*** 30 seconds to Open Wall ***"
+	}
+	"*** Dont Touch Water ***"
+	{
+		"trans"		"*** Dont Touch Water ***"
+	}
+	"*** Water is Death Zone ***"
+	{
+		"trans"		"*** Water is Death Zone ***"
+	}
+	"*** Nael Van Dahrnus Appeared ***"
+	{
+		"trans"		"*** Nael Van Dahrnus Appeared ***"
+	}
+	"*** Kill HER ***"
+	{
+		"trans"		"*** Kill HER ***"
+	}
+	"*** Nael Dead ***"
+	{
+		"trans"		"*** Nael Dead ***"
+	}
+	"*** Extreme CLEAR ***"
+	{
+		"trans"		"*** Extreme CLEAR ***"
+	}
+	"*** Next Level Savage ***"
+	{
+		"trans"		"*** Next Level Savage ***"
+	}
+	"*** Level:Savage ***"
+	{
+		"trans"		"*** Level:Savage ***"
+	}
+	"*** 30 seconds to Break Fence ***"
+	{
+		"trans"		"*** 30 seconds to Break Fence ***"
+	}
+	"*** HOLD 20 seconds ***"
+	{
+		"trans"		"*** HOLD 20 seconds ***"
+	}
+	"***Location: The Ragnarok ***"
+	{
+		"trans"		"***Location: The Ragnarok ***"
+	}
+	"*** Defend 45 seconds ***"
+	{
+		"trans"		"*** Defend 45 seconds ***"
+	}
+	"*** ADS ATTACK ***"
+	{
+		"trans"		"*** ADS ATTACK ***"
+	}
+	"*** Dalamud appeared ***"
+	{
+		"trans"		"*** Dalamud appeared ***"
+	}
+	"*** Dalamud the last boss ***"
+	{
+		"trans"		"*** Dalamud the last boss ***"
+	}
+	"*** Cauterize ***"
+	{
+		"trans"		"*** Cauterize ***"
+	}
+	"*** Shadow Flare ***"
+	{
+		"trans"		"*** Shadow Flare ***"
+	}
+	"*** True Bahamut appeared ***"
+	{
+		"trans"		"*** True Bahamut appeared ***"
+	}
+	"*** Steam Judge ***"
+	{
+		"trans"		"*** Steam Judge ***"
+	}
+	"*** Sentence to death ***"
+	{
+		"trans"		"*** Sentence to death ***"
+	}
+	"*** TOO LATE ***"
+	{
+		"trans"		"*** TOO LATE ***"
+	}
+	"*** Human Killer ON ***"
+	{
+		"trans"		"*** Human Killer ON ***"
+	}
+	"*** True Heavens fall ***"
+	{
+		"trans"		"*** True Heavens fall ***"
+	}
+	"*** True Bahamut dead ***"
+	{
+		"trans"		"*** True Bahamut dead ***"
+	}
+	"*** 45 seconds to Open Wall ***"
+	{
+		"trans"		"*** 45 seconds to Open Wall ***"
+	}
+	"*** True Tempest wing ***"
+	{
+		"trans"		"*** True Tempest wing ***"
+	}
+	"*** Savage CLEAR ***"
+	{
+		"trans"		"*** Savage CLEAR ***"
+	}
+	"*** Winners are Heroes of Light ***"
+	{
+		"trans"		"*** Winners are Heroes of Light ***"
+	}
+	"*** Model :Dakotec ***"
+	{
+		"trans"		"*** Model :Dakotec ***"
+	}
+	"*** Dead ***"
+	{
+		"trans"		"*** Dead ***"
+	}
+	"***Holm gang zombie incoming...***"
+	{
+		"trans"		"***Holm gang zombie incoming...***"
+	}
+	"*** Recast 95s ***"
+	{
+		"trans"		"*** Recast 95s ***"
+	}
+	"*** Odin Appeared ***"
+	{
+		"trans"		"*** Odin Appeared ***"
+	}
+	"*** Kill Odin ***"
+	{
+		"trans"		"*** Kill Odin ***"
+	}
+	"*** ADMIN BUTTON Level Normal ***"
+	{
+		"trans"		"*** ADMIN BUTTON Level Normal ***"
+	}
+	"*** ADMIN BUTTON Level Ultimate ***"
+	{
+		"trans"		"*** ADMIN BUTTON Level Ultimate ***"
+	}
+	"*** ze_ffxiv_wanderers_palace...? ***"
+	{
+		"trans"		"*** ze_ffxiv_wanderers_palace...? ***"
+	}
+	"*** Level:Ultimate ***"
+	{
+		"trans"		"*** Level:Ultimate ***"
+	}
+	"*** This mode is Secret mode ***"
+	{
+		"trans"		"*** This mode is Secret mode ***"
+	}
+	"*** Chances are once only ***"
+	{
+		"trans"		"*** Chances are once only ***"
+	}
+	"*** Level set .... Next Level Normal ***"
+	{
+		"trans"		"*** Level set .... Next Level Normal ***"
+	}
+	"*** Random Item breaker Activate... ***"
+	{
+		"trans"		"*** Random Item breaker Activate... ***"
+	}
+	"*** Armys Paeon ***"
+	{
+		"trans"		"*** Armys Paeon ***"
+	}
+	"*** Ultimate mode incoming.... ***"
+	{
+		"trans"		"*** Ultimate mode incoming.... ***"
+	}
+}

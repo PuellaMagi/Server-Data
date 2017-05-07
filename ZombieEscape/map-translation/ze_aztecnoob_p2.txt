@@ -2,10 +2,10 @@
 {
 	"* * * Speed boat leaving in 6s * * *"
 	{
-		"trans"		"[{darkred}Map{default}]  快艇离开于6秒后"
+		"trans"		"快艇离开于6秒后"
 	}
 	"* * * Hold this temple untill Steve does something * * *"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守到核爆触发!"
+		"trans"		"坚守到核爆触发!"
 	}
 }

@@ -2,11 +2,11 @@
 {
 	"*** CURRENT STAGE IS 1: Overworld ***"
 	{
-		"trans"		"[{darkred}Map{default}]  第一关"
+		"trans"		"***第一关"
 	}
 	"Map made by Cuniczek"
 	{
-		"trans"		"[{darkred}Map{default}] Map made by Cuniczek / Translate:F2A"
+		"trans"		"***Map made by Cuniczek / Translate:F2A"
 	}
 	"Thanks to Enviolinador & Kaesar"
 	{
@@ -14,323 +14,325 @@
 	}
 	"*** DEFEND 25 SECONDS ***"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守25秒"
+		"trans"		"***坚守25秒***"
 	}
 	"*** MINECARTS LEAVING IN 25 SEC ***"
 	{
-		"trans"		"[{darkred}Map{default}]  矿车离开于25秒后"
+		"trans"		"***矿车离开于25秒后**"
 	}
 	"*** 5 SECONDS REMAINING ***"
 	{
-		"trans"		"[{darkred}Map{default}]  5秒剩余"
+		"trans"		"***5秒剩余***"
 	}
 	"*** FALL BACK ***"
 	{
-		"trans"		"[{darkred}Map{default}]  撤退"
+		"trans"		"***撤退***"
 	}
 	"*** MINECARTS LEAVING IN 10 SEC ***"
 	{
-		"trans"		"[{darkred}Map{default}]  矿车离开于10秒后"
+		"trans"		"***矿车离开于10秒后**"
 	}
 	"*** GET INTO MINECARTS ***"
 	{
-		"trans"		"[{darkred}Map{default}]  快上矿车,车要走了"
+		"trans"		"***快上矿车,车要走了***"
 	}
 	"***HOLD CASTLE 35 SEC***"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守35秒"
+		"trans"		"***坚守35秒***"
 	}
 	"*** BOATS LEAVING IN 15 SEC ***"
 	{
-		"trans"		"[{darkred}Map{default}]  船离开于15秒后"
+		"trans"		"***船离开于15秒后**"
 	}
 	"*** 5 SEC REMAINING ***"
 	{
-		"trans"		"[{darkred}Map{default}]  5秒剩余"
+		"trans"		"***5秒剩余***"
 	}
 	"*** TNT EXPLODING IN 20 SEC ***"
 	{
-		"trans"		"[{darkred}Map{default}]  炸药爆破于20秒后"
+		"trans"		"***炸药爆破于20秒后***"
 	}
 	"*** TAKE PICKAXE AND BREAK OBSIDIAN TO BUILD PORTAL ***"
 	{
-		"trans"		"[{darkred}Map{default}]  拿十字镐敲开黑曜石以建造传送门"
+		"trans"		"***拿十字镐敲开黑曜石以建造传送门"
 	}
 	"*** FALL BACK INTO BOATS ***"
 	{
-		"trans"		"[{darkred}Map{default}]  撤到船上"
+		"trans"		"***撤到船上***"
 	}
 	"*** FALL BACK! PORTAL IS ACTIVATING IN 5 SECONDS ***"
 	{
-		"trans"		"[{darkred}Map{default}]  传送门5秒后启动,准备撤退!"
+		"trans"		"***传送门5秒后启动,准备撤退!***"
 	}
 	"*** BUNKER IS CLOSING IN 15 SEC ***"
 	{
-		"trans"		"[{darkred}Map{default}]  地堡门关闭于15秒后"
+		"trans"		"***地堡门关闭于15秒后**"
 	}
 	"*** BUNKER IS CLOSING ***"
 	{
-		"trans"		"[{darkred}Map{default}]  地堡门正在关闭"
+		"trans"		"***地堡门正在关闭"
 	}
 	"*** KILL ZOMBIES INSIDE!  ***"
 	{
-		"trans"		"[{darkred}Map{default}]  干掉闯进来的僵尸"
+		"trans"		"***干掉闯进来的僵尸"
 	}
 	"*** HUMANS WON! MOVING ON TO STAGE 2 ***"
 	{
-		"trans"		"[{darkred}Map{default}]  第一关已完成"
+		"trans"		"***第一关已完成***"
 	}
 	"*** CURRENT STAGE IS 2: The Nether ***"
 	{
-		"trans"		"[{darkred}Map{default}]  第二关*"
+		"trans"		"***第二关***"
 	}
 	"*** WALLS BREAK IN 15 SEC ***"
 	{
-		"trans"		"[{darkred}Map{default}]  墙碎开于15秒后"
+		"trans"		"***墙碎开于15秒后**"
 	}
 	"*** RESIST 15 SECONDS ***"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守15秒"
+		"trans"		"***坚守15秒***"
 	}
 	"*** RESIST 10 SECONDS ***"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守10秒"
+		"trans"		"***坚守10秒***"
 	}
 	"***RESIST 20 SECONDS***"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守20秒"
+		"trans"		"***坚守20秒***"
 	}
 	"***5 SECONDS REMAINING***"
 	{
-		"trans"		"[{darkred}Map{default}]  5秒剩余"
+		"trans"		"***5秒剩余***"
 	}
 	"*** RESIST 20 SECONDS ***"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守20秒"
+		"trans"		"***坚守20秒***"
 	}
 	"*** RESIST 25 SECONDS ***"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守25秒"
+		"trans"		"***坚守25秒***"
 	}
 	"*** RESIST 30 SECONDS ***"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守30秒"
+		"trans"		"***坚守30秒***"
 	}
 	"*** HOLD NETHERFORTRESS 30 SECONDS ***"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守30秒"
+		"trans"		"***坚守30秒***"
 	}
 	"*** EVERYONE GET INSIDE! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  进入BOSS房[准备大量高爆,BOSS出血条后再投掷]"
+		"trans"		"***进入BOSS房[准备大量高爆,BOSS出血条后再投掷]"
 	}
 	"*** GHAST HAS BEEN DEFEATED ***"
 	{
-		"trans"		"[{darkred}Map{default}]  BOSS已被击败"
+		"trans"		"***BOSS已被击败***"
 	}
 	"*** ESCAPE FROM THE NETHER!!! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  准备守最后一波!"
+		"trans"		"***准备守最后一波!***"
 	}
 	"*** ACTIVATE THE PORTAL USING FLINT AND STEEL ***"
 	{
-		"trans"		"[{darkred}Map{default}]  用火石和铁启动传送门"
+		"trans"		"***用火石和铁启动传送门***"
 	}
 	"*** 40 SECONDS REMAINING ***"
 	{
-		"trans"		"[{darkred}Map{default}]  离地底爆炸还有40秒"
+		"trans"		"***离地底爆炸还有40秒***"
 	}
 	"*** 30 SECONDS REMAINING ***"
 	{
-		"trans"		"[{darkred}Map{default}]  离地底爆炸还有30秒"
+		"trans"		"***离地底爆炸还有30秒***"
 	}
 	"*** 20 SECONDS REMAINING ***"
 	{
-		"trans"		"[{darkred}Map{default}]  离地底爆炸还有20秒"
+		"trans"		"***离地底爆炸还有20秒***"
 	}
 	"*** 10 SECONDS REMAINING ***"
 	{
-		"trans"		"[{darkred}Map{default}]  离地底爆炸还有10秒"
+		"trans"		"***离地底爆炸还有10秒***"
 	}
 	"*** STEEL HAS BEEN PICKED UP ***"
 	{
-		"trans"		"[{darkred}Map{default}]  铁块已被拾起"
+		"blocked"	"1"
+		"trans"		"***铁块已被拾起***"
 	}
 	"*** FLINT HAS BEEN PICKED UP ***"
 	{
-		"trans"		"[{darkred}Map{default}]  火石已被拾起"
+		"blocked"	"1"
+		"trans"		"***火石已被拾起***"
 	}
 	"*** HUMANS WON! MOVING ON TO STAGE 3 ***"
 	{
-		"trans"		"[{darkred}Map{default}]  第二个已完成"
+		"trans"		"***第二个已完成***"
 	}
 	"*** CURRENT STAGE IS 3: Jungle ***"
 	{
-		"trans"		"[{darkred}Map{default}]  第三关"
+		"trans"		"***第三关***"
 	}
 	"*** YOU HAVE TO STAND ON ALL PRESSURE PLATES TO OPEN THE DOOR ***"
 	{
-		"trans"		"[{darkred}Map{default}]  去点人站在压力板上触发机关开门"
+		"trans"		"***去点人站在压力板上触发机关开门***"
 	}
 	"*** WELL DONE! NOW PRESS 2 LEVERS TO OPEN NEXT DOOR ***"
 	{
-		"trans"		"[{darkred}Map{default}]  触发两根杠杆以开门"
+		"trans"		"***触发两根杠杆以开门***"
 	}
 	"*** WELL DONE! NEXT DOOR IS OPENING IN 30SEC ***"
 	{
-		"trans"		"[{darkred}Map{default}]  门已完全触发,开启于30秒后"
+		"trans"		"***门已完全触发,开启于30秒后***"
 	}
 	"*** NEXT DOOR OPENS IN 20 SECONDS ***"
 	{
-		"trans"		"[{darkred}Map{default}]  门开启于20秒后"
+		"trans"		"***门开启于20秒后***"
 	}
 	"*** FIND A WAY TO OPEN THIS DOOR ***"
 	{
-		"trans"		"[{darkred}Map{default}]  设法开这扇门"
+		"trans"		"***设法开这扇门***"
 	}
 	"*** THIS SHOULD WORK ***"
 	{
-		"trans"		"[{darkred}Map{default}]  这样就应该可以了"
+		"trans"		"***这样就应该可以了***"
 	}
 	"*** FIND REDSTONE TORCHES AND PUT THEM IN PLACE TO OPEN THE DOOR ***"
 	{
-		"trans"		"[{darkred}Map{default}]  找到红石火炬并放对地方以开门"
+		"trans"		"***找到红石火炬并放对地方以开门"
 	}
 	"*** DOOR IS OPENING ***"
 	{
-		"trans"		"[{darkred}Map{default}]  门正在开启"
+		"trans"		"***门正在开启***"
 	}
 	"*** NICELY DONE! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  干的阔以!"
+		"trans"		"***干的阔以!***"
 	}
 	"*** DOOR OPENS IN 20 SEC ***"
 	{
-		"trans"		"[{darkred}Map{default}]  门开于20秒后"
+		"trans"		"***门开于20秒后***"
 	}
 	"*** DEFEND FOR 40 SEC OR PRESS 2 BUTTONS AT THE SAME TIME ***"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守40秒=或者=同时触发对两个按钮"
+		"trans"		"***坚守40秒=或者=同时触发对两个按钮***"
 	}
 	"*** FALL BACK DOOR IS OPENING ***"
 	{
-		"trans"		"[{darkred}Map{default}] 门已打开,撤退"
+		"trans"		"***门已打开,撤退***"
 	}
 	"*** SOLVE THE PUZZLE OR RESIST 30 SECONDS ***"
 	{
-		"trans"		"[{darkred}Map{default}]  解决谜题=或者=坚守30秒"
+		"trans"		"***解决谜题=或者=坚守30秒***"
 	}
 	"*** MOVE ON! NEXT DOOR IS OPENING ***"
 	{
-		"trans"		"[{darkred}Map{default}]  门已打开"
+		"trans"		"***门已打开***"
 	}
 	"Yes! We have found it! The Eyes of Ender. Now we can find Stronghold."
 	{
-		"trans"		"[{darkred}Map{default}]  末影之眼已被拾起."
+		"trans"		"***末影之眼已被拾起.***"
 	}
 	"*** GET ON TOP OF THE TEMPLE AND RESIST 60 SECONDS ***"
 	{
-		"trans"		"[{darkred}Map{default}]  在屋顶坚守60秒"
+		"trans"		"***在屋顶坚守60秒***"
 	}
 	"*** 50 SECONDS REMAINING ***"
 	{
-		"trans"		"[{darkred}Map{default}]  50秒剩余"
+		"trans"		"***50秒剩余***"
 	}
 	"*** KILL ZOMBIES ON TOP!  ***"
 	{
-		"trans"		"[{darkred}Map{default}]  干掉爬上来的僵尸"
+		"trans"		"***干掉爬上来的僵尸***"
 	}
 	"*** HUMANS WON! MOVING ON TO STAGE 4 ***"
 	{
-		"trans"		"[{darkred}Map{default}]  第三关已完成"
+		"trans"		"***第三关已完成***"
 	}
 	"*** CURRENT STAGE IS 4: The End ***"
 	{
-		"trans"		"[{darkred}Map{default}]  第四关"
+		"trans"		"***第四关***"
 	}
 	"*** THROW EYE OF ENDER BY USING IT ***"
 	{
-		"trans"		"[{darkred}Map{default}]  按E用掉末影之眼"
+		"trans"		"***按E用掉末影之眼***"
 	}
-	"We must follow the eye of ender to locate Stronghold!"
+	"We must follow the eye of ender to locate Stronghold!***"
 	{
-		"trans"		"[{darkred}Map{default}]  跟随末影之眼找到要塞入口"
+		"trans"		"***跟随末影之眼找到要塞入口***"
 	}
 	"*** RUN INTO DESERT AND RESIST FOR A WHILE ***"
 	{
-		"trans"		"[{darkred}Map{default}]  在沙丘上坚守到僵尸传送"
+		"trans"		"***在沙丘上坚守到僵尸传送***"
 	}
 	"Eye of ender fell into ocean! We better go and explore caves beneath ugly looking spanish house."
 	{
-		"trans"		"[{darkred}Map{default}]  看来入口在那个房子里."
+		"trans"		"***看来入口在那个房子里.***"
 	}
 	"*** RUN INTO HOUSE ***"
 	{
-		"trans"		"[{darkred}Map{default}]  进入房子"
+		"trans"		"***进入房子***"
 	}
 	"*** RESIST FOR 30 SECONDS ***"
 	{
-		"trans"		"[{darkred}Map{default}]  守到房子一楼地道打开"
+		"trans"		"***守到房子一楼地道打开***"
 	}
 	"*** FALL BACK 5 SECONDS REMAINING ***"
 	{
-		"trans"		"[{darkred}Map{default}]  5秒剩余"
+		"trans"		"***5秒剩余***"
 	}
 	"*** GO INTO UNDERGROUND ***"
 	{
-		"trans"		"[{darkred}Map{default}]  从房子一楼地道进入地下"
+		"trans"		"***从房子一楼地道进入地下***"
 	}
 	"*** PORTAL IS ACTIVATING IN 35 SECONDS ***"
 	{
-		"trans"		"[{darkred}Map{default}]  传送点35秒后启动"
+		"trans"		"***传送点35秒后启动***"
 	}
 	"*** WE DID IT! WE ARE IN THE END! NOW... WE HAVE TO BREAK CRYSTALS AND... FIGHT... THE DRAGON ***"
 	{
-		"trans"		"[{darkred}Map{default}]  打爆水晶然后干烂末影龙"
+		"trans"		"***打爆水晶然后干烂末影龙***"
 	}
 	"*** ALL CRYSTALS ARE BROKEN ***"
 	{
-		"trans"		"[{darkred}Map{default}]  所有水晶已被摧毁"
+		"trans"		"***所有水晶已被摧毁***"
 	}
 	"*** GET IN THE MIDDLE WE HAVE TO FIGHT THE DRAGON ***"
 	{
-		"trans"		"[{darkred}Map{default}]  集合准备迎战末影龙"
+		"trans"		"***集合准备迎战末影龙***"
 	}
 	"*** WELL DONE! NEXT DOOR OPENS IN 5 SEC ***"
 	{
-		"trans"		"[{darkred}Map{default}]  门开于5秒后"
+		"trans"		"***门开于5秒后**"
 	}
 	"*** THE DRAGON IS DEAD ***"
 	{
-		"trans"		"[{darkred}Map{default}]  末影龙被我们干烂了"
+		"trans"		"***末影龙被我们干烂了***"
 	}
 	"*** JUMP INTO THE PORTAL ***"
 	{
-		"trans"		"[{darkred}Map{default}]  跳进传送点"
+		"trans"		"***跳进传送点***"
 	}
 	"*** RUN!! WE MUST ESCAPE!!! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  快跑路!"
+		"trans"		"***快跑路!***"
 	}
 	"*** WE SHOULD HOLD THIS ROOM AS LONG AS POSSIBLE ***"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守这间房子到门关!"
+		"trans"		"***坚守这间房子到门关!***"
 	}
 	"He's watching you..."
 	{
-		"trans"		"[{darkred}Map{default}]  有什么东西在盯着我们..."
+		"trans"		"***有什么东西在盯着我们...***"
 	}
 	"*** HEROBRINE! KILL HIM! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  淦烂这个智障!"
+		"trans"		"***淦烂这个智障!***"
 	}
 	"*** HE'S RUNNING AWAY! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  这个智障被我们打跑了!"
+		"trans"		"***这个智障被我们打跑了!***"
 	}
 	"*** CONGRATULATIONS YOU HAVE BEATEN THE MAP ***"
 	{
-		"trans"		"[{darkred}Map{default}]  地图已通关"
+		"trans"		"***地图已通关***"
 	}
 	"*** Map made by Cuniczek ***"
 	{

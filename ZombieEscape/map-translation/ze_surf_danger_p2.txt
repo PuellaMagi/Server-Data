@@ -2,7 +2,7 @@
 {
 	">>>Respawn wall break in 20 sec<<<"
 	{
-		"trans"		"[{darkred}Map{default}] 重生点的墙20秒后破碎"
+		"trans"		"重生点的墙20秒后破碎"
 	}
 	">>>Map by Explay<<<"
 	{
@@ -14,7 +14,7 @@
 	}
 	">>>Defend this place 1 min 15 sec<<<"
 	{
-		"trans"		"[{darkred}Map{default}] 防御这里1分15秒"
+		"trans"		"防御这里1分15秒"
 	}
 	">>>This song is Immediate Music Imperativa<<<"
 	{
@@ -22,95 +22,95 @@
 	}
 	">>>Teleporting all humans to ZM defend...<<<"
 	{
-		"trans"		"[{darkred}Map{default}] 传送所有人类到僵尸防守点"
+		"trans"		"传送所有人类到僵尸防守点"
 	}
 	">>>Teleporting all Zombies<<<"
 	{
-		"trans"		"[{darkred}Map{default}] 传送所有僵尸"
+		"trans"		"传送所有僵尸"
 	}
 	">>>Teleporting everyone in 30 sec<<<"
 	{
-		"trans"		"[{darkred}Map{default}] 30秒后传送所有人"
+		"trans"		"30秒后传送所有人"
 	}
 	">>>Teleporting everyone in 5 sec<<<"
 	{
-		"trans"		"[{darkred}Map{default}] 5秒后传送所有人"
+		"trans"		"5秒后传送所有人"
 	}
 	">>>If you cant pass SURF try to pass XC level<<<"
 	{
-		"trans"		"[{darkred}Map{default}] 不会滑翔的玩家请去旁边XC"
+		"trans"		"不会滑翔的玩家请去旁边XC"
 	}
 	">>>TIP: If you will pass XC level You receive 5 frags<<<"
 	{
-		"trans"		"[{darkred}Map{default}] 提示:通过XC就能得到5分"
+		"trans"		"提示:通过XC就能得到5分"
 	}
 	">>>TIP: If you will pass SURF level You receive 10 frags<<<"
 	{
-		"trans"		"[{darkred}Map{default}] 提示:通过滑翔就能得到10分"
+		"trans"		"提示:通过滑翔就能得到10分"
 	}
 	">>>Door will open in 30 sec<<<"
 	{
-		"trans"		"[{darkred}Map{default}] 大门开于30秒后"
+		"trans"		"大门开于30秒后"
 	}
 	">>>Teleporting all humans...<<<"
 	{
-		"trans"		"[{darkred}Map{default}] 传送所有人类..."
+		"trans"		"传送所有人类..."
 	}
 	">>>Teleporting all Zombies...<<<"
 	{
-		"trans"		"[{darkred}Map{default}] 传送所有僵尸..."
+		"trans"		"传送所有僵尸..."
 	}
 	">>>Door will Open in 3 sec. PREPARE TO RUN<<<"
 	{
-		"trans"		"[{darkred}Map{default}] 大门开于3秒后，准备跑路!"
+		"trans"		"大门开于3秒后，准备跑路!"
 	}
 	">>>This song is Two step from hell Dragon Rider<<<"
 	{
 		"blocked"		"1"
-		"trans"		"[{darkred}Map{default}] This song is Two step from hell Dragon Rider"
+		"trans"		"This song is Two step from hell Dragon Rider"
 	}
 	">>>Teleport enable in 20 sec<<<"
 	{
-		"trans"		"[{darkred}Map{default}] 传送点20秒后开启"
+		"trans"		"传送点20秒后开启"
 	}
 	">>>If you can pass final SURF level you receive 10 of frags<<<"
 	{
-		"trans"		"[{darkred}Map{default}] 如果你滑过最终滑翔你会得到10分"
+		"trans"		"如果你滑过最终滑翔你会得到10分"
 	}
 	">>>Final Door open in 20 sec<<<"
 	{
-		"trans"		"[{darkred}Map{default}] 最后的大门20秒后打开"
+		"trans"		"最后的大门20秒后打开"
 	}
 	">>>OK Final door is open : 1 player must go to control room and launch nuke<<< "
 	{
-		"trans"		"[{darkred}Map{default}] 最终大门已经打开 : 2个玩家去按核弹[一人卡门一人按按钮] "
+		"trans"		"最终大门已经打开 : 2个玩家去按核弹[一人卡门一人按按钮] "
 	}
 	">>>Self Destruction Actived<<<"
 	{
-		"trans"		"[{darkred}Map{default}] 基地自毁程序开启"
+		"trans"		"基地自毁程序开启"
 	}
 	">>>Helidoor is opening<<<"
 	{
-		"trans"		"[{darkred}Map{default}] 直升机门正在打开"
+		"trans"		"直升机门正在打开"
 	}
 	">>>TIP:Cargo is open : you can defend in the helicopter"
 	{
-		"trans"		"[{darkred}Map{default}] 直升机机舱打开了，可以进去防守"
+		"trans"		"直升机机舱打开了，可以进去防守"
 	}
 	">>>Heli Leaving in 12 sec. Hurry!!!<<<"
 	{
-		"trans"		"[{darkred}Map{default}] 直升机12秒后起飞，快上飞机!!"
+		"trans"		"直升机12秒后起飞，快上飞机!!"
 	}
 	">>>Oh NO! Barrels with explosive is BURN! Its Will blow up it is Some seconds!<<<"
 	{
-		"trans"		"[{darkred}Map{default}] 几秒钟之后将要爆炸啦!"
+		"trans"		"几秒钟之后将要爆炸啦!"
 	}
 	">>>Door open in 5 sec<<<"
 	{
-		"trans"		"[{darkred}Map{default}] 大门5秒后打开"
+		"trans"		"大门5秒后打开"
 	}
 	">>>Secret pistols picked up<<<"
 	{
-		"trans"		"[{darkred}Map{default}] >>>Secret pistols picked up<<<"
+		"blocked"		"1"
 	}
 }

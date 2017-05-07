@@ -2,7 +2,7 @@
 {
 	"*** YOU ARE PLAYING ON EASY DIFFICULTY!! NOOBS!! ***"
 	{
-		"trans"		"[{darkred}Map{default}] 当前难度:简单"
+		"trans"		"当前难度:简单"
 	}
 	"*** For sugestions and bug reports or any information contact me on steam Steam Community ID --> JackBauer123 ***"
 	{
@@ -14,57 +14,55 @@
 	}
 	"*** Escape! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  傻哗们还不跑!?"
+		"trans"		"傻哗们还不跑!?"
 	}
 	"*** Level B Door Opens in 25 Seconds ***"
 	{
-		"countdown"		"25"
-		"trans"		"[{darkred}Map{default}]  大门25秒后开启"
+		"trans"		"大门25秒后开启"
 	}
 	"*** Level B Door Opens in 15 Seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  大门15秒后开启"
+		"trans"		"大门15秒后开启"
 	}
 	"*** Zombies Has Reached The Checkpoint ***"
 	{
-		"trans"		"[{darkred}Map{default}]  僵尸传送点已前移"
+		"trans"		"僵尸传送点已前移"
 	}
 	"*** The Train Will Leave in 5 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  火车5秒后离开"
+		"trans"		"火车5秒后离开"
 	}
 	"*** To use the barricade hammer press LEFT MOUSE button for wood go up, RIGHT MOUSE for wood go down, and LEFT+RIGHT MOUSE button for place a wood barricade! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家拾起了木板钉锤 [单独按住左/右键控制木板位置;左右键同时按下放置木板]"
+		"trans"		"有玩家拾起了木板钉锤 [单独按住左/右键控制木板位置;左右键同时按下放置木板]"
 	}
 	"*** Level B Door Opens in 5 Seconds ***"
 	{
-		"countdown"		"5"
-		"trans"		"[{darkred}Map{default}]  大门5秒后开启"
+		"trans"		"大门5秒后开启"
 	}
 	"*** You Must Wait For Your Team ***"
 	{
-		"trans"		"[{darkred}Map{default}]  贴门人士请等等你的队友"
+		"trans"		"贴门人士请等等你的队友"
 	}
 	"*** THE MOVING CHECKPOINT WILL GO TO THE SPACE AREA IN 15 SECONDS!! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  传送点15秒后前移!"
+		"trans"		"传送点15秒后前移!"
 	}
 	"*** Press RIGHT MOUSE BUTTON to freeze the water with this gun!! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家拾起了冰冻枪 [对水面右键冰冻出可行走冰块,该玩家可独自使用一条密道]"
+		"trans"		"有玩家拾起了冰冻枪 [对水面右键冰冻出可行走冰块,该玩家可独自使用一条密道]"
 	}
 	"*** HOLD LEFT MOUSE BUTTON to charge this plasma gun, and PRESS RIGHT MOUSE BUTTON TOGETHER TO SHOOT!! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家拾起了离子炮 [按住左键充能,充能后不放手并按住右键发射,可秒杀直线上的所有僵尸以及BOSS,只能使用一次!!]"
+		"trans"		"有玩家拾起了离子炮 [按住左键充能,充能后不放手并按住右键发射,可秒杀直线上的所有僵尸以及BOSS,只能使用一次!!]"
 	}
 	"*** WAIT WHILE THE PORTAL IS BEING OPENED!!!! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守至传送门启动!"
+		"trans"		"坚守至传送门启动!"
 	}
 	"*** THE PORTAL IS OPEN!!! GO!!!! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  传送门已启动!撤退!"
+		"trans"		"传送门已启动!撤退!"
 	}
 	"*** THAT BIG X ON THE RIGHT IS A SECRET PATH THAT ONLY THE ICE GUN HOLDER CAN GO! ***"
 	{
@@ -72,144 +70,141 @@
 	}
 	"*** Exit Door Opens in 15 Seconds ***"
 	{
-		"countdown"		"15"
-		"trans"		"[{darkred}Map{default}]  出口15秒后开放"
+		"trans"		"出口15秒后开放"
 	}
 	"*** Exit Door Opens in 5 Seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  出口5秒后开放"
+		"trans"		"出口5秒后开放"
 	}
 	"*** THIS ELEVATOR IS HAUNTED, YOU MAY BE LUCKY IF YOU SURVIVE!!! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  是时候检验下电梯里有没有非提了..."
+		"trans"		"是时候检验下电梯里有没有非提了..."
 	}
 	"*** BREAK THE BLUE BARREL TO PLAY AS THE TANK!!! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  破坏蓝色油罐即可扮演BOSS!"
+		"trans"		"破坏蓝色油罐即可扮演BOSS!"
 	}
 	"*** The Lake Water Got Contaminated ***"
 	{
-		"trans"		"[{darkred}Map{default}]  湖水已被腐蚀 [拥有防化服的人类可无视]"
+		"trans"		"湖水已被腐蚀 [拥有防化服的人类可无视]"
 	}
 	"*** THE TANK WILL AUTO DIE IN 60 SECONDS IF ITS NOT KILLED BY THE HUMANS!!! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  坦克若60秒后仍未被人类击杀的话将被处死"
+		"trans"		"坦克若60秒后仍未被人类击杀的话将被处死"
 	}
 	"*** Eletric Fence Disabled ***"
 	{
-		"trans"		"[{darkred}Map{default}]  高压围栏已跳闸"
+		"trans"		"高压围栏已跳闸"
 	}
 	"*** The Helicopter is coming ***"
 	{
-		"trans"		"[{darkred}Map{default}]  直升机正在路上"
+		"trans"		"直升机正在路上"
 	}
 	"*** Rescue ETA in 1 minute ***"
 	{
-		"countdown"		"60"
-		"trans"		"[{darkred}Map{default}]  1分钟后抵达"
+		"trans"		"1分钟后抵达"
 	}
 	"*** BREAK THE BRIDGE LADDER TO HOLD THE ZOMBIES!!!! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  开枪打碎梯子以阻挡僵尸 [梯子可击碎2次]"
+		"trans"		"开枪打碎梯子以阻挡僵尸 [梯子可击碎2次]"
 	}
 	"*** Detonation in 3 Seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  城门前掩体3秒后爆破"
+		"trans"		"城门前掩体3秒后爆破"
 	}
 	"*** The Helicopter Will Depart in 30 seconds ***"
 	{
-		"countdown"		"30"
-		"trans"		"[{darkred}Map{default}]  直升机30秒后起飞"
+		"trans"		"直升机30秒后起飞"
 	}
 	"*** The Helicopter Will Depart in 20 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  直升机20秒后起飞"
+		"trans"		"直升机20秒后起飞"
 	}
 	"*** The Helicopter Will Depart in 10 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  直升机10秒后起飞"
+		"trans"		"直升机10秒后起飞"
 	}
 	"*** The Helicopter Will Depart in 5 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  直升机5秒后起飞"
+		"trans"		"直升机5秒后起飞"
 	}
 	"*** The Helicopter is Departing ***"
 	{
-		"trans"		"[{darkred}Map{default}]  直升机已起飞"
+		"trans"		"直升机已起飞"
 	}
 	"*** Rocket in 10 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  全图核爆于10秒后"
+		"trans"		"全图核爆于10秒后"
 	}
 	"*** Press RIGHT MOUSE BUTTON to push things away with this gun! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家拾起了驱逐枪 [单机右键推开前方范围僵尸]"
+		"trans"		"有玩家拾起了驱逐枪 [单机右键推开前方范围僵尸]"
 	}
 	"*** CASTLE DOOR IS CLOSING IN 5 SECONDS ***"
 	{
-		"trans"		"[{darkred}Map{default}]  城门5秒后关闭"
+		"trans"		"城门5秒后关闭"
 	}
 	"*** Rocket in 5 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  全图核爆于5秒后"
+		"trans"		"全图核爆于5秒后"
 	}
 	"*** Rocket Launched ***"
 	{
-		"trans"		"[{darkred}Map{default}]  全图核爆启动"
+		"trans"		"全图核爆启动"
 	}
 	"*** YOU ARE PLAYING ON MEDIUM DIFFICULTY!! KIDS!! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  当前难度:中等"
+		"trans"		"当前难度:中等"
 	}
 	"*** THE ICE GUN HOLDER HAS 60 SECONDS TO LEAVE THE VENTS BEFORE THE ANTI CAMPER ACTIVATES! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  持有冰冻枪的玩家请在60秒内通过密道，否则将被传送!"
+		"trans"		"持有冰冻枪的玩家请在60秒内通过密道，否则将被传送!"
 	}
 	"*** THE ICE GUN HOLDER HAS 10 MORE SECONDS TO LEAVE THE VENTS BEFORE THE ANTI CAMPER ACTIVATES! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  持有冰冻枪的玩家还有10秒离开密道，否则将被传送!"
+		"trans"		"持有冰冻枪的玩家还有10秒离开密道，否则将被传送!"
 	}
 	"*** THE BIG ROCK ON THE WOOD PLATFORM CAN BE BROKEN BY THE TANK WITH ARROUND 5 PUNCHS"
 	{
 		"ROCKS!!! ***"
 		{
-			"trans"		"[{darkred}Map{default}]  码头上的石头只能抵挡住BOSS五次攻击!"
+			"trans"		"码头上的石头只能抵挡住BOSS五次攻击!"
 		}
 	}
 	"*** Boat Leaving in 5 Seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  快艇5秒后驶离"
+		"trans"		"快艇5秒后驶离"
 	}
 	"*** YOU HAVE TO GO TO THE HOUSE THIS TIME!! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  请进入房子打穿地道!"
+		"trans"		"请进入房子打穿地道!"
 	}
 	"*** YOU ARE PLAYING ON HARD DIFFICULTY GUYS!! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  当前难度:困难"
+		"trans"		"当前难度:困难"
 	}
 	"*** JUMP ON THE CEILING TO HOLD ON IT! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  *** JUMP ON THE CEILING TO HOLD ON IT! ***"
+		"blocked"		"1"
 	}
 	"*** THE LADDER WILL NOT BREAK ANYMORE! FALL BACK!! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** THE LADDER WILL NOT BREAK ANYMORE! FALL BACK!! ***"
+		"blocked"		"1"
 	}
 	"*** ADMIN SWITCHED DIFFICULT TO EXTREME FOR THE NEXT ROUND!! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** ADMIN SWITCHED DIFFICULT TO EXTREME FOR THE NEXT ROUND!! ***"
+		"blocked"		"1"
 	}
 	"*** ADMIN SWITCHED DIFFICULT TO EASY FOR THE NEXT ROUND!! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** ADMIN SWITCHED DIFFICULT TO EASY FOR THE NEXT ROUND!! ***"
+		"blocked"		"1"
 	}
 	"*** ADMIN SWITCHED DIFFICULT TO MEDIUM FOR THE NEXT ROUND!! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** ADMIN SWITCHED DIFFICULT TO MEDIUM FOR THE NEXT ROUND!! ***"
+		"blocked"		"1"
 	}
 	"*** ADMIN SWITCHED DIFFICULT TO HARD FOR THE NEXT ROUND!! ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** ADMIN SWITCHED DIFFICULT TO HARD FOR THE NEXT ROUND!! ***"
+		"blocked"		"1"
 	}
 }
