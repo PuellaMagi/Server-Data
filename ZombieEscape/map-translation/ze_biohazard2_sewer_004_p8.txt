@@ -34,15 +34,15 @@
 	}
 	"***START TRAIN 20 SEC ***"
 	{
-		"trans"		"***火车平台将在20秒后下降***"
+		"trans"		"***电缆列车将在20秒后启动***"
 	}
 	"*** START TRAIN 10 SEC ***"
 	{
-		"trans"		"***火车平台将在10秒后下降***"
+		"trans"		"***电缆列车将在10秒后启动***"
 	}
 	"***START ELEVATOR 25 SEC***"
 	{
-		"trans"		"***升降机将在25秒后下降***"
+		"trans"		"***列车平台将在25秒后下降***"
 	}
 	"*** GAS ACTIVATED 40 SEC ***"
 	{
