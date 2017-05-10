@@ -1,0 +1,119 @@
+w"Chat"
+{
+	"***Turtle Reactions - Anima Ruins***"
+	{
+		"trans"		"***<灵魂废墟——扭曲反应>翻译DohiCircle***"
+	}
+	"***Stage 1 - Ruins***"
+	{
+		"trans"		"***关卡1——废墟***"
+	}
+	"*Gate 1 will open in 30 sec*"
+	{
+		"trans"		"*第一道大门将在30秒后打开*"
+	}
+	"*Gate 1 Opening*"
+	{
+		"trans"		"*第一道大门已打开*"
+	}
+	"*Gate 2 will open in 30 sec*"
+	{
+		"trans"		"*第二道大门将在30秒后打开*"
+	}
+	"*Gate 2 Opening*"
+	{
+		"trans"		"*第二道大门已打开*"
+	}
+	"*Defend here for 20 seconds*"
+	{
+		"trans"		"*防守这里20秒*"
+	}
+	"*10 Seconds to prepare before zombies released*"
+	{
+		"trans"		"*10秒后僵尸出笼*"
+	}
+	"*Survive for 60 seconds, Good Luck*"
+	{
+		"trans"		"*找个地方生存60秒，祝你们好运*"
+	}
+	"*FALL BACK*"
+	{
+		"trans"		"*撤退!!!!*"
+	}
+	"*Zombies released in 20 seconds - Get Ready*"
+	{
+		"trans"		"*20秒后僵尸出笼*"
+	}
+	"*Defend up here for 40 seconds*"
+	{
+		"trans"		"*在这里防守40秒*"
+	}
+	"*RUN! Zombies released in 15 seconds*"
+	{
+		"trans"		"*15秒后僵尸出笼*"
+	}
+	"*Zombies got through - FAIL ROUND*"
+	{
+		"trans"		"*僵尸达到了平台——你们输了*"
+	}
+	"*Defend for 30 seconds - DO NOT LET ZOMBIES GET THROUGH*"
+	{
+		"trans"		"*防守30秒 别让僵尸靠近这里*"
+	}
+	"***Stage 2 - Within the Ruin***"
+	{
+		"trans"		"***关卡2——废墟内***"
+	}
+	"*Defend for 20 seconds*"
+	{
+		"trans"		"*防守20秒*"
+	}
+	"*Defend here for 30 seconds*"
+	{
+		"trans"		"*在这防守30秒*"
+	}
+	"*Zombies released in 12 seconds*"
+	{
+		"trans"		"*12秒后僵尸出笼*"
+	}
+	"*LASERS AHEAD*"
+	{
+		"trans"		"*飞刀来袭!*"
+	}
+	"*Defend for 30 seconds*"
+	{
+		"trans"		"*防守30秒*"
+	}
+	"*Jump down in the middle*"
+	{
+		"trans"		"*往中间跳!!!*"
+	}
+	"*Beat Anima in 3 Mins*"
+	{
+		"trans"		"*请在3分钟内打爆外道魔像*"
+	}
+	"***ANIMA HAS AWAKEN - GIVE IT ALL YOU HAVE***"
+	{
+		"trans"		"***外道魔像醒来了 开火全开!!!!!***"
+	}
+	"*Anima uses LASER*"
+	{
+		"trans"		"*<外道魔像> 放出了 <死亡飞刀>*"
+	}
+	"*Anima uses PAIN*"
+	{
+		"trans"		"*<外道魔像> 放出了 <澄澈毒水>*"
+	}
+	"*Anima uses COLLAPSE*"
+	{
+		"trans"		"*<外道魔像> 放出了 <裂地塌陷>*"
+	}
+	"*10 SECONDS REMAINING*"
+	{
+		"trans"		"*你们还有10秒 赶快!!!*"
+	}
+	"*Anima uses OBLIVIONS END*"
+	{
+		"trans"		"*<外道魔像> 放出了 <灵魂叹息>*"
+	}
+}

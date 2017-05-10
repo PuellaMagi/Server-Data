@@ -1,0 +1,359 @@
+"Chat"
+{
+	">> WARMUP ROUND <<"
+	{
+		"trans"		">>热身局<<"
+	}
+	"*** Map By P'a'ss and Kim ***"
+	{
+		"trans"		"***<上古卷轴>作者P'a'ss & Kim 翻译DohiCircle***"
+	}
+	">>> mat_colorcorrection 1 IN CONSOLE FOR BETTER VISUALS <<<"
+	{
+		"trans"		">>>在控制台输入mat_colorcorrection 1获得更好的视觉效果<<<"
+	}
+	">>> After winning a round you will get 100 points which equals with 1 level  <<<"
+	{
+		"trans"		">>>每当你通过一关可以获得100分，本服务器以MVP星数表示<<<"
+	}
+	">>> Level 1 item requires 100 points Level 2 item requires 200 points and so on. <<<"
+	{
+		"trans"		">>>等级1的皮肤需要100分，等级2的皮肤需要200分，以此类推<<<"
+	}
+	">>> When round starts you have small amount of time to pick an item before the zombies spawn <<<"
+	{
+		"trans"		">>>在回合开始时你有一小段时间去获取皮肤<<<"
+	}
+	">>> AFTER PICKING UP AN ITEM YOU CAN USE THEIR ATTACKS WITH EITHER LEFT OR RIGHT MOUSE CLICK <<<"
+	{
+		"trans"		">>>皮肤一般拥有两个技能分别绑定在鼠标左右键<<<"
+	}
+	">>> Shooting the Zombie items in the head will push them back! <<<"
+	{
+		"trans"		">>>射击僵尸皮肤可以将他们击退<<<"
+	}
+	">>> ONLY 1 OF EACH HUMAN ITEMS CAN BE TAKEN AT ONCE <<<"
+	{
+		"trans"		">>>一局只有一个人类可以获得一种人类皮肤<<<"
+	}
+	">> Stage 1 Helgen <<"
+	{
+		"trans"		">>Stage 1 <Helgen—海尔根><<"
+	}
+	">> City gate closes in 50 seconds <<"
+	{
+		"trans"		">>小镇大门将在50秒后关闭<<"
+	}
+	">> Run for the helgen keep NOW! <<"
+	{
+		"trans"		">>前往海尔根堡!<<"
+	}
+	">> The dragon is fleeing! Run to the Helgen keep! <<"
+	{
+		"trans"		">>龙跑了，快进海尔根堡!<<"
+	}	
+	">> Defend until someone gets the key from the other room! <<"
+	{
+		"trans"		">>我们需要寻找一把钥匙才能到下一个房间，在之前守住!<<"
+	}
+	"*** We got the key! ***"
+	{
+		"trans"		"***我们拿到钥匙了***"
+	}
+	"*** Door should open soon! ***"
+	{
+		"trans"		"***门很快就开了***"
+	}
+	"*** Door opens in 25 seconds! ***"
+	{
+		"trans"		"***门将在25秒后打开***"
+	}
+	"*** FALL BACK ***"
+	{
+		"trans"		"***撤退!!!***"
+	}
+	"*** Door opens in 30 seconds ***"
+	{
+		"trans"		"***门将在30秒后打开***"
+	}
+	">> Defend the bridge don't let the zombies on the other side! <<"
+	{
+		"trans"		">>防守这座桥别让僵尸过来，我们就要赢了!<<"
+	}
+	">> Fall back Now!! <<"
+	{
+		"trans"		">>退到桥后!!!<<"
+	}
+	"*** Stage Completed ***"
+	{
+		"trans"		"***!!!回合胜利!!!***"
+	}
+	">> Stage 2 Whiterun <<"
+	{
+		"trans"		">>Stage 2 <Whiterun—雪漫城><<"
+	}
+	">> City door opens in 35 seconds! <<"
+	{
+		"trans"		">>城市大门将在35秒后打开<<"
+	}
+	">> We need to inform the Jarl of Whiterun that the dragons are attacking! <<"
+	{
+		"trans"		">>我们需要告诉雪漫城城主巨龙来袭的事!<<"
+	}
+	">> We need to hold the Plains District for 40 seconds HOLD THEM BACK! <<"
+	{
+		"trans"		">>我们需要防守<Plains District—平原区>40秒<<"
+	}
+	">> Fall Back Now! <<"
+	{
+		"trans"		">>撤退!!!<<"
+	}
+	">> Hold here for 30 seconds! <<"
+	{
+		"trans"		">>防守30秒<<"
+	}
+	">> Hold them back for 25 more seconds! <<"
+	{
+		"trans"		">>防守25秒<<"
+	}
+	">> Run for the bridge of Dragons Reach!! <<"
+	{
+		"trans"		">>穿过庭院!!!<<"
+	}
+	">> Defend the bridge until door opens! <<"
+	{
+		"trans"		">>守住直到大门打开!!!<<"
+	}
+	">> Dragon has been spotted outside Whiterun! <<"
+	{
+		"trans"		">>龙已经到了<雪漫城>!!!!<<"
+	}
+	">> Exit through the secret door! <<"
+	{
+		"trans"		">>从密道离开!!!<<"
+	}
+	">> IT'S A DRAGON! <<"
+	{
+		"trans"		">>龙来了!!!!<<"
+	}
+	">> SHOOT IT! <<"
+	{
+		"trans"		">>开火!!!<<"
+	}
+	">> The dragon is fleeing! <<"
+	{
+		"trans"		">>龙已败退 继续前进!!!!<<"
+	}
+	">> Run towards the tower now! <<"
+	{
+		"trans"		">>现在跑向塔楼!!!<<"
+	}
+	">> Door Closes in 25 seconds <<"
+	{
+		"trans"		">>门将在25秒后关闭<<"
+	}
+	">> Keep Defending! <<"
+	{
+		"trans"		">>保持开火!!!!<<"
+	}
+	">> Door Closes in 15 seconds <<"
+	{
+		"trans"		">>门将在15秒后关闭<<"
+	}
+	">> Door Closes in 5 seconds <<"
+	{
+		"trans"		">>门将在5秒后关闭<<"
+	}
+	">> Stage Completed! <<"
+	{
+		"trans"		">>!!!回合胜利!!!<<"
+	}
+	">> Stage 3 Road To Dwemer Ruins <<"
+	{
+		"trans"		">>Stage 3 通往<Dwemer Ruins—矮人废墟><<"
+	}
+	"*** Hold the cave for 30 seconds ***"
+	{
+		"trans"		"***防守洞穴30秒***"
+	}
+	"*** Hold the bridges for 30 seconds *** "
+	{
+		"trans"		"***防守大桥30秒*** "
+	}
+	"*** There should be a switch for that door somewhere! ***"
+	{
+		"trans"		"***这里应该有一个开关能开门 快找找!!!***"
+	}
+	"*** You have found the switch! ***"
+	{
+		"trans"		"***找到开关了!!!***"
+	}
+	"*** Door will open in 25 seconds ***"
+	{
+		"trans"		"***门将在25秒后打开***"
+	}
+	"*** Seems like the lever is broken ***"
+	{
+		"trans"		"***这个机关看起来坏了***"
+	}
+	"*** Find a way to fix it! ***"
+	{
+		"trans"		"***找个东西来修好它!!!***"
+	}
+	"*** Hold for 25 seconds ***"
+	{
+		"trans"		"***防守25秒***"
+	}
+	"*** Door will open in 30 seconds ***"
+	{
+		"trans"		"***门将在30秒后打开***"
+	}
+	"*** Hold for 45 seconds OR find a way to make it open faster ***"
+	{
+		"trans"		"***防守45秒后或者冷火双灼台快速开门***"
+	}
+	"*** Good job ***"
+	{
+		"trans"		"***干得漂亮!!!***"
+	}
+	"*** The doors will now open a bit faster! ***"
+	{
+		"trans"		"***门很快就打开了!!!***"
+	}
+	"*** Lever has been pulled! ***"
+	{
+		"trans"		"***开关都被按下!!!***"
+	}
+	"*** Hold for just 25 seconds more! ***"
+	{
+		"trans"		"***再防守25秒***"
+	}
+	"*** Stage completed! ***"
+	{
+		"trans"		"***!!!回合胜利!!!***"
+	}
+	">> Stage 4 Dwemer ruins <<"
+	{
+		"trans"		">>Stage 4 <Dwemer ruins—矮人废墟><<"
+	}
+	">>> Doors open in 25 seconds <<<"
+	{
+		"trans"		">>>门将在25秒后打开<<<"
+	}
+	">> Door Opens in 45 seconds <<"
+	{
+		"trans"		">>门将在45秒后打开<<"
+	}
+	">> Go Downstairs to the Treasure room and take the Elder Scroll! <<"
+	{
+		"trans"		">>下到宝物房，取得<上古卷轴>!!!<<"
+	}
+	">> Find a way to open the Door! <<"
+	{
+		"trans"		">>找个人去转轮盘让开关升起!!!<<"
+	}
+	">> Lever has been pressed! <<"
+	{
+		"trans"		">>开关已被拉下<<"
+	}
+	">> Door Opens In 20 Seconds! <<"
+	{
+		"trans"		">>门将在20秒后打开<<"
+	}
+	">> Elevator leaves in 30 seconds! <<"
+	{
+		"trans"		">>升降梯将在30秒后上升!<<"
+	}
+	">> Elevator leaves in 10 seconds! <<"
+	{
+		"trans"		">>升降梯将在10秒后上升!<<"
+	}
+	">> Elevator leaves in 5 seconds! <<"
+	{
+		"trans"		">>升降梯将在5秒后上升!<<"
+	}
+	">> Elevator is leaving! <<"
+	{
+		"trans"		">>升降梯已上升!!!!<<"
+	}
+	">> Elevator leaves in 20 seconds! <<"
+	{
+		"trans"		">>升降梯将在20秒后上升!<<"
+	}
+	"*** THE ELDER SCROLL MADE IT TO THE END ***"
+	{
+		"trans"		"***你们成功地带走了<上古卷轴>***"
+	}
+	"*** YOU CAN NOW USE IT ON NEXT STAGE ***"
+	{
+		"trans"		"***你们可以在下一个关卡使用<上古卷轴>***"
+	}
+	">> Stage 5 Sovngarde <<"
+	{
+		"trans"		">>Stage 5 <Sovngarde—松加德><<"
+	}
+	">> City door opens in 25 seconds! <<"
+	{
+		"trans"		">>城市大门将在25秒后打开<<"
+	}
+	">> HOLD THEM BACK! <<"
+	{
+		"trans"		">>防守到他们回来!<<"
+	}
+	">> We need to get away from these dragons! <<"
+	{
+		"trans"		">>我们需要摆脱这些该死的飞龙!!<<"
+	}
+	">> Go through the house to the sewers! <<"
+	{
+		"trans"		">>从房顶缺口到下水道!!<<"
+	}
+	">> Go through the balcony door! <<"
+	{
+		"trans"		">>穿过阳台!<<"
+	}
+	">> Kill the Dragonpriest! <<"
+	{
+		"trans"		">>杀死<龙祭司>!!!(提示:夜莺右键命中龙祭司直接死亡)<<"
+	}
+	">> We killed the Dragonpriest! <<"
+	{
+		"trans"		">>我们杀死了<龙祭司>!!!<<"
+	}
+	">> Hold the zombies back until the teleporter activates! <<"
+	{
+		"trans"		">>防守僵尸直到传送门打开<<"
+	}
+	">> The teleporter is working JUMP INTO IT!  <<"
+	{
+		"trans"		">>传送门已经打开，快跳进去!!!<<"
+	}
+	">> USE THE ELDER SCROLL NOW <<"
+	{
+		"trans"		">>就现在使用<上古卷轴>(提示:子弹和高爆手雷将造成双倍伤害)<<"
+	}
+	">> You Have Defeated Alduin <<"
+	{
+		"trans"		">>你们已经干爆了<Alduin——奥杜因>!!!<<"
+	}
+	">> Run for the Mead Hall <<"
+	{
+		"trans"		">>冲向<Mead Hall——蜂蜜酒地>!!!<<"
+	}
+	">> Kill the remaining Zombies! <<"
+	{
+		"trans"		">>杀死剩余的僵尸!<<"
+	}
+	"** YOU HAVE BEATEN THE MAP CONGRATULATIONS !!! **"
+	{
+		"trans"		"**你们已经制霸了<天际省>!!!!!!!**"
+	}
+	"** MAP BY P'A'SS AND KIM !!! **"
+	{
+		"trans"		"**<<作者P'a'ss & Kim 翻译DohiCircle>>**"
+	}
+	">> Admin Pressed Kill All button! <<"
+	{
+		"trans"		">>狗OP按下了处死全部按钮!!<<"
+	}
+}
