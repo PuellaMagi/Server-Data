@@ -262,23 +262,23 @@
 	}
 	">> Elevator leaves in 30 seconds! <<"
 	{
-		"trans"		">>电梯将在30秒后上升!<<"
+		"trans"		">>升降梯将在30秒后上升!<<"
 	}
 	">> Elevator leaves in 10 seconds! <<"
 	{
-		"trans"		">>电梯将在10秒后上升!<<"
+		"trans"		">>升降梯将在10秒后上升!<<"
 	}
 	">> Elevator leaves in 5 seconds! <<"
 	{
-		"trans"		">>电梯将在5秒后上升!<<"
+		"trans"		">>升降梯将在5秒后上升!<<"
 	}
 	">> Elevator is leaving! <<"
 	{
-		"trans"		">>电梯已上升!!!!<<"
+		"trans"		">>升降梯已上升!!!!<<"
 	}
 	">> Elevator leaves in 20 seconds! <<"
 	{
-		"trans"		">>电梯将在20秒后上升!<<"
+		"trans"		">>升降梯将在20秒后上升!<<"
 	}
 	"*** THE ELDER SCROLL MADE IT TO THE END ***"
 	{
