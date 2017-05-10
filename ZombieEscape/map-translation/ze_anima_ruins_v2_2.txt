@@ -1,4 +1,4 @@
-w"Chat"
+"Chat"
 {
 	"***Turtle Reactions - Anima Ruins***"
 	{
