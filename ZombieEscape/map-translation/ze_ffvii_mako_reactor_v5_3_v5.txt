@@ -1,489 +1,303 @@
 "Chat"
 {
-	"**********MAP CREATED BY: Hannibal[SPA] (Rafuron) *********"
+	"**** MAP BY: Hannibal[SPA] (Rafuron) ****"
 	{
-		"blocked"		"1"
-	}
-	"** Tips : Ideas : Adjustments by Maese Danielot **"
-	{
-		"blocked"		"1"
-	}
-	"**CURRENT DIFFICULTY ** >> EASY << **"
-	{
-		"command"		"zr_maoling_passround_credits 1.0;zr_maoling_passround_points 10;"
-		"trans"		"**当前难度:简单"
-	}
-	"** MATERIA SPAMMERS WILL BE PUNISHED ** "
-	{
-		"trans"		"**乱按神器者将受惩罚**"
-	}
-	"** A player has adquired HEAL MATERIA **"
-	{
-		"trans"		"**一位玩家获得治疗元素**"
-	}
-	"**Superior door opening in 30 seconds**"
-	{
-		"trans"		"**反应炉大门30秒后开启"
-	}
-	"** A player has adquired WIND MATERIA **"
-	{
-		"trans"		"**一位玩家获得风元素**"
-	}
-	"** DOOR OPENS IN 5 s **"
-	{
-		"trans"		"**门开于5秒后**"
-	}
-	"**Door opening in 10 seconds**"
-	{
-		"trans"		"**门开于10秒后**"
-	}
-	"**Door is opening in 10 seconds**"
-	{
-		"trans"		"**门开于10秒后**"
-	}
-	"**Door is opening in 5**"
-	{
-		"trans"		"**门开于5秒后**"
-	}
-	"**Door is open**"
-	{
-		"trans"		"**门已打开**"
-	}
-	"**Elevator is leaving in 10s**"
-	{
-		"trans"		"**电梯10秒后离开"
-	}
-	"** A player has adquired ICE MATERIA **"
-	{
-		"trans"		"**一位玩家获得冰元素**"
-	}
-	"** A player has adquired GRAVITY MATERIA **"
-	{
-		"trans"		"**一位玩家获得黑洞"
-	}
-	"** Heal upgraded + **"
-	{
-		"trans"		"**治疗元素当前等级：2**"
-	}
-	"** A player has adquired ELECTRO MATERIA **"
-	{
-		"trans"		"**一位玩家获得电元素**"
-	}
-	"** Electro upgraded ++**"
-	{
-		"trans"		"**电元素当前等级：3**"
-	}
-	"** A player has adquired FIRE MATERIA **"
-	{
-		"trans"		"**一位玩家获得火元素**"
-	}
-	"** Fire upgraded ++ **"
-	{
-		"trans"		"**火元素当前等级：3**"
-	}
-	"** We have reached the core  ...**"
-	{
-		"trans"		"**我们到达了核心..**"
-	}
-	"** ... Cloud is planting the bomb ** "
-	{
-		"trans"		"**克劳德正在安放炸弹..**"
-	}
-	"** Bomb has been planted  **  Run **"
-	{
-		"trans"		"**炸弹安放完毕..**"
-	}
-	"**Keep shooting ! We dont know what it can do **"
-	{
-		"trans"		"**继续射击，我们不知道这玩意会干什么..**"
-	}
-	"** The monster is going to attack ! **"
-	{
-		"trans"		"**BOSS即将发起进攻!**"
-	}
-	"**Its dead ** Go go! Run upstairs ! **"
-	{
-		"trans"		"**BOSS已被击败，从原路返回!**"
-	}
-	"** EXPLOSION IN 160 SECONDS **"
-	{
-		"trans"		"**逃脱时间剩余160秒**"
-	}
-	"**  150 SECONDS LEFT **"
-	{
-		"trans"		"**逃脱时间剩余150秒**"
-	}
-	"**  140 SECONDS LEFT **"
-	{
-		"trans"		"**逃脱时间剩余140秒**"
-	}
-	"**  130 SECONDS LEFT **"
-	{
-		"trans"		"**逃脱时间剩余130秒**"
-	}
-	"**  120 SECONDS LEFT **"
-	{
-		"trans"		"**逃脱时间剩余120秒**"
-	}
-	"**  110 SECONDS LEFT **"
-	{
-		"trans"		"**逃脱时间剩余110秒**"
-	}
-	"**  100 SECONDS LEFT **"
-	{
-		"trans"		"**逃脱时间剩余100秒**"
-	}
-	"**  90 SECONDS LEFT **"
-	{
-		"trans"		"**逃脱时间剩余90秒**"
-	}
-	"** DOOR OPENS IN 35 S ** Go to the control room and try to open it earlier **"
-	{
-		"trans"		"**大门35秒后开启,进入控制室按下按钮使门更快打开"
-	}
-	"**  80 SECONDS LEFT **"
-	{
-		"trans"		"**逃脱时间剩余80秒**"
-	}
-	"**  70 SECONDS LEFT **"
-	{
-		"trans"		"**逃脱时间剩余70秒**"
-	}
-	"** Well done! Door is opening in 10 seconds **"
-	{
-		"trans"		"**机关启动! 门将在10秒后打开**"
-	}
-	"**  60 SECONDS LEFT **"
-	{
-		"trans"		"**逃脱时间剩余60秒**"
-	}
-	"**  50 SECONDS LEFT **"
-	{
-		"trans"		"**逃脱时间剩余50秒**"
-	}
-	"**  40 SECONDS LEFT **"
-	{
-		"trans"		"**逃脱时间剩余40秒**"
-	}
-	"**  30 SECONDS LEFT **"
-	{
-		"trans"		"**逃脱时间剩余30秒**"
-	}
-	"**  20 SECONDS LEFT **"
-	{
-		"trans"		"**逃脱时间剩余20秒**"
-	}
-	"** Good work! You won at EASY difficult ** Lets try MEDIUM difficult **"
-	{
-		"trans"		"**简单难度已完成,下一难度:中等**"
-	}
-	"**CURRENT DIFFICULTY ** >> MEDIUM << **"
-	{
-		"command"		"zr_maoling_passround_credits 1.0;zr_maoling_passround_points 10;"
-		"trans"		"**当前难度:中等**"
-	}
-	"** Ice upgraded + **"
-	{
-		"trans"		"**冰元素当前等级：2**"
-	}
-	"** Wind upgraded + **"
-	{
-		"trans"		"**风元素当前等级：2**"
-	}
-	"** Heal upgraded ++ **"
-	{
-		"trans"		"**治疗元素当前等级：3**"
-	}
-	"** Ice upgraded ++ **"
-	{
-		"trans"		"**冰元素当前等级：3**"
-	}
-	"** Door is opening in 7 seconds **"
-	{
-		"trans"		"**门开于7秒后"
-	}
-	"** Fire upgraded + **"
-	{
-		"trans"		"**火元素当前等级：2**"
-	}
-	"** Electro upgraded +**"
-	{
-		"trans"		"**电元素当前等级：2**"
-	}
-	"**You must kill all the zombies ! **"
-	{
-		"trans"		"**干掉剩余的僵尸"
-	}
-	"** A player has adquired EARTH MATERIA **"
-	{
-		"trans"		"**一位玩家获得土元素**"
-	}
-	"** EXPLOSION IN 145 SECONDS **"
-	{
-		"trans"		"**逃脱时间剩余145秒**"
-	}
-	"** Wind upgraded ++**"
-	{
-		"trans"		"**风元素当前等级：3**"
-	}
-	"**  10 SECONDS LEFT **"
-	{
-		"trans"		"**剩余10秒**"
-	}
-	"**Congratulations ! You beat MEDIUM mode ! The challenge begins at HARD mode ! **"
-	{
-		"trans"		"**中等难度已完成,下一难度:困难**"
-	}
-	"**CURRENT DIFFICULTY ** >> HARD << **"
-	{
-		"command"		"zr_maoling_passround_credits 1.0;zr_maoling_passround_points 10;"
-		"trans"		"**当前难度:困难**"
-	}
-	"** TIP: GRENADES MAKE A LOT OF DAMAGE ** USE IT **"
-	{
-		"trans"		"**手雷可对BOSS造成大量伤害,不要吝啬使用**"
-	}
-	"** Dont stop shooting ! Dont let him attack !**"
-	{
-		"trans"		"**继续开火!阻止BOSS发动进攻!**"
-	}
-	"** Bahamut is in attack position ** Keep firing !! **"
-	{
-		"trans"		"**巴哈姆特正在准备进攻,不要停火!**"
-	}
-	"** Bahamut is going to execute his most powerful attack !! Shoot !! **"
-	{
-		"trans"		"**巴哈姆特正在准备释放大招!快开枪!**"
-	}
-	"**Bahamut is retrieving ! ** Go go! Run upstairs ! **"
-	{
-		"trans"		"**巴哈姆特暂时撤退了,从原路返回!**"
-	}
-	"** EXPLOSION IN 120 SECONDS **"
-	{
-		"trans"		"**逃脱时间剩余120秒**"
-	}
-	"** RUN! **"
-	{
-		"trans"		"**撤退!**"
-	}
-	"** A player has adquired ULTIMA MATERIA **"
-	{
-		"trans"		"**一位玩家获得终极元素**"
-	}
-	"** BAHAMUT IS GOING TO EXTERMINATE ALL US ! DONT STOP SHOOTING **"
-	{
-		"blocked"		"1"
-	}
-	"**Nice done! You interrumped Sephiroth s attack**"
-	{
-		"blocked"		"1"
-	}
-	"** You did it ! You won at the HARDEST difficult ** Time to EXTREME mode ** Good luck ! ** "
-	{
-		"trans"		"**困难难度已完成,下一难度:EX1**"
-	}
-	"**CURRENT DIFFICULTY ** >> EXTREME << **"
-	{
-		"command"		"zr_maoling_passround_credits 1.0;zr_maoling_passround_points 10;"
-		"trans"		"**当前难度:EX1**"
-	}
-	"** EXPLOSION IN 130 SECONDS **"
-	{
-		"trans"		"**逃脱时间剩余130秒**"
-	}
-	"** 30 seconds left **"
-	{
-		"trans"		"**剩余30秒**"
-	}
-	"** 20 seconds left **"
-	{
-		"trans"		"**剩余20秒**"
-	}
-	"** 10 seconds left **"
-	{
-		"trans"		"**剩余10秒**"
-	}
-	"** OH MY ! YOU DID THE IMPOSSIBLE ! YOU OWN ! ** "
-	{
-		"trans"		"**EX1难度已完成,下一难度:EX2**"
-	}
-	"**CURRENT DIFFICULTY ** >> EXTREME II << **"
-	{
-		"command"		"zr_maoling_passround_credits 1.0;zr_maoling_passround_points 10;"
-		"trans"		"**当前难度:EX2**"
-	}
-	"** BAHAMUT IS CASTING ** PREPARE YOURSELF **"
-	{
-		"trans"		"**巴哈姆特正在准备进攻..**"
-	}
-	"** BAHAMUT HAS CAST WIND **"
-	{
-		"trans"		"**巴哈姆特释放了风元素(提示:你会被强制击退)**"
-	}
-	"** BAHAMUT HAS CAST ICE **"
-	{
-		"trans"		"**巴哈姆特释放了冰元素(提示:你只会被定身)**"
-	}
-	"** BAHAMUT HAS HEALED 150 HIT POINTS**"
-	{
-		"trans"		"**巴哈姆特恢复了150HP**"
-	}
-	"** BAHAMUT IS DEAD ** KEEP RUNNING **"
-	{
-		"trans"		"**巴哈姆特已经扑街了,不要停接着跑!**"
-	}
-	"** BAHAMUT HAS CAST EARTH ** BREAK THE WALL! **"
-	{
-		"trans"		"**巴哈姆特释放了风元素(提示:开枪打碎土墙)**"
-	}
-	"** YOU ARE THE MASTERS OF MAKO REACTOR! ** "
-	{
-		"trans"		"**你成功通关了这张地图!!!!你干倒了EX2!!**"
-	}
-	"*** Toggled -EXTREME II MODE- **"
-	{
-		"trans"		"**权限X已调关至:EX2**"
-	}
-	"*** FOR TESTING LAG ONLY **"
-	{
-		"trans"		"**仅限测试使用**"
-	}
-	"*** PRESS BUTTON AGAIN TO KILL THINGS **"
-	{
-		"trans"		"**再次按键以抹杀物件**"
-	}
-	"*** Toggled -NUKE- **"
-	{
-		"trans"		"**权限X已调关至:ZM**"
-	}
-	"** WARNING! BAHAMUT IS CASTING ULTIMA ** GET READY TO USE HEAL ++ **"
-	{
-		"trans"		"**警告! 巴哈姆特准备释放终极,现在使用治疗元素可规避**"
-	}
-	"** ULTIMA CAST WILL SUCCED IN 10 SECONDS **"
-	{
-		"trans"		"**巴哈姆特的终极将在10秒释放**"
-	}
-	"** BAHAMUT HAS CAST FIRE! **"
-	{
-		"trans"		"**巴哈姆特释放了火元素(提示:向后退)**"
-	}
-	"*** Toggled -HARD MODE- **"
-	{
-		"trans"		"**权限X已调关至:困难**"
-	}
-	"** BAHAMUT HAS CAST ELECTRO! **"
-	{
-		"trans"		"**巴哈姆特释放了电元素(提示:跳上栏杆)**"
-	}
-	"*** Toggled -EASY MODE- **"
-	{
-		"trans"		"**权限X已调关至:EZ**"
-	}
-	"**** MAP BY: Hannibal[SPA] (Rafuron) ***"
-	{
-		"blocked"	"1"
-		"trans"		"**** MAP BY: Hannibal[SPA] (Rafuron) ***"
+		"trans"		"****<最終幻想7:魔晄爐> 作者Hannibal 翻譯DohiCircle****"
 	}
 	"** Server settings initialized **"
 	{
-		"blocked"	"1"
-		"trans"		"**** Server settings initialized **"
+		"blocked"		"1"
 	}
 	"** Tips and Adjustements: Maese Danielot **"
 	{
-		"blocked"	"1"
-		"trans"		"**** Tips and Adjustements: Maese Danielot **"
+		"blocked"		"1"
 	}
 	"** Optimization and Helping: Kaemon **"
 	{
-		"blocked"	"1"
-		"trans"		"**** Optimization and Helping: Kaemon **"
+		"blocked"		"1"
 	}
 	"**CURRENT DIFFICULTY ** >> NORMAL << **"
 	{
-		"trans"		"**当前难度:普通**"
+		"trans"		"**當前難度:>>-NORMAL-<<**"
 	}
-	"*** MATERIAS AT LVL 1 **"
+	"*** MATERIAS AT LVL 1 ***"
 	{
-		"trans"		"**神器等级为 LV.1**"
+		"trans"		"***神器元素等級:Lv 1***"
+	}
+	"**Door opening in 10 seconds**"
+	{
+		"trans"		"**卷簾門將在10秒後打開**"
+	}
+	"** A player has adquired EARTH MATERIA **"
+	{
+		"trans"		"**有人獲得了<土>**"
+	}
+	"** A player has adquired ELECTRO MATERIA **"
+	{
+		"trans"		"**有人獲得了<電>**"
+	}
+	"**Superior door opening in 30 seconds**"
+	{
+		"trans"		"**反應爐大門將在30秒后打開**"
+	}
+	"** DOOR OPENS IN 5 s **"
+	{
+		"trans"		"**反應爐大門將在5秒后打開**"
+	}
+	"** A player has adquired GRAVITY MATERIA **"
+	{
+		"trans"		"**有人獲得了<黑洞>**"
+	}
+	"** A player has adquired FIRE MATERIA **"
+	{
+		"trans"		"**有人獲得了<火>**"
+	}
+	"** A player has adquired WIND MATERIA **"
+	{
+		"trans"		"**有人獲得了<風>**"
+	}
+	"**Door is opening in 10 seconds**"
+	{
+		"trans"		"**第一道門將在10秒后打開**"
+	}
+	"**Door is opening in 5**"
+	{
+		"trans"		"**第二道門將在5秒后打開**"
+	}
+	"**Door is open**"
+	{
+		"trans"		"**門開了快撤!!!!**"
+	}
+	"** A player has adquired ICE MATERIA **"
+	{
+		"trans"		"**有人獲得了<冰>**"
+	}
+	"**Elevator is leaving in 10s**"
+	{
+		"trans"		"**電梯將在10秒后離開**"
+	}
+	"** We have reached the core  ...**"
+	{
+		"trans"		"**我們已經到達了魔晄爐核心……**"
+	}
+	"** ... Cloud is planting the bomb ** "
+	{
+		"trans"		"**……克勞德正在安放炸彈** "
+	}
+	"** Bomb has been planted  **  Run **"
+	{
+		"trans"		"**炸彈安放好了! 原路返回!**"
+	}
+	"**Keep shooting ! We dont know what it can do **"
+	{
+		"trans"		"**保持開火! 我們不知道這傢伙會幹什麼!**"
+	}
+	"** The monster is going to attack ! **"
+	{
+		"trans"		"**<大螃蟹>即將發動攻擊!!**"
+	}
+	"**Its dead ** Go go! Run upstairs ! **"
+	{
+		"trans"		"**<大螃蟹>已被擊敗! 原路返回!**"
+	}
+	"** EXPLOSION IN 145 SECONDS **"
+	{
+		"trans"		"**逃脫時間剩餘180秒**"
+	}
+	"**  110 SECONDS LEFT **"
+	{
+		"trans"		"**逃脫時間剩餘110秒**"
+	}
+	"**  100 SECONDS LEFT **"
+	{
+		"trans"		"**逃脫時間剩餘100秒**"
+	}
+	"**  90 SECONDS LEFT **"
+	{
+		"trans"		"**逃脫時間剩餘90秒**"
+	}
+	"** DOOR OPENS IN 35 S ** Go to the control room and try to open it earlier **"
+	{
+		"trans"		"**大門將在35秒后打開(進入控制按下三個按鈕使門更快打開)**"
+	}
+	"**  80 SECONDS LEFT **"
+	{
+		"trans"		"**逃脫時間剩餘80秒**"
+	}
+	"** Well done! Door is opening in 10 seconds **"
+	{
+		"trans"		"**幹得好!門將在10秒後打開!**"
+	}
+	"**  70 SECONDS LEFT **"
+	{
+		"trans"		"**逃脫時間剩餘70秒**"
+	}
+	"**  60 SECONDS LEFT **"
+	{
+		"trans"		"**逃脫時間剩餘60秒**"
+	}
+	"**  50 SECONDS LEFT **"
+	{
+		"trans"		"**逃脫時間剩餘50秒**"
+	}
+	"**  40 SECONDS LEFT **"
+	{
+		"trans"		"**逃脫時間剩餘40秒**"
+	}
+	"**  30 SECONDS LEFT **"
+	{
+		"trans"		"**逃脫時間剩餘30秒**"
 	}
 	"**Congratulations ! You beat NORMAL mode ! The challenge begins at HARD mode ! **"
 	{
-		"trans"		"**你干倒了普通难度**"
+		"trans"		"**你們做到了!!你們完成了NORMAL難度!下回合為HARD難度!**"
 	}
-	"*** MATERIAS AT LVL 2 **"
+	"**CURRENT DIFFICULTY ** >> HARD << **"
 	{
-		"trans"		"**神器等级为 LV.2**"
+		"trans"		"**當前難度:>>-HARD-<<**"
+	}
+	"*** MATERIAS AT LVL 2 ***"
+	{
+		"trans"		"***神器元素等級:Lv 2***"
+	}
+	"** TIP: GRENADES MAKE A LOT OF DAMAGE ** USE IT **"
+	{
+		"trans"		"**提示:高爆手雷可以對<巴哈姆特>造成巨大傷害,不要吝嗇使用**"
+	}
+	"** Dont stop shooting ! Dont let him attack !"
+	{
+		"trans"		"**繼續開火!不要讓<巴哈姆特>發動攻擊!**"
+	}
+	"** Bahamut is in attack position ** Keep firing !! **"
+	{
+		"trans"		"**<巴哈姆特>正在準備發動攻擊!繼續開火!!**"
 	}
 	"**Bahamut has been defeated ! ** Go go! Run upstairs ! **"
 	{
-		"trans"		"**巴哈已经嗝屁了,快跑**"
+		"trans"		"**<巴哈姆特>敗退!!原路返回!!**"
 	}
-	"*** MATERIAS AT LVL 3 **"
+	"** EXPLOSION IN 120 SECONDS **"
 	{
-		"trans"		"**神器等级为 LV.3**"
+		"trans"		"**逃脫時間剩餘120秒**"
+	}
+	"** A player has adquired ULTIMA MATERIA **"
+	{
+		"trans"		"**有人獲得了<終極>**"
+	}
+	"**  20 SECONDS LEFT **"
+	{
+		"trans"		"**逃脫時間剩餘20秒**"
+	}
+	"** RUN! **"
+	{
+		"trans"		"**撤退!!!**"
+	}
+	"**  10 SECONDS LEFT **"
+	{
+		"trans"		"**逃脫時間剩餘10秒**"
+	}
+	"**Nice done! You interrumped Sephiroth s attack**"
+	{
+		"trans"		"**做的好!你們阻止薩菲羅斯的陰謀!**"
+	}
+	"** You did it ! You won at the HARDEST difficult ** Time to EXTREME mode ** Good luck ! ** "
+	{
+		"trans"		"**你們做到了!!你們完成了HARD難度!下回合為EXTREME難度!祝你們好運!** "
+	}
+	"**CURRENT DIFFICULTY ** >> EXTREME << **"
+	{
+		"trans"		"**當前難度:>>-EXTREME-<<**"
+	}
+	"*** MATERIAS AT LVL 3 ***"
+	{
+		"trans"		"***神器元素等級:Lv 3***"
+	}
+	"** A player has adquired HEAL MATERIA **"
+	{
+		"trans"		"**有人獲得了<奶>**"
+	}
+	"** EXPLOSION IN 130 SECONDS **"
+	{
+		"trans"		"**逃脫時間剩餘130秒**"
+	}
+	"**  120 SECONDS LEFT **"
+	{
+		"trans"		"**逃脫時間剩餘120秒**"
+	}
+	"** 30 seconds left **"
+	{
+		"trans"		"**逃脫時間剩餘30秒**"
+	}
+	"** 20 seconds left **"
+	{
+		"trans"		"**逃脫時間剩餘20秒**"
+	}
+	"** 10 seconds left **"
+	{
+		"trans"		"**逃脫時間剩餘10秒**"
 	}
 	"** YOU DID IT! YOU WON EXTREME ! YOU OWN! ** "
 	{
-		"trans"		"**你干倒了EX1难度**"
+		"trans"		"**你們做到了!!你們完成了EXTREME難度!下回合為EXTREME II難度!** "
+	}
+	"**CURRENT DIFFICULTY ** >> EXTREME II << **"
+	{
+		"trans"		"**當前難度:>>-EXTREME II-<<**"
 	}
 	"** COLOR DUE TO EXTREME DIFFICULTY ** Type mat_colorcorrection 0 if you want to turn it off**"
 	{
-		"blocked"	"1"
-		"trans"		"**** COLOR DUE TO EXTREME DIFFICULTY ** Type mat_colorcorrection 0 if you want to turn it off**"
+		"blocked"		"1"
 	}
-	"** Bahamut is going to cast Mega Flare !! Shoot !! **"
+	"** BAHAMUT IS CASTING ** PREPARE YOURSELF **"
 	{
-		"blocked"	"1"
-		"trans"		"**** Bahamut is going to cast Mega Flare !! Shoot !! **"
+		"trans"		"**<巴哈姆特>正在準備發動攻擊……**"
 	}
-	"** BAHAMUT HAS HEALED 300 HIT POINTS**"
+	"** BAHAMUT HAS CAST ICE **"
 	{
-		"trans"		"**巴哈恢复了300HP**"
+		"trans"		"**<巴哈姆特>釋放了冰元素(提示:你只會被定身,定身結束后有段時間減速,請小心)**"
 	}
-	"** ZOMBIES HAVE INFECTED THE BUNKER **"
+	"** BAHAMUT HAS CAST EARTH ** BREAK THE WALL! **"
 	{
-		"blocked"	"1"
-		"trans"		"**** ZOMBIES HAVE INFECTED THE BUNKER **"
+		"trans"		"**<巴哈姆特>釋放了土元素(提示:開槍擊碎土墻)**"
+	}
+	"** BAHAMUT IS DEAD ** KEEP RUNNING **"
+	{
+		"trans"		"**<巴哈姆特>已經撲街!!!!!繼續前進!!!!!**"
+	}
+	"** YOU ARE THE MASTERS OF MAKO REACTOR! ** "
+	{
+		"trans"		"**你們已經制霸了<魔晄爐>!!你們才是MAKO王者!!** "
 	}
 	"** MAP COMPLETED  ** ZM ROUNDS **"
 	{
-		"blocked"	"1"
-		"trans"		"**** MAP COMPLETED  ** ZM ROUNDS **"
+		"trans"		"**地圖已通關 - ZM回合**"
 	}
 	"** THIS IS A ZM ROUND ** FIND A PLACE AND RESIST ** DONT FOLLOW THE ZE PATH **"
 	{
-		"blocked"	"1"
-		"trans"		"**** THIS IS A ZM ROUND ** FIND A PLACE AND RESIST ** DONT FOLLOW THE ZE PATH **"
+		"trans"		"**這是ZM回合!找到一個地方防守!不要走ZE路線!保護好自己的菊花!**"
 	}
 	"** HUMAN VICTORY IN 4 MINUTES **"
 	{
-		"blocked"	"1"
+		"trans"		"**核爆將於240秒后到達**"
+	}
+	"** Door is opening in 7 seconds **"
+	{
+		"trans"		"**酒吧小門將在7秒后打開**"
 	}
 	"** HUMAN VICTORY IN 3 MINUTES **"
 	{
-		"blocked"	"1"
+		"trans"		"**核爆將於180秒后到達**"
 	}
 	"** HUMAN VICTORY IN 2 MINUTES **"
 	{
-		"blocked"	"1"
+		"trans"		"**核爆將於120秒后到達**"
 	}
 	"** HUMAN VICTORY IN 1 MINUTES **"
 	{
-		"blocked"	"1"
+		"trans"		"**核爆將於60秒后到達**"
 	}
 	"** HUMAN VICTORY IN 20 SECONDS **"
 	{
-		"blocked"	"1"
-	}
-	"** BAHAMUT HAS CAST GRAVITY **"
-	{
-		"trans"		"** 巴哈姆特释放了黑洞 **"
-	}
-	"** ADMIN PRESSED KILL ALL BUTTON **"
-	{
-		"blocked"	"1"
+		"trans"		"**核爆將於20秒后到達**"
 	}
 }
