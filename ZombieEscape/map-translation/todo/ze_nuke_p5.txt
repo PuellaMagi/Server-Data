@@ -52,16 +52,4 @@
 	{
 		"trans"		"Contact me at obscuri@obsmail.tk"
 	}
-	"***DESTROY THE POWER GENERATORS***"
-	{
-		"trans"		"***DESTROY THE POWER GENERATORS***"
-	}
-	"*** WELL DONE***"
-	{
-		"trans"		"*** WELL DONE***"
-	}
-	"***1 REMAINING***"
-	{
-		"trans"		"***1 REMAINING***"
-	}
 }

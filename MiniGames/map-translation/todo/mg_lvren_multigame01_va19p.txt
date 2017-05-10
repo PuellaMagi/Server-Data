@@ -1,0 +1,11 @@
+"Chat"
+{
+	"---Map init---"
+	{
+		"trans"		"---Map init---"
+	}
+	"---Done---"
+	{
+		"trans"		"---Done---"
+	}
+}

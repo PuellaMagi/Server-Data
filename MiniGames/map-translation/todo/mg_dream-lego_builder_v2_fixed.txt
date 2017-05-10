@@ -1,0 +1,27 @@
+"Chat"
+{
+	"Map begins in 45 seconds"
+	{
+		"trans"		"Map begins in 45 seconds"
+	}
+	"Shoot or press E to place floors and walls"
+	{
+		"trans"		"Shoot or press E to place floors and walls"
+	}
+	"Original CSS Map by Jonny"
+	{
+		"trans"		"Original CSS Map by Jonny"
+	}
+	"Remake for csgo & Texture-edit by SkyK1ll"
+	{
+		"trans"		"Remake for csgo & Texture-edit by SkyK1ll"
+	}
+	"Map begins in 10 seconds"
+	{
+		"trans"		"Map begins in 10 seconds"
+	}
+	"Map has loaded"
+	{
+		"trans"		"Map has loaded"
+	}
+}

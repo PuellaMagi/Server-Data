@@ -1,68 +1,16 @@
 "Chat"
 {
-	"[NORMAL MODE]"
+	"** A player has learned Wind magick. **"
 	{
-		"trans"		"[NORMAL MODE]"
-	}
-	"** MAP BY SLAYERDRAGON **"
-	{
-		"trans"		"** MAP BY SLAYERDRAGON **"
-	}
-	"** Map Ported By 上古,單純 **"
-	{
-		"trans"		"** Map Ported By 上古,單純 **"
-	}
-	"** Defend untill the guards open the airport. **"
-	{
-		"trans"		"** Defend untill the guards open the airport. **"
+		"trans"		"** A player has learned Wind magick. **"
 	}
 	"** Airport opened. **"
 	{
 		"trans"		"** Airport opened. **"
 	}
-	"** Defend 25 seconds untill the guards open the hallway. **"
-	{
-		"trans"		"** Defend 25 seconds untill the guards open the hallway. **"
-	}
-	"** A player has learned Heal magick. **"
-	{
-		"trans"		"** A player has learned Heal magick. **"
-	}
-	"** A player has learned Fire magick. **"
-	{
-		"trans"		"** A player has learned Fire magick. **"
-	}
 	"** 5 seconds left **"
 	{
 		"trans"		"** 5 Seconds left **"
-	}
-	"** A player has learned Water magick. **"
-	{
-		"trans"		"** A player has learned Water magick. **"
-	}
-	"** Defend here so the guards will open the gates to the city! **"
-	{
-		"trans"		"** Defend here so the guards will open the gates to the city! **"
-	}
-	"** A player has learned Wind magick. **"
-	{
-		"trans"		"** A player has learned Wind magick. **"
-	}
-	"** A player has learned Electro magick. **"
-	{
-		"trans"		"** A player has learned Electro magick. **"
-	}
-	"** A player has learned Earth magick. **"
-	{
-		"trans"		"** A player has learned Earth magick. **"
-	}
-	"** Cover here till the rock explodes **"
-	{
-		"trans"		"** Cover here till the rock explodes **"
-	}
-	"** The elevator will leave in 20 seconds **"
-	{
-		"trans"		"** The elevator will leave in 20 seconds **"
 	}
 	"** The elevator will leave in 5 seconds **"
 	{
@@ -76,104 +24,16 @@
 	{
 		"trans"		"** The second door will open in 15 seconds **"
 	}
+	"** A player has learned Fire magick. **"
+	{
+		"trans"		"** A player has learned Fire magick. **"
+	}
+	"** A player has learned Water magick. **"
+	{
+		"trans"		"** A player has learned Water magick. **"
+	}
 	"** Keep defending!! **"
 	{
 		"trans"		"** Keep defending!! **"
-	}
-	"** Nades do a lot of damage ** "
-	{
-		"trans"		"** Nades do a lot of damage ** "
-	}
-	"** The dragon has been defeated **"
-	{
-		"trans"		"** The dragon has been defeated **"
-	}
-	"** Cover 10 seconds till the rock explodes **"
-	{
-		"trans"		"** Cover 10 seconds till the rock explodes **"
-	}
-	"** Go to the end of the road! **"
-	{
-		"trans"		"** Go to the end of the road! **"
-	}
-	"** 50 SECS REMAINING **"
-	{
-		"trans"		"** 50 SECS REMAINING **"
-	}
-	"** 40 SECS REMAINING **"
-	{
-		"trans"		"** 40 SECS REMAINING **"
-	}
-	"** 30 SECS REMAINING **"
-	{
-		"trans"		"** 30 SECS REMAINING **"
-	}
-	"** 20 SECS REMAINING **"
-	{
-		"trans"		"** 20 SECS REMAINING **"
-	}
-	"** 10 SECS REMAINING **"
-	{
-		"trans"		"** 10 SECS REMAINING **"
-	}
-	"** 5 SECS REMAINING **"
-	{
-		"trans"		"** 5 SECS REMAINING **"
-	}
-	"** Congratulations - u won [NORMAL] **"
-	{
-		"trans"		"** Congratulations - u won [NORMAL] **"
-	}
-	"[HARD MODE]"
-	{
-		"trans"		"[HARD MODE]"
-	}
-	"** FIRE NOVA INBOUND **"
-	{
-		"trans"		"** FIRE NOVA INBOUND **"
-	}
-	"** USE WATER TO DODGE IT  **"
-	{
-		"trans"		"** USE WATER TO DODGE IT  **"
-	}
-	"** METEOR INBOUND **"
-	{
-		"trans"		"** METEOR INBOUND **"
-	}
-	"** USE ELECTRO TO  BREAK IT **"
-	{
-		"trans"		"** USE ELECTRO TO  BREAK IT **"
-	}
-	"** Cover 20 seconds till the rock explodes **"
-	{
-		"trans"		"** Cover 20 seconds till the rock explodes **"
-	}
-	"** A player has learned Holy magick. **"
-	{
-		"trans"		"** A player has learned Holy magick. **"
-	}
-	"** 60 SECS REMAINING **"
-	{
-		"trans"		"** 60 SECS REMAINING **"
-	}
-	"** Congratulations - u won [HARD] **"
-	{
-		"trans"		"** Congratulations - u won [HARD] **"
-	}
-	"[EXTREME MODE]"
-	{
-		"trans"		"[EXTREME MODE]"
-	}
-	"** Cover 30 seconds till the rock explodes **"
-	{
-		"trans"		"** Cover 30 seconds till the rock explodes **"
-	}
-	"** 70 SECS REMAINING **"
-	{
-		"trans"		"** 70 SECS REMAINING **"
-	}
-	"** U have failed... **"
-	{
-		"trans"		"** U have failed... **"
 	}
 }

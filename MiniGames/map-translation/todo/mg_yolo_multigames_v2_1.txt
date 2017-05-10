@@ -1,0 +1,159 @@
+"Chat"
+{
+	"[MAP] WALLHACKS"
+	{
+		"trans"		"[MAP] WALLHACKS"
+	}
+	"[MUSIC] Major Lazer & DJ Snake - Lean On"
+	{
+		"trans"		"[MUSIC] Major Lazer & DJ Snake - Lean On"
+	}
+	"[MAP] AWP"
+	{
+		"trans"		"[MAP] AWP"
+	}
+	"[MUSIC] Daft Punk - Get Lucky"
+	{
+		"trans"		"[MUSIC] Daft Punk - Get Lucky"
+	}
+	"[MUSIC] Smash Mouth - All Star"
+	{
+		"trans"		"[MUSIC] Smash Mouth - All Star"
+	}
+	"[MAP] PISTOLS"
+	{
+		"trans"		"[MAP] PISTOLS"
+	}
+	"[MAP] AIM"
+	{
+		"trans"		"[MAP] AIM"
+	}
+	"[MAP] This Level By SOLIDSNAKE"
+	{
+		"trans"		"[MAP] This Level By SOLIDSNAKE"
+	}
+	"[MUSIC] Disclosure - White Noise"
+	{
+		"trans"		"[MUSIC] Disclosure - White Noise"
+	}
+	"[MUSIC] OPM - Heaven Is A Halfpipe"
+	{
+		"trans"		"[MUSIC] OPM - Heaven Is A Halfpipe"
+	}
+	"[MAP] HEADSHOT"
+	{
+		"trans"		"[MAP] HEADSHOT"
+	}
+	"[MAP] You can now cross over to enemylines"
+	{
+		"trans"		"[MAP] You can now cross over to enemylines"
+	}
+	"[MUSIC] Watsky - IDGAF"
+	{
+		"trans"		"[MUSIC] Watsky - IDGAF"
+	}
+	"[MUSIC] Macklemore - Cant Hold Us"
+	{
+		"trans"		"[MUSIC] Macklemore - Cant Hold Us"
+	}
+	"[MAP] WTF? SCOUTS"
+	{
+		"trans"		"[MAP] WTF? SCOUTS"
+	}
+	"[MAP] ELEVATOR"
+	{
+		"trans"		"[MAP] ELEVATOR"
+	}
+	"[MUSIC] Philip George - Wish You Were Mine"
+	{
+		"trans"		"[MUSIC] Philip George - Wish You Were Mine"
+	}
+	"[MAP] 1HP FOOTBALL"
+	{
+		"trans"		"[MAP] 1HP FOOTBALL"
+	}
+	"[MAP] GOOOOOOAAAAAALLLLL"
+	{
+		"trans"		"[MAP] GOOOOOOAAAAAALLLLL"
+	}
+	"Winners get in position!"
+	{
+		"trans"		"Winners get in position!"
+	}
+	"Losers prepare to take balls to the face"
+	{
+		"trans"		"Losers prepare to take balls to the face"
+	}
+	"[MAP] BLOCKS"
+	{
+		"trans"		"[MAP] BLOCKS"
+	}
+	"[MAP] Kill The Opposition With YOUR TEAMS COLOURED BLOCKS"
+	{
+		"trans"		"[MAP] Kill The Opposition With YOUR TEAMS COLOURED BLOCKS"
+	}
+	"[MAP] The Blocks Will Fly Towards You When You Shoot"
+	{
+		"trans"		"[MAP] The Blocks Will Fly Towards You When You Shoot"
+	}
+	"[MAP] CREEPER"
+	{
+		"trans"		"[MAP] CREEPER"
+	}
+	"Map begins in 3 seconds..."
+	{
+		"trans"		"Map begins in 3 seconds..."
+	}
+	"Map begins in 2 seconds..."
+	{
+		"trans"		"Map begins in 2 seconds..."
+	}
+	"Map begins in 1 second..."
+	{
+		"trans"		"Map begins in 1 second..."
+	}
+	"[MUSIC] Lou Bega - Mambo No 5"
+	{
+		"trans"		"[MUSIC] Lou Bega - Mambo No 5"
+	}
+	"[MAP] VOLLEYBALL"
+	{
+		"trans"		"[MAP] VOLLEYBALL"
+	}
+	"[MAP] KNIFE"
+	{
+		"trans"		"[MAP] KNIFE"
+	}
+	"[MUSIC] Lenny Kravitz - Fly Away"
+	{
+		"trans"		"[MUSIC] Lenny Kravitz - Fly Away"
+	}
+	"[MUSIC] Kygo - Firestone ft. Conrad"
+	{
+		"trans"		"[MUSIC] Kygo - Firestone ft. Conrad"
+	}
+	"[MAP] Enabling bullet damage in 30 seconds"
+	{
+		"trans"		"[MAP] Enabling bullet damage in 30 seconds"
+	}
+	"[MAP] Enabling bullet damage in 10 seconds"
+	{
+		"trans"		"[MAP] Enabling bullet damage in 10 seconds"
+	}
+	"[MAP] Enabling bullet damage in 5 seconds"
+	{
+		"trans"		"[MAP] Enabling bullet damage in 5 seconds"
+	}
+	"[MAP] Bullet damage enabled"
+	{
+		"trans"		"[MAP] Bullet damage enabled"
+	}
+	"[MAP] Blocks breaking in 30 seconds"
+	{
+		"trans"		"[MAP] Blocks breaking in 30 seconds"
+	}
+	"[MAP] GRENADE HOLES"
+	{
+		"trans"		"[MAP] GRENADE HOLES"
+	}
+}

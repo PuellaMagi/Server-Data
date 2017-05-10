@@ -1,0 +1,27 @@
+"Chat"
+{
+	"Map made by Mathijs"
+	{
+		"trans"		"Map made by Mathijs"
+	}
+	">> 4 <<"
+	{
+		"trans"		">> 4 <<"
+	}
+	">> 3 <<"
+	{
+		"trans"		">> 3 <<"
+	}
+	">> 2 << "
+	{
+		"trans"		">> 2 << "
+	}
+	">> 1 <<"
+	{
+		"trans"		">> 1 <<"
+	}
+	">> HAVE FUN <<"
+	{
+		"trans"		">> HAVE FUN <<"
+	}
+}

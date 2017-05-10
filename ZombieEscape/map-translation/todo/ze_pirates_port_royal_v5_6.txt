@@ -28,13 +28,13 @@
 	{
 		"trans"		">>> DEFEND THE VILLAGE FOR 40 SEC! <<<"
 	}
-	"*** WALL picked up ***"
-	{
-		"trans"		"*** WALL picked up ***"
-	}
 	"*** BUBBLES picked up ***"
 	{
 		"trans"		"*** BUBBLES picked up ***"
+	}
+	"*** WALL picked up ***"
+	{
+		"trans"		"*** WALL picked up ***"
 	}
 	">>> 10 SECONDS REMAINING <<<"
 	{
@@ -44,6 +44,10 @@
 	{
 		"trans"		">>> RUN! <<<"
 	}
+	"*** BARREL picked up ***"
+	{
+		"trans"		"*** BARREL picked up ***"
+	}
 	"*** SWORD picked up ***"
 	{
 		"trans"		"*** SWORD picked up ***"
@@ -51,10 +55,6 @@
 	">>> DOOR CLOSES IN 25 SEC <<<"
 	{
 		"trans"		">>> DOOR CLOSES IN 25 SEC <<<"
-	}
-	"*** BARREL picked up ***"
-	{
-		"trans"		"*** BARREL picked up ***"
 	}
 	">>> DOOR CLOSES IN 5 SEC <<<"
 	{
@@ -72,6 +72,10 @@
 	{
 		"trans"		">>> GATE CLOSES IN 18 SEC <<<"
 	}
+	">>> GATE IS CLOSING! <<<"
+	{
+		"trans"		">>> GATE IS CLOSING! <<<"
+	}
 	">>> ALL CANNONS ACTIVATED <<<"
 	{
 		"trans"		">>> ALL CANNONS ACTIVATED <<<"
@@ -79,10 +83,6 @@
 	">>> WAIT FOR THE SHOT FROM BLACK PEARL <<<"
 	{
 		"trans"		">>> WAIT FOR THE SHOT FROM BLACK PEARL <<<"
-	}
-	">>> GATE IS CLOSING! <<<"
-	{
-		"trans"		">>> GATE IS CLOSING! <<<"
 	}
 	">>> RUN TO THE PRISON! <<<"
 	{
@@ -168,10 +168,6 @@
 	{
 		"trans"		"*** YOU HAVE BEATEN LEVEL 2. CHALLENGE CONTINUES ON LEVEL 3 ***"
 	}
-	"> HUMANS ARE INVULNERABLE < ** KILL ALL ZOMBIES IN THE SHELTER **"
-	{
-		"trans"		"> HUMANS ARE INVULNERABLE < ** KILL ALL ZOMBIES IN THE SHELTER **"
-	}
 	">>> |LEVEL 3| <<<"
 	{
 		"trans"		">>> |LEVEL 3| <<<"
@@ -236,10 +232,6 @@
 	{
 		"trans"		">>> |LEVEL 4| <<<"
 	}
-	"+++ BARBOSSA picked up +++"
-	{
-		"trans"		"+++ BARBOSSA picked up +++"
-	}
 	"*** MEDALLION picked up ***"
 	{
 		"trans"		"*** MEDALLION picked up ***"
@@ -284,6 +276,10 @@
 	{
 		"trans"		">>> HE HAS DISAPPEARED. RUN! <<<"
 	}
+	"!!! KILL ALL ZOMBIES !!!"
+	{
+		"trans"		"!!! KILL ALL ZOMBIES !!!"
+	}
 	"***  YOU HAVE BEATEN LEVEL 4. CHALLENGE CONTINUES ON LEVEL 5 ***"
 	{
 		"trans"		"***  YOU HAVE BEATEN LEVEL 4. CHALLENGE CONTINUES ON LEVEL 5 ***"
@@ -320,25 +316,21 @@
 	{
 		"trans"		">>> GRENADES AND ITEMS DO A LOT OF DAMAGE TO HIM. USE THEM! <<<"
 	}
-	"||| KRAKEN HAS SENT A BUBBLES ON YOU |||"
+	"||| KRAKEN HAS THROWN BARREL ON YOU |||"
 	{
-		"trans"		"||| KRAKEN HAS SENT A BUBBLES ON YOU |||"
-	}
-	"||| KRAKEN HAS SENT A WAVE ON YOU |||"
-	{
-		"trans"		"||| KRAKEN HAS SENT A WAVE ON YOU |||"
+		"trans"		"||| KRAKEN HAS THROWN BARREL ON YOU |||"
 	}
 	"||| KRAKEN HAS USED VORTEX |||"
 	{
 		"trans"		"||| KRAKEN HAS USED VORTEX |||"
 	}
+	"||| KRAKEN HAS SENT A BUBBLES ON YOU |||"
+	{
+		"trans"		"||| KRAKEN HAS SENT A BUBBLES ON YOU |||"
+	}
 	"||| KRAKEN HAS SENT AN EXPLOSIVE ZOMBIE |||"
 	{
 		"trans"		"||| KRAKEN HAS SENT AN EXPLOSIVE ZOMBIE |||"
-	}
-	"||| KRAKEN HAS THROWN BARREL ON YOU |||"
-	{
-		"trans"		"||| KRAKEN HAS THROWN BARREL ON YOU |||"
 	}
 	">>> KRAKEN IS DEAD. JUMP ONTO THE RAFT <<< "
 	{
@@ -356,10 +348,6 @@
 	{
 		"trans"		"*** LAST MEDALLION picked up ***"
 	}
-	"||| KRAKEN HAS THROWN BARRELS ON YOU |||"
-	{
-		"trans"		"||| KRAKEN HAS THROWN BARRELS ON YOU |||"
-	}
 	">>> LAST MEDALLION HAS BEEN RETURNED TO THE CHEST <<<"
 	{
 		"trans"		">>> LAST MEDALLION HAS BEEN RETURNED TO THE CHEST <<<"
@@ -368,8 +356,44 @@
 	{
 		"trans"		">>> BARBOSSA IS DEAD <<<"
 	}
-	"!!! KILL ALL ZOMBIES !!!"
+	">>> YOU HAVE WON THE MAP. BUT ONLY EASY KRAKEN <<< "
 	{
-		"trans"		"!!! KILL ALL ZOMBIES !!!"
+		"trans"		">>> YOU HAVE WON THE MAP. BUT ONLY EASY KRAKEN <<< "
+	}
+	">>> |LEVEL 5 KRAKEN GOD!| <<<"
+	{
+		"trans"		">>> |LEVEL 5 KRAKEN GOD!| <<<"
+	}
+	">>> GODLY KRAKEN HAS USED DOUBLE WAVE TO CLEAR THE PATH <<<"
+	{
+		"trans"		">>> GODLY KRAKEN HAS USED DOUBLE WAVE TO CLEAR THE PATH <<<"
+	}
+	">>> KRAKEN GOD! <<<"
+	{
+		"trans"		">>> KRAKEN GOD! <<<"
+	}
+	"||| KRAKEN HAS THROWN BARRELS ON YOU |||"
+	{
+		"trans"		"||| KRAKEN HAS THROWN BARRELS ON YOU |||"
+	}
+	">>> YOU KILLED GOD KRAKEN AND WON THE MAP, AMAZING. <<< "
+	{
+		"trans"		">>> YOU KILLED GOD KRAKEN AND WON THE MAP, AMAZING. <<< "
+	}
+	">>> YOU ARE A REAL PIRATE! <<< "
+	{
+		"trans"		">>> YOU ARE A REAL PIRATE! <<< "
+	}
+	"||| KRAKEN HAS SENT A WAVE ON YOU |||"
+	{
+		"trans"		"||| KRAKEN HAS SENT A WAVE ON YOU |||"
+	}
+	"> HUMANS ARE INVULNERABLE < ** KILL ALL ZOMBIES IN THE SHELTER **"
+	{
+		"trans"		"> HUMANS ARE INVULNERABLE < ** KILL ALL ZOMBIES IN THE SHELTER **"
+	}
+	"+++ BARBOSSA picked up +++"
+	{
+		"trans"		"+++ BARBOSSA picked up +++"
 	}
 }

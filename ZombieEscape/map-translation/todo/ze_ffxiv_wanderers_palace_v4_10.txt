@@ -1,36 +1,12 @@
 "Chat"
 {
-	"*** Mapping Help Airvulpes,Kune,thas,Rukly,Shufen ***"
-	{
-		"trans"		"*** Mapping Help Airvulpes,Kune,thas,Rukly,Shufen ***"
-	}
-	"*** Model :Dakotec ***"
-	{
-		"trans"		"*** Model :Dakotec ***"
-	}
-	"*** Map made by Altima ***"
-	{
-		"trans"		"*** Map made by Altima ***"
-	}
-	"*** ze_ffxiv_wanderers_palace ***"
-	{
-		"trans"		"*** ze_ffxiv_wanderers_palace ***"
-	}
-	"*** Level:Normal ***"
-	{
-		"trans"		"*** Level:Normal ***"
-	}
-	"*** HINT: Activate Nymian Device ***"
-	{
-		"trans"		"*** HINT: Activate Nymian Device ***"
-	}
-	"*** 15 seconds to activate Nymian device ***"
-	{
-		"trans"		"*** 15 seconds to activate Nymian device ***"
-	}
 	"*** 5 seconds ***"
 	{
 		"trans"		"*** 5 seconds ***"
+	}
+	"*** Mapping Help Airvulpes,Kune,thas,Rukly,Shufen ***"
+	{
+		"trans"		"*** Mapping Help Airvulpes,Kune,thas,Rukly,Shufen ***"
 	}
 	"*** 30 seconds to Activate Nymian device ***"
 	{
@@ -44,18 +20,6 @@
 	{
 		"trans"		"*** Enkidu appeared ***"
 	}
-	"*** Shoot to Enkidu ***"
-	{
-		"trans"		"*** Shoot to Enkidu ***"
-	}
-	"*** Enkidu dead ***"
-	{
-		"trans"		"*** Enkidu dead ***"
-	}
-	"*** 25 seconds to Activate Nymian device ***"
-	{
-		"trans"		"*** 25 seconds to Activate Nymian device ***"
-	}
 	"*** 10 seconds  ***"
 	{
 		"trans"		"*** 10 seconds  ***"
@@ -64,61 +28,17 @@
 	{
 		"trans"		"*** Look for all of Nymian device ***"
 	}
-	"*** Nymian device 1 activated ***"
-	{
-		"trans"		"*** Nymian device 1 activated ***"
-	}
-	"*** Nymian device 3 activated ***"
-	{
-		"trans"		"*** Nymian device 3 activated ***"
-	}
-	"*** Nymian device 4 activated ***"
-	{
-		"trans"		"*** Nymian device 4 activated ***"
-	}
-	"*** Nymian device 2 activated ***"
-	{
-		"trans"		"*** Nymian device 2 activated ***"
-	}
-	"*** ALL Nymian device Activated ***"
-	{
-		"trans"		"*** ALL Nymian device Activated ***"
-	}
-	"*** 5 seconds to Activate Nymian device ***"
-	{
-		"trans"		"*** 5 seconds to Activate Nymian device ***"
-	}
 	"*** Normal Clear!! ***"
 	{
 		"trans"		"*** Normal Clear!! ***"
-	}
-	"*** Next Level Hard ***"
-	{
-		"trans"		"*** Next Level Hard ***"
-	}
-	"*** Level:Hard ***"
-	{
-		"trans"		"*** Level:Hard ***"
 	}
 	"***A player picked up Summoner Shadow Flare***"
 	{
 		"trans"		"***A player picked up Summoner Shadow Flare***"
 	}
-	"***Recast 60s***"
-	{
-		"trans"		"***Recast 60s***"
-	}
 	"*** 15 seconds to leave Tonberrys ***"
 	{
 		"trans"		"*** 15 seconds to leave Tonberrys ***"
-	}
-	"***A player picked up Black Mage Flare***"
-	{
-		"trans"		"***A player picked up Black Mage Flare***"
-	}
-	"***Recast 55s***"
-	{
-		"trans"		"***Recast 55s***"
 	}
 	"*** 20 seconds to activate Nymian device ***"
 	{
@@ -132,9 +52,9 @@
 	{
 		"trans"		"***A player picked up Mount Night Mare***"
 	}
-	"***Recast 50s***"
+	"*** 25 seconds to Activate Nymian device ***"
 	{
-		"trans"		"***Recast 50s***"
+		"trans"		"*** 25 seconds to Activate Nymian device ***"
 	}
 	"*** 30 seconds to Activate Nymian device  ***"
 	{
@@ -148,31 +68,7 @@
 	{
 		"trans"		"*** Location: The Navel ***"
 	}
-	"*** Behemoth King Appeared ***"
-	{
-		"trans"		"*** Behemoth King Appeared ***"
-	}
-	"*** Shoot Him ***"
-	{
-		"trans"		"*** Shoot Him ***"
-	}
-	"*** Heavens Fall ***"
-	{
-		"trans"		"*** Heavens Fall ***"
-	}
-	"*** Land Slide ***"
-	{
-		"trans"		"*** Land Slide ***"
-	}
-	"*** Behemoth King dead ***"
-	{
-		"trans"		"*** Behemoth King dead ***"
-	}
-	"***45 seconds to HARD CLEAR***"
-	{
-		"trans"		"***45 seconds to HARD CLEAR***"
-	}
-	"***5 seconds***"
+	"***5 SECONDS***"
 	{
 		"trans"		"***5 seconds***"
 	}
@@ -180,29 +76,13 @@
 	{
 		"trans"		"***HARD CLEAR***"
 	}
-	"***Texture Support by fujione***"
+	"***A player picked up Black Mage Flare***"
 	{
-		"trans"		"***Texture Support by fujione***"
+		"trans"		"***A player picked up Black Mage Flare***"
 	}
-	"***Map made by Altima***"
+	"***A player picked up Paladin Shield Oath"
 	{
-		"trans"		"***Map made by Altima***"
-	}
-	"***Next Level Extreme***"
-	{
-		"trans"		"***Next Level Extreme***"
-	}
-	"*** Level:Extreme ***"
-	{
-		"trans"		"*** Level:Extreme ***"
-	}
-	"***A player picked up Bird Armys Paeon***"
-	{
-		"trans"		"***A player picked up Bird Armys Paeon***"
-	}
-	"***Recast 90s***"
-	{
-		"trans"		"***Recast 90s***"
+		"trans"		"***A player picked up Paladin Shield Oath"
 	}
 	"*** 35 seconds to activate Nymian device ***"
 	{
@@ -212,33 +92,13 @@
 	{
 		"trans"		"*** 10 seconds ***"
 	}
-	"***A player picked up Paladin Shield Oath"
-	{
-		"trans"		"***A player picked up Paladin Shield Oath"
-	}
-	"***Recast 80s***"
-	{
-		"trans"		"***Recast 80s***"
-	}
 	"*** Chase the ADS ***"
 	{
 		"trans"		"*** Chase the ADS ***"
 	}
-	"*** 30 seconds to Open Door ***"
-	{
-		"trans"		"*** 30 seconds to Open Door ***"
-	}
 	"***A player picked up Limit Break***"
 	{
 		"trans"		"***A player picked up Limit Break***"
-	}
-	"*** once only ***"
-	{
-		"trans"		"*** once only ***"
-	}
-	"*** 45 seconds to Break Rocks ***"
-	{
-		"trans"		"*** 45 seconds to Break Rocks ***"
 	}
 	"***A player picked up White Mage Benediction***"
 	{
@@ -252,53 +112,13 @@
 	{
 		"trans"		"***Bahamut Prime appeared***"
 	}
-	"***Bahamut Prime is Casting now***"
+	"***A player picked up Bird Armys Paeon***"
 	{
-		"trans"		"***Bahamut Prime is Casting now***"
+		"trans"		"***A player picked up Bird Armys Paeon***"
 	}
-	"***Akh Morn***"
+	"*** 45 seconds to Break Rocks ***"
 	{
-		"trans"		"***Akh Morn***"
-	}
-	"*** 3 ***"
-	{
-		"trans"		"*** 3 ***"
-	}
-	"*** 2 ***"
-	{
-		"trans"		"*** 2 ***"
-	}
-	"*** 1 ***"
-	{
-		"trans"		"*** 1 ***"
-	}
-	"***Tempest Wing***"
-	{
-		"trans"		"***Tempest Wing***"
-	}
-	"***ADS Attack***"
-	{
-		"trans"		"***ADS Attack***"
-	}
-	"***shoot ADS and Zombies***"
-	{
-		"trans"		"***shoot ADS and Zombies***"
-	}
-	"***Heavens Fall***"
-	{
-		"trans"		"***Heavens Fall***"
-	}
-	"***Earth Shaker***"
-	{
-		"trans"		"***Earth Shaker***"
-	}
-	"***Bahamut Prime dead***"
-	{
-		"trans"		"***Bahamut Prime dead***"
-	}
-	"*** 15 seconds to activate Elevator ***"
-	{
-		"trans"		"*** 15 seconds to activate Elevator ***"
+		"trans"		"*** 45 seconds to Break Rocks ***"
 	}
 	"*** 30 seconds to Open Wall ***"
 	{
@@ -308,41 +128,9 @@
 	{
 		"trans"		"*** Dont Touch Water ***"
 	}
-	"*** Water is Death Zone ***"
+	"*** Nymian device 1 activated ***"
 	{
-		"trans"		"*** Water is Death Zone ***"
-	}
-	"*** Nael Van Dahrnus Appeared ***"
-	{
-		"trans"		"*** Nael Van Dahrnus Appeared ***"
-	}
-	"*** Kill HER ***"
-	{
-		"trans"		"*** Kill HER ***"
-	}
-	"*** Dead ***"
-	{
-		"trans"		"*** Dead ***"
-	}
-	"*** Extreme CLEAR ***"
-	{
-		"trans"		"*** Extreme CLEAR ***"
-	}
-	"*** Next Level Savage ***"
-	{
-		"trans"		"*** Next Level Savage ***"
-	}
-	"*** Level:Savage ***"
-	{
-		"trans"		"*** Level:Savage ***"
-	}
-	"***Holm gang zombie incoming...***"
-	{
-		"trans"		"***Holm gang zombie incoming...***"
-	}
-	"*** Recast 95s ***"
-	{
-		"trans"		"*** Recast 95s ***"
+		"trans"		"*** Nymian device 1 activated ***"
 	}
 	"*** 30 seconds to Break Fence ***"
 	{
@@ -356,10 +144,6 @@
 	{
 		"trans"		"***Location: The Ragnarok ***"
 	}
-	"*** Defend 45 seconds ***"
-	{
-		"trans"		"*** Defend 45 seconds ***"
-	}
 	"*** ADS ATTACK ***"
 	{
 		"trans"		"*** ADS ATTACK ***"
@@ -368,81 +152,13 @@
 	{
 		"trans"		"*** Dalamud appeared ***"
 	}
-	"*** Dalamud the last boss ***"
-	{
-		"trans"		"*** Dalamud the last boss ***"
-	}
-	"*** Shadow Flare ***"
-	{
-		"trans"		"*** Shadow Flare ***"
-	}
-	"*** Cauterize ***"
-	{
-		"trans"		"*** Cauterize ***"
-	}
-	"*** True Bahamut appeared ***"
-	{
-		"trans"		"*** True Bahamut appeared ***"
-	}
-	"*** True Heavens fall ***"
-	{
-		"trans"		"*** True Heavens fall ***"
-	}
-	"*** Steam Judge ***"
-	{
-		"trans"		"*** Steam Judge ***"
-	}
-	"*** True Bahamut dead ***"
-	{
-		"trans"		"*** True Bahamut dead ***"
-	}
 	"*** 45 seconds to Open Wall ***"
 	{
 		"trans"		"*** 45 seconds to Open Wall ***"
 	}
-	"*** Odin Appeared ***"
+	"*** Water is Death Zone ***"
 	{
-		"trans"		"*** Odin Appeared ***"
-	}
-	"*** Kill Odin ***"
-	{
-		"trans"		"*** Kill Odin ***"
-	}
-	"*** Savage CLEAR ***"
-	{
-		"trans"		"*** Savage CLEAR ***"
-	}
-	"*** Winners are Heroes of Light ***"
-	{
-		"trans"		"*** Winners are Heroes of Light ***"
-	}
-	"*** ADMIN BUTTON Level Ultimate ***"
-	{
-		"trans"		"*** ADMIN BUTTON Level Ultimate ***"
-	}
-	"*** ze_ffxiv_wanderers_palace...? ***"
-	{
-		"trans"		"*** ze_ffxiv_wanderers_palace...? ***"
-	}
-	"*** Level:Ultimate ***"
-	{
-		"trans"		"*** Level:Ultimate ***"
-	}
-	"*** This mode is Secret mode ***"
-	{
-		"trans"		"*** This mode is Secret mode ***"
-	}
-	"*** Chances are once only ***"
-	{
-		"trans"		"*** Chances are once only ***"
-	}
-	"*** Level set .... Next Level Normal ***"
-	{
-		"trans"		"*** Level set .... Next Level Normal ***"
-	}
-	"*** Random Item breaker Activate... ***"
-	{
-		"trans"		"*** Random Item breaker Activate... ***"
+		"trans"		"*** Water is Death Zone ***"
 	}
 	"*** You have passed through the first phase ***"
 	{
@@ -452,12 +168,32 @@
 	{
 		"trans"		"*** Level set....Next Level Ultimate ***"
 	}
-	"*** Armys Paeon ***"
-	{
-		"trans"		"*** Armys Paeon ***"
-	}
 	"*** Dark Bahamut is blocking the road ***"
 	{
 		"trans"		"*** Dark Bahamut is blocking the road ***"
+	}
+	"***Ultimate Akh Morn***"
+	{
+		"trans"		"***Ultimate Akh Morn***"
+	}
+	"*** Ultimate Cauterize ***"
+	{
+		"trans"		"*** Ultimate Cauterize ***"
+	}
+	"*** Ultimate Shadow Flare ***"
+	{
+		"trans"		"*** Ultimate Shadow Flare ***"
+	}
+	"*** Ultimate Heavens fall ***"
+	{
+		"trans"		"*** Ultimate Heavens fall ***"
+	}
+	"*** Shield Oath ***"
+	{
+		"trans"		"*** Shield Oath ***"
+	}
+	"***Recast 80s***"
+	{
+		"trans"		"***Recast 80s***"
 	}
 }

@@ -4,8 +4,36 @@
 	{
 		"trans"		"*** Resist for 30 seconds! ***"
 	}
+	"*** Hold the house for 24 seconds! ***"
+	{
+		"trans"		"*** Hold the house for 24 seconds! ***"
+	}
+	"*** Windows that don't have a wooden plank are breakable! ***"
+	{
+		"trans"		"*** Windows that don't have a wooden plank are breakable! ***"
+	}
 	"*** Resist for 10 more seconds! ***"
 	{
 		"trans"		"*** Resist for 10 more seconds! ***"
+	}
+	"*** ZE INDUSTRIAL DEJAVU - ORIGINALY MADE IN ONE DAY ***"
+	{
+		"trans"		"*** ZE INDUSTRIAL DEJAVU - ORIGINALY MADE IN ONE DAY ***"
+	}
+	"*** Strangely near door opens in 12 seconds. ***"
+	{
+		"trans"		"*** Strangely near door opens in 12 seconds. ***"
+	}
+	"*** Door opens in 20 seconds! ***"
+	{
+		"trans"		"*** Door opens in 20 seconds! ***"
+	}
+	"*** Door closes in 8 seconds! ***"
+	{
+		"trans"		"*** Door closes in 8 seconds! ***"
+	}
+	"*** ZOMBIES DETECTED - INVALID VICTORY ***"
+	{
+		"trans"		"*** ZOMBIES DETECTED - INVALID VICTORY ***"
 	}
 }

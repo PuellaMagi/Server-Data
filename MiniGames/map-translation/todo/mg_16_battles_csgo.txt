@@ -1,0 +1,75 @@
+"Chat"
+{
+	"Map Ported by Shawn for GiClan"
+	{
+		"trans"		"Map Ported by Shawn for GiClan"
+	}
+	"You have 45 Seconds to Buy!"
+	{
+		"trans"		"You have 45 Seconds to Buy!"
+	}
+	"You have chosen: Maze!"
+	{
+		"trans"		"You have chosen: Maze!"
+	}
+	"You have chosen: Glass!"
+	{
+		"trans"		"You have chosen: Glass!"
+	}
+	"You have chosen: Sparta!"
+	{
+		"trans"		"You have chosen: Sparta!"
+	}
+	"You have chosen: Submarine!"
+	{
+		"trans"		"You have chosen: Submarine!"
+	}
+	"You have chosen: Hill!"
+	{
+		"trans"		"You have chosen: Hill!"
+	}
+	"You have chosen: Dev!"
+	{
+		"trans"		"You have chosen: Dev!"
+	}
+	"You have chosen: Freezer!"
+	{
+		"trans"		"You have chosen: Freezer!"
+	}
+	"You have chosen: Pool!"
+	{
+		"trans"		"You have chosen: Pool!"
+	}
+	"You have chosen: Fortress!"
+	{
+		"trans"		"You have chosen: Fortress!"
+	}
+	"You have chosen: Highway!"
+	{
+		"trans"		"You have chosen: Highway!"
+	}
+	"You have chosen: Speed circle!"
+	{
+		"trans"		"You have chosen: Speed circle!"
+	}
+	"You have chosen: Nether!"
+	{
+		"trans"		"You have chosen: Nether!"
+	}
+	"You have chosen: Eye rape!"
+	{
+		"trans"		"You have chosen: Eye rape!"
+	}
+	"You have chosen: Cemetery!"
+	{
+		"trans"		"You have chosen: Cemetery!"
+	}
+	"You have chosen: Rooftop!"
+	{
+		"trans"		"You have chosen: Rooftop!"
+	}
+	"You have chosen: Sewers!"
+	{
+		"trans"		"You have chosen: Sewers!"
+	}
+}

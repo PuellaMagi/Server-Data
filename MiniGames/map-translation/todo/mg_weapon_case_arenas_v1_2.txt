@@ -1,0 +1,39 @@
+"Chat"
+{
+	"[MAP] This map does not work with bots..."
+	{
+		"trans"		"[MAP] This map does not work with bots..."
+	}
+	"[MAP] Map by [SG] Paul"
+	{
+		"trans"		"[MAP] Map by [SG] Paul"
+	}
+	"[MAP] Steam name = sgpaul"
+	{
+		"trans"		"[MAP] Steam name = sgpaul"
+	}
+	"[MAP] twitch.tv／onscreenlol"
+	{
+		"trans"		"[MAP] twitch.tv／onscreenlol"
+	}
+	"[MAP] twitch.tv／lirik"
+	{
+		"trans"		"[MAP] twitch.tv／lirik"
+	}
+	"[MAP] twitch.tv／joshog"
+	{
+		"trans"		"[MAP] twitch.tv／joshog"
+	}
+	"[MAP] VAC Island ft. easy skins"
+	{
+		"trans"		"[MAP] VAC Island ft. easy skins"
+	}
+	"[MAP] twitch.tv／summit1g"
+	{
+		"trans"		"[MAP] twitch.tv／summit1g"
+	}
+	"[MAP] twitch.tv／b0aty"
+	{
+		"trans"		"[MAP] twitch.tv／b0aty"
+	}
+}

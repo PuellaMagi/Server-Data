@@ -1,0 +1,43 @@
+"Chat"
+{
+	">>>*25 seconds to opening the door*<<<"
+	{
+		"trans"		">>>*25 seconds to opening the door*<<<"
+	}
+	">>>*45 seconds to opening the door*<<<"
+	{
+		"trans"		">>>*45 seconds to opening the door*<<<"
+	}
+	">>>*3 seconds to closing the door*<<<"
+	{
+		"trans"		">>>*3 seconds to closing the door*<<<"
+	}
+	">>>*Elevator going up through 3 seconds*<<<"
+	{
+		"trans"		">>>*Elevator going up through 3 seconds*<<<"
+	}
+	">>>*60 seconds to opening the door*<<<"
+	{
+		"trans"		">>>*60 seconds to opening the door*<<<"
+	}
+	">>>*Hold 30 seconds!*<<<"
+	{
+		"trans"		">>>*Hold 30 seconds!*<<<"
+	}
+	">>>*30 seconds to opening the door*<<<"
+	{
+		"trans"		">>>*30 seconds to opening the door*<<<"
+	}
+	">>>*120 seconds to opening the door*<<<"
+	{
+		"trans"		">>>*120 seconds to opening the door*<<<"
+	}
+	"<<< NUKE explode through 5 seconds>>>"
+	{
+		"trans"		"<<< NUKE explode through 5 seconds>>>"
+	}
+	">>>*2 seconds to closing the door*<<<"
+	{
+		"trans"		">>>*2 seconds to closing the door*<<<"
+	}
+}

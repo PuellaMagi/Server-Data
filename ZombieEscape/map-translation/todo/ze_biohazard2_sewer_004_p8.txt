@@ -4,14 +4,6 @@
 	{
 		"trans"		"**** MAP BY AERIS_004 ****"
 	}
-	"***WWW.SUPREME-ELITE.FR ***"
-	{
-		"trans"		"***WWW.SUPREME-ELITE.FR ***"
-	}
-	"***START ELEVATOR 15 SEC***"
-	{
-		"trans"		"***START ELEVATOR 15 SEC***"
-	}
 	"***ELEVATOR UP 14 SEC***"
 	{
 		"trans"		"***ELEVATOR UP 14 SEC***"
@@ -19,22 +11,6 @@
 	"*** CATCH GOLD MEDAL ***"
 	{
 		"trans"		"*** CATCH GOLD MEDAL ***"
-	}
-	"***GENERATOR DESACTIVED***"
-	{
-		"trans"		"***GENERATOR DESACTIVED***"
-	}
-	"***CATCH FUSE***"
-	{
-		"trans"		"***CATCH FUSE***"
-	}
-	"***CATCH SILVER MEDAL***"
-	{
-		"trans"		"***CATCH SILVER MEDAL***"
-	}
-	"***START TRAIN 20 SEC ***"
-	{
-		"trans"		"***START TRAIN 20 SEC ***"
 	}
 	"*** START TRAIN 10 SEC ***"
 	{

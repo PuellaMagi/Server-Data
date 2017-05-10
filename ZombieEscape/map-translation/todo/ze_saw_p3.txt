@@ -1,0 +1,91 @@
+"Chat"
+{
+	">-Map By TaskuVaras-<"
+	{
+		"trans"		">-Map By TaskuVaras-<"
+	}
+	">-Watch out for traps!!!-<"
+	{
+		"trans"		">-Watch out for traps!!!-<"
+	}
+	">- 1 Player needs to get into furnace  -<"
+	{
+		"trans"		">- 1 Player needs to get into furnace  -<"
+	}
+	">- keep zombies away for 45 seconds  -<"
+	{
+		"trans"		">- keep zombies away for 45 seconds  -<"
+	}
+	">- 5 more seconds  -<"
+	{
+		"trans"		">- 5 more seconds  -<"
+	}
+	">- Door opening in 30 seconds  -<"
+	{
+		"trans"		">- Door opening in 30 seconds  -<"
+	}
+	">- furnace door opening in 20 sec  -<"
+	{
+		"trans"		">- furnace door opening in 20 sec  -<"
+	}
+	">- nervegas released in spawn area  -<"
+	{
+		"trans"		">- nervegas released in spawn area  -<"
+	}
+	">-Elevator coming in 30 sec-<"
+	{
+		"trans"		">-Elevator coming in 30 sec-<"
+	}
+	">-Elevator leaving in 7 sec-<"
+	{
+		"trans"		">-Elevator leaving in 7 sec-<"
+	}
+	">- nervegas released in first traps  -<"
+	{
+		"trans"		">- nervegas released in first traps  -<"
+	}
+	">- keep zombies away for 30 seconds  -<"
+	{
+		"trans"		">- keep zombies away for 30 seconds  -<"
+	}
+	">- Hold for 40 seconds  -<"
+	{
+		"trans"		">- Hold for 40 seconds  -<"
+	}
+	">- nervegas released in elevator area  -<"
+	{
+		"trans"		">- nervegas released in elevator area  -<"
+	}
+	">- nailbombs exploding in 40 seconds  -<"
+	{
+		"trans"		">- nailbombs exploding in 40 seconds  -<"
+	}
+	">- keep zombies inside -<"
+	{
+		"trans"		">- keep zombies inside -<"
+	}
+	">- Keep ZOMBIES away for 60 second -<"
+	{
+		"trans"		">- Keep ZOMBIES away for 60 second -<"
+	}
+	">- generator room exploding in 75 seconds  -<"
+	{
+		"trans"		">- generator room exploding in 75 seconds  -<"
+	}
+	">- 30 more seconds  -<"
+	{
+		"trans"		">- 30 more seconds  -<"
+	}
+	">- 10 more seconds  -<"
+	{
+		"trans"		">- 10 more seconds  -<"
+	}
+	">- bomb shelter opening -<"
+	{
+		"trans"		">- bomb shelter opening -<"
+	}
+	">- shelter door closing!!  -<"
+	{
+		"trans"		">- shelter door closing!!  -<"
+	}
+}

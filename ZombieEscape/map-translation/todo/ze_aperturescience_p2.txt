@@ -1,20 +1,148 @@
 "Chat"
 {
+	"--Welcome to the Aperture Science Center--"
+	{
+		"trans"		"--Welcome to the Aperture Science Center--"
+	}
+	"--Map made by Eugenio **Motanum** Roman--"
+	{
+		"trans"		"--Map made by Eugenio **Motanum** Roman--"
+	}
+	"--Sponsored by ]HeLL[ Clan--"
+	{
+		"trans"		"--Sponsored by ]HeLL[ Clan--"
+	}
+	"--Are you sure you want to kill the Weighted Companion Cube?--"
+	{
+		"trans"		"--Are you sure you want to kill the Weighted Companion Cube?--"
+	}
+	"--Survive 30 seconds!--"
+	{
+		"trans"		"--Survive 30 seconds!--"
+	}
 	"--YES____      NO_____--"
 	{
 		"trans"		"--YES____      NO_____--"
+	}
+	"--YES _X_--"
+	{
+		"trans"		"--YES _X_--"
+	}
+	"**Hint: Crouch to go over the glass**"
+	{
+		"trans"		"**Hint: Crouch to go over the glass**"
+	}
+	"--That was a quick answer! Patience is a virtue--"
+	{
+		"trans"		"--That was a quick answer! Patience is a virtue--"
+	}
+	"--What is the rush? Did the Companion Cube said something bad?--"
+	{
+		"trans"		"--What is the rush? Did the Companion Cube said something bad?--"
+	}
+	"--We are trying to escape from zombies! And we adore the companion cube--"
+	{
+		"trans"		"--We are trying to escape from zombies! And we adore the companion cube--"
+	}
+	"--You love an inanimate object! How silly!--"
+	{
+		"trans"		"--You love an inanimate object! How silly!--"
+	}
+	"--But for the last time are you extremely sure you want this?--"
+	{
+		"trans"		"--But for the last time are you extremely sure you want this?--"
+	}
+	"--If thats what you REALLY want--"
+	{
+		"trans"		"--If thats what you REALLY want--"
+	}
+	"--5--"
+	{
+		"trans"		"--5--"
+	}
+	"--4--"
+	{
+		"trans"		"--4--"
+	}
+	"--3--"
+	{
+		"trans"		"--3--"
+	}
+	"--2--"
+	{
+		"trans"		"--2--"
+	}
+	"--1--"
+	{
+		"trans"		"--1--"
+	}
+	"--Doors are open you horrible people--"
+	{
+		"trans"		"--Doors are open you horrible people--"
+	}
+	"--Doors clossing in 5--"
+	{
+		"trans"		"--Doors clossing in 5--"
+	}
+	"--Doors closed--"
+	{
+		"trans"		"--Doors closed--"
+	}
+	"--Doors will reopen in 15 seconds--"
+	{
+		"trans"		"--Doors will reopen in 15 seconds--"
 	}
 	"--**HINT: Crouch to clear the orange sphere!**--"
 	{
 		"trans"		"--**HINT: Crouch to clear the orange sphere!**--"
 	}
+	"--Congratulations--"
+	{
+		"trans"		"--Congratulations--"
+	}
+	"--Cake will follow up shortly--"
+	{
+		"trans"		"--Cake will follow up shortly--"
+	}
+	"--Office doors open in 20 seconds--"
+	{
+		"trans"		"--Office doors open in 20 seconds--"
+	}
 	"--Hold this position from any zombies--"
 	{
 		"trans"		"--Hold this position from any zombies--"
 	}
+	"--Office doors close in 5--"
+	{
+		"trans"		"--Office doors close in 5--"
+	}
+	"--Office doors will reopen in 20 seconds--"
+	{
+		"trans"		"--Office doors will reopen in 20 seconds--"
+	}
 	"--Office doors are now closed--"
 	{
 		"trans"		"--Office doors are now closed--"
+	}
+	"--Cutting the cake in 5--"
+	{
+		"trans"		"--Cutting the cake in 5--"
+	}
+	"--Cake is being Cut! You are too late--"
+	{
+		"trans"		"--Cake is being Cut! You are too late--"
+	}
+	"--Office doors are now Open--"
+	{
+		"trans"		"--Office doors are now Open--"
+	}
+	"--Fighting GLaDOS--"
+	{
+		"trans"		"--Fighting GLaDOS--"
+	}
+	"--Protect yourself from the zombies for 60 seconds!--"
+	{
+		"trans"		"--Protect yourself from the zombies for 60 seconds!--"
 	}
 	"--Zombie teleport in 25 secs!--"
 	{
@@ -24,6 +152,10 @@
 	{
 		"trans"		"--GLaDOS is exploding! Take cover!--"
 	}
+	"--Lift doors open in 10 seconds!--"
+	{
+		"trans"		"--Lift doors open in 10 seconds!--"
+	}
 	"--Escape lift doors closing in 10 seconds--"
 	{
 		"trans"		"--Escape lift doors closing in 10 seconds--"
@@ -32,12 +164,12 @@
 	{
 		"trans"		"--Lift has now left Aperture Science--"
 	}
-	"**Hint: Crouch to go over the glass**"
+	"--We hope you have enjoyed your stay at Aperture Science!--"
 	{
-		"trans"		"**Hint: Crouch to go over the glass**"
+		"trans"		"--We hope you have enjoyed your stay at Aperture Science!--"
 	}
-	"--Welcome to the Aperture Science Center--"
+	"--Thanks for Playing!--"
 	{
-		"trans"		"--Welcome to the Aperture Science Center--"
+		"trans"		"--Thanks for Playing!--"
 	}
 }

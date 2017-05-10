@@ -28,7 +28,7 @@
 	{
 		"trans"		"*** Teleporter Activates in 15 Seconds ***"
 	}
-	"*** Door opens in 30 seconds ***"
+	"*** Door Opens in 30 seconds ***"
 	{
 		"trans"		"*** Door Opens in 30 seconds ***"
 	}

@@ -16,4 +16,52 @@
 	{
 		"trans"		"***Hostile movement detected south of your position.  I'm sealing the bunker doors in 10 seconds, get in or get left behind!***"
 	}
+	"***I've managed to activate the secondary bulkheads, that should keep them--shit, watch out for Ridley's firebeam!***"
+	{
+		"trans"		"***I've managed to activate the secondary bulkheads, that should keep them--shit, watch out for Ridley's firebeam!***"
+	}
+	"***There's a hidden exit in the back, hold them off while I try to open it.***"
+	{
+		"trans"		"***There's a hidden exit in the back, hold them off while I try to open it.***"
+	}
+	"***The exit's clear, get out of there!***"
+	{
+		"trans"		"***The exit's clear, get out of there!***"
+	}
+	"***I don't know where that teleporter will take you, but it's better than staying here!***"
+	{
+		"trans"		"***I don't know where that teleporter will take you, but it's better than staying here!***"
+	}
+	"***Welcome to Zebes' version of hell--Norfair.  You've got maybe a minute before the heat overwhelms you.***"
+	{
+		"trans"		"***Welcome to Zebes' version of hell--Norfair.  You've got maybe a minute before the heat overwhelms you.***"
+	}
+	"***There's a teleporter up top.  Make your way across the bridge and use the grappling beams to get to the higher ledges.***"
+	{
+		"trans"		"***There's a teleporter up top.  Make your way across the bridge and use the grappling beams to get to the higher ledges.***"
+	}
+	"***WARNING.  INTRUDERS DETECTED IN METROID HABITATION CHAMBER.***"
+	{
+		"trans"		"***WARNING.  INTRUDERS DETECTED IN METROID HABITATION CHAMBER.***"
+	}
+	"***MOTHER BRAIN DEFENSE SYSTEM ACTIVATED.  CHAMBER PURGE IN TEN SECONDS.***"
+	{
+		"trans"		"***MOTHER BRAIN DEFENSE SYSTEM ACTIVATED.  CHAMBER PURGE IN TEN SECONDS.***"
+	}
+	"***Quick--shoot out the glass surrounding Mother Brain!***"
+	{
+		"trans"		"***Quick--shoot out the glass surrounding Mother Brain!***"
+	}
+	"***SYSTEM MALFUNCTION.  ACTIVATING SECONDARY SYSTEMS.***"
+	{
+		"trans"		"***SYSTEM MALFUNCTION.  ACTIVATING SECONDARY SYSTEMS.***"
+	}
+	"***SELF-DESTRUCT SEQUENCE INITIATED.  ONE MINUTE UNTIL REACTOR CORE MELTDOWN.***"
+	{
+		"trans"		"***SELF-DESTRUCT SEQUENCE INITIATED.  ONE MINUTE UNTIL REACTOR CORE MELTDOWN.***"
+	}
+	"***The exit's clear, get the hell out of there.  You've got maybe ten seconds before the zombies can follow.***"
+	{
+		"trans"		"***The exit's clear, get the hell out of there.  You've got maybe ten seconds before the zombies can follow.***"
+	}
 }

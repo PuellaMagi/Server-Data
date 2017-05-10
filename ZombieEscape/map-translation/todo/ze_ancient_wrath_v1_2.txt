@@ -1,47 +1,151 @@
 "Chat"
 {
-	"<Stage 3>"
+	"||| WARMUP ROUND |||"
 	{
-		"trans"		"<Stage 3>"
-	}
-	">>NUKE<<ADMINROOM NUKE ACTIVATED>>NUKE<<"
-	{
-		"trans"		">>NUKE<<ADMINROOM NUKE ACTIVATED>>NUKE<<"
-	}
-	"||| FALL BACK |||"
-	{
-		"trans"		"||| FALL BACK |||"
-	}
-	"||| CHAPTER 1 => RETURN |||"
-	{
-		"trans"		"||| CHAPTER 1 => RETURN |||"
-	}
-	"<Ammo gun has been acquired>"
-	{
-		"trans"		"<Ammo gun has been acquired>"
+		"trans"		"||| WARMUP ROUND |||"
 	}
 	"<Growth gun has been acquired>"
 	{
 		"trans"		"<Growth gun has been acquired>"
 	}
-	"<Rift gun has been acquired>"
+	"<Ammo gun has been acquired>"
 	{
-		"trans"		"<Rift gun has been acquired>"
-	}
-	"||| ELEVATOR OPENS IN 25 SECONDS |||"
-	{
-		"trans"		"||| ELEVATOR OPENS IN 25 SECONDS |||"
+		"trans"		"<Ammo gun has been acquired>"
 	}
 	"<Tornado gun has been acquired>"
 	{
 		"trans"		"<Tornado gun has been acquired>"
 	}
-	"||| ZOMBIES TAKE THE STAIRS |||"
+	"<Rift gun has been acquired>"
 	{
-		"trans"		"||| ZOMBIES TAKE THE STAIRS |||"
+		"trans"		"<Rift gun has been acquired>"
+	}
+	"<Inferno gun has been acquired>"
+	{
+		"trans"		"<Inferno gun has been acquired>"
+	}
+	"||| CHAPTER 1 => RETURN |||"
+	{
+		"trans"		"||| CHAPTER 1 => RETURN |||"
+	}
+	"||| HOLD FOR 30 SECONDS |||"
+	{
+		"trans"		"||| HOLD FOR 30 SECONDS |||"
+	}
+	"||| FALL BACK |||"
+	{
+		"trans"		"||| FALL BACK |||"
+	}
+	"||| PRESS BOTH BUTTONS AT THE SAME TIME |||"
+	{
+		"trans"		"||| PRESS BOTH BUTTONS AT THE SAME TIME |||"
+	}
+	"||| HOLD FOR 20 SECONDS |||"
+	{
+		"trans"		"||| HOLD FOR 20 SECONDS |||"
+	}
+	"||| ELEVATOR OPENS IN 25 SECONDS |||"
+	{
+		"trans"		"||| ELEVATOR OPENS IN 25 SECONDS |||"
 	}
 	"||| HOLD FOR 10 SECONDS |||"
 	{
 		"trans"		"||| HOLD FOR 10 SECONDS |||"
+	}
+	"||| DOOR IS CLOSING |||"
+	{
+		"trans"		"||| DOOR IS CLOSING |||"
+	}
+	"||| HOLD THE ELEVATOR FOR 25 SECONDS |||"
+	{
+		"trans"		"||| HOLD THE ELEVATOR FOR 25 SECONDS |||"
+	}
+	"||| ZOMBIES TAKE THE STAIRS |||"
+	{
+		"trans"		"||| ZOMBIES TAKE THE STAIRS |||"
+	}
+	"||| RUN BACK OUT THE FACILITY |||"
+	{
+		"trans"		"||| RUN BACK OUT THE FACILITY |||"
+	}
+	"||| SHOOT THE SECOND DOOR OPEN |||"
+	{
+		"trans"		"||| SHOOT THE SECOND DOOR OPEN |||"
+	}
+	"||| CHAPTER 2 => SECURE |||"
+	{
+		"trans"		"||| CHAPTER 2 => SECURE |||"
+	}
+	"||| TELEPORTER AND VENTILATION REACTIVATE IN 15 SECONDS |||"
+	{
+		"trans"		"||| TELEPORTER AND VENTILATION REACTIVATE IN 15 SECONDS |||"
+	}
+	"||| DISABLE BOTH SECURITY STATIONS |||"
+	{
+		"trans"		"||| DISABLE BOTH SECURITY STATIONS |||"
+	}
+	"||| FIRST SECURITY STATION HAS BEEN DISABLED |||"
+	{
+		"trans"		"||| FIRST SECURITY STATION HAS BEEN DISABLED |||"
+	}
+	"||| C4 EXPLODE IN 15 SECONDS |||"
+	{
+		"trans"		"||| C4 EXPLODE IN 15 SECONDS |||"
+	}
+	"||| C4 EXPLODE IN 5 SECONDS |||"
+	{
+		"trans"		"||| C4 EXPLODE IN 5 SECONDS |||"
+	}
+	"||| C4 EXPLODE IN 10 SECONDS |||"
+	{
+		"trans"		"||| C4 EXPLODE IN 10 SECONDS |||"
+	}
+	"||| SECOND SECURITY STATION HAS BEEN DISABLED |||"
+	{
+		"trans"		"||| SECOND SECURITY STATION HAS BEEN DISABLED |||"
+	}
+	"||| BOTH BUTTONS WERE PRESSED |||"
+	{
+		"trans"		"||| BOTH BUTTONS WERE PRESSED |||"
+	}
+	"||| BRIDGE EXTEND IN 20 SECONDS |||"
+	{
+		"trans"		"||| BRIDGE EXTEND IN 20 SECONDS |||"
+	}
+	"||| HOLD FOR 15 SECONDS |||"
+	{
+		"trans"		"||| HOLD FOR 15 SECONDS |||"
+	}
+	"||| TRAINS WILL LEAVE IN 20 SECONDS |||"
+	{
+		"trans"		"||| TRAINS WILL LEAVE IN 20 SECONDS |||"
+	}
+	"||| DEFEND THE ABOVE THE TRAINS |||"
+	{
+		"trans"		"||| DEFEND THE ABOVE THE TRAINS |||"
+	}
+	"||| STAGE 2 FINISHED |||"
+	{
+		"trans"		"||| STAGE 2 FINISHED |||"
+	}
+	"||| CHAPTER 3 => AWAKENING |||"
+	{
+		"trans"		"||| CHAPTER 3 => AWAKENING |||"
+	}
+	"||| ELEVATOR LEAVES IN 25 SECONDS |||"
+	{
+		"trans"		"||| ELEVATOR LEAVES IN 25 SECONDS |||"
+	}
+	"||| ELEVATOR LEAVES IN 5 SECONDS |||"
+	{
+		"trans"		"||| ELEVATOR LEAVES IN 5 SECONDS |||"
+	}
+	"||| ELEVATOR LEAVES IN 10 SECONDS |||"
+	{
+		"trans"		"||| ELEVATOR LEAVES IN 10 SECONDS |||"
+	}
+	"||| SHOOT THE ENERGY BEAMS AND DEFEND THE ZOMBIES |||"
+	{
+		"trans"		"||| SHOOT THE ENERGY BEAMS AND DEFEND THE ZOMBIES |||"
 	}
 }

@@ -340,10 +340,6 @@
 	{
 		"trans"		">> Run for the Mead Hall <<"
 	}
-	">> Kill the remaining Zombies! <<"
-	{
-		"trans"		">> Kill the remaining Zombies! <<"
-	}
 	"** YOU HAVE BEATEN THE MAP CONGRATULATIONS !!! **"
 	{
 		"trans"		"** YOU HAVE BEATEN THE MAP CONGRATULATIONS !!! **"
@@ -351,9 +347,5 @@
 	"** MAP BY P'A'SS AND KIM !!! **"
 	{
 		"trans"		"** MAP BY P'A'SS AND KIM !!! **"
-	}
-	">> Admin Pressed Kill All button! <<"
-	{
-		"trans"		">> Admin Pressed Kill All button! <<"
 	}
 }

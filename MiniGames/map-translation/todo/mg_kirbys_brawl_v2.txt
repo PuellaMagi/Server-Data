@@ -1,0 +1,23 @@
+"Chat"
+{
+	"Knife!"
+	{
+		"trans"		"Knife!"
+	}
+	"Fight!"
+	{
+		"trans"		"Fight!"
+	}
+	"Headshot mode!"
+	{
+		"trans"		"Headshot mode!"
+	}
+	"Race!"
+	{
+		"trans"		"Race!"
+	}
+	"Afkteleport Enable in 10 sec!"
+	{
+		"trans"		"Afkteleport Enable in 10 sec!"
+	}
+}

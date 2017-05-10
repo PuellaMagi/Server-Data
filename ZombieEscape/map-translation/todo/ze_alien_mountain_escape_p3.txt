@@ -4,7 +4,7 @@
 	{
 		"trans"		"*** Spaceship leaving in 90 seconds ***"
 	}
-	"*** AFK Teleport in 10 seconds ***"
+	"*** AFK TELEPORT IN 10 SECONDS ***"
 	{
 		"trans"		"*** AFK Teleport in 10 seconds ***"
 	}

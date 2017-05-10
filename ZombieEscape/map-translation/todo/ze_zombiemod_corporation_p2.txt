@@ -20,13 +20,13 @@
 	{
 		"trans"		"** Final heli is leaving in 5 seconds! **"
 	}
-	"** Elevator is leaving in 20 seconds **"
-	{
-		"trans"		"** Elevator is leaving in 20 seconds **"
-	}
 	"** Final Zombie Boat is Leaving in 10 Seconds **"
 	{
 		"trans"		"** Final Zombie Boat is Leaving in 10 Seconds **"
+	}
+	"** Elevator is leaving in 20 seconds **"
+	{
+		"trans"		"** Elevator is leaving in 20 seconds **"
 	}
 	"** Final Door Will Open in 30 seconds **"
 	{

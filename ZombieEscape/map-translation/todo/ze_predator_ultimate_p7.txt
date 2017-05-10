@@ -40,6 +40,10 @@
 	{
 		"trans"		"***RUN***"
 	}
+	"***FIRST AID PICKED UP***"
+	{
+		"trans"		"***FIRST AID PICKED UP***"
+	}
 	"***HOLD THIS AREA FOR 10 SECONDS***"
 	{
 		"trans"		"***HOLD THIS AREA FOR 10 SECONDS***"
@@ -72,9 +76,17 @@
 	{
 		"trans"		"***SHOOT IT BEFORE IT'S TOO LATE***"
 	}
-	"***PLAYER PICKED UP MINI GUN***"
+	"***IT'S RUNNING AWAY***"
 	{
-		"trans"		"***PLAYER PICKED UP MINI GUN***"
+		"trans"		"***IT'S RUNNING AWAY***"
+	}
+	"***WELL DONE***"
+	{
+		"trans"		"***WELL DONE***"
+	}
+	"***PLAYER PICKED UP GRENADE LAUNCHER***"
+	{
+		"trans"		"***PLAYER PICKED UP GRENADE LAUNCHER***"
 	}
 	"***HOLD FOR 30 SECONDS***"
 	{
@@ -83,10 +95,6 @@
 	"***TELEPORTING EVERYONE TO CLIFF HIDEOUT***"
 	{
 		"trans"		"***TELEPORTING EVERYONE TO CLIFF HIDEOUT***"
-	}
-	"***FIRST AID PICKED UP***"
-	{
-		"trans"		"***FIRST AID PICKED UP***"
 	}
 	"***HOLD THIS AREA FOR 40 SECONDS***"
 	{
@@ -132,6 +140,30 @@
 	{
 		"trans"		"***OH NO! THE NUKE EXPLODED!***"
 	}
+	"***YOU FAILED***"
+	{
+		"trans"		"***YOU FAILED***"
+	}
+	"***A ZOMBIE GOT INSIDE THE CHOPPER***"
+	{
+		"trans"		"***A ZOMBIE GOT INSIDE THE CHOPPER***"
+	}
+	"***PLAYER PICKED UP CLAYMORE MINES***"
+	{
+		"trans"		"***PLAYER PICKED UP CLAYMORE MINES***"
+	}
+	"***OH NO!     WATCH OUT!***"
+	{
+		"trans"		"***OH NO!     WATCH OUT!***"
+	}
+	"***YOU COULD HAVE STOPPED THE ATTACK THOUGH...***"
+	{
+		"trans"		"***YOU COULD HAVE STOPPED THE ATTACK THOUGH...***"
+	}
+	"***PLAYER PICKED UP FLAMETHROWER***"
+	{
+		"trans"		"***PLAYER PICKED UP FLAMETHROWER***"
+	}
 	"***YOU COMPLETED NORMAL***"
 	{
 		"trans"		"***YOU COMPLETED NORMAL***"
@@ -144,17 +176,13 @@
 	{
 		"trans"		"***DIFFICULTY --- HARD***"
 	}
-	"***PLAYER PICKED UP ALIEN SAMPLE***"
+	"***PLAYER PICKED UP IMPULSOR***"
 	{
-		"trans"		"***PLAYER PICKED UP ALIEN SAMPLE***"
+		"trans"		"***PLAYER PICKED UP IMPULSOR***"
 	}
 	"***HOLD AZTEC-RUINS FOR 25 SECONDS***"
 	{
 		"trans"		"***HOLD AZTEC-RUINS FOR 25 SECONDS***"
-	}
-	"***PLAYER PICKED UP IMPULSOR***"
-	{
-		"trans"		"***PLAYER PICKED UP IMPULSOR***"
 	}
 	"***HOLD BOULDERAREA FOR 15 SECONDS***"
 	{
@@ -191,10 +219,6 @@
 	"***GET INSIDE***"
 	{
 		"trans"		"***GET INSIDE***"
-	}
-	"***PLAYER PICKED UP ALIEN DEVICE***"
-	{
-		"trans"		"***PLAYER PICKED UP ALIEN DEVICE***"
 	}
 	"***YOU HAVE DEFEATED THE PREDATOR!***"
 	{
@@ -251,6 +275,10 @@
 	"***YOU INTERUPTED THE PREDATORS ATTACK***"
 	{
 		"trans"		"***YOU INTERUPTED THE PREDATORS ATTACK***"
+	}
+	"***YOU ARE TOO SLOW!***"
+	{
+		"trans"		"***YOU ARE TOO SLOW!***"
 	}
 	"***YOU KILLED THE PREDATOR***"
 	{
@@ -312,6 +340,10 @@
 	{
 		"trans"		"***TELEPORTING EVERYONE TO SPACESHIP ENTRANCE***"
 	}
+	"***PLAYER PICKED UP ALIEN DEVICE***"
+	{
+		"trans"		"***PLAYER PICKED UP ALIEN DEVICE***"
+	}
 	"***GET INSIDE THE TRANSPORTER***"
 	{
 		"trans"		"***GET INSIDE THE TRANSPORTER***"
@@ -355,49 +387,5 @@
 	"***KEEP FIRING WITH UNLIMITED AMMO***"
 	{
 		"trans"		"***KEEP FIRING WITH UNLIMITED AMMO***"
-	}
-	"***MAP BY --- PER30010 ／ LUFFAREN***"
-	{
-		"trans"		"***MAP BY --- PER30010 ／ LUFFAREN***"
-	}
-	"***YOU ARE THE ULTIMATE ZOMBIE ESCAPE MASTER***"
-	{
-		"trans"		"***YOU ARE THE ULTIMATE ZOMBIE ESCAPE MASTER***"
-	}
-	"***THANK YOU FOR PLAYING***"
-	{
-		"trans"		"***THANK YOU FOR PLAYING***"
-	}
-	"***MAP RESET***"
-	{
-		"trans"		"***MAP RESET***"
-	}
-	"***OH NO!     WATCH OUT!***"
-	{
-		"trans"		"***OH NO!     WATCH OUT!***"
-	}
-	"***IT'S RUNNING AWAY***"
-	{
-		"trans"		"***IT'S RUNNING AWAY***"
-	}
-	"***YOU COULD HAVE STOPPED THE ATTACK THOUGH...***"
-	{
-		"trans"		"***YOU COULD HAVE STOPPED THE ATTACK THOUGH...***"
-	}
-	"***WELL DONE***"
-	{
-		"trans"		"***WELL DONE***"
-	}
-	"***YOU FAILED***"
-	{
-		"trans"		"***YOU FAILED***"
-	}
-	"***A ZOMBIE GOT INSIDE THE CHOPPER***"
-	{
-		"trans"		"***A ZOMBIE GOT INSIDE THE CHOPPER***"
-	}
-	"***PLAYER PICKED UP GRENADE LAUNCHER***"
-	{
-		"trans"		"***PLAYER PICKED UP GRENADE LAUNCHER***"
 	}
 }
