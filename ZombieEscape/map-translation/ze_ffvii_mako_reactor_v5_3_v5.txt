@@ -198,7 +198,7 @@
 	}
 	"**Nice done! You interrumped Sephiroth s attack**"
 	{
-		"trans"		"**做的好!你們阻止薩菲羅斯的陰謀!**"
+		"trans"		"**做的好!你們阻止了薩菲羅斯的陰謀!**"
 	}
 	"** You did it ! You won at the HARDEST difficult ** Time to EXTREME mode ** Good luck ! ** "
 	{
