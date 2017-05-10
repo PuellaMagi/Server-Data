@@ -183,7 +183,7 @@
 	}
 	"*** ELEVATOR LEAVING IN 10 seconds ***"
 	{
-		"trans"		"***电梯将在20秒后离开***"
+		"trans"		"***电梯将在10秒后离开***"
 	}
 	"*** FAN STOPPING IN 30 SECONDS ***"
 	{
