@@ -426,7 +426,7 @@
 	}
 	"** [ITEMS] Lantern - Glowstick - Flashlight **"
 	{
-		"trans"		"**【人类道具】灯笼&燃烧棒&手电筒**"
+		"trans"		"**【人类道具】灯笼 & 燃烧棒 & 手电筒**"
 	}
 	"** [ZMITEM] SLENDERZOMBIES **"
 	{
@@ -555,6 +555,26 @@
 	"** Congratulations - you won SURVIVAL 3 **"
 	{
 		"trans"		"**祝贺!生存回合3胜利!**"
+	}
+	"** [MODE] MADNESS! **"
+	{
+		"trans"		"**【模式】疯狂!!!!!!**"
+	}
+	"** [ITEMS] Lantern - Glowstick - Monkey BOMB **"
+	{
+		"trans"		"**【人类道具】灯笼 & 燃烧棒 & 猴子炸弹**"
+	}
+	"** [ZMITEM] SLENDERFIREZOMBIES! **"
+	{
+		"trans"		"**【特殊僵尸】火焰面条人**"
+	}
+	"** SURVIVE **"
+	{
+		"trans"		"**活下去!!!**"
+	}
+	"** INVADERS MUST DIE !! **"
+	{
+		"trans"		"**入侵者必须死!!!**"
 	}
 	"** [DIFFICULTY] FINAL MADNESS MODE **"
 	{
