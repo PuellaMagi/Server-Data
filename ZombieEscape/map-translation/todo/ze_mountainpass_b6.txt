@@ -1,0 +1,7 @@
+"Chat"
+{
+	"Boats are leaving in 50 seconds!"
+	{
+		"trans"		"Boats are leaving in 50 seconds!"
+	}
+}

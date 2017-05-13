@@ -1,0 +1,19 @@
+"Chat"
+{
+	"***Map Made by xXhamadryadesXx***"
+	{
+		"trans"		"***Map Made by xXhamadryadesXx***"
+	}
+	"***Shit ! the door is blocked ! Hold this position***"
+	{
+		"trans"		"***Shit ! the door is blocked ! Hold this position***"
+	}
+	"***Defend this position for 20 sec***"
+	{
+		"trans"		"***Defend this position for 20 sec***"
+	}
+	"***Fuck! the reactor is uncontrollable, exit the K-19***"
+	{
+		"trans"		"***Fuck! the reactor is uncontrollable, exit the K-19***"
+	}
+}

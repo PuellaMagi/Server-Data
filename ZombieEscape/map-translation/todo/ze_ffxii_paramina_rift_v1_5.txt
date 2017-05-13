@@ -1,0 +1,39 @@
+"Chat"
+{
+	"** 1／5 TOWERS DESTROYED! **"
+	{
+		"trans"		"** 1／5 TOWERS DESTROYED! **"
+	}
+	"** GATE OPENS IN 5 SECONDS **"
+	{
+		"trans"		"** GATE OPENS IN 5 SECONDS **"
+	}
+	"** TREASURE +1 GIL FOUND **"
+	{
+		"trans"		"** TREASURE +1 GIL FOUND **"
+	}
+	"** TREASURE +87 GIL FOUND **"
+	{
+		"trans"		"** TREASURE +87 GIL FOUND **"
+	}
+	"** GATES OPEN IN 5 SECONDS **"
+	{
+		"trans"		"** GATES OPEN IN 5 SECONDS **"
+	}
+	"** Player has learned BLIZZARD (ice lvl1) **"
+	{
+		"trans"		"** Player has learned BLIZZARD (ice lvl1) **"
+	}
+	"** 35 GIL OBTAINED BY DEACTIVATING A TOWER **"
+	{
+		"trans"		"** 35 GIL OBTAINED BY DEACTIVATING A TOWER **"
+	}
+	"** Player has learned CURE (heal lvl1) **"
+	{
+		"trans"		"** Player has learned CURE (heal lvl1) **"
+	}
+	"** HOLD 5 MORE SECONDS **"
+	{
+		"trans"		"** HOLD 5 MORE SECONDS **"
+	}
+}

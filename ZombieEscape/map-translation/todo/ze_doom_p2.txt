@@ -1,0 +1,71 @@
+"Chat"
+{
+	"** LEVEL: NOT TOO ROUGH **"
+	{
+		"trans"		"** LEVEL: NOT TOO ROUGH **"
+	}
+	"** Map by Night Fury **"
+	{
+		"trans"		"** Map by Night Fury **"
+	}
+	"** Door opening in 30 seconds! **"
+	{
+		"trans"		"** Door opening in 30 seconds! **"
+	}
+	"** Door opening in 10 seconds! **"
+	{
+		"trans"		"** Door opening in 10 seconds! **"
+	}
+	"** Door opened! **"
+	{
+		"trans"		"** Door opened! **"
+	}
+	"** Door opening in 25 seconds! **"
+	{
+		"trans"		"** Door opening in 25 seconds! **"
+	}
+	"** Door opening in 25 seconds **"
+	{
+		"trans"		"** Door opening in 25 seconds **"
+	}
+	"** Door opening in 10 seconds **"
+	{
+		"trans"		"** Door opening in 10 seconds **"
+	}
+	"** Door Opening in 23 Seconds **"
+	{
+		"trans"		"** Door Opening in 23 Seconds **"
+	}
+	"** Opening door in 15 Seconds!! **"
+	{
+		"trans"		"** Opening door in 15 Seconds!! **"
+	}
+	"** Resist! a few seconds more **"
+	{
+		"trans"		"** Resist! a few seconds more **"
+	}
+	"** Exit door opening in 40 seconds! **"
+	{
+		"trans"		"** Exit door opening in 40 seconds! **"
+	}
+	"** Exit door opening in 10 seconds! **"
+	{
+		"trans"		"** Exit door opening in 10 seconds! **"
+	}
+	"** Exit door opened! **"
+	{
+		"trans"		"** Exit door opened! **"
+	}
+	"** BAD WIN!! ZOMBIES DETECTED!! **"
+	{
+		"trans"		"** BAD WIN!! ZOMBIES DETECTED!! **"
+	}
+	"** Exit door closing in 15 seconds! **"
+	{
+		"trans"		"** Exit door closing in 15 seconds! **"
+	}
+	"** Exit door closed! **"
+	{
+		"trans"		"** Exit door closed! **"
+	}
+}

@@ -1,0 +1,159 @@
+"Chat"
+{
+	"### WELCOME TO CRAZY ESCAPE ###"
+	{
+		"trans"		"### WELCOME TO CRAZY ESCAPE ###"
+	}
+	"### PART I :: CRAZY ESCAPE ::"
+	{
+		"trans"		"### PART I :: CRAZY ESCAPE ::"
+	}
+	"### MAP CREATED BY NARAKA  ###"
+	{
+		"trans"		"### MAP CREATED BY NARAKA  ###"
+	}
+	"### SPECIAL THANKS : Moltard ###"
+	{
+		"trans"		"### SPECIAL THANKS : Moltard ###"
+	}
+	"### GRAMMAR CORRECTION BY: ###"
+	{
+		"trans"		"### GRAMMAR CORRECTION BY: ###"
+	}
+	"### [GFL] : reduct [SMALL LOAN] ###"
+	{
+		"trans"		"### [GFL] : reduct [SMALL LOAN] ###"
+	}
+	"### HUMANS WILL BE TELEPORTED IN 20 SECONDS ###"
+	{
+		"trans"		"### HUMANS WILL BE TELEPORTED IN 20 SECONDS ###"
+	}
+	"### 10 SECONDS REMAINING ###"
+	{
+		"trans"		"### 10 SECONDS REMAINING ###"
+	}
+	"### HIDE AND HOLD FOR 75 SECONDS ###"
+	{
+		"trans"		"### HIDE AND HOLD FOR 75 SECONDS ###"
+	}
+	"### ZOMBIES WILL BE TELEPORTED SOON ### "
+	{
+		"trans"		"### ZOMBIES WILL BE TELEPORTED SOON ### "
+	}
+	"### ZOMBIES ARE HERE !! ###"
+	{
+		"trans"		"### ZOMBIES ARE HERE !! ###"
+	}
+	"### 30 SECONDS REMAINING ###"
+	{
+		"trans"		"### 30 SECONDS REMAINING ###"
+	}
+	"### TELEPORT INCOMING IN 5 SECONDS ###"
+	{
+		"trans"		"### TELEPORT INCOMING IN 5 SECONDS ###"
+	}
+	"### ZOMBIES WILL BE TELEPORTED IN 30 SECONDS ###"
+	{
+		"trans"		"### ZOMBIES WILL BE TELEPORTED IN 30 SECONDS ###"
+	}
+	"### GET TO THE TOP OF THE TOWER ###"
+	{
+		"trans"		"### GET TO THE TOP OF THE TOWER ###"
+	}
+	"### THE TOWER IS GONNA EXPLODE !! ###"
+	{
+		"trans"		"### THE TOWER IS GONNA EXPLODE !! ###"
+	}
+	"### WARNING *** TOWER WILL EXPLODE IN 30 SECONDS ###"
+	{
+		"trans"		"### WARNING *** TOWER WILL EXPLODE IN 30 SECONDS ###"
+	}
+	"### HOLD HERE AND SHOOT MADAFAKA ###"
+	{
+		"trans"		"### HOLD HERE AND SHOOT MADAFAKA ###"
+	}
+	"### 50 SECONDS REMAINING ###"
+	{
+		"trans"		"### 50 SECONDS REMAINING ###"
+	}
+	"### TOWER WILL EXPLODE IN 10 SECONDS ###"
+	{
+		"trans"		"### TOWER WILL EXPLODE IN 10 SECONDS ###"
+	}
+	"### KAABOOOMMMMM ###"
+	{
+		"trans"		"### KAABOOOMMMMM ###"
+	}
+	"### STAY IN THE GREEN LIGHT FOR TELEPORT ###"
+	{
+		"trans"		"### STAY IN THE GREEN LIGHT FOR TELEPORT ###"
+	}
+	"### OTHERWISE YOU WILL BE TELEPORTED TO JAIL ###"
+	{
+		"trans"		"### OTHERWISE YOU WILL BE TELEPORTED TO JAIL ###"
+	}
+	"### WAIT HERE TO RACE AGAINST ZOMBIES IN 15 SECONDS ###"
+	{
+		"trans"		"### WAIT HERE TO RACE AGAINST ZOMBIES IN 15 SECONDS ###"
+	}
+	"### REACH THE OTHER SIDE BEFORE ZOMBIES !!! ###"
+	{
+		"trans"		"### REACH THE OTHER SIDE BEFORE ZOMBIES !!! ###"
+	}
+	"### HOLD FOR 40 SECONDS ###"
+	{
+		"trans"		"### HOLD FOR 40 SECONDS ###"
+	}
+	"### DONT DELAY OR BE PUNISHED ###"
+	{
+		"trans"		"### DONT DELAY OR BE PUNISHED ###"
+	}
+	"### 20 SECONDS REMAINING ###"
+	{
+		"trans"		"### 20 SECONDS REMAINING ###"
+	}
+	"### HUMANS AND ZOMBIES NOT IN GREEN LIGHT ZONE ###"
+	{
+		"trans"		"### HUMANS AND ZOMBIES NOT IN GREEN LIGHT ZONE ###"
+	}
+	"### WILL BE TELEPORTED TO BOSS JAIL ###"
+	{
+		"trans"		"### WILL BE TELEPORTED TO BOSS JAIL ###"
+	}
+	"### 5 SECONDS UNTL THE NEXT TELEPORT ###"
+	{
+		"trans"		"### 5 SECONDS UNTL THE NEXT TELEPORT ###"
+	}
+	"### WHEN SINNER APPEARS ON THE CROSS, SHOOT IT ###"
+	{
+		"trans"		"### WHEN SINNER APPEARS ON THE CROSS, SHOOT IT ###"
+	}
+	"### SINNER INCOMING IN 10 SECONDS ###"
+	{
+		"trans"		"### SINNER INCOMING IN 10 SECONDS ###"
+	}
+	"### DON'T CROSS THE RED LINE, IT IS NOT A HOLY AREA ###"
+	{
+		"trans"		"### DON'T CROSS THE RED LINE, IT IS NOT A HOLY AREA ###"
+	}
+	"### THAT IS A SINNER KILL HIM ###"
+	{
+		"trans"		"### THAT IS A SINNER KILL HIM ###"
+	}
+	"### BEFORE HE RELEASES THE ZOMBIES IN 90 SECONDS ###"
+	{
+		"trans"		"### BEFORE HE RELEASES THE ZOMBIES IN 90 SECONDS ###"
+	}
+	"### SINNER: YOUR SINS ARE GONNA HURT YOU!! FACE IT ###"
+	{
+		"trans"		"### SINNER: YOUR SINS ARE GONNA HURT YOU!! FACE IT ###"
+	}
+	"### DEFEND THE 2 DUCTS!! ZOMBIES CAN COME FROM THERE ###"
+	{
+		"trans"		"### DEFEND THE 2 DUCTS!! ZOMBIES CAN COME FROM THERE ###"
+	}
+	"### THE SINNER WILL UNLEASH THE ZOMBIES IN 60 SECONDS ###"
+	{
+		"trans"		"### THE SINNER WILL UNLEASH THE ZOMBIES IN 60 SECONDS ###"
+	}
+}

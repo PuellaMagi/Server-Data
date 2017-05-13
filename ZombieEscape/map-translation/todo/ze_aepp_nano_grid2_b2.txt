@@ -1,0 +1,43 @@
+"Chat"
+{
+	"** Ape Escape : Pumped & Primed **"
+	{
+		"trans"		"** Ape Escape : Pumped & Primed **"
+	}
+	"** Nano Grid2 1／2 **"
+	{
+		"trans"		"** Nano Grid2 1／2 **"
+	}
+	"** Map by ryo **"
+	{
+		"trans"		"** Map by ryo **"
+	}
+	"** 10 seconds **"
+	{
+		"trans"		"** 10 seconds **"
+	}
+	"** 25 seconds **"
+	{
+		"trans"		"** 25 seconds **"
+	}
+	"** 5 seconds **"
+	{
+		"trans"		"** 5 seconds **"
+	}
+	"** 15 seconds **"
+	{
+		"trans"		"** 15 seconds **"
+	}
+	"** 20 seconds **"
+	{
+		"trans"		"** 20 seconds **"
+	}
+	"** 30 seconds **"
+	{
+		"trans"		"** 30 seconds **"
+	}
+	"** Nano Grid2 2／2 **"
+	{
+		"trans"		"** Nano Grid2 2／2 **"
+	}
+}

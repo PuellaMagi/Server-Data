@@ -1,0 +1,243 @@
+"Chat"
+{
+	"***Map by Reflelia***"
+	{
+		"trans"		"***Map by Reflelia***"
+	}
+	"***Thanks to Shizuru[idea] ／ uuz[model]***"
+	{
+		"trans"		"***Thanks to Shizuru[idea] ／ uuz[model]***"
+	}
+	"***CURRENT LEVEL - FADE***"
+	{
+		"trans"		"***CURRENT LEVEL - FADE***"
+	}
+	"***Zombie picked up Nuke***"
+	{
+		"trans"		"***Zombie picked up Nuke***"
+	}
+	"***Wind picked up***"
+	{
+		"trans"		"***Wind picked up***"
+	}
+	"***RESIST FOR 35 SECONDS***"
+	{
+		"trans"		"***RESIST FOR 35 SECONDS***"
+	}
+	"***HOLD FOR 20 SECONDS***"
+	{
+		"trans"		"***HOLD FOR 20 SECONDS***"
+	}
+	"***RESIST 20 SECONDS***"
+	{
+		"trans"		"***RESIST 20 SECONDS***"
+	}
+	"***Freezer picked up***"
+	{
+		"trans"		"***Freezer picked up***"
+	}
+	"***TELEPORT ENABLE IN 30 SECONDS***"
+	{
+		"trans"		"***TELEPORT ENABLE IN 30 SECONDS***"
+	}
+	"***5 seconds left***"
+	{
+		"trans"		"***5 seconds left***"
+	}
+	"***Recovery picked up***"
+	{
+		"trans"		"***Recovery picked up***"
+	}
+	"***Elevator rise up in 10 seconds***"
+	{
+		"trans"		"***Elevator rise up in 10 seconds***"
+	}
+	"***Break the box***"
+	{
+		"trans"		"***Break the box***"
+	}
+	"***Teleport activates in 45 seconds***"
+	{
+		"trans"		"***Teleport activates in 45 seconds***"
+	}
+	"***Wind Casted***"
+	{
+		"trans"		"***Wind Casted***"
+	}
+	"***Thruster Casted***"
+	{
+		"trans"		"***Thruster Casted***"
+	}
+	"***Go Back to teleport place***"
+	{
+		"trans"		"***Go Back to teleport place***"
+	}
+	"***Final teleport enable in 35 seconds***"
+	{
+		"trans"		"***Final teleport enable in 35 seconds***"
+	}
+	"***Zombie teleport in 10 seconds***"
+	{
+		"trans"		"***Zombie teleport in 10 seconds***"
+	}
+	"***Wall picked up***"
+	{
+		"trans"		"***Wall picked up***"
+	}
+	"***Zombie picked up Gravity***"
+	{
+		"trans"		"***Zombie picked up Gravity***"
+	}
+	"***Ice Casted***"
+	{
+		"trans"		"***Ice Casted***"
+	}
+	"***Gravity Casted***"
+	{
+		"trans"		"***Gravity Casted***"
+	}
+	"***Run!***"
+	{
+		"trans"		"***Run!***"
+	}
+	"***ESCAPE***"
+	{
+		"trans"		"***ESCAPE***"
+	}
+	"***CURRENT LEVEL - DREAM***"
+	{
+		"trans"		"***CURRENT LEVEL - DREAM***"
+	}
+	"***Hold 35 seconds***"
+	{
+		"trans"		"***Hold 35 seconds***"
+	}
+	"***Snow picked up***"
+	{
+		"trans"		"***Snow picked up***"
+	}
+	"***HOLD UNTIL GATE OPEN***"
+	{
+		"trans"		"***HOLD UNTIL GATE OPEN***"
+	}
+	"***Portal open in 30 seconds***"
+	{
+		"trans"		"***Portal open in 30 seconds***"
+	}
+	"***Hold until Door break***"
+	{
+		"trans"		"***Hold until Door break***"
+	}
+	"***Door open in 30 seconds***"
+	{
+		"trans"		"***Door open in 30 seconds***"
+	}
+	"***10 SECONDS LEFT***"
+	{
+		"trans"		"***10 seconds left***"
+	}
+	"***Press 2 buttons***"
+	{
+		"trans"		"***Press 2 buttons***"
+	}
+	"***Last elevator start in 30 seconds***"
+	{
+		"trans"		"***Last elevator start in 30 seconds***"
+	}
+	"***10...5 seconds left***"
+	{
+		"trans"		"***10...5 seconds left***"
+	}
+	"***Danger Field***"
+	{
+		"trans"		"***Danger Field***"
+	}
+	"***Laser***"
+	{
+		"trans"		"***Laser***"
+	}
+	"***Spread out***"
+	{
+		"trans"		"***Spread out***"
+	}
+	"***For Upper***"
+	{
+		"trans"		"***For Upper***"
+	}
+	"***End of Dream in 120 seconds***"
+	{
+		"trans"		"***End of Dream in 120 seconds***"
+	}
+	"***End of Dream in 110 seconds***"
+	{
+		"trans"		"***End of Dream in 110 seconds***"
+	}
+	"***End of Dream in 100 seconds***"
+	{
+		"trans"		"***End of Dream in 100 seconds***"
+	}
+	"***End of Dream in 90 seconds***"
+	{
+		"trans"		"***End of Dream in 90 seconds***"
+	}
+	"***End of Dream in 80 seconds***"
+	{
+		"trans"		"***End of Dream in 80 seconds***"
+	}
+	"***End of Dream in 70 seconds***"
+	{
+		"trans"		"***End of Dream in 70 seconds***"
+	}
+	"***End of Dream in 60 seconds***"
+	{
+		"trans"		"***End of Dream in 60 seconds***"
+	}
+	"***End of Dream in 50 seconds***"
+	{
+		"trans"		"***End of Dream in 50 seconds***"
+	}
+	"***End of Dream in 40 seconds***"
+	{
+		"trans"		"***End of Dream in 40 seconds***"
+	}
+	"***End of Dream in 30 seconds***"
+	{
+		"trans"		"***End of Dream in 30 seconds***"
+	}
+	"***End of Dream in 20 seconds***"
+	{
+		"trans"		"***End of Dream in 20 seconds***"
+	}
+	"***End of Dream in 15 seconds***"
+	{
+		"trans"		"***End of Dream in 15 seconds***"
+	}
+	"***End of Dream in 10 seconds***"
+	{
+		"trans"		"***End of Dream in 10 seconds***"
+	}
+	"***End of Dream in 5 seconds***"
+	{
+		"trans"		"***End of Dream in 5 seconds***"
+	}
+	"***End of Dream in 4 seconds***"
+	{
+		"trans"		"***End of Dream in 4 seconds***"
+	}
+	"***End of Dream in 3 seconds***"
+	{
+		"trans"		"***End of Dream in 3 seconds***"
+	}
+	"***End of Dream in 2 seconds***"
+	{
+		"trans"		"***End of Dream in 2 seconds***"
+	}
+	"***End of Dream in 1 seconds***"
+	{
+		"trans"		"***End of Dream in 1 seconds***"
+	}
+	"***Dream End***"
+	{
+		"trans"		"***Dream End***"
+	}
+}

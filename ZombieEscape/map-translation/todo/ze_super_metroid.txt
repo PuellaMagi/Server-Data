@@ -1,0 +1,19 @@
+"Chat"
+{
+	"***Ok marines, listen up.  The last Metroid is being held somewhere here on planet Zebes.***"
+	{
+		"trans"		"***Ok marines, listen up.  The last Metroid is being held somewhere here on planet Zebes.***"
+	}
+	"***Commander Xenosaj's orders are clear: find the Metroid, retrieve or eliminate it, and get out.***"
+	{
+		"trans"		"***Commander Xenosaj's orders are clear: find the Metroid, retrieve or eliminate it, and get out.***"
+	}
+	"***Head for the abandoned bunker north of your location.  Start searching there.***"
+	{
+		"trans"		"***Head for the abandoned bunker north of your location.  Start searching there.***"
+	}
+	"***Hostile movement detected south of your position.  I'm sealing the bunker doors in 10 seconds, get in or get left behind!***"
+	{
+		"trans"		"***Hostile movement detected south of your position.  I'm sealing the bunker doors in 10 seconds, get in or get left behind!***"
+	}
+}

@@ -1,0 +1,27 @@
+"Chat"
+{
+	"*** DOOR #2 OPENING IN 50 SECONDS ***"
+	{
+		"trans"		"*** DOOR #2 OPENING IN 50 SECONDS ***"
+	}
+	"*** DOOR #1 OPENING IN 30 SECONDS ***"
+	{
+		"trans"		"*** DOOR #1 OPENING IN 30 SECONDS ***"
+	}
+	"*** DOOR #3 OPENING IN 50 SECONDS ***"
+	{
+		"trans"		"*** DOOR #3 OPENING IN 50 SECONDS ***"
+	}
+	"*** DOOR #4 OPENING IN 50 SECONDS ***"
+	{
+		"trans"		"*** DOOR #4 OPENING IN 50 SECONDS ***"
+	}
+	"*** DOOR #5 OPENING IN 50 SECONDS ***"
+	{
+		"trans"		"*** DOOR #5 OPENING IN 50 SECONDS ***"
+	}
+	"*** DOOR #6 OPENING IN 50 SECONDS ***"
+	{
+		"trans"		"*** DOOR #6 OPENING IN 50 SECONDS ***"
+	}
+}

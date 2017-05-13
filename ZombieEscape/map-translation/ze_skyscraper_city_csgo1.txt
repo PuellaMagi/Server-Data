@@ -2,50 +2,46 @@
 {
 	">>Door will open in 20 sec<< "
 	{
-		"countdown" "20"
-		"trans"		"[{darkred}Map{default}]  门开启于20秒后"
+		"trans"		"门开启于20秒后"
 	}
 	">>Go!<< "
 	{
-		"trans"		"[{darkred}Map{default}]  前进!"
+		"trans"		"前进!"
 	}
 	">>Metal Gate opens in 15 sec<< "
 	{
-		"countdown" "15"
-		"trans"		"[{darkred}Map{default}]  栅栏开启于15秒后"
+		"trans"		"栅栏开启于15秒后"
 	}
 	">>The Gate is open!<< "
 	{
-		"trans"		"[{darkred}Map{default}]  门已打开!"
+		"trans"		"门已打开!"
 	}
 	">>Tram departs in 20 sec<< "
 	{
-		"countdown" "20"
-		"trans"		"[{darkred}Map{default}]  缆车20秒后离开"
+		"trans"		"缆车20秒后离开"
 	}
 	">>Door will open in 25 sec<< "
 	{
-		"trans"		"[{darkred}Map{default}]  门开启于25秒后 "
+		"trans"		"门开启于25秒后 "
 	}
 	">>Press the button at the door!l<< "
 	{
-		"trans"		"[{darkred}Map{default}]  按下按钮以启动大门"
+		"trans"		"按下按钮以启动大门"
 	}
 	">>Door open. Run!<< "
 	{
-		"trans"		"[{darkred}Map{default}]  门已打开!"
+		"trans"		"门已打开!"
 	}
 	">>Stair door opens in 15 sec<< "
 	{
-		"trans"		"[{darkred}Map{default}]  楼梯间大门15秒后打开"
+		"trans"		"楼梯间大门15秒后打开"
 	}
 	">> Hold for 15 sec!<< "
 	{
-		"trans"		"[{darkred}Map{default}]  坚守15秒"
+		"trans"		"坚守15秒"
 	}
 	">>Train will leave in 45 sec<< "
 	{
-		"countdown" "45"
-		"trans"		"[{darkred}Map{default}]  火车45秒后离开"
+		"trans"		"火车45秒后离开"
 	}
 }

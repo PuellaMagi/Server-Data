@@ -1,0 +1,167 @@
+"Chat"
+{
+	"*** Level 1 ***"
+	{
+		"trans"		"*** Level 1 ***"
+	}
+	"* Turning music on *"
+	{
+		"trans"		"* Turning music on *"
+	}
+	"*** Player has picked up Lego Maker ***"
+	{
+		"trans"		"*** Player has picked up Lego Maker ***"
+	}
+	"*** It has 10 uses ***"
+	{
+		"trans"		"*** It has 10 uses ***"
+	}
+	"*** Player has picked up Pipe bombs ***"
+	{
+		"trans"		"*** Player has picked up Pipe bombs ***"
+	}
+	"*** It has 5 uses ***"
+	{
+		"trans"		"*** It has 5 uses ***"
+	}
+	"*** Player has picked up Flamethrower ***"
+	{
+		"trans"		"*** Player has picked up Flamethrower ***"
+	}
+	"*** Player has picked up Ammo Box ***"
+	{
+		"trans"		"*** Player has picked up Ammo Box ***"
+	}
+	"*** It has unlimited uses ***"
+	{
+		"trans"		"*** It has unlimited uses ***"
+	}
+	"*** Player has picked up Heal ***"
+	{
+		"trans"		"*** Player has picked up Heal ***"
+	}
+	"*** It has 1 use ***"
+	{
+		"trans"		"*** It has 1 use ***"
+	}
+	"*** Player has picked up EyeTech Launcher ***"
+	{
+		"trans"		"*** Player has picked up EyeTech Launcher ***"
+	}
+	"*** Player has picked up Electro gun ***"
+	{
+		"trans"		"*** Player has picked up Electro gun ***"
+	}
+	"*** It has fuel for 10 seconds ***"
+	{
+		"trans"		"*** It has fuel for 10 seconds ***"
+	}
+	"*** Doors open in 35 Seconds ***"
+	{
+		"trans"		"*** Doors open in 35 Seconds ***"
+	}
+	"*** Doors open in 25 Seconds ***"
+	{
+		"trans"		"*** Doors open in 25 Seconds ***"
+	}
+	"*** Doors open in 10 Seconds ***"
+	{
+		"trans"		"*** Doors open in 10 Seconds ***"
+	}
+	"*** Player has picked up EyeTech Cannon ***"
+	{
+		"trans"		"*** Player has picked up EyeTech Cannon ***"
+	}
+	"*** Player has picked up PushGun ***"
+	{
+		"trans"		"*** Player has picked up Pushgun ***"
+	}
+	"*** Doors are opening ***"
+	{
+		"trans"		"*** Doors are opening ***"
+	}
+	"*** Bridge activates in 30 seconds ***"
+	{
+		"trans"		"*** Bridge activates in 30 seconds ***"
+	}
+	"*** Bridge activates in 15 seconds ***"
+	{
+		"trans"		"*** Bridge activates in 15 seconds ***"
+	}
+	"*** Hold until the path is cleared ***"
+	{
+		"trans"		"*** Hold until the path is cleared ***"
+	}
+	"*** Door opens in 10 seconds ***"
+	{
+		"trans"		"*** Door opens in 10 seconds ***"
+	}
+	"*** DOOR IS OPENING ***"
+	{
+		"trans"		"*** Door is opening ***"
+	}
+	"*** FALL BACK ***"
+	{
+		"trans"		"*** FALL BACK ***"
+	}
+	"*** 10 seconds left ***"
+	{
+		"trans"		"*** 10 SECONDS LEFT ***"
+	}
+	"*** Level Completed! ***"
+	{
+		"trans"		"*** Level Completed! ***"
+	}
+	"*** FALL BACK ****"
+	{
+		"trans"		"*** FALL BACK ****"
+	}
+	"*** 20 more seconds! ***"
+	{
+		"trans"		"*** 20 more seconds! ***"
+	}
+	"*** Elevator leaves in 15 seconds *** "
+	{
+		"trans"		"*** Elevator leaves in 15 seconds *** "
+	}
+	"*** Elevator leaves in 5 seconds *** "
+	{
+		"trans"		"*** Elevator leaves in 5 seconds *** "
+	}
+	"*** Doors are opening in 25 seconds ***"
+	{
+		"trans"		"*** Doors are opening in 25 seconds ***"
+	}
+	"*** RESIST ***"
+	{
+		"trans"		"*** RESIST ***"
+	}
+	"*** Doors are opening in 5 seconds ***"
+	{
+		"trans"		"*** Doors are opening in 5 seconds ***"
+	}
+	"*** Hold a bit more! ***"
+	{
+		"trans"		"*** Hold a bit more! ***"
+	}
+	"*** 10 more seconds ***"
+	{
+		"trans"		"*** 10 more seconds ***"
+	}
+	"*** Heli leaves in 15 seconds ***"
+	{
+		"trans"		"*** Heli leaves in 15 seconds ***"
+	}
+	"*** Heli leaves in 5 seconds ***"
+	{
+		"trans"		"*** Heli leaves in 5 seconds ***"
+	}
+	"*** Zombie at the end ***"
+	{
+		"trans"		"*** Zombie at the end ***"
+	}
+	"** Turning on:... **"
+	{
+		"trans"		"** Turning on:... **"
+	}
+}

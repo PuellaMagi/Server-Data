@@ -1,0 +1,375 @@
+"Chat"
+{
+	"** Thanks to Kaemon **"
+	{
+		"trans"		"** Thanks to Kaemon **"
+	}
+	"** MAP BY Hannibal [SPA] (Rafuron) **"
+	{
+		"trans"		"** MAP BY Hannibal [SPA] (Rafuron) **"
+	}
+	"** This is the round 0 ** you are playing alone ** wait until more players or suicide **"
+	{
+		"trans"		"** This is the round 0 ** you are playing alone ** wait until more players or suicide **"
+	}
+	"** THE ROUND WILL START IN FEW SECONDS ** CHECK YOUR LEVEL AND PROCEED TO BUY AN ITEM **"
+	{
+		"trans"		"** THE ROUND WILL START IN FEW SECONDS ** CHECK YOUR LEVEL AND PROCEED TO BUY AN ITEM **"
+	}
+	"** WARMUP ROUND **"
+	{
+		"trans"		"** WARMUP ROUND **"
+	}
+	"** WARMUP ROUND ** MASSIVE NUKE IN 60 SECONDS ** "
+	{
+		"trans"		"** WARMUP ROUND ** MASSIVE NUKE IN 60 SECONDS ** "
+	}
+	"** Tip 1 : press +use on pickable objects to build barricades ** "
+	{
+		"trans"		"** Tip 1 : press +use on pickable objects to build barricades ** "
+	}
+	"** Tip 2 : reach and win the end of a stage to level up ** "
+	{
+		"trans"		"** Tip 2 : reach and win the end of a stage to level up ** "
+	}
+	"** Tip 3 : take items at zombie and human shops in spawn ** "
+	{
+		"trans"		"** Tip 3 : take items at zombie and human shops in spawn ** "
+	}
+	"** Tip 4 : your current level is your score divided by 100 approximately **"
+	{
+		"trans"		"** Tip 4 : your current level is your score divided by 100 approximately **"
+	}
+	"** Tip 5 : barricades health depends on the size and material **"
+	{
+		"trans"		"** Tip 5 : barricades health depends on the size and material **"
+	}
+	"** Tip 6 : hold spots tend to be long  *  hold as much as possible at previous positions **"
+	{
+		"trans"		"** Tip 6 : hold spots tend to be long  *  hold as much as possible at previous positions **"
+	}
+	"** Tip 7 : guards work as stoppers * but you can shoot throught them **"
+	{
+		"trans"		"** Tip 7 : guards work as stoppers * but you can shoot throught them **"
+	}
+	"** Tip 8 : the ladder and bomb items are powerful items * you must kill these zombies the first! **"
+	{
+		"trans"		"** Tip 8 : the ladder and bomb items are powerful items * you must kill these zombies the first! **"
+	}
+	"** Tip 9 : you must put the barricades BEHIND the guards to get maximum efficacy **"
+	{
+		"trans"		"** Tip 9 : you must put the barricades BEHIND the guards to get maximum efficacy **"
+	}
+	"** Tip 10 : horse and armor (while shield is not broken) items can push zombies **"
+	{
+		"trans"		"** Tip 10 : horse and armor (while shield is not broken) items can push zombies **"
+	}
+	"** WARMUP ROUND ** MASSIVE NUKE IN 10 SECONDS ** "
+	{
+		"trans"		"** WARMUP ROUND ** MASSIVE NUKE IN 10 SECONDS ** "
+	}
+	"** Tip 11 : Balrog scream heals near zombies and increases speed temporally **"
+	{
+		"trans"		"** Tip 11 : Balrog scream heals near zombies and increases speed temporally **"
+	}
+	"** Tip 12 : the stage 4 WC is in the top of the second tower (turn right after the wooden ramp) **"
+	{
+		"trans"		"** Tip 12 : the stage 4 WC is in the top of the second tower (turn right after the wooden ramp) **"
+	}
+	"** Tip 13 : Gandalf +You shall not pass!+ is DAWS and White Knight is AADDSWSW **"
+	{
+		"trans"		"** Tip 13 : Gandalf +You shall not pass!+ is DAWS and White Knight is AADDSWSW **"
+	}
+	"**CURRENT STAGE >> PART 1 >> OSGILIATH **"
+	{
+		"trans"		"**CURRENT STAGE >> PART 1 >> OSGILIATH **"
+	}
+	"** THE ROUND HAS STARTED ** TAKE ONE OF THE PORTALS ** MASSIVE TELEPORTATION IN 20 SECONDS **"
+	{
+		"trans"		"** THE ROUND HAS STARTED ** TAKE ONE OF THE PORTALS ** MASSIVE TELEPORTATION IN 20 SECONDS **"
+	}
+	"** THE BOATS ARE COMMING ** PREPARE YOURSELVES **"
+	{
+		"trans"		"** THE BOATS ARE COMMING ** PREPARE YOURSELVES **"
+	}
+	"** RESIST 20 SECONDS! **"
+	{
+		"trans"		"** RESIST 20 SECONDS! **"
+	}
+	"** RETREAT !! RIVER ZONE IS LOST **"
+	{
+		"trans"		"** RETREAT !! RIVER ZONE IS LOST **"
+	}
+	"** WATCH OUT! WE ARE UNDER SIEGE **"
+	{
+		"trans"		"** WATCH OUT! WE ARE UNDER SIEGE **"
+	}
+	"** DEFEND OSGILIATH! WE ARE NOT LEAVING THIS PLACE WITHOUT FIGHT! (30 SECONDS)**"
+	{
+		"trans"		"** DEFEND OSGILIATH! WE ARE NOT LEAVING THIS PLACE WITHOUT FIGHT! (30 SECONDS)**"
+	}
+	"** OSGILIATH IS LOST ** RETREAT ! **"
+	{
+		"trans"		"** OSGILIATH IS LOST ** RETREAT ! **"
+	}
+	"** TAKE THE HORSES (USE AND FORWARDS KEY) **"
+	{
+		"trans"		"** TAKE THE HORSES (USE AND FORWARDS KEY) **"
+	}
+	"** DOOR IS OPENING **"
+	{
+		"trans"		"** DOOR IS OPENING **"
+	}
+	"** ZOMBIES ARE COMMING! CLOSE THE DOOR! **"
+	{
+		"trans"		"** ZOMBIES ARE COMMING! CLOSE THE DOOR! **"
+	}
+	"** DOOR IS CLOSED **"
+	{
+		"trans"		"** DOOR IS CLOSED **"
+	}
+	"** KILL THE REMAINING ZOMBIES! **"
+	{
+		"trans"		"** KILL THE REMAINING ZOMBIES! **"
+	}
+	"** STAGE COMPLETED **"
+	{
+		"trans"		"** STAGE COMPLETED **"
+	}
+	"**CURRENT STAGE >> PART 2 >> MAIN GATES **"
+	{
+		"trans"		"**CURRENT STAGE >> PART 2 >> MAIN GATES **"
+	}
+	"** ORCS HAVE IRRUPTED THROUGH OUR DEFENSES ** RETREAT **"
+	{
+		"trans"		"** ORCS HAVE IRRUPTED THROUGH OUR DEFENSES ** RETREAT **"
+	}
+	"** WATCH OUT! **"
+	{
+		"trans"		"** WATCH OUT! **"
+	}
+	"** SIEGE TOWERS HAVE BEEN SET UP ** WE HAVE LOST THE WALLS ** RETREAT **"
+	{
+		"trans"		"** SIEGE TOWERS HAVE BEEN SET UP ** WE HAVE LOST THE WALLS ** RETREAT **"
+	}
+	"** RETREAT! **"
+	{
+		"trans"		"** RETREAT! **"
+	}
+	"** THIS IS THE LAST STAND AT FIRST LEVEL ** FIGHT UNTIL THE SIGNAL **"
+	{
+		"trans"		"** THIS IS THE LAST STAND AT FIRST LEVEL ** FIGHT UNTIL THE SIGNAL **"
+	}
+	"** USE THE BARRICADES TO LOCK THE GATES OR DEFEND 60 SECONDS ! **"
+	{
+		"trans"		"** USE THE BARRICADES TO LOCK THE GATES OR DEFEND 60 SECONDS ! **"
+	}
+	"** DOOR 1 LOCKED **"
+	{
+		"trans"		"** DOOR 1 LOCKED **"
+	}
+	"** DOOR 2 LOCKED **"
+	{
+		"trans"		"** DOOR 2 LOCKED **"
+	}
+	"** DOORS LOCKED **"
+	{
+		"trans"		"** DOORS LOCKED **"
+	}
+	"** KILL THE REMAINING ZOMBIES **"
+	{
+		"trans"		"** KILL THE REMAINING ZOMBIES **"
+	}
+	"**CURRENT STAGE >> PART 3 >> CATAPULTS **"
+	{
+		"trans"		"**CURRENT STAGE >> PART 3 >> CATAPULTS **"
+	}
+	"** THEY ARE TRYING TO GET IN ** SHOOT! **"
+	{
+		"trans"		"** THEY ARE TRYING TO GET IN ** SHOOT! **"
+	}
+	"** THEY ARE IN! RETREAT! **"
+	{
+		"trans"		"** THEY ARE IN! RETREAT! **"
+	}
+	"** THE LIFT IS LEAVING IN 10 SECONDS **"
+	{
+		"trans"		"** THE LIFT IS LEAVING IN 10 SECONDS **"
+	}
+	"** GATES ARE CLOSED ** SOMEONE MUST PRESS THE LEVER **"
+	{
+		"trans"		"** GATES ARE CLOSED ** SOMEONE MUST PRESS THE LEVER **"
+	}
+	"** THE LEVER HAS BEEN PRESSED ** THE GATE IS OPENING IN 10 SECONDS ! **"
+	{
+		"trans"		"** THE LEVER HAS BEEN PRESSED ** THE GATE IS OPENING IN 10 SECONDS ! **"
+	}
+	"** USE THE CATAPULTS IN ORDER TO CONTINUE THE MINAS TIRITH DEFENSE! **"
+	{
+		"trans"		"** USE THE CATAPULTS IN ORDER TO CONTINUE THE MINAS TIRITH DEFENSE! **"
+	}
+	"** Catapult 1 activated **"
+	{
+		"trans"		"** Catapult 1 activated **"
+	}
+	"** Catapult 2 activated **"
+	{
+		"trans"		"** Catapult 2 activated **"
+	}
+	"** NICE DONE! METAL GATE WILL OPEN IN 10 SECONDS! **"
+	{
+		"trans"		"** NICE DONE! METAL GATE WILL OPEN IN 10 SECONDS! **"
+	}
+	"** PROTECT THE BUILDING UNTIL CIVILIAN EVACUATION! *"
+	{
+		"trans"		"** PROTECT THE BUILDING UNTIL CIVILIAN EVACUATION! *"
+	}
+	"** DEFEND THIS PLACE FOR 35 SECONDS **"
+	{
+		"trans"		"** DEFEND THIS PLACE FOR 35 SECONDS **"
+	}
+	"** WAIT FOR SOME SECONDS! OTHER SURVIVORS COULD COME **"
+	{
+		"trans"		"** WAIT FOR SOME SECONDS! OTHER SURVIVORS COULD COME **"
+	}
+	"** ALL GET IN!! ** PREPARE YOUR LAST DEFENSE **"
+	{
+		"trans"		"** ALL GET IN!! ** PREPARE YOUR LAST DEFENSE **"
+	}
+	"** DEFEND THIS PLACE FOR 70 SECONDS! **"
+	{
+		"trans"		"** DEFEND THIS PLACE FOR 70 SECONDS! **"
+	}
+	"** THE POSITION IS LOST ** RETREAT **"
+	{
+		"trans"		"** THE POSITION IS LOST ** RETREAT **"
+	}
+	"** DOORS UNLOCKED ** RETREAT ! **"
+	{
+		"trans"		"** DOORS UNLOCKED ** RETREAT ! **"
+	}
+	"** WE HAVE LOST THE POSTION ** FALL BACK **"
+	{
+		"trans"		"** WE HAVE LOST THE POSTION ** FALL BACK **"
+	}
+	"** STAGE 3 COMPLETED **"
+	{
+		"trans"		"** STAGE 3 COMPLETED **"
+	}
+	"** CURRENT STAGE >> PART 4 >> THE LAST STAND **"
+	{
+		"trans"		"** CURRENT STAGE >> PART 4 >> THE LAST STAND **"
+	}
+	"** DOORS WILL OPEN SOON ** WAIT SOME SECONDS **"
+	{
+		"trans"		"** DOORS WILL OPEN SOON ** WAIT SOME SECONDS **"
+	}
+	"** DOORS ARE UNLOCKED NOW **"
+	{
+		"trans"		"** DOORS ARE UNLOCKED NOW **"
+	}
+	"** (LIBRARY) ** HOLD HERE! ** WAIT UNTIL HORN SIGNAL! **"
+	{
+		"trans"		"** (LIBRARY) ** HOLD HERE! ** WAIT UNTIL HORN SIGNAL! **"
+	}
+	"** (DUNGEONS) ** HOLD UNTIL THE HORN SIGNAL **"
+	{
+		"trans"		"** (DUNGEONS) ** HOLD UNTIL THE HORN SIGNAL **"
+	}
+	"** FALL BACK! **"
+	{
+		"trans"		"** FALL BACK! **"
+	}
+	"** WE ARE TRAPPED! FIGHT FOR YOUR LIVES!  **"
+	{
+		"trans"		"** WE ARE TRAPPED! FIGHT FOR YOUR LIVES!  **"
+	}
+	"** THE CEILING HAS COLLAPSED ** CLIMB THE BROKEN WALL! **"
+	{
+		"trans"		"** THE CEILING HAS COLLAPSED ** CLIMB THE BROKEN WALL! **"
+	}
+	"** WE ARE NEAR THE TOP OF MINAS TIRITH  ** HOLD THIS PLACE FOR 30 SECONDS **"
+	{
+		"trans"		"** WE ARE NEAR THE TOP OF MINAS TIRITH  ** HOLD THIS PLACE FOR 30 SECONDS **"
+	}
+	"** LIFT IS LEAVING IN 10 SECONDS **"
+	{
+		"trans"		"** LIFT IS LEAVING IN 10 SECONDS **"
+	}
+	"** THE GHOST ARMY IS COMING! PREPARE YOURSELVES FOR THE LAST DEFENSE ! **"
+	{
+		"trans"		"** THE GHOST ARMY IS COMING! PREPARE YOURSELVES FOR THE LAST DEFENSE ! **"
+	}
+	"** DEFEND THE MAIN GATE IN ORDER TO CONTINUE THE DEFENSE AT TOP OF MINAS TIRITH ! **"
+	{
+		"trans"		"** DEFEND THE MAIN GATE IN ORDER TO CONTINUE THE DEFENSE AT TOP OF MINAS TIRITH ! **"
+	}
+	"** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 80 SECONDS **"
+	{
+		"trans"		"** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 80 SECONDS **"
+	}
+	"** THIS IS THE LAST POINT OF THE MAP ** SURVIVE THE REMAINING TIME **"
+	{
+		"trans"		"** THIS IS THE LAST POINT OF THE MAP ** SURVIVE THE REMAINING TIME **"
+	}
+	"** All humans at bottom part will die in 15 seconds **"
+	{
+		"trans"		"** All humans at bottom part will die in 15 seconds **"
+	}
+	"** THIS IS OUT OF CONTROL! RETREAT NOW ! **"
+	{
+		"trans"		"** THIS IS OUT OF CONTROL! RETREAT NOW ! **"
+	}
+	"** STAGE 4 COMPLETE ** STARTING AGAIN IN EXTREME MODE! **"
+	{
+		"trans"		"** STAGE 4 COMPLETE ** STARTING AGAIN IN EXTREME MODE! **"
+	}
+	"** EXTREME MODE : ON **"
+	{
+		"trans"		"** EXTREME MODE : ON **"
+	}
+	"** ENABLED BLUE COLORCORRECTION AND PARTICLES **"
+	{
+		"trans"		"** ENABLED BLUE COLORCORRECTION AND PARTICLES **"
+	}
+	"** ALL ITEMS FOR ZOMBIE HAVE BEEN UNLOCKED BUT NOT LVL 4**"
+	{
+		"trans"		"** ALL ITEMS FOR ZOMBIE HAVE BEEN UNLOCKED BUT NOT LVL 4**"
+	}
+	"** CONSTANT METEOR HAS BEEN ENABLED **"
+	{
+		"trans"		"** CONSTANT METEOR HAS BEEN ENABLED **"
+	}
+	"** INCREASED NUMBER OF NAZGULS **"
+	{
+		"trans"		"** INCREASED NUMBER OF NAZGULS **"
+	}
+	"** ENABLED FAST RESPAWN **"
+	{
+		"trans"		"** ENABLED FAST RESPAWN **"
+	}
+	"** LVL 0 PLAYERS LEVEL UP TO 1 AUTOMATICALLY **"
+	{
+		"trans"		"** LVL 0 PLAYERS LEVEL UP TO 1 AUTOMATICALLY **"
+	}
+	"** THE WHITE KNIGHT IS READY ROCK THE WORLD**"
+	{
+		"trans"		"** THE WHITE KNIGHT IS READY ROCK THE WORLD**"
+	}
+	"** THIS IS THE MOMENT OF THE TRUTH ** FIGHT LIKE YOU HAVE NEVER FIGHTED BEFORE! **"
+	{
+		"trans"		"** THIS IS THE MOMENT OF THE TRUTH ** FIGHT LIKE YOU HAVE NEVER FIGHTED BEFORE! **"
+	}
+	"** UNLIMITED AMMO ON **"
+	{
+		"trans"		"** UNLIMITED AMMO ON **"
+	}
+	"** YOU DID IT ** YOU WON THE MAP ON ITS HARDEST DIFFICULT ** UNLOCKED ALL ITEMS **"
+	{
+		"trans"		"** YOU DID IT ** YOU WON THE MAP ON ITS HARDEST DIFFICULT ** UNLOCKED ALL ITEMS **"
+	}
+	"** FEEL FREE TO RTV THE MAP **"
+	{
+		"trans"		"** FEEL FREE TO RTV THE MAP **"
+	}
+}

@@ -1,0 +1,7 @@
+"Chat"
+{
+	"*** Make your way to train station and leave the city. ***"
+	{
+		"trans"		"*** Make your way to train station and leave the city. ***"
+	}
+}

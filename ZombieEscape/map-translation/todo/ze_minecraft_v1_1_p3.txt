@@ -1,0 +1,123 @@
+"Chat"
+{
+	"***BOAT LEAVES IN 10 SECONDS***"
+	{
+		"trans"		"***BOAT LEAVES IN 10 SECONDS***"
+	}
+	"***PATH BLOCKERS BREAK IN 5 SECONDS***"
+	{
+		"trans"		"***PATH BLOCKERS BREAK IN 5 SECONDS***"
+	}
+	"***MAP BY thegregster101***"
+	{
+		"trans"		"***MAP BY thegregster101***"
+	}
+	"***ALL MATERIALS FOR DIAMOND SWORD HAVE BEEN FOUND*** "
+	{
+		"trans"		"***ALL MATERIALS FOR DIAMOND SWORD HAVE BEEN FOUND*** "
+	}
+	"***THIS WILL CRAFT THE SWORD*** "
+	{
+		"trans"		"***THIS WILL CRAFT THE SWORD*** "
+	}
+	"***TNT EXPLODING IN 10 SECONDS***"
+	{
+		"trans"		"***TNT EXPLODING IN 10 SECONDS***"
+	}
+	"***TNT EXPLODING IN 5 SECONDS***"
+	{
+		"trans"		"***TNT EXPLODING IN 5 SECONDS***"
+	}
+	"***GOGO.. GET TO THE SLIP GATE***"
+	{
+		"trans"		"***GOGO.. GET TO THE SLIP GATE***"
+	}
+	"***AFK TELE 2 TELEPORTING IN 20 SECONDS***"
+	{
+		"trans"		"***AFK TELE 2 TELEPORTING IN 20 SECONDS***"
+	}
+	"***DOOR OPENING IN 15 SECONDS***"
+	{
+		"trans"		"***DOOR OPENING IN 15 SECONDS***"
+	}
+	"***DOOR OPENING IN 10 SECONDS***"
+	{
+		"trans"		"***DOOR OPENING IN 10 SECONDS***"
+	}
+	"***DOOR OPENING IN 5 SECONDS***"
+	{
+		"trans"		"***DOOR OPENING IN 5 SECONDS***"
+	}
+	"***DOOR OPEN... RUN!!***"
+	{
+		"trans"		"***DOOR OPEN... RUN!!***"
+	}
+	"***MINE CARTS ARRIVE IN 30 SECONDS***"
+	{
+		"trans"		"***MINE CARTS ARRIVE IN 30 SECONDS***"
+	}
+	"***MINE CARTS ARRIVE IN 25 SECONDS***"
+	{
+		"trans"		"***MINE CARTS ARRIVE IN 25 SECONDS***"
+	}
+	"***MINE CARTS ARRIVE IN 20 SECONDS***"
+	{
+		"trans"		"***MINE CARTS ARRIVE IN 20 SECONDS***"
+	}
+	"***MINE CARTS ARRIVE IN 15 SECONDS***"
+	{
+		"trans"		"***MINE CARTS ARRIVE IN 15 SECONDS***"
+	}
+	"***MINE CARTS ARRIVE IN 10 SECONDS***"
+	{
+		"trans"		"***MINE CARTS ARRIVE IN 10 SECONDS***"
+	}
+	"***MINE CARTS ARRIVE IN 5 SECONDS***"
+	{
+		"trans"		"***MINE CARTS ARRIVE IN 5 SECONDS***"
+	}
+	"***GET ON TOP OF THE MINE CARTS***"
+	{
+		"trans"		"***GET ON TOP OF THE MINE CARTS***"
+	}
+	"***DEFEND THE RAILWAY TRACK***"
+	{
+		"trans"		"***DEFEND THE RAILWAY TRACK***"
+	}
+	"***BUNKER DOOR OPENING IN 10 SECONDS***"
+	{
+		"trans"		"***BUNKER DOOR OPENING IN 10 SECONDS***"
+	}
+	"***BUNKER DOOR OPENING IN 5 SECONDS***"
+	{
+		"trans"		"***BUNKER DOOR OPENING IN 5 SECONDS***"
+	}
+	"***BUNKER DOOR OPEN!***"
+	{
+		"trans"		"***BUNKER DOOR OPEN!***"
+	}
+	"***THE SWORD HAS BEEN PICKED UP***"
+	{
+		"trans"		"***THE SWORD HAS BEEN PICKED UP***"
+	}
+	"***SWORD READY***"
+	{
+		"trans"		"***SWORD READY***"
+	}
+	"***STONE DOOR OPENING***"
+	{
+		"trans"		"***STONE DOOR OPENING***"
+	}
+	"***TNT EXPLODING IN 30 SECONDS***"
+	{
+		"trans"		"***TNT EXPLODING IN 30 SECONDS***"
+	}
+	"***HOLD THE CAVE!!!!***"
+	{
+		"trans"		"***HOLD THE CAVE!!!!***"
+	}
+	"***PUMPKIN HEAD HAS BEEN PICKED UP***"
+	{
+		"trans"		"***PUMPKIN HEAD HAS BEEN PICKED UP***"
+	}
+}

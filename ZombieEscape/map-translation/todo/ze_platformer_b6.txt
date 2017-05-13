@@ -1,0 +1,19 @@
+"Chat"
+{
+	"Added extra shininess to the coins."
+	{
+		"trans"		"Added extra shininess to the coins."
+	}
+	"You have collected enough coins. Nuke inbound in 70 seconds."
+	{
+		"trans"		"You have collected enough coins. Nuke inbound in 70 seconds."
+	}
+	"Proceed to find a safehouse if you want to survive."
+	{
+		"trans"		"Proceed to find a safehouse if you want to survive."
+	}
+	"Zombies have secured a checkpoint."
+	{
+		"trans"		"Zombies have secured a checkpoint."
+	}
+}

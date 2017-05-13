@@ -1,0 +1,31 @@
+"Chat"
+{
+	"*** MAP BY P'A'SS ***"
+	{
+		"trans"		"*** MAP BY P'A'SS ***"
+	}
+	">>> Hold until the City Doors Open! <<<"
+	{
+		"trans"		">>> Hold until the City Doors Open! <<<"
+	}
+	"*** Cover the windows until we find a way out of here ***"
+	{
+		"trans"		"*** Cover the windows until we find a way out of here ***"
+	}
+	"*** Bathroom and living room windows are broken! ***"
+	{
+		"trans"		"*** Bathroom and living room windows are broken! ***"
+	}
+	"*** RESIST ***"
+	{
+		"trans"		"*** RESIST ***"
+	}
+	"*** GET DOWN IN THE BASEMENT NOW ***"
+	{
+		"trans"		"*** GET DOWN IN THE BASEMENT NOW ***"
+	}
+	">>> Elevator Leaves in 10 seconds !! <<"
+	{
+		"trans"		">>> Elevator Leaves in 10 seconds !! <<"
+	}
+}

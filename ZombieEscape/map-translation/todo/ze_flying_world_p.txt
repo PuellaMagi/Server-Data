@@ -1,0 +1,143 @@
+"Chat"
+{
+	">>>RUN TO THE CT FLIGHING BOAT<<<<"
+	{
+		"trans"		">>>RUN TO THE CT FLIGHING BOAT<<<<"
+	}
+	">>>FOLLOW THE BLUE LIGHT<<<<"
+	{
+		"trans"		">>>FOLLOW THE BLUE LIGHT<<<<"
+	}
+	">>>CT FLIGHING BOAT LEAVING IN 15 SECONDS<<<"
+	{
+		"trans"		">>>CT FLIGHING BOAT LEAVING IN 15 SECONDS<<<"
+	}
+	">>>ZOMBIES FLIGHING BOAT LEAVING IN 10 SECONDS<<<"
+	{
+		"trans"		">>>ZOMBIES FLIGHING BOAT LEAVING IN 10 SECONDS<<<"
+	}
+	">>>CT FLIGHING BOAT LEAVING<<<"
+	{
+		"trans"		">>>CT FLIGHING BOAT LEAVING<<<"
+	}
+	">>>MAP BY LeGrem<<<"
+	{
+		"trans"		">>>MAP BY LeGrem<<<"
+	}
+	">>>ZOMBIES FLIGHING BOAT LEAVING<<<"
+	{
+		"trans"		">>>ZOMBIES FLIGHING BOAT LEAVING<<<"
+	}
+	">>>WAIT C4 EXPLOSION<<<"
+	{
+		"trans"		">>>WAIT C4 EXPLOSION<<<"
+	}
+	">>>BREAK THE WOODEN BLOCKER ON TOP<<<"
+	{
+		"trans"		">>>BREAK THE WOODEN BLOCKER ON TOP<<<"
+	}
+	">>>THE OTHER NEED TO COVER<<<"
+	{
+		"trans"		">>>THE OTHER NEED TO COVER<<<"
+	}
+	">>>DOORS CLOSING IN 25 SECONDS<<<"
+	{
+		"trans"		">>>DOORS CLOSING IN 25 SECONDS<<<"
+	}
+	">>>DOORS CLOSING IN 5 SECONDS<<<"
+	{
+		"trans"		">>>DOORS CLOSING IN 5 SECONDS<<<"
+	}
+	">>>RUN<<<"
+	{
+		"trans"		">>>RUN<<<"
+	}
+	">>>FLYING BOAT WILL LEAVE IN 15 SECONDS<<<"
+	{
+		"trans"		">>>FLYING BOAT WILL LEAVE IN 15 SECONDS<<<"
+	}
+	">>>COVER 25 SECONDS<<<"
+	{
+		"trans"		">>>COVER 25 SECONDS<<<"
+	}
+	">>>5 SECONDS LEFT<<<"
+	{
+		"trans"		">>>5 SECONDS LEFT<<<"
+	}
+	">>>START THE GENERATOR TO OPEN THE DOOR<<<"
+	{
+		"trans"		">>>START THE GENERATOR TO OPEN THE DOOR<<<"
+	}
+	">>>ACTIVATE THE GENERATOR<<<"
+	{
+		"trans"		">>>ACTIVATE THE GENERATOR<<<"
+	}
+	">>>DOOR WILL OPEN IN 30 SECONDS<<<"
+	{
+		"trans"		">>>DOOR WILL OPEN IN 30 SECONDS<<<"
+	}
+	">>RUN TO THE LAB<<"
+	{
+		"trans"		">>RUN TO THE LAB<<"
+	}
+	">>>COVER 20 SECONDS<<<"
+	{
+		"trans"		">>>COVER 20 SECONDS<<<"
+	}
+	">>>20 SECONDS LEFT<<<"
+	{
+		"trans"		">>>20 SECONDS LEFT<<<"
+	}
+	">>> WAIT FLYING BOAT AT THE TOP OF THE LIGHTHOUSE<<<"
+	{
+		"trans"		">>> WAIT FLYING BOAT AT THE TOP OF THE LIGHTHOUSE<<<"
+	}
+	">>>WAIT THE FLYING BOAT 15 SECONDS<<<"
+	{
+		"trans"		">>>WAIT THE FLYING BOAT 15 SECONDS<<<"
+	}
+	">>>FLYING BOAT LEAVING IN 10 SECONDS<<<"
+	{
+		"trans"		">>>FLYING BOAT LEAVING IN 10 SECONDS<<<"
+	}
+	">>>FLIGHING BOAT LEAVING IN 15 SECONDS<<<"
+	{
+		"trans"		">>>FLIGHING BOAT LEAVING IN 15 SECONDS<<<"
+	}
+	">>>RUN TO THE CONTROL ROOM AND ACTIVATE THE PANEL<<<"
+	{
+		"trans"		">>>RUN TO THE CONTROL ROOM AND ACTIVATE THE PANEL<<<"
+	}
+	">>>CONTROL PANEL ACTIVATED<<<"
+	{
+		"trans"		">>>CONTROL PANEL ACTIVATED<<<"
+	}
+	">>>TAKE THE LADDER<<<"
+	{
+		"trans"		">>>TAKE THE LADDER<<<"
+	}
+	">>>RUN TO THE NEXT CONTROL PANEL<<<"
+	{
+		"trans"		">>>RUN TO THE NEXT CONTROL PANEL<<<"
+	}
+	">>>RUN TO THE LAST CONTROL PANEL<<<"
+	{
+		"trans"		">>>RUN TO THE LAST CONTROL PANEL<<<"
+	}
+	">>>LIFT LEAVING IN 15 SECONDS<<<"
+	{
+		"trans"		">>>LIFT LEAVING IN 15 SECONDS<<<"
+	}
+	">>>RUN TO THE AIRPORT BUILDING<<<"
+	{
+		"trans"		">>>RUN TO THE AIRPORT BUILDING<<<"
+	}
+	">>>COVER 45 SECONDS<<<"
+	{
+		"trans"		">>>COVER 45 SECONDS<<<"
+	}
+	">>>OVER 15 CT - DOOR ON 1ST FLOOR IS OPEN<<<"
+	{
+		"trans"		">>>OVER 15 CT - DOOR ON 1ST FLOOR IS OPEN<<<"
+	}
+}

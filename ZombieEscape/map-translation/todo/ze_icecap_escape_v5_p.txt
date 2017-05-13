@@ -1,0 +1,103 @@
+"Chat"
+{
+	"***Boat 2 leaving in 5secs.***"
+	{
+		"trans"		"***Boat 2 leaving in 5secs.***"
+	}
+	"***Boat 1 leaving in 10secs.***"
+	{
+		"trans"		"***Boat 1 leaving in 10secs.***"
+	}
+	"***Bobsled leaving in 5secs.***"
+	{
+		"trans"		"***Bobsled leaving in 5secs.***"
+	}
+	"***Boat 3 leaving in 10secs.***"
+	{
+		"trans"		"***Boat 3 leaving in 10secs.***"
+	}
+	"***Boat 4 leaving in 10secs.***"
+	{
+		"trans"		"***Boat 4 leaving in 10secs.***"
+	}
+	"***First shortcuts opening in 15secs.***"
+	{
+		"trans"		"***First shortcuts opening in 15secs.***"
+	}
+	"***Tram leaving in 10secs.***"
+	{
+		"trans"		"***Tram leaving in 10secs.***"
+	}
+	"***Ice Wall breaking in 10secs.***"
+	{
+		"trans"		"***Ice Wall breaking in 10secs.***"
+	}
+	"***Armory open.***"
+	{
+		"trans"		"***Armory open.***"
+	}
+	"***Gate opening in 75secs.***"
+	{
+		"trans"		"***Gate opening in 75secs.***"
+	}
+	"***Second shortcuts opening in 15secs.***"
+	{
+		"trans"		"***Second shortcuts opening in 15secs.***"
+	}
+	"***Gate opening in 30secs.***"
+	{
+		"trans"		"***Gate opening in 30secs.***"
+	}
+	"***Final Boat leaving in 75secs.***"
+	{
+		"trans"		"***Final Boat leaving in 75secs.***"
+	}
+	"***WashTub leaving in 65secs.***"
+	{
+		"trans"		"***WashTub leaving in 65secs.***"
+	}
+	"***Helicopter leaving in 5secs.***"
+	{
+		"trans"		"***Helicopter leaving in 5secs.***"
+	}
+	"***Gate opening in 5secs.***"
+	{
+		"trans"		"***Gate opening in 5secs.***"
+	}
+	"***Start up the Helicopter.***"
+	{
+		"trans"		"***Start up the Helicopter.***"
+	}
+	"***Final Boat leaving in 30secs.***"
+	{
+		"trans"		"***Final Boat leaving in 30secs.***"
+	}
+	"***WashTub leaving in 5secs.***"
+	{
+		"trans"		"***WashTub leaving in 5secs.***"
+	}
+	"***Final Boat leaving in 5secs.***"
+	{
+		"trans"		"***Final Boat leaving in 5secs.***"
+	}
+	"***...WashBucket leaving in 5secs...Seriously?***"
+	{
+		"trans"		"***...WashBucket leaving in 5secs...Seriously?***"
+	}
+	"***Nuke in 10secs.***"
+	{
+		"trans"		"***Nuke in 10secs.***"
+	}
+	"***5***"
+	{
+		"trans"		"***5***"
+	}
+	"***WashTub leaving in 30secs.***"
+	{
+		"trans"		"***WashTub leaving in 30secs.***"
+	}
+	"***...WashTub leaving in 3secs...***"
+	{
+		"trans"		"***...WashTub leaving in 3secs...***"
+	}
+}

@@ -1,0 +1,119 @@
+"Chat"
+{
+	"*** NY MARATHON: GET READY TO RUN! ***"
+	{
+		"trans"		"*** NY MARATHON: GET READY TO RUN! ***"
+	}
+	"*** Current level: Onion ***"
+	{
+		"trans"		"*** Current level: Onion ***"
+	}
+	"* [[ NYCRockRadio FM 81.2 :: Flower Travellin' Band - Satori PT1 ]] *"
+	{
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: Flower Travellin' Band - Satori PT1 ]] *"
+	}
+	"*** 0110100001101001 ***"
+	{
+		"trans"		"*** 0110100001101001 ***"
+	}
+	"** Oh noes! The tunnel is locked! We'll have to hold a bit (30s) **"
+	{
+		"trans"		"** Oh noes! The tunnel is locked! We'll have to hold a bit (30s) **"
+	}
+	"** 15 seconds left! Keep defending! **"
+	{
+		"trans"		"** 15 seconds left! Keep defending! **"
+	}
+	"** 5 seconds left! Resist! **"
+	{
+		"trans"		"** 5 seconds left! Resist! **"
+	}
+	"** HOLD! The doors will open in 15 seconds!!! **"
+	{
+		"trans"		"** HOLD! The doors will open in 15 seconds!!! **"
+	}
+	"*** Stage 4: Cuckoo ***"
+	{
+		"trans"		"*** Stage 4: Cuckoo ***"
+	}
+	"* [[ NYCRockRadio FM 81.2 :: Deep Purple - Highway Star ]] *"
+	{
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: Deep Purple - Highway Star ]] *"
+	}
+	"** CHECKPOINT REACHED: STAY ON THE WHITE CIRCLES TO KEEP GOING. **"
+	{
+		"trans"		"** CHECKPOINT REACHED: STAY ON THE WHITE CIRCLES TO KEEP GOING. **"
+	}
+	"** THE CHECKPOINT HAS BEEN ENABLED! **"
+	{
+		"trans"		"** THE CHECKPOINT HAS BEEN ENABLED! **"
+	}
+	"** AFK AND SLOW WOBBLES WILL BE TELEPORTED TO IT IN 20 SECONDS. **"
+	{
+		"trans"		"** AFK AND SLOW WOBBLES WILL BE TELEPORTED TO IT IN 20 SECONDS. **"
+	}
+	"** HOLD! The station door will open in 25 seconds! **"
+	{
+		"trans"		"** HOLD! The station door will open in 25 seconds! **"
+	}
+	"** HOLD! The station door will open in 10 seconds! **"
+	{
+		"trans"		"** HOLD! The station door will open in 10 seconds! **"
+	}
+	"** JUMP OVER THE TRAINS! WE HAVE TO GET TO THE OTHER SIDE!!! **"
+	{
+		"trans"		"** JUMP OVER THE TRAINS! WE HAVE TO GET TO THE OTHER SIDE!!! **"
+	}
+	"** We must resist here until the door unlocks! (25s) **"
+	{
+		"trans"		"** We must resist here until the door unlocks! (25s) **"
+	}
+	"** Resist! 10 seconds left! **"
+	{
+		"trans"		"** Resist! 10 seconds left! **"
+	}
+	"* [[ NYCRockRadio FM 81.2 :: Ram Jam - Black Betty ]] *"
+	{
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: Ram Jam - Black Betty ]] *"
+	}
+	"*** FIDDICULTU: STRING 2 ***"
+	{
+		"trans"		"*** FIDDICULTU: STRING 2 ***"
+	}
+	"* [[ NYCRockRadio FM 81.2 :: Buffalo - Shylock ]] *"
+	{
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: Buffalo - Shylock ]] *"
+	}
+	"** We need to resist! The park's door will open in 20 seconds! **"
+	{
+		"trans"		"** We need to resist! The park's door will open in 20 seconds! **"
+	}
+	"** RESIST! Last 5 seconds! **"
+	{
+		"trans"		"** RESIST! Last 5 seconds! **"
+	}
+	"** Hold the broken wall! The door will open in 25 seconds! **"
+	{
+		"trans"		"** Hold the broken wall! The door will open in 25 seconds! **"
+	}
+	"** Resist! 10 more seconds! **"
+	{
+		"trans"		"** Resist! 10 more seconds! **"
+	}
+	"** The exitless park doors are opening in 20 seconds! **"
+	{
+		"trans"		"** The exitless park doors are opening in 20 seconds! **"
+	}
+	"** GO! We have to hold the park until we find a way out! **"
+	{
+		"trans"		"** GO! We have to hold the park until we find a way out! **"
+	}
+	"** We could call a Penis-UFO and split the fare... **"
+	{
+		"trans"		"** We could call a Penis-UFO and split the fare... **"
+	}
+	"** OK GO! The Penis-UFO is coming! RESIST!!! **"
+	{
+		"trans"		"** OK GO! The Penis-UFO is coming! RESIST!!! **"
+	}
+}

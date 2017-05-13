@@ -1,0 +1,19 @@
+"Chat"
+{
+	"**Truck 1 is leaving in 15 seconds**"
+	{
+		"trans"		"**Truck 1 is leaving in 15 seconds**"
+	}
+	"**Truck 2 is leaving in 15 seconds**"
+	{
+		"trans"		"**Truck 2 is leaving in 15 seconds**"
+	}
+	"**Boat 1 is leaving in 5 seconds**"
+	{
+		"trans"		"**Boat 1 is leaving in 5 seconds**"
+	}
+	"**Boat 2 is leaving in 10 seconds**"
+	{
+		"trans"		"**Boat 2 is leaving in 10 seconds**"
+	}
+}

@@ -1,0 +1,55 @@
+"Chat"
+{
+	"### STAY AWAY FROM CONTAMINATE AREAS ###"
+	{
+		"trans"		"### STAY AWAY FROM CONTAMINATE AREAS ###"
+	}
+	"### USE OFFICE DOOR INSTEAD !! ###"
+	{
+		"trans"		"### USE OFFICE DOOR INSTEAD !! ###"
+	}
+	"### !! BOTH GATES OPEN  !! ###"
+	{
+		"trans"		"### !! BOTH GATES OPEN  !! ###"
+	}
+	"### 10 SECONDS REMAINING ###"
+	{
+		"trans"		"### 10 SECONDS REMAINING ###"
+	}
+	"### PRESS THE CONTROLER ###"
+	{
+		"trans"		"### PRESS THE CONTROLER ###"
+	}
+	"### TO DESTROY THE BRIDGE ###"
+	{
+		"trans"		"### TO DESTROY THE BRIDGE ###"
+	}
+	"### FENCE GATES ARE CLOSING ### "
+	{
+		"trans"		"### FENCE GATES ARE CLOSING ### "
+	}
+	"### !!! USE THE LEFT EXIT !! ###"
+	{
+		"trans"		"### !!! USE THE LEFT EXIT !! ###"
+	}
+	"### ELEVATOR IS LEAVING ###"
+	{
+		"trans"		"### ELEVATOR IS LEAVING ###"
+	}
+	"### IN 10 SECONDS ###"
+	{
+		"trans"		"### IN 10 SECONDS ###"
+	}
+	"### ZOMBIES USE THE LEFT LADDER INSTEAD ###"
+	{
+		"trans"		"### ZOMBIES USE THE LEFT LADDER INSTEAD ###"
+	}
+	"### LADDER DOOR OPENS ###"
+	{
+		"trans"		"### LADDER DOOR OPENS ###"
+	}
+	"### DEFEND THE LADDER NOW ###"
+	{
+		"trans"		"### DEFEND THE LADDER NOW ###"
+	}
+}

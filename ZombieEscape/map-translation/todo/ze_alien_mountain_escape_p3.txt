@@ -1,0 +1,27 @@
+"Chat"
+{
+	"*** Spaceship leaving in 90 seconds ***"
+	{
+		"trans"		"*** Spaceship leaving in 90 seconds ***"
+	}
+	"*** AFK Teleport in 10 seconds ***"
+	{
+		"trans"		"*** AFK Teleport in 10 seconds ***"
+	}
+	"*** Spaceship leaving in 60 seconds ***"
+	{
+		"trans"		"*** Spaceship leaving in 60 seconds ***"
+	}
+	"*** Spaceship leaving in 30 seconds ***"
+	{
+		"trans"		"*** Spaceship leaving in 30 seconds ***"
+	}
+	"*** Spaceship leaving in 10 seconds ***"
+	{
+		"trans"		"*** Spaceship leaving in 10 seconds ***"
+	}
+	"*** Spaceship leaving ***"
+	{
+		"trans"		"*** Spaceship leaving ***"
+	}
+}

@@ -1,0 +1,147 @@
+"Chat"
+{
+	">>> Map by Moray <<<"
+	{
+		"trans"		">>> Map by Moray <<<"
+	}
+	">>> Thanks to nano (Help & Ideas) <<<"
+	{
+		"trans"		">>> Thanks to nano (Help & Ideas) <<<"
+	}
+	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
+	{
+		"trans"		">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
+	}
+	">>> WARMUP ROUND 20 SECONDS REMAINING <<<"
+	{
+		"trans"		">>> WARMUP ROUND 20 SECONDS REMAINING <<<"
+	}
+	">>> WARMUP ROUND 10 SECONDS REMAINING <<<"
+	{
+		"trans"		">>> WARMUP ROUND 10 SECONDS REMAINING <<<"
+	}
+	">>> WARMUP ROUND END <<<"
+	{
+		"trans"		">>> WARMUP ROUND END <<<"
+	}
+	">>> STAGE 1 <<<"
+	{
+		"trans"		">>> STAGE 1 <<<"
+	}
+	">>> AFK TELEPORT IN 10 SECONDS <<<"
+	{
+		"trans"		">>> AFK TELEPORT IN 10 SECONDS <<<"
+	}
+	">>> PLAYER HAS PICKED UP HEAL <<<"
+	{
+		"trans"		">>> PLAYER HAS PICKED UP HEAL <<<"
+	}
+	">>> PLAYER HAS PICKED UP PUSH <<<"
+	{
+		"trans"		">>> PLAYER HAS PICKED UP PUSH <<<"
+	}
+	">>> AFK TELEPORT IN 5 SECONDS <<<"
+	{
+		"trans"		">>> AFK TELEPORT IN 5 SECONDS <<<"
+	}
+	">>> HOLD 10 SECONDS <<<"
+	{
+		"trans"		">>> HOLD 10 SECONDS <<<"
+	}
+	">>> HOLD 5 SECONDS <<<"
+	{
+		"trans"		">>> HOLD 5 SECONDS <<<"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE FIRE <<<"
+	{
+		"trans"		">>> PLAYER HAS PICKED UP ZOMBIE FIRE <<<"
+	}
+	">>> PLAYER HAS PICKED UP FIRE <<<"
+	{
+		"trans"		">>> PLAYER HAS PICKED UP FIRE <<<"
+	}
+	">>> SPIDER USED POISON <<<"
+	{
+		"trans"		">>> SPIDER USED POISON <<<"
+	}
+	">>> SPIDER IS DEFEATED <<<"
+	{
+		"trans"		">>> SPIDER IS DEFEATED <<<"
+	}
+	">>> TELEPORTER ACTIVATE IN 20 SECONDS <<<"
+	{
+		"trans"		">>> TELEPORTER ACTIVATE IN 20 SECONDS <<<"
+	}
+	">>> DOOR CLOSING <<<"
+	{
+		"trans"		">>> DOOR CLOSING <<<"
+	}
+	">>> HOLD 20 SECONDS <<<"
+	{
+		"trans"		">>> HOLD 20 SECONDS <<<"
+	}
+	">>> PLAYER HAS PICKED UP ICE <<<"
+	{
+		"trans"		">>> PLAYER HAS PICKED UP ICE <<<"
+	}
+	">>> HOLD 15 SECONDS <<<"
+	{
+		"trans"		">>> HOLD 15 SECONDS <<<"
+	}
+	">>> SPIDER IS COMING <<<"
+	{
+		"trans"		">>> SPIDER IS COMING <<<"
+	}
+	">>> STAGE 1 COMPLETED <<<"
+	{
+		"trans"		">>> STAGE 1 COMPLETED <<<"
+	}
+	">>> HOLD 25 SECONDS <<<"
+	{
+		"trans"		">>> HOLD 25 SECONDS <<<"
+	}
+	">>> PLAYER HAS PICKED UP LIGHTNING <<<"
+	{
+		"trans"		">>> PLAYER HAS PICKED UP LIGHTNING <<<"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE POISON <<<"
+	{
+		"trans"		">>> PLAYER HAS PICKED UP ZOMBIE POISON <<<"
+	}
+	">>> TROLL IS COMING <<<"
+	{
+		"trans"		">>> TROLL IS COMING <<<"
+	}
+	">>> TROLL IS DEFEATED <<<"
+	{
+		"trans"		">>> TROLL IS DEFEATED <<<"
+	}
+	">>> IT'S DRAGON <<<"
+	{
+		"trans"		">>> IT'S DRAGON <<<"
+	}
+	">>> STAGE 2 <<<"
+	{
+		"trans"		">>> STAGE 2 <<<"
+	}
+	">>> DRAGON IS DEFEATED <<<"
+	{
+		"trans"		">>> DRAGON IS DEFEATED <<<"
+	}
+	">>> STAGE 2 COMPLETED <<<"
+	{
+		"trans"		">>> STAGE 2 COMPLETED <<<"
+	}
+	">>> PLAYER HAS PICKED UP AMMO <<<"
+	{
+		"trans"		">>> PLAYER HAS PICKED UP AMMO <<<"
+	}
+	">>> HOLD 35 SECONDS <<<"
+	{
+		"trans"		">>> HOLD 35 SECONDS <<<"
+	}
+	">>> PLAYER HAS PICKED UP KILLER <<<"
+	{
+		"trans"		">>> PLAYER HAS PICKED UP KILLER <<<"
+	}
+}

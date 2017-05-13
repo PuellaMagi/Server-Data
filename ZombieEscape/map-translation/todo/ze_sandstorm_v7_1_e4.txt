@@ -1,0 +1,123 @@
+"Chat"
+{
+	"** A player has picked up Tornado Staff **"
+	{
+		"trans"		"** A player has picked up Tornado Staff **"
+	}
+	"** FALL BACK **"
+	{
+		"trans"		"** FALL BACK **"
+	}
+	"** A player has picked up Earth Staff **"
+	{
+		"trans"		"** A player has picked up Earth Staff **"
+	}
+	"** 5 seconds left **"
+	{
+		"trans"		"** 5 seconds left **"
+	}
+	"** The doors will open in 15 seconds **"
+	{
+		"trans"		"** The doors will open in 15 seconds **"
+	}
+	"*** YOU WON STAGE 1 ***"
+	{
+		"trans"		"*** YOU WON STAGE 1 ***"
+	}
+	"** A player has picked up Quicksand Staff **"
+	{
+		"trans"		"** A player has picked up Quicksand Staff **"
+	}
+	"** The doors will open in 20 seconds **"
+	{
+		"trans"		"** The doors will open in 20 seconds **"
+	}
+	"** A player has picked up Heal Staff **"
+	{
+		"trans"		"** A player has picked up Heal Staff **"
+	}
+	"** Kill the remaining zombies! **"
+	{
+		"trans"		"** Kill the remaining zombies! **"
+	}
+	"** A player has picked up SandStorm Staff **"
+	{
+		"trans"		"** A player has picked up SandStorm Staff **"
+	}
+	"** LEVEL 3 **"
+	{
+		"trans"		"** LEVEL 3 **"
+	}
+	"** Teleport will open in 15 seconds **"
+	{
+		"trans"		"** Teleport will open in 15 seconds **"
+	}
+	"** Kill him or he kills you!!! **"
+	{
+		"trans"		"** Kill him or he kills you!!! **"
+	}
+	"** YOU WON STAGE 3 **"
+	{
+		"trans"		"** YOU WON STAGE 3 **"
+	}
+	"** A player has picked up Fire Staff **"
+	{
+		"trans"		"** A player has picked up Fire Staff **"
+	}
+	"*** He's dead. Run. ***"
+	{
+		"trans"		"*** He's dead. Run. ***"
+	}
+	"** Teleport will open in 15 seconds. **"
+	{
+		"trans"		"** Teleport will open in 15 seconds. **"
+	}
+	"** Run into the center and break the crystal!!! **"
+	{
+		"trans"		"** Run into the center and break the crystal!!! **"
+	}
+	"** 5 seconds left. **"
+	{
+		"trans"		"** 5 seconds left. **"
+	}
+	"** Hold for 20 seconds. **"
+	{
+		"trans"		"** Hold for 20 seconds. **"
+	}
+	"** Do not come to the edge of the platform! **"
+	{
+		"trans"		"** Do not come to the edge of the platform! **"
+	}
+	"** YOU WON STAGE 2 **"
+	{
+		"trans"		"** YOU WON STAGE 2 **"
+	}
+	"*** YOU WON STAGE 5 ***"
+	{
+		"trans"		"*** YOU WON STAGE 5 ***"
+	}
+	"** LEVEL ZM **"
+	{
+		"trans"		"** LEVEL ZM **"
+	}
+	"** Victory in 150 seconds. **"
+	{
+		"trans"		"** Victory in 150 seconds. **"
+	}
+	"** Victory in 100 seconds. **"
+	{
+		"trans"		"** Victory in 100 seconds. **"
+	}
+	"** Victory in 50 seconds. **"
+	{
+		"trans"		"** Victory in 50 seconds. **"
+	}
+	"** Victory in 10 seconds. **"
+	{
+		"trans"		"** Victory in 10 seconds. **"
+	}
+	"** Zombies have 1 HP! **"
+	{
+		"trans"		"** Zombies have 1 HP! **"
+	}
+}

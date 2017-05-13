@@ -1,0 +1,1564 @@
+"MapData"
+{
+	"ze_santassination_v3"
+	{
+		"desc"		"狮子王: [8+2关|神器|BOSS|刺激] *神图*"
+		"price"		"1000"
+		"Size"		"139"
+		"Nice"		"1"
+	}
+	"ze_007_goldeneye_v64"
+	{
+		"desc"		"007-黄金眼: [尚未明朗]"
+		"price"		"100"
+		"Size"		"82"
+		"Nice"		"0"
+	}
+	"ze_10th_Station_vFaT10"
+	{
+		"desc"		"十号站台: [1关|中奖励|BOSS] 困难"
+		"price"		"100"
+		"Size"		"57"
+		"Nice"		"0"
+	}
+	"ze_13_v2"
+	{
+		"desc"		"十三号设施: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"67"
+		"Nice"		"0"
+	}
+	"ze_30_seconds__b22"
+	{
+		"desc"		"生死三十秒: [1关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"35"
+		"Nice"		"0"
+	}
+	"ze_aepp_nano_grid2_b2"
+	{
+		"desc"		"纳米空间格: [?关|尚未明朗]"
+		"price"		"100"
+		"Size"		"51"
+		"Nice"		"0"
+	}
+	"ze_ALIEN_mountain_escape_p3"
+	{
+		"desc"		"高山逃亡: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"35"
+		"Nice"		"0"
+	}
+	"ze_ancient_wrath_v1_2"
+	{
+		"desc"		"古代种: [4关|神器|BOSS] *神图"
+		"price"		"1000"
+		"Size"		"111"
+		"Nice"		"1"
+	}
+	"ze_ApertureScience_p2"
+	{
+		"desc"		"光圈科技-传送门: [1关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"43"
+		"Nice"		"0"
+	}
+	"ze_ATIX_extinction_p2"
+	{
+		"desc"		"ATIX-金字塔: [1关|守点|神器|低奖励] 困难"
+		"price"		"100"
+		"Size"		"48"
+		"Nice"		"0"
+	}
+	"ze_ATIX_helicopter_p"
+	{
+		"desc"		"ATIX-回形街: [1关|守点|低奖励] 中等"
+		"price"		"100"
+		"Size"		"27"
+		"Nice"		"0"
+	}
+	"ze_ATIX_panic_b3t_p"
+	{
+		"desc"		"ATIX-天台藏身处: [1关|守点|低奖励] 简单"
+		"price"		"100"
+		"Size"		"25"
+		"Nice"		"0"
+	}
+	"ze_aztecnoob_p2"
+	{
+		"desc"		"阿兹特克遗迹: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"28"
+		"Nice"		"0"
+	}
+	"ze_aztec_temple_go_v2"
+	{
+		"desc"		"阿兹特克神殿: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"28"
+		"Nice"		"0"
+	}
+	"ze_A_E_S_T_H_E_T_I_C_v1_1"
+	{
+		"desc"		"舞台剧-艺术战争: [BOSS|神器|一关到底] *神图*"
+		"price"		"1000"
+		"Size"		"78"
+		"Nice"		"1"
+	}
+	"ze_bastion_nav72"
+	{
+		"desc"		"堡垒: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"76"
+		"Nice"		"0"
+	}
+	"ze_Bathroom_v2_5"
+	{
+		"desc"		"浴室逃脱: [2关|中奖励] 困难"
+		"price"		"100"
+		"Size"		"104"
+		"Nice"		"0"
+	}
+	"ze_biohazard2_rpd_004_p3"
+	{
+		"desc"		"生化危机2-警察局: [1关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"108"
+		"Nice"		"0"
+	}
+	"ze_biohazard2_sewer_004_p8"
+	{
+		"desc"		"生化危机2-下水道: [1关|解谜|低奖励] 中等"
+		"price"		"100"
+		"Size"		"101"
+		"Nice"		"0"
+	}
+	"ze_biohazard_manor_004_p4"
+	{
+		"desc"		"生化危机2-洋馆: [?关|尚未明朗]"
+		"price"		"100"
+		"Size"		"129"
+		"Nice"		"0"
+	}
+	"ze_bisounours_party_go_v1"
+	{
+		"desc"		"彩虹岛: [4关|BOSS|神器] *神图*"
+		"price"		"300"
+		"Size"		"112"
+		"Nice"		"1"
+	}
+	"ze_blackmesa_escape_csgofix1"
+	{
+		"desc"		"逃离黑山基地: [1关|尚未明朗]"
+		"price"		"100"
+		"Size"		"59"
+		"Nice"		"0"
+	}
+	"ze_blackmesa_remix_p"
+	{
+		"desc"		"逃离黑山基地2: [1关|尚未明朗]"
+		"price"		"100"
+		"Size"		"59"
+		"Nice"		"0"
+	}
+	"ze_boacceho_p4"
+	{
+		"desc"		"搁浅秘境: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"17"
+		"Nice"		"0"
+	}
+	"ze_boatescape101_p"
+	{
+		"desc"		"逃生船: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"10"
+		"Nice"		"0"
+	}
+	"ze_bowser_in_the_fire_sea_v1nb2"
+	{
+		"desc"		"岩浆世界: [?关|尚未明朗]"
+		"price"		"100"
+		"Size"		"31"
+		"Nice"		"0"
+	}
+	"ze_bp-infested-prison_p2"
+	{
+		"desc"		"监狱: [1关|低奖励] 简单"
+		"price"		"10000"
+		"Size"		"39"
+		"Nice"		"0"
+	}
+	"ze_Breakable_p3"
+	{
+		"desc"		"破碎的墙: [1关|中奖励] 困难"
+		"price"		"100"
+		"Size"		"60"
+		"Nice"		"0"
+	}
+	"ze_bunker_escape_v1_2"
+	{
+		"desc"		"地垒逃亡: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"29"
+		"Nice"		"0"
+	}
+	"ze_cathedral_b1_1"
+	{
+		"desc"		"大教堂: [1关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"95"
+		"Nice"		"0"
+	}
+	"ze_cheezylab_beta7"
+	{
+		"desc"		"秘密实验室: [1关|BOSS|低奖励] 中等"
+		"price"		"100"
+		"Size"		"68"
+		"Nice"		"0"
+	}
+	"ze_chemical_weapons_depot_v3_1"
+	{
+		"desc"		"化学武器库: [?关|尚未明朗]"
+		"price"		"100"
+		"Size"		"73"
+		"Nice"		"0"
+	}
+	"ze_chicken_ranch_v2_1"
+	{
+		"desc"		"鸡农场: [?关|尚未明朗|神器]"
+		"price"		"100"
+		"Size"		"116"
+		"Nice"		"0"
+	}
+	"ze_christmas_infection_p"
+	{
+		"desc"		"圣诞夜惊魂: [5关|中奖励|神器] *神图*"
+		"price"		"2500"
+		"Size"		"242"
+		"Nice"		"1"
+	}
+	"ze_colorlicouspilar_p4"
+	{
+		"desc"		"多彩戏剧: [1关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"10"
+		"Nice"		"0"
+	}
+	"ze_colors_p3"
+	{
+		"desc"		"乐高逃亡: [1关|神器|低奖励] 中等"
+		"price"		"100"
+		"Size"		"47"
+		"Nice"		"0"
+	}
+	"ze_crazy_escape_v4_4_1"
+	{
+		"desc"		"疯狂密室: [?关|尚未明朗]"
+		"price"		"100"
+		"Size"		"76"
+		"Nice"		"0"
+	}
+	"ze_csgo_grey2"
+	{
+		"desc"		"灰白世界: [1关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"23"
+		"Nice"		"0"
+	}
+	"ze_cursed_ruins_v3"
+	{
+		"desc"		"诅咒遗迹: [?关|尚未明朗]"
+		"price"		"100"
+		"Size"		"27"
+		"Nice"		"0"
+	}
+	"ze_cyberderp_p3"
+	{
+		"desc"		"网格世界: [1关|神器|中奖励] 困难"
+		"price"		"100"
+		"Size"		"132"
+		"Nice"		"0"
+	}
+	"ze_dangerous_waters_v2_Final"
+	{
+		"desc"		"危险的水: [1关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"70"
+		"Nice"		"0"
+	}
+	"ze_death_star_escape_v4_5"
+	{
+		"desc"		"星球大战-逃离死星: [1关|神器|尚未明朗]"
+		"price"		"100"
+		"Size"		"119"
+		"Nice"		"0"
+	}
+	"ze_death_wish_v6"
+	{
+		"desc"		"贫民区: [1关|尚未明朗]"
+		"price"		"100"
+		"Size"		"24"
+		"Nice"		"0"
+	}
+	"ze_deepice_p3"
+	{
+		"desc"		"深井冰: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"40"
+		"Nice"		"0"
+	}
+	"ze_desert_fox_v7_6"
+	{
+		"desc"		"荒漠迷城: [1关|BOSS]"
+		"price"		"100"
+		"Size"		"112"
+		"Nice"		"0"
+	}
+	"ze_destruction_of_exorath_v4_lite"
+	{
+		"desc"		"摧毁早熟的EXO: [5关|BOSS|神器] *神图*"
+		"price"		"1000"
+		"Size"		"137"
+		"Nice"		"1"
+	}
+	"ze_dingo_land_v1"
+	{
+		"desc"		"消失的土地: [1关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"3"
+		"Nice"		"0"
+	}
+	"ze_DOOM_wad_BV4_4"
+	{
+		"desc"		"毁灭战士: [3关|神器|BOSS] *神图*"
+		"price"		"350"
+		"Size"		"59"
+		"Nice"		"1"
+	}
+	"ze_DOOM_p2"
+	{
+		"desc"		"毁灭战士: [3关|神器|BOSS] *神图*"
+		"price"		"350"
+		"Size"		"59"
+		"Nice"		"1"
+	}
+	"ze_dragonball_snakeway_v1_3"
+	{
+		"desc"		"龙珠: [?关|尚未明朗]"
+		"price"		"100"
+		"Size"		"40"
+		"Nice"		"0"
+	}
+	"ze_ELEVATOR_escape"
+	{
+		"desc"		"地下设施: [1关|尚未明朗]"
+		"price"		"100"
+		"Size"		"90"
+		"Nice"		"0"
+	}
+	"ze_escape_the_eye_p2"
+	{
+		"desc"		"风暴之眼: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"29"
+		"Nice"		"0"
+	}
+	"ze_eternal_void_p3"
+	{
+		"desc"		"永恒虚空: [?关|尚未明朗]"
+		"price"		"100"
+		"Size"		"46"
+		"Nice"		"0"
+	}
+	"ze_evil_mansion_v1_final"
+	{
+		"desc"		"闹鬼庄园: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"85"
+		"Nice"		"0"
+	}
+	"ze_fapescape_p5"
+	{
+		"desc"		"乐高方块剧场: [6关|神器|BOSS] *神图*"
+		"price"		"500"
+		"Size"		"93"
+		"Nice"		"1"
+	}
+	"ze_fapescape_rote_v1_3"
+	{
+		"desc"		"乐高大城堡: [6关|神器|BOSS] *神图*"
+		"price"		"500"
+		"Size"		"126"
+		"Nice"		"1"
+	}
+	"ze_farmhouse_v9_fix"
+	{
+		"desc"		"夺命农场: [4关|神器|BOSS] 困难"
+		"price"		"100"
+		"Size"		"112"
+		"Nice"		"0"
+	}
+	"ze_FFVII_Mako_Reactor_v5_3_v5"
+	{
+		"desc"		"魔光炉: [4+1关|神器|BOSS] *神图*"
+		"price"		"10000"
+		"Size"		"143"
+		"Nice"		"1"
+	}
+	"ze_ffxii_feywood_b3_1_e2"
+	{
+		"desc"		"幻妖之森: [5+1关|BOSS|神器] *神图*"
+		"price"		"3000"
+		"Size"		"148"
+		"Nice"		"1"
+	}
+	"ze_ffxii_paramina_rift_v1_5"
+	{
+		"desc"		"帕拉米娅: [4关|BOSS|神器] *神图*"
+		"price"		"500"
+		"Size"		"144"
+		"Nice"		"1"
+	}
+	"ze_ffxii_westersand_v7_2_e6"
+	{
+		"desc"		"西沙(e6): [5+1关|神器|BOSS] *神图*"
+		"price"		"500"
+		"Size"		"143"
+		"Nice"		"1"
+	}
+	"ze_ffxiv_wanderers_palace_v4_10"
+	{
+		"desc"		"贴图者宫殿: [很多关|神器|BOSS] *神图*"
+		"price"		"3000"
+		"Size"		"136"
+		"Nice"		"1"
+	}
+	"ze_firewall_laboratory_part2_p2"
+	{
+		"desc"		"防火墙实验室: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"48"
+		"Nice"		"0"
+	}
+	"ze_Flying_World_p"
+	{
+		"desc"		"飞行世界: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"59"
+		"Nice"		"0"
+	}
+	"ze_forgotten_facility_p2"
+	{
+		"desc"		"废弃工厂: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"23"
+		"Nice"		"0"
+	}
+	"ze_frostdrake_tower_v1"
+	{
+		"desc"		"霜伏龙塔: [1关|BOSS|解谜] *神图*"
+		"price"		"1000"
+		"Size"		"75"
+		"Nice"		"1"
+	}
+	"ze_games_v2_1"
+	{
+		"desc"		"小游戏: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"33"
+		"Nice"		"0"
+	}
+	"ze_great_crate_escape_v6"
+	{
+		"desc"		"大箱子逃亡: [1关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"58"
+		"Nice"		"0"
+	}
+	"ze_greencity_fix"
+	{
+		"desc"		"绿(hang)城(zhou): [5关|中奖励] 困难"
+		"price"		"100"
+		"Size"		"56"
+		"Nice"		"0"
+	}
+	"ze_gris_v1_11ffff"
+	{
+		"desc"		"创世纪: [4+2关|高奖励] *神图*"
+		"price"		"100"
+		"Size"		"95"
+		"Nice"		"1"
+	}
+	"ze_Halloween_House_b4"
+	{
+		"desc"		"万圣节之家: [1关|中奖励] 困难"
+		"price"		"100"
+		"Size"		"135"
+		"Nice"		"0"
+	}
+	"ze_halo_poa_p4"
+	{
+		"desc"		"光晕: [1关|BOSS|中奖励] 困难"
+		"price"		"100"
+		"Size"		"59"
+		"Nice"		"0"
+	}
+	"ze_haunted_lab_escape_v2c_e3"
+	{
+		"desc"		"闹鬼的试验室: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"103"
+		"Nice"		"0"
+	}
+	"ze_hold_em_v8"
+	{
+		"desc"		"鬼脸长廊: [1关|BOSS|低奖励] 简单"
+		"price"		"100"
+		"Size"		"11"
+		"Nice"		"0"
+	}
+	"ze_hypernova_v2fix2"
+	{
+		"desc"		"星际争霸-逃离超新星: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"147"
+		"Nice"		"0"
+	}
+	"ze_icecap_escape_v5_p"
+	{
+		"desc"		"西瓜橘子: [1关] 简单"
+		"price"		"3000"
+		"Size"		"31"
+		"Nice"		"0"
+	}
+	"ze_inboxed_final"
+	{
+		"desc"		"悬空迷阵: [4关] 中等"
+		"price"		"100"
+		"Size"		"42"
+		"Nice"		"0"
+	}
+	"ze_industrial_dejavu_v3_3_3_e2_d"
+	{
+		"desc"		"工业(刷分)循环: [随机关|神器|BOSS] 困难"
+		"price"		"1500"
+		"Size"		"110"
+		"Nice"		"0"
+	}
+	"ze_infected_tramway_csgo1"
+	{
+		"desc"		"雪山基地: [1关|低奖励|神器] 简单"
+		"price"		"100"
+		"Size"		"83"
+		"Nice"		"0"
+	}
+	"ze_inferno_escape_v6b"
+	{
+		"desc"		"像素炼狱: [1关|低奖励|神器] 简单"
+		"price"		"100"
+		"Size"		"14"
+		"Nice"		"0"
+	}
+	"ze_infiltration_final_p3"
+	{
+		"desc"		"入侵行动: [?关|多出生点|尚未明朗]"
+		"price"		"100"
+		"Size"		"69"
+		"Nice"		"0"
+	}
+	"ze_insanitycity_final"
+	{
+		"desc"		"混乱都城: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"22"
+		"Nice"		"0"
+	}
+	"ze_interception_p2"
+	{
+		"desc"		"拦截行动: [1关|中奖励] 困难"
+		"price"		"100"
+		"Size"		"68"
+		"Nice"		"0"
+	}
+	"ze_Island_Escape_p3"
+	{
+		"desc"		"荒岛逃生: [1关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"33"
+		"Nice"		"0"
+	}
+	"ze_journey_p4"
+	{
+		"desc"		"旅程: [1关|神器|中奖励] 困难"
+		"price"		"100"
+		"Size"		"119"
+		"Nice"		"0"
+	}
+	"ze_jurassicpark_csgo"
+	{
+		"desc"		"侏罗纪公园: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"131"
+		"Nice"		"0"
+	}
+	"ze_k19_escape_v5"
+	{
+		"desc"		"逃出地下基地: [1关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"1"
+		"Nice"		"0"
+	}
+	"ze_kaffe_escape_v2"
+	{
+		"desc"		"咖啡仓库大逃亡: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"11"
+		"Nice"		"0"
+	}
+	"ze_lab_v5"
+	{
+		"desc"		"实验室: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"45"
+		"Nice"		"0"
+	}
+	"ze_lila_panic_escape_v2"
+	{
+		"desc"		"里拉大逃亡: [9关|神器|BOSS] *神图*"
+		"price"		"300"
+		"Size"		"74"
+		"Nice"		"1"
+	}
+	"ze_lotr_helms_deep_v5_p6"
+	{
+		"desc"		"魔戒-圣盔谷: [1关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"76"
+		"Nice"		"0"
+	}
+	"ze_LOTR_Mines_of_Moria_p2"
+	{
+		"desc"		"魔戒-矿坑: [1关|神器|低奖励] 简单"
+		"price"		"100"
+		"Size"		"63"
+		"Nice"		"0"
+	}
+	"ze_LOTR_Mount_Doom_p3"
+	{
+		"desc"		"魔戒-末日火山: [1关|尚未明朗]"
+		"price"		"100"
+		"Size"		"72"
+		"Nice"		"0"
+	}
+	"ze_luigismansion_p2"
+	{
+		"desc"		"瑞吉公馆: [?关|?奖励|?]"
+		"price"		"100"
+		"Size"		"119"
+		"Nice"		"0"
+	}
+	"ze_magic_ship_fix"
+	{
+		"desc"		"熔岩遗迹: [1关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"46"
+		"Nice"		"0"
+	}
+	"ze_mario_tower_v4_p2"
+	{
+		"desc"		"马里奥之塔: [1关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"50"
+		"Nice"		"0"
+	}
+	"ze_minecraft_adventure_v1_3d"
+	{
+		"desc"		"我的世界大冒险: [4关|BOSS|神器] *神图*"
+		"price"		"500"
+		"Size"		"81"
+		"Nice"		"1"
+	}
+	"ze_minecraft_v1_1_p3"
+	{
+		"desc"		"我的世界: [1关|神器|低奖励] 简单"
+		"price"		"100"
+		"Size"		"29"
+		"Nice"		"0"
+	}
+	"ze_mirrors_edge_reborn_v4_2_p3"
+	{
+		"desc"		"镜之边缘: [4关|解谜|中奖励] 困难"
+		"price"		"100"
+		"Size"		"55"
+		"Nice"		"0"
+	}
+	"ze_modafuka_v1-2"
+	{
+		"desc"		"逃出树脂工厂: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"4"
+		"Nice"		"0"
+	}
+	"ze_motanuminc_p2"
+	{
+		"desc"		"光圈科技大逃亡: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"24"
+		"Nice"		"0"
+	}
+	"ze_mountainpass_b6"
+	{
+		"desc"		"山口基地: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"17"
+		"Nice"		"0"
+	}
+	"ze_mountain_escape_v2_2"
+	{
+		"desc"		"高山逃亡: [1关|神器|BOSS|中奖励] 困难"
+		"price"		"100"
+		"Size"		"36"
+		"Nice"		"0"
+	}
+	"ze_naruto_v1_1"
+	{
+		"desc"		"火影忍者: [1关|低奖励] 中等"
+		"price"		"2000"
+		"Size"		"149"
+		"Nice"		"0"
+	}
+	"ze_negative_legacy_beta8"
+	{
+		"desc"		"负面遗产: [?关|尚未明朗]"
+		"price"		"100"
+		"Size"		"104"
+		"Nice"		"0"
+	}
+	"ze_neko_canyon_p3"
+	{
+		"desc"		"峡谷发射场: [?关|尚未明朗]"
+		"price"		"100"
+		"Size"		"47"
+		"Nice"		"0"
+	}
+	"ze_noir_p1"
+	{
+		"desc"		"黑色工厂: [?关|尚未明朗]"
+		"price"		"100"
+		"Size"		"131"
+		"Nice"		"0"
+	}
+	"ze_nostromo_redux_v1_2"
+	{
+		"desc"		"异形-逃离Nostromo: [1关|低奖励] 困难"
+		"price"		"100"
+		"Size"		"112"
+		"Nice"		"0"
+	}
+	"ze_nuclear_station_by_gm"
+	{
+		"desc"		"核电站: [?关|尚未明朗]"
+		"price"		"100"
+		"Size"		"114"
+		"Nice"		"0"
+	}
+	"ze_nuke_p5"
+	{
+		"desc"		"核子危机: [1关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"24"
+		"Nice"		"0"
+	}
+	"ze_NY_marathon_p2"
+	{
+		"desc"		"马拉松竞赛: [1关|神器|低奖励] 中等"
+		"price"		"500"
+		"Size"		"87"
+		"Nice"		"1"
+	}
+	"ze_ocean_base_escape_v4"
+	{
+		"desc"		"海洋基地大逃亡: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"108"
+		"Nice"		"0"
+	}
+	"ze_otakuroom_v5_6f"
+	{
+		"desc"		"死宅房: [无记录]"
+		"price"		"2000"
+		"Size"		"100"
+		"Nice"		"0"
+	}
+	"ze_panic_escape_v3_2_e5"
+	{
+		"desc"		"恐慌逃亡: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"2"
+		"Nice"		"0"
+	}
+	"ze_paper_escaper_p7"
+	{
+		"desc"		"纸质大逃亡: [5关|BOSS|神器] *神图*"
+		"price"		"300"
+		"Size"		"71"
+		"Nice"		"1"
+	}
+	"ze_paradise_v2_csgo"
+	{
+		"desc"		"火山基地: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"32"
+		"Nice"		"0"
+	}
+	"ze_Paranoid_Rezurrection_v11_9_th10"
+	{
+		"desc"		"游乐园: [1关|玩家选择模式|尚未明朗]"
+		"price"		"2000"
+		"Size"		"149"
+		"Nice"		"0"
+	}
+	"ze_Parking_p4"
+	{
+		"desc"		"最终撤离-停车场大楼: [4关|神器|中奖励] 困难"
+		"price"		"300"
+		"Size"		"109"
+		"Nice"		"1"
+	}
+	"ze_parkour_fix"
+	{
+		"desc"		"跑酷: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"6"
+		"Nice"		"0"
+	}
+	"ze_pidaras_v1_4fix3_e9"
+	{
+		"desc"		"大diao图: [3关|神器|BOSS] *神图*"
+		"price"		"1000"
+		"Size"		"149"
+		"Nice"		"1"
+	}
+	"ze_pipescape_v1"
+	{
+		"desc"		"阴暗地道: [1关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"7"
+		"Nice"		"0"
+	}
+	"ze_Pirates_Port_Royal_v5_6"
+	{
+		"desc"		"加勒比海盗-皇家港口: [5关|神器|BOSS] *神图*"
+		"price"		"500"
+		"Size"		"141"
+		"Nice"		"1"
+	}
+	"ze_pitchblack_p2"
+	{
+		"desc"		"星际传奇: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"42"
+		"Nice"		"0"
+	}
+	"ze_PKMN_Adventure_v7_2"
+	{
+		"desc"		"精灵宝可梦: [?关|尚未明朗]"
+		"price"		"1000"
+		"Size"		"132"
+		"Nice"		"1"
+	}
+	"ze_platformer_b6"
+	{
+		"desc"		"捡金币: [1关|娱乐|神器|低奖励] 困难"
+		"price"		"1500"
+		"Size"		"43"
+		"Nice"		"1"
+	}
+	"ze_Portal_Story_v3_2fix"
+	{
+		"desc"		"传送门逸事: [3关|BOSS|神器|中奖励] 困难"
+		"price"		"2000"
+		"Size"		"177"
+		"Nice"		"1"
+	}
+	"ze_PoR_island_p3"
+	{
+		"desc"		"波尔河岛: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"69"
+		"Nice"		"0"
+	}
+	"ze_PotC_p4"
+	{
+		"desc"		"加勒比海盗: [1关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"78"
+		"Nice"		"0"
+	}
+	"ze_predator_ultimate_p7"
+	{
+		"desc"		"铁血战士大战异形: [4关|BOSS|神器] *神图*"
+		"price"		"300"
+		"Size"		"133"
+		"Nice"		"1"
+	}
+	"ze_prototype_v3_4"
+	{
+		"desc"		"原型: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"131"
+		"Nice"		"0"
+	}
+	"ze_raccoon_facility_v6b_pm2"
+	{
+		"desc"		"生化危机-逃离蜂巢: [1关|尚未明朗]"
+		"price"		"100"
+		"Size"		"79"
+		"Nice"		"0"
+	}
+	"ze_rainbow_factory_v1_2"
+	{
+		"desc"		"保护伞公司: [1关|中奖励] 困难"
+		"price"		"100"
+		"Size"		"151"
+		"Nice"		"0"
+	}
+	"ze_Random_p2"
+	{
+		"desc"		"随机大爆炸: [1关|BOSS|中奖励] 困难"
+		"price"		"100"
+		"Size"		"88"
+		"Nice"		"0"
+	}
+	"ze_reconnoiter_b4"
+	{
+		"desc"		"勘察: [1关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"44"
+		"Nice"		"0"
+	}
+	"ze_reloaded_v1_e10"
+	{
+		"desc"		"合金装备: [3关|BOSS|神器|中奖励] 困难"
+		"price"		"300"
+		"Size"		"144"
+		"Nice"		"1"
+	}
+	"ze_revolution_part1"
+	{
+		"desc"		"革命: [1关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"3"
+		"Nice"		"0"
+	}
+	"ze_rising_waters_beta"
+	{
+		"desc"		"浮水密室: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"21"
+		"Nice"		"0"
+	}
+	"ze_rizomata_b43"
+	{
+		"desc"		"里佐马塔: [?关|大图|尚未明朗] *神图*"
+		"price"		"2000"
+		"Size"		"195"
+		"Nice"		"1"
+	}
+	"ze_rockescape_2013_v1_3_3"
+	{
+		"desc"		"岩谷逃亡: [1关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"22"
+		"Nice"		"0"
+	}
+	"ze_Rooftop_Runaway1_p"
+	{
+		"desc"		"屋顶逃亡: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"13"
+		"Nice"		"0"
+	}
+	"ze_roof_adventure_v6"
+	{
+		"desc"		"屋檐冒险: [无记录|未知难度]"
+		"price"		"100"
+		"Size"		"52"
+		"Nice"		"0"
+	}
+	"ze_rtcw_ominous_rumors_p3"
+	{
+		"desc"		"重返德军总部: [3关|中奖励] 困难"
+		"price"		"100"
+		"Size"		"142"
+		"Nice"		"0"
+	}
+	"ze_sandstorm_v7_1_e4"
+	{
+		"desc"		"沙尘暴: [5关|神器|BOSS] *神图*"
+		"price"		"500"
+		"Size"		"125"
+		"Nice"		"1"
+	}
+	"ze_sandstorm_go_v1"
+	{
+		"desc"		"新沙尘暴: [5+1关|神器|BOSS] *神图*"
+		"price"		"300"
+		"Size"		"143"
+		"Nice"		"1"
+	}
+	"ze_saw_p3"
+	{
+		"desc"		"电锯惊魂: [1关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"51"
+		"Nice"		"0"
+	}
+	"ze_Serpentis_Temple_v1_1_csgo"
+	{
+		"desc"		"美杜莎神庙: [4关|神器|BOSS] *神图*"
+		"price"		"300"
+		"Size"		"139"
+		"Nice"		"1"
+	}
+	"ze_sewage_processing_v8"
+	{
+		"desc"		"污水处理厂: [1关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"33"
+		"Nice"		"0"
+	}
+	"ze_shaun_of_the_dead_b1_2"
+	{
+		"desc"		"僵尸肖恩: [1关|尚未明朗]"
+		"price"		"1000"
+		"Size"		"145"
+		"Nice"		"0"
+	}
+	"ze_showdown_v4_1_p"
+	{
+		"desc"		"对决: [?关|尚未明朗]"
+		"price"		"100"
+		"Size"		"26"
+		"Nice"		"0"
+	}
+	"ze_shroomforest2_p6"
+	{
+		"desc"		"新蘑菇世界2: [7+1关|神器|BOSS] *神图*"
+		"price"		"500"
+		"Size"		"133"
+		"Nice"		"1"
+	}
+	"ze_shroomforest_p6"
+	{
+		"desc"		"蘑菇世界: [6+2关|BOSS|神器] *神图*"
+		"price"		"500"
+		"Size"		"105"
+		"Nice"		"1"
+	}
+	"ze_sit_caelum_paradisus_b7"
+	{
+		"desc"		"遗落天堂的雕具座: [3关|神器|BOSS] *神图*"
+		"price"		"2000"
+		"Size"		"181"
+		"Nice"		"1"
+	}
+	"ze_skyscraper_city_csgo1"
+	{
+		"desc"		"镜之边缘: [1关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"22"
+		"Nice"		"0"
+	}
+	"ze_sky_athletic_v8_2"
+	{
+		"desc"		"天空体育场: [4关|神器|BOSS|中奖励] 困难"
+		"price"		"3000"
+		"Size"		"167"
+		"Nice"		"0"
+	}
+	"ze_sorrento_escape_v2"
+	{
+		"desc"		"意大利风情: [无记录|未知难度]"
+		"price"		"1000"
+		"Size"		"127"
+		"Nice"		"0"
+	}
+	"ze_spacestation_og_final"
+	{
+		"desc"		"空间站: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"15"
+		"Nice"		"0"
+	}
+	"ze_sst2_p"
+	{
+		"desc"		"星河舰队: [1关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"35"
+		"Nice"		"0"
+	}
+	"ze_stalker_ultimate_v4_4"
+	{
+		"desc"		"核电站(逃跑潜行者): [5关|神器|BOSS] *神图*"
+		"price"		"2500"
+		"Size"		"283"
+		"Nice"		"1"
+	}
+	"ze_starwars_v2"
+	{
+		"desc"		"星球大战: [5关|神器|BOSS] *神图*"
+		"price"		"2500"
+		"Size"		"211"
+		"Nice"		"1"
+	}
+	"ze_sunlight_v3"
+	{
+		"desc"		"日光: [4+1关|BOSS|神器] *神图*"
+		"price"		"300"
+		"Size"		"123"
+		"Nice"		"1"
+	}
+	"ze_super_metroid"
+	{
+		"desc"		"超级银河战士: [1关|BOSS|低奖励] 中等"
+		"price"		"100"
+		"Size"		"32"
+		"Nice"		"0"
+	}
+	"ze_surf_danger_p2"
+	{
+		"desc"		"滑翔逃亡: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"26"
+		"Nice"		"0"
+	}
+	"ze_surf_facility_p4"
+	{
+		"desc"		"金字塔滑翔: [1关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"37"
+		"Nice"		"0"
+	}
+	"ze_surf_sahok_v1_e6"
+	{
+		"desc"		"萨霍宫滑翔: [1关|BOSS|低奖励] 中等"
+		"price"		"100"
+		"Size"		"108"
+		"Nice"		"0"
+	}
+	"ze_surf_vortex_v1_v2"
+	{
+		"desc"		"旋涡滑翔: [1关|尚未明朗]"
+		"price"		"100"
+		"Size"		"35"
+		"Nice"		"0"
+	}
+	"ze_tesv_skyrim_v5_6"
+	{
+		"desc"		"上古卷轴-天际: [5关|神器|BOSS] *神图*"
+		"price"		"2500"
+		"Size"		"246"
+		"Nice"		"1"
+	}
+	"ze_texturescape_p2"
+	{
+		"desc"		"乐高陷阱: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"21"
+		"Nice"		"0"
+	}
+	"ze_thelostworld_redux_p2"
+	{
+		"desc"		"侏罗纪公园-失落的世界: [1关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"72"
+		"Nice"		"0"
+	}
+	"ze_thousand_steps_b7"
+	{
+		"desc"		"千步工厂: [1关|低奖励] 困难"
+		"price"		"100"
+		"Size"		"20"
+		"Nice"		"0"
+	}
+	"ze_tilex_escape_e3"
+	{
+		"desc"		"地铁逃亡: [1关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"39"
+		"Nice"		"0"
+	}
+	"ze_tilex_possession_v2_12"
+	{
+		"desc"		"跳刀竞赛: [5+1关|BOSS|跳刀] *神图*"
+		"price"		"500"
+		"Size"		"135"
+		"Nice"		"1"
+	}
+	"ze_timesplitters_p"
+	{
+		"desc"		"时空分裂者: [1关|BOSS|神器|中奖励] 中等"
+		"price"		"100"
+		"Size"		"13"
+		"Nice"		"0"
+	}
+	"ze_titanic_escape_v2_3_p"
+	{
+		"desc"		"泰坦尼克号: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"22"
+		"Nice"		"0"
+	}
+	"ze_tkara_v4_3"
+	{
+		"desc"		"塔卡拉地下基地: [1关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"119"
+		"Nice"		"0"
+	}
+	"ze_tloz_stone_tower_temple_v1_4"
+	{
+		"desc"		"石塔寺: [3关|中奖励] 困难"
+		"price"		"100"
+		"Size"		"84"
+		"Nice"		"0"
+	}
+	"ze_toaster_p3"
+	{
+		"desc"		"面包机: [随机关|神器|BOSS] *神图*"
+		"price"		"300"
+		"Size"		"21"
+		"Nice"		"1"
+	}
+	"ze_townscape_vfinallqfix2"
+	{
+		"desc"		"脱离小镇: [3关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"111"
+		"Nice"		"0"
+	}
+	"ze_traak_b2"
+	{
+		"desc"		"运河港口: [1关|长距离]中等"
+		"price"		"100"
+		"Size"		"113"
+		"Nice"		"0"
+	}
+	"ze_trainescape_final_p2"
+	{
+		"desc"		"火车逃亡记: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"30"
+		"Nice"		"0"
+	}
+	"ze_tv_station_v2_pm2"
+	{
+		"desc"		"电视台避难所: [1关|守点] 简单"
+		"price"		"100"
+		"Size"		"57"
+		"Nice"		"0"
+	}
+	"ze_tyranny_v5beta_csgo1"
+	{
+		"desc"		"暴君: [4关|神器|BOSS] *神图*"
+		"price"		"2500"
+		"Size"		"179"
+		"Nice"		"1"
+	}
+	"ze_underground_escape_final_e2"
+	{
+		"desc"		"地下逃亡: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"97"
+		"Nice"		"0"
+	}
+	"ze_unknow_escape_v5"
+	{
+		"desc"		"未知的逃亡: [1关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"51"
+		"Nice"		"0"
+	}
+	"ze_urban_laby_of_death_p2"
+	{
+		"desc"		"迷宫: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"61"
+		"Nice"		"0"
+	}
+	"ze_UT2004_Convoy_p2"
+	{
+		"desc"		"虚幻竞技场: [4关|BOSS|神器] *神图*"
+		"price"		"300"
+		"Size"		"63"
+		"Nice"		"1"
+	}
+	"ze_vertigo_militia_b1_3_7"
+	{
+		"desc"		"殒命大厦+野战训练营: [2关|娱乐|低奖励] 中等"
+		"price"		"100"
+		"Size"		"47"
+		"Nice"		"0"
+	}
+	"ze_vertigo_v1_1"
+	{
+		"desc"		"殒命大厦: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"56"
+		"Nice"		"0"
+	}
+	"ze_volcano_escape_v4fix"
+	{
+		"desc"		"火山逃亡: [1关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"112"
+		"Nice"		"0"
+	}
+	"ze_winter_p3"
+	{
+		"desc"		"雪原: [1关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"14"
+		"Nice"		"0"
+	}
+	"ze_xiii_winslow_bank_v2_2fix_3"
+	{
+		"desc"		"金库大冒险: [2关|娱乐|低奖励] 中等"
+		"price"		"100"
+		"Size"		"86"
+		"Nice"		"0"
+	}
+	"ze_zk_fapescape_p3"
+	{
+		"desc"		"伪·乐高剧场: [1关|BOSS|神器|低奖励] 困难"
+		"price"		"100"
+		"Size"		"53"
+		"Nice"		"0"
+	}
+	"ze_zk_mall_of_zombies_p2"
+	{
+		"desc"		"逃离商圈: [1关|低奖励] 简单"
+		"price"		"100"
+		"Size"		"59"
+		"Nice"		"0"
+	}
+	"ze_zombiemod_corporation_p2"
+	{
+		"desc"		"僵尸公司: [1关|低奖励] 中等"
+		"price"		"100"
+		"Size"		"16"
+		"Nice"		"0"
+	}
+	"ze_zombierig_v4_3_pm1"
+	{
+		"desc"		"石油平台: [2关|低奖励] 中等"
+		"price"		"2000"
+		"Size"		"187"
+		"Nice"		"0"
+	}
+	"ze_strange_escape_b3_ps_b7"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"146"
+		"Nice"		"0"
+	}
+	"ze_LOTR_Minas_Tiret_p2"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"52"
+		"Nice"		"0"
+	}
+	"ze_slender_escape_rc1"
+	{
+		"desc"		"瘦长鬼影: 尚未明朗"
+		"price"		"100"
+		"Size"		"144"
+		"Nice"		"1"
+	}
+	"ze_lotr_minas_tirith_v3_3_ps29"
+	{
+		"desc"		"魔戒-白城: 尚未明朗"
+		"price"		"100"
+		"Size"		"147"
+		"Nice"		"1"
+	}
+	"ze_artika_base_v1_1"
+	{
+		"desc"		"亚提卡基地: 尚未明朗"
+		"price"		"100"
+		"Size"		"150"
+		"Nice"		"0"
+	}
+	"ze_30_seconds_go_v2"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"21"
+		"Nice"		"0"
+	}
+	"ze_mountain_escape_snow_v5_4"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"65"
+		"Nice"		"0"
+	}
+	"ze_sky_athletic_adv_v9_9"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"93"
+		"Nice"		"0"
+	}
+	"ze_pokemon_adventure_b1"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"168"
+		"Nice"		"0"
+	}
+	"ze_elevator_escape_p2"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"31"
+		"Nice"		"0"
+	}
+	"ze_atix_panic_v1"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"84"
+		"Nice"		"0"
+	}
+	"ze_jurassicpark_evolved_v4"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"65"
+		"Nice"		"0"
+	}
+	"ze_potc_iv_p2"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"66"
+		"Nice"		"0"
+	}
+	"ze_dreamin_v1_6"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"80"
+		"Nice"		"0"
+	}
+	"ze_EmpireCity_v1_t"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"36"
+		"Nice"		"0"
+	}
+	"ze_omega_p3"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"36"
+		"Nice"		"0"
+	}
+	"ze_anima_ruins_v2_2"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"77"
+		"Nice"		"0"
+	}
+	"ze_bioshock_v6_2_csgo2"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"149"
+		"Nice"		"0"
+	}
+	"ze_frozentemple_rc1_1"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"66"
+		"Nice"		"0"
+	}
+	"ze_hidden_temple_v2_3"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"91"
+		"Nice"		"0"
+	}
+	"ze_apollo_e1"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"67"
+		"Nice"		"0"
+	}
+	"ze_mytex_escape_v3_p"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"48"
+		"Nice"		"0"
+	}
+	"ze_opti_variety_missions_p3"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"8"
+		"Nice"		"0"
+	}
+	"ze_kororinpa_v1_6"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"26"
+		"Nice"		"0"
+	}
+	"ze_exchange_innovation_v1b_ps4"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"171"
+		"Nice"		"0"
+	}
+	"ze_luck_matters_v1d"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"126"
+		"Nice"		"0"
+	}
+	"ze_sandstorm_go_v1_3"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"144"
+		"Nice"		"0"
+	}
+	"ze_diddle_v1_3"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"144"
+		"Nice"		"0"
+	}
+	"ze_sg1_missions_v2_1_p2"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"81"
+		"Nice"		"0"
+	}
+}

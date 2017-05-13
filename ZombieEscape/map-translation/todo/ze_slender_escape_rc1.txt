@@ -1,0 +1,571 @@
+"Chat"
+{
+	"** [STORY] STAGE 1 - PRISON **"
+	{
+		"trans"		"** [STORY] STAGE 1 - PRISON **"
+	}
+	"** [STORY] We have met a nice guy in prison called slenderman - he wants to help us escape the prison! **"
+	{
+		"trans"		"** [STORY] We have met a nice guy in prison called slenderman - he wants to help us escape the prison! **"
+	}
+	"** [STORY] The old prison lies under the big forest of slender world **"
+	{
+		"trans"		"** [STORY] The old prison lies under the big forest of slender world **"
+	}
+	"** [STORY] We will have to follow yellow lights that slenderman made for us to escape the prison **"
+	{
+		"trans"		"** [STORY] We will have to follow yellow lights that slenderman made for us to escape the prison **"
+	}
+	"** [STORY] Good luck and make sure the infected prisoners (aka zombies) dont leave the prison! **"
+	{
+		"trans"		"** [STORY] Good luck and make sure the infected prisoners (aka zombies) dont leave the prison! **"
+	}
+	"** Teleporting HUMANS in 5 secs **"
+	{
+		"trans"		"** Teleporting HUMANS in 5 secs **"
+	}
+	"** Teleporting ZOMBIES in 5 secs **"
+	{
+		"trans"		"** Teleporting ZOMBIES in 5 secs **"
+	}
+	"** Cover 20 seconds **"
+	{
+		"trans"		"** Cover 20 seconds **"
+	}
+	"** SPIDERZOMBIE INCOMING **"
+	{
+		"trans"		"** SPIDERZOMBIE INCOMING **"
+	}
+	"** Cover 5 seconds **"
+	{
+		"trans"		"** Cover 5 seconds **"
+	}
+	"** Cover 30 seconds **"
+	{
+		"trans"		"** Cover 30 seconds **"
+	}
+	"** Prison door will open in 5 seconds **"
+	{
+		"trans"		"** Prison door will open in 5 seconds **"
+	}
+	"** GO LEFT **"
+	{
+		"trans"		"** GO LEFT **"
+	}
+	"** Cover 25 seconds **"
+	{
+		"trans"		"** Cover 25 seconds **"
+	}
+	"** Cover 30 seconds until the gate opens **"
+	{
+		"trans"		"** Cover 30 seconds until the gate opens **"
+	}
+	"** Cover 5 more seconds **"
+	{
+		"trans"		"** Cover 5 more seconds **"
+	}
+	"** 50 seconds left until final escape!! **"
+	{
+		"trans"		"** 50 seconds left until final escape!! **"
+	}
+	"** 40 seconds left until final escape!! **"
+	{
+		"trans"		"** 40 seconds left until final escape!! **"
+	}
+	"** 30 seconds left until final escape!! **"
+	{
+		"trans"		"** 30 seconds left until final escape!! **"
+	}
+	"** 20 seconds left until final escape!! **"
+	{
+		"trans"		"** 20 seconds left until final escape!! **"
+	}
+	"** 10 seconds left until final escape!! **"
+	{
+		"trans"		"** 10 seconds left until final escape!! **"
+	}
+	"** 5 seconds left until final escape!! **"
+	{
+		"trans"		"** 5 seconds left until final escape!! **"
+	}
+	"** Go UP the ladder!! **"
+	{
+		"trans"		"** Go UP the ladder!! **"
+	}
+	"** Incoming nuke in 8 seconds!! **"
+	{
+		"trans"		"** Incoming nuke in 8 seconds!! **"
+	}
+	"** Congratulations - you won STAGE 1 **"
+	{
+		"trans"		"** Congratulations - you won STAGE 1 **"
+	}
+	"** MAP BY SLAYERDRAGON **"
+	{
+		"trans"		"** MAP BY SLAYERDRAGON **"
+	}
+	"** [STORY] STAGE 2 - SCHOOL **"
+	{
+		"trans"		"** [STORY] STAGE 2 - SCHOOL **"
+	}
+	"** [STORY] We have succesful escaped the prison and after a few days we and slenderman have reached the school **"
+	{
+		"trans"		"** [STORY] We have succesful escaped the prison and after a few days we and slenderman have reached the school **"
+	}
+	"** [STORY] We have to collect some items if we want to survive in slender world**"
+	{
+		"trans"		"** [STORY] We have to collect some items if we want to survive in slender world**"
+	}
+	"** DOORS WILL OPEN IN 20 SECS **"
+	{
+		"trans"		"** DOORS WILL OPEN IN 20 SECS **"
+	}
+	"** DOORS WILL OPEN IN 5 SECS **"
+	{
+		"trans"		"** DOORS WILL OPEN IN 5 SECS **"
+	}
+	"** DOOR WILL OPEN IN 15 SECS **"
+	{
+		"trans"		"** DOOR WILL OPEN IN 15 SECS **"
+	}
+	"** DOOR WILL OPEN IN 5 SECS **"
+	{
+		"trans"		"** DOOR WILL OPEN IN 5 SECS **"
+	}
+	"** HOLD THE SCHOOLGARDEN FOR 30 SECS BEFORE THE SCHOOLDOORS OPEN **"
+	{
+		"trans"		"** HOLD THE SCHOOLGARDEN FOR 30 SECS BEFORE THE SCHOOLDOORS OPEN **"
+	}
+	"** 5 MORE SECONDS **"
+	{
+		"trans"		"** 5 MORE SECONDS **"
+	}
+	"** DEFEND 20 SECONDS **"
+	{
+		"trans"		"** DEFEND 20 SECONDS **"
+	}
+	"** [STORY] Oh no! It's a trap! Slenderman betrayed us! **"
+	{
+		"trans"		"** [STORY] Oh no! It's a trap! Slenderman betrayed us! **"
+	}
+	"** [STORY] He killed a few of our good men! **"
+	{
+		"trans"		"** [STORY] He killed a few of our good men! **"
+	}
+	"** DEFEND 15 MORE SECONDS **"
+	{
+		"trans"		"** DEFEND 15 MORE SECONDS **"
+	}
+	"** GO BACK TO THE EXIT OF THE SCHOOL ! **"
+	{
+		"trans"		"** GO BACK TO THE EXIT OF THE SCHOOL ! **"
+	}
+	"** THE EXIT WILL OPEN IN 40 SECS **"
+	{
+		"trans"		"** THE EXIT WILL OPEN IN 40 SECS **"
+	}
+	"** 10 SECONDS LEFT **"
+	{
+		"trans"		"** 10 SECONDS LEFT **"
+	}
+	"** GET IN THE CHOPPER !! **"
+	{
+		"trans"		"** GET IN THE CHOPPER !! **"
+	}
+	"** CHOPPER WILL LEAVE IN 10 SECS !! **"
+	{
+		"trans"		"** CHOPPER WILL LEAVE IN 10 SECS !! **"
+	}
+	"** Congratulations - you won STAGE 2 **"
+	{
+		"trans"		"** Congratulations - you won STAGE 2 **"
+	}
+	"** [STORY] STAGE 3 - FOREST **"
+	{
+		"trans"		"** [STORY] STAGE 3 - FOREST **"
+	}
+	"** [STORY] After the betrayal of slenderman we were left alone in the big forest with only an old generator **"
+	{
+		"trans"		"** [STORY] After the betrayal of slenderman we were left alone in the big forest with only an old generator **"
+	}
+	"** [STORY] If we want to survive this forest we need to power the main generator **"
+	{
+		"trans"		"** [STORY] If we want to survive this forest we need to power the main generator **"
+	}
+	"** [STORY] After the generator has started we can continue our mission to find and kill slenderman! **"
+	{
+		"trans"		"** [STORY] After the generator has started we can continue our mission to find and kill slenderman! **"
+	}
+	"** [STORY] Oh and did i tell you that slenderman has 3 brothers who like to play with fire?! **"
+	{
+		"trans"		"** [STORY] Oh and did i tell you that slenderman has 3 brothers who like to play with fire?! **"
+	}
+	"** DEFEND THIS BASE WHILE SOME GET FUEL CANS IN THE FOREST **"
+	{
+		"trans"		"** DEFEND THIS BASE WHILE SOME GET FUEL CANS IN THE FOREST **"
+	}
+	"** SLENDERZOMBIE -FIRE- WOKE UP **"
+	{
+		"trans"		"** SLENDERZOMBIE -FIRE- WOKE UP **"
+	}
+	"** A fuel can has been picked up **"
+	{
+		"trans"		"** A fuel can has been picked up **"
+	}
+	"** FUEL 20 % **"
+	{
+		"trans"		"** FUEL 20 % **"
+	}
+	"** YOU HAVE FAILED - ZOMBIES DESTROYED THE GENERATOR **"
+	{
+		"trans"		"** YOU HAVE FAILED - ZOMBIES DESTROYED THE GENERATOR **"
+	}
+	"** FUEL 40 % **"
+	{
+		"trans"		"** FUEL 40 % **"
+	}
+	"** ENOUGH FUEL FOR POWERING THE FIRST GUARDDOG! **"
+	{
+		"trans"		"** ENOUGH FUEL FOR POWERING THE FIRST GUARDDOG! **"
+	}
+	"** FUEL 60 % **"
+	{
+		"trans"		"** FUEL 60 % **"
+	}
+	"** 30 SECONDS LEFT BEFORE SLENDERMAN FIND US! **"
+	{
+		"trans"		"** 30 SECONDS LEFT BEFORE SLENDERMAN FIND US! **"
+	}
+	"** You have failed - NO TIME LEFT **"
+	{
+		"trans"		"** You have failed - NO TIME LEFT **"
+	}
+	"** FUEL 80 % **"
+	{
+		"trans"		"** FUEL 80 % **"
+	}
+	"** ENOUGH FUEL FOR POWERING THE SECOND GUARDDOG! **"
+	{
+		"trans"		"** ENOUGH FUEL FOR POWERING THE SECOND GUARDDOG! **"
+	}
+	"** FUEL 100 % **"
+	{
+		"trans"		"** FUEL 100 % **"
+	}
+	"** THE GENERATOR HAS ENOUGH FUEL! **"
+	{
+		"trans"		"** THE GENERATOR HAS ENOUGH FUEL! **"
+	}
+	"** GET ALL BACK TO THE BASE **"
+	{
+		"trans"		"** GET ALL BACK TO THE BASE **"
+	}
+	"** NUKE in 45 SECONDS **"
+	{
+		"trans"		"** NUKE in 45 SECONDS **"
+	}
+	"** NUKE in 35 SECONDS **"
+	{
+		"trans"		"** NUKE in 35 SECONDS **"
+	}
+	"** NUKE in 25 SECONDS **"
+	{
+		"trans"		"** NUKE in 25 SECONDS **"
+	}
+	"** NUKE in 15 SECONDS **"
+	{
+		"trans"		"** NUKE in 15 SECONDS **"
+	}
+	"** NUKE in 5 SECONDS **"
+	{
+		"trans"		"** NUKE in 5 SECONDS **"
+	}
+	"** Congratulations - you won STAGE 3 **"
+	{
+		"trans"		"** Congratulations - you won STAGE 3 **"
+	}
+	"** [STORY] STAGE 4 - MANSION **"
+	{
+		"trans"		"** [STORY] STAGE 4 - MANSION **"
+	}
+	"** [STORY] After a few days of wandering we finally arrived at slender mansion **"
+	{
+		"trans"		"** [STORY] After a few days of wandering we finally arrived at slender mansion **"
+	}
+	"** [STORY] To ensure we exterminate slenderman we will plants some bombs in the basements **"
+	{
+		"trans"		"** [STORY] To ensure we exterminate slenderman we will plants some bombs in the basements **"
+	}
+	"** [STORY] When the bombs are planted we will pay slenderman a visit and kill him **"
+	{
+		"trans"		"** [STORY] When the bombs are planted we will pay slenderman a visit and kill him **"
+	}
+	"** [STORY] Good luck hunting him down once and for all!! **"
+	{
+		"trans"		"** [STORY] Good luck hunting him down once and for all!! **"
+	}
+	"** Cover here till we broke the mansions main door **"
+	{
+		"trans"		"** Cover here till we broke the mansions main door **"
+	}
+	"** KEEP DEFENDING **"
+	{
+		"trans"		"** KEEP DEFENDING **"
+	}
+	"** DOOR IS OPEN - GO PLANT THE BOMB IN THE TOILETS **"
+	{
+		"trans"		"** DOOR IS OPEN - GO PLANT THE BOMB IN THE TOILETS **"
+	}
+	"** CLOSE THE VALVES FOR LOWERING THE WATER **"
+	{
+		"trans"		"** CLOSE THE VALVES FOR LOWERING THE WATER **"
+	}
+	"** OK WE PLANTED THE BOMB - KEEP ZOMBIES AWAY FROM THE BOMB FOR 30 SECS **"
+	{
+		"trans"		"** OK WE PLANTED THE BOMB - KEEP ZOMBIES AWAY FROM THE BOMB FOR 30 SECS **"
+	}
+	"** All drains have been closed - Water is lowering ** "
+	{
+		"trans"		"** All drains have been closed - Water is lowering ** "
+	}
+	"** 5 seconds left **"
+	{
+		"trans"		"** 5 SECONDS LEFT **"
+	}
+	"** GO BACK TO THE MAIN HALL **"
+	{
+		"trans"		"** GO BACK TO THE MAIN HALL **"
+	}
+	"** 15 SECONDS TILL WE OPENED FIRST GATE **"
+	{
+		"trans"		"** 15 SECONDS TILL WE OPENED FIRST GATE **"
+	}
+	"** 5 MORE SECONDS TILL WE OPENED SECOND GATE **"
+	{
+		"trans"		"** 5 MORE SECONDS TILL WE OPENED SECOND GATE **"
+	}
+	"** GO GO GO **"
+	{
+		"trans"		"** GO GO GO **"
+	}
+	"** ELEVATOR WILL START IN 30 SECONDS **"
+	{
+		"trans"		"** ELEVATOR WILL START IN 30 SECONDS **"
+	}
+	"** ELEVATOR IS LEAVING IN 20 SECONDS **"
+	{
+		"trans"		"** ELEVATOR IS LEAVING IN 20 SECONDS **"
+	}
+	"** ELEVATOR IS LEAVING IN 10 SECONDS **"
+	{
+		"trans"		"** ELEVATOR IS LEAVING IN 10 SECONDS **"
+	}
+	"** ELEVATOR IS LEAVING IN 5 SECONDS **"
+	{
+		"trans"		"** ELEVATOR IS LEAVING IN 5 SECONDS **"
+	}
+	"** WE ARE ALMOST AT SLENDERMAN !! **"
+	{
+		"trans"		"** WE ARE ALMOST AT SLENDERMAN !! **"
+	}
+	"** KEEP COVERING **"
+	{
+		"trans"		"** KEEP COVERING **"
+	}
+	"** 5 MORE SECONDS! **"
+	{
+		"trans"		"** 5 MORE SECONDS! **"
+	}
+	"** YOU FINALLY FOUND ME **"
+	{
+		"trans"		"** YOU FINALLY FOUND ME **"
+	}
+	"** NOW YOU WILL MEET YOUR DESTINY **"
+	{
+		"trans"		"** NOW YOU WILL MEET YOUR DESTINY **"
+	}
+	"** BOSS USES TELEPORTS NOW **"
+	{
+		"trans"		"** BOSS USES TELEPORTS NOW **"
+	}
+	"** SLENDERMAN IS DEFEATED - ESCAPE THE MANSION!! **"
+	{
+		"trans"		"** SLENDERMAN IS DEFEATED - ESCAPE THE MANSION!! **"
+	}
+	"** FINAL STAND **"
+	{
+		"trans"		"** FINAL STAND **"
+	}
+	"** GOGOGO **"
+	{
+		"trans"		"** GOGOGO **"
+	}
+	"** YOU DID IT **"
+	{
+		"trans"		"** YOU DID IT **"
+	}
+	"** YOU ESCAPED SLENDER!! **"
+	{
+		"trans"		"** YOU ESCAPED SLENDER!! **"
+	}
+	"** .. OR NOT ? **"
+	{
+		"trans"		"** .. OR NOT ? **"
+	}
+	"** [SURVIVAL] ROUND 1 **"
+	{
+		"trans"		"** [SURVIVAL] ROUND 1 **"
+	}
+	"** [MODE] SLENDERMAN **"
+	{
+		"trans"		"** [MODE] SLENDERMAN **"
+	}
+	"** [MAP] PRISON **"
+	{
+		"trans"		"** [MAP] PRISON **"
+	}
+	"** [ITEMS] Lantern - Glowstick - Flashlight **"
+	{
+		"trans"		"** [ITEMS] Lantern - Glowstick - Flashlight **"
+	}
+	"** [ZMITEM] SLENDERZOMBIES **"
+	{
+		"trans"		"** [ZMITEM] SLENDERZOMBIES **"
+	}
+	"** [INFO] 3 WINS NEEDED FOR FINAL MADNESS MODE **"
+	{
+		"trans"		"** [INFO] 3 WINS NEEDED FOR FINAL MADNESS MODE **"
+	}
+	"** Collect all 8 Pages **"
+	{
+		"trans"		"** Collect all 8 Pages **"
+	}
+	"** SLENDERZOMBIE INCOMING **"
+	{
+		"trans"		"** SLENDERZOMBIE INCOMING **"
+	}
+	"** Pages 1／8 **"
+	{
+		"trans"		"** Pages 1／8 **"
+	}
+	"** Pages 2／8 **"
+	{
+		"trans"		"** Pages 2／8 **"
+	}
+	"** Pages 3／8 **"
+	{
+		"trans"		"** Pages 3／8 **"
+	}
+	"** Pages 4／8 **"
+	{
+		"trans"		"** Pages 4／8 **"
+	}
+	"** [MAP] FOREST **"
+	{
+		"trans"		"** [MAP] FOREST **"
+	}
+	"** 30 Seconds left until slenderman RAPE! **"
+	{
+		"trans"		"** 30 Seconds left until slenderman RAPE! **"
+	}
+	"** Pages 5／8 **"
+	{
+		"trans"		"** Pages 5／8 **"
+	}
+	"** [MAP] SCHOOL **"
+	{
+		"trans"		"** [MAP] SCHOOL **"
+	}
+	"** Pages 6／8 **"
+	{
+		"trans"		"** Pages 6／8 **"
+	}
+	"** Pages 7／8 **"
+	{
+		"trans"		"** Pages 7／8 **"
+	}
+	"** [MODE] BARRELMODE **"
+	{
+		"trans"		"** [MODE] BARRELMODE **"
+	}
+	"** [ITEMS] BARRELS ! **"
+	{
+		"trans"		"** [ITEMS] BARRELS ! **"
+	}
+	"** [ZMITEM] BARRELBOSS **"
+	{
+		"trans"		"** [ZMITEM] BARRELBOSS **"
+	}
+	"** BARRELS BARRELS EVERYWHERE! **"
+	{
+		"trans"		"** BARRELS BARRELS EVERYWHERE! **"
+	}
+	"** BARRELBOSS INCOMING **"
+	{
+		"trans"		"** BARRELBOSS INCOMING **"
+	}
+	"** NUKE in 180 seconds **"
+	{
+		"trans"		"** NUKE in 180 seconds **"
+	}
+	"** NUKE in 150 seconds **"
+	{
+		"trans"		"** NUKE in 150 seconds **"
+	}
+	"** NUKE in 120 seconds **"
+	{
+		"trans"		"** NUKE in 120 seconds **"
+	}
+	"** NUKE in 90 seconds **"
+	{
+		"trans"		"** NUKE in 90 seconds **"
+	}
+	"** NUKE in 60 seconds **"
+	{
+		"trans"		"** NUKE in 60 seconds **"
+	}
+	"** NUKE in 30 seconds **"
+	{
+		"trans"		"** NUKE in 30 seconds **"
+	}
+	"** Congratulations - you won SURVIVAL 1 **"
+	{
+		"trans"		"** Congratulations - you won SURVIVAL 1 **"
+	}
+	"** [SURVIVAL] ROUND 2 **"
+	{
+		"trans"		"** [SURVIVAL] ROUND 2 **"
+	}
+	"** [INFO] 2 WINS NEEDED FOR FINAL MADNESS MODE **"
+	{
+		"trans"		"** [INFO] 2 WINS NEEDED FOR FINAL MADNESS MODE **"
+	}
+	"** Congratulations - you won SURVIVAL 2 **"
+	{
+		"trans"		"** Congratulations - you won SURVIVAL 2 **"
+	}
+	"** [SURVIVAL] ROUND 3 **"
+	{
+		"trans"		"** [SURVIVAL] ROUND 3 **"
+	}
+	"** [INFO] 1 MORE WIN NEEDED FOR FINAL MADNESS MODE **"
+	{
+		"trans"		"** [INFO] 1 MORE WIN NEEDED FOR FINAL MADNESS MODE **"
+	}
+	"** Congratulations - you won SURVIVAL 3 **"
+	{
+		"trans"		"** Congratulations - you won SURVIVAL 3 **"
+	}
+	"** [DIFFICULTY] FINAL MADNESS MODE **"
+	{
+		"trans"		"** [DIFFICULTY] FINAL MADNESS MODE **"
+	}
+	"** NO SPAWN PROTECTION **"
+	{
+		"trans"		"** NO SPAWN PROTECTION **"
+	}
+	"** FINAL MADNESS MODE TRY 1／3 **"
+	{
+		"trans"		"** FINAL MADNESS MODE TRY 1／3 **"
+	}
+}

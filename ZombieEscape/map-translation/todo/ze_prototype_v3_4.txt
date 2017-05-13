@@ -1,0 +1,251 @@
+"Chat"
+{
+	">>10 SECONDS LEFT<<"
+	{
+		"trans"		">>10 SECONDS LEFT<<"
+	}
+	">>FALL BACK<<"
+	{
+		"trans"		">>FALL BACK<<"
+	}
+	">>MISSION 1: INTERCEPTION (EASY)<<"
+	{
+		"trans"		">>MISSION 1: INTERCEPTION (EASY)<<"
+	}
+	">>DOORS ARE OPEN! FALL BACK<<"
+	{
+		"trans"		">>DOORS ARE OPEN! FALL BACK<<"
+	}
+	">>ELEVATOR LEAVING IN 15 SECONDS<<"
+	{
+		"trans"		">>ELEVATOR LEAVING IN 15 SECONDS<<"
+	}
+	">>Laboratory door seals in 30 seconds!! Hold the lab!!<<"
+	{
+		"trans"		">>Laboratory door seals in 30 seconds!! Hold the lab!!<<"
+	}
+	">>Hit the green button on the computer!<<"
+	{
+		"trans"		">>Hit the green button on the computer!<<"
+	}
+	">>Door re-opens in 25 seconds! Escape!<<"
+	{
+		"trans"		">>Door re-opens in 25 seconds! Escape!<<"
+	}
+	">>You've awoken some sort of prototype...<<"
+	{
+		"trans"		">>You've awoken some sort of prototype...<<"
+	}
+	">>Guards are on their way!!<<"
+	{
+		"trans"		">>Guards are on their way!!<<"
+	}
+	">>ESCAPE THROUGH THE OPEN DOOR!<<"
+	{
+		"trans"		">>ESCAPE THROUGH THE OPEN DOOR!<<"
+	}
+	">>DEFENSE FIELD STILL ACTIVE!<<"
+	{
+		"trans"		">>DEFENSE FIELD STILL ACTIVE!<<"
+	}
+	">>THROW A GRENADE INTO THE WATCH TOWER BEHIND YOU!<<"
+	{
+		"trans"		">>THROW A GRENADE INTO THE WATCH TOWER BEHIND YOU!<<"
+	}
+	">>NICE JOB! Shields powering down...<<"
+	{
+		"trans"		">>NICE JOB! Shields powering down...<<"
+	}
+	">>Hold for 20 seconds...<<"
+	{
+		"trans"		">>Hold for 20 seconds...<<"
+	}
+	">>SHIELDS ARE DOWN! RUN TO THE CHOPPER!<<"
+	{
+		"trans"		">>SHIELDS ARE DOWN! RUN TO THE CHOPPER!<<"
+	}
+	">>ENEMY HELICOPTER INCOMING!<<"
+	{
+		"trans"		">>ENEMY HELICOPTER INCOMING!<<"
+	}
+	">>WE CANNOT LEAVE UNTIL THAT IS GONE!<<"
+	{
+		"trans"		">>WE CANNOT LEAVE UNTIL THAT IS GONE!<<"
+	}
+	">>HELICOPTER WILL ATTACK IN 1 MINUTE!!<<"
+	{
+		"trans"		">>HELICOPTER WILL ATTACK IN 1 MINUTE!!<<"
+	}
+	">>NICE JOB! Helicopter leaving in 5 seconds<<"
+	{
+		"trans"		">>NICE JOB! Helicopter leaving in 5 seconds<<"
+	}
+	">>YOU COMPLETED MISSION 1<<"
+	{
+		"trans"		">>YOU COMPLETED MISSION 1<<"
+	}
+	">>MISSION 2: ELIMINATION (HARD)<<"
+	{
+		"trans"		">>MISSION 2: ELIMINATION (HARD)<<"
+	}
+	">>Hold onto this...<<"
+	{
+		"trans"		">>Hold onto this...<<"
+	}
+	">>Elevator activating in 20 seconds<<"
+	{
+		"trans"		">>Elevator activating in 20 seconds<<"
+	}
+	">>Lab door opening in 10 seconds...<<"
+	{
+		"trans"		">>Lab door opening in 10 seconds...<<"
+	}
+	">>REBOOTING...<<"
+	{
+		"trans"		">>REBOOTING...<<"
+	}
+	">>HOLD FOR 40<<"
+	{
+		"trans"		">>HOLD FOR 40<<"
+	}
+	">>Teleporting in 10 seconds<<"
+	{
+		"trans"		">>Teleporting in 10 seconds<<"
+	}
+	">>You've been taken to the creature's home planet...<<"
+	{
+		"trans"		">>You've been taken to the creature's home planet...<<"
+	}
+	">>We've found the source of Prototech's power!<<"
+	{
+		"trans"		">>We've found the source of Prototech's power!<<"
+	}
+	">>They've been harvesting this creature's planet for energy... they are the monsters!<<"
+	{
+		"trans"		">>They've been harvesting this creature's planet for energy... they are the monsters!<<"
+	}
+	">>TIP: Break the glass where the zombies are approaching from!<<"
+	{
+		"trans"		">>TIP: Break the glass where the zombies are approaching from!<<"
+	}
+	">>DESTROY THE RED CORE WHEN IT OPENS UP!!!<<"
+	{
+		"trans"		">>DESTROY THE RED CORE WHEN IT OPENS UP!!!<<"
+	}
+	">>Throw a blue cube into this! (Hint: Drop the weapon)<<"
+	{
+		"trans"		">>Throw a blue cube into this! (Hint: Drop the weapon)<<"
+	}
+	">>TIP: Toss the special deagles into their respective colors to the right!<<"
+	{
+		"trans"		">>TIP: Toss the special deagles into their respective colors to the right!<<"
+	}
+	">>Throw a red cube into this! (Hint: Drop the weapon)<<"
+	{
+		"trans"		">>Throw a red cube into this! (Hint: Drop the weapon)<<"
+	}
+	">>Rotating stopped! Nice Job!<<"
+	{
+		"trans"		">>Rotating stopped! Nice Job!<<"
+	}
+	">>Bridges disabled! Nice job<<"
+	{
+		"trans"		">>Bridges disabled! Nice job<<"
+	}
+	">>YOU DID IT! RUN FOR THE EXIT<<"
+	{
+		"trans"		">>YOU DID IT! RUN FOR THE EXIT<<"
+	}
+	">>FINAL DEFENSE! GET ON THE TELEPORTER PAD!<<"
+	{
+		"trans"		">>FINAL DEFENSE! GET ON THE TELEPORTER PAD!<<"
+	}
+	">>HOLD FOR 5 SECONDS<<"
+	{
+		"trans"		">>HOLD FOR 5 SECONDS<<"
+	}
+	">>The glass is going to shatter!! Get ready!!<<"
+	{
+		"trans"		">>The glass is going to shatter!! Get ready!!<<"
+	}
+	">>YOU HAVE DEFEATED PROTOTECH<<"
+	{
+		"trans"		">>YOU HAVE DEFEATED PROTOTECH<<"
+	}
+	">>MISSION 3: FINAL ESCAPE (EXTREME)<<"
+	{
+		"trans"		">>MISSION 3: FINAL ESCAPE (EXTREME)<<"
+	}
+	">>Upper door opening in 35 seconds<<"
+	{
+		"trans"		">>Upper door opening in 35 seconds<<"
+	}
+	">>Gate is preparing to open! Get on the trucks!!<<"
+	{
+		"trans"		">>Gate is preparing to open! Get on the trucks!!<<"
+	}
+	">>Trucks leaving in 20 seconds!<<"
+	{
+		"trans"		">>Trucks leaving in 20 seconds!<<"
+	}
+	">>Doors opening...<<"
+	{
+		"trans"		">>Doors opening...<<"
+	}
+	">>Activate the elevator to prepare your escape!!<<"
+	{
+		"trans"		">>Activate the elevator to prepare your escape!!<<"
+	}
+	">>Don't let any zombies into the facility!<<"
+	{
+		"trans"		">>Don't let any zombies into the facility!<<"
+	}
+	">>Doors opening in 30 seconds...<<"
+	{
+		"trans"		">>Doors opening in 30 seconds...<<"
+	}
+	">>Train door opening in 40 seconds<<"
+	{
+		"trans"		">>Train door opening in 40 seconds<<"
+	}
+	">>Elevator departing in 10 seconds...<<"
+	{
+		"trans"		">>Elevator departing in 10 seconds...<<"
+	}
+	">>....it looks like someone was waiting for us...<<"
+	{
+		"trans"		">>....it looks like someone was waiting for us...<<"
+	}
+	">>THE PROTOTYPE HAS BEEN DEFEATED!<<"
+	{
+		"trans"		">>THE PROTOTYPE HAS BEEN DEFEATED!<<"
+	}
+	">>ESCAPE WHILE YOU STILL CAN<<"
+	{
+		"trans"		">>ESCAPE WHILE YOU STILL CAN<<"
+	}
+	">>IT IS NOT DEAD!! SHOOT IT!!<<"
+	{
+		"trans"		">>IT IS NOT DEAD!! SHOOT IT!!<<"
+	}
+	">>The prototype is dead...<<"
+	{
+		"trans"		">>The prototype is dead...<<"
+	}
+	">>HOLD FOR 15 SECONDS WHILE THE PORTAL OPENS!!!<<"
+	{
+		"trans"		">>HOLD FOR 15 SECONDS WHILE THE PORTAL OPENS!!!<<"
+	}
+	">>Zombies infected the teleporter! Game over!<<"
+	{
+		"trans"		">>Zombies infected the teleporter! Game over!<<"
+	}
+	">>JUMP INTO THE PORTAL! THERE IS NO GOING BACK!!!<<"
+	{
+		"trans"		">>JUMP INTO THE PORTAL! THERE IS NO GOING BACK!!!<<"
+	}
+	">>YOU WIN! MOVING ON TO ZM<<"
+	{
+		"trans"		">>YOU WIN! MOVING ON TO ZM<<"
+	}
+}

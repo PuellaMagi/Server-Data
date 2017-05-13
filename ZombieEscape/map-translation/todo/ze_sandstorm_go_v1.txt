@@ -1,0 +1,119 @@
+"Chat"
+{
+	">> STAGE 1 <<"
+	{
+		"trans"		">> STAGE 1 <<"
+	}
+	"** A player has picked up Tornado Staff **"
+	{
+		"trans"		"** A player has picked up Tornado Staff **"
+	}
+	"** FALL BACK **"
+	{
+		"trans"		"** FALL BACK **"
+	}
+	"** The doors will open in 25 seconds **"
+	{
+		"trans"		"** The doors will open in 25 seconds **"
+	}
+	"** 5 seconds left **"
+	{
+		"trans"		"** 5 seconds left **"
+	}
+	"** A player has picked up Earth Staff **"
+	{
+		"trans"		"** A player has picked up Earth Staff **"
+	}
+	"** The door will open in 30 seconds **"
+	{
+		"trans"		"** The door will open in 30 seconds **"
+	}
+	"** Bomb explodes in 20 seconds **"
+	{
+		"trans"		"** Bomb explodes in 20 seconds **"
+	}
+	"*** YOU WON STAGE 1 ***"
+	{
+		"trans"		"*** YOU WON STAGE 1 ***"
+	}
+	">> STAGE 2 <<"
+	{
+		"trans"		">> STAGE 2 <<"
+	}
+	"** A player has picked up Fire Staff **"
+	{
+		"trans"		"** A player has picked up Fire Staff **"
+	}
+	"** Teleport will open in 20 seconds **"
+	{
+		"trans"		"** Teleport will open in 20 seconds **"
+	}
+	"** 5 seconds left. **"
+	{
+		"trans"		"** 5 seconds left. **"
+	}
+	"** Elevator leaves in 20 seconds **"
+	{
+		"trans"		"** Elevator leaves in 20 seconds **"
+	}
+	"** YOU WON STAGE 2 **"
+	{
+		"trans"		"** YOU WON STAGE 2 **"
+	}
+	">> STAGE 3 <<"
+	{
+		"trans"		">> STAGE 3 <<"
+	}
+	"** Teleport will open in 15 seconds **"
+	{
+		"trans"		"** Teleport will open in 15 seconds **"
+	}
+	"** Kill him or he kills you!!! **"
+	{
+		"trans"		"** Kill him or he kills you!!! **"
+	}
+	"** YOU WON STAGE 3 **"
+	{
+		"trans"		"** YOU WON STAGE 3 **"
+	}
+	">> STAGE 4 <<"
+	{
+		"trans"		">> STAGE 4 <<"
+	}
+	"** Meteorite arrives in 17 seconds. **"
+	{
+		"trans"		"** Meteorite arrives in 17 seconds. **"
+	}
+	"*** He's dead. Run. ***"
+	{
+		"trans"		"*** He's dead. Run. ***"
+	}
+	"*** YOU WON STAGE 4 ***"
+	{
+		"trans"		"*** YOU WON STAGE 4 ***"
+	}
+	">> STAGE 5 <<"
+	{
+		"trans"		">> STAGE 5 <<"
+	}
+	"** Teleport will open in 20 seconds. **"
+	{
+		"trans"		"** Teleport will open in 20 seconds. **"
+	}
+	"** Teleport will open on 10 seconds **"
+	{
+		"trans"		"** Teleport will open on 10 seconds **"
+	}
+	"** Hold for 20 seconds. **"
+	{
+		"trans"		"** Hold for 20 seconds. **"
+	}
+	"** A player has picked up SandStorm Staff **"
+	{
+		"trans"		"** A player has picked up SandStorm Staff **"
+	}
+	"** Do not come to the edge of the platform! **"
+	{
+		"trans"		"** Do not come to the edge of the platform! **"
+	}
+}

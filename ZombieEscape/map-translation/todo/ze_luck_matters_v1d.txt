@@ -1,0 +1,75 @@
+"Chat"
+{
+	"***PLATFORM WILL RISE IN 30s***"
+	{
+		"trans"		"***PLATFORM WILL RISE IN 30s***"
+	}
+	"***PLATFORM WILL RISE IN 5s***"
+	{
+		"trans"		"***PLATFORM WILL RISE IN 5s***"
+	}
+	"***PLATFORM IS RISING***"
+	{
+		"trans"		"***PLATFORM IS RISING***"
+	}
+	"***DOOR OPENS IN 5s***"
+	{
+		"trans"		"***DOOR OPENS IN 5s***"
+	}
+	"***DOOR OPENS IN 30s***"
+	{
+		"trans"		"***DOOR OPENS IN 30s***"
+	}
+	"***DOOR IS OPEN***"
+	{
+		"trans"		"***DOOR IS OPEN***"
+	}
+	"***HOLD HERE FOR 25s***"
+	{
+		"trans"		"***HOLD HERE FOR 25s***"
+	}
+	"***5s LEFT***"
+	{
+		"trans"		"***5s LEFT***"
+	}
+	"***TELEPORT ACTIVATES IN 30s***"
+	{
+		"trans"		"***TELEPORT ACTIVATES IN 30s***"
+	}
+	"***TELEPORT ACTIVATED***"
+	{
+		"trans"		"***TELEPORT ACTIVATED***"
+	}
+	"***DODGE THE LASERS***"
+	{
+		"trans"		"***DODGE THE LASERS***"
+	}
+	"***HOLD FOR 30s***"
+	{
+		"trans"		"***HOLD FOR 30s***"
+	}
+	"***FALL BACK***"
+	{
+		"trans"		"***FALL BACK***"
+	}
+	"***HOLD FOR 35s***"
+	{
+		"trans"		"***HOLD FOR 35s***"
+	}
+	"***SURVIVE***"
+	{
+		"trans"		"***SURVIVE***"
+	}
+	"***3***"
+	{
+		"trans"		"***3***"
+	}
+	"***2***"
+	{
+		"trans"		"***2***"
+	}
+	"***1***"
+	{
+		"trans"		"***1***"
+	}
+}

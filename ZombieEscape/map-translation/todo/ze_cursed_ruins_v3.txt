@@ -1,0 +1,39 @@
+"Chat"
+{
+	"*** Door is open ***"
+	{
+		"trans"		"*** Door is open ***"
+	}
+	"*** Elevator is ready in 10 seconds ***"
+	{
+		"trans"		"*** Elevator is ready in 10 seconds ***"
+	}
+	"Don't block elevator or...."
+	{
+		"trans"		"Don't block elevator or...."
+	}
+	"*** Defend !!! ***"
+	{
+		"trans"		"*** Defend !!! ***"
+	}
+	"*** Teleport is ready !!! ***"
+	{
+		"trans"		"*** Teleport is ready !!! ***"
+	}
+	"*** We will finally leave this cursed place ***"
+	{
+		"trans"		"*** We will finally leave this cursed place ***"
+	}
+	"*** Helicopter take off in 05 seconds ***"
+	{
+		"trans"		"*** Helicopter take off in 05 seconds ***"
+	}
+	"*** Nuke launched ***"
+	{
+		"trans"		"*** Nuke launched ***"
+	}
+	"*** Door will open soon ***"
+	{
+		"trans"		"*** Door will open soon ***"
+	}
+}

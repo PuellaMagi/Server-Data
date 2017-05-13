@@ -1,0 +1,51 @@
+"Chat"
+{
+	"***Testlab Door3 Opens in 5 Seconds***"
+	{
+		"trans"		"***Testlab Door3 Opens in 5 Seconds***"
+	}
+	"***Testlab Door2 Opens in 5 Seconds***"
+	{
+		"trans"		"***Testlab Door2 Opens in 5 Seconds***"
+	}
+	"***Bridge Activated***"
+	{
+		"trans"		"***Bridge Activated***"
+	}
+	"***Bridge Deactivated***"
+	{
+		"trans"		"***Bridge Deactivated***"
+	}
+	"***Water Flow 5 Seconds***"
+	{
+		"trans"		"***Water Flow 5 Seconds***"
+	}
+	"***CartControl Door Opens in 5 Seconds***"
+	{
+		"trans"		"***CartControl Door Opens in 5 Seconds***"
+	}
+	"***Cart Control Door closes in 5 Seconds***"
+	{
+		"trans"		"***Cart Control Door closes in 5 Seconds***"
+	}
+	"***Rail Cart leaves in 5 seconds***"
+	{
+		"trans"		"***Rail Cart leaves in 5 seconds***"
+	}
+	"***Refinery hatches opening***"
+	{
+		"trans"		"***Refinery hatches opening***"
+	}
+	"***Error Overflow dangerous chemicals detected***"
+	{
+		"trans"		"***Error Overflow dangerous chemicals detected***"
+	}
+	"***Tram Tunnel Door opens in 1 Minute***"
+	{
+		"trans"		"***Tram Tunnel Door opens in 1 Minute***"
+	}
+	"***Tram Starts in 5 Seconds***"
+	{
+		"trans"		"***Tram Starts in 5 Seconds***"
+	}
+}

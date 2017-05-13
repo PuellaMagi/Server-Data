@@ -1,0 +1,35 @@
+"Chat"
+{
+	">>Go!<< "
+	{
+		"trans"		">>Go!<< "
+	}
+	">>The Gate is open!<< "
+	{
+		"trans"		">>The Gate is open!<< "
+	}
+	">>Press the button at the door!l<< "
+	{
+		"trans"		">>Press the button at the door!l<< "
+	}
+	">>Stair door opens in 15 sec<< "
+	{
+		"trans"		">>Stair door opens in 15 sec<< "
+	}
+	">>Door open. Run!<< "
+	{
+		"trans"		">>Door open. Run!<< "
+	}
+	">>Train will leave in 45 sec<< "
+	{
+		"trans"		">>Train will leave in 45 sec<< "
+	}
+	">>Door will open in 20 sec<< "
+	{
+		"trans"		">>Door will open in 20 sec<< "
+	}
+	">>Door will open in 25 sec<< "
+	{
+		"trans"		">>Door will open in 25 sec<< "
+	}
+}

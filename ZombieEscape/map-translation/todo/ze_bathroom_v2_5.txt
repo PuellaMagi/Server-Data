@@ -1,0 +1,127 @@
+"Chat"
+{
+	"Map made by Puklica & Cuniczek"
+	{
+		"trans"		"Map made by Puklica & Cuniczek"
+	}
+	">>> |LEVEL 1| <<<"
+	{
+		"trans"		">>> |LEVEL 1| <<<"
+	}
+	"Sponge builder has been picked up."
+	{
+		"trans"		"Sponge builder has been picked up."
+	}
+	"Mouse trap has been picked up."
+	{
+		"trans"		"Mouse trap has been picked up."
+	}
+	"We'll have to roll down the toilet paper to safely climb down."
+	{
+		"trans"		"We'll have to roll down the toilet paper to safely climb down."
+	}
+	"Toilet paper has been rolled down. Fall back!"
+	{
+		"trans"		"Toilet paper has been rolled down. Fall back!"
+	}
+	"Hold for 15 seconds."
+	{
+		"trans"		"Hold for 15 seconds."
+	}
+	"Resist for 25 seconds."
+	{
+		"trans"		"Resist for 25 seconds."
+	}
+	"Resist for 20 seconds."
+	{
+		"trans"		"Resist for 20 seconds."
+	}
+	"Hold here until something happens!"
+	{
+		"trans"		"Hold here until something happens!"
+	}
+	"The path is blocked. Fall back!"
+	{
+		"trans"		"The path is blocked. Fall back!"
+	}
+	"The Rubber Duck has been defeated."
+	{
+		"trans"		"The Rubber Duck has been defeated."
+	}
+	"You have won first level!"
+	{
+		"trans"		"You have won first level!"
+	}
+	">>> |LEVEL 2| <<<"
+	{
+		"trans"		">>> |LEVEL 2| <<<"
+	}
+	"Resist until the wall breaks."
+	{
+		"trans"		"Resist until the wall breaks."
+	}
+	"Fall back!"
+	{
+		"trans"		"Fall back!"
+	}
+	"We have to clear the soap out of the way to be able to climb up."
+	{
+		"trans"		"We have to clear the soap out of the way to be able to climb up."
+	}
+	"The path has been cleared."
+	{
+		"trans"		"The path has been cleared."
+	}
+	"We'll have to jump outside and walk across the mirror."
+	{
+		"trans"		"We'll have to jump outside and walk across the mirror."
+	}
+	"Hold on for a few seconds."
+	{
+		"trans"		"Hold on for a few seconds."
+	}
+	"We can use the hairdryer to reach the shelf!"
+	{
+		"trans"		"We can use the hairdryer to reach the shelf!"
+	}
+	"Seems like there is no way to escape."
+	{
+		"trans"		"Seems like there is no way to escape."
+	}
+	"That's it! Break the shelf support."
+	{
+		"trans"		"That's it! Break the shelf support."
+	}
+	"We are trapped! Resist!"
+	{
+		"trans"		"We are trapped! Resist!"
+	}
+	"Fall back we can walk across the door."
+	{
+		"trans"		"Fall back we can walk across the door."
+	}
+	"There is no way around."
+	{
+		"trans"		"There is no way around."
+	}
+	"We'll have to enter the boiler. Resist!"
+	{
+		"trans"		"We'll have to enter the boiler. Resist!"
+	}
+	"We can enter through that hole! Fall back!"
+	{
+		"trans"		"We can enter through that hole! Fall back!"
+	}
+	"The sponge has been defeated! Run!"
+	{
+		"trans"		"The sponge has been defeated! Run!"
+	}
+	"Final doors are going to close in 30 seconds! Resist!"
+	{
+		"trans"		"Final doors are going to close in 30 seconds! Resist!"
+	}
+	"Kill all zombies inside!"
+	{
+		"trans"		"Kill all zombies inside!"
+	}
+}

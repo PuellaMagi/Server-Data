@@ -1,0 +1,7 @@
+"Chat"
+{
+	"**** Spawn will open in 25 seconds****"
+	{
+		"trans"		"**** Spawn will open in 25 seconds****"
+	}
+}

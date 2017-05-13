@@ -1,0 +1,63 @@
+"Chat"
+{
+	"-=[ Starting game: Obstacle Race ]=-"
+	{
+		"trans"		"-=[ Starting game: Obstacle Race ]=-"
+	}
+	"-=[ You have 20 more seconds ]=-"
+	{
+		"trans"		"-=[ You have 20 more seconds ]=-"
+	}
+	"-=[ 5 ]=-"
+	{
+		"trans"		"-=[ 5 ]=-"
+	}
+	"-=[ You have 40 seconds ]=-"
+	{
+		"trans"		"-=[ You have 40 seconds ]=-"
+	}
+	"-=[ Here come the zombies ]=-"
+	{
+		"trans"		"-=[ Here come the zombies ]=-"
+	}
+	"-=[ Zombie spawn has advanced ]=-"
+	{
+		"trans"		"-=[ Zombie spawn has advanced ]=-"
+	}
+	"-=[ Zombies are free ]=-"
+	{
+		"trans"		"-=[ Zombies are free ]=-"
+	}
+	"-=[ Shoot the ladders down ]=-"
+	{
+		"trans"		"-=[ Shoot the ladders down ]=-"
+	}
+	"-=[ Fallback ]=-"
+	{
+		"trans"		"-=[ Fallback ]=-"
+	}
+	"-=[ Castle gates are opening ]=-"
+	{
+		"trans"		"-=[ Castle gates are opening ]=-"
+	}
+	"-=[ Welcome to Zombie Games ]=-"
+	{
+		"trans"		"-=[ Welcome to Zombie Games ]=-"
+	}
+	"-=[ 1 more minute ]=-"
+	{
+		"trans"		"-=[ 1 more minute ]=-"
+	}
+	"-=[ Zombie spawn advanced ]=-"
+	{
+		"trans"		"-=[ Zombie spawn advanced ]=-"
+	}
+	"-=[ Finishing in 5... ]=-"
+	{
+		"trans"		"-=[ Finishing in 5... ]=-"
+	}
+	"-=[ Finishing in 5 ]=-"
+	{
+		"trans"		"-=[ Finishing in 5 ]=-"
+	}
+}

@@ -1,0 +1,123 @@
+"Chat"
+{
+	"***Modified by Reflelia***"
+	{
+		"trans"		"***Modified by Reflelia***"
+	}
+	"***60 SECONDS LEFT***"
+	{
+		"trans"		"***60 SECONDS LEFT***"
+	}
+	"***WARM UP ROUIND***"
+	{
+		"trans"		"***WARM UP ROUIND***"
+	}
+	"***50 SECONDS LEFT***"
+	{
+		"trans"		"***50 SECONDS LEFT***"
+	}
+	"***40 SECONDS LEFT***"
+	{
+		"trans"		"***40 SECONDS LEFT***"
+	}
+	"***30 SECONDS LEFT***"
+	{
+		"trans"		"***30 SECONDS LEFT***"
+	}
+	"***20 SECONDS LEFT***"
+	{
+		"trans"		"***20 SECONDS LEFT***"
+	}
+	"***10 seconds left***"
+	{
+		"trans"		"***10 SECONDS LEFT***"
+	}
+	"***CURRENT MODE >>>NORMAL<<<***"
+	{
+		"trans"		"***CURRENT MODE >>>NORMAL<<<***"
+	}
+	"***Nuke launched***"
+	{
+		"trans"		"***Nuke launched***"
+	}
+	"***5***"
+	{
+		"trans"		"***5***"
+	}
+	"***4***"
+	{
+		"trans"		"***4***"
+	}
+	"***3***"
+	{
+		"trans"		"***3***"
+	}
+	"***2***"
+	{
+		"trans"		"***2***"
+	}
+	"***1***"
+	{
+		"trans"		"***1***"
+	}
+	"***Nuke impact***"
+	{
+		"trans"		"***Nuke impact***"
+	}
+	"***CURRENT MODE >>>CUSTOM<<<***"
+	{
+		"trans"		"***CURRENT MODE >>>CUSTOM<<<***"
+	}
+	"***Speed picked up***"
+	{
+		"trans"		"***Speed picked up***"
+	}
+	"***Barrel picked up***"
+	{
+		"trans"		"***Barrel picked up***"
+	}
+	"***Jump portal opened***"
+	{
+		"trans"		"***Jump portal opened***"
+	}
+	"***Heal picked up***"
+	{
+		"trans"		"***Heal picked up***"
+	}
+	"***Zombie picked up Freeze***"
+	{
+		"trans"		"***Zombie picked up Freeze***"
+	}
+	"***Snow picked up***"
+	{
+		"trans"		"***Snow picked up***"
+	}
+	"***ADMIN ENABLE ADDON MODE [LOW FRICTION]***"
+	{
+		"trans"		"***ADMIN ENABLE ADDON MODE [LOW FRICTION]***"
+	}
+	"***ADMIN CHANGED MODE [NORMAL]***"
+	{
+		"trans"		"***ADMIN CHANGED MODE [NORMAL]***"
+	}
+	"***ADMIN CHANGED MODE [CUSTOM]***"
+	{
+		"trans"		"***ADMIN CHANGED MODE [CUSTOM]***"
+	}
+	"***Protector picked up***"
+	{
+		"trans"		"***Protector picked up***"
+	}
+	"***Wind picked up***"
+	{
+		"trans"		"***Wind picked up***"
+	}
+	"***Ice picked up***"
+	{
+		"trans"		"***Ice picked up***"
+	}
+	"***A PLAYER SLAIN BY A BARREL***"
+	{
+		"trans"		"***A PLAYER SLAIN BY A BARREL***"
+	}
+}

@@ -1,0 +1,391 @@
+"Chat"
+{
+	"***Welcome to roof adventure!***"
+	{
+		"trans"		"***Welcome to roof adventure!***"
+	}
+	"***Map By Color[酸奶]!***"
+	{
+		"trans"		"***Map By Color[酸奶]!***"
+	}
+	"***Current Level:[Easy]***"
+	{
+		"trans"		"***Current Level:[Easy]***"
+	}
+	"***Hold for 35s!***"
+	{
+		"trans"		"***Hold for 35s!***"
+	}
+	"***5s left!***"
+	{
+		"trans"		"***5s left!***"
+	}
+	"***Wood door will break in 10s!***"
+	{
+		"trans"		"***Wood door will break in 10s!***"
+	}
+	"***All zombies will be teleported in 9s!*** "
+	{
+		"trans"		"***All zombies will be teleported in 9s!*** "
+	}
+	"***A human has picked up health!***"
+	{
+		"trans"		"***A human has picked up health!***"
+	}
+	"***Hold for 30s!***"
+	{
+		"trans"		"***Hold for 30s!***"
+	}
+	"***Rock monster will appear in 20 seconds!***"
+	{
+		"trans"		"***Rock monster will appear in 20 seconds!***"
+	}
+	"***Shoot rock monster!(use m249 or negev)***"
+	{
+		"trans"		"***Shoot rock monster!(use m249 or negev)***"
+	}
+	"***Rock monster will attack in 5s!***"
+	{
+		"trans"		"***Rock monster will attack in 5s!***"
+	}
+	"***Rock monster has been defeated!Go!***"
+	{
+		"trans"		"***Rock monster has been defeated!Go!***"
+	}
+	"***Humans will be teleported in 2s!***"
+	{
+		"trans"		"***Humans will be teleported in 2s!***"
+	}
+	"***Hold for 25s!***"
+	{
+		"trans"		"***Hold for 25s!***"
+	}
+	"***Do not allow zombies to enter the safe room!***"
+	{
+		"trans"		"***Do not allow zombies to enter the safe room!***"
+	}
+	"***Enter the safe room!The nuke will launch in 10s!***"
+	{
+		"trans"		"***Enter the safe room!The nuke will launch in 10s!***"
+	}
+	"***Level completed!***"
+	{
+		"trans"		"***Level completed!***"
+	}
+	"***Current Level:[Extra1]***"
+	{
+		"trans"		"***Current Level:[Extra1]***"
+	}
+	"***Winners will have access to get special weapons in next level***"
+	{
+		"trans"		"***Winners will have access to get special weapons in next level***"
+	}
+	"***Zombies will come in 12s!***"
+	{
+		"trans"		"***Zombies will come in 12s!***"
+	}
+	"***Great!Hold for 25s!***"
+	{
+		"trans"		"***Great!Hold for 25s!***"
+	}
+	"***5!***"
+	{
+		"trans"		"***5!***"
+	}
+	"***4!***"
+	{
+		"trans"		"***4!***"
+	}
+	"***3!***"
+	{
+		"trans"		"***3!***"
+	}
+	"***2!***"
+	{
+		"trans"		"***2!***"
+	}
+	"***1!***"
+	{
+		"trans"		"***1!***"
+	}
+	"***Current Level:[Normal]***"
+	{
+		"trans"		"***Current Level:[Normal]***"
+	}
+	"***A human has picked up rock!***"
+	{
+		"trans"		"***A human has picked up rock!***"
+	}
+	"***A zombie has picked up accelerate!***"
+	{
+		"trans"		"***A zombie has picked up accelerate!***"
+	}
+	"***The wood door will break in 15s!***"
+	{
+		"trans"		"***The wood door will break in 15s!***"
+	}
+	"***Keep care of zombies!***"
+	{
+		"trans"		"***Keep care of zombies!***"
+	}
+	"***All zombies will be teleported in 9 seconds!***"
+	{
+		"trans"		"***All zombies will be teleported in 9 seconds!***"
+	}
+	"***A human has picked up lightning!***"
+	{
+		"trans"		"***A human has picked up lightning!***"
+	}
+	"***Rock monster uses water!(go to the end of the platform)***"
+	{
+		"trans"		"***Rock monster uses water!(go to the end of the platform)***"
+	}
+	"***A human has picked up fire!***"
+	{
+		"trans"		"***A human has picked up fire!***"
+	}
+	"***Rock monster uses rock!Break it!***"
+	{
+		"trans"		"***Rock monster uses rock!Break it!***"
+	}
+	"***Rock monster uses lightning!(squat)***"
+	{
+		"trans"		"***Rock monster uses lightning!(squat)***"
+	}
+	"***Rock monster uses entire fire!***"
+	{
+		"trans"		"***Rock monster uses entire fire!***"
+	}
+	"***Zombies are in win-room,level failed!***"
+	{
+		"trans"		"***Zombies are in win-room,level failed!***"
+	}
+	"***Current Level:[Extra2]***"
+	{
+		"trans"		"***Current Level:[Extra2]***"
+	}
+	"***Laser race will begin later!***"
+	{
+		"trans"		"***Laser race will begin later!***"
+	}
+	"***Some tips!***"
+	{
+		"trans"		"***Some tips!***"
+	}
+	"***Tip1:Red laser can add health!***"
+	{
+		"trans"		"***Tip1:Red laser can add health!***"
+	}
+	"***Tip2:Blue laser can hurt!***"
+	{
+		"trans"		"***Tip2:Blue laser can hurt!***"
+	}
+	"***Tip3:Purple laser can reduce speed infinitely!***"
+	{
+		"trans"		"***Tip3:Purple laser can reduce speed infinitely!***"
+	}
+	"***Tip4:Green laser can teleport!***"
+	{
+		"trans"		"***Tip4:Green laser can teleport!***"
+	}
+	"***Laser slash will appear in 5s***"
+	{
+		"trans"		"***Laser slash will appear in 5s***"
+	}
+	"***Use grenades to prevent zombies walking!***"
+	{
+		"trans"		"***Use grenades to prevent zombies walking!***"
+	}
+	"***Current Level:[Hard]***"
+	{
+		"trans"		"***Current Level:[Hard]***"
+	}
+	"***Some barriers disappeared!***"
+	{
+		"trans"		"***Some barriers disappeared!***"
+	}
+	"***Color lasers are activated!***"
+	{
+		"trans"		"***Color lasers are activated!***"
+	}
+	"***A human will shine the roof!***"
+	{
+		"trans"		"***A human will shine the roof!***"
+	}
+	"***Hold here for 25s!***"
+	{
+		"trans"		"***Hold here for 25s!***"
+	}
+	"***All zombies will be teleported in 9s!***"
+	{
+		"trans"		"***All zombies will be teleported in 9s!***"
+	}
+	"***Resist for 15s!***"
+	{
+		"trans"		"***Resist for 15s!***"
+	}
+	"***Rock monster uses movable fire!(go in the opposite direction)***"
+	{
+		"trans"		"***Rock monster uses movable fire!(go in the opposite direction)***"
+	}
+	"***A zombie has picked up fireball! ***"
+	{
+		"trans"		"***A zombie has picked up fireball! ***"
+	}
+	"***Current Level:[Extra3]***"
+	{
+		"trans"		"***Current Level:[Extra3]***"
+	}
+	"***IF YOU CAN'T SURF FROM THE 4TH SURF POSITION,YOU CAN CHOOSE JUMP!***"
+	{
+		"trans"		"***IF YOU CAN'T SURF FROM THE 4TH SURF POSITION,YOU CAN CHOOSE JUMP!***"
+	}
+	"***Find a place to hold for 35s! ***"
+	{
+		"trans"		"***Find a place to hold for 35s! ***"
+	}
+	"***Teleport all players in 20s! ***"
+	{
+		"trans"		"***Teleport all players in 20s! ***"
+	}
+	"***Zombies will come in 20s!***"
+	{
+		"trans"		"***Zombies will come in 20s!***"
+	}
+	"***All zombies will come in 20s!***"
+	{
+		"trans"		"***All zombies will come in 20s!***"
+	}
+	"***The first one who can complete the surf will get 100 scores!***"
+	{
+		"trans"		"***The first one who can complete the surf will get 100 scores!***"
+	}
+	"***Hold here for 25s or complete last surf!***"
+	{
+		"trans"		"***Hold here for 25s or complete last surf!***"
+	}
+	"***The first one who can complete the last surf will get 100 scores!***"
+	{
+		"trans"		"***The first one who can complete the last surf will get 100 scores!***"
+	}
+	"***Jump above the chicken!***"
+	{
+		"trans"		"***Jump above the chicken!***"
+	}
+	"***Hold the chicken for last 25s!***"
+	{
+		"trans"		"***Hold the chicken for last 25s!***"
+	}
+	"***5***"
+	{
+		"trans"		"***5***"
+	}
+	"***4***"
+	{
+		"trans"		"***4***"
+	}
+	"***3***"
+	{
+		"trans"		"***3***"
+	}
+	"***2***"
+	{
+		"trans"		"***2***"
+	}
+	"***1***"
+	{
+		"trans"		"***1***"
+	}
+	"***Current Level:[Extreme]***"
+	{
+		"trans"		"***Current Level:[Extreme]***"
+	}
+	"***Constant sky fire will appear in some areas!***"
+	{
+		"trans"		"***Constant sky fire will appear in some areas!***"
+	}
+	"***Color correction is enable!***"
+	{
+		"trans"		"***Color correction is enable!***"
+	}
+	"***Wood door will break in 30s!***"
+	{
+		"trans"		"***Wood door will break in 30s!***"
+	}
+	"***The ultimate will start in 14 seconds!***"
+	{
+		"trans"		"***The ultimate will start in 14 seconds!***"
+	}
+	"***Find the green glow to activate the wood bed!***"
+	{
+		"trans"		"***Find the green glow to activate the wood bed!***"
+	}
+	"***The wood bed will move in 10s!***"
+	{
+		"trans"		"***The wood bed will move in 10s!***"
+	}
+	"***Rock monster will use backward-push in 3s!***"
+	{
+		"trans"		"***Rock monster will use backward-push in 3s!***"
+	}
+	"***A human has picked up unlimited ammo!***"
+	{
+		"trans"		"***A human has picked up unlimited ammo!***"
+	}
+	"***A human has picked up unlimited hegrenade!***"
+	{
+		"trans"		"***A human has picked up unlimited hegrenade!***"
+	}
+	"***Rock monster will use right-push in 3s!***"
+	{
+		"trans"		"***Rock monster will use right-push in 3s!***"
+	}
+	"***Rock monster will use forward-push in 3s!***"
+	{
+		"trans"		"***Rock monster will use forward-push in 3s!***"
+	}
+	"***Rock monster uses lightning(squat)!***"
+	{
+		"trans"		"***Rock monster uses lightning(squat)!***"
+	}
+	"***Rock monster will use left-push in 3s!***"
+	{
+		"trans"		"***Rock monster will use left-push in 3s!***"
+	}
+	"***15s left!***"
+	{
+		"trans"		"***15s left!***"
+	}
+	"***Current Level:[Extra4]***"
+	{
+		"trans"		"***Current Level:[Extra4]***"
+	}
+	"***Level completed! You are shining the roof!***"
+	{
+		"trans"		"***Level completed! You are shining the roof!***"
+	}
+	"***Zombie infection!Enjoy yourself!***"
+	{
+		"trans"		"***Zombie infection!Enjoy yourself!***"
+	}
+	"***Hold for 150s!***"
+	{
+		"trans"		"***Hold for 150s!***"
+	}
+	"***60s left!***"
+	{
+		"trans"		"***60s left!***"
+	}
+	"***10s left!***"
+	{
+		"trans"		"***10s left!***"
+	}
+	"***(Admin)Next Level:[Extra2]***"
+	{
+		"trans"		"***(Admin)Next Level:[Extra2]***"
+	}
+	"***Boss will destroy us in 5s!***"
+	{
+		"trans"		"***Boss will destroy us in 5s!***"
+	}
+}

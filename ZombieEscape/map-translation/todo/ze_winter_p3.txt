@@ -1,0 +1,19 @@
+"Chat"
+{
+	"* * * MAP BY MARKKO AND HERR_POLE * * *"
+	{
+		"trans"		"* * * MAP BY MARKKO AND HERR_POLE * * *"
+	}
+	"* * * A nuclear bomb has been launched toward this town * * *"
+	{
+		"trans"		"* * * A nuclear bomb has been launched toward this town * * *"
+	}
+	"* * * You've got about 4 minutes before it arrives * * *"
+	{
+		"trans"		"* * * You've got about 4 minutes before it arrives * * *"
+	}
+	"* * * Quick! Find the bunker and don't let the zombies in  * * *"
+	{
+		"trans"		"* * * Quick! Find the bunker and don't let the zombies in  * * *"
+	}
+}

@@ -2,7 +2,7 @@
 {
 	"-=Map By Westsiderain=-"
 	{
-		"trans"		"[{darkred}Map{default}]  地图作者Westsiderain 翻译 露比"
+		"trans"		"地图作者Westsiderain 翻译 露比"
 	}
 	"-=SPECIAL THANKS TO SCA SERVER FOR BETA TESTING!=-"
 	{
@@ -14,191 +14,191 @@
 	}
 	"**GET TO THE MANSION!**"
 	{
-		"trans"		"[{darkred}Map{default}]  哇 豪宅!"
+		"trans"		"哇 豪宅!"
 	}
 	"-=Detonating=-"
 	{
-		"trans"		"[{darkred}Map{default}]  引爆炸弹"
+		"trans"		"引爆炸弹"
 	}
 	"-=Main door opens in 10 seconds!=-"
 	{
-		"trans"		"[{darkred}Map{default}]  大门在10秒后打开!"
+		"trans"		"大门在10秒后打开!"
 	}
 	"-=Hold here for 40 seconds=-"
 	{
-		"trans"		"[{darkred}Map{default}]  在这里守40秒"
+		"trans"		"在这里守40秒"
 	}
 	"**Zombies ate the main gate!**"
 	{
-		"trans"		"[{darkred}Map{default}]  僵尸吃掉了大门!"
+		"trans"		"僵尸吃掉了大门!"
 	}
 	"**Lightning:  How bout some hardcore S&M boys?  Press the red button!!"
 	{
-		"trans"		"[{darkred}Map{default}]  Lightning:  快来按下红色按钮!!"
+		"trans"		"Lightning:  快来按下红色按钮!!"
 	}
 	"-=Door opens in 10 seconds.=-"
 	{
-		"trans"		"[{darkred}Map{default}]  门在10秒后开启."
+		"trans"		"门在10秒后开启."
 	}
 	"-=Defense System Activated.=-"
 	{
-		"trans"		"[{darkred}Map{default}]  防御系统激活."
+		"trans"		"防御系统激活."
 	}
 	"-=DOOR JAMMED! FIND ANOTHER WAY OUT!=-"
 	{
-		"trans"		"[{darkred}Map{default}]  门堵住了! 找到另一个出路!"
+		"trans"		"门堵住了! 找到另一个出路!"
 	}
 	"**Zombies held back for 5 seconds.**"
 	{
-		"trans"		"[{darkred}Map{default}]  防御系统还可以阻碍僵尸5秒."
+		"trans"		"防御系统还可以阻碍僵尸5秒."
 	}
 	"**Lightning: Oooo Yeah!!! Did that hurt?**"
 	{
-		"trans"		"[{darkred}Map{default}]  Lightning: 互相伤害啊?"
+		"trans"		"Lightning: 互相伤害啊?"
 	}
 	"-=Toilet Defense System Activated=-"
 	{
-		"trans"		"[{darkred}Map{default}]  厕所防御系统已激活"
+		"trans"		"厕所防御系统已激活"
 	}
 	"**Those Planks Look Oftly Flimsy!**"
 	{
-		"trans"		"[{darkred}Map{default}]  那些木板好像很好应该可以走!"
+		"trans"		"那些木板好像很好应该可以走!"
 	}
 	"-=Hold here for 30 Seconds.=-"
 	{
-		"trans"		"[{darkred}Map{default}]  在这里守30秒."
+		"trans"		"在这里守30秒."
 	}
 	"**Sailor Moon: Hey Boys!  I'm So Horny!  Come Touch Me!**"
 	{
-		"trans"		"[{darkred}Map{default}]  美少女战士:嘿帅哥快过来碰我!"
+		"trans"		"美少女战士:嘿帅哥快过来碰我!"
 	}
 	"-=Zombies advance in 15 seconds.=-"
 	{
-		"trans"		"[{darkred}Map{default}]  僵尸传送点推进于15秒后"
+		"trans"		"僵尸传送点推进于15秒后"
 	}
 	"**Sailor Moon: I'M CUMMIN FOR YOU!**"
 	{
-		"trans"		"[{darkred}Map{default}]  美少女战士:我来要你命了"
+		"trans"		"美少女战士:我来要你命了"
 	}
 	"-=A Player Has Been Raped By Sailormoon.=-"
 	{
-		"trans"		"[{darkred}Map{default}]  一个玩家已经被美少女战士强奸致死."
+		"trans"		"一个玩家已经被美少女战士强奸致死."
 	}
 	"-=5 seconds remaining.=-"
 	{
-		"trans"		"[{darkred}Map{default}]  剩余5秒."
+		"trans"		"剩余5秒."
 	}
 	"-=DOOR OPENED! Zombies held back for 5 seconds.=-"
 	{
-		"trans"		"[{darkred}Map{default}]  门开了,僵尸将被阻碍5秒."
+		"trans"		"门开了,僵尸将被阻碍5秒."
 	}
 	"**Does this copter have enough fuel?**"
 	{
-		"trans"		"[{darkred}Map{default}]  这架飞机有足够的燃料可以上天了"
+		"trans"		"这架飞机有足够的燃料可以上天了"
 	}
 	"-=Hold here for 20 seconds=-"
 	{
-		"trans"		"[{darkred}Map{default}]  在这里守20秒"
+		"trans"		"在这里守20秒"
 	}
 	"-=Helicopter Departing in 10 Seconds.=-"
 	{
-		"trans"		"[{darkred}Map{default}]  直升机还有10秒起飞."
+		"trans"		"直升机还有10秒起飞."
 	}
 	"-=MAYDAY! MAYDAY!!!=-"
 	{
-		"trans"		"[{darkred}Map{default}]  求救! 求救!!!"
+		"trans"		"求救! 求救!!!"
 	}
 	"WE'RE GOING DOWN!!!"
 	{
-		"trans"		"[{darkred}Map{default}]  飞机起飞了!!!"
+		"trans"		"飞机起飞了!!!"
 	}
 	"-=WE'RE GOING DOWN!=-"
 	{
-		"trans"		"[{darkred}Map{default}]  boom!"
+		"trans"		"boom!"
 	}
 	"-=Door opened!  Zombies held back 5 seconds.=-"
 	{
-		"trans"		"[{darkred}Map{default}]  门开了,僵尸将被阻碍5秒."
+		"trans"		"门开了,僵尸将被阻碍5秒."
 	}
 	"-=Defense System Activated=-"
 	{
-		"trans"		"[{darkred}Map{default}]  防御系统激活"
+		"trans"		"防御系统激活"
 	}
 	"-=Door opens in 20 seconds.=-"
 	{
-		"trans"		"[{darkred}Map{default}]  20秒后门开."
+		"trans"		"20秒后门开."
 	}
 	"-=Door opens in 5 seconds.=-"
 	{
-		"trans"		"[{darkred}Map{default}]  5秒后门开."
+		"trans"		"5秒后门开."
 	}
 	"** Zombies are trapped for 15 secs or til CTs find a solution."
 	{
-		"trans"		"[{darkred}Map{default}]  僵尸被困15秒或直到人类找到解决办法."
+		"trans"		"僵尸被困15秒或直到人类找到解决办法."
 	}
 	"-=Find Dr. Valencia=-"
 	{
-		"trans"		"[{darkred}Map{default}]  发现了瓦伦西亚博士"
+		"trans"		"发现了瓦伦西亚博士"
 	}
 	"**Dr. Valencia:  I'm in the john!**"
 	{
-		"trans"		"[{darkred}Map{default}]  瓦伦西亚博士:我在上厕所!"
+		"trans"		"瓦伦西亚博士:我在上厕所!"
 	}
 	"-=Zombies released in 3 seconds=-"
 	{
-		"trans"		"[{darkred}Map{default}]  僵尸释放在3秒后"
+		"trans"		"僵尸释放在3秒后"
 	}
 	"-=Force her out!=-"
 	{
-		"trans"		"[{darkred}Map{default}]  强迫她出来!"
+		"trans"		"强迫她出来!"
 	}
 	"**Dr. Valencia: HOW DARE YOU BREAK MY CAN!**"
 	{
-		"trans"		"[{darkred}Map{default}]  瓦伦西亚博士:你怎么敢乱来!"
+		"trans"		"瓦伦西亚博士:你怎么敢乱来!"
 	}
 	"**Dr Valencia:  Ok... I'll open the door.**"
 	{
-		"trans"		"[{darkred}Map{default}]  瓦伦西亚博士:好吧…我要开门."
+		"trans"		"瓦伦西亚博士:好吧…我要开门."
 	}
 	"**Dr Valencia: Give me 15 seconds.**"
 	{
-		"trans"		"[{darkred}Map{default}]  瓦伦西亚博士:给我15秒."
+		"trans"		"瓦伦西亚博士:给我15秒."
 	}
 	"**Dr. Valencia: I might need to expell some gas soon."
 	{
-		"trans"		"[{darkred}Map{default}]  瓦伦西亚博士:我可能需要放一些毒气."
+		"trans"		"瓦伦西亚博士:我可能需要放一些毒气."
 	}
 	"-=Dr. Valencia:  Door opening in 5.=-"
 	{
-		"trans"		"[{darkred}Map{default}]  瓦伦西亚博士:5秒门开."
+		"trans"		"瓦伦西亚博士:5秒门开."
 	}
 	"-=Dr. Valencia:  DOOR OPENED!  MAKE WAY!!!=-"
 	{
-		"trans"		"[{darkred}Map{default}]  瓦伦西亚博士:门开了!让路!!!!"
+		"trans"		"瓦伦西亚博士:门开了!让路!!!!"
 	}
 	"**Dr. Valencia: TAKE THIS!!!**"
 	{
-		"trans"		"[{darkred}Map{default}]  瓦伦西亚博士:尝尝这个!!!"
+		"trans"		"瓦伦西亚博士:尝尝这个!!!"
 	}
 	"**Dr. Valencia:  Hold the door!  I'll use the remaining gas to conjure up a nuke!"
 	{
-		"trans"		"[{darkred}Map{default}]  瓦伦西亚博士:守住门!我将用剩下的毒气召唤出核武器!"
+		"trans"		"瓦伦西亚博士:守住门!我将用剩下的毒气召唤出核武器!"
 	}
 	"**Dr. Valencia:  Nuke in 3...**"
 	{
-		"trans"		"[{darkred}Map{default}]  3"
+		"trans"		"3"
 	}
 	"**Dr. Valencia:  2...**"
 	{
-		"trans"		"[{darkred}Map{default}]  2"
+		"trans"		"2"
 	}
 	"**Dr. Valencia:  1...**"
 	{
-		"trans"		"[{darkred}Map{default}]  1"
+		"trans"		"1"
 	}
 	"-=Thanks for playing Evil Mansion!=-"
 	{
-		"trans"		"[{darkred}Map{default}]  谢谢游玩邪恶的豪宅"
+		"trans"		"谢谢游玩邪恶的豪宅"
 	}
 	"-= For comments, find me on the SCA clan forums!=-"
 	{
@@ -206,18 +206,18 @@
 	}
 	"**Lightning:  How bout some hardcore S&M boys?  Press the red button!!**"
 	{
-		"trans"		"[{darkred}Map{default}]  Lightning: 来呀,放纵呀,想来就按那个红色按钮!"
+		"trans"		"Lightning: 来呀,放纵呀,想来就按那个红色按钮!"
 	}
 	"** Zombies are trapped for 15 secs or til CTs find a solution.**"
 	{
-		"trans"		"[{darkred}Map{default}]  僵尸将被困住15秒"
+		"trans"		"僵尸将被困住15秒"
 	}
 	"**Dr. Valencia: I might need to expell some gas soon.**"
 	{
-		"trans"		"[{darkred}Map{default}]  瓦伦西亚博士:我准备放点毒气玩玩.."
+		"trans"		"瓦伦西亚博士:我准备放点毒气玩玩.."
 	}
 	"**Dr. Valencia:  Hold the door!  I'll use the remaining gas to conjure up a nuke!**"
 	{
-		"trans"		"[{darkred}Map{default}]  瓦伦西亚博士:不要放僵尸进来!我将用剩下的毒气召唤出核武器!"
+		"trans"		"瓦伦西亚博士:不要放僵尸进来!我将用剩下的毒气召唤出核武器!"
 	}
 }

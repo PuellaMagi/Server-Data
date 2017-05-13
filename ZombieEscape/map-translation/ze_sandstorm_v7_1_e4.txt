@@ -2,7 +2,7 @@
 {
 	">>> WARMUP ROUND <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  热身局"
+		"trans"		"**热身局"
 	}
 	">>*** MAP BY STK ***<<"
 	{
@@ -14,233 +14,228 @@
 	}
 	"** The doors will open in 20 seconds **"
 	{
-		"countdown"		"20"
-		"trans"		"[{darkred}Map{default}]  门开于20秒后"
+		"trans"		"**门开于20秒后**"
 	}
 	"** LEVEL 1 **"
 	{
-		"trans"		"[{darkred}Map{default}]  当前关卡:第一关"
+		"trans"		"**当前关卡:第一关**"
 	}
 	"** A player has picked up Fire Staff **"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家拾起了{darkred}火焰权杖{default}"
+		"blocked"	"1"
+		"trans"		"**有玩家拾起了火焰权杖{default}"
 	}
 	"** A player has picked up Tornado Staff **"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家拾起了{grey}飓风权杖{default}"
+		"blocked"	"1"
+		"trans"		"**有玩家拾起了飓风权杖{default}"
 	}
 	"** A player has picked up Heal Staff **"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家拾起了{darkred}治疗权杖{default}"
+		"blocked"	"1"
+		"trans"		"**有玩家拾起了治疗权杖{default}"
 	}
 	"** A player has picked up Quicksand Staff **"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家拾起了{orange}流沙权杖{default}"
+		"blocked"	"1"
+		"trans"		"**有玩家拾起了流沙权杖{default}"
 	}
 	"** 5 seconds left **"
 	{
-		"trans"		"[{darkred}Map{default}]  5秒剩余"
+		"trans"		"**5秒剩余**"
 	}
 	"** FALL BACK **"
 	{
-		"trans"		"[{darkred}Map{default}]  撤退"
+		"trans"		"**撤退**"
 	}
 	"** A player has picked up Earth Staff **"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家拾起了{pink}尘土权杖{default}"
+		"blocked"	"1"
+		"trans"		"**有玩家拾起了尘土权杖{default}"
 	}
 	"** The door will open in 25 seconds **"
 	{
-		"countdown"		"25"
-		"trans"		"[{darkred}Map{default}]  门开启于25秒后"
+		"trans"		"**门开启于25秒后**"
 	}
 	"** The doors will open in 15 seconds **"
 	{
-		"trans"		"[{darkred}Map{default}]  门开启于15秒后"
+		"trans"		"**门开启于15秒后**"
 	}
 	"** Bomb explodes in 10 seconds **"
 	{
-		"countdown"		"10"
-		"trans"		"[{darkred}Map{default}]  炸弹引爆于10秒后"
+		"trans"		"**炸弹引爆于10秒后**"
 	}
 	"** Hold zombies for 15 seconds **"
 	{
-		"countdown"		"15"
-		"trans"		"[{darkred}Map{default}]  坚守15秒"
+		"trans"		"**坚守15秒**"
 	}
 	"*** YOU WON STAGE 1 ***"
 	{
-		"trans"		"[{darkred}Map{default}]  本关已破,下一关:第二关"
+		"trans"		"**本关已破,下一关:第二关**"
 	}
 	"** LEVEL 2 **"
 	{
-		"trans"		"[{darkred}Map{default}]  第二关"
+		"trans"		"**第二关**"
 	}
 	"** A player has picked up SandStorm Staff **"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家拾起了{green}沙尘暴权杖"
+		"blocked"	"1"
+		"trans"		"**有玩家拾起了沙尘暴权杖**"
 	}
 	"** Teleport will open in 15 seconds **"
 	{
-		"trans"		"[{darkred}Map{default}]  传送器启动于15秒后"
+		"trans"		"**传送器启动于15秒后**"
 	}
 	"** Kill him or he kills you!!! **"
 	{
-		"trans"		"[{darkred}Map{default}]  开钱打趴这个家伙!!"
+		"trans"		"**开枪打趴这个家伙!!**"
 	}
 	"*** Grenades do more damage. ***"
 	{
-		"trans"		"[{darkred}Map{default}]  高爆雷能造成大量伤害,不要吝啬"
+		"trans"		"**高爆雷能造成大量伤害,不要吝啬**"
 	}
 	"*** He's dead. Run. ***"
 	{
-		"trans"		"[{darkred}Map{default}]  我们干趴他了,撤退"
+		"trans"		"**我们干趴他了,撤退**"
 	}
 	"** The doors will open on 15 seconds **"
 	{
-		"countdown"		"15"
-		"trans"		"[{darkred}Map{default}]  门开于15秒后"
+		"trans"		"**门开于15秒后**"
 	}
 	"** Press on the 4 obelisks to open the door **"
 	{
-		"trans"		"[{darkred}Map{default}]  触发四座方尖碑以触发开门"
+		"trans"		"**触发四座方尖碑以触发开门**"
 	}
 	"** The doors will open in 10 seconds **"
 	{
-		"trans"		"[{darkred}Map{default}]  门开于10秒后"
+		"trans"		"**门开于10秒后**"
 	}
 	"** Elevator leaves in 5 seconds **"
 	{
-		"countdown"		"5"
-		"trans"		"[{darkred}Map{default}]  电梯离开于5秒后"
+		"trans"		"**电梯离开于5秒后**"
 	}
 	"** Kill the remaining zombies! **"
 	{
-		"trans"		"[{darkred}Map{default}]  干掉闯进来的僵尸"
+		"trans"		"**干掉闯进来的僵尸**"
 	}
 	"** YOU WON STAGE 2 **"
 	{
-		"trans"		"[{darkred}Map{default}]  第二关已破,下一关:第三关"
+		"trans"		"**第二关已破,下一关:第三关**"
 	}
 	"** LEVEL 3 **"
 	{
-		"trans"		"[{darkred}Map{default}]  第三关"
+		"trans"		"**第三关**"
 	}
 	"** Hold for 15 seconds. **"
 	{
-		"countdown"		"15"
-		"trans"		"[{darkred}Map{default}]  坚守15秒"
+		"trans"		"**坚守15秒**"
 	}
 	"** Hold Zombies for 10 seconds **"
 	{
-		"trans"		"[{darkred}Map{default}]  顶住僵尸10秒"
+		"trans"		"**顶住僵尸10秒**"
 	}
 	"** YOU WON STAGE 3 **"
 	{
-		"trans"		"[{darkred}Map{default}]  第三关已破,下一关:第四关"
+		"trans"		"**第三关已破,下一关:第四关**"
 	}
 	"** LEVEL 4 **"
 	{
-		"trans"		"[{darkred}Map{default}]  第四关"
+		"trans"		"**第四关**"
 	}
 	"*** Grenades do more damage. (8 SECONDS)***"
 	{
-		"trans"		"[{darkred}Map{default}]  8秒内手雷将造成额外伤害(请注意时间)"
+		"trans"		"***8秒内手雷将造成额外伤害(请注意时间)***"
 	}
 	"*** YOU WON STAGE 4 ***"
 	{
-		"trans"		"[{darkred}Map{default}]  第四关已破"
+		"trans"		"**第四关已破"
 	}
 	"** Run into the center and break the crystal!!! **"
 	{
-		"trans"		"[{darkred}Map{default}]  一路杀向金字塔顶打碎水晶"
+		"trans"		"**一路杀向金字塔顶打碎水晶**"
 	}
 	"** LEVEL 5 **"
 	{
-		"trans"		"[{darkred}Map{default}]  第五关"
+		"trans"		"**第五关**"
 	}
 	"** 10 seconds left **"
 	{
-		"countdown"		"10"
-		"trans"		"[{darkred}Map{default}]  10秒剩余"
+		"trans"		"**10秒剩余**"
 	}
 	"** Teleport will open in 15 seconds. **"
 	{
-		"countdown"		"15"
-		"trans"		"[{darkred}Map{default}]  传送点启用于15秒后"
+		"trans"		"**传送点启用于15秒后**"
 	}
 	"** 5 seconds left. **"
 	{
-		"trans"		"[{darkred}Map{default}]  5秒剩余"
+		"trans"		"**5秒剩余**"
 	}
 	"** Hold for 20 seconds. **"
 	{
-		"countdown"		"20"
-		"trans"		"[{darkred}Map{default}]  坚守20秒"
+		"trans"		"**坚守20秒**"
 	}
 	"*** Grenades do more damage (4 SECONDS). ***"
 	{
-		"trans"		"[{darkred}Map{default}]  4秒内手雷可造成额外伤害"
+		"trans"		"**4秒内手雷可造成额外伤害"
 	}
 	"** Do not come to the edge of the platform! **"
 	{
-		"trans"		"[{darkred}Map{default}]  切忌贴近平台边缘!!!"
+		"trans"		"**切忌贴近平台边缘!!!"
 	}
 	"** Map Ported By 上古,單純 **"
 	{
-		"trans"		"[{darkred}Map{default}] ** Map Ported By 上古,單純 ** / Translate:F2A"
+		"trans"		"** Map Ported By 上古,單純 ** / Translate:F2A**"
 	}
 	"*** YOU WON STAGE 5 ***"
 	{
-		"trans"		"[{darkred}Map{default}]  第五关已完成"
+		"trans"		"**第五关已完成"
 	}
 	"** Humans have become immortal!!! **"
 	{
-		"trans"		"[{darkred}Map{default}]  剩余的人类进入无敌状态"
+		"trans"		"**剩余的人类进入无敌状态"
 	}
 	"** Zombies have 1 HP! **"
 	{
-		"trans"		"[{darkred}Map{default}]  僵尸强制1HP"
+		"trans"		"**僵尸强制1HP"
 	}
 	"** Victory in 230 seconds. **"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守230秒"
+		"trans"		"**坚守230秒**"
 	}
 	"** LEVEL ZM **"
 	{
-		"trans"		"[{darkred}Map{default}]  当前关卡为ZM关卡,找个地方守到核爆吧"
+		"trans"		"**当前关卡为ZM关卡,找个地方守到核爆吧**"
 	}
 	"** Victory in 200 seconds. **"
 	{
-		"countdown"		"200"
-		"trans"		"[{darkred}Map{default}]  坚守200秒"
+		"trans"		"**坚守200秒**"
 	}
 	"** Victory in 150 seconds. **"
 	{
-		"trans"		"[{darkred}Map{default}] 坚守150秒"
+		"trans"		"**坚守150秒**"
 	}
 	"** Victory in 100 seconds. **"
 	{
-		"trans"		"[{darkred}Map{default}] 坚守100秒"
+		"trans"		"**坚守100秒**"
 	}
 	"** Victory in 50 seconds. **"
 	{
-		"trans"		"[{darkred}Map{default}] 坚守50秒"
+		"trans"		"**坚守50秒**"
 	}
 	"** Victory in 10 seconds. **"
 	{
-		"trans"		"[{darkred}Map{default}] 坚守10秒"
+		"trans"		"**坚守10秒**"
 	}
 	"** LEVEL GAME END **"
 	{
-		"trans"		"[{darkred}Map{default}]  关卡:游戏结束"
+		"trans"		"**关卡:游戏结束"
 	}
 	">| ADMIN ROOM |< Level changed to 4. Kill all in 5 seconds."
 	{
-		"trans"		"[{darkred}Map{default}]  已跳关至第四关,5秒后处死所有玩家"
+		"trans"		"**已跳关至第四关,5秒后处死所有玩家"
 	}
 	">| ADMIN ROOM |< Level changed to 5. Kill all in 5 seconds."
 	{
-		"trans"		"[{darkred}Map{default}] >| ADMIN ROOM |< Level changed to 5. Kill all in 5 seconds."
+		"trans"		"**>| ADMIN ROOM |< Level changed to 5. Kill all in 5 seconds."
 	}
 }

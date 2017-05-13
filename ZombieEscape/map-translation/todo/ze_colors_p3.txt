@@ -1,0 +1,111 @@
+"Chat"
+{
+	"** Hey there! Welcome to ze_colors **"
+	{
+		"trans"		"欢迎来到五彩世界 翻译DohiCircle"
+	}
+	"** Believe it or not this map was once a tutorial and twice a duck! **"
+	{
+		"blocked"		"1"
+	}
+	"** Level: Lemon **"
+	{
+		"trans"		"Level: Lemon"
+	}
+	"** This level looks like good old Louisiana: lines and squares all along the little lonely land **"
+	{
+		"trans"		"请防守好两个大路，请不要躲在小管道，一旦失守迎接你的就是死亡"
+	}
+	"** GET GOING! Tension has been built in the spawn area! **"
+	{
+		"trans"		"快走吧，出生点已经有了空气墙阻挡僵尸了"
+	}
+	"** RESIST! We're pathetically close to the spawn still! **"
+	{
+		"trans"		"停留在出生点的玩家将被推出"
+	}
+	"** One tiny bit more! We're almost there! **"
+	{
+		"trans"		"都聚在一起防守到背后门开"
+	}
+	"** Hold right here! There are 4 entrances - take care of them! **"
+	{
+		"trans"		"** Hold right here! There are 4 entrances - take care of them! **"
+	}
+	"** Keep it up! 10 seconds left! **"
+	{
+		"trans"		"** Keep it up! 10 seconds left! **"
+	}
+	"** RESIST! We need to wait for a bit until we fly-fly-fly! **"
+	{
+		"trans"		"** RESIST! We need to wait for a bit until we fly-fly-fly! **"
+	}
+	"** Hold it a bit more! The magical energy is energy-ny-zing! **"
+	{
+		"trans"		"** Hold it a bit more! The magical energy is energy-ny-zing! **"
+	}
+	"** Last few seconds! HOLD IT! **"
+	{
+		"trans"		"** Last few seconds! HOLD IT! **"
+	}
+	"** Split hold! Both sides must survive! RESIST! **"
+	{
+		"trans"		"** Split hold! Both sides must survive! RESIST! **"
+	}
+	"** Hold it! Last 10 seconds! **"
+	{
+		"trans"		"** Hold it! Last 10 seconds! **"
+	}
+	"** Do you see it? Time to practice ropeless bungee jumping! **"
+	{
+		"trans"		"** Do you see it? Time to practice ropeless bungee jumping! **"
+	}
+	"** Narrow hold! Narrower time! RESIST A LITTLE OR DIE! **"
+	{
+		"trans"		"** Narrow hold! Narrower time! RESIST A LITTLE OR DIE! **"
+	}
+	"** Get moving! We lost time! MAP IS LONG ENOUGH NOW TO BE DECENT! **"
+	{
+		"trans"		"** Get moving! We lost time! MAP IS LONG ENOUGH NOW TO BE DECENT! **"
+	}
+	"** One more hold and then the woody poody finale! **"
+	{
+		"trans"		"** One more hold and then the woody poody finale! **"
+	}
+	"** I'm quite sure you're wishing you had done something with your life now... **"
+	{
+		"trans"		"** I'm quite sure you're wishing you had done something with your life now... **"
+	}
+	"** GO! The absurdly stupid ending awaits with more absurd holding than ever! **"
+	{
+		"trans"		"** GO! The absurdly stupid ending awaits with more absurd holding than ever! **"
+	}
+	"** THIS IS OUR LAST STAND! RESIST! **"
+	{
+		"trans"		"** THIS IS OUR LAST STAND! RESIST! **"
+	}
+	"** THE BRIDGE WILL GO SOON! KEEP IT UP!!! **"
+	{
+		"trans"		"** THE BRIDGE WILL GO SOON! KEEP IT UP!!! **"
+	}
+	"** GET READY! THE LAST WAVE IS INCOMING! **"
+	{
+		"trans"		"** GET READY! THE LAST WAVE IS INCOMING! **"
+	}
+	"** HOLD IT! WE MUST SURVIVE FOR THE LAST BIT! **"
+	{
+		"trans"		"** HOLD IT! WE MUST SURVIVE FOR THE LAST BIT! **"
+	}
+	"*** Amazing! You did it!! Let's see how you do on Grape mode! ***"
+	{
+		"trans"		"*** Amazing! You did it!! Let's see how you do on Grape mode! ***"
+	}
+	"** Level: Grape **"
+	{
+		"trans"		"Level: Grape"
+	}
+	"** Shake-shaka-shake-shaka-boom! Grape is a fruit with calcium! **"
+	{
+		"trans"		"** Shake-shaka-shake-shaka-boom! Grape is a fruit with calcium! **"
+	}
+}

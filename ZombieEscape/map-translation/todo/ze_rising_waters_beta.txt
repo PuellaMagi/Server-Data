@@ -1,0 +1,19 @@
+"Chat"
+{
+	">>> Left Door opening in 10 seconds<<< "
+	{
+		"trans"		">>> Left Door opening in 10 seconds<<< "
+	}
+	">>> right Door opening in 10 seconds<<< "
+	{
+		"trans"		">>> right Door opening in 10 seconds<<< "
+	}
+	">>> hold this level for 40 seconds untill the gate oppens<<<"
+	{
+		"trans"		">>> hold this level for 40 seconds untill the gate oppens<<<"
+	}
+	">>> take wise when useing the TNT, no friendly fire<<<"
+	{
+		"trans"		">>> take wise when useing the TNT, no friendly fire<<<"
+	}
+}

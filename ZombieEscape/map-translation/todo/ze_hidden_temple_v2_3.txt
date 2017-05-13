@@ -1,0 +1,51 @@
+"Chat"
+{
+	"### STAGE : HUMAN ###"
+	{
+		"trans"		"### STAGE : HUMAN ###"
+	}
+	"### WELCOME TO : HIDDEN TEMPLE ##"
+	{
+		"trans"		"### WELCOME TO : HIDDEN TEMPLE ##"
+	}
+	"### WARMUP - 50 SECONDS LEFT ###"
+	{
+		"trans"		"### WARMUP - 50 SECONDS LEFT ###"
+	}
+	"### MAP CREATED BY NARAKA ###"
+	{
+		"trans"		"### MAP CREATED BY NARAKA ###"
+	}
+	"### WARMUP - 40 SECONDS LEFT ###"
+	{
+		"trans"		"### WARMUP - 40 SECONDS LEFT ###"
+	}
+	"### WARMUP - 30 SECONDS LEFT ###"
+	{
+		"trans"		"### WARMUP - 30 SECONDS LEFT ###"
+	}
+	"### GATES OPEN IN 30 SECONDS ###"
+	{
+		"trans"		"### GATES OPEN IN 30 SECONDS ###"
+	}
+	"### WARMUP - 20 SECONDS LEFT ###"
+	{
+		"trans"		"### WARMUP - 20 SECONDS LEFT ###"
+	}
+	"### WARMUP - 10 SECONDS LEFT ###"
+	{
+		"trans"		"### WARMUP - 10 SECONDS LEFT ###"
+	}
+	"### 10 SECOND REMAINING ###"
+	{
+		"trans"		"### 10 SECOND REMAINING ###"
+	}
+	"### WARMUP OVER - RESTARTING ROUND ###"
+	{
+		"trans"		"### WARMUP OVER - RESTARTING ROUND ###"
+	}
+	"### DEFEND UNTIL GATES CLOSED ###"
+	{
+		"trans"		"### DEFEND UNTIL GATES CLOSED ###"
+	}
+}

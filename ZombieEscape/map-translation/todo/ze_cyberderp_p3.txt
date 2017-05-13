@@ -1,0 +1,99 @@
+"Chat"
+{
+	"* * Map by Mojonero * *"
+	{
+		"trans"		"* * Map by Mojonero * *"
+	}
+	"* * >>TIP<< ORANGE is a GOOD colour * *"
+	{
+		"trans"		"* * >>TIP<< ORANGE is a GOOD colour * *"
+	}
+	"* * * Current phase: CURSED HEXAHEDRON * * *"
+	{
+		"trans"		"* * * Current phase: CURSED HEXAHEDRON * * *"
+	}
+	"* * The pedestal will be raising in 25 seconds * *"
+	{
+		"trans"		"* * The pedestal will be raising in 25 seconds * *"
+	}
+	"* * * Current phase: MAGIC IS REAL * * *"
+	{
+		"trans"		"* * * Current phase: MAGIC IS REAL * * *"
+	}
+	"* * * Current phase: NOT TRAMPOLINES * * *"
+	{
+		"trans"		"* * * Current phase: NOT TRAMPOLINES * * *"
+	}
+	"* * * Current phase: TOTALLY NEVER SEEN * * *"
+	{
+		"trans"		"* * * Current phase: TOTALLY NEVER SEEN * * *"
+	}
+	"* * Hold here for 20 seconds * *"
+	{
+		"trans"		"* * Hold here for 20 seconds * *"
+	}
+	"* * 3 seconds left * *"
+	{
+		"trans"		"* * 3 seconds left * *"
+	}
+	"* * Door opening in 25 seconds * *"
+	{
+		"trans"		"* * Door opening in 25 seconds * *"
+	}
+	"* * Closing door * * 5 seconds left * *"
+	{
+		"trans"		"* * Closing door * * 5 seconds left * *"
+	}
+	"* * KEEP DEFENDING * *"
+	{
+		"trans"		"* * KEEP DEFENDING * *"
+	}
+	"* * * Projectile Deflector has been picked up * * *"
+	{
+		"trans"		"* * * Projectile Deflector has been picked up * * *"
+	}
+	"* * Go to the lower floor * *"
+	{
+		"trans"		"* * Go to the lower floor * *"
+	}
+	"* * Hacking doors. This may take a few seconds * *"
+	{
+		"trans"		"* * Hacking doors. This may take a few seconds * *"
+	}
+	"* * Press the orange button to start the Core * *"
+	{
+		"trans"		"* * Press the orange button to start the Core * *"
+	}
+	"> INITIALIZING CORE <"
+	{
+		"trans"		"> INITIALIZING CORE <"
+	}
+	"> THE CORE WILL BE READY IN 21 SECONDS <"
+	{
+		"trans"		"> THE CORE WILL BE READY IN 21 SECONDS <"
+	}
+	"> CORE READY IN 5 SECONDS <"
+	{
+		"trans"		"> CORE READY IN 5 SECONDS <"
+	}
+	"> CORE READY <"
+	{
+		"trans"		"> CORE READY <"
+	}
+	"* * We can move * * FALL BACK * *"
+	{
+		"trans"		"* * We can move * * FALL BACK * *"
+	}
+	"* * Hold 25 seconds * *"
+	{
+		"trans"		"* * Hold 25 seconds * *"
+	}
+	"* * You have defended long enough * *"
+	{
+		"trans"		"* * You have defended long enough * *"
+	}
+	"* * Keep running * *"
+	{
+		"trans"		"* * Keep running * *"
+	}
+}

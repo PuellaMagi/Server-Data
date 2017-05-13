@@ -2,69 +2,62 @@
 {
 	"*** Map made by Manficool (제작자 : Manficool) ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Map made by Manficool (제작자 : Manficool) ***"
+		"trans"		"***<十三号设施> 作者Manficool 翻译DohiCircle***"
 	}
 	"*** Map ported by [ＥSＣAＰＥ] Loving You (수정자 : 러빙유) ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** Map ported by [ＥSＣAＰＥ] Loving You (수정자 : 러빙유) ***"
-	}
-	"*** AFK"
-	{
-		"SPAWN CAMP KILLER IN 60 SECONDS ***"
-		{
-			"trans"		"[{darkred}Map{default}] 60秒后处死挂机者"
-		}
-	}
-	"*** REAR DOORS OPENING IN 30 SECONDS ***"
-	{
-		"trans"		"[{darkred}Map{default}] *** REAR DOORS OPENING IN 30 SECONDS ***"
-	}
-	"*** REAR DOORS OPENING IN 10 SECONDS ***"
-	{
-		"trans"		"[{darkred}Map{default}] *** REAR DOORS OPENING IN 10 SECONDS ***"
-	}
-	"*** SAFETY DOOR CLOSING ***"
-	{
-		"trans"		"[{darkred}Map{default}] *** SAFETY DOOR CLOSING ***"
-	}
-	"*** DOORS OPENING ***"
-	{
-		"trans"		"[{darkred}Map{default}] *** DOORS OPENING ***"
-	}
-	"*** TRUST IN THE LIGHT! ***"
-	{
-		"trans"		"[{darkred}Map{default}] *** TRUST IN THE LIGHT! ***"
-	}
-	"*** DARK ROOM FLOOR STABLE ***"
-	{
-		"trans"		"[{darkred}Map{default}] *** DARK ROOM FLOOR STABLE ***"
-	}
-	"*** DOOR OPENING SHORTLY ***"
-	{
-		"trans"		"[{darkred}Map{default}] *** DOOR OPENING SHORTLY ***"
-	}
-	"*** DOOR IS NOW OPEN ***"
-	{
-		"trans"		"[{darkred}Map{default}] *** DOOR IS NOW OPEN ***"
-	}
-	"*** BIG ELEVATOR LEAVING IN 5 SECONDS ***"
-	{
-		"trans"		"[{darkred}Map{default}] *** BIG ELEVATOR LEAVING IN 5 SECONDS ***"
-	}
-	"*** SIDE DOOR OPENING ***"
-	{
-		"trans"		"[{darkred}Map{default}] *** SIDE DOOR OPENING ***"
-	}
-	"*** NUKE ARRIVING IN 30 SECONDS ***"
-	{
-		"trans"		"[{darkred}Map{default}] *** NUKE ARRIVING IN 30 SECONDS ***"
-	}
-	"*** NUKE IMPACTING ***"
-	{
-		"trans"		"[{darkred}Map{default}] *** NUKE IMPACTING ***"
+		"blocked"		"1"
 	}
 	"*** AFK／SPAWN CAMP KILLER IN 60 SECONDS ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** AFK／SPAWN CAMP KILLER IN 60 SECONDS ***"
+		"trans"		"***60秒后处死AFK玩家***"
+	}
+	"*** REAR DOORS OPENING IN 30 SECONDS ***"
+	{
+		"trans"		"***铁门将在30秒后打开***"
+	}
+	"*** REAR DOORS OPENING IN 10 SECONDS ***"
+	{
+		"trans"		"***铁门将在10秒后打开***"
+	}
+	"*** SAFETY DOOR CLOSING ***"
+	{
+		"trans"		"***防御门正在关闭可以阻挡僵尸片刻***"
+	}
+	"*** DOORS OPENING ***"
+	{
+		"trans"		"***门正在开启***"
+	}
+	"*** TRUST IN THE LIGHT! ***"
+	{
+		"trans"		"***相信那些光，往光上跳***"
+	}
+	"*** DARK ROOM FLOOR STABLE ***"
+	{
+		"trans"		"***迷宫上方的铁栅栏碎了，僵尸就在你的背后***"
+	}
+	"*** DOOR OPENING SHORTLY ***"
+	{
+		"trans"		"***门很快就能打开，守住两个口***"
+	}
+	"*** DOOR IS NOW OPEN ***"
+	{
+		"trans"		"***门现在正在打开别松懈***"
+	}
+	"*** BIG ELEVATOR LEAVING IN 5 SECONDS ***"
+	{
+		"trans"		"***没时间解释了电梯将在5秒后离开***"
+	}
+	"*** SIDE DOOR OPENING ***"
+	{
+		"trans"		"***侧门已经打开，没上电梯的人类快跑不然就要爆菊了***"
+	}
+	"*** NUKE ARRIVING IN 30 SECONDS ***"
+	{
+		"trans"		"***核爆将在30秒后到来***"
+	}
+	"*** NUKE IMPACTING ***"
+	{
+		"trans"		"***再见该死的僵尸，我们赢了***"
 	}
 }

@@ -1,0 +1,67 @@
+"Chat"
+{
+	">>> WARMUP ROUND <<<"
+	{
+		"trans"		">>> WARMUP ROUND <<<"
+	}
+	">>*** MAP BY STK ***<<"
+	{
+		"trans"		">>*** MAP BY STK ***<<"
+	}
+	">> STAGE 1 <<"
+	{
+		"trans"		">> STAGE 1 <<"
+	}
+	"** The doors will open in 20 seconds **"
+	{
+		"trans"		"** The doors will open in 20 seconds **"
+	}
+	"** 5 seconds left **"
+	{
+		"trans"		"** 5 seconds left **"
+	}
+	"** FALL BACK **"
+	{
+		"trans"		"** FALL BACK **"
+	}
+	"** A player has picked up Heal Staff **"
+	{
+		"trans"		"** A player has picked up Heal Staff **"
+	}
+	"** The doors will open in 25 seconds **"
+	{
+		"trans"		"** The doors will open in 25 seconds **"
+	}
+	"** A player has picked up Earth Staff **"
+	{
+		"trans"		"** A player has picked up Earth Staff **"
+	}
+	"** A player has picked up Quicksand Staff **"
+	{
+		"trans"		"** A player has picked up Quicksand Staff **"
+	}
+	"** The door will open in 30 seconds **"
+	{
+		"trans"		"** The door will open in 30 seconds **"
+	}
+	"** The doors will open in 15 seconds **"
+	{
+		"trans"		"** The doors will open in 15 seconds **"
+	}
+	"** Bomb explodes in 20 seconds **"
+	{
+		"trans"		"** Bomb explodes in 20 seconds **"
+	}
+	"** Hold zombies for 15 seconds **"
+	{
+		"trans"		"** Hold zombies for 15 seconds **"
+	}
+	"*** YOU WON STAGE 1 ***"
+	{
+		"trans"		"*** YOU WON STAGE 1 ***"
+	}
+	"** A player has picked up Fire Staff **"
+	{
+		"trans"		"** A player has picked up Fire Staff **"
+	}
+}

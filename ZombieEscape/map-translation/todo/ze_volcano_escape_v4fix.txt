@@ -1,0 +1,87 @@
+"Chat"
+{
+	"*** Map made by RelaxingWalls (제작자 : RelaxingWalls) ***"
+	{
+		"trans"		"*** Map made by RelaxingWalls (제작자 : RelaxingWalls) ***"
+	}
+	"*** Map ported by [ＥSＣAＰＥ] Loving You (수정자 : 러빙유) ***"
+	{
+		"trans"		"*** Map ported by [ＥSＣAＰＥ] Loving You (수정자 : 러빙유) ***"
+	}
+	"***Left Gate opening 15secs.***"
+	{
+		"trans"		"***Left Gate opening 15secs.***"
+	}
+	"***Left Gate open.***"
+	{
+		"trans"		"***Left Gate open.***"
+	}
+	"***Left Elevator leaving in 25secs.***"
+	{
+		"trans"		"***Left Elevator leaving in 25secs.***"
+	}
+	"***Right Elevator leaving in 25secs.***"
+	{
+		"trans"		"***Right Elevator leaving in 25secs.***"
+	}
+	"***Stay off the lava as it rises!***"
+	{
+		"trans"		"***Stay off the lava as it rises!***"
+	}
+	"***Lava levels are rising! Volcano entrance has been destroyed!***"
+	{
+		"trans"		"***Lava levels are rising! Volcano entrance has been destroyed!***"
+	}
+	"***Lava levels are rising center chamber has been destroyed***"
+	{
+		"trans"		"***Lava levels are rising center chamber has been destroyed***"
+	}
+	"***Balloon leaving in 75secs.***"
+	{
+		"trans"		"***Balloon leaving in 75secs.***"
+	}
+	"***Defend the stairs!***"
+	{
+		"trans"		"***Defend the stairs!***"
+	}
+	"***Lava levels are rising!***"
+	{
+		"trans"		"***Lava levels are rising!***"
+	}
+	"***Balloon leaving in 30secs.***"
+	{
+		"trans"		"***Balloon leaving in 30secs.***"
+	}
+	"***Balloon leaving in 5secs.***"
+	{
+		"trans"		"***Balloon leaving in 5secs.***"
+	}
+	"***Volcano Erupting!***"
+	{
+		"trans"		"***Volcano Erupting!***"
+	}
+	"***5***"
+	{
+		"trans"		"***5***"
+	}
+	"***4***"
+	{
+		"trans"		"***4***"
+	}
+	"***3***"
+	{
+		"trans"		"***3***"
+	}
+	"***2***"
+	{
+		"trans"		"***2***"
+	}
+	"***1***"
+	{
+		"trans"		"***1***"
+	}
+	"***Right Gate opening 15secs.***"
+	{
+		"trans"		"***Right Gate opening 15secs.***"
+	}
+}

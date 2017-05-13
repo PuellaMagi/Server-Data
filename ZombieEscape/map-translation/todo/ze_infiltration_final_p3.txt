@@ -1,0 +1,91 @@
+"Chat"
+{
+	"Map made by Luffaren／Per30010"
+	{
+		"trans"		"Map made by Luffaren／Per30010"
+	}
+	"*** Door opens in 15 seconds ***"
+	{
+		"trans"		"*** Door opens in 15 seconds ***"
+	}
+	"--- ELEVATOR 1 LEAVING IN 10 SECONDS ---"
+	{
+		"trans"		"--- ELEVATOR 1 LEAVING IN 10 SECONDS ---"
+	}
+	"*** BLASTDOOR OPENING IN 30 SECONDS ***"
+	{
+		"trans"		"*** BLASTDOOR OPENING IN 30 SECONDS ***"
+	}
+	"--- TRAM LEAVES IN 10 SECONDS ---"
+	{
+		"trans"		"--- TRAM LEAVES IN 10 SECONDS ---"
+	}
+	"*** Resist 20 seconds in the poolroom ***"
+	{
+		"trans"		"*** Resist 20 seconds in the poolroom ***"
+	}
+	"*** Run to the controlroom and press the button ***"
+	{
+		"trans"		"*** Run to the controlroom and press the button ***"
+	}
+	"*** Find a spot and resist for 30 seconds ***"
+	{
+		"trans"		"*** Find a spot and resist for 30 seconds ***"
+	}
+	"*** 5 seconds untill radio scrambler collapses ***"
+	{
+		"trans"		"*** 5 seconds untill radio scrambler collapses ***"
+	}
+	"*** The zombies are trapped for 15 seconds ***"
+	{
+		"trans"		"*** The zombies are trapped for 15 seconds ***"
+	}
+	"*** MOVE IT! ***"
+	{
+		"trans"		"*** MOVE IT! ***"
+	}
+	"*** Resist 20 seconds ***"
+	{
+		"trans"		"*** Resist 20 seconds ***"
+	}
+	"*** Resist 15 seconds ***"
+	{
+		"trans"		"*** Resist 15 seconds ***"
+	}
+	"*** Opening cargo elevator door ***"
+	{
+		"trans"		"*** Opening cargo elevator door ***"
+	}
+	"*** Humans are recommended to stay in the elevator***"
+	{
+		"trans"		"*** Humans are recommended to stay in the elevator***"
+	}
+	"*** Contacting HQ ***"
+	{
+		"trans"		"*** Contacting HQ ***"
+	}
+	"*** A helicopter is waiting at the helipad ***"
+	{
+		"trans"		"*** A helicopter is waiting at the helipad ***"
+	}
+	"*** GET TO THE CHOPPER! ***"
+	{
+		"trans"		"*** GET TO THE CHOPPER! ***"
+	}
+	"*** HQ will send a nuke at your position ***"
+	{
+		"trans"		"*** HQ will send a nuke at your position ***"
+	}
+	"*** Get away from there A.S.A.P ***"
+	{
+		"trans"		"*** Get away from there A.S.A.P ***"
+	}
+	"*** HELICOPTER IS LEAVING IN 70 SECONDS ***"
+	{
+		"trans"		"*** HELICOPTER IS LEAVING IN 70 SECONDS ***"
+	}
+	"*** HELICOPTER IS LEAVING IN 10 SECONDS ***"
+	{
+		"trans"		"*** HELICOPTER IS LEAVING IN 10 SECONDS ***"
+	}
+}

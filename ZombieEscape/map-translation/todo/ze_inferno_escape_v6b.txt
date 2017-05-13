@@ -1,0 +1,39 @@
+"Chat"
+{
+	"<< Map made by Lup4n >>"
+	{
+		"trans"		"<< Map made by Lup4n >>"
+	}
+	"<< Defend 35 seconds >>"
+	{
+		"trans"		"<< Defend 35 seconds >>"
+	}
+	"<< Gate is open >>"
+	{
+		"trans"		"<< Gate is open >>"
+	}
+	"<< Defend 45 seconds >>"
+	{
+		"trans"		"<< Defend 45 seconds >>"
+	}
+	"<< rotation in 10 seconds >>"
+	{
+		"trans"		"<< rotation in 10 seconds >>"
+	}
+	"<< Map made by Lup4n >"
+	{
+		"trans"		"<< Map made by Lup4n >"
+	}
+	"<< Map made by Lup4n`` >>"
+	{
+		"trans"		"<< Map made by Lup4n`` >>"
+	}
+	"<< Map made by Lup4n` >>"
+	{
+		"trans"		"<< Map made by Lup4n` >>"
+	}
+	"<< Gate will close in 35 seconds >>"
+	{
+		"trans"		"<< Gate will close in 35 seconds >>"
+	}
+}

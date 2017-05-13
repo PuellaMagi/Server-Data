@@ -1,0 +1,47 @@
+"Chat"
+{
+	">>>Map by Explay<<<"
+	{
+		"trans"		">>>Map by Explay<<<"
+	}
+	">>>Door open in 5 sec<<<"
+	{
+		"trans"		">>>Door open in 5 sec<<<"
+	}
+	">>>This song is Immediate Music Imperativa<<<"
+	{
+		"trans"		">>>This song is Immediate Music Imperativa<<<"
+	}
+	">>>Teleporting all Zombies<<<"
+	{
+		"trans"		">>>Teleporting all Zombies<<<"
+	}
+	">>>Teleporting everyone in 5 sec<<<"
+	{
+		"trans"		">>>Teleporting everyone in 5 sec<<<"
+	}
+	">>>If you cant pass SURF try to pass XC level<<<"
+	{
+		"trans"		">>>If you cant pass SURF try to pass XC level<<<"
+	}
+	">>>Teleporting all humans...<<<"
+	{
+		"trans"		">>>Teleporting all humans...<<<"
+	}
+	">>>This song is Two step from hell Dragon Rider<<<"
+	{
+		"trans"		">>>This song is Two step from hell Dragon Rider<<<"
+	}
+	">>>If you can pass final SURF level you receive 10 of frags<<<"
+	{
+		"trans"		">>>If you can pass final SURF level you receive 10 of frags<<<"
+	}
+	">>>OK Final door is open : 1 player must go to control room and launch nuke<<< "
+	{
+		"trans"		">>>OK Final door is open : 1 player must go to control room and launch nuke<<< "
+	}
+	">>>Oh NO! Barrels with explosive is BURN! Its Will blow up it is Some seconds!<<<"
+	{
+		"trans"		">>>Oh NO! Barrels with explosive is BURN! Its Will blow up it is Some seconds!<<<"
+	}
+}

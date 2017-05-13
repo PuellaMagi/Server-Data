@@ -1,0 +1,223 @@
+"Chat"
+{
+	"**This is a map based on the game STALKER**"
+	{
+		"trans"		"**This is a map based on the game STALKER**"
+	}
+	"**The map isn't eazy. It needs good ZE skills and good teamplay**"
+	{
+		"trans"		"**The map isn't eazy. It needs good ZE skills and good teamplay**"
+	}
+	"Map by gleb_erilov(Headshooter.SC) Special thanks to HaRyDe POMKA Said Z-O-M-B-I-E"
+	{
+		"trans"		"Map by gleb_erilov(Headshooter.SC) Special thanks to HaRyDe POMKA Said Z-O-M-B-I-E"
+	}
+	"**Thanks to Luffaren Moltard Shufen Kim Enviolinador george. for helping with the port**"
+	{
+		"trans"		"**Thanks to Luffaren Moltard Shufen Kim Enviolinador george. for helping with the port**"
+	}
+	"**CURRENT MISSION: Get to ChAES Station and find the entrance to the secret labaratory**  "
+	{
+		"trans"		"**CURRENT MISSION: Get to ChAES Station and find the entrance to the secret labaratory**  "
+	}
+	"**A player picked up fireball(FIRE)**"
+	{
+		"trans"		"**A player picked up fireball(FIRE)**"
+	}
+	"**Lab door 2 will open in 13 seconds**"
+	{
+		"trans"		"**Lab door 2 will open in 13 seconds**"
+	}
+	"THE LIFT 2 WILL LEAVE IN 9 SECONDS"
+	{
+		"trans"		"THE LIFT 2 WILL LEAVE IN 9 SECONDS"
+	}
+	"**Lab door 2 will open for zombies in 18 seconds**"
+	{
+		"trans"		"**Lab door 2 will open for zombies in 18 seconds**"
+	}
+	"**Lab door 1 will open in 11 seconds**"
+	{
+		"trans"		"**Lab door 1 will open in 11 seconds**"
+	}
+	"**Lab door 1 will open for zombies in 18 seconds**"
+	{
+		"trans"		"**Lab door 1 will open for zombies in 18 seconds**"
+	}
+	"**Zombie shield is activated. You have 15 seconds**"
+	{
+		"trans"		"**Zombie shield is activated. You have 15 seconds**"
+	}
+	"***The control panel seems without power. Maybe using the lever will help***"
+	{
+		"trans"		"***The control panel seems without power. Maybe using the lever will help***"
+	}
+	"**Zombie shield is disabled**"
+	{
+		"trans"		"**Zombie shield is disabled**"
+	}
+	"**The gates will open in 30 seconds**"
+	{
+		"trans"		"**The gates will open in 30 seconds**"
+	}
+	"***Seems that works. Try to use the control panel to open the gates***"
+	{
+		"trans"		"***Seems that works. Try to use the control panel to open the gates***"
+	}
+	"**Hold this position for 10 seconds**"
+	{
+		"trans"		"**Hold this position for 10 seconds**"
+	}
+	"The Chernobyl gate will open in 20 seconds."
+	{
+		"trans"		"The Chernobyl gate will open in 20 seconds."
+	}
+	"Hold this position for 10 seconds!!"
+	{
+		"trans"		"Hold this position for 10 seconds!!"
+	}
+	"Zombie sheld is activated for 30 seconds!!"
+	{
+		"trans"		"Zombie sheld is activated for 30 seconds!!"
+	}
+	"**Survive for 70 seconds**"
+	{
+		"trans"		"**Survive for 70 seconds**"
+	}
+	"**The blowout will be in 50 seconds. Get to the bunker and defend it**"
+	{
+		"trans"		"**The blowout will be in 50 seconds. Get to the bunker and defend it**"
+	}
+	"**15 SECONDS LEFT**"
+	{
+		"trans"		"**15 SECONDS LEFT**"
+	}
+	"**5 SECONDS LEFT**"
+	{
+		"trans"		"**5 SECONDS LEFT**"
+	}
+	"**STAGE 1 is beaten. Moving on STAGE 2**"
+	{
+		"trans"		"**STAGE 1 is beaten. Moving on STAGE 2**"
+	}
+	"**AUTO-SLAYER ENABLED**"
+	{
+		"trans"		"**AUTO-SLAYER ENABLED**"
+	}
+	"**CURRENT MISSION: Get to the secret labaratory and find the reason of the strange interference**  "
+	{
+		"trans"		"**CURRENT MISSION: Get to the secret labaratory and find the reason of the strange interference**  "
+	}
+	"**A player picked up meatchunk(PUSHER／GRAVITY on STAGE 3 4 5)**"
+	{
+		"trans"		"**A player picked up meatchunk(PUSHER／GRAVITY on STAGE 3 4 5)**"
+	}
+	"THE LIFT 1 WILL LEAVE IN 4 SECONDS"
+	{
+		"trans"		"THE LIFT 1 WILL LEAVE IN 4 SECONDS"
+	}
+	"**A player picked up flash(ELECTRO／ULTIMA on STAGE 3 4 5)**"
+	{
+		"trans"		"**A player picked up flash(ELECTRO／ULTIMA on STAGE 3 4 5)**"
+	}
+	"**Hold for 5 seconds before the gates open**"
+	{
+		"trans"		"**Hold for 5 seconds before the gates open**"
+	}
+	"**Hold the place for 25 seconds**"
+	{
+		"trans"		"**Hold the place for 25 seconds**"
+	}
+	"***Break the spheres to escape***"
+	{
+		"trans"		"***Break the spheres to escape***"
+	}
+	"***OH NO WHO IS IT? WE MUST KILL IT!***"
+	{
+		"trans"		"***OH NO WHO IS IT? WE MUST KILL IT!***"
+	}
+	"**A player picked up a piece of flesh(WIND)**"
+	{
+		"trans"		"**A player picked up a piece of flesh(WIND)**"
+	}
+	"**Wait for others for 5 more seconds**"
+	{
+		"trans"		"**Wait for others for 5 more seconds**"
+	}
+	"**Hold 25 seconds**"
+	{
+		"trans"		"**Hold 25 seconds**"
+	}
+	"**Hurry! Fall back to the right side!!**"
+	{
+		"trans"		"**Hurry! Fall back to the right side!!**"
+	}
+	"**This is the last hold point**Hold them 25 seconds until door closes**"
+	{
+		"trans"		"**This is the last hold point**Hold them 25 seconds until door closes**"
+	}
+	"**There are zombies in. The level is failed.**"
+	{
+		"trans"		"**There are zombies in. The level is failed.**"
+	}
+	"**STAGE 2 is beaten. Moving on STAGE 3**"
+	{
+		"trans"		"**STAGE 2 is beaten. Moving on STAGE 3**"
+	}
+	"**CURRENT MISSION: Get to the X18 labaratory and find information how to get to Pripyat**  "
+	{
+		"trans"		"**CURRENT MISSION: Get to the X18 labaratory and find information how to get to Pripyat**  "
+	}
+	"**MISSION UPDATED: Stalkers left a bomb near the control room. Use it to make a way to X18**  "
+	{
+		"trans"		"**MISSION UPDATED: Stalkers left a bomb near the control room. Use it to make a way to X18**  "
+	}
+	"**We got a bomb. But whats this?**"
+	{
+		"trans"		"**We got a bomb. But whats this?**"
+	}
+	"**Bloodsucker have been defeated**"
+	{
+		"trans"		"**Bloodsucker have been defeated**"
+	}
+	"**Your items got more power**"
+	{
+		"trans"		"**Your items got more power**"
+	}
+	"**The bomb is planted. Wait until the debris break**"
+	{
+		"trans"		"**The bomb is planted. Wait until the debris break**"
+	}
+	"**OPENING THE GATES (10 SECONDS)**"
+	{
+		"trans"		"**OPENING THE GATES (10 SECONDS)**"
+	}
+	"**The door wil open in 10 seconds**"
+	{
+		"trans"		"**The door wil open in 10 seconds**"
+	}
+	"**Hold this way for 10 seconds**"
+	{
+		"trans"		"**Hold this way for 10 seconds**"
+	}
+	"**It's dead. Good job**"
+	{
+		"trans"		"**It's dead. Good job**"
+	}
+	"**1 PLAYER have to go to the command room to take documents**"
+	{
+		"trans"		"**1 PLAYER have to go to the command room to take documents**"
+	}
+	"**The documents are here!**We are too close!**"
+	{
+		"trans"		"**The documents are here!**We are too close!**"
+	}
+	"**Defend a bit**The door will explode in a few seconds!**"
+	{
+		"trans"		"**Defend a bit**The door will explode in a few seconds!**"
+	}
+	"**RUN RUN RUN!!!**"
+	{
+		"trans"		"**RUN RUN RUN!!!**"
+	}
+}

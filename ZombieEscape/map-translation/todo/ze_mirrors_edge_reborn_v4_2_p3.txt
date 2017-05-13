@@ -1,0 +1,215 @@
+"Chat"
+{
+	"<<< DIFFICULTY LEVEL : EASY >>>"
+	{
+		"trans"		"<<< DIFFICULTY LEVEL : EASY >>>"
+	}
+	"<<< THE FIRST TO PRESS THE BUTTON IN HELICOPTER WINS >>>"
+	{
+		"trans"		"<<< THE FIRST TO PRESS THE BUTTON IN HELICOPTER WINS >>>"
+	}
+	">>>Map created by Dark Arrow<<<"
+	{
+		"trans"		">>>Map created by Dark Arrow<<<"
+	}
+	">>>Edited first by [pF]Detonator<<<"
+	{
+		"trans"		">>>Edited first by [pF]Detonator<<<"
+	}
+	">>>Finished by Hallucinogenic Troll<<<"
+	{
+		"trans"		">>>Finished by Hallucinogenic Troll<<<"
+	}
+	">>>Map ported by www.dashijie.es<<<"
+	{
+		"trans"		">>>Map ported by www.dashijie.es<<<"
+	}
+	">>>Helicopter will leave in 3 seconds...<<<"
+	{
+		"trans"		">>>Helicopter will leave in 3 seconds...<<<"
+	}
+	">>>2<<<"
+	{
+		"trans"		">>>2<<<"
+	}
+	">>>1<<<"
+	{
+		"trans"		">>>1<<<"
+	}
+	">>>HELICOPTER IS LEAVING<<<"
+	{
+		"trans"		">>>HELICOPTER IS LEAVING<<<"
+	}
+	"<<< SUITCASE(S) MADE IT ON TO CHOPPER. WELL DONE YOU WIN >>>"
+	{
+		"trans"		"<<< SUITCASE(S) MADE IT ON TO CHOPPER. WELL DONE YOU WIN >>>"
+	}
+	"<<< Nuke launched>>>"
+	{
+		"trans"		"<<< Nuke launched>>>"
+	}
+	"<<< 4 >>>"
+	{
+		"trans"		"<<< 4 >>>"
+	}
+	"<<< 3 >>>"
+	{
+		"trans"		"<<< 3 >>>"
+	}
+	"<<< 2 >>>"
+	{
+		"trans"		"<<< 2 >>>"
+	}
+	"<<< 1 >>>"
+	{
+		"trans"		"<<< 1 >>>"
+	}
+	"<<< DIFFICULTY LEVEL : NORMAL >>>"
+	{
+		"trans"		"<<< DIFFICULTY LEVEL : NORMAL >>>"
+	}
+	"<<< ADJUST THE MUSIC VOLUME IN AUDIO SETTINGS >>>"
+	{
+		"trans"		"<<< ADJUST THE MUSIC VOLUME IN AUDIO SETTINGS >>>"
+	}
+	"<<< OBJECTIVE : RUN TO THE CHOPPER >>>"
+	{
+		"trans"		"<<< OBJECTIVE : RUN TO THE CHOPPER >>>"
+	}
+	"<<< Door Opens In 15 sec >>>"
+	{
+		"trans"		"<<< Door Opens In 15 sec >>>"
+	}
+	"<<< Door Opens In 10 sec >>>"
+	{
+		"trans"		"<<< Door Opens In 10 sec >>>"
+	}
+	"<<< Door Opens In 5 sec >>>"
+	{
+		"trans"		"<<< Door Opens In 5 sec >>>"
+	}
+	"<<< HOLD HERE FOR 20 SEC >>>"
+	{
+		"trans"		"<<< HOLD HERE FOR 20 SEC >>>"
+	}
+	"<<< RUN!!! >>>"
+	{
+		"trans"		"<<< RUN!!! >>>"
+	}
+	"<<< Hold For 25 secs >>>"
+	{
+		"trans"		"<<< Hold For 25 secs >>>"
+	}
+	"<<< 10 Seconds Remaining >>>"
+	{
+		"trans"		"<<< 10 Seconds Remaining >>>"
+	}
+	"<<< Heli leaves in 30 seconds >>>"
+	{
+		"trans"		"<<< Heli leaves in 30 seconds >>>"
+	}
+	"<<< Heli leaves in 20 seconds >>>"
+	{
+		"trans"		"<<< Heli leaves in 20 seconds >>>"
+	}
+	"<<< Heli leaves in 10 seconds >>>"
+	{
+		"trans"		"<<< Heli leaves in 10 seconds >>>"
+	}
+	"<<< Heli is leaving hop on >>>"
+	{
+		"trans"		"<<< Heli is leaving hop on >>>"
+	}
+	"<<< DIFFICULTY LEVEL : HARD >>>"
+	{
+		"trans"		"<<< DIFFICULTY LEVEL : HARD >>>"
+	}
+	"<<< OBJECTIVE : COLLECT 1 SUITCASE >>>"
+	{
+		"trans"		"<<< OBJECTIVE : COLLECT 1 SUITCASE >>>"
+	}
+	"<<< Door Opens In 20 sec >>>"
+	{
+		"trans"		"<<< Door Opens In 20 sec >>>"
+	}
+	"<<< SUITCASE DOOR OPENS IN 10 SECONDS >>>"
+	{
+		"trans"		"<<< SUITCASE DOOR OPENS IN 10 SECONDS >>>"
+	}
+	"<<< SUITCASE DOOR IS OPENING!>>>"
+	{
+		"trans"		"<<< SUITCASE DOOR IS OPENING!>>>"
+	}
+	"<<< SUITCASE COLLECTED! RUN! >>>"
+	{
+		"trans"		"<<< SUITCASE COLLECTED! RUN! >>>"
+	}
+	"<<< DIFFICULTY LEVEL : EXTREME >>>"
+	{
+		"trans"		"<<< DIFFICULTY LEVEL : EXTREME >>>"
+	}
+	"<<< OBJECTIVE: COLLECT 2 SUITCASES >>>"
+	{
+		"trans"		"<<< OBJECTIVE: COLLECT 2 SUITCASES >>>"
+	}
+	"<<< ZOMBIES ARE FASTER AND HAVE MORE HEALTH >>>"
+	{
+		"trans"		"<<< ZOMBIES ARE FASTER AND HAVE MORE HEALTH >>>"
+	}
+	"<<< Door Opens In 30 sec >>>"
+	{
+		"trans"		"<<< Door Opens In 30 sec >>>"
+	}
+	"<<< SUITCASE DOOR WILL OPEN IN 10 SECONDS>>>"
+	{
+		"trans"		"<<< SUITCASE DOOR WILL OPEN IN 10 SECONDS>>>"
+	}
+	"<<<SUITCASE DOOR IS OPENING! PRESS THE BUTTON>>>"
+	{
+		"trans"		"<<<SUITCASE DOOR IS OPENING! PRESS THE BUTTON>>>"
+	}
+	">>>Hold more 25 seconds<<<"
+	{
+		"trans"		">>>Hold more 25 seconds<<<"
+	}
+	"<<< DIFFICULTY LEVEL : GOD ／ IMPOSSIBLE>>>"
+	{
+		"trans"		"<<< DIFFICULTY LEVEL : GOD ／ IMPOSSIBLE>>>"
+	}
+	"<<< YOU DONT HAVE WALLS OR PROPS TO HELP WITH COVER >>>"
+	{
+		"trans"		"<<< YOU DONT HAVE WALLS OR PROPS TO HELP WITH COVER >>>"
+	}
+	"<<< DOOR WILL BREAK IN 20 SECONDS >>>"
+	{
+		"trans"		"<<< DOOR WILL BREAK IN 20 SECONDS >>>"
+	}
+	"<<< DOOR WILL BREAK IN 10 SECONDS >>>"
+	{
+		"trans"		"<<< DOOR WILL BREAK IN 10 SECONDS >>>"
+	}
+	"<<< DOOR WILL BREAK IN 5 SECONDS >>>"
+	{
+		"trans"		"<<< DOOR WILL BREAK IN 5 SECONDS >>>"
+	}
+	"<<< DOOR ITS BROKEN!! RUN!!!! >>>"
+	{
+		"trans"		"<<< DOOR ITS BROKEN!! RUN!!!! >>>"
+	}
+	"<<< Door Opens In 35 sec >>>"
+	{
+		"trans"		"<<< Door Opens In 35 sec >>>"
+	}
+	"<<< THE PATH IS BLOCKED!! WE NEED TO PRESS THE BUTTON!!"
+	{
+		"trans"		"<<< THE PATH IS BLOCKED!! WE NEED TO PRESS THE BUTTON!!"
+	}
+	"<<< DOOR IS FULLY OPENED!! PRESS THE BUTTON >>>"
+	{
+		"trans"		"<<< DOOR IS FULLY OPENED!! PRESS THE BUTTON >>>"
+	}
+	"<<< BUTTON IS PRESSED! RUN!! >>>"
+	{
+		"trans"		"<<< BUTTON IS PRESSED! RUN!! >>>"
+	}
+}

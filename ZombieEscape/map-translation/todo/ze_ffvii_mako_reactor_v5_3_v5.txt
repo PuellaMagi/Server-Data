@@ -1,0 +1,231 @@
+"Chat"
+{
+	"**** MAP BY: Hannibal[SPA] (Rafuron) ****"
+	{
+		"trans"		"**** MAP BY: Hannibal[SPA] (Rafuron) ****"
+	}
+	"** Server settings initialized **"
+	{
+		"trans"		"** Server settings initialized **"
+	}
+	"** Tips and Adjustements: Maese Danielot **"
+	{
+		"trans"		"** Tips and Adjustements: Maese Danielot **"
+	}
+	"** Optimization and Helping: Kaemon **"
+	{
+		"trans"		"** Optimization and Helping: Kaemon **"
+	}
+	"**CURRENT DIFFICULTY ** >> NORMAL << **"
+	{
+		"trans"		"**CURRENT DIFFICULTY ** >> NORMAL << **"
+	}
+	"*** MATERIAS AT LVL 1 ***"
+	{
+		"trans"		"*** MATERIAS AT LVL 1 ***"
+	}
+	"**Superior door opening in 30 seconds**"
+	{
+		"trans"		"**Superior door opening in 30 seconds**"
+	}
+	"** DOOR OPENS IN 5 s **"
+	{
+		"trans"		"** DOOR OPENS IN 5 s **"
+	}
+	"**Door opening in 10 seconds**"
+	{
+		"trans"		"**Door opening in 10 seconds**"
+	}
+	"**Door is opening in 10 seconds**"
+	{
+		"trans"		"**Door is opening in 10 seconds**"
+	}
+	"**Door is opening in 5**"
+	{
+		"trans"		"**Door is opening in 5**"
+	}
+	"**Door is open**"
+	{
+		"trans"		"**Door is open**"
+	}
+	"**Elevator is leaving in 10s**"
+	{
+		"trans"		"**Elevator is leaving in 10s**"
+	}
+	"** We have reached the core  ...**"
+	{
+		"trans"		"** We have reached the core  ...**"
+	}
+	"** ... Cloud is planting the bomb ** "
+	{
+		"trans"		"** ... Cloud is planting the bomb ** "
+	}
+	"** Bomb has been planted  **  Run **"
+	{
+		"trans"		"** Bomb has been planted  **  Run **"
+	}
+	"**Keep shooting ! We dont know what it can do **"
+	{
+		"trans"		"**Keep shooting ! We dont know what it can do **"
+	}
+	"** The monster is going to attack ! **"
+	{
+		"trans"		"** The monster is going to attack ! **"
+	}
+	"**Its dead ** Go go! Run upstairs ! **"
+	{
+		"trans"		"**Its dead ** Go go! Run upstairs ! **"
+	}
+	"** EXPLOSION IN 145 SECONDS **"
+	{
+		"trans"		"** EXPLOSION IN 145 SECONDS **"
+	}
+	"**  110 SECONDS LEFT **"
+	{
+		"trans"		"**  110 SECONDS LEFT **"
+	}
+	"**  100 SECONDS LEFT **"
+	{
+		"trans"		"**  100 SECONDS LEFT **"
+	}
+	"**  90 SECONDS LEFT **"
+	{
+		"trans"		"**  90 SECONDS LEFT **"
+	}
+	"** DOOR OPENS IN 35 S ** Go to the control room and try to open it earlier **"
+	{
+		"trans"		"** DOOR OPENS IN 35 S ** Go to the control room and try to open it earlier **"
+	}
+	"**  80 SECONDS LEFT **"
+	{
+		"trans"		"**  80 SECONDS LEFT **"
+	}
+	"**  70 SECONDS LEFT **"
+	{
+		"trans"		"**  70 SECONDS LEFT **"
+	}
+	"** Well done! Door is opening in 10 seconds **"
+	{
+		"trans"		"** Well done! Door is opening in 10 seconds **"
+	}
+	"**  60 SECONDS LEFT **"
+	{
+		"trans"		"**  60 SECONDS LEFT **"
+	}
+	"**  50 SECONDS LEFT **"
+	{
+		"trans"		"**  50 SECONDS LEFT **"
+	}
+	"**  40 SECONDS LEFT **"
+	{
+		"trans"		"**  40 SECONDS LEFT **"
+	}
+	"**  30 SECONDS LEFT **"
+	{
+		"trans"		"**  30 SECONDS LEFT **"
+	}
+	"**  20 SECONDS LEFT **"
+	{
+		"trans"		"**  20 SECONDS LEFT **"
+	}
+	"**Congratulations ! You beat NORMAL mode ! The challenge begins at HARD mode ! **"
+	{
+		"trans"		"**Congratulations ! You beat NORMAL mode ! The challenge begins at HARD mode ! **"
+	}
+	"*** MATERIAS AT LVL 2 ***"
+	{
+		"trans"		"*** MATERIAS AT LVL 2 ***"
+	}
+	"** Dont stop shooting ! Dont let him attack !"
+	{
+		"trans"		"** Dont stop shooting ! Dont let him attack !"
+	}
+	"*** MATERIAS AT LVL 3 ***"
+	{
+		"trans"		"*** MATERIAS AT LVL 3 ***"
+	}
+	"** A player has adquired ELECTRO MATERIA **"
+	{
+		"trans"		"** A player has adquired ELECTRO MATERIA **"
+	}
+	"** A player has adquired EARTH MATERIA **"
+	{
+		"trans"		"** A player has adquired EARTH MATERIA **"
+	}
+	"** A player has adquired ICE MATERIA **"
+	{
+		"trans"		"** A player has adquired ICE MATERIA **"
+	}
+	"** A player has adquired WIND MATERIA **"
+	{
+		"trans"		"** A player has adquired WIND MATERIA **"
+	}
+	"** ZOMBIES HAVE INFECTED THE BUNKER **"
+	{
+		"trans"		"** ZOMBIES HAVE INFECTED THE BUNKER **"
+	}
+	"** A player has adquired HEAL MATERIA **"
+	{
+		"trans"		"** A player has adquired HEAL MATERIA **"
+	}
+	"** A player has adquired GRAVITY MATERIA **"
+	{
+		"trans"		"** A player has adquired GRAVITY MATERIA **"
+	}
+	"** A player has adquired ULTIMA MATERIA **"
+	{
+		"trans"		"** A player has adquired ULTIMA MATERIA **"
+	}
+	"** RUN! **"
+	{
+		"trans"		"** RUN! **"
+	}
+	"**Nice done! You interrumped Sephiroth s attack**"
+	{
+		"trans"		"**Nice done! You interrumped Sephiroth s attack**"
+	}
+	"**  10 SECONDS LEFT **"
+	{
+		"trans"		"**  10 SECONDS LEFT **"
+	}
+	"** You did it ! You won at the HARDEST difficult ** Time to EXTREME mode ** Good luck ! ** "
+	{
+		"trans"		"** You did it ! You won at the HARDEST difficult ** Time to EXTREME mode ** Good luck ! ** "
+	}
+	"**  120 SECONDS LEFT **"
+	{
+		"trans"		"**  120 SECONDS LEFT **"
+	}
+	"** 30 seconds left **"
+	{
+		"trans"		"** 30 SECONDS LEFT **"
+	}
+	"** YOU DID IT! YOU WON EXTREME ! YOU OWN! ** "
+	{
+		"trans"		"** YOU DID IT! YOU WON EXTREME ! YOU OWN! ** "
+	}
+	"** A player has adquired FIRE MATERIA **"
+	{
+		"trans"		"** A player has adquired FIRE MATERIA **"
+	}
+	"** Bahamut is going to cast Mega Flare !! Shoot !! **"
+	{
+		"trans"		"** Bahamut is going to cast Mega Flare !! Shoot !! **"
+	}
+	"** BAHAMUT IS DEAD ** KEEP RUNNING **"
+	{
+		"trans"		"** BAHAMUT IS DEAD ** KEEP RUNNING **"
+	}
+	"** 10 SECONDS LEFT **"
+	{
+		"trans"		"** 10 SECONDS LEFT **"
+	}
+	"** YOU ARE THE MASTERS OF MAKO REACTOR! ** "
+	{
+		"trans"		"** YOU ARE THE MASTERS OF MAKO REACTOR! ** "
+	}
+	"** HUMAN VICTORY IN 3 MINUTES **"
+	{
+		"trans"		"** HUMAN VICTORY IN 3 MINUTES **"
+	}
+}

@@ -3,83 +3,84 @@
 	"*** Level 1 ***"
 	{
 		"command"		"zr_maoling_passround_credits 1.0;zr_maoling_passround_scores 5;zr_maoling_passround_points 10;"
-		"trans"		"[{darkred}Map{default}]  当前关卡:第一关"
+		"trans"		"当前关卡:第一关"
 	}
 	"* Turning music on *"
 	{
-		"trans"		"[{darkred}Map{default}]  播放地图音乐,可输入!stop停止.."
+		"trans"		"播放地图音乐,可输入!stop停止.."
 	}
 	"*** Player has picked up Explosive Mines ***"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家拾起了地雷..考虑好之后再放!"
+		"blocked"	"1"
+		"trans"		"有玩家拾起了地雷..考虑好之后再放!"
 	}
 	"*** Player has picked up Ammo Box ***"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家拾起了无限弹药..考虑好之后再放!"
+		"blocked"	"1"
+		"trans"		"有玩家拾起了无限弹药..考虑好之后再放!"
 	}
 	"*** Player has picked up Lego Maker ***"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家拾起了乐高积木.."
+		"trans"		"有玩家拾起了乐高积木.."
 	}
 	"*** Gate opening ***"
 	{
-		"trans"		"[{darkred}Map{default}]  大门已打开.."
+		"trans"		"大门已打开.."
 	}
 	"*** Player has picked up HandCannon ***"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家拾起了手炮.."
+		"blocked"	"1"
+		"trans"		"有玩家拾起了手炮.."
 	}
 	"*** Door opens in 35 seconds ***"
 	{
-		"countdown"		"35"
-		"trans"		"[{darkred}Map{default}]  门开启于35秒后.."
+		"trans"		"门开启于35秒后.."
 	}
 	"*** Player has picked up PushGun ***"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家拾起了驱逐枪.."
+		"blocked"	"1"
+		"trans"		"有玩家拾起了驱逐枪.."
 	}
 	"*** Door opens in 25 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  门开启于25秒后.."
+		"trans"		"门开启于25秒后.."
 	}
 	"*** 10 seconds left ***"
 	{
-		"trans"		"[{darkred}Map{default}]  10秒剩余.."
+		"trans"		"10秒剩余.."
 	}
 	"*** DOOR IS OPENING ***"
 	{
-		"trans"		"[{darkred}Map{default}]  大门正在开启.."
+		"trans"		"大门正在开启.."
 	}
 	"*** Door Opening in 25 seconds! ***"
 	{
-		"countdown"		"25"
-		"trans"		"[{darkred}Map{default}]  门开启于25秒后.."
+		"trans"		"门开启于25秒后.."
 	}
 	"*** FALL BACK ***"
 	{
-		"trans"		"[{darkred}Map{default}]  撤退.."
+		"trans"		"撤退.."
 	}
 	">>> Hold for 15 seconds! <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守15秒!"
+		"trans"		"坚守15秒!"
 	}
 	">>> Hold for a bit more! <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  再守一会!"
+		"trans"		"再守一会!"
 	}
 	"*** Teleporter Activates in 20 Seconds ***"
 	{
-		"countdown"		"20"
-		"trans"		"[{darkred}Map{default}]  传送点20秒后启动!"
+		"trans"		"传送点20秒后启动!"
 	}
 	"*** Door Opens in 30 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守30秒!"
-		"countdown"		"30"
+		"trans"		"坚守30秒!"
 	}
 	"*** Player has picked up Flamethrower ***"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家拾起了喷火器,请节省燃料!"
+		"blocked"	"1"
+		"trans"		"有玩家拾起了喷火器,请节省燃料!"
 	}
 	"*** OH NOOES ***"
 	{
@@ -87,177 +88,171 @@
 	}
 	"*** KILL RICK ASTLEY BEFORE HE RICKROLLS US! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  使点劲开枪干烂这个BOSS!"
+		"trans"		"使点劲开枪干烂这个BOSS!"
 	}
 	"*** RICK ASTLEY IS DEAD ***"
 	{
-		"trans"		"[{darkred}Map{default}]  BOSS大兄弟让我们干上天了"
+		"trans"		"BOSS大兄弟让我们干上天了"
 	}
 	"*** Hold here for 20 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守20秒!"
+		"trans"		"坚守20秒!"
 	}
 	"*** Hold 20 second for victory! ***"
 	{
-		"countdown"		"20"
-		"trans"		"[{darkred}Map{default}]  坚守20秒!"
+		"trans"		"坚守20秒!"
 	}
 	"*** Level Completed ***"
 	{
-		"trans"		"[{darkred}Map{default}]  第一关已完成"
+		"trans"		"第一关已完成"
 	}
 	"*** Level 2 ***"
 	{
 		"command"		"zr_maoling_passround_credits 1.0;zr_maoling_passround_scores 5;zr_maoling_passround_points 10;"
-		"trans"		"[{darkred}Map{default}]  当前关卡:第二关"
+		"trans"		"当前关卡:第二关"
 	}
 	"*** Player has picked up Heal ***"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家拾起了加血奥利奥"
+		"blocked"	"1"
+		"trans"		"有玩家拾起了加血奥利奥"
 	}
 	">>> Hold until the path is cleared! <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守到前方路面畅通!"
+		"trans"		"坚守到前方路面畅通!"
 	}
 	">>> GO GO GO <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  撤撤撤!"
+		"trans"		"撤撤撤!"
 	}
 	"*** Defend for 25 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守25秒!"
+		"trans"		"坚守25秒!"
 	}
 	">>> Hold until the door opens! <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守到门开!"
+		"trans"		"坚守到门开!"
 	}
 	"*** Right Door Opens in 10 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  左边门10秒后开启"
+		"trans"		"左边门10秒后开启"
 	}
 	"*** Left Door Opens in 10 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  右边门10秒后开启"
+		"trans"		"右边门10秒后开启"
 	}
 	"*** Success! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  机关成功触发!"
+		"trans"		"机关成功触发!"
 	}
 	"*** Doors open in 30 seconds ***"
 	{
-		"countdown"		"30"
-		"trans"		"[{darkred}Map{default}]  BOSS房门30秒后开启.."
+		"trans"		"BOSS房门30秒后开启.."
 	}
 	"*** The Boss is dead! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  BOSS扑街了!"
+		"trans"		"BOSS扑街了!"
 	}
 	">>> Hold The Zombies Until Door Opens <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守到门开.."
+		"trans"		"坚守到门开.."
 	}
 	"*** Elevator is Leaving in 20 seconds ***"
 	{
-		"countdown"		"20"
-		"trans"		"[{darkred}Map{default}]  电梯20秒后离开.."
+		"trans"		"电梯20秒后离开.."
 	}
 	"*** Level 3 ***"
 	{
 		"command"		"zr_maoling_passround_credits 1.0;zr_maoling_passround_scores 5;zr_maoling_passround_points 10;"
-		"trans"		"[{darkred}Map{default}]  当前关卡:第三关"
+		"trans"		"当前关卡:第三关"
 	}
 	">>> Hold until the path is clear! <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守到前路畅通!"
+		"trans"		"坚守到前路畅通!"
 	}
 	"*** Ladders open in 30 seconds ***"
 	{
-		"countdown"		"30"
-		"trans"		"[{darkred}Map{default}]  梯子30秒后开放"
+		"trans"		"梯子30秒后开放"
 	}
 	"*** HOLD Until the path is clear ***"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守到前路畅通!"
+		"trans"		"坚守到前路畅通!"
 	}
 	"*** GO GO GO ***"
 	{
-		"trans"		"[{darkred}Map{default}]  撤撤撤!"
+		"trans"		"撤撤撤!"
 	}
 	"*** Door opens in 10 seconds ***"
 	{
-		"countdown"		"10"
-		"trans"		"[{darkred}Map{default}]  门开于10秒后"
+		"trans"		"门开于10秒后"
 	}
 	"*** Hold here for 30 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守30秒!"
+		"trans"		"坚守30秒!"
 	}
 	"*** Player has picked up Grenade Maker ***"
 	{
-		"trans"		"[{darkred}Map{default}]  有玩家拾起了手雷制造机"
+		"blocked"	"1"
+		"trans"		"有玩家拾起了手雷制造机"
 	}
 	"*** Door Opens in 5 seconds ***"
 	{
-		"countdown"		"5"
-		"trans"		"[{darkred}Map{default}]  门开于5秒后"
+		"trans"		"门开于5秒后"
 	}
 	"*** Door Opens in 4 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  门开于4秒后"
+		"trans"		"门开于4秒后"
 	}
 	"*** Door Opens in 3 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  门开于3秒后"
+		"trans"		"门开于3秒后"
 	}
 	"*** Door Opens in 2 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  门开于2秒后"
+		"trans"		"门开于2秒后"
 	}
 	"*** Door Opens in 1 second ***"
 	{
-		"trans"		"[{darkred}Map{default}]  门开于1秒后"
+		"trans"		"门开于1秒后"
 	}
 	"*** The Ship Thingy is Destroyed! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  BOSS已被击败!"
+		"trans"		"BOSS已被击败!"
 	}
 	"*** Defend for 25 seconds! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  守住25秒"
+		"trans"		"守住25秒"
 	}
 	"*** Tram Leaves in 35 seconds ***"
 	{
-		"countdown"		"35"
-		"trans"		"[{darkred}Map{default}]  索道离开于35秒后,人多守一波再走!"
+		"trans"		"索道离开于35秒后,人多守一波再走!"
 	}
 	"*** 15 seconds left ***"
 	{
-		"trans"		"[{darkred}Map{default}]  15秒剩余"
+		"trans"		"15秒剩余"
 	}
 	"*** 5 seconds left ***"
 	{
-		"trans"		"[{darkred}Map{default}]  5秒剩余"
+		"trans"		"5秒剩余"
 	}
 	"*** Tram is leaving ***"
 	{
-		"trans"		"[{darkred}Map{default}]  索道已经启动"
+		"trans"		"索道已经启动"
 	}
 	"** Turning on:... **"
 	{
-		"trans"		"[{darkred}Map{default}]  请注意:"
+		"trans"		"请注意:"
 	}
 	"** MEGAULTRATERRIBLINATOR DESTRUCTIVE MODE **"
 	{
-		"trans"		"[{darkred}Map{default}]  当前关卡自带天谴,谨防天谴劈人!"
+		"trans"		"当前关卡自带天谴,谨防天谴劈人!"
 	}
 	"*** Door Opening in 30 seconds! ***"
 	{
-		"countdown"		"30"
-		"trans"		"[{darkred}Map{default}]  门开于30秒后"
+		"trans"		"门开于30秒后"
 	}
 	"*** OH NO ITS AN EVIL ROBO BOSS ***"
 	{
-		"trans"		"[{darkred}Map{default}]  别刷僵尸了,快干烂这个BOSS!"
+		"trans"		"别刷僵尸了,快干烂这个BOSS!"
 	}
 	"*** KILL IT BEFORE HE TURNS US ALL INTO ROBOTS ***"
 	{
@@ -265,82 +260,82 @@
 	}
 	"*** YOU HAVE DEFEATED THE ROBO BOSS ***"
 	{
-		"trans"		"[{darkred}Map{default}]  BOSS已被击败!"
+		"trans"		"BOSS已被击败!"
 	}
 	"*** TIME TO RUN NOW ***"
 	{
-		"trans"		"[{darkred}Map{default}]  是时候跑路了!"
+		"trans"		"是时候跑路了!"
 	}
 	"*** Zombie on the tram ***"
 	{
-		"trans"		"[{darkred}Map{default}]  僵尸冲进了索道"
+		"trans"		"僵尸冲进了索道"
 	}
 	"*** You Fail ***"
 	{
-		"trans"		"[{darkred}Map{default}]  菜B们这把你们输了!"
+		"trans"		"菜B们这把你们输了!"
 	}
 	"*** Zombie at the end YOU FAIL ***"
 	{
-		"trans"		"[{darkred}Map{default}]  僵尸闯进了终点!你们输了!"
+		"trans"		"僵尸闯进了终点!你们输了!"
 	}
 	"*** You got both items to the end ***"
 	{
-		"trans"		"[{darkred}Map{default}]  所有神器都活到了终点"
+		"trans"		"所有神器都活到了终点"
 	}
 	"*** Defending Will be easier Now! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  守住不成问题"
+		"trans"		"守住不成问题"
 	}
 	"*** Zombie in elevator You Fail ***"
 	{
-		"trans"		"[{darkred}Map{default}]  僵尸冲进了电梯!你们输了!"
+		"trans"		"僵尸冲进了电梯!你们输了!"
 	}
 	"*** Ladders open in 25 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  梯子25秒后开放"
+		"trans"		"梯子25秒后开放"
 	}
 	"*** Door opens in 20 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  门开于20秒后"
+		"trans"		"门开于20秒后"
 	}
 	"*** Hold here for 25 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  坚守25秒"
+		"trans"		"坚守25秒"
 	}
 	">>> THE EVIL EYE IS DEAD <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  幕后BOSS挂了"
+		"trans"		"幕后BOSS挂了"
 	}
 	">>> NOW IS THE TIME TO ESCAPE FROM THIS FORSAKEN PLACE <<<"
 	{
-		"trans"		"[{darkred}Map{default}]  是时候跑路了"
+		"trans"		"是时候跑路了"
 	}
 	"*** Tram Leaves in 45 seconds ***"
 	{
-		"trans"		"[{darkred}Map{default}]  索道离开于45秒后"
+		"trans"		"索道离开于45秒后"
 	}
 	"*** 25 seconds left ***"
 	{
-		"trans"		"[{darkred}Map{default}]  25秒剩余"
+		"trans"		"25秒剩余"
 	}
 	"*** OH NO.. ***"
 	{
-		"trans"		"[{darkred}Map{default}]  MDZZ?"
+		"trans"		"MDZZ?"
 	}
 	"*** Nice Job You Have Beaten FapEscape! ***"
 	{
-		"trans"		"[{darkred}Map{default}]  你们干烂了这张地图!"
+		"trans"		"你们干烂了这张地图!"
 	}
 	"*** ZM ***"
 	{
-		"trans"		"[{darkred}Map{default}]  当前关卡:ZM"
+		"trans"		"当前关卡:ZM"
 	}
 	"*** Survive for 3 Minutes ***"
 	{
-		"trans"		"[{darkred}Map{default}]  找个地方守到核爆吧"
+		"trans"		"找个地方守到核爆吧"
 	}
 	"*** YOU SUCK ***"
 	{
-		"trans"		"[{darkred}Map{default}] *** YOU SUCK ***"
+		"trans"		"*** YOU SUCK ***"
 	}
 }

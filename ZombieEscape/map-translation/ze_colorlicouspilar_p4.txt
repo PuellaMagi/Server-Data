@@ -2,42 +2,6 @@
 {
 	"***Defend for 20secs***"
 	{
-		"trans"		"[{darkred}Map{default}] ***Defend for 20secs***"
-	}
-	"***Prefinal Hold 50secs***"
-	{
-		"trans"		"[{darkred}Map{default}] ***Prefinal Hold 50secs***"
-	}
-	"***Zombies teleporting in 15 secs. Get ready.***"
-	{
-		"trans"		"[{darkred}Map{default}] ***Zombies teleporting in 15 secs. Get ready.***"
-	}
-	"***Zombies teleporting in 10 secs!***"
-	{
-		"trans"		"[{darkred}Map{default}] ***Zombies teleporting in 10 secs!***"
-	}
-	"***Zombies teleporting in 5 secs!!!***"
-	{
-		"trans"		"[{darkred}Map{default}] ***Zombies teleporting in 5 secs!!!***"
-	}
-	"***ZOMBIES TELEPORTED! COVER ALL THREE SIDES!***"
-	{
-		"trans"		"[{darkred}Map{default}] ***ZOMBIES TELEPORTED! COVER ALL THREE SIDES!***"
-	}
-	"***RUUUUUUUUUN!!!***"
-	{
-		"trans"		"[{darkred}Map{default}] ***RUUUUUUUUUN!!!***"
-	}
-	"***RUN INTO THE HOLE!***"
-	{
-		"trans"		"[{darkred}Map{default}] ***RUN INTO THE HOLE!***"
-	}
-	"***Wait some more secs***"
-	{
-		"trans"		"[{darkred}Map{default}] ***Wait some more secs***"
-	}
-	"***Btw. Unlimited ammo time :3***"
-	{
-		"trans"		"[{darkred}Map{default}] ***Btw. Unlimited ammo time :3***"
+		"trans"		"***防守20秒***"
 	}
 }

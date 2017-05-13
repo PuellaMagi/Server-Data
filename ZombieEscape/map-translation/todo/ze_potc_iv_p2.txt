@@ -1,0 +1,31 @@
+"Chat"
+{
+	">>>LIGHT HAS BEEN TAKEN<<<"
+	{
+		"trans"		">>>LIGHT HAS BEEN TAKEN<<<"
+	}
+	">>  TELEPORTING everyone to jungle<<"
+	{
+		"trans"		">>  TELEPORTING everyone to jungle<<"
+	}
+	">> IMPORTANT!!!!!!!! <<"
+	{
+		"trans"		">> IMPORTANT!!!!!!!! <<"
+	}
+	">>  TELEPORTING everyone to fountain of youth<<"
+	{
+		"trans"		">>  TELEPORTING everyone to fountain of youth<<"
+	}
+	">>  5 MORE SECONDS<<"
+	{
+		"trans"		">>  5 MORE SECONDS<<"
+	}
+	">> DEFEND FOR 30 SEC<<"
+	{
+		"trans"		">> DEFEND FOR 30 SEC<<"
+	}
+	">>LEVEL: EXTREME<<"
+	{
+		"trans"		">>LEVEL: EXTREME<<"
+	}
+}
