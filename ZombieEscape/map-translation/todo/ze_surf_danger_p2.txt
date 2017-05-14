@@ -1,8 +1,20 @@
 "Chat"
 {
+	">>>Respawn wall break in 20 sec<<<"
+	{
+		"trans"		">>>Respawn wall break in 20 sec<<<"
+	}
 	">>>Map by Explay<<<"
 	{
 		"trans"		">>>Map by Explay<<<"
+	}
+	">>>Visit www.nextwin.ru<<<"
+	{
+		"trans"		">>>Visit www.nextwin.ru<<<"
+	}
+	">>>Defend this place 1 min 15 sec<<<"
+	{
+		"trans"		">>>Defend this place 1 min 15 sec<<<"
 	}
 	">>>Door open in 5 sec<<<"
 	{
@@ -12,9 +24,17 @@
 	{
 		"trans"		">>>This song is Immediate Music Imperativa<<<"
 	}
+	">>>Teleporting all humans to ZM defend...<<<"
+	{
+		"trans"		">>>Teleporting all humans to ZM defend...<<<"
+	}
 	">>>Teleporting all Zombies<<<"
 	{
 		"trans"		">>>Teleporting all Zombies<<<"
+	}
+	">>>Teleporting everyone in 30 sec<<<"
+	{
+		"trans"		">>>Teleporting everyone in 30 sec<<<"
 	}
 	">>>Teleporting everyone in 5 sec<<<"
 	{
@@ -24,21 +44,65 @@
 	{
 		"trans"		">>>If you cant pass SURF try to pass XC level<<<"
 	}
+	">>>TIP: If you will pass XC level You receive 5 frags<<<"
+	{
+		"trans"		">>>TIP: If you will pass XC level You receive 5 frags<<<"
+	}
+	">>>TIP: If you will pass SURF level You receive 10 frags<<<"
+	{
+		"trans"		">>>TIP: If you will pass SURF level You receive 10 frags<<<"
+	}
+	">>>Door will open in 30 sec<<<"
+	{
+		"trans"		">>>Door will open in 30 sec<<<"
+	}
 	">>>Teleporting all humans...<<<"
 	{
 		"trans"		">>>Teleporting all humans...<<<"
+	}
+	">>>Teleporting all Zombies...<<<"
+	{
+		"trans"		">>>Teleporting all Zombies...<<<"
+	}
+	">>>Door will Open in 3 sec. PREPARE TO RUN<<<"
+	{
+		"trans"		">>>Door will Open in 3 sec. PREPARE TO RUN<<<"
 	}
 	">>>This song is Two step from hell Dragon Rider<<<"
 	{
 		"trans"		">>>This song is Two step from hell Dragon Rider<<<"
 	}
+	">>>Teleport enable in 20 sec<<<"
+	{
+		"trans"		">>>Teleport enable in 20 sec<<<"
+	}
 	">>>If you can pass final SURF level you receive 10 of frags<<<"
 	{
 		"trans"		">>>If you can pass final SURF level you receive 10 of frags<<<"
 	}
+	">>>Final Door open in 20 sec<<<"
+	{
+		"trans"		">>>Final Door open in 20 sec<<<"
+	}
 	">>>OK Final door is open : 1 player must go to control room and launch nuke<<< "
 	{
 		"trans"		">>>OK Final door is open : 1 player must go to control room and launch nuke<<< "
+	}
+	">>>Self Destruction Actived<<<"
+	{
+		"trans"		">>>Self Destruction Actived<<<"
+	}
+	">>>Helidoor is opening<<<"
+	{
+		"trans"		">>>Helidoor is opening<<<"
+	}
+	">>>TIP:Cargo is open : you can defend in the helicopter"
+	{
+		"trans"		">>>TIP:Cargo is open : you can defend in the helicopter"
+	}
+	">>>Heli Leaving in 12 sec. Hurry!!!<<<"
+	{
+		"trans"		">>>Heli Leaving in 12 sec. Hurry!!!<<<"
 	}
 	">>>Oh NO! Barrels with explosive is BURN! Its Will blow up it is Some seconds!<<<"
 	{

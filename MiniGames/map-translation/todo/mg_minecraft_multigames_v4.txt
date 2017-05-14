@@ -1,0 +1,199 @@
+"Chat"
+{
+	"[Map] Map by Blogger(Dog)"
+	{
+		"trans"		"[Map] Map by Blogger(Dog)"
+	}
+	"[Map] Special thanks to DexKekcuk #13"
+	{
+		"trans"		"[Map] Special thanks to DexKekcuk #13"
+	}
+	"[Music] Melanie Martinez - Sippy Cup "
+	{
+		"trans"		"[Music] Melanie Martinez - Sippy Cup "
+	}
+	"[Map]  AFK TIMER in 30 sec"
+	{
+		"trans"		"[Map]  AFK TIMER in 30 sec"
+	}
+	"[MAP] AWP"
+	{
+		"trans"		"[Map] Awp"
+	}
+	"[Music] minence & Supermans Feinde - Night Goes On (feat. Q'AILA)"
+	{
+		"trans"		"[Music] minence & Supermans Feinde - Night Goes On (feat. Q'AILA)"
+	}
+	"[Map] Secret room Enable"
+	{
+		"trans"		"[Map] Secret room Enable"
+	}
+	"[Music] Aero Chord - 4U"
+	{
+		"trans"		"[Music] Aero Chord - 4U"
+	}
+	"[Map] Defends"
+	{
+		"trans"		"[Map] Defends"
+	}
+	"[Map] Secret room Disable"
+	{
+		"trans"		"[Map] Secret room Disable"
+	}
+	"[Map] 25000 HP "
+	{
+		"trans"		"[Map] 25000 HP "
+	}
+	"[Map] Train 1 Break"
+	{
+		"trans"		"[Map] Train 1 Break"
+	}
+	"[Map] Train 2 Break"
+	{
+		"trans"		"[Map] Train 2 Break"
+	}
+	"[Map] People winner"
+	{
+		"trans"		"[Map] People winner"
+	}
+	"[Map] Thank you played on this map"
+	{
+		"trans"		"[Map] Thank you played on this map"
+	}
+	"[Music] Vanic X K.Flay - Can't Sleep"
+	{
+		"trans"		"[Music] Vanic X K.Flay - Can't Sleep"
+	}
+	"[MAP] SURVIVAL"
+	{
+		"trans"		"[Map] Survival"
+	}
+	"[Time] 3 minute before the knifes"
+	{
+		"trans"		"[Time] 3 minute before the knifes"
+	}
+	"[Time] 2 minute before the knifes"
+	{
+		"trans"		"[Time] 2 minute before the knifes"
+	}
+	"[Time] 1 minute before the knifes"
+	{
+		"trans"		"[Time] 1 minute before the knifes"
+	}
+	"[Map] Arena fight"
+	{
+		"trans"		"[Map] Arena fight"
+	}
+	"[Map] Random weapon..."
+	{
+		"trans"		"[Map] Random weapon..."
+	}
+	"[Map] TNT Sirvival"
+	{
+		"trans"		"[Map] TNT Sirvival"
+	}
+	"[Music] Zedd ft. Foxes - Clarity (Vicetone Remix)"
+	{
+		"trans"		"[Music] Zedd ft. Foxes - Clarity (Vicetone Remix)"
+	}
+	"[Map] Sky Knife"
+	{
+		"trans"		"[Map] Sky Knife"
+	}
+	"[Map] Level made by DexKekcuk #13"
+	{
+		"trans"		"[Map] Level made by DexKekcuk #13"
+	}
+	"[Creeper] BOOOMMM!!!"
+	{
+		"trans"		"[Creeper] BOOOMMM!!!"
+	}
+	"[Security] Step away from the box, you do not have the right to take the gun "
+	{
+		"trans"		"[Security] Step away from the box, you do not have the right to take the gun "
+	}
+	"[Security] Stand back or be killed "
+	{
+		"trans"		"[Security] Stand back or be killed "
+	}
+	"[Map] Long Jump"
+	{
+		"trans"		"[Map] Long Jump"
+	}
+	"[Map] Hunger Games Labyrinth"
+	{
+		"trans"		"[Map] Hunger Games Labyrinth"
+	}
+	"[Map] 30 Seconds Before the battle"
+	{
+		"trans"		"[Map] 30 Seconds Before the battle"
+	}
+	"[Map] 20 Seconds Before the battle"
+	{
+		"trans"		"[Map] 20 Seconds Before the battle"
+	}
+	"[Map] 10 Seconds Before the battle"
+	{
+		"trans"		"[Map] 10 Seconds Before the battle"
+	}
+	"[Map] 5 Seconds Before the battle"
+	{
+		"trans"		"[Map] 5 Seconds Before the battle"
+	}
+	"[Map] Battle"
+	{
+		"trans"		"[Map] Battle"
+	}
+	"[Music] Krewella - Alive"
+	{
+		"trans"		"[Music] Krewella - Alive"
+	}
+	"[Map] Spawn fight"
+	{
+		"trans"		"[Map] Spawn Fight"
+	}
+	"[Map] Random weapon"
+	{
+		"trans"		"[Map] Random weapon"
+	}
+	"[Map] Weapon P90"
+	{
+		"trans"		"[Map] Weapon P90"
+	}
+	"[Map] Random game..."
+	{
+		"trans"		"[Map] Random game..."
+	}
+	"[Map] AFK TIMER in 10 sec"
+	{
+		"trans"		"[Map] AFK TIMER in 10 sec"
+	}
+	"[Music] Tritonal - Getaway"
+	{
+		"trans"		"[Music] Tritonal - Getaway"
+	}
+	"[Map] AFK TIMER activated"
+	{
+		"trans"		"[Map] AFK TIMER activated"
+	}
+	"[Map] RANDOM GAME WILL BE CHOSEN"
+	{
+		"trans"		"[Map] RANDOM GAME WILL BE CHOSEN"
+	}
+	"[Map] Boss Battle"
+	{
+		"trans"		"[Map] Boss Battle"
+	}
+	"[Map] 25000HP"
+	{
+		"trans"		"[Map] 25000HP"
+	}
+	"[Time] 4 minute 30 seconds before the arrival of the main ghast"
+	{
+		"trans"		"[Time] 4 minute 30 seconds before the arrival of the main ghast"
+	}
+	"[Time] 3 minute 30 seconds before the arrival of the main ghast"
+	{
+		"trans"		"[Time] 3 minute 30 seconds before the arrival of the main ghast"
+	}
+}

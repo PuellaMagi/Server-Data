@@ -2,7 +2,7 @@
 {
 	">>>BREAK CRATES AND GET ON IT TO ESCAPE FROM MOTHER ZOMBIE<<<"
 	{
-		"trans"		">>>易碎木箱大逃亡 作者LeGrem 翻译DohiCircle<<<"
+		"trans"		">>><易碎木箱大逃亡> 作者LeGrem 翻译DohiCircle<<<"
 	}
 	">>>MAP BY LeGrem<<<"
 	{

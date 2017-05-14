@@ -1,0 +1,211 @@
+"Chat"
+{
+	">> 9 MINUTES TO ESCAPE <<"
+	{
+		"trans"		">> 9 MINUTES TO ESCAPE <<"
+	}
+	">> DOOR OPENING IN 10 SECONDS <<"
+	{
+		"trans"		">> DOOR OPENING IN 10 SECONDS <<"
+	}
+	">> FOREST PATH: RESIST 20 SECONDS"
+	{
+		"trans"		">> FOREST PATH: RESIST 20 SECONDS"
+	}
+	">> BUNKER DOORS OPENING IN 15 SECONDS <<"
+	{
+		"trans"		">> BUNKER DOORS OPENING IN 15 SECONDS <<"
+	}
+	">> FOREST PATH: 5 SECONDS <<"
+	{
+		"trans"		">> FOREST PATH: 5 SECONDS <<"
+	}
+	">> BUNKER DOORS CLOSING IN 5 SECONDS <<"
+	{
+		"trans"		">> BUNKER DOORS CLOSING IN 5 SECONDS <<"
+	}
+	">> BUNKER PATH: BARRICADE AND RESIST 40 SECONDS <<"
+	{
+		"trans"		">> BUNKER PATH: BARRICADE AND RESIST 40 SECONDS <<"
+	}
+	">> DOORS WILL OPEN AGAIN IN 10 SECONDS <<"
+	{
+		"trans"		">> DOORS WILL OPEN AGAIN IN 10 SECONDS <<"
+	}
+	">> FOREST PATH: RETREAT! <<"
+	{
+		"trans"		">> FOREST PATH: RETREAT! <<"
+	}
+	">> BUNKER PATH: 20 SECONDS LEFT <<"
+	{
+		"trans"		">> BUNKER PATH: 20 SECONDS LEFT <<"
+	}
+	">> BUNKER PATH: 5 SECONDS <<"
+	{
+		"trans"		">> BUNKER PATH: 5 SECONDS <<"
+	}
+	">> BUNKER PATH: FALL BACK! <<"
+	{
+		"trans"		">> BUNKER PATH: FALL BACK! <<"
+	}
+	">> FOREST PATH: RESIST 25 SECONDS <<"
+	{
+		"trans"		">> FOREST PATH: RESIST 25 SECONDS <<"
+	}
+	">> BUNKER PATH: HOLD THE CAVE FOR 20 SECONDS <<"
+	{
+		"trans"		">> BUNKER PATH: HOLD THE CAVE FOR 20 SECONDS <<"
+	}
+	">> FOREST PATH: 5 SECONDS LEFT <<"
+	{
+		"trans"		">> FOREST PATH: 5 SECONDS LEFT <<"
+	}
+	">> FOREST PATH: FALL BACK! <<"
+	{
+		"trans"		">> FOREST PATH: FALL BACK! <<"
+	}
+	">> BUNKER PATH: 5 SECONDS! <<"
+	{
+		"trans"		">> BUNKER PATH: 5 SECONDS! <<"
+	}
+	">> BUNKER PATH: RETREAT! <<"
+	{
+		"trans"		">> BUNKER PATH: RETREAT! <<"
+	}
+	">>MAIN DOOR OPENING IN 15 SECONDS <<"
+	{
+		"trans"		">>MAIN DOOR OPENING IN 15 SECONDS <<"
+	}
+	">> MAIN DOOR CLOSING IN 3 SECONDS <<"
+	{
+		"trans"		">> MAIN DOOR CLOSING IN 3 SECONDS <<"
+	}
+	">> MAIN DOOR WILL OPEN AGAIN IN 5 SECONDS <<"
+	{
+		"trans"		">> MAIN DOOR WILL OPEN AGAIN IN 5 SECONDS <<"
+	}
+	">> DOOR OPENING IN 5 SECONDS <<"
+	{
+		"trans"		">> DOOR OPENING IN 5 SECONDS <<"
+	}
+	">> DOOR CLOSING IN 3 SECONDS <<"
+	{
+		"trans"		">> DOOR CLOSING IN 3 SECONDS <<"
+	}
+	">> DOOR OPENING AGAIN IN 5 SECONDS <<"
+	{
+		"trans"		">> DOOR OPENING AGAIN IN 5 SECONDS <<"
+	}
+	">> HOLD THE RIVER FOR 25 SECONDS <<"
+	{
+		"trans"		">> HOLD THE RIVER FOR 25 SECONDS <<"
+	}
+	">> 10 SECONDS <<"
+	{
+		"trans"		">> 10 SECONDS <<"
+	}
+	">> 5 SECONDS <<"
+	{
+		"trans"		">> 5 SECONDS <<"
+	}
+	">> RETREAT TO A SAFER SPOT! <<"
+	{
+		"trans"		">> RETREAT TO A SAFER SPOT! <<"
+	}
+	">> FIND A WAY ON TO THE ROOF <<"
+	{
+		"trans"		">> FIND A WAY ON TO THE ROOF <<"
+	}
+	">> CALLING FOR HELP <<"
+	{
+		"trans"		">> CALLING FOR HELP <<"
+	}
+	">> HOLD THE ROOF UNTIL HELP ARRIVES <<"
+	{
+		"trans"		">> HOLD THE ROOF UNTIL HELP ARRIVES <<"
+	}
+	">> CHOPPER IS ON THE WAY! << "
+	{
+		"trans"		">> CHOPPER IS ON THE WAY! << "
+	}
+	">> READ THE CHAT MESSAGES!!!! <<"
+	{
+		"trans"		">> READ THE CHAT MESSAGES!!!! <<"
+	}
+	">> ZOMBIES WILL BE TELEPORTED IN 10 SECONDS <<"
+	{
+		"trans"		">> ZOMBIES WILL BE TELEPORTED IN 10 SECONDS <<"
+	}
+	">> CHOPPER IS READY TO PICK YOU UP FROM THE OLD SHED << "
+	{
+		"trans"		">> CHOPPER IS READY TO PICK YOU UP FROM THE OLD SHED << "
+	}
+	">> WAIT FOR ZOMBIES TO BE TELEPORTED << "
+	{
+		"trans"		">> WAIT FOR ZOMBIES TO BE TELEPORTED << "
+	}
+	">> 3 << "
+	{
+		"trans"		">> 3 << "
+	}
+	">> 2 << "
+	{
+		"trans"		">> 2 << "
+	}
+	">> 1 << "
+	{
+		"trans"		">> 1 << "
+	}
+	">> ZOMBIES HAVE BEEN TELEPORTED. RUN!! FOLLOW THE LIGHTS <<"
+	{
+		"trans"		">> ZOMBIES HAVE BEEN TELEPORTED. RUN!! FOLLOW THE LIGHTS <<"
+	}
+	">> DONT FALL BEHIND! <<"
+	{
+		"trans"		">> DONT FALL BEHIND! <<"
+	}
+	">> CHOPPER LEAVING IN 30 SECONDS <<"
+	{
+		"trans"		">> CHOPPER LEAVING IN 30 SECONDS <<"
+	}
+	">> MASS ZOMBIE TELEPORT IN 10 SECONDS <<"
+	{
+		"trans"		">> MASS ZOMBIE TELEPORT IN 10 SECONDS <<"
+	}
+	">> CHOPPER DOORS OPENING <<"
+	{
+		"trans"		">> CHOPPER DOORS OPENING <<"
+	}
+	">> CHOPPER LEAVING IN 5 SECONDS <<"
+	{
+		"trans"		">> CHOPPER LEAVING IN 5 SECONDS <<"
+	}
+	">> ZOMBIE REPELENT PICKED UP (ONE USE) <<"
+	{
+		"trans"		">> ZOMBIE REPELENT PICKED UP (ONE USE) <<"
+	}
+	">> CHOPPER HAS LEFT <<"
+	{
+		"trans"		">> CHOPPER HAS LEFT <<"
+	}
+	"***Map ported by Et3rnity***"
+	{
+		"trans"		"***Map ported by Et3rnity***"
+	}
+	">> 1 MINUTE TO ESCAPE <<"
+	{
+		"trans"		">> 1 MINUTE TO ESCAPE <<"
+	}
+	">> THE CHOPPER MUST TAKE OFF IN THE NEXT 30 SECONDS TO AVOID ROUND LOSS <<"
+	{
+		"trans"		">> THE CHOPPER MUST TAKE OFF IN THE NEXT 30 SECONDS TO AVOID ROUND LOSS <<"
+	}
+	">> 10 SECONDS TO ESCAPE <<"
+	{
+		"trans"		">> 10 SECONDS TO ESCAPE <<"
+	}
+	">> ROUND OVER <<"
+	{
+		"trans"		">> ROUND OVER <<"
+	}
+}

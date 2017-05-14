@@ -1,5 +1,9 @@
 "Chat"
 {
+	"** MAP BY Hannibal [SPA] (Rafuron) **"
+	{
+		"trans"		"** MAP BY HANNIBAL [SPA] (Rafuron) **"
+	}
 	"**Door will close in 30 s  ** Get safe into Helms Deep!**"
 	{
 		"trans"		"**Door will close in 30 s  ** Get safe into Helms Deep!**"
@@ -8,20 +12,20 @@
 	{
 		"trans"		"** The door is closing in 10s **"
 	}
-	"** MAP BY Hannibal [SPA] (Rafuron) **"
-	{
-		"trans"		"** MAP BY HANNIBAL [SPA] (Rafuron) **"
-	}
 	"**Show them no mercy...**"
 	{
 		"trans"		"**Show them no mercy...**"
 	}
-	"** They have broken through! The castle is breached! Retreat! Get them inside! Into the Keep!** "
+	"** Get safe in the fort! **"
 	{
-		"trans"		"** They have broken through! The castle is breached! Retreat! Get them inside! Into the Keep!** "
+		"trans"		"** Get safe in the fort! **"
 	}
-	"**Sun is rising.**"
+	"** Gate zone is out of control ** retreat NOW!**"
 	{
-		"trans"		"**Sun is rising.**"
+		"trans"		"** Gate zone is out of control ** retreat NOW!**"
+	}
+	"**Kill the remaining zombies of the room!**"
+	{
+		"trans"		"**Kill the remaining zombies of the room!**"
 	}
 }

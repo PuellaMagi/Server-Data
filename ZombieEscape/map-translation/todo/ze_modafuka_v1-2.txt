@@ -12,9 +12,9 @@
 	{
 		"trans"		"***Cover while door is closing !!***"
 	}
-	"***Door is closing : Stairs are unlocked and Zombies can now break the wall !! ***"
+	"*** The Stairs are now in fire !! ***"
 	{
-		"trans"		"***Door is closing : Stairs are unlocked and Zombies can now break the wall !! ***"
+		"trans"		"*** The Stairs are now in fire !! ***"
 	}
 	"***Use the cardreader to open the door !!***"
 	{
@@ -24,17 +24,17 @@
 	{
 		"trans"		"*** Cover for 15 seconds !! ***"
 	}
-	"*** The Stairs are now in fire !! ***"
+	"***Door is closing : Stairs are unlocked and Zombies can now break the wall !! ***"
 	{
-		"trans"		"*** The Stairs are now in fire !! ***"
-	}
-	"*** Door is now open, RUN to the ladders !! ***"
-	{
-		"trans"		"*** Door is now open, RUN to the ladders !! ***"
+		"trans"		"***Door is closing : Stairs are unlocked and Zombies can now break the wall !! ***"
 	}
 	"***Zombies broke the First Floor !! ***"
 	{
 		"trans"		"***Zombies broke the First Floor !! ***"
+	}
+	"*** Door is now open, RUN to the ladders !! ***"
+	{
+		"trans"		"*** Door is now open, RUN to the ladders !! ***"
 	}
 	"*** Use the Panel on the left of the door, be careful, it looks electrified !!!***"
 	{
@@ -48,12 +48,12 @@
 	{
 		"trans"		"*** Helicopter will arrive in 60seconds, stay alive !! ***"
 	}
-	"***Helicopter is leaving, Do not fall ! Bomb is ready ... ***"
-	{
-		"trans"		"***Helicopter is leaving, Do not fall ! Bomb is ready ... ***"
-	}
 	"***Zombies are here !!***"
 	{
 		"trans"		"***Zombies are here !!***"
+	}
+	"***Helicopter is leaving, Do not fall ! Bomb is ready ... ***"
+	{
+		"trans"		"***Helicopter is leaving, Do not fall ! Bomb is ready ... ***"
 	}
 }

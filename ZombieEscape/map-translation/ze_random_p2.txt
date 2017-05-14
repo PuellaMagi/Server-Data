@@ -42,7 +42,7 @@
 	}
 	"***Elevator 1 leaving in 5secs!***"
 	{
-		"trans"		"***人类电梯将在5秒后离开，不上等死***"
+		"trans"		"***人类电梯将在5秒后离开,不上等死***"
 	}
 	"***LEVEL -- ICE CAP ESCAPE***"
 	{
@@ -102,7 +102,7 @@
 	}
 	"***Hurry through the warehouse while the carpet passes under!***"
 	{
-		"trans"		"***在魔毯从仓库下穿过期间，快速通过仓库***"
+		"trans"		"***在魔毯从仓库下穿过期间,快速通过仓库***"
 	}
 	"***C4 set to go off in 25secs!***"
 	{
@@ -122,7 +122,7 @@
 	}
 	"***Power lost. Shoot the doors!***"
 	{
-		"trans"		"***该死电梯停了，打烂门我们出去***"
+		"trans"		"***该死电梯停了,打烂门我们出去***"
 	}
 	"***Hold until the escape helicopter comes in pick you up!***"
 	{
@@ -130,7 +130,7 @@
 	}
 	"***Fall Back Balcony open!***"
 	{
-		"trans"		"***玻璃碎了，退后到阳台***"
+		"trans"		"***玻璃碎了,退后到阳台***"
 	}
 	"***Helicopter coming in 5secs!***"
 	{
@@ -150,11 +150,11 @@
 	}
 	"***Jump and be careful not to hit to many stoppers!***"
 	{
-		"trans"		"***跳过那些栏杆，今天我们都是刘翔!***"
+		"trans"		"***跳过那些栏杆,今天我们都是刘翔!***"
 	}
 	"***Teleporting to FINAL MAP!***"
 	{
-		"trans"		"***即将被传送到终点房，胜利就在眼前***"
+		"trans"		"***即将被传送到终点房,胜利就在眼前***"
 	}
 	"***FINAL LEVEL -- ZOMBIE MURDER****"
 	{
@@ -198,7 +198,7 @@
 	}
 	"***CT's will have to jump off and activate the switches!***"
 	{
-		"trans"		"***人类快跳下去触发开关，触发完会回到平台***"
+		"trans"		"***人类快跳下去触发开关,触发完会回到平台***"
 	}
 	"***Turn on all 4 to FINISH IT OFF and activate the Orb Teleport!***"
 	{
@@ -250,7 +250,7 @@
 	}
 	"***Make your way from train to train until you reach the Black Express!***"
 	{
-		"trans"		"***找条路到达最前面的火车，落后等于死亡***"
+		"trans"		"***找条路到达最前面的火车,落后等于死亡***"
 	}
 	"***Cargo door opening in 15secs!***"
 	{
@@ -270,11 +270,11 @@
 	}
 	"***Final express door open!***"
 	{
-		"trans"		"***最后的传送门打开了，快进来!***"
+		"trans"		"***最后的传送门打开了,快进来!***"
 	}
 	"***HOLD the first tunnel crates while the others gets the couch out of the maintenance path and break the barriers!***"
 	{
-		"trans"		"***防守等待推沙发小队到达下一个防守点，不会推沙发的请防守僵尸***"
+		"trans"		"***防守等待推沙发小队到达下一个防守点,不会推沙发的请防守僵尸***"
 	}
 	"***Hold final barrier for 15secs!***"
 	{
@@ -326,7 +326,7 @@
 	}
 	"***Split up on each side or group up on one! Just keep the zombies back until the valves on both sides are unlocked!*** "
 	{
-		"trans"		"***守住两边或者一边，防守到两边阀门打开***"
+		"trans"		"***守住两边或者一边,防守到两边阀门打开!***"
 	}
 	"***Valves unlocked in 35secs!***"
 	{
@@ -334,22 +334,82 @@
 	}
 	"***Valves are stuck! BREAK THEM! Only 20secs to destroy both!***"
 	{
-		"trans"		"***阀门卡住了，射击两边阀门打开它，我们只有20秒 ***"
+		"trans"		"***阀门卡住了,射击两边阀门打开它,我们只有20秒!!***"
 	}
 	"***If one side overrun start chucking nades over to break the valve!***"
 	{
-		"trans"		"***如果只防守一边，手雷也可以破坏对面阀门***"
+		"trans"		"***如果只防守一边,手雷也可以破坏对面阀门!!***"
 	}
 	"***Final attack charged!!***"
 	{
-		"trans"		"***大螃蟹的终极已经释放***"
+		"trans"		"***大螃蟹的终极已经释放!***"
 	}
 	"***TEXT ATTACK FIRED!!***"
 	{
-		"trans"		"***我们脚下的标志牌开始破碎了***"
+		"trans"		"***我们脚下的标志牌开始破碎了!***"
 	}
 	"***BACKSPACE!!!***"
 	{
 		"trans"		"***人类完蛋啦!!!***"
+	}
+	"***LEVEL -- ZOMBIE DEATHRUN***"
+	{
+		"trans"		"***地图：古墓丽影***"
+	}
+	"***Shoot wisely!***"
+	{
+		"trans"		"***嗦话注意点!!***"
+	}
+	"***Zombies try to trap the CTs!***"
+	{
+		"trans"		"***僵尸抓到那些盗墓贼!!!***"
+	}
+	"***CTs have 120secs to escape as the temple's curse spreads!*** "
+	{
+		"trans"		"***盗墓贼还有120秒来逃离被诅咒的陵墓!*** "
+	}
+	"***Good things come to those who wait...***"
+	{
+		"trans"		"***有什么好东西要来了……嘿嘿嘿***"
+	}
+	"***Did someone see an awp?***"
+	{
+		"trans"		"***你们有没有看到一把黑龙炮?***"
+	}
+	"***The curse has reached spawn!*** "
+	{
+		"trans"		"***诅咒已经蔓延到了出发点!!!*** "
+	}
+	"***CTs have 15secs to escape!*** "
+	{
+		"trans"		"***15秒后陵墓大门打开*** "
+	}
+	"***Wait here till everyone else makes it!*** "
+	{
+		"trans"		"***等等你的盗墓贼队友!*** "
+	}
+	"***Don't Delay!***"
+	{
+		"trans"		"***别磨蹭了!!***"
+	}
+	"***Teleporting to next map!***"
+	{
+		"trans"		"***传送到下一张地图！***"
+	}
+	"***The curse has reached the dual arch!*** "
+	{
+		"trans"		"***诅咒已经蔓延到了双拱门!!!*** "
+	}
+	"***Zombie drain open!***"
+	{
+		"trans"		"***僵尸出笼!!!***"	
+    }
+	"***The curse has reached Mona's Hallway!*** "
+	{
+		"trans"		"***诅咒已经蔓延到了蒙娜丽莎画廊!!!*** "
+	}
+	"***CONGRATULATIONS -- ...Wait...F---!!***"
+	{
+		"trans"		"***哇喔你们已经制霸了<随机大爆炸>!!!***"
 	}
 }

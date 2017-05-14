@@ -16,6 +16,14 @@
 	{
 		"trans"		"*** Sacrificial Orb has been acquired ***"
 	}
+	"*** Eye of the Storm has been acquired ***"
+	{
+		"trans"		"*** Eye of the Storm has been acquired ***"
+	}
+	"*** Orange Launcher has been acquired ***"
+	{
+		"trans"		"*** Orange Launcher has been acquired ***"
+	}
 	"*** Lift is leaving in 30 seconds ***"
 	{
 		"trans"		"*** Lift is leaving in 30 seconds ***"
@@ -23,6 +31,10 @@
 	"*** Defend for 20 seconds! ***"
 	{
 		"trans"		"*** Defend for 20 seconds! ***"
+	}
+	"*** Melon Launcher has been acquired ***"
+	{
+		"trans"		"*** Melon Launcher has been acquired ***"
 	}
 	"*** Nuke in 1 minute ***"
 	{
@@ -39,18 +51,6 @@
 	"*** Nuke in 10 seconds ***"
 	{
 		"trans"		"*** Nuke in 10 seconds ***"
-	}
-	"*** Eye of the Storm has been acquired ***"
-	{
-		"trans"		"*** Eye of the Storm has been acquired ***"
-	}
-	"*** Orange Launcher has been acquired ***"
-	{
-		"trans"		"*** Orange Launcher has been acquired ***"
-	}
-	"*** Melon Launcher has been acquired ***"
-	{
-		"trans"		"*** Melon Launcher has been acquired ***"
 	}
 	"*** Stage completed! ***"
 	{
@@ -104,12 +104,44 @@
 	{
 		"trans"		"*** Top door is breaking in 20 seconds ***"
 	}
+	"*** Bottom door is breaking in 10 seconds ***"
+	{
+		"trans"		"*** Bottom door is breaking in 10 seconds ***"
+	}
 	"*** Defend for 60 seconds! ***"
 	{
 		"trans"		"*** Defend for 60 seconds! ***"
 	}
-	"*** Bottom door is breaking in 10 seconds ***"
+	"*** The dragon has been defeated. Keep defending the bridge! ***"
 	{
-		"trans"		"*** Bottom door is breaking in 10 seconds ***"
+		"trans"		"*** The dragon has been defeated. Keep defending the bridge! ***"
+	}
+	"*** STAGE V ***"
+	{
+		"trans"		"*** STAGE V ***"
+	}
+	"*** Teleporting humans in 10 seconds ***"
+	{
+		"trans"		"*** Teleporting humans in 10 seconds ***"
+	}
+	"*** Defend all 3 statues. Do not let zombies near! ***"
+	{
+		"trans"		"*** Defend all 3 statues. Do not let zombies near! ***"
+	}
+	"*** Teleporting zombies in 10 seconds ***"
+	{
+		"trans"		"*** Teleporting zombies in 10 seconds ***"
+	}
+	"*** 3 minutes left ***"
+	{
+		"trans"		"*** 3 minutes left ***"
+	}
+	"*** 2 minutes left ***"
+	{
+		"trans"		"*** 2 minutes left ***"
+	}
+	"*** 1 minute left ***"
+	{
+		"trans"		"*** 1 minute left ***"
 	}
 }

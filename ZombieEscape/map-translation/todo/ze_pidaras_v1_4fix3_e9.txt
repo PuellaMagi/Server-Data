@@ -32,6 +32,10 @@
 	{
 		"trans"		"*** Pidaras Shotgun pickep up ! Only 35 shots ! ***"
 	}
+	"*** Pidaras Freezer has been picked ***"
+	{
+		"trans"		"*** Pidaras Freezer has been picked ***"
+	}
 	"*** DOOR OPEN IN 25 SECONDS ***"
 	{
 		"trans"		"*** DOOR OPEN IN 25 SECONDS ***"
@@ -43,6 +47,10 @@
 	"*** BECAUSE HE'S A FUCKING RACIST ***"
 	{
 		"trans"		"*** BECAUSE HE'S A FUCKING RACIST ***"
+	}
+	"*** Pidaras Heal ／ Unlimited Ammo has been picked ***"
+	{
+		"trans"		"*** Pidaras Heal ／ Unlimited Ammo has been picked ***"
 	}
 	"*** DOOR OPEN IN 10 SECONDS ***"
 	{
@@ -120,6 +128,10 @@
 	{
 		"trans"		"*** FALL BACK FUCKING RETARD ***"
 	}
+	"*** Pidaras flamethrower has been picked ***"
+	{
+		"trans"		"*** Pidaras flamethrower has been picked ***"
+	}
 	"*** PORTAL OPEN IN 20 SECONDS ***"
 	{
 		"trans"		"*** PORTAL OPEN IN 20 SECONDS ***"
@@ -172,22 +184,6 @@
 	{
 		"trans"		"*** OMFG SHOOT THIS FUCKING KID !!! ***"
 	}
-	"*** MESHLEM USE GANDALF PUTATIMA !!! DON'T STAY IN THE MIDDLE ! ***"
-	{
-		"trans"		"*** MESHLEM USE GANDALF PUTATIMA !!! DON'T STAY IN THE MIDDLE ! ***"
-	}
-	"*** MESHLEM USE FLAMING FART ***"
-	{
-		"trans"		"*** MESHLEM USE FLAMING FART ***"
-	}
-	"*** MESHLEM USE PENISGUN ! CROUCH TO DODGE IT ! ***"
-	{
-		"trans"		"*** MESHLEM USE PENISGUN ! CROUCH TO DODGE IT ! ***"
-	}
-	"*** Pidaras Heal ／ Unlimited Ammo has been picked ***"
-	{
-		"trans"		"*** Pidaras Heal ／ Unlimited Ammo has been picked ***"
-	}
 	"*** ZM TELEPORT IN 10 SECONDS ***"
 	{
 		"trans"		"*** ZM TELEPORT IN 10 SECONDS ***"
@@ -212,13 +208,13 @@
 	{
 		"trans"		"*** OMFG ! IT'S FAGGET TIME ! LET'S ROCK ! ***"
 	}
-	"*** OMFG ! SHOOT ROSHI ! I'M SCARED !!! ***"
-	{
-		"trans"		"*** OMFG ! SHOOT ROSHI ! I'M SCARED !!! ***"
-	}
 	"*** COVER ! ***"
 	{
 		"trans"		"*** COVER ! ***"
+	}
+	"*** OMFG ! SHOOT ROSHI ! I'M SCARED !!! ***"
+	{
+		"trans"		"*** OMFG ! SHOOT ROSHI ! I'M SCARED !!! ***"
 	}
 	"*** OMFG ! You're alive ! RUN TO THE DICK ! ***"
 	{
@@ -227,5 +223,109 @@
 	"*** COVER WHILE WAITING FOR THE EJACULATION ! ***"
 	{
 		"trans"		"*** COVER WHILE WAITING FOR THE EJACULATION ! ***"
+	}
+	"*** OMFG PENETRATION INCOMING ! GOGOGO ! ***"
+	{
+		"trans"		"*** OMFG PENETRATION INCOMING ! GOGOGO ! ***"
+	}
+	"*** OMFG YOU DID IT ! NICE JOB FUCKING RETARD ! ***"
+	{
+		"trans"		"*** OMFG YOU DID IT ! NICE JOB FUCKING RETARD ! ***"
+	}
+	"*** EPIC SOLO YOLO PUTA MADRE EPICNESS WIN !!! ***"
+	{
+		"trans"		"*** EPIC SOLO YOLO PUTA MADRE EPICNESS WIN !!! ***"
+	}
+	"*** GO SCREEN FUCKING RETARD ***"
+	{
+		"trans"		"*** GO SCREEN FUCKING RETARD ***"
+	}
+	"*** Thx for playing ***"
+	{
+		"trans"		"*** Thx for playing ***"
+	}
+	"*** LEVEL 2 : FLYING COCK ***"
+	{
+		"trans"		"*** LEVEL 2 : FLYING COCK ***"
+	}
+	"*** Pidaras Giant Dick move in 15 seconds ***"
+	{
+		"trans"		"*** Pidaras Giant Dick move in 15 seconds ***"
+	}
+	"*** AFK TELEPORT IN 5 SECONDS ***"
+	{
+		"trans"		"*** AFK TELEPORT IN 5 SECONDS ***"
+	}
+	"*** 5 seconds left ***"
+	{
+		"trans"		"*** 5 SECONDS LEFT ***"
+	}
+	"*** COVER ON THE LEFT SIDE ! ***"
+	{
+		"trans"		"*** COVER ON THE LEFT SIDE ! ***"
+	}
+	"*** COVER ON THE RIGHT SIDE ! ***"
+	{
+		"trans"		"*** COVER ON THE RIGHT SIDE ! ***"
+	}
+	"*** Shoot this asshole ! ***"
+	{
+		"trans"		"*** Shoot this asshole ! ***"
+	}
+	"*** Stupid zombie are teleport in 5 seconds ***"
+	{
+		"trans"		"*** Stupid zombie are teleport in 5 seconds ***"
+	}
+	"*** LEVEL 3 : SPAAAAAAACE ***"
+	{
+		"trans"		"*** LEVEL 3 : SPAAAAAAACE ***"
+	}
+	"*** COVER 20 SECONDS PIDARAS ***"
+	{
+		"trans"		"*** COVER 20 SECONDS PIDARAS ***"
+	}
+	"*** It's open niggaaaaa !!! It's TIME ! ***"
+	{
+		"trans"		"*** It's open niggaaaaa !!! It's TIME ! ***"
+	}
+	"*** COVER FUCKING RETARD ***"
+	{
+		"trans"		"*** COVER FUCKING RETARD ***"
+	}
+	"*** The space Core is very irritated.. SHOOT IT ! But cover zombie too !!! ***"
+	{
+		"trans"		"*** The space Core is very irritated.. SHOOT IT ! But cover zombie too !!! ***"
+	}
+	"*** trap in... ***"
+	{
+		"trans"		"*** trap in... ***"
+	}
+	"*** 3 ***"
+	{
+		"trans"		"*** 3 ***"
+	}
+	"*** 2 ***"
+	{
+		"trans"		"*** 2 ***"
+	}
+	"*** 1 ***"
+	{
+		"trans"		"*** 1 ***"
+	}
+	"*** Noob down ***"
+	{
+		"trans"		"*** Noob down ***"
+	}
+	"*** Jump inside ! MOTHERFUCKER ! ***"
+	{
+		"trans"		"*** Jump inside ! MOTHERFUCKER ! ***"
+	}
+	"*** NICE JOB YOU FINISH THE MAP ! ***"
+	{
+		"trans"		"*** NICE JOB YOU FINISH THE MAP ! ***"
+	}
+	"*** WAIT THE NEXT VERSION FOR MORE CONTENT ***"
+	{
+		"trans"		"*** WAIT THE NEXT VERSION FOR MORE CONTENT ***"
 	}
 }

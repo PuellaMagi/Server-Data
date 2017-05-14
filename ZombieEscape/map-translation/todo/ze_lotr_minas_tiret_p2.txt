@@ -136,8 +136,4 @@
 	{
 		"trans"		"**Map by Limon.**"
 	}
-	"**The ring has been picked!**"
-	{
-		"trans"		"**The ring has been picked!**"
-	}
 }

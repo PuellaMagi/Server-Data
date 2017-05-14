@@ -24,73 +24,97 @@
 	{
 		"trans"		"*WARNING: WEAPON SPAMMING WILL BE PUNISHED.*"
 	}
-	"*Storage door opening in 15 seconds*"
-	{
-		"trans"		"*Storage door opening in 15 seconds*"
-	}
 	"*Hallway door opening in 10 seconds*"
 	{
 		"trans"		"*Hallway door opening in 10 seconds*"
-	}
-	"** Mojonero's PenisGun has been picked up. **"
-	{
-		"trans"		"** Mojonero's PenisGun has been picked up. **"
 	}
 	"*Water deposit door opening in 15 seconds*"
 	{
 		"trans"		"*Water deposit door opening in 15 seconds*"
 	}
-	"*Water deposit door broken. Go though the vents!*"
+	"*Storage door opening in 15 seconds*"
 	{
-		"trans"		"*Water deposit door broken. Go though the vents!*"
-	}
-	"*Garage door opening in 38 seconds*"
-	{
-		"trans"		"*Garage door opening in 38 seconds*"
+		"trans"		"*Storage door opening in 15 seconds*"
 	}
 	"*TNT will explode in 7 seconds.*"
 	{
 		"trans"		"*TNT will explode in 7 seconds.*"
 	}
-	"*Zombies detected on Elevator Nr. 3. Sealing door.*"
+	"*Water deposit door broken. Go though the vents!*"
 	{
-		"trans"		"*Zombies detected on Elevator Nr. 3. Sealing door.*"
+		"trans"		"*Water deposit door broken. Go though the vents!*"
+	}
+	"*Office doors opening in 15 seconds*"
+	{
+		"trans"		"*Office doors opening in 15 seconds*"
+	}
+	"*Garage door opening in 38 seconds*"
+	{
+		"trans"		"*Garage door opening in 38 seconds*"
+	}
+	"*Open the bunker door while others defend the spot.*"
+	{
+		"trans"		"*Open the bunker door while others defend the spot.*"
+	}
+	"*Bunker door opening in 10 seconds*"
+	{
+		"trans"		"*Bunker door opening in 10 seconds*"
+	}
+	"** Mojonero's PenisGun has been picked up. **"
+	{
+		"trans"		"** Mojonero's PenisGun has been picked up. **"
+	}
+	"*Zombies detected on office area. Defense mode activated.*"
+	{
+		"trans"		"*Zombies detected on office area. Defense mode activated.*"
 	}
 	"*Garage Door is opening. RETREAT!*"
 	{
 		"trans"		"*Garage Door is opening. RETREAT!*"
 	}
+	"*Zombies detected on Elevator Nr. 3. Sealing door.*"
+	{
+		"trans"		"*Zombies detected on Elevator Nr. 3. Sealing door.*"
+	}
 	"*The truck will leave in 15 seconds. Resist!*"
 	{
 		"trans"		"*The truck will leave in 15 seconds. Resist!*"
+	}
+	"*Zombies detected on Elevator Nr. 2. Sealing door.*"
+	{
+		"trans"		"*Zombies detected on Elevator Nr. 2. Sealing door.*"
 	}
 	"*Zombies detected on Elevator Nr. 1. Sealing door.*"
 	{
 		"trans"		"*Zombies detected on Elevator Nr. 1. Sealing door.*"
 	}
-	"**Rocket launcher picked up. Press +USE (E) to activate.**"
+	"**Flamethrower has been picked up. Press +Use (E) to activate**"
 	{
-		"trans"		"**Rocket launcher picked up. Press +USE (E) to activate.**"
+		"trans"		"**Flamethrower has been picked up. Press +Use (E) to activate**"
+	}
+	"**Fuel lasts about 10 seconds. **"
+	{
+		"trans"		"**Fuel lasts about 10 seconds. **"
 	}
 	"*The door has locked! Resist for 30 seconds until it closes.*"
 	{
 		"trans"		"*The door has locked! Resist for 30 seconds until it closes.*"
 	}
+	"**Rocket launcher picked up. Press +USE (E) to activate.**"
+	{
+		"trans"		"**Rocket launcher picked up. Press +USE (E) to activate.**"
+	}
 	"**It only has one use**"
 	{
 		"trans"		"**It only has one use**"
 	}
-	"*The door is closing! Use the ladder to go to the roof.*"
-	{
-		"trans"		"*The door is closing! Use the ladder to go to the roof.*"
-	}
-	"*We will have to jump to the balconies to escape!*"
-	{
-		"trans"		"*We will have to jump to the balconies to escape!*"
-	}
 	"**Rocket launcher charging**"
 	{
 		"trans"		"**Rocket launcher charging**"
+	}
+	"*The door is closing! Use the ladder to go to the roof.*"
+	{
+		"trans"		"*The door is closing! Use the ladder to go to the roof.*"
 	}
 	"*Zombies must take the back-exit door.*"
 	{
@@ -107,6 +131,10 @@
 	"*There's no power! One human must activate it through the vent..*"
 	{
 		"trans"		"*There's no power! One human must activate it through the vent..*"
+	}
+	"*We will have to jump to the balconies to escape!*"
+	{
+		"trans"		"*We will have to jump to the balconies to escape!*"
 	}
 	"*Activate the Elevator and open the dock's door.*"
 	{
@@ -184,6 +212,10 @@
 	{
 		"trans"		"*Door opening in 15 seconds. RESIST!*"
 	}
+	"*Ammo Box has been picked up. Press +USE (E) to activate.*"
+	{
+		"trans"		"*Ammo Box has been picked up. Press +USE (E) to activate.*"
+	}
 	"*The doors are now open. LEAVE!!!*"
 	{
 		"trans"		"*The doors are now open. LEAVE!!!*"
@@ -232,33 +264,29 @@
 	{
 		"trans"		"*** Current level: EXTREME  *** Escape: EVIL CORP. HEADQUARTERS ***"
 	}
-	"*Zombies detected on office area. Defense mode activated.*"
-	{
-		"trans"		"*Zombies detected on office area. Defense mode activated.*"
-	}
-	"*Office doors opening in 15 seconds*"
-	{
-		"trans"		"*Office doors opening in 15 seconds*"
-	}
-	"*Open the bunker door while others defend the spot.*"
-	{
-		"trans"		"*Open the bunker door while others defend the spot.*"
-	}
 	"*Resist for 10 seconds. Other people may come!*"
 	{
 		"trans"		"*Resist for 10 seconds. Other people may come!*"
-	}
-	"*Bunker door opening in 10 seconds*"
-	{
-		"trans"		"*Bunker door opening in 10 seconds*"
 	}
 	"*We have waited long enough! RUN!*"
 	{
 		"trans"		"*We have waited long enough! RUN!*"
 	}
+	"** Raivb1000 Prototype door has been unlocked! **"
+	{
+		"trans"		"** Raivb1000 Prototype door has been unlocked! **"
+	}
 	"*The door will open in 20 seconds. Hold and then resist untill it closes.*"
 	{
 		"trans"		"*The door will open in 20 seconds. Hold and then resist untill it closes.*"
+	}
+	"** Raivb1000 prototype has been picked up. Press E (+USE) to activate. **"
+	{
+		"trans"		"** Raivb1000 prototype has been picked up. Press E (+USE) to activate. **"
+	}
+	"** WARNING: It only has one use and affects zombies and killer robots. **"
+	{
+		"trans"		"** WARNING: It only has one use and affects zombies and killer robots. **"
 	}
 	"*Landmine picked up. Jump and press +USE (E) to activate.*"
 	{
@@ -316,21 +344,13 @@
 	{
 		"trans"		"*Reloading all offensive modules.*"
 	}
-	"** BUNKER ENDING: GET TO THE RIVERSIDE BUNKER **"
+	"** BALCONY ENDING: GET TO THE HIGHEST BALCONY **"
 	{
-		"trans"		"** BUNKER ENDING: GET TO THE RIVERSIDE BUNKER **"
+		"trans"		"** BALCONY ENDING: GET TO THE HIGHEST BALCONY **"
 	}
-	"** Explosion in 30 seconds **"
+	"** Explosion in 25 seconds **"
 	{
-		"trans"		"** Explosion in 30 seconds **"
-	}
-	"** Explosion in 20 seconds **"
-	{
-		"trans"		"** Explosion in 20 seconds **"
-	}
-	"*Bunker Door opening in 7 seconds*"
-	{
-		"trans"		"*Bunker Door opening in 7 seconds*"
+		"trans"		"** Explosion in 25 seconds **"
 	}
 	"** Explosion in 10 seconds **"
 	{
@@ -360,45 +380,129 @@
 	{
 		"trans"		"*** EXTREME MODE COMPLETED ***"
 	}
-	"*** Current level: MASSACRE  *** Escape: EVIL CORP. HEADQUARTERS ***"
+	"*** Current level: PANIC  *** Escape: VERYBAD CORP. TRAINSTATION ***"
 	{
-		"trans"		"*** Current level: MASSACRE  *** Escape: EVIL CORP. HEADQUARTERS ***"
+		"trans"		"*** Current level: PANIC  *** Escape: VERYBAD CORP. TRAINSTATION ***"
 	}
-	"*Door opening in 5 seconds. RESIST!*"
+	"* Door is opening in 20 seconds. *"
 	{
-		"trans"		"*Door opening in 5 seconds. RESIST!*"
+		"trans"		"* Door is opening in 20 seconds. *"
 	}
-	"*Ammo Box has been picked up. Press +USE (E) to activate.*"
+	"* Trainstation's door is opening!*"
 	{
-		"trans"		"*Ammo Box has been picked up. Press +USE (E) to activate.*"
+		"trans"		"* Trainstation's door is opening!*"
 	}
-	"** Raivb1000 Prototype door has been unlocked! **"
+	"*Tornado generator has been picked up. Press +USE (E) to activate.*"
 	{
-		"trans"		"** Raivb1000 Prototype door has been unlocked! **"
+		"trans"		"*Tornado generator has been picked up. Press +USE (E) to activate.*"
 	}
-	"** Raivb1000 prototype has been picked up. Press E (+USE) to activate. **"
+	"*It has a 120 seconds cooldown.*"
 	{
-		"trans"		"** Raivb1000 prototype has been picked up. Press E (+USE) to activate. **"
+		"trans"		"*It has a 120 seconds cooldown.*"
 	}
-	"** WARNING: It only has one use and affects zombies and killer robots. **"
+	"* Stairs to the trains' area are locked. Find a way to activate the elevator... *"
 	{
-		"trans"		"** WARNING: It only has one use and affects zombies and killer robots. **"
+		"trans"		"* Stairs to the trains' area are locked. Find a way to activate the elevator... *"
 	}
-	"*Offensive module loaded: Laser meat slasher*"
+	"*Maintenance elevator leaves in 30 seconds*"
 	{
-		"trans"		"*Offensive module loaded: Laser meat slasher*"
+		"trans"		"*Maintenance elevator leaves in 30 seconds*"
 	}
-	"** BALCONY ENDING: GET TO THE HIGHEST BALCONY **"
+	"* TIP: Some buttons activate when shot. *"
 	{
-		"trans"		"** BALCONY ENDING: GET TO THE HIGHEST BALCONY **"
+		"trans"		"* TIP: Some buttons activate when shot. *"
 	}
-	"** Explosion in 25 seconds **"
+	"*Maintenance elevator leaves in 5 seconds!!! GO!*"
 	{
-		"trans"		"** Explosion in 25 seconds **"
+		"trans"		"*Maintenance elevator leaves in 5 seconds!!! GO!*"
 	}
-	"*** MASSACRE MODE COMPLETED ***"
+	"* Resist! Door opens in 15 seconds!!! *"
 	{
-		"trans"		"*** MASSACRE MODE COMPLETED ***"
+		"trans"		"* Resist! Door opens in 15 seconds!!! *"
+	}
+	"* Train area door is opening... RETREAT!*"
+	{
+		"trans"		"* Train area door is opening... RETREAT!*"
+	}
+	"*** Management office doors opening in 25 seconds. ***"
+	{
+		"trans"		"*** Management office doors opening in 25 seconds. ***"
+	}
+	"*** HOLD RIGHT HERE! Train doors will open in 25 seconds! ***"
+	{
+		"trans"		"*** HOLD RIGHT HERE! Train doors will open in 25 seconds! ***"
+	}
+	"*** DOORS OPENED! ***"
+	{
+		"trans"		"*** DOORS OPENED! ***"
+	}
+	"*** Someone has to open the train doors. That's our escape route! ***"
+	{
+		"trans"		"*** Someone has to open the train doors. That's our escape route! ***"
+	}
+	"*** Train door opens in 15 seconds. ***"
+	{
+		"trans"		"*** Train door opens in 15 seconds. ***"
+	}
+	"*** RESIST! The doors will be opening in 10 seconds! ***"
+	{
+		"trans"		"*** RESIST! The doors will be opening in 10 seconds! ***"
+	}
+	"*** Hold the second cart! We're nearing our escape. ***"
+	{
+		"trans"		"*** Hold the second cart! We're nearing our escape. ***"
+	}
+	"*** The doors appear to have malfunctioned. ***"
+	{
+		"trans"		"*** The doors appear to have malfunctioned. ***"
+	}
+	"*** Figure out the cause of it! ***"
+	{
+		"trans"		"*** Figure out the cause of it! ***"
+	}
+	"*** Doors breached... MOVE! ***"
+	{
+		"trans"		"*** Doors breached... MOVE! ***"
+	}
+	"*** RESIST! Only 5 seconds left! ***"
+	{
+		"trans"		"*** RESIST! Only 5 seconds left! ***"
+	}
+	"*** MOVE! The doors will close in 15 seconds! ***"
+	{
+		"trans"		"*** MOVE! The doors will close in 15 seconds! ***"
+	}
+	"** WE'RE SAFE! Let's get the train running! **"
+	{
+		"trans"		"** WE'RE SAFE! Let's get the train running! **"
+	}
+	"** ... **"
+	{
+		"trans"		"** ... **"
+	}
+	"** BEWARE! It's an upgraded offensive XJ-7800 robot! **"
+	{
+		"trans"		"** BEWARE! It's an upgraded offensive XJ-7800 robot! **"
+	}
+	"** SHOOT IT! **"
+	{
+		"trans"		"** SHOOT IT! **"
+	}
+	"*Exit door opening in 5 seconds*"
+	{
+		"trans"		"*Exit door opening in 5 seconds*"
+	}
+	"*** Energy is coming back to the engine! ***"
+	{
+		"trans"		"*** Energy is coming back to the engine! ***"
+	}
+	"*** HOLD! The train will move as soon as the engine recharges! ***"
+	{
+		"trans"		"*** HOLD! The train will move as soon as the engine recharges! ***"
+	}
+	"*** PANIC MODE COMPLETED ***"
+	{
+		"trans"		"*** PANIC MODE COMPLETED ***"
 	}
 	"*** NEXT LEVEL IS THE END ***"
 	{
@@ -407,10 +511,6 @@
 	"*** Current level: THE END  *** Escape: THE PAPER DIMENSION ***"
 	{
 		"trans"		"*** Current level: THE END  *** Escape: THE PAPER DIMENSION ***"
-	}
-	"*Zombies detected on Elevator Nr. 2. Sealing door.*"
-	{
-		"trans"		"*Zombies detected on Elevator Nr. 2. Sealing door.*"
 	}
 	"** City sewers management plant doors are opening in 20 seconds. RESIST!!! **"
 	{
@@ -507,5 +607,85 @@
 	"* TIP: Zombies can break the elevators' side vent. *"
 	{
 		"trans"		"* TIP: Zombies can break the elevators' side vent. *"
+	}
+	"* FOURTH FLOOR: Emergency generator and Helipad access. *"
+	{
+		"trans"		"* FOURTH FLOOR: Emergency generator and Helipad access. *"
+	}
+	"* TIP: Press the energy control panel to cause an overload in the doors' circuitry. *"
+	{
+		"trans"		"* TIP: Press the energy control panel to cause an overload in the doors' circuitry. *"
+	}
+	"* The door is opening in 25 seconds... RESIST! *"
+	{
+		"trans"		"* The door is opening in 25 seconds... RESIST! *"
+	}
+	"* Second door opens in 10 seconds. *"
+	{
+		"trans"		"* Second door opens in 10 seconds. *"
+	}
+	"* Helicopter leaves in 50 seconds. *"
+	{
+		"trans"		"* Helicopter leaves in 50 seconds. *"
+	}
+	"* Helicopter leaves in 20 seconds. RESIST!!! *"
+	{
+		"trans"		"* Helicopter leaves in 20 seconds. RESIST!!! *"
+	}
+	"* HELICOPTER LEAVES IN 5 SECONDS!!! GET ON IT!!! *"
+	{
+		"trans"		"* HELICOPTER LEAVES IN 5 SECONDS!!! GET ON IT!!! *"
+	}
+	"* WO-HOO!!! NICE JOB PEOPLE!!! *"
+	{
+		"trans"		"* WO-HOO!!! NICE JOB PEOPLE!!! *"
+	}
+	"* YEAH!!! WE DID IT!!! *"
+	{
+		"trans"		"* YEAH!!! WE DID IT!!! *"
+	}
+	"* ... *"
+	{
+		"trans"		"* ... *"
+	}
+	"* Wait... Why isn't it ending...? *"
+	{
+		"trans"		"* Wait... Why isn't it ending...? *"
+	}
+	"RndPlayer: rtv rtv rtv shit map lol admin change plz"
+	{
+		"trans"		"RndPlayer: rtv rtv rtv shit map lol admin change plz"
+	}
+	"** DID YOU MISS ME? **"
+	{
+		"trans"		"** DID YOU MISS ME? **"
+	}
+	"*ZE_PAPER_ESCAPER BY ENVIOLINADOR*"
+	{
+		"trans"		"*ZE_PAPER_ESCAPER BY ENVIOLINADOR*"
+	}
+	"*** Thank you for playing this map ***"
+	{
+		"trans"		"*** Thank you for playing this map ***"
+	}
+	"*** MAP WILL NOW RESET TO NORMAL ***"
+	{
+		"trans"		"*** MAP WILL NOW RESET TO NORMAL ***"
+	}
+	"** BUNKER ENDING: GET TO THE RIVERSIDE BUNKER **"
+	{
+		"trans"		"** BUNKER ENDING: GET TO THE RIVERSIDE BUNKER **"
+	}
+	"** Explosion in 30 seconds **"
+	{
+		"trans"		"** Explosion in 30 seconds **"
+	}
+	"*Bunker Door opening in 7 seconds*"
+	{
+		"trans"		"*Bunker Door opening in 7 seconds*"
+	}
+	"** Explosion in 20 seconds **"
+	{
+		"trans"		"** Explosion in 20 seconds **"
 	}
 }

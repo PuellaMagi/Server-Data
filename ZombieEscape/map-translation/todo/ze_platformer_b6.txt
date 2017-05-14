@@ -12,8 +12,4 @@
 	{
 		"trans"		"Proceed to find a safehouse if you want to survive."
 	}
-	"Zombies have secured a checkpoint."
-	{
-		"trans"		"Zombies have secured a checkpoint."
-	}
 }

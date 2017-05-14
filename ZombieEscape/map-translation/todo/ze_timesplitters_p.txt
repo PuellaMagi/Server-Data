@@ -80,4 +80,24 @@
 	{
 		"trans"		"## Boss Room Door Closed...Prepare for BATTLE ##"
 	}
+	"## Doors Will Open in 30 Seconds ##"
+	{
+		"trans"		"## Doors Will Open in 30 Seconds ##"
+	}
+	"## 15 Seconds to reach SafeZone ##"
+	{
+		"trans"		"## 15 Seconds to reach SafeZone ##"
+	}
+	"## 5 Seconds to reach SafeZone ##"
+	{
+		"trans"		"## 5 Seconds to reach SafeZone ##"
+	}
+	"## END GAME ##"
+	{
+		"trans"		"## END GAME ##"
+	}
+	"## You have 2minutes till the boss room explodes! Kill it Quick! ##"
+	{
+		"trans"		"## You have 2minutes till the boss room explodes! Kill it Quick! ##"
+	}
 }

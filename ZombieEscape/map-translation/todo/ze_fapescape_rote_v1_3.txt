@@ -1,88 +1,20 @@
 "Chat"
 {
-	"*** Level 1 ***"
-	{
-		"trans"		"*** Level 1 ***"
-	}
-	"* Turning music on *"
-	{
-		"trans"		"* Turning music on *"
-	}
 	"*** Player has picked up Lego Maker ***"
 	{
 		"trans"		"*** Player has picked up Lego Maker ***"
-	}
-	"*** It has 10 uses ***"
-	{
-		"trans"		"*** It has 10 uses ***"
-	}
-	"*** Player has picked up Pipe bombs ***"
-	{
-		"trans"		"*** Player has picked up Pipe bombs ***"
-	}
-	"*** It has 5 uses ***"
-	{
-		"trans"		"*** It has 5 uses ***"
-	}
-	"*** Player has picked up Flamethrower ***"
-	{
-		"trans"		"*** Player has picked up Flamethrower ***"
-	}
-	"*** Player has picked up Ammo Box ***"
-	{
-		"trans"		"*** Player has picked up Ammo Box ***"
-	}
-	"*** It has unlimited uses ***"
-	{
-		"trans"		"*** It has unlimited uses ***"
-	}
-	"*** Player has picked up Heal ***"
-	{
-		"trans"		"*** Player has picked up Heal ***"
-	}
-	"*** It has 1 use ***"
-	{
-		"trans"		"*** It has 1 use ***"
-	}
-	"*** Player has picked up EyeTech Launcher ***"
-	{
-		"trans"		"*** Player has picked up EyeTech Launcher ***"
-	}
-	"*** Player has picked up Electro gun ***"
-	{
-		"trans"		"*** Player has picked up Electro gun ***"
-	}
-	"*** It has fuel for 10 seconds ***"
-	{
-		"trans"		"*** It has fuel for 10 seconds ***"
-	}
-	"*** Doors open in 35 Seconds ***"
-	{
-		"trans"		"*** Doors open in 35 Seconds ***"
-	}
-	"*** Doors open in 25 Seconds ***"
-	{
-		"trans"		"*** Doors open in 25 Seconds ***"
 	}
 	"*** Doors open in 10 Seconds ***"
 	{
 		"trans"		"*** Doors open in 10 Seconds ***"
 	}
-	"*** Player has picked up EyeTech Cannon ***"
-	{
-		"trans"		"*** Player has picked up EyeTech Cannon ***"
-	}
-	"*** Player has picked up PushGun ***"
-	{
-		"trans"		"*** Player has picked up Pushgun ***"
-	}
 	"*** Doors are opening ***"
 	{
 		"trans"		"*** Doors are opening ***"
 	}
-	"*** Bridge activates in 30 seconds ***"
+	"*** Doors open in 25 Seconds ***"
 	{
-		"trans"		"*** Bridge activates in 30 seconds ***"
+		"trans"		"*** Doors open in 25 Seconds ***"
 	}
 	"*** Bridge activates in 15 seconds ***"
 	{
@@ -100,6 +32,14 @@
 	{
 		"trans"		"*** Door is opening ***"
 	}
+	"*** Player has picked up EyeTech Launcher ***"
+	{
+		"trans"		"*** Player has picked up EyeTech Launcher ***"
+	}
+	"*** Player has picked up Flamethrower ***"
+	{
+		"trans"		"*** Player has picked up Flamethrower ***"
+	}
 	"*** FALL BACK ***"
 	{
 		"trans"		"*** FALL BACK ***"
@@ -116,9 +56,17 @@
 	{
 		"trans"		"*** FALL BACK ****"
 	}
+	"*** It has 10 uses ***"
+	{
+		"trans"		"*** It has 10 uses ***"
+	}
 	"*** 20 more seconds! ***"
 	{
 		"trans"		"*** 20 more seconds! ***"
+	}
+	"*** Player has picked up PushGun ***"
+	{
+		"trans"		"*** Player has picked up Pushgun ***"
 	}
 	"*** Elevator leaves in 15 seconds *** "
 	{
@@ -160,8 +108,36 @@
 	{
 		"trans"		"*** Zombie at the end ***"
 	}
-	"** Turning on:... **"
+	"*** Player has picked up Electro gun ***"
 	{
-		"trans"		"** Turning on:... **"
+		"trans"		"*** Player has picked up Electro gun ***"
+	}
+	"*** Player has picked up Heal ***"
+	{
+		"trans"		"*** Player has picked up Heal ***"
+	}
+	"*** Level 1 ***"
+	{
+		"trans"		"*** Level 1 ***"
+	}
+	"*** It has 1 use ***"
+	{
+		"trans"		"*** It has 1 use ***"
+	}
+	"*** Player has picked up Ammo Box ***"
+	{
+		"trans"		"*** Player has picked up Ammo Box ***"
+	}
+	"*** Level 2 ***"
+	{
+		"trans"		"*** Level 2 ***"
+	}
+	"*** It has fuel for 10 seconds ***"
+	{
+		"trans"		"*** It has fuel for 10 seconds ***"
+	}
+	"*** HOLD THEM BACK  ***"
+	{
+		"trans"		"*** HOLD THEM BACK  ***"
 	}
 }

@@ -1,0 +1,123 @@
+"Chat"
+{
+	"Map By Batson - Have Fun :P"
+	{
+		"trans"		"Map By Batson - Have Fun :P"
+	}
+	"Thanks To Cosmo For Helping"
+	{
+		"trans"		"Thanks To Cosmo For Helping"
+	}
+	"----> AWP <----"
+	{
+		"trans"		"----> AWP <----"
+	}
+	"Pharrell Williams - Happy"
+	{
+		"trans"		"Pharrell Williams - Happy"
+	}
+	"----> Scout <----"
+	{
+		"trans"		"----> Scout <----"
+	}
+	"Ylvis - The Fox"
+	{
+		"trans"		"Ylvis - The Fox"
+	}
+	"Martin Garrix - Animals"
+	{
+		"trans"		"Martin Garrix - Animals"
+	}
+	"----> Nova Fight <----"
+	{
+		"trans"		"----> Nova Fight <----"
+	}
+	"Avicii - Levels"
+	{
+		"trans"		"Avicii - Levels"
+	}
+	"----> Buy <----"
+	{
+		"trans"		"----> Buy <----"
+	}
+	"----> Knife <----"
+	{
+		"trans"		"----> Knife <----"
+	}
+	"Owl City - Fireflies"
+	{
+		"trans"		"Owl City - Fireflies"
+	}
+	"----> Break Floor <----"
+	{
+		"trans"		"----> Break Floor <----"
+	}
+	"----> Wall Break : 60 Seconds <----"
+	{
+		"trans"		"----> Wall Break : 60 Seconds <----"
+	}
+	"----> Skate <----"
+	{
+		"trans"		"----> Skate <----"
+	}
+	"----> Race <----"
+	{
+		"trans"		"----> Race <----"
+	}
+	"----> 5 Seconds <----"
+	{
+		"trans"		"----> 5 Seconds <----"
+	}
+	"----> 4 Seconds <----"
+	{
+		"trans"		"----> 4 Seconds <----"
+	}
+	"----> 3 Seconds <----"
+	{
+		"trans"		"----> 3 Seconds <----"
+	}
+	"----> 2 Seconds <----"
+	{
+		"trans"		"----> 2 Seconds <----"
+	}
+	"----> 1 Second <----"
+	{
+		"trans"		"----> 1 Second <----"
+	}
+	"----> RUN ! <----"
+	{
+		"trans"		"----> RUN ! <----"
+	}
+	"----> Someone Reached The End :D <----"
+	{
+		"trans"		"----> Someone Reached The End :D <----"
+	}
+	"----> Dodgeball <----"
+	{
+		"trans"		"----> Dodgeball <----"
+	}
+	"----> Random .... <----"
+	{
+		"trans"		"----> Random .... <----"
+	}
+	"----> Small Area : 1 Min <----"
+	{
+		"trans"		"----> Small Area : 1 Min <----"
+	}
+	"----> Small Area : 10 Seconds <----"
+	{
+		"trans"		"----> Small Area : 10 Seconds <----"
+	}
+	"----> Small Area : 5 Seconds <----"
+	{
+		"trans"		"----> Small Area : 5 Seconds <----"
+	}
+	"----> Small Area Activated <----"
+	{
+		"trans"		"----> Small Area Activated <----"
+	}
+	"----> Wall Break : 30 Seconds <----"
+	{
+		"trans"		"----> Wall Break : 30 Seconds <----"
+	}
+}

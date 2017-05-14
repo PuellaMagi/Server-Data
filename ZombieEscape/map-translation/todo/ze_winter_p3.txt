@@ -16,4 +16,12 @@
 	{
 		"trans"		"* * * Quick! Find the bunker and don't let the zombies in  * * *"
 	}
+	"[Teleporting slow players in 20 seconds]"
+	{
+		"trans"		"[Teleporting slow players in 20 seconds]"
+	}
+	"* * * Warning: 2 minutes remaining * * *"
+	{
+		"trans"		"* * * Warning: 2 minutes remaining * * *"
+	}
 }
