@@ -1,110 +1,64 @@
 "Chat"
 {
-	"[Warmup] Wait for others players to join"
-	{
-		"trans"		"【热身时间】等待其他玩家加入游戏"
-	}
 	">> Map by TaskuVaras <<"
 	{
-		"blocked"		"1"
+		"trans"		">><蘑菇世界2> 作者TaskuVaras & Moltard 翻译DohiCircle<<"
 	}
 	">> Finished by Moltard <<"
 	{
-		"blocked"		"1"
-	}
-	">>Map ported by www.dashijie.es<<"
-	{
-		"blocked"		"1"
+		"trans"		">><蘑菇世界2> 作者TaskuVaras & Moltard 翻译DohiCircle<<"
 	}
 	">> WARMUP ROUND <<"
 	{
-		"trans"		">>热身局<<"
+		"trans"		">>热身回合<<"
 	}
 	">> 40 SECONDS LEFT <<"
 	{
-		"trans"		">>热身局将在40秒后结束<<"
+		"trans"		">>热身回合将在40秒后结束<<"
 	}
 	">> 30 SECONDS LEFT <<"
 	{
-		"trans"		">>热身局将在30秒后结束<<"
+		"trans"		">>热身回合将在30秒后结束<<"
 	}
 	">> 20 SECONDS LEFT <<"
 	{
-		"trans"		">>热身局将在20秒后结束<<"
+		"trans"		">>热身回合将在20秒后结束<<"
 	}
 	">> 10 SECONDS LEFT <<"
 	{
-		"trans"		">>热身局将在10秒后结束<<"
+		"trans"		">>热身回合将在10秒后结束<<"
 	}
 	">> WARMUP ROUND END <<"
 	{
-		"trans"		">>热身局结束<<"
-	}
-	"ShroomForest2"
-	{
-		"trans"		"<蘑菇房2> 作者TaskuVaras & Moltard 翻译DohiCircle"
-	}
-	"[Level1] Find the Groke"
-	{
-		"trans"		">>[Lv:1]目标:找到<Groke-大地鼠><<"
+		"trans"		">>热身回合结束<<"
 	}
 	">> LEVEL: RAVINE <<"
 	{
 		"trans"		">>当前位置:峡谷<<"
 	}
-	">> PLAYER HAS PICKED UP 6 MINES <<"
+	">> PLAYER HAS PICKED UP EARTH <<"
 	{
-		"trans"		">>有人获得了<地雷蘑菇>(地雷)(0/6)<<"
-	}
-	"1"
-	{
-		"10 Ghost Found"
-		{
-			"trans"		">>1/10 幽灵<<"
-		}
-		"10 Painting Found"
-		{
-			"trans"		">>1/10 暴漫<<"
-		}
-		"10 Angel Found"
-		{
-			"trans"		">>1/10 天使<<"
-		}
+		"trans"		">>有人获得了<原谅蘑菇>(墙)<<"
 	}
 	"*** LEAF LEAVING IN 20 SECONDS ***"
 	{
 		"trans"		"***树叶将在20秒后离开***"
 	}
-	"2"
+	">> PLAYER HAS PICKED UP ICE <<"
 	{
-		"10 Ghost Found"
-		{
-			"trans"		">>2/10 幽灵<<"
-		}
-		"10 Painting Found"
-		{
-			"trans"		">>2/10 暴漫<<"
-		}
-		"10 Angel Found"
-		{
-			"trans"		">>2/10 天使<<"
-		}
+		"trans"		">>有人获得了<ICE MAKE FLOOR>(冰)<<"
+	}
+	">> PLAYER HAS PICKED UP FIRE <<"
+	{
+		"trans"		">>有人获得了<火焰蘑菇>(火)<<"
 	}
 	">> PLAYER HAS PICKED UP WATER <<"
 	{
 		"trans"		">>有人获得了<水遁:大瀑布>(水)<<"
 	}
-	">> PLAYER HAS PICKED UP ICE <<"
-	{
-		"trans"		">>有人获得了<ICE MAKE FLOOR>(冰)<<"
-	}
 	"*** HOLD FOR 30 seconds ***"
 	{
 		"trans"		"***坚守30秒***"
-	}
-	">> ALL 6 MINES USED <<"
-	{
-		"trans"		">><地雷蘑菇>用完了(6/6)<<"
 	}
 	"*** 5 MORE SECONDS ***"
 	{
@@ -112,70 +66,51 @@
 	}
 	"*** RUUUN! ***"
 	{
-		"trans"		"***撤退!!!!!***"
-	}
-	"*** DOOR IS OPEN! RUUUN! ***"
-	{
-		"trans"		"***门开了,撤退***"
-	}
-	"3"
-	{
-		"10 Ghost Found"
-		{
-			"trans"		">>3/10 幽灵<<"
-		}
-		"10 Painting Found"
-		{
-			"trans"		">>3/10 暴漫<<"
-		}
-		"10 Angel Found"
-		{
-			"trans"		">>3/10 天使<<"
-		}
-	}
-	">> PLAYER HAS CHOSEN: TV EXTREME <<"
-	{
-		"trans"		">>有玩家选择了<TV电视塔-EX难度><<"
-	}
-	">> RESTARTING ROUND IN 5 SECONDS <<"
-	{
-		"trans"		">>5秒后重启回合<<"
-	}
-	">> PLAYER HAS PICKED UP WIND <<"
-	{
-		"trans"		">>有人获得了<呼啸狂风>(风)<<"
-	}
-	"[Extreme2] Kill the TV Monster"
-	{
-		"trans"		"[Lv:EX2]目标:干爆<TV Monster-肥宅蜘蛛>"
-	}
-	">> LEVEL: TV <<"
-	{
-		"trans"		">>当前位置:TV电视塔<<"
-	}
-	">> EXTREME MODE ADDED <<"
-	{
-		"trans"		">>EX难度模组加载……<<"
+		"trans"		"***!!!撤退!!!***"
 	}
 	">> PLAYER HAS PICKED UP UNLIMITED AMMO <<"
 	{
 		"trans"		">>有人获得了<Fire At Will>(子弹)<<"
 	}
+	"*** DOOR IS OPEN! RUUUN! ***"
+	{
+		"trans"		"***!!!门开了,撤退!!!***"
+	}
+	">> ITS THE GROKE SHOOT IT !!!!  <<"
+	{
+		"trans"		">>BOSS <Groke-大地鼠> 出现了!!!<<"
+	}
+	">> THE GROKE IS DEAD <<"
+	{
+		"trans"		">><Groke-大地鼠>被我们干爆了!!!<<"
+	}
+	">> ESCAPE BY THE LADDER <<"
+	{
+		"trans"		">>沿梯子离开这里<<"
+	}
+	"*** FLY LEAVING IN 15 SECONDS ***"
+	{
+		"trans"		"***苍蝇小弟将在15秒后起飞***"
+	}
+	">> LEVEL COMPLETED !!! <<"
+	{
+		"trans"		">>— — M I S S O I N    C O M P L E T E — —<<"
+	}
+	">> LEVEL: TV <<"
+	{
+		"trans"		">>当前位置:TV电视塔<<"
+	}
+	">> PLAYER HAS PICKED UP WIND <<"
+	{
+		"trans"		">>有人获得了<呼啸狂风>(风)<<"
+	}
 	">> PLAYER HAS PICKED UP HEAL <<"
 	{
 		"trans"		">>有人获得了<夕立姐姐的草莓味牛奶>(奶)<<"
 	}
-	">> PLAYER HAS PICKED UP FIRE <<"
-	{
-		"trans"		">>有人获得了<火焰蘑菇>(火)<<"
-	}
 	"*** FALL BACK !!! ***"
 	{
-		"trans"		"***撤退***"
-	}
-	">> PLAYER HAS PICKED UP EARTH <<"
-	{
-		"trans"		">>有人获得了<原谅蘑菇>(墙)<<"
+		"trans"		"***!!!撤退!!!***"
 	}
 	"*** ELEVATOR OPENING IN 20 SECONDS ***"
 	{
@@ -193,13 +128,17 @@
 	{
 		"trans"		"***!!撤退!!***"
 	}
-	">> OH NO!! ITS FAT SPIDER <<"
+	">> BREAK THE HEART OF THE TV <<"
 	{
-		"trans"		">>BOSS <TV Monster-肥宅蜘蛛> 降临!!!!<<"
+		"trans"		">>摧毁<TV HEART-电视核心>!!!<<"
 	}
-	">> FAT SPIDER IS DEAD <<"
+	">> THE TV HEART IS DESTROYED <<"
 	{
-		"trans"		">><TV Monster-肥宅蜘蛛>被我们干爆了!!!<<"
+		"trans"		">><TV HEART-电视核心>已被摧毁<<"
+	}
+	">> THE BUILDING WILL BLOW UP <<"
+	{
+		"trans"		">>电视塔要炸了!!!<<"
 	}
 	">> ESCAPE BY THE WEB <<"
 	{
@@ -209,17 +148,9 @@
 	{
 		"trans"		"***蜘蛛网将在20秒后离开***"
 	}
-	"*** FLY LEAVING IN 30 SECONDS ***"
+	">> LEVEL COMPLETED!! <<"
 	{
-		"trans"		"***苍蝇小弟将在30秒后起飞***"
-	}
-	">> LEVEL COMPLETED !!! <<"
-	{
-		"trans"		">>——MISSOIN COMPLETE——<<"
-	}
-	"[Extreme3] Save the Angels"
-	{
-		"trans"		">>[Lv:EX3]目标:保护小天使们<<"
+		"trans"		">>— — M I S S O I N    C O M P L E T E — —<<"
 	}
 	">> LEVEL: HEAVEN <<"
 	{
@@ -233,21 +164,77 @@
 	{
 		"trans"		"***天国之门将在25秒后打开***"
 	}
+	">> PLAYER HAS PICKED UP 6 MINES <<"
+	{
+		"trans"		">>有人获得了<地雷蘑菇>(地雷)(0/6)<<"
+	}
 	"*** GATE OPENING IN 25 SECONDS ***"
 	{
 		"trans"		"***大门将在25秒后打开***"
 	}
+	"*** DOORS OPENING IN 30 SECONDS ***"
+	{
+		"trans"		"***画像大门将在30秒后打开***"
+	}
+	">> OH NO!! ITS GOD <<"
+	{
+		"trans"		">>BOSS <GOD-退休天神> 降临!!!<<"
+	}
+	">> GOD HAS BEEN DEFEATED !!! <<"
+	{
+		"trans"		">><GOD-退休天神>已经被我们干爆了!!!<<"
+	}
+	">> RUN TO SAFETY <<"
+	{
+		"trans"		">>撤退到安全地带!!<<"
+	}
+	"*** BUTTERFLY LEAVING IN 15 SECONDS ***"
+	{
+		"trans"		"***蝴蝶小妹将在15秒后起飞***"
+	}
+	">> ALL 6 MINES USED <<"
+	{
+		"trans"		">><地雷蘑菇>用完了(6/6)<<"
+	}
+	">> 3 WINS IN A ROW !!! <<"
+	{
+		"trans"		">>连续胜利三个回合!!!<<"
+	}
+	">> SECRET MUSIC UNLOCKED FOR ZM ROUND <<"
+	{
+		"trans"		">>在ZM回合会解锁隐藏音乐<<"
+	}
+	">> EXTREME MODE ADDED <<"
+	{
+		"trans"		">>EX难度模组加载……<<"
+	}
+	"*** FLY LEAVING IN 20 SECONDS ***"
+	{
+		"trans"		"***苍蝇小弟将在20秒后起飞***"
+	}
+	">> PLAYER HAS PICKED UP GRAVITY <<"
+	{
+		"trans"		">>有人获得了<地心引力>(黑洞)<<"
+	}
+	">> OH NO!! ITS FAT SPIDER <<"
+	{
+		"trans"		">>BOSS <TV Monster-肥宅蜘蛛> 降临!!!<<"
+	}
+	">> FAT SPIDER IS DEAD <<"
+	{
+		"trans"		">><TV Monster-肥宅蜘蛛>被我们干爆了!!!<<"
+	}
+	"*** FLY LEAVING IN 30 SECONDS ***"
+	{
+		"trans"		"***苍蝇小弟将在30秒后起飞***"
+	}
 	"*** GATE OPENING IN 30 SECONDS ***"
 	{
-		"trans"		"***大门将在30秒后打开***"
+		"trans"		"***大门开启于30秒后***"
 	}
 	">> FALL BACK <<"
 	{
 		"trans"		">>!!!撤退!!!<<"
-	}
-	"*** DOORS OPENING IN 30 SECONDS ***"
-	{
-		"trans"		"***大门开启于30秒后***"
 	}
 	">> OH NO!! ITS FALLEN ANGEL <<"
 	{
@@ -269,17 +256,13 @@
 	{
 		"trans"		">>最后一个天使也撤离了<<"
 	}
-	">> RUN TO SAFETY <<"
-	{
-		"trans"		">>我们也撤退到安全地带!!<<"
-	}
 	"*** BUTTERFLY LEAVING IN 30 SECONDS ***"
 	{
 		"trans"		"***蝴蝶小妹将在30秒后起飞***"
 	}
 	"*** BUTTERFLY IS DEAD !!!! DEFEND LONGER !!!! ***"
 	{
-		"trans"		"***哦不蝴蝶小妹卒了!!!继续防守!!!!***"
+		"trans"		"***哦不蝴蝶小妹卒了!!!!继续防守!!!!***"
 	}
 	">> THE ANGELS GOT THE RESCUE PLANK BACK <<"
 	{
@@ -287,11 +270,11 @@
 	}
 	">> FALL BACK !!! << "
 	{
-		"trans"		">>!!撤退!!<<"
+		"trans"		">>!!!撤退!!!<< "
 	}
 	">> THEY WILL TELEPORT US OUT <<"
 	{
-		"trans"		">>站在平台上我们就会被传送离开<<"
+		"trans"		">>站在平台上我们就会被传送到天堂大殿<<"
 	}
 	">> IS THIS SATAN WORK.... <<"
 	{
@@ -299,7 +282,7 @@
 	}
 	">> TELEPORTING ZOMBIES <<"
 	{
-		"trans"		">>僵尸已被传送<<"
+		"trans"		">>僵尸已被地狱使徒传送<<"
 	}
 	">> WE HAVE TO ESCAPE THIS PLACE <<"
 	{
@@ -308,10 +291,6 @@
 	">> CLOUD LEAVING IN 40 SECONDS <<"
 	{
 		"trans"		">>云朵将在40秒后下降<<"
-	}
-	"[TheEnd] Eliminate Satan once and for all"
-	{
-		"trans"		"[Lv:END]目标:彻底消灭撒旦"
 	}
 	">> LEVEL: THE END <<"
 	{
@@ -327,7 +306,7 @@
 	}
 	">> A CLOUD IS COMING <<"
 	{
-		"trans"		">>云朵正在靠近!!<<"
+		"trans"		">>云朵正在靠近!<<"
 	}
 	">> CLOUD LEAVING IN 10 SECONDS <<"
 	{
@@ -335,11 +314,11 @@
 	}
 	">> IT'S SATAN WITH THE ANGELS !!! <<"
 	{
-		"trans"		"***撒旦带走了小天使们!!!!***"
+		"trans"		">>撒旦带走了小天使们!!!<<"
 	}
 	">> ... HE IS GONE <<"
 	{
-		"trans"		"***……他离开了……***"
+		"trans"		">>……他离开了……<<"
 	}
 	">> HOLD ZOMBIES UNTIL THE BUTTERFLY COME <<"
 	{
@@ -353,53 +332,21 @@
 	{
 		"trans"		">>蝴蝶小妹等不及了 你们还有20秒!<<"
 	}
-	">> ZOMBIE ABOARD !! YOU FAILED !! <<"
-	{
-		"trans"		">>有僵尸闯进了平台!你们输了!<<"
-	}
 	"*** WHERE DID SATAN GO... ***"
 	{
 		"trans"		"***撒旦到底去哪了……***"
 	}
 	"*** THE DRAGON IS BACK FROM HELL !!! ***"
 	{
-		"trans"		"***这是地狱恶龙 撒旦的走狗!!!!***"
+		"trans"		"***这是地狱恶龙!!!撒旦的走狗!!!***"
 	}
 	"*** WE HAVE TO KILL HIM AS FAST AS POSSIBLE ***"
 	{
-		"trans"		"***没时间和它耗!全力开火!!!!***"
+		"trans"		"***没时间和它耗!全力开火!!!***"
 	}
 	"*** NADES DO MORE DAMAGE !!! ***"
 	{
 		"trans"		"***提示:高爆手雷可对地狱恶龙造成大量伤害***"
-	}
-	">> PLAYER HAS PICKED UP GRAVITY <<"
-	{
-		"trans"		">>有人获得了<地心引力>(黑洞)<<"
-	}
-	">> ZOMBIE ITEM AS BEEN PICKED UP <<"
-	{
-		"trans"		">>有僵尸拿到了僵尸神器 嗯好像是<扭曲>吧<<"
-	}
-	">> ITS THE GROKE SHOOT IT !!!!  <<"
-	{
-		"trans"		">><Groke-大地鼠>出现了!!<<"
-	}
-	">> THE GROKE IS DEAD <<"
-	{
-		"trans"		">><Groke-大地鼠>被我们干爆了!!!<<"
-	}
-	">> ESCAPE BY THE LADDER <<"
-	{
-		"trans"		">>沿梯子上去!<<"
-	}
-	"*** FLY LEAVING IN 15 SECONDS ***"
-	{
-		"trans"		"***苍蝇小弟将在15秒后起飞***"
-	}
-	">> PLAYER HAS CHOSEN: THE END <<"	
-	{
-		"trans"		">>有玩家选择了<终局><<"
 	}
 	">> THE DRAGON HAS BEEN DEFEATED !!! <<"
 	{
@@ -407,7 +354,7 @@
 	}
 	"*** GOOD JOB TEAM !!! ***"
 	{
-		"trans"		"***干得漂亮!***"
+		"trans"		"***干得漂亮!!!***"
 	}
 	"*** .... WHAT IS HAPPENING ?? ***"
 	{
@@ -415,11 +362,11 @@
 	}
 	">> IT'S SATAN AGAIN !!! <<"
 	{
-		"trans"		">><SATAN-傻蛋>降临!!!!<<"
+		"trans"		">>BOSS <SATAN-傻蛋> 降临!!!<<"
 	}
 	">> SHOOT HIM WE NEED TO SAVE THE ANGELS !!! <<"
 	{
-		"trans"		">>快干爆撒旦!!夺回小天使们!!<<"
+		"trans"		">>快干爆撒旦!!夺回小天使们!!!<<"
 	}
 	">> NADE DOES MORE DAMAGE <<"
 	{
@@ -427,7 +374,7 @@
 	}
 	">> SATAN IS HURT !!! <<"
 	{
-		"trans"		"***<SATAN-傻蛋>暂时败退!!!***"
+		"trans"		">><SATAN-傻蛋>暂时败退!!!<<"
 	}
 	">> ESCAPE VIA THE PORTAL !!! <<"
 	{
@@ -449,186 +396,25 @@
 	{
 		"trans"		">>传送门已关闭!!!<<"
 	}
-	"[Level2] Destroy the TV"
-	{
-		"trans"		">>[Lv:2]目标:摧毁电视核心<<"
-	}
-	">> BREAK THE HEART OF THE TV <<"
-	{
-		"trans"		">>摧毁<TV HEART-电视核心>!!!<<"
-	}
-	">> TV HEART IS COLLAPSING KEEP SHOOTING !!!!!! <<"
-	{
-		"trans"		">><TV HEART-电视核心>开始漏电了 继续开火不要停下来!!!<<"
-	}
-	">> THE TV HEART IS DESTROYED <<"
-	{
-		"trans"		">><TV HEART-电视核心>已被摧毁<<"
-	}
-	">> THE BUILDING WILL BLOW UP <<"
-	{
-		"trans"		">>电视塔将要爆炸!!<<"
-	}
-	">> LEVEL COMPLETED!! <<"
-	{
-		"trans"		">>——MISSOIN COMPLETE——<<"
-	}
-	"[Level3] Explore the Heaven"
-	{
-		"trans"		">>[Lv:3]目标:探索天堂<<"
-	}
-	">> OH NO!! ITS GOD <<"
-	{
-		"trans"		">><GOD-退休天神>降临!!!<<"
-	}
-	">> GOD HAS BEEN DEFEATED !!! <<"
-	{
-		"trans"		">><GOD-退休天神>已经被我们干爆了!!!<<"
-	}
-	"*** BUTTERFLY LEAVING IN 15 SECONDS ***"
-	{
-		"trans"		"***蝴蝶小妹将在15秒后起飞***"
-	}
-	">> 3 WINS IN A ROW !!! <<"
-	{
-		"trans"		">>连续胜利三个回合!!!!<<"
-	}
-	">> SECRET MUSIC UNLOCKED FOR ZM ROUND <<"
-	{
-		"trans"		">>在ZM回合会解锁隐藏音乐<<"
-	}
-	"[Extreme1] Find the Groke"
-	{
-		"trans"		">>[Lv:EX1]目标:找到<Groke-大地鼠><<"
-	}
-	"*** FLY LEAVING IN 20 SECONDS ***"
-	{
-		"trans"		"***苍蝇小弟将在20秒后起飞***"
-	}
-	"4"
-	{
-		"10 Painting Found"
-		{
-			"trans"		">>4/10 暴漫<<"
-		}
-		"10 Ghost Found"
-		{
-			"trans"		">>4/10 幽灵<<"
-		}
-		"10 Angel Found"
-		{
-			"trans"		">>4/10 天使<<"
-		}
-	}
-	"5"
-	{
-		"10 Ghost Found"
-		{
-			"trans"		">>5/10 幽灵<<"
-		}
-		"10 Painting Found"
-		{
-			"trans"		">>5/10 暴漫<<"
-		}
-		"10 Angel Found"
-		{
-			"trans"		">>5/10 天使<<"
-		}
-	}
-	"6"
-	{
-		"10 Ghost Found"
-		{
-			"trans"		">>6/10 幽灵<<"
-		}
-		"10 Angel Found"
-		{
-			"trans"		">>6/10 天使<<"
-		}
-		"10 Painting Found"
-		{
-			"trans"		">>6/10 暴漫<<"
-		}
-	}
-	"7"
-	{
-		"10 Ghost Found"
-		{
-			"trans"		">>7/10 幽灵<<"
-		}
-		"10 Angel Found"
-		{
-			"trans"		">>7/10 天使<<"
-		}
-	}
-	"8"
-	{
-		"10 Angel Found"
-		{
-			"trans"		">>8/10 天使<<"
-		}
-		"10 Ghost Found"
-		{
-			"trans"		">>8/10 幽灵<<"
-		}
-	}
-	"9"
-	{
-		"10 Angel Found"
-		{
-			"trans"		">>9/10 天使<<"
-		}
-		"10 Ghost Found"
-		{
-			"trans"		">>9/10 幽灵<<"
-		}
-	}
-	"10"
-	{
-		"10 Angel Found"
-		{
-			"trans"		">>10/10 天使<<"
-		}
-		"10 Ghost Found"
-		{
-			"trans"		">>10/10 幽灵<<"
-		}
-	}
-	"Boss Attack Delayed"
-	{
-		"trans"		">>Boss的攻击发生延迟<<"
-	}
-	"***地图由大世界移植***"
-	{
-		"blocked"		"1"
-	}
 	">> SATAN IS FINALLY DEFEATED !!! <<"
 	{
-		"trans"		">><SATAN-傻蛋>已被我们手撕!!!!<<"
-	}
-	"Congratulation !!!"
-	{
-		"trans"		">>!!干的阔以!!<<"
+		"trans"		">><SATAN-傻蛋>已被我们手撕!!!<<"
 	}
 	">> You have succesfully saved Shroomforest world !! <<"
 	{
-		"trans"		">>你们已经制霸了<蘑菇世界2>!!!!<<<"
+		"trans"		">>你们已经制霸了<蘑菇世界2>!!!<<"
 	}
 	">> NEXT LEVEL ZM <<"
 	{
 		"trans"		">>下回合为<ZM-僵尸感染><<"
 	}
-	"[ZM] Save your ass from Zombies"
-	{
-		"trans"		">>[ZM]保护你的菊花不被僵尸爆烂<<"
-	}
 	">> LEVEL: ZM <<"
 	{
-		"trans"		">>当前关卡:<ZM-僵尸感染><<"
+		"trans"		">>当前回合:ZM-僵尸感染<<"
 	}
 	">> SECRET MUSIC UNLOCKED <<"
 	{
-		"trans"		">> SECRET MUSIC UNLOCKED <<"
+		"trans"		">>隐藏音乐已解锁<<"
 	}
 	">> SURVIVE 180 SECONDS IN THE SPAWN AND TV AREA <<"
 	{
@@ -640,11 +426,7 @@
 	}
 	">> 150 SECONDS LEFT <<"
 	{
-		"trans"		">>生存150秒"
-	}
-	">> PLAYER HAS CHOSEN: HEAVEN NORMAL <<"
-	{
-		"trans"		">>有玩家选择了<天堂-普通难度>"
+		"trans"		">>生存150秒<<"
 	}
 	">> 120 SECONDS LEFT <<"
 	{
@@ -658,24 +440,64 @@
 	{
 		"trans"		">>生存70秒<<"
 	}
+	">> PLAYER HAS CHOSEN: THE END <<"
+	{
+		"trans"		">>已调关为<终局><<"
+	}
 	">> 50 SECONDS LEFT <<"
 	{
 		"trans"		">>生存50秒<<"
 	}
 	">> 5 SECONDS LEFT <<"
 	{
-		"trans"		">>生存5秒<<"
+		"trans"		">>!!!最后5秒!!!<<"
 	}
-	">> PLAYER HAS CHOSEN: RAVINE EXTREME <<"
+	">> ZOMBIE ABOARD !! YOU FAILED !! <<"
 	{
-		"trans"		">>有玩家选择了<峡谷-EX难度><<"
+		"trans"		">>有僵尸闯进了平台!!你们输了!!<<"
+	}
+	">> ZOMBIE SHROOM HAS BEEN PICKED UP <<"
+	{
+		"trans"		">>有僵尸获得了<反胃蘑菇>(扭曲)<<"
 	}
 	">> PLAYER HAS CHOSEN: HEAVEN EXTREME <<"
 	{
-		"trans"		">>有玩家选择了<天堂-EX难度><<"
+		"trans"		">>已调关为<天堂-EX难度><<"
+	}
+	">> TV HEART IS COLLAPSING KEEP SHOOTING !!!!!! <<"
+	{
+        "trans"		">><TV HEART-电视核心>开始漏电了 继续开火不要停下来!!!<<"
+    }
+	">> ZOMBIE CLOUD HAS BEEN PICKED UP <<"
+	{
+		"trans"		">>有僵尸获得了<金丹期大修士雷劫>(雷云)<<"
+	}
+	">> PLAYER HAS CHOSEN: RAVINE EXTREME <<"
+	{
+		"trans"		">>已调关为<峡谷-EX难度><<"
 	}
 	">> PLAYER HAS CHOSEN: RAVINE <<"
 	{
-		"trans"		">>有玩家选择了<峡谷-普通难度><<"
+		"trans"		">>已调关为<峡谷-普通难度><<"
+	}
+	">> PLAYER HAS CHOSEN: HEAVEN NORMAL <<"
+	{
+		"trans"		">>已调关为<天堂-普通难度>"
+	}
+	">> PLAYER HAS CHOSEN: TV EXTREME <<"
+	{
+		"trans"		">>已调关为<TV电视塔-EX难度><<"
+	}
+	">> PLAYER HAS CHOSEN: TV NORMAL <<"
+	{
+		"trans"		">>已调关为<TV电视塔-普通难度><<"
+	}
+	">> PLAYER HAS CHOSEN: ZM <<"
+	{
+		"trans"		">>已调关为<ZM-僵尸感染><<"
+	}
+	">> RESTARTING ROUND IN 5 SECONDS <<"
+	{
+		"trans"		">>5秒后重启回合<<"
 	}
 }
