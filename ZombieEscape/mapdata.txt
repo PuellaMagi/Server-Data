@@ -1395,7 +1395,7 @@
 	}
 	"ze_30_seconds_go_v2"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"生死三十秒(乐高版): 尚未明朗"
 		"price"		"100"
 		"Size"		"21"
 		"Nice"		"0"
@@ -1472,7 +1472,7 @@
 	}
 	"ze_anima_ruins_v2_2"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"灵魂废墟—扭曲反应: 尚未明朗"
 		"price"		"100"
 		"Size"		"77"
 		"Nice"		"0"
@@ -1542,7 +1542,7 @@
 	}
 	"ze_sandstorm_go_v1_3"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"新沙尘暴: 尚未明朗"
 		"price"		"100"
 		"Size"		"144"
 		"Nice"		"0"

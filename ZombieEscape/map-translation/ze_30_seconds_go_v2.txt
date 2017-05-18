@@ -14,6 +14,6 @@
 	}
 	"map made by -sang-. helper: V1KT0P"
 	{
-		"trans"		"生死30秒 作者-sang- 协助V1KT0P 翻译DohiCircle"
+		"trans"		"<生死30秒(乐高版)> 作者-sang- 协助V1KT0P 翻译DohiCircle"
 	}
 }
