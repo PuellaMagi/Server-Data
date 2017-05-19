@@ -1,0 +1,15 @@
+"Chat"
+{
+	"[Map] Scout"
+	{
+		"trans"		"[Map] Scout"
+	}
+	"[Map] Shotgun"
+	{
+		"trans"		"[Map] Shotgun"
+	}
+	"[Map] Deagle (headshot only)"
+	{
+		"trans"		"[Map] Deagle (headshot only)"
+	}
+}

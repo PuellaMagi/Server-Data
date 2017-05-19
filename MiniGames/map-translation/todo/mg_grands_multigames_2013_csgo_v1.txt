@@ -1,0 +1,27 @@
+"Chat"
+{
+	"[Map] Map made by xGrandx"
+	{
+		"trans"		"[Map] Map made by xGrandx"
+	}
+	"[Map] Map ported by Blogger(Dog)"
+	{
+		"trans"		"[Map] Map ported by Blogger(Dog)"
+	}
+	"**YOU'VE CHOSEN HEADSHOT (DEAGLE)**"
+	{
+		"trans"		"**YOU'VE CHOSEN HEADSHOT (DEAGLE)**"
+	}
+	"[Music] Clean Bandit - Rather Be (Lash Remix)"
+	{
+		"trans"		"[Music] Clean Bandit - Rather Be (Lash Remix)"
+	}
+	"**YOU'VE CHOSEN HEADSHOT (AUTOSNIPERS)**"
+	{
+		"trans"		"**YOU'VE CHOSEN HEADSHOT (AUTOSNIPERS)**"
+	}
+	"[Music] Adam Lambert - Ghost Town (Unlike Pluto Remix)"
+	{
+		"trans"		"[Music] Adam Lambert - Ghost Town (Unlike Pluto Remix)"
+	}
+}

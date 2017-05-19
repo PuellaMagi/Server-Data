@@ -28,10 +28,6 @@
 	{
 		"trans"		"***Resist for 60 seconds***"
 	}
-	"***Safeplace has been activated***"
-	{
-		"trans"		"***Safeplace has been activated***"
-	}
 	"***Zombies are coming!!***"
 	{
 		"trans"		"***Zombies are coming!!***"
@@ -44,21 +40,17 @@
 	{
 		"trans"		"***Teleporting all zombies...***"
 	}
-	"***10 seconds left***"
-	{
-		"trans"		"***10 seconds left***"
-	}
-	"***Gravity picked up***"
-	{
-		"trans"		"***Gravity picked up***"
-	}
-	"***Gravity Used***"
-	{
-		"trans"		"***Gravity Used***"
-	}
 	"***shorcut open***"
 	{
 		"trans"		"***shorcut open***"
+	}
+	"***10 SECONDS LEFT***"
+	{
+		"trans"		"***10 seconds left***"
+	}
+	"***Zombies are coming!***"
+	{
+		"trans"		"***Zombies are coming!***"
 	}
 	"***Resist 60 seconds***"
 	{
@@ -67,10 +59,6 @@
 	"***Blue block==bhop***"
 	{
 		"trans"		"***Blue block==bhop***"
-	}
-	"***Zombies are coming!***"
-	{
-		"trans"		"***Zombies are coming!***"
 	}
 	"***Watermelon***"
 	{
@@ -108,13 +96,13 @@
 	{
 		"trans"		"***Try to find second button***"
 	}
-	"***Zombies are coming***"
-	{
-		"trans"		"***Zombies are coming***"
-	}
 	"***Second teleport fixed in 30 seconds***"
 	{
 		"trans"		"***Second teleport fixed in 30 seconds***"
+	}
+	"***ZOMBIES ARE COMING***"
+	{
+		"trans"		"***Zombies are coming***"
 	}
 	"***5 seconds left, prepare yourself***"
 	{
@@ -140,24 +128,16 @@
 	{
 		"trans"		"***Thank you for playing***"
 	}
-	"***1／4***"
+	"***Safeplace has been activated***"
 	{
-		"trans"		"***1／4***"
+		"trans"		"***Safeplace has been activated***"
 	}
-	"***2／4***"
+	"***Gravity picked up***"
 	{
-		"trans"		"***2／4***"
+		"trans"		"***Gravity picked up***"
 	}
-	"***1 left***"
+	"***Gravity Used***"
 	{
-		"trans"		"***1 left***"
-	}
-	"..."
-	{
-		"trans"		"..."
-	}
-	"***Destructive in 3 seconds***"
-	{
-		"trans"		"***Destructive in 3 seconds***"
+		"trans"		"***Gravity Used***"
 	}
 }

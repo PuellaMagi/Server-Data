@@ -8,32 +8,264 @@
 	{
 		"trans"		"** GATE OPENS IN 5 SECONDS **"
 	}
-	"** TREASURE +1 GIL FOUND **"
+	"** ZE FFXII PARAMINA RIFT **"
 	{
-		"trans"		"** TREASURE +1 GIL FOUND **"
+		"trans"		"** ZE FFXII PARAMINA RIFT **"
 	}
-	"** TREASURE +87 GIL FOUND **"
+	"** GATES OPEN IN 30 SECONDS **"
 	{
-		"trans"		"** TREASURE +87 GIL FOUND **"
-	}
-	"** GATES OPEN IN 5 SECONDS **"
-	{
-		"trans"		"** GATES OPEN IN 5 SECONDS **"
-	}
-	"** Player has learned BLIZZARD (ice lvl1) **"
-	{
-		"trans"		"** Player has learned BLIZZARD (ice lvl1) **"
-	}
-	"** 35 GIL OBTAINED BY DEACTIVATING A TOWER **"
-	{
-		"trans"		"** 35 GIL OBTAINED BY DEACTIVATING A TOWER **"
+		"trans"		"** GATES OPEN IN 30 SECONDS **"
 	}
 	"** Player has learned CURE (heal lvl1) **"
 	{
 		"trans"		"** Player has learned CURE (heal lvl1) **"
 	}
+	"** HOLD 25 SECONDS **"
+	{
+		"trans"		"** HOLD 25 SECONDS **"
+	}
+	"** 5 seconds left **"
+	{
+		"trans"		"** 5 SECONDS LEFT **"
+	}
+	"** HOLD 20 SECONDS BEFORE A RANDOM PATH OPENS **"
+	{
+		"trans"		"** HOLD 20 SECONDS BEFORE A RANDOM PATH OPENS **"
+	}
+	"** Player has learned BLIZZARD (ice lvl2) **"
+	{
+		"trans"		"** Player has learned BLIZZARD (ice lvl2) **"
+	}
+	"** 2／5 TOWERS DESTROYED! **"
+	{
+		"trans"		"** 2／5 TOWERS DESTROYED! **"
+	}
+	"** GATES OPEN IN 5 SECONDS **"
+	{
+		"trans"		"** GATES OPEN IN 5 SECONDS **"
+	}
+	"** Player has learned POISON (damage lvl1) **"
+	{
+		"trans"		"** Player has learned POISON (damage lvl1) **"
+	}
+	"** 3／5 TOWERS DESTROYED! **"
+	{
+		"trans"		"** 3／5 TOWERS DESTROYED! **"
+	}
+	"** Player has learned FIRA (fire lvl3) **"
+	{
+		"trans"		"** Player has learned FIRA (fire lvl3) **"
+	}
+	"** 4／5 TOWERS DESTROYED! **"
+	{
+		"trans"		"** 4／5 TOWERS DESTROYED! **"
+	}
+	"** Player has learned AERO (wind lvl1) **"
+	{
+		"trans"		"** Player has learned AERO (wind lvl1) **"
+	}
 	"** HOLD 5 MORE SECONDS **"
 	{
 		"trans"		"** HOLD 5 MORE SECONDS **"
+	}
+	"** Player has learned FIRE (fire lvl2) **"
+	{
+		"trans"		"** Player has learned FIRE (fire lvl2) **"
+	}
+	"** TREASURE +71 GIL FOUND **"
+	{
+		"trans"		"** TREASURE +71 GIL FOUND **"
+	}
+	"** 35 GIL OBTAINED BY DEACTIVATING A TOWER **"
+	{
+		"trans"		"** 35 GIL OBTAINED BY DEACTIVATING A TOWER **"
+	}
+	"** Player has learned FLARE (damage lvl5) **"
+	{
+		"trans"		"** Player has learned FLARE (damage lvl5) **"
+	}
+	"** TREASURE +1 GIL FOUND **"
+	{
+		"trans"		"** TREASURE +1 GIL FOUND **"
+	}
+	"** THIS IS THE END OF THE FIRST STAGE **"
+	{
+		"trans"		"** THIS IS THE END OF THE FIRST STAGE **"
+	}
+	"** HOLD THE ENTRANCE FOR 10 SECONDS **"
+	{
+		"trans"		"** HOLD THE ENTRANCE FOR 10 SECONDS **"
+	}
+	"** HOLD THE ENTRANCE FOR 5 SECONDS **"
+	{
+		"trans"		"** HOLD THE ENTRANCE FOR 5 SECONDS **"
+	}
+	"** Congratulations - you won STAGE 1 NORMAL **"
+	{
+		"trans"		"** Congratulations - you won STAGE 1 NORMAL **"
+	}
+	"** BARRIER 1 OPENS IN 15 SECS **"
+	{
+		"trans"		"** BARRIER 1 OPENS IN 15 SECS **"
+	}
+	"** Player has learned CURAGA (heal lvl5) **"
+	{
+		"trans"		"** Player has learned CURAGA (heal lvl5) **"
+	}
+	"** Player has acquired a SPEED-POTION **"
+	{
+		"trans"		"** Player has acquired a SPEED-POTION **"
+	}
+	"0 '／. STAGGER"
+	{
+		"trans"		"0 '／. STAGGER"
+	}
+	"23 '／. STAGGER"
+	{
+		"trans"		"23 '／. STAGGER"
+	}
+	"45 '／. STAGGER"
+	{
+		"trans"		"45 '／. STAGGER"
+	}
+	"68 '／. STAGGER"
+	{
+		"trans"		"68 '／. STAGGER"
+	}
+	"65 '／. STAGGER"
+	{
+		"trans"		"65 '／. STAGGER"
+	}
+	"63 '／. STAGGER"
+	{
+		"trans"		"63 '／. STAGGER"
+	}
+	"60 '／. STAGGER"
+	{
+		"trans"		"60 '／. STAGGER"
+	}
+	"83 '／. STAGGER"
+	{
+		"trans"		"83 '／. STAGGER"
+	}
+	"80 '／. STAGGER"
+	{
+		"trans"		"80 '／. STAGGER"
+	}
+	"78 '／. STAGGER"
+	{
+		"trans"		"78 '／. STAGGER"
+	}
+	"** BOSS HAS BEEN STAGGERED **"
+	{
+		"trans"		"** BOSS HAS BEEN STAGGERED **"
+	}
+	"** BULLETS／NADES DOES 200 '／. DAMAGE ON BOSS FOR 10 SECONDS **"
+	{
+		"trans"		"** BULLETS／NADES DOES 200 '／. DAMAGE ON BOSS FOR 10 SECONDS **"
+	}
+	"** MATEUS IS CHARGING FOR SUPERATTACK **"
+	{
+		"trans"		"** MATEUS IS CHARGING FOR SUPERATTACK **"
+	}
+	"** The esper MATEUS is killed in action **"
+	{
+		"trans"		"** The esper MATEUS is killed in action **"
+	}
+	"** ELEVATOR WILL LEAVE IN 5 SECONDS **"
+	{
+		"trans"		"** ELEVATOR WILL LEAVE IN 5 SECONDS **"
+	}
+	"** HOLD THE ELEVATOR TILL WE REACH THE TOP **"
+	{
+		"trans"		"** HOLD THE ELEVATOR TILL WE REACH THE TOP **"
+	}
+	"** LIFT IS LEAVING IN 5 SECONDS **"
+	{
+		"trans"		"** LIFT IS LEAVING IN 5 SECONDS **"
+	}
+	"** DEFEND 25 SECONDS **"
+	{
+		"trans"		"** DEFEND 25 SECONDS **"
+	}
+	"** LIFT IS LEAVING AGAIN - GET IN **"
+	{
+		"trans"		"** LIFT IS LEAVING AGAIN - GET IN **"
+	}
+	"** A WAY HAS BEEN OPENED **"
+	{
+		"trans"		"** A WAY HAS BEEN OPENED **"
+	}
+	"** BARRIER 2 OPENS IN 15 SECS"
+	{
+		"trans"		"** BARRIER 2 OPENS IN 15 SECS"
+	}
+	"** Player has acquired a HI-POTION **"
+	{
+		"trans"		"** Player has acquired a HI-POTION **"
+	}
+	"** 5 MORE SECONDS LEFT BEFORE ENTERING THE MYSTERIOUS ROOM **"
+	{
+		"trans"		"** 5 MORE SECONDS LEFT BEFORE ENTERING THE MYSTERIOUS ROOM **"
+	}
+	"43 '／. STAGGER"
+	{
+		"trans"		"43 '／. STAGGER"
+	}
+	"40 '／. STAGGER"
+	{
+		"trans"		"40 '／. STAGGER"
+	}
+	"38 '／. STAGGER"
+	{
+		"trans"		"38 '／. STAGGER"
+	}
+	"35 '／. STAGGER"
+	{
+		"trans"		"35 '／. STAGGER"
+	}
+	"33 '／. STAGGER"
+	{
+		"trans"		"33 '／. STAGGER"
+	}
+	"30 '／. STAGGER"
+	{
+		"trans"		"30 '／. STAGGER"
+	}
+	"28 '／. STAGGER"
+	{
+		"trans"		"28 '／. STAGGER"
+	}
+	"25 '／. STAGGER"
+	{
+		"trans"		"25 '／. STAGGER"
+	}
+	"20 '／. STAGGER"
+	{
+		"trans"		"20 '／. STAGGER"
+	}
+	"18 '／. STAGGER"
+	{
+		"trans"		"18 '／. STAGGER"
+	}
+	"15 '／. STAGGER"
+	{
+		"trans"		"15 '／. STAGGER"
+	}
+	"13 '／. STAGGER"
+	{
+		"trans"		"13 '／. STAGGER"
+	}
+	"10 '／. STAGGER"
+	{
+		"trans"		"10 '／. STAGGER"
+	}
+	"8 '／. STAGGER"
+	{
+		"trans"		"8 '／. STAGGER"
+	}
+	"5 '／. STAGGER"
+	{
+		"trans"		"5 '／. STAGGER"
 	}
 }

@@ -20,7 +20,7 @@
 	{
 		"trans"		"***Hotel Power Restored***"
 	}
-	"***DOOR OPENING IN 20 SECONDS***"
+	"***Door Opening In 20 seconds***"
 	{
 		"trans"		"***Door Opening In 20 seconds***"
 	}
@@ -79,121 +79,5 @@
 	"**Boat Escape**"
 	{
 		"trans"		"**Boat Escape**"
-	}
-	"***Road Blocked.....Go Through The Park***"
-	{
-		"trans"		"***Road Blocked.....Go Through The Park***"
-	}
-	"***Get to the substation***"
-	{
-		"trans"		"***Get to the substation***"
-	}
-	"***Destroy The Electrical Lines***"
-	{
-		"trans"		"***Destroy The Electrical Lines***"
-	}
-	"***Activate Braracade Bomb***"
-	{
-		"trans"		"***Activate Braracade Bomb***"
-	}
-	"***Defend for 30 seconds***"
-	{
-		"trans"		"***Defend for 30 seconds***"
-	}
-	"Detonation in 30 Seconds"
-	{
-		"trans"		"Detonation in 30 Seconds"
-	}
-	"Detonation in 10 Seconds"
-	{
-		"trans"		"Detonation in 10 Seconds"
-	}
-	"***Blow Up The Reservoir***"
-	{
-		"trans"		"***Blow Up The Reservoir***"
-	}
-	"***Bomb Has Been Armed***"
-	{
-		"trans"		"***Bomb Has Been Armed***"
-	}
-	"***Detonation in 30 Seconds***"
-	{
-		"trans"		"***Detonation in 30 Seconds***"
-	}
-	"***Get On The Boat!!!***"
-	{
-		"trans"		"***Get On The Boat!!!***"
-	}
-	"***Water Textures by TopHattWaffleHoogland***"
-	{
-		"trans"		"***Water Textures by TopHattWaffleHoogland***"
-	}
-	"***Well Done Round 4 Completed***"
-	{
-		"trans"		"***Well Done Round 4 Completed***"
-	}
-	"***Starting Final Round***"
-	{
-		"trans"		"***Starting Final Round***"
-	}
-	"**Roof Escape**"
-	{
-		"trans"		"**Roof Escape**"
-	}
-	"***Avoid Water***"
-	{
-		"trans"		"***Avoid Water***"
-	}
-	"***Wait For The Lift***"
-	{
-		"trans"		"***Wait For The Lift***"
-	}
-	"***Zombies Teleporting in 10 Seconds***"
-	{
-		"trans"		"***Zombies Teleporting in 10 Seconds***"
-	}
-	"***GO***"
-	{
-		"trans"		"***GO***"
-	}
-	"***Detonation in 20 Seconds***"
-	{
-		"trans"		"***Detonation in 20 Seconds***"
-	}
-	"***Hold Till The Plank Is In Place***"
-	{
-		"trans"		"***Hold Till The Plank Is In Place***"
-	}
-	"***Refuel the Chopper***"
-	{
-		"trans"		"***Refuel the Chopper***"
-	}
-	"***Chopper Leaves in 50 Seconds***"
-	{
-		"trans"		"***Chopper Leaves in 50 Seconds***"
-	}
-	"***Nuke In 70 Seconds***"
-	{
-		"trans"		"***Nuke In 70 Seconds***"
-	}
-	"***Chopper Leaves in 10 Seconds***"
-	{
-		"trans"		"***Chopper Leaves in 10 Seconds***"
-	}
-	"***THANK YOU FOR PLAYING TOWNSCAPE***"
-	{
-		"trans"		"***THANK YOU FOR PLAYING TOWNSCAPE***"
-	}
-	"***Well Done All Rounds Completed***"
-	{
-		"trans"		"***Well Done All Rounds Completed***"
-	}
-	"***Restarting Final Round***"
-	{
-		"trans"		"***Restarting Final Round***"
-	}
-	"***Incoming Fire***"
-	{
-		"trans"		"***Incoming Fire***"
 	}
 }

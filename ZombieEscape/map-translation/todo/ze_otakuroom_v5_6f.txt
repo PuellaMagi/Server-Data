@@ -116,9 +116,13 @@
 	{
 		"trans"		"**Jump into the screen**"
 	}
-	"**Kanameishi**"
+	"**Gasu**"
 	{
-		"trans"		"**Kanameishi**"
+		"trans"		"**Gasu**"
+	}
+	"**Sakai**"
+	{
+		"trans"		"**Sakai**"
 	}
 	"**Im defeated.Its impossable**"
 	{
@@ -132,9 +136,9 @@
 	{
 		"trans"		"**[ZM]**"
 	}
-	"**[Admin]Stage 3**"
+	"**[Admin]ZM**"
 	{
-		"trans"		"**[Admin]Stage 3**"
+		"trans"		"**[Admin]ZM**"
 	}
 	"**Nuke in 3 mins**"
 	{
@@ -148,24 +152,16 @@
 	{
 		"trans"		"**Nuke in 1 min**"
 	}
-	"**Gasu**"
+	"**Round Failed**"
 	{
-		"trans"		"**Gasu**"
+		"trans"		"**Round Failed**"
 	}
 	"**全人类の绯想�?**"
 	{
 		"trans"		"**全人类の绯想�?**"
 	}
-	"**Round Failed**"
+	"**Kanameishi**"
 	{
-		"trans"		"**Round Failed**"
-	}
-	"**Sakai**"
-	{
-		"trans"		"**Sakai**"
-	}
-	"**[Admin]ZM**"
-	{
-		"trans"		"**[Admin]ZM**"
+		"trans"		"**Kanameishi**"
 	}
 }

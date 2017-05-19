@@ -124,21 +124,13 @@
 	{
 		"trans"		"IT'S REGICE, SHOOT"
 	}
-	"REGICE USED ANCIENT POWER!"
-	{
-		"trans"		"REGICE USED ANCIENT POWER!"
-	}
-	"GET OUT OF THE MIDDLE!"
-	{
-		"trans"		"GET OUT OF THE MIDDLE!"
-	}
 	"REGICE USED CANNONBOLT"
 	{
 		"trans"		"REGICE USED CANNONBOLT"
 	}
-	"REGICE USED MIST(HEALING)"
+	"REGICE USED CURSE!"
 	{
-		"trans"		"REGICE USED MIST(HEALING)"
+		"trans"		"REGICE USED CURSE!"
 	}
 	"REGICE HAS FAINTED!"
 	{
@@ -184,13 +176,13 @@
 	{
 		"trans"		"***Player has picked Buizel! (WATER)***"
 	}
-	"***Player has picked Chansey! (HEAL)***"
-	{
-		"trans"		"***Player has picked Chansey! (HEAL)***"
-	}
 	"***Recharge: 80 seconds.***"
 	{
 		"trans"		"***Recharge: 80 seconds.***"
+	}
+	"***Player has picked Chansey! (HEAL)***"
+	{
+		"trans"		"***Player has picked Chansey! (HEAL)***"
 	}
 	"***Recharge: 45 seconds.***"
 	{
@@ -212,17 +204,17 @@
 	{
 		"trans"		"***Recharge: 60 Seconds.**"
 	}
-	"LEFT PATH OPEN"
+	"RIGHT PATH OPEN!"
 	{
-		"trans"		"LEFT PATH OPEN"
+		"trans"		"RIGHT PATH OPEN!"
 	}
-	"TELEPORTER #1 WILL BE READY IN 45 SECONDS"
+	"TELEPORTER #3 WILL BE READY IN 45 SECONDS"
 	{
-		"trans"		"TELEPORTER #1 WILL BE READY IN 45 SECONDS"
+		"trans"		"TELEPORTER #3 WILL BE READY IN 45 SECONDS"
 	}
-	"TELEPORTER #1 WILL BE READY IN 10 SECONDS"
+	"TELEPORTER #3 WILL BE READY IN 10 SECONDS"
 	{
-		"trans"		"TELEPORTER #1 WILL BE READY IN 10 SECONDS"
+		"trans"		"TELEPORTER #3 WILL BE READY IN 10 SECONDS"
 	}
 	"DEFEND THIS AREA FOR 60 SECONDS"
 	{
@@ -236,18 +228,6 @@
 	{
 		"trans"		"DEFEND THIS AREA FOR 10 SECONDS"
 	}
-	"MIDDLE PATH OPEN"
-	{
-		"trans"		"MIDDLE PATH OPEN"
-	}
-	"TELEPORTER #2 WILL BE READY IN 45 SECONDS"
-	{
-		"trans"		"TELEPORTER #2 WILL BE READY IN 45 SECONDS"
-	}
-	"TELEPORTER #2 WILL BE READY IN 10 SECONDS"
-	{
-		"trans"		"TELEPORTER #2 WILL BE READY IN 10 SECONDS"
-	}
 	"PKMN Trainer Wally wants to fight"
 	{
 		"trans"		"PKMN Trainer Wally wants to fight"
@@ -260,25 +240,13 @@
 	{
 		"trans"		"Wally: GO KIRLIA!"
 	}
-	"Wally: KIRLIA USE TELEPORT"
-	{
-		"trans"		"Wally: KIRLIA USE TELEPORT"
-	}
-	"RIGHT PATH OPEN!"
-	{
-		"trans"		"RIGHT PATH OPEN!"
-	}
-	"TELEPORTER #3 WILL BE READY IN 45 SECONDS"
-	{
-		"trans"		"TELEPORTER #3 WILL BE READY IN 45 SECONDS"
-	}
-	"TELEPORTER #3 WILL BE READY IN 10 SECONDS"
-	{
-		"trans"		"TELEPORTER #3 WILL BE READY IN 10 SECONDS"
-	}
 	"Wally: KIRLIA USE SHOCK WAVE!"
 	{
 		"trans"		"Wally: KIRLIA USE SHOCK WAVE!"
+	}
+	"Wally: KIRLIA USE TELEPORT"
+	{
+		"trans"		"Wally: KIRLIA USE TELEPORT"
 	}
 	"Wally: KIRLIA, RETURN!"
 	{
@@ -295,5 +263,145 @@
 	"Wally: CROBAT USE TOXIC!"
 	{
 		"trans"		"Wally: CROBAT USE TOXIC!"
+	}
+	"REGICE USED ICEBEAM!"
+	{
+		"trans"		"REGICE USED ICEBEAM!"
+	}
+	"LEFT PATH OPEN"
+	{
+		"trans"		"LEFT PATH OPEN"
+	}
+	"TELEPORTER #1 WILL BE READY IN 45 SECONDS"
+	{
+		"trans"		"TELEPORTER #1 WILL BE READY IN 45 SECONDS"
+	}
+	"TELEPORTER #1 WILL BE READY IN 10 SECONDS"
+	{
+		"trans"		"TELEPORTER #1 WILL BE READY IN 10 SECONDS"
+	}
+	"MIDDLE PATH OPEN"
+	{
+		"trans"		"MIDDLE PATH OPEN"
+	}
+	"TELEPORTER #2 WILL BE READY IN 45 SECONDS"
+	{
+		"trans"		"TELEPORTER #2 WILL BE READY IN 45 SECONDS"
+	}
+	"TELEPORTER #2 WILL BE READY IN 10 SECONDS"
+	{
+		"trans"		"TELEPORTER #2 WILL BE READY IN 10 SECONDS"
+	}
+	"Wally: CROBAT, RETURN"
+	{
+		"trans"		"Wally: CROBAT, RETURN"
+	}
+	"Wally: I've been defeated...."
+	{
+		"trans"		"Wally: I've been defeated...."
+	}
+	"Wally: Today I couldn't beat you, but next time.."
+	{
+		"trans"		"Wally: Today I couldn't beat you, but next time.."
+	}
+	"Wally: Next time will be harder."
+	{
+		"trans"		"Wally: Next time will be harder."
+	}
+	"DEFEND HERE FOR 20 SECONDS"
+	{
+		"trans"		"DEFEND HERE FOR 20 SECONDS"
+	}
+	"DEFEND HERE FOR 10 SECONDS"
+	{
+		"trans"		"DEFEND HERE FOR 10 SECONDS"
+	}
+	"DEFEND HERE FOR 5 SECONDS"
+	{
+		"trans"		"DEFEND HERE FOR 5 SECONDS"
+	}
+	"Let's take a rest before we continue"
+	{
+		"trans"		"Let's take a rest before we continue"
+	}
+	"SHOOT GROUDON!"
+	{
+		"trans"		"SHOOT GROUDON!"
+	}
+	"GROUDON USED ROCK TOMB!"
+	{
+		"trans"		"GROUDON USED ROCK TOMB!"
+	}
+	"WE'RE TRAPPED, DESTROY THE TOMB!"
+	{
+		"trans"		"WE'RE TRAPPED, DESTROY THE TOMB!"
+	}
+	"GROUDON USED ANCIENTPOWER"
+	{
+		"trans"		"GROUDON USED ANCIENTPOWER"
+	}
+	"ZOMBIES ARE COMMING, GET READY"
+	{
+		"trans"		"ZOMBIES ARE COMMING, GET READY"
+	}
+	"GROUDON HAS FAINTED, LET'S GO"
+	{
+		"trans"		"GROUDON HAS FAINTED, LET'S GO"
+	}
+	"IT'S WALLY!?"
+	{
+		"trans"		"IT'S WALLY!?"
+	}
+	"Wally: IT'S NOT OVER YET GUYS."
+	{
+		"trans"		"Wally: IT'S NOT OVER YET GUYS."
+	}
+	"Wally: KIRLIA, USE BARRIER!"
+	{
+		"trans"		"Wally: KIRLIA, USE BARRIER!"
+	}
+	"SHOOT KIRLIA"
+	{
+		"trans"		"SHOOT KIRLIA"
+	}
+	"Wally: I'LL BE BACK!"
+	{
+		"trans"		"Wally: I'LL BE BACK!"
+	}
+	"DEFEND HERE FOR 35 SECONDS"
+	{
+		"trans"		"DEFEND HERE FOR 35 SECONDS"
+	}
+	"20 SECONDS!"
+	{
+		"trans"		"20 SECONDS!"
+	}
+	"10 SECONDS!"
+	{
+		"trans"		"10 SECONDS!"
+	}
+	"5"
+	{
+		"trans"		"5"
+	}
+	"4"
+	{
+		"trans"		"4"
+	}
+	"GROUDON USED FISSURE!"
+	{
+		"trans"		"GROUDON USED FISSURE!"
+	}
+	"GET ON THE SIDE PLATFORMS!"
+	{
+		"trans"		"GET ON THE SIDE PLATFORMS!"
+	}
+	"GROUDON USED LIGHTSCREEN"
+	{
+		"trans"		"GROUDON USED LIGHTSCREEN"
+	}
+	"DESTROY THE LIGHTSCREEN"
+	{
+		"trans"		"DESTROY THE LIGHTSCREEN"
 	}
 }

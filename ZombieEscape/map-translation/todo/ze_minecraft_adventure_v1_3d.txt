@@ -1,21 +1,5 @@
 "Chat"
 {
-	"*** CURRENT STAGE IS 1: Overworld ***"
-	{
-		"trans"		"*** CURRENT STAGE IS 1: Overworld ***"
-	}
-	"Map made by Cuniczek"
-	{
-		"trans"		"Map made by Cuniczek"
-	}
-	"Thanks to Enviolinador & Kaesar"
-	{
-		"trans"		"Thanks to Enviolinador & Kaesar"
-	}
-	"*** DEFEND 25 SECONDS ***"
-	{
-		"trans"		"*** DEFEND 25 SECONDS ***"
-	}
 	"*** 5 SECONDS REMAINING ***"
 	{
 		"trans"		"*** 5 SECONDS REMAINING ***"
@@ -23,10 +7,6 @@
 	"*** FALL BACK ***"
 	{
 		"trans"		"*** FALL BACK ***"
-	}
-	"*** MINECARTS LEAVING IN 25 SEC ***"
-	{
-		"trans"		"*** MINECARTS LEAVING IN 25 SEC ***"
 	}
 	"*** MINECARTS LEAVING IN 10 SEC ***"
 	{
@@ -36,33 +16,13 @@
 	{
 		"trans"		"*** GET INTO MINECARTS ***"
 	}
-	"***HOLD CASTLE 35 SEC***"
-	{
-		"trans"		"***HOLD CASTLE 35 SEC***"
-	}
 	"*** 5 SEC REMAINING ***"
 	{
 		"trans"		"*** 5 SEC REMAINING ***"
 	}
-	"*** BOATS LEAVING IN 15 SEC ***"
-	{
-		"trans"		"*** BOATS LEAVING IN 15 SEC ***"
-	}
 	"*** FALL BACK INTO BOATS ***"
 	{
 		"trans"		"*** FALL BACK INTO BOATS ***"
-	}
-	"*** TNT EXPLODING IN 20 SEC ***"
-	{
-		"trans"		"*** TNT EXPLODING IN 20 SEC ***"
-	}
-	"*** TAKE PICKAXE AND BREAK OBSIDIAN TO BUILD PORTAL ***"
-	{
-		"trans"		"*** TAKE PICKAXE AND BREAK OBSIDIAN TO BUILD PORTAL ***"
-	}
-	"*** FALL BACK! PORTAL IS ACTIVATING IN 5 SECONDS ***"
-	{
-		"trans"		"*** FALL BACK! PORTAL IS ACTIVATING IN 5 SECONDS ***"
 	}
 	"*** BUNKER IS CLOSING IN 15 SEC ***"
 	{
@@ -72,21 +32,9 @@
 	{
 		"trans"		"*** BUNKER IS CLOSING ***"
 	}
-	"*** HUMANS WON! MOVING ON TO STAGE 2 ***"
+	"Map made by Cuniczek"
 	{
-		"trans"		"*** HUMANS WON! MOVING ON TO STAGE 2 ***"
-	}
-	"*** CURRENT STAGE IS 2: The Nether ***"
-	{
-		"trans"		"*** CURRENT STAGE IS 2: The Nether ***"
-	}
-	"*** WALLS BREAK IN 15 SEC ***"
-	{
-		"trans"		"*** WALLS BREAK IN 15 SEC ***"
-	}
-	"*** RESIST 15 SECONDS ***"
-	{
-		"trans"		"*** RESIST 15 SECONDS ***"
+		"trans"		"Map made by Cuniczek"
 	}
 	"*** RESIST 10 SECONDS ***"
 	{
@@ -120,61 +68,21 @@
 	{
 		"trans"		"*** EVERYONE GET INSIDE! ***"
 	}
-	"*** GHAST HAS BEEN DEFEATED ***"
-	{
-		"trans"		"*** GHAST HAS BEEN DEFEATED ***"
-	}
-	"*** ESCAPE FROM THE NETHER!!! ***"
-	{
-		"trans"		"*** ESCAPE FROM THE NETHER!!! ***"
-	}
-	"*** ACTIVATE THE PORTAL USING FLINT AND STEEL ***"
-	{
-		"trans"		"*** ACTIVATE THE PORTAL USING FLINT AND STEEL ***"
-	}
-	"*** 40 SECONDS REMAINING ***"
-	{
-		"trans"		"*** 40 SECONDS REMAINING ***"
-	}
-	"*** 30 SECONDS REMAINING ***"
-	{
-		"trans"		"*** 30 SECONDS REMAINING ***"
-	}
 	"*** FLINT HAS BEEN PICKED UP ***"
 	{
 		"trans"		"*** FLINT HAS BEEN PICKED UP ***"
-	}
-	"*** 20 SECONDS REMAINING ***"
-	{
-		"trans"		"*** 20 SECONDS REMAINING ***"
-	}
-	"*** 10 SECONDS REMAINING ***"
-	{
-		"trans"		"*** 10 SECONDS REMAINING ***"
 	}
 	"*** STEEL HAS BEEN PICKED UP ***"
 	{
 		"trans"		"*** STEEL HAS BEEN PICKED UP ***"
 	}
+	"*** 10 SECONDS REMAINING ***"
+	{
+		"trans"		"*** 10 SECONDS REMAINING ***"
+	}
 	"*** HUMANS WON! MOVING ON TO STAGE 3 ***"
 	{
 		"trans"		"*** HUMANS WON! MOVING ON TO STAGE 3 ***"
-	}
-	"*** CURRENT STAGE IS 3: Jungle ***"
-	{
-		"trans"		"*** CURRENT STAGE IS 3: Jungle ***"
-	}
-	"*** YOU HAVE TO STAND ON ALL PRESSURE PLATES TO OPEN THE DOOR ***"
-	{
-		"trans"		"*** YOU HAVE TO STAND ON ALL PRESSURE PLATES TO OPEN THE DOOR ***"
-	}
-	"*** WELL DONE! NOW PRESS 2 LEVERS TO OPEN NEXT DOOR ***"
-	{
-		"trans"		"*** WELL DONE! NOW PRESS 2 LEVERS TO OPEN NEXT DOOR ***"
-	}
-	"*** WELL DONE! NEXT DOOR IS OPENING IN 30SEC ***"
-	{
-		"trans"		"*** WELL DONE! NEXT DOOR IS OPENING IN 30SEC ***"
 	}
 	"*** NEXT DOOR OPENS IN 20 SECONDS ***"
 	{
@@ -184,85 +92,37 @@
 	{
 		"trans"		"*** FIND A WAY TO OPEN THIS DOOR ***"
 	}
-	"*** THIS SHOULD WORK ***"
-	{
-		"trans"		"*** THIS SHOULD WORK ***"
-	}
-	"*** FIND REDSTONE TORCHES AND PUT THEM IN PLACE TO OPEN THE DOOR ***"
-	{
-		"trans"		"*** FIND REDSTONE TORCHES AND PUT THEM IN PLACE TO OPEN THE DOOR ***"
-	}
-	"*** NICELY DONE! ***"
-	{
-		"trans"		"*** NICELY DONE! ***"
-	}
-	"*** DOOR IS OPENING ***"
-	{
-		"trans"		"*** DOOR IS OPENING ***"
-	}
-	"*** DOOR OPENS IN 20 SEC ***"
-	{
-		"trans"		"*** DOOR OPENS IN 20 SEC ***"
-	}
 	"*** DEFEND FOR 40 SEC OR PRESS 2 BUTTONS AT THE SAME TIME ***"
 	{
 		"trans"		"*** DEFEND FOR 40 SEC OR PRESS 2 BUTTONS AT THE SAME TIME ***"
+	}
+	"*** CURRENT STAGE IS 3: Jungle ***"
+	{
+		"trans"		"*** CURRENT STAGE IS 3: Jungle ***"
 	}
 	"*** FALL BACK DOOR IS OPENING ***"
 	{
 		"trans"		"*** FALL BACK DOOR IS OPENING ***"
 	}
-	"*** SOLVE THE PUZZLE OR RESIST 30 SECONDS ***"
-	{
-		"trans"		"*** SOLVE THE PUZZLE OR RESIST 30 SECONDS ***"
-	}
 	"*** MOVE ON! NEXT DOOR IS OPENING ***"
 	{
 		"trans"		"*** MOVE ON! NEXT DOOR IS OPENING ***"
-	}
-	"Yes! We have found it! The Eyes of Ender. Now we can find Stronghold."
-	{
-		"trans"		"Yes! We have found it! The Eyes of Ender. Now we can find Stronghold."
-	}
-	"*** GET ON TOP OF THE TEMPLE AND RESIST 60 SECONDS ***"
-	{
-		"trans"		"*** GET ON TOP OF THE TEMPLE AND RESIST 60 SECONDS ***"
 	}
 	"*** 50 SECONDS REMAINING ***"
 	{
 		"trans"		"*** 50 SECONDS REMAINING ***"
 	}
-	"*** HUMANS WON! MOVING ON TO STAGE 4 ***"
+	"*** 30 SECONDS REMAINING ***"
 	{
-		"trans"		"*** HUMANS WON! MOVING ON TO STAGE 4 ***"
+		"trans"		"*** 30 SECONDS REMAINING ***"
 	}
-	"*** CURRENT STAGE IS 4: The End ***"
+	"*** KILL ZOMBIES ON TOP!  ***"
 	{
-		"trans"		"*** CURRENT STAGE IS 4: The End ***"
-	}
-	"*** THROW EYE OF ENDER BY USING IT ***"
-	{
-		"trans"		"*** THROW EYE OF ENDER BY USING IT ***"
+		"trans"		"*** KILL ZOMBIES ON TOP!  ***"
 	}
 	"We must follow the eye of ender to locate Stronghold!"
 	{
 		"trans"		"We must follow the eye of ender to locate Stronghold!"
-	}
-	"*** RUN INTO DESERT AND RESIST FOR A WHILE ***"
-	{
-		"trans"		"*** RUN INTO DESERT AND RESIST FOR A WHILE ***"
-	}
-	"Eye of ender fell into ocean! We better go and explore caves beneath ugly looking spanish house."
-	{
-		"trans"		"Eye of ender fell into ocean! We better go and explore caves beneath ugly looking spanish house."
-	}
-	"*** RUN INTO HOUSE ***"
-	{
-		"trans"		"*** RUN INTO HOUSE ***"
-	}
-	"*** RESIST FOR 30 SECONDS ***"
-	{
-		"trans"		"*** RESIST FOR 30 SECONDS ***"
 	}
 	"*** FALL BACK 5 SECONDS REMAINING ***"
 	{
@@ -272,6 +132,10 @@
 	{
 		"trans"		"*** GO INTO UNDERGROUND ***"
 	}
+	"*** RESIST 15 SECONDS ***"
+	{
+		"trans"		"*** RESIST 15 SECONDS ***"
+	}
 	"*** PORTAL IS ACTIVATING IN 35 SECONDS ***"
 	{
 		"trans"		"*** PORTAL IS ACTIVATING IN 35 SECONDS ***"
@@ -280,26 +144,6 @@
 	{
 		"trans"		"*** WE DID IT! WE ARE IN THE END! NOW... WE HAVE TO BREAK CRYSTALS AND... FIGHT... THE DRAGON ***"
 	}
-	"*** ALL CRYSTALS ARE BROKEN ***"
-	{
-		"trans"		"*** ALL CRYSTALS ARE BROKEN ***"
-	}
-	"*** GET IN THE MIDDLE WE HAVE TO FIGHT THE DRAGON ***"
-	{
-		"trans"		"*** GET IN THE MIDDLE WE HAVE TO FIGHT THE DRAGON ***"
-	}
-	"*** THE DRAGON IS DEAD ***"
-	{
-		"trans"		"*** THE DRAGON IS DEAD ***"
-	}
-	"*** JUMP INTO THE PORTAL ***"
-	{
-		"trans"		"*** JUMP INTO THE PORTAL ***"
-	}
-	"*** RUN!! WE MUST ESCAPE!!! ***"
-	{
-		"trans"		"*** RUN!! WE MUST ESCAPE!!! ***"
-	}
 	"*** WE SHOULD HOLD THIS ROOM AS LONG AS POSSIBLE ***"
 	{
 		"trans"		"*** WE SHOULD HOLD THIS ROOM AS LONG AS POSSIBLE ***"
@@ -307,33 +151,5 @@
 	"*** KILL ZOMBIES INSIDE!  ***"
 	{
 		"trans"		"*** KILL ZOMBIES INSIDE!  ***"
-	}
-	"He's watching you..."
-	{
-		"trans"		"He's watching you..."
-	}
-	"*** HEROBRINE! KILL HIM! ***"
-	{
-		"trans"		"*** HEROBRINE! KILL HIM! ***"
-	}
-	"*** HE'S RUNNING AWAY! ***"
-	{
-		"trans"		"*** HE'S RUNNING AWAY! ***"
-	}
-	"*** CONGRATULATIONS YOU HAVE BEATEN THE MAP ***"
-	{
-		"trans"		"*** CONGRATULATIONS YOU HAVE BEATEN THE MAP ***"
-	}
-	"*** Map made by Cuniczek ***"
-	{
-		"trans"		"*** Map made by Cuniczek ***"
-	}
-	"*** Thanks for playing! ***"
-	{
-		"trans"		"*** Thanks for playing! ***"
-	}
-	"*** KILL ZOMBIES ON TOP!  ***"
-	{
-		"trans"		"*** KILL ZOMBIES ON TOP!  ***"
 	}
 }

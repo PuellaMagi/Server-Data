@@ -1,0 +1,83 @@
+"Chat"
+{
+	"*Map by Neox*"
+	{
+		"trans"		"*Map by Neox*"
+	}
+	"*Thanks to Fuu and FreeZe :P *"
+	{
+		"trans"		"*Thanks to Fuu and FreeZe :P *"
+	}
+	"*Startdoor C is opening in 10 seconds!*"
+	{
+		"trans"		"*Startdoor C is opening in 10 seconds!*"
+	}
+	"*Elevator is leaving in 5 seconds!*"
+	{
+		"trans"		"*Elevator is leaving in 5 seconds!*"
+	}
+	"*Bridge is breaking in 30 seconds!*"
+	{
+		"trans"		"*Bridge is breaking in 30 seconds!*"
+	}
+	"*Bridge is breaking in 10 seconds!*"
+	{
+		"trans"		"*Bridge is breaking in 10 seconds!*"
+	}
+	"*Gate is opening!*"
+	{
+		"trans"		"*Gate is opening!*"
+	}
+	"*Tram is leaving in 12 seconds!*"
+	{
+		"trans"		"*Tram is leaving in 12 seconds!*"
+	}
+	"*AFK teleport in 10 seconds!*"
+	{
+		"trans"		"*AFK teleport in 10 seconds!*"
+	}
+	"*Right Gate is opening in 15 seconds!*"
+	{
+		"trans"		"*Right Gate is opening in 15 seconds!*"
+	}
+	"*Left Gate is opening in 15 seconds!*"
+	{
+		"trans"		"*Left Gate is opening in 15 seconds!*"
+	}
+	"*Right Gate is opening!*"
+	{
+		"trans"		"*Right Gate is opening!*"
+	}
+	"*Left Gate is opening!*"
+	{
+		"trans"		"*Left Gate is opening!*"
+	}
+	"*Bigdoor is opening in 30 seconds!*"
+	{
+		"trans"		"*Bigdoor is opening in 30 seconds!*"
+	}
+	"*Bigdoor is opening in 10 seconds!*"
+	{
+		"trans"		"*Bigdoor is opening in 10 seconds!*"
+	}
+	"*Bigdoor is opening!*"
+	{
+		"trans"		"*Bigdoor is opening!*"
+	}
+	"*Finaldoor is opening in 15 seconds!"
+	{
+		"trans"		"*Finaldoor is opening in 15 seconds!"
+	}
+	"*Finaldoor is opening!"
+	{
+		"trans"		"*Finaldoor is opening!"
+	}
+	"*Light in 30 seconds!*"
+	{
+		"trans"		"*Light in 30 seconds!*"
+	}
+	"*Light in 10 seconds!*"
+	{
+		"trans"		"*Light in 10 seconds!*"
+	}
+}

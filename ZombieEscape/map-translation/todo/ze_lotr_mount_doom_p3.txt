@@ -20,6 +20,10 @@
 	{
 		"trans"		"**Reach the Mount Doom**"
 	}
+	"***Earendil light has been picked***"
+	{
+		"trans"		"***Earendil light has been picked***"
+	}
 	"***Humans have reached Cirith Ungol tower. One human must open the door pressing the lever at the top of the tower***"
 	{
 		"trans"		"***Humans have reached Cirith Ungol tower. One human must open the door pressing the lever at the top of the tower***"
@@ -27,10 +31,6 @@
 	"***Nazguls coming to Minas Morgul in 15 s***"
 	{
 		"trans"		"***Nazguls coming to Minas Morgul in 15 s***"
-	}
-	"***Earendil light has been picked***"
-	{
-		"trans"		"***Earendil light has been picked***"
 	}
 	"**Lever pressed! Door will open in 15s**"
 	{
@@ -43,26 +43,6 @@
 	"***Nazguls coming to Cirith Ungol tower in 15 s***"
 	{
 		"trans"		"***Nazguls coming to Cirith Ungol tower in 15 s***"
-	}
-	"***Resist 30 s!!***"
-	{
-		"trans"		"***Resist 30 s!!***"
-	}
-	"***Nazguls coming to camp in 15 s***"
-	{
-		"trans"		"***Nazguls coming to camp in 15 s***"
-	}
-	"***Go into the Mount Doom!***"
-	{
-		"trans"		"***Go into the Mount Doom!***"
-	}
-	"***Resist 50 s!!***"
-	{
-		"trans"		"***Resist 50 s!!***"
-	}
-	"**Nazgul defeated!**"
-	{
-		"trans"		"**Nazgul defeated!**"
 	}
 	"***Humans have reached the Cirith Ungol tower***"
 	{
@@ -88,16 +68,24 @@
 	{
 		"trans"		"***THE RING HAS REACHED THE MOUNT DOOM: the ring carrier MUST throw the ring inside the volcano***"
 	}
+	"***Nazguls coming to camp in 15 s***"
+	{
+		"trans"		"***Nazguls coming to camp in 15 s***"
+	}
+	"***The Ring has been destroyed! Escape from Mordor!***"
+	{
+		"trans"		"***The Ring has been destroyed! Escape from Mordor!***"
+	}
+	"**Nazgul defeated!**"
+	{
+		"trans"		"**Nazgul defeated!**"
+	}
 	"***What are you waiting for?Just let it go!***"
 	{
 		"trans"		"***What are you waiting for?Just let it go!***"
 	}
-	"***Carrier says: the Ring is mine!***"
+	"**Defend until the others have returned!**"
 	{
-		"trans"		"***Carrier says: the Ring is mine!***"
-	}
-	"***The Ring carrier has betrayed us! Get into the Mount Doom and defend during 40s!***"
-	{
-		"trans"		"***The Ring carrier has betrayed us! Get into the Mount Doom and defend during 40s!***"
+		"trans"		"**Defend until the others have returned!**"
 	}
 }

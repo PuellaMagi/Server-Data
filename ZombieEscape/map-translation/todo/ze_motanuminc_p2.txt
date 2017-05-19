@@ -20,6 +20,10 @@
 	{
 		"trans"		"**Zombies head for the ZombieCopter now!**"
 	}
+	"*** Evil Zombie has been choosen***"
+	{
+		"trans"		"*** Evil Zombie has been choosen***"
+	}
 	"**ZombieCopter leaves in 10 seconds**"
 	{
 		"trans"		"**ZombieCopter leaves in 10 seconds**"
@@ -43,10 +47,6 @@
 	"**The Motanum Inc Weapons Of Mass Destruction are unstable!**"
 	{
 		"trans"		"**The Motanum Inc Weapons Of Mass Destruction are unstable!**"
-	}
-	"*** Evil Zombie has been choosen***"
-	{
-		"trans"		"*** Evil Zombie has been choosen***"
 	}
 	"**Song is Thunderhorse by Dethklok**"
 	{

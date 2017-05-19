@@ -4,6 +4,10 @@
 	{
 		"trans"		"***Tram Leaving Momentarily***"
 	}
+	"***Aux Door Opening In 30 Seconds***"
+	{
+		"trans"		"***Aux Door Opening In 30 Seconds***"
+	}
 	"***Outdoor Tram Starting in 25 Seconds***"
 	{
 		"trans"		"***Outdoor Tram Starting in 25 Seconds***"
@@ -47,10 +51,6 @@
 	"<<<Map ported by Et3rnity>>>"
 	{
 		"trans"		"<<<Map ported by Et3rnity>>>"
-	}
-	"***Aux Door Opening In 30 Seconds***"
-	{
-		"trans"		"***Aux Door Opening In 30 Seconds***"
 	}
 	"***Airlock Door Opening In 20 Seconds***"
 	{

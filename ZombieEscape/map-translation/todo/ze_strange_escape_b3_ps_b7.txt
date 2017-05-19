@@ -4,4 +4,20 @@
 	{
 		"trans"		"<!!!> MAP BY JB_GAMBLE <!!!>"
 	}
+	"<!!!> HOLD HERE 25 SECONDS <!!!>"
+	{
+		"trans"		"<!!!> HOLD HERE 25 SECONDS <!!!>"
+	}
+	"<!!!> 5 SECONDS <!!!>"
+	{
+		"trans"		"<!!!> 5 SECONDS <!!!>"
+	}
+	"<!!!> FALL BACK! GO! GO! <!!!>"
+	{
+		"trans"		"<!!!> FALL BACK! GO! GO! <!!!>"
+	}
+	"<!!!> HOLD HERE 20 SECONDS <!!!>"
+	{
+		"trans"		"<!!!> HOLD HERE 20 SECONDS <!!!>"
+	}
 }

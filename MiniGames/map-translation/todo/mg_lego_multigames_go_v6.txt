@@ -1,0 +1,207 @@
+"Chat"
+{
+	"[Map] Map by TheProdigy"
+	{
+		"trans"		"[Map] Map by TheProdigy"
+	}
+	"[Map] Map ported by Blogger(Dog)"
+	{
+		"trans"		"[Map] Map ported by Blogger(Dog)"
+	}
+	"[Map] Special thanks to DexKekcuk"
+	{
+		"trans"		"[Map] Special thanks to DexKekcuk"
+	}
+	"[Map] Secret room Enable"
+	{
+		"trans"		"[Map] Secret room Enable"
+	}
+	"[Map] Knife 65HP"
+	{
+		"trans"		"[Map] Knife 65HP"
+	}
+	"[Music] Imagine Dragons - Demons (Dzeko & Torres Remix)"
+	{
+		"trans"		"[Music] Imagine Dragons - Demons (Dzeko & Torres Remix)"
+	}
+	"[Map] Secret room Disable"
+	{
+		"trans"		"[Map] Secret room Disable"
+	}
+	"[Map] Blind Deagle"
+	{
+		"trans"		"[Map] Blind Deagle"
+	}
+	"[Music] Diplo - Revolution (Unlike Pluto Remix) "
+	{
+		"trans"		"[Music] Diplo - Revolution (Unlike Pluto Remix) "
+	}
+	"[Map] Spawn fight"
+	{
+		"trans"		"[Map] Spawn fight"
+	}
+	"[Music] Krewella - Alive"
+	{
+		"trans"		"[Music] Krewella - Alive"
+	}
+	"[Weapon] M4A1"
+	{
+		"trans"		"[Weapon] M4A1"
+	}
+	"[Hp] 300"
+	{
+		"trans"		"[Hp] 300"
+	}
+	"[Map] Long Jump v2"
+	{
+		"trans"		"[Map] Long Jump v2"
+	}
+	"[Map] Labyrinth"
+	{
+		"trans"		"[Map] Labyrinth"
+	}
+	"[Music] Charlie Clouser - Dead Silence Theme "
+	{
+		"trans"		"[Music] Charlie Clouser - Dead Silence Theme "
+	}
+	"[Map] Bhop"
+	{
+		"trans"		"[Map] Bhop"
+	}
+	"[Music] JayKode - Release (feat. Tima Dee)"
+	{
+		"trans"		"[Music] JayKode - Release (feat. Tima Dee)"
+	}
+	"[Map] 25 Second"
+	{
+		"trans"		"[Map] 25 Second"
+	}
+	"[Music] Mark Ronson - Uptown Funk ft. Bruno Mars"
+	{
+		"trans"		"[Music] Mark Ronson - Uptown Funk ft. Bruno Mars"
+	}
+	"[Map] Speed Jumps"
+	{
+		"trans"		"[Map] Speed Jumps"
+	}
+	"[Map] Shotgun"
+	{
+		"trans"		"[Map] Shotgun"
+	}
+	"[Map] AWP v2"
+	{
+		"trans"		"[Map] AWP v2"
+	}
+	"[Map] Many Rooms"
+	{
+		"trans"		"[Map] Many Rooms"
+	}
+	"[Music] Dropout - Slowly (Two Friends Remix)"
+	{
+		"trans"		"[Music] Dropout - Slowly (Two Friends Remix)"
+	}
+	"[Map] Football 100HP"
+	{
+		"trans"		"[Map] Football 100HP"
+	}
+	"[Map] CT Win"
+	{
+		"trans"		"[Map] CT Win"
+	}
+	"[Map] Football 1HP"
+	{
+		"trans"		"[Map] Football 1HP"
+	}
+	"[Map] T Win"
+	{
+		"trans"		"[Map] T Win"
+	}
+	"[Map] Blind Deagle v2"
+	{
+		"trans"		"[Map] Blind Deagle v2"
+	}
+	"[Map] Grenades"
+	{
+		"trans"		"[Map] Grenades"
+	}
+	"[Map] RandomGame..."
+	{
+		"trans"		"[Map] RandomGame..."
+	}
+	"[Map] Skate"
+	{
+		"trans"		"[Map] Skate"
+	}
+	"[Map] Skipping Rope"
+	{
+		"trans"		"[Map] Skipping Rope"
+	}
+	"[Map] >5<"
+	{
+		"trans"		"[Map] >5<"
+	}
+	"[Map] >4<"
+	{
+		"trans"		"[Map] >4<"
+	}
+	"[Map] >3<"
+	{
+		"trans"		"[Map] >3<"
+	}
+	"[Map] >2<"
+	{
+		"trans"		"[Map] >2<"
+	}
+	"[Map] >1<"
+	{
+		"trans"		"[Map] >1<"
+	}
+	"[Music] Archie - Back Again"
+	{
+		"trans"		"[Music] Archie - Back Again"
+	}
+	"[Map] >Go!<"
+	{
+		"trans"		"[Map] >Go!<"
+	}
+	"[Map] Long Jump"
+	{
+		"trans"		"[Map] Long Jump"
+	}
+	"[Music] Arman Cekin & Larcy - Taste"
+	{
+		"trans"		"[Music] Arman Cekin & Larcy - Taste"
+	}
+	"[Map] 2Rooms"
+	{
+		"trans"		"[Map] 2Rooms"
+	}
+	"[Map] Skate v2"
+	{
+		"trans"		"[Map] Skate v2"
+	}
+	"[Weapon] Knife"
+	{
+		"trans"		"[Weapon] Knife"
+	}
+	"[Hp] 250"
+	{
+		"trans"		"[Hp] 250"
+	}
+	"[Map] Scout"
+	{
+		"trans"		"[Map] Scout"
+	}
+	"[Gravity] Random gravity"
+	{
+		"trans"		"[Gravity] Random gravity"
+	}
+	"[Gravity] Low gravity"
+	{
+		"trans"		"[Gravity] Low gravity"
+	}
+	"[Map] AWP"
+	{
+		"trans"		"[Map] AWP"
+	}
+}

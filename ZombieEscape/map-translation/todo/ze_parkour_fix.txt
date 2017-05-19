@@ -1,27 +1,15 @@
 "Chat"
 {
-	"***metal door is opening***"
-	{
-		"trans"		"***metal door is opening***"
-	}
 	"***PORT TO CS GO BY EPIC |CABO|***"
 	{
 		"trans"		"***PORT TO CS GO BY EPIC |CABO|***"
 	}
-	"***storage door is opening***"
+	"***shoot the table legs***"
 	{
-		"trans"		"***storage door is opening***"
+		"trans"		"***shoot the table legs***"
 	}
-	"***Elevator is here***"
+	"***low gravity zone ahead. jump over the wall***"
 	{
-		"trans"		"***Elevator is here***"
-	}
-	"**wtf boom nuke is launched. 10 seconds until explosion**"
-	{
-		"trans"		"**wtf boom nuke is launched. 10 seconds until explosion**"
-	}
-	"***map by Denn15***"
-	{
-		"trans"		"***map by Denn15***"
+		"trans"		"***low gravity zone ahead. jump over the wall***"
 	}
 }

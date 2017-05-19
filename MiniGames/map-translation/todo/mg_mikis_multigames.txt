@@ -1,0 +1,159 @@
+"Chat"
+{
+	"Incoming one time spam"
+	{
+		"trans"		"Incoming one time spam"
+	}
+	"Map made by Darnias"
+	{
+		"trans"		"Map made by Darnias"
+	}
+	"[MiniGame] Ice Skate"
+	{
+		"trans"		"[MiniGame] Ice Skate"
+	}
+	"[SONG] Mediks - Come Back Down"
+	{
+		"trans"		"[SONG] Mediks - Come Back Down"
+	}
+	"[MiniGame] Bhop"
+	{
+		"trans"		"[MiniGame] Bhop"
+	}
+	"[SONG] Monstaz - Popcorn Funk"
+	{
+		"trans"		"[SONG] Monstaz - Popcorn Funk"
+	}
+	"Someone has won, teleporting everybody in 15secs"
+	{
+		"trans"		"Someone has won, teleporting everybody in 15secs"
+	}
+	"[MiniGame] Scouts"
+	{
+		"trans"		"[MiniGame] Scouts"
+	}
+	"[SONG] Virtual Riot - Paper Planes"
+	{
+		"trans"		"[SONG] Virtual Riot - Paper Planes"
+	}
+	"Fall damage disabled"
+	{
+		"trans"		"Fall damage disabled"
+	}
+	"Boosters disabled, middle ones still work"
+	{
+		"trans"		"Boosters disabled, middle ones still work"
+	}
+	"[SONG] The 1975 - Chocolate (Zanski remix)"
+	{
+		"trans"		"[SONG] The 1975 - Chocolate (Zanski remix)"
+	}
+	"[SONG] Milk N Cookies - Mastodon (Louis Child Remix)"
+	{
+		"trans"		"[SONG] Milk N Cookies - Mastodon (Louis Child Remix)"
+	}
+	"[MiniGame] Football 1HP"
+	{
+		"trans"		"[MiniGame] Football 1HP"
+	}
+	"CTs have scored!"
+	{
+		"trans"		"CTs have scored!"
+	}
+	"[MiniGame] Smash Floor"
+	{
+		"trans"		"[MiniGame] Smash Floor"
+	}
+	"Platforms will become destroyable in 5 seconds"
+	{
+		"trans"		"Platforms will become destroyable in 5 seconds"
+	}
+	"You can now destroy platforms with knife"
+	{
+		"trans"		"You can now destroy platforms with knife"
+	}
+	"[MiniGame] Taze war"
+	{
+		"trans"		"[MiniGame] Taze war"
+	}
+	"[SONG] Black Tiger Sex Machine - Destroy It (Urban Contact remix)"
+	{
+		"trans"		"[SONG] Black Tiger Sex Machine - Destroy It (Urban Contact remix)"
+	}
+	"[MiniGame] BoomBall"
+	{
+		"trans"		"[MiniGame] BoomBall"
+	}
+	"Knife it out!"
+	{
+		"trans"		"Knife it out!"
+	}
+	"[MiniGame] Football 100HP"
+	{
+		"trans"		"[MiniGame] Football 100HP"
+	}
+	"[SONG] Nihils - Help Our Souls (Urban Contact remix)"
+	{
+		"trans"		"[SONG] Nihils - Help Our Souls (Urban Contact remix)"
+	}
+	"[MiniGame] AWP"
+	{
+		"trans"		"[MiniGame] AWP"
+	}
+	"Fall damage enabled"
+	{
+		"trans"		"Fall damage enabled"
+	}
+	"Boosters disabled!"
+	{
+		"trans"		"Boosters disabled!"
+	}
+	"[MiniGame] Pistols Head Shot only"
+	{
+		"trans"		"[MiniGame] Pistols Head Shot only"
+	}
+	"[MiniGame] Knife 100HP"
+	{
+		"trans"		"[MiniGame] Knife 100HP"
+	}
+	"Ts have scored!"
+	{
+		"trans"		"Ts have scored!"
+	}
+	"[MiniGame] Knife"
+	{
+		"trans"		"[MiniGame] Knife"
+	}
+	"[MiniGame] War & Buy n' plant"
+	{
+		"trans"		"[MiniGame] War & Buy n' plant"
+	}
+	"Regen disabled!"
+	{
+		"trans"		"Regen disabled!"
+	}
+	"[MiniGame] Knife 35HP"
+	{
+		"trans"		"[MiniGame] Knife 35HP"
+	}
+	"Knife damage enabled"
+	{
+		"trans"		"Knife damage enabled"
+	}
+	"[Timelimit] 1 minute"
+	{
+		"trans"		"[Timelimit] 1 minute"
+	}
+	"[Timelimit] 30 seconds"
+	{
+		"trans"		"[Timelimit] 30 seconds"
+	}
+	"[Timelimit] 15 seconds"
+	{
+		"trans"		"[Timelimit] 15 seconds"
+	}
+	"Looks like we needed more balls"
+	{
+		"trans"		"Looks like we needed more balls"
+	}
+}

@@ -28,17 +28,13 @@
 	{
 		"trans"		"Mini train leaving in 5 seconds."
 	}
-	"Tracks crashed ahead"
-	{
-		"trans"		"Tracks crashed ahead"
-	}
 	"Remaining 5 seconds !"
 	{
 		"trans"		"Remaining 5 seconds !"
 	}
-	"Door opening in 15 seconds!"
+	"Tracks crashed ahead"
 	{
-		"trans"		"Door opening in 15 seconds!"
+		"trans"		"Tracks crashed ahead"
 	}
 	"Door opening in 5 seconds!"
 	{
@@ -48,13 +44,17 @@
 	{
 		"trans"		"Tram leaving in 10 seconds!"
 	}
-	"Security doors closing in 10."
+	"Door opening in 15 seconds!"
 	{
-		"trans"		"Security doors closing in 10."
+		"trans"		"Door opening in 15 seconds!"
 	}
 	"Train leaving in 30 seconds."
 	{
 		"trans"		"Train leaving in 30 seconds."
+	}
+	"Security doors closing in 10."
+	{
+		"trans"		"Security doors closing in 10."
 	}
 	"Train leaving in 20 seconds."
 	{
@@ -96,6 +96,10 @@
 	{
 		"trans"		"*** Difficulty : Extreme ***"
 	}
+	"Remaining 15 seconds !"
+	{
+		"trans"		"Remaining 15 seconds !"
+	}
 	"Door opening in 80 seconds!"
 	{
 		"trans"		"Door opening in 80 seconds!"
@@ -111,33 +115,5 @@
 	"*** Difficulty : Insane ***"
 	{
 		"trans"		"*** Difficulty : Insane ***"
-	}
-	"Remaining 15 seconds !"
-	{
-		"trans"		"Remaining 15 seconds !"
-	}
-	"*** Difficulty : rtv ***"
-	{
-		"trans"		"*** Difficulty : rtv ***"
-	}
-	"Admin pressed Insane button"
-	{
-		"trans"		"Admin pressed Insane button"
-	}
-	"Admin pressed rtv button"
-	{
-		"trans"		"Admin pressed rtv button"
-	}
-	"Admin pressed Extreme button"
-	{
-		"trans"		"Admin pressed Extreme button"
-	}
-	"Admin pressed Ex disable button"
-	{
-		"trans"		"Admin pressed Ex disable button"
-	}
-	"Admin pressed Ex button"
-	{
-		"trans"		"Admin pressed Ex button"
 	}
 }

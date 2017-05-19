@@ -32,6 +32,10 @@
 	{
 		"trans"		"**Use the tramway to get to the Helicopters!**"
 	}
+	"***Executing game reset****"
+	{
+		"trans"		"***Executing game reset****"
+	}
 	"***No fall damage***"
 	{
 		"trans"		"***No fall damage***"
@@ -80,13 +84,13 @@
 	{
 		"trans"		"**Barrier system is broken! Watch your backs!**"
 	}
-	"**Monitor B active**"
-	{
-		"trans"		"**Monitor B active**"
-	}
 	"**Monitor A active**"
 	{
 		"trans"		"**Monitor A active**"
+	}
+	"**Monitor B active**"
+	{
+		"trans"		"**Monitor B active**"
 	}
 	"**Plans aquired**"
 	{
@@ -136,14 +140,6 @@
 	{
 		"trans"		"**Tramway has left the station!**"
 	}
-	"***Easy mode completed***"
-	{
-		"trans"		"***Easy mode completed***"
-	}
-	"***Changing level to Normal***"
-	{
-		"trans"		"***Changing level to Normal***"
-	}
 	"**Get to the chopper**"
 	{
 		"trans"		"**Get to the chopper**"
@@ -155,21 +151,5 @@
 	"***Difficulty will not change***"
 	{
 		"trans"		"***Difficulty will not change***"
-	}
-	"***Changing level to Hard***"
-	{
-		"trans"		"***Changing level to Hard***"
-	}
-	"***Normal mode completed***"
-	{
-		"trans"		"***Normal mode completed***"
-	}
-	"***Hard mode completed***"
-	{
-		"trans"		"***Hard mode completed***"
-	}
-	"***Changing level to Suicide***"
-	{
-		"trans"		"***Changing level to Suicide***"
 	}
 }

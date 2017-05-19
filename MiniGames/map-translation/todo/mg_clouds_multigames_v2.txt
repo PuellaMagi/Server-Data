@@ -1,0 +1,47 @@
+"Chat"
+{
+	"*** Island has been chosen ***"
+	{
+		"trans"		"*** Island has been chosen ***"
+	}
+	"Map made by Cloud for Extreme Network"
+	{
+		"trans"		"Map made by Cloud for Extreme Network"
+	}
+	"C4 Activated"
+	{
+		"trans"		"C4 Activated"
+	}
+	"*** Bunker has been chosen ***"
+	{
+		"trans"		"*** Bunker has been chosen ***"
+	}
+	"*** Breakcastle has been chosen ***"
+	{
+		"trans"		"*** Breakcastle has been chosen ***"
+	}
+	"*** Spawn has been chosen ***"
+	{
+		"trans"		"*** Spawn has been chosen ***"
+	}
+	"*** Bank has been chosen ***"
+	{
+		"trans"		"*** Bank has been chosen ***"
+	}
+	"*** Blinddoge has been chosen ***"
+	{
+		"trans"		"*** Blinddoge has been chosen ***"
+	}
+	"*** Maze has been chosen ***"
+	{
+		"trans"		"*** Maze has been chosen ***"
+	}
+	"*** Centre of maze has been reached ***"
+	{
+		"trans"		"*** Centre of maze has been reached ***"
+	}
+	"*** Maze wall will break in 45 seconds ***"
+	{
+		"trans"		"*** Maze wall will break in 45 seconds ***"
+	}
+}

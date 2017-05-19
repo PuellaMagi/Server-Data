@@ -116,12 +116,52 @@
 	{
 		"trans"		"***看，前面有一个圣杯***"
 	}
+	"*** HOLY GRAIL HAS BEEN PICKED UP! LIGHT IS MOVING AGAIN***"
+	{
+		"trans"		"***圣杯已被拾起!跟紧圣光继续移动***"
+	}
 	"*** WE HAVE TO PICK IT UP IN ORDER TO CONTINUE! ***"
 	{
 		"trans"		"***我们必须把它捡起来才可以继续***"
 	}
 	"*** 60 SECONDS BEFORE LIGHT KILLS US AL IF THE GRAIL IS NOT PICKED UP! ***"
 	{
-		"trans"		"***我们只有60秒去捡起圣杯***"
+		"trans"		"***我们还有60秒去捡起圣杯!***"
+	}
+	"*** 45 SECONDS BEFORE LIGHT KILLS US AL IF THE GRAIL IS NOT PICKED UP! ***"
+	{
+		"trans"		"***我们还有45秒去捡起圣杯!***"
+	}
+	"*** 30 SECONDS BEFORE LIGHT KILLS US AL IF THE GRAIL IS NOT PICKED UP! ***"
+	{
+		"trans"		"***我们还有30秒去捡起圣杯!***"
+	}
+	"*** LAST HOLY GRAIL HAS BEEN PICKED UP! RUN SAFELY TO THE ALTAR! ***"
+	{
+		"trans"		"***最后的圣杯已被捡起! 跑向祭坛!***"
+	}
+	"*** 15 SECONDS LEFT BEFORE THE ORGAN WILL PLAY THE FINAL PIECE! ***"
+	{
+		"trans"		"***15秒后风琴将演奏最后一段!***"
+	}
+	"*** DO NOT EDGE AT ANY GIVEN TIME! ***"
+	{
+		"trans"		"***不要贴边!!!!***"
+	}
+	"*** DEFEND THE ALTAR! IF YOU SUCCEED GOD WILL KEEP US ALIVE! ***"
+	{
+		"trans"		"***防守祭坛! 上帝将保护我们!***"
+	}
+	"*** THE ZOMBIES WILL BE KILLED AT THE END OF THE ORGAN PERFORMANCE! ***"
+	{
+		"trans"		"***僵尸会在风琴表演结束时被处死！***"
+	}
+	"*** THE COMPLETE FRONT HAS BEEN OPENED! DEFEND THE SIDES TOO! ***"
+	{
+		"trans"		"***防守左右两边打开的口子!!!***"
+	}
+	"*** FINALE! DEFEND THE UPPER WINGS (ALSO BE SURE TO GET BACK ON TIME!!) ***"
+	{
+		"trans"		"***终曲!!!防守两边的旋转楼梯(记得在曲子结束前返回!!!!)***"
 	}
 }

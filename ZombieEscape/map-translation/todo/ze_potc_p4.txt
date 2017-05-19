@@ -12,17 +12,49 @@
 	{
 		"trans"		"Thanks to Belafarinrod Fuu and Kaemon!"
 	}
-	">>>Defend 30 seconds<<<"
+	">>>JACKS PISTOL HAS BEEN TAKEN<<<"
 	{
-		"trans"		">>>Defend 30 seconds<<<"
+		"trans"		">>>JACKS PISTOL HAS BEEN TAKEN<<<"
 	}
-	">>>5 seconds left<<<"
+	">>>Cool Down 60 secs<<<"
 	{
-		"trans"		">>>5 seconds left<<<"
+		"trans"		">>>Cool Down 60 secs<<<"
 	}
-	">>>RUUUUUN<<<"
+	">>>Press USE to shoot<<<"
 	{
-		"trans"		">>>RUUUUUN<<<"
+		"trans"		">>>Press USE to shoot<<<"
+	}
+	">>>PISTOL-SHOT CHARGING<<<"
+	{
+		"trans"		">>>PISTOL-SHOT CHARGING<<<"
+	}
+	">>>>Pistol ready in 60 s<<<<"
+	{
+		"trans"		">>>>Pistol ready in 60 s<<<<"
+	}
+	">>> HOLD 30 SECONDS <<<"
+	{
+		"trans"		">>> HOLD 30 SECONDS <<<"
+	}
+	">>> 5 SECONDS LEFT <<<"
+	{
+		"trans"		">>> 5 SECONDS LEFT <<<"
+	}
+	">>>>Pistol ready in 30 s<<<<"
+	{
+		"trans"		">>>>Pistol ready in 30 s<<<<"
+	}
+	">>> RUUUN <<<"
+	{
+		"trans"		">>> RUUUN <<<"
+	}
+	">>>>Pistol ready in 5 s<<<<"
+	{
+		"trans"		">>>>Pistol ready in 5 s<<<<"
+	}
+	">>>>PISTOL READY<<<<"
+	{
+		"trans"		">>>>PISTOL READY<<<<"
 	}
 	">>>10 seconds until 1st hold zone gets teleported<<<"
 	{
@@ -31,10 +63,6 @@
 	">>> HOLD THE MILL 30 SECONDS <<<"
 	{
 		"trans"		">>> HOLD THE MILL 30 SECONDS <<<"
-	}
-	">>> 5 SECONDS LEFT <<<"
-	{
-		"trans"		">>> 5 SECONDS LEFT <<<"
 	}
 	">>> JUMP ONTO THE WHEEL <<<"
 	{
@@ -60,48 +88,20 @@
 	{
 		"trans"		">>>15 seconds left<<<"
 	}
-	">>>JACKS PISTOL HAS BEEN TAKEN<<<"
-	{
-		"trans"		">>>JACKS PISTOL HAS BEEN TAKEN<<<"
-	}
-	">>>Cool Down 60 secs<<<"
-	{
-		"trans"		">>>Cool Down 60 secs<<<"
-	}
-	">>>Press USE to shoot<<<"
-	{
-		"trans"		">>>Press USE to shoot<<<"
-	}
-	">>>PISTOL-SHOT CHARGING<<<"
-	{
-		"trans"		">>>PISTOL-SHOT CHARGING<<<"
-	}
-	">>>>Pistol ready in 60 s<<<<"
-	{
-		"trans"		">>>>Pistol ready in 60 s<<<<"
-	}
-	">>>>Pistol ready in 30 s<<<<"
-	{
-		"trans"		">>>>Pistol ready in 30 s<<<<"
-	}
-	">>>>Pistol ready in 5 s<<<<"
-	{
-		"trans"		">>>>Pistol ready in 5 s<<<<"
-	}
-	">>>>PISTOL READY<<<<"
-	{
-		"trans"		">>>>PISTOL READY<<<<"
-	}
 	">>>CANNONS SHOOTING<<<"
 	{
 		"trans"		">>>CANNONS SHOOTING<<<"
 	}
-	">>> HOLD 30 SECONDS <<<"
+	">>>Defend 30 seconds<<<"
 	{
-		"trans"		">>> HOLD 30 SECONDS <<<"
+		"trans"		">>>Defend 30 seconds<<<"
 	}
-	">>> RUUUN <<<"
+	">>>5 seconds left<<<"
 	{
-		"trans"		">>> RUUUN <<<"
+		"trans"		">>>5 seconds left<<<"
+	}
+	">>>RUUUUUN<<<"
+	{
+		"trans"		">>>RUUUUUN<<<"
 	}
 }

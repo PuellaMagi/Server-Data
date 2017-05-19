@@ -48,6 +48,10 @@
 	{
 		"trans"		">>> ESCAPE ON THE ROOF, GOODLUCK HUMANS <<<"
 	}
+	">>>  USE THE FORK TO FORCE THE SECURITY DOOR <<<"
+	{
+		"trans"		">>>  USE THE FORK TO FORCE THE SECURITY DOOR <<<"
+	}
 	">>> THE SECURITY DOORS WILL BLOW UP IN 30S <<<"
 	{
 		"trans"		">>> THE SECURITY DOORS WILL BLOW UP IN 30S <<<"
@@ -55,10 +59,6 @@
 	">>> PRINCIPAL DOOR AT SPAWN JUST BLOW UP <<<"
 	{
 		"trans"		">>> PRINCIPAL DOOR AT SPAWN JUST BLOW UP <<<"
-	}
-	">>>  USE THE FORK TO FORCE THE SECURITY DOOR <<<"
-	{
-		"trans"		">>>  USE THE FORK TO FORCE THE SECURITY DOOR <<<"
 	}
 	">>> !!! WARNING !!! 5S <<<"
 	{
@@ -84,6 +84,10 @@
 	{
 		"trans"		">>> THE MINES WILL BLOW UP IN 30S <<<"
 	}
+	">>> !!! WARNING !!! THE NUCLEAR ROOM'S VENT HAS BEEN BROKEN <<<"
+	{
+		"trans"		">>> !!! WARNING !!! THE NUCLEAR ROOM'S VENT HAS BEEN BROKEN <<<"
+	}
 	">>> ZOMBIES HAVE TO WAIT 5S BEFORE THE NUCLEAR ROOM OPENS <<<"
 	{
 		"trans"		">>> ZOMBIES HAVE TO WAIT 5S BEFORE THE NUCLEAR ROOM OPENS <<<"
@@ -91,6 +95,10 @@
 	">>> THE CONTROL TOWER DOOR WILL OPEN IN 30S <<<"
 	{
 		"trans"		">>> THE CONTROL TOWER DOOR WILL OPEN IN 30S <<<"
+	}
+	"****> Music: The Dark Knight Rises  <**** "
+	{
+		"trans"		"****> Music: The Dark Knight Rises  <**** "
 	}
 	">>> RUN  <<<"
 	{
@@ -103,10 +111,6 @@
 	">>> CONTROL TOWER DOOR IN CORRIDOR WILL OPEN IN 5S, THE WINDOW UPON THE DOOR WILL AUTOMATICALLY BREAK <<<"
 	{
 		"trans"		">>> CONTROL TOWER DOOR IN CORRIDOR WILL OPEN IN 5S, THE WINDOW UPON THE DOOR WILL AUTOMATICALLY BREAK <<<"
-	}
-	"****> Music: The Dark Knight Rises  <**** "
-	{
-		"trans"		"****> Music: The Dark Knight Rises  <**** "
 	}
 	">>> !!! WARNING !!! WOODEN WALL WILL BREAK IN 15S <<<"
 	{
@@ -159,5 +163,69 @@
 	">>> TELEPORT DISABLE 5S<<<"
 	{
 		"trans"		">>> TELEPORT DISABLE 5S<<<"
+	}
+	">>> HUMANS HAVE TO COVER FOR 50S, GOOD LUCK <<<"
+	{
+		"trans"		">>> HUMANS HAVE TO COVER FOR 50S, GOOD LUCK <<<"
+	}
+	">>> !!! WARNING !!! 5S <<"
+	{
+		"trans"		">>> !!! WARNING !!! 5S <<"
+	}
+	">>> SHOOT WINDOW TO ACCESS TO THE FIRE EXTINGUISHER  <<<"
+	{
+		"trans"		">>> SHOOT WINDOW TO ACCESS TO THE FIRE EXTINGUISHER  <<<"
+	}
+	">>> THE FIRE WILL BE MASTERED IN 30S   <<<"
+	{
+		"trans"		">>> THE FIRE WILL BE MASTERED IN 30S   <<<"
+	}
+	">>> !!! FIRE EXTINGUISHED IN 5S!!! <<<"
+	{
+		"trans"		">>> !!! FIRE EXTINGUISHED IN 5S!!! <<<"
+	}
+	">>> WE'RE HACKING SECURITY DOOR, HOLD HERE FOR 30S <<<"
+	{
+		"trans"		">>> WE'RE HACKING SECURITY DOOR, HOLD HERE FOR 30S <<<"
+	}
+	">>> SHOOT THE WOODEN WALL    <<<"
+	{
+		"trans"		">>> SHOOT THE WOODEN WALL    <<<"
+	}
+	">>> SHOOT THE ELEVATOR CEILING TO ACCESS THE CONTROL ROOM <<<"
+	{
+		"trans"		">>> SHOOT THE ELEVATOR CEILING TO ACCESS THE CONTROL ROOM <<<"
+	}
+	">>> THE FINAL DOOR WILL START OPENING IN 35S <<<"
+	{
+		"trans"		">>> THE FINAL DOOR WILL START OPENING IN 35S <<<"
+	}
+	"****> Music: Metal Gear Solid OST : Escape  <**** "
+	{
+		"trans"		"****> Music: Metal Gear Solid OST : Escape  <**** "
+	}
+	"****> Music: Zack Hemsey  -  Mind Heist  <**** "
+	{
+		"trans"		"****> Music: Zack Hemsey  -  Mind Heist  <**** "
+	}
+	">>>!!! WARNING !!! 5S <<<"
+	{
+		"trans"		">>>!!! WARNING !!! 5S <<<"
+	}
+	">>> THE HELICOPTER WILL LEAVE IN 30S <<<"
+	{
+		"trans"		">>> THE HELICOPTER WILL LEAVE IN 30S <<<"
+	}
+	">>> THE HELICOPTER LEAVING NOW <<<"
+	{
+		"trans"		">>> THE HELICOPTER LEAVING NOW <<<"
+	}
+	">>> KILL ALL ZOMBIES IN THE CAGE <<<"
+	{
+		"trans"		">>> KILL ALL ZOMBIES IN THE CAGE <<<"
+	}
+	"****> Maps Created By GroSSo MineTTo<****"
+	{
+		"trans"		"****> Maps Created By GroSSo MineTTo<****"
 	}
 }

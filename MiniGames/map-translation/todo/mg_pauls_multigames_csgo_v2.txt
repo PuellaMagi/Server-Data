@@ -1,0 +1,19 @@
+"Chat"
+{
+	"**Map Made by [SG] Paul**"
+	{
+		"trans"		"**Map Made by [SG] Paul**"
+	}
+	"**Remake by FreeDOM**"
+	{
+		"trans"		"**Remake by FreeDOM**"
+	}
+	"For StrikeArena.ru"
+	{
+		"trans"		"For StrikeArena.ru"
+	}
+	"MiniGame: 77.243.98.227:27024"
+	{
+		"trans"		"MiniGame: 77.243.98.227:27024"
+	}
+}

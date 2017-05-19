@@ -1,0 +1,19 @@
+"Chat"
+{
+	"[Map] A player is choosing the game! You have 20 seconds."
+	{
+		"trans"		"[Map] A player is choosing the game! You have 20 seconds."
+	}
+	"[Map] Begin!"
+	{
+		"trans"		"[Map] Begin!"
+	}
+	"[Map] Sky Awp!"
+	{
+		"trans"		"[Map] Sky Awp!"
+	}
+	"[Map] Music: MDK - Jelly Castle"
+	{
+		"trans"		"[Map] Music: MDK - Jelly Castle"
+	}
+}

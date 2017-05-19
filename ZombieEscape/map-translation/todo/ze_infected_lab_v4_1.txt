@@ -1,0 +1,67 @@
+"Chat"
+{
+	"<< Defend this spot 45 seconds !!! >>"
+	{
+		"trans"		"<< Defend this spot 45 seconds !!! >>"
+	}
+	"<< Power button has been ulocked !!! >>"
+	{
+		"trans"		"<< Power button has been ulocked !!! >>"
+	}
+	"<< Press it  to initiate the escape process !!! >>"
+	{
+		"trans"		"<< Press it  to initiate the escape process !!! >>"
+	}
+	"<< Nice work, The process will take few seconds >>"
+	{
+		"trans"		"<< Nice work, The process will take few seconds >>"
+	}
+	"<< Defend this area !!! >>"
+	{
+		"trans"		"<< Defend this area !!! >>"
+	}
+	"<< Fall Back !!! >>"
+	{
+		"trans"		"<< Fall Back !!! >>"
+	}
+	"<< NOW !!! >>"
+	{
+		"trans"		"<< NOW !!! >>"
+	}
+	"<< you'll be able to escape in few seconds >>"
+	{
+		"trans"		"<< you'll be able to escape in few seconds >>"
+	}
+	"<< protect this engine, Defend until a solution is found >>"
+	{
+		"trans"		"<< protect this engine, Defend until a solution is found >>"
+	}
+	"<< The door has been shorted.....>>"
+	{
+		"trans"		"<< The door has been shorted.....>>"
+	}
+	"<< Defend 40 seconds !!! >>"
+	{
+		"trans"		"<< Defend 40 seconds !!! >>"
+	}
+	"<< Nuke has been launched !!! >>"
+	{
+		"trans"		"<< Nuke has been launched !!! >>"
+	}
+	"<< survive 60 seconds !!! >>"
+	{
+		"trans"		"<< survive 60 seconds !!! >>"
+	}
+	"Helicopter take off in 20 seconds"
+	{
+		"trans"		"Helicopter take off in 20 seconds"
+	}
+	"<< Helicopter take off in 15 seconds >>"
+	{
+		"trans"		"<< Helicopter take off in 15 seconds >>"
+	}
+	"<< Map made by Lup4n` >>"
+	{
+		"trans"		"<< Map made by Lup4n` >>"
+	}
+}
