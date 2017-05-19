@@ -1,0 +1,319 @@
+"Chat"
+{
+	">> IDEA: Sienestaja <<"
+	{
+		"block"		">>创意Sienestaja<<"
+	}
+	">> Map by TaskuVaras <<"
+	{
+		"trans"		">><蘑菇世界> 作者TaskuVaras 翻译DohiCircle<<"
+	}
+	">> Fixed by Moltard <<"
+	{
+		"trans"		">>修复Moltard<<"
+	}
+	"[Special Thanks to: Muro#[A] FT]"
+	{
+		"trans"		">>特别感谢Muro#[A] FT<<"
+	}
+	">> WARMUP ROUND <<"
+	{
+		"trans"		">>热身回合<<"
+	}
+	">> 40 SECONDS LEFT <<"
+	{
+		"trans"		">>热身还剩40秒<<"
+	}
+	">> 30 SECONDS LEFT <<"
+	{
+		"trans"		">>热身还剩30秒<<"
+	}
+	">> 20 SECONDS LEFT <<"
+	{
+		"trans"		">>热身还剩20秒<<"
+	}
+	">> 10 SECONDS LEFT <<"
+	{
+		"trans"		">>热身还剩10秒<<"
+	}
+	">> WARMUP ROUND END <<"
+	{
+		"trans"		">>热身结束<<"
+	}
+	">> LEVEL: FLAT GRASS <<"
+	{
+		"trans"		">>当前位置:长草平原<<"
+	}
+	"*** WAIT TILL THAT WALL BREAKS ***"
+	{
+		"trans"		"***给我一点时间炸毁这堵墙***"
+	}
+	">> PLAYER HAS PICKED UP 6 MINES <<"
+	{
+		"trans"		">>有人获得了<地雷蘑菇>(地雷)(0/6)<<"
+	}
+	"*** WALL IS BROKEN RUUUUUUN!! ***"
+	{
+		"trans"		"***墙被炸烂了!!!快走!!!***"
+	}
+	">> PLAYER HAS PICKED UP UNLIMITED AMMO <<"
+	{
+		"trans"		">>有人获得了<Fire At Will>(子弹)<<"
+	}
+	"*** WAIT TILL BOMB BREAKS THOSE BOARDS ***"
+	{
+		"trans"		"***再给我一点时间炸烂这些木板***"
+	}
+	"*** BOARDS ARE BROKEN RUUUUUUN!! ***"
+	{
+		"trans"		"***木板被炸烂了!!!继续前进!!!***"
+	}
+	"*** Leaf 1 leaving in 7 seconds ***"
+	{
+		"trans"		"***叶子1号将在7秒后离开***"
+	}
+	"*** Leaf 2 leaving in 7 seconds ***"
+	{
+		"trans"		"***叶子2号将在7秒后离开***"
+	}
+	">> HOLD FOR 30 seconds <<"
+	{
+		"trans"		">>防守30秒<<"
+	}
+	">> 5 more seconds <<"
+	{
+		"trans"		">>还有5秒<<"
+	}
+	">> GO! GO! GO! <<"
+	{
+		"trans"		">>我军必败!!!快撤!!!<<"
+	}
+	"*** OH NO Its an EVIL BUTTERFLY ***"
+	{
+		"trans"		"***BOSS <EVIL BUTTERFLY-地狱冥蝶> 出现了!!!***"
+	}
+	"*** SHOOT IT BEFORE ITS TOO LATE!! ***"
+	{
+		"trans"		"***尽快干烂<EVIL BUTTERFLY-地狱冥蝶> 不然它就要释放<大爆炸>了!!!***"
+	}
+	"*** BUTTERFLY IS DEAD RESCUE IS COMING ***"
+	{
+		"trans"		"***<EVIL BUTTERFLY-地狱冥蝶>已经被干爆 等待蝴蝶小妹来接我们***"
+	}
+	">> BUTTERFLY LEAVING IN 10 seconds <<"
+	{
+		"trans"		">>蝴蝶小妹将在10秒后起飞<<"
+	}
+	">> LEVEL COMPLETED!! <<"
+	{
+		"trans"		">>— — M I S S O I N    C O M P L E T E — —<<"
+	}
+	">> LEVEL: BIG TREE <<"
+	{
+		"trans"		">>当前位置:大树堡<<"
+	}
+	">> PLAYER HAS PICKED UP ICE <<"
+	{
+		"trans"		">>有人获得了<ICE MAKE FLOOR>(冰)<<"
+	}
+	"*** HOLD FOR 10 seconds ***"
+	{
+		"trans"		"***防守10秒***"
+	}
+	">> PLAYER HAS PICKED UP HEAL <<"
+	{
+		"trans"		">>有人获得了<小小兔姐姐的草莓味牛奶>(奶)<<"
+	}
+	"*** HOLD FOR 20 seconds ***"
+	{
+		"trans"		"***防守20秒***"
+	}
+	"*** HOLD FOR 40 seconds ***"
+	{
+		"trans"		"***防守40秒***"
+	}
+	">> PLAYER HAS PICKED UP FIRE <<"
+	{
+		"trans"		">>有人获得了<火焰蘑菇>(火)<<"
+	}
+	"*** HOLD FOR 5 seconds ***"
+	{
+		"trans"		"***防守5秒***"
+	}
+	"*** GO GO GO!!!! ***"
+	{
+		"trans"		"***溜了溜了!!!***"
+	}
+	"*** ELEVATOR LEAVING IN 20 seconds ***"
+	{
+		"trans"		"***电梯将在20秒后上升***"
+	}
+	"*** ELEVATOR LEAVING IN 10 seconds ***"
+	{
+		"trans"		"***电梯将在10秒后上升***"
+	}
+	"*** ELEVATOR LEAVING IN 5 seconds ***"
+	{
+		"trans"		"***电梯将在5秒后上升***"
+	}
+	">> ITS ANGRY PIKACHU SHOOT IT!!!!!!!!!! <<"
+	{
+		"trans"		">>BOSS <ANGRY PIKACHU-暴怒比卡丘> 登场!!!<<"
+	}
+	">> CT GET OFF THE ELEVATOR OR U WILL GET PUNISHED <<"
+	{
+		"trans"		">>人类请离开电梯不然会被传送进僵尸电梯<<"
+	}
+	">> PIKACHU IS USING THUNDERBOLT KEEP SHOOTING!!!!!!!!!! <<"
+	{
+		"trans"		">><ANGRY PIKACHU-暴怒比卡丘> 正在释放 <十万伏特>!!!<<"
+	}
+	"*** PIKACHU IS DEAD!! RUN TO RESCUE BUTTERFLY ***"
+	{
+		"trans"		"***<ANGRY PIKACHU-暴怒比卡丘>原地爆炸了!!!快去撤离点!!!***"
+	}
+	">> BUTTERFLY LEAVING IN 15 seconds <<"
+	{
+		"trans"		">>蝴蝶小妹将在15秒后起飞<<"
+	}
+	">> PLAYER HAS PICKED UP GRAVITY <<"
+	{
+		"trans"		">>有人获得了<地心引力>(黑洞)<<"
+	}
+	">> PLAYER HAS PICKED UP WIND <<"
+	{
+		"trans"		">>有人获得了<呼啸狂风>(风)<<"
+	}
+	">> LEVEL: HELL <<"
+	{
+		"trans"		">>当前位置:地狱<<"
+	}
+	"*** HOLD FOR 30 seconds ***"
+	{
+		"trans"		"***防守30秒***"
+	}
+	"*** DOOR IS OPEN! RUUUN! ***"
+	{
+		"trans"		"***门开了!开溜了伙计!***"
+	}
+	">> ALL 6 MINES USED <<"
+	{
+		"trans"		">><地雷蘑菇>用完了(6/6)<<"
+	}
+	">> PLAYER HAS PICKED UP EARTH <<"
+	{
+		"trans"		">>有人获得了<原谅蘑菇>(墙)<<"
+	}
+	">> SECRET IS NOW OPEN <<"
+	{
+		"trans"		">>隐藏房已经打开<<"
+	}
+	">> PLAYER HAS PICKED UP ULTIMATE WEAPON <<"
+	{
+		"trans"		">>有人获得了<吴克之耀>(终极)<<"
+	}
+	">> YOU NEED TO FIND A KEY TO OPEN THAT LOCK <<"
+	{
+		"trans"		">>你们需要找把钥匙打开这个锁才能继续前进<<"
+	}
+	">> MAYBE ITS IN THOSE BOXES IN SIDE ROOMS <<"
+	{
+		"trans"		">>钥匙可能藏在两边房子的箱子里快去找!!!<<"
+	}
+	"*** PLAYER FOUND A KEY ***"
+	{
+		"trans"		"***有人找到钥匙了 快来开门!!!***"
+	}
+	"*** OH NO!! ITS SATAN!! ***"
+	{
+		"trans"		"***BOSS <SATAN-傻蛋> 降临!!!***"
+	}
+	"*** SHOOT IT OR YOU WILL BE HIS SLAVES FOREVER!! ***"
+	{
+		"trans"		"***干爆它或者永远长眠在这里!!!***"
+	}
+	"*** THROW GRENADES TO KILL IT EASIER ***"
+	{
+		"trans"		"***提示:高爆手雷可对撒旦造成大量伤害***"
+	}
+	"*** SATAN IS PREPARING TO ATTACK ***"
+	{
+		"trans"		"***<SATAN-傻蛋>正在准备攻击……***"
+	}
+	"*** SATAN IS ATTACKING ***"
+	{
+		"trans"		"***<SATAN-傻蛋>开始攻击……***"
+	}
+	"*** KEEP SHOOTING ***"
+	{
+		"trans"		"***保持开火!!!***"
+	}
+	"*** SATAN IS HURT YOU ARE FREE TO LEAVE HELL ***"
+	{
+		"trans"		"***<SATAN-傻蛋>败退!!!我们可以离开这个鬼地方了!!!***"
+	}
+	">> WAIT FOR 10 SECONDS <<"
+	{
+		"trans"		">>等待10秒<<"
+	}
+	">> LEVEL COMPLETED <<"
+	{
+		"trans"		">>— — M I S S O I N    C O M P L E T E — —<<"
+	}
+	">> EXTREME MODE ADDED <<"
+	{
+		"trans"		">>EX难度模组加载……<<"
+	}
+	">> BOSSES ON LEVEL II <<"
+	{
+		"trans"		">>BOSS已经被强化快去送!!!<<"
+	}
+	"*** HOLD FOR ABOUT 30 SECONDS ***"
+	{
+		"trans"		"***防守大概30秒***"
+	}
+	"*** GO TO PRESS 2 BUTTONS AT THE SAME TIME TO CONTINUE ***"
+	{
+		"trans"		"***同时按下两边的按钮让电梯继续上升!!!***"
+	}
+	"*** GREAT DEFEND FOR 10 MORE SECONDS ***"
+	{
+		"trans"		"***干的好!!!电梯将在10秒后上升***"
+	}
+	">> WILD DITTO APPEARS SHOOT IT!!!!!!!!!! <<"
+	{
+		"trans"		">>野生的BOSS <暴漫百变怪>跳了出来 干爆它!!!<<"
+	}
+	">> WILD DITTO IS USING TRANSFORM!!!!!!!!! <<"
+	{
+		"trans"		">> <暴漫百变怪> 使用了 <变身>!!! <<"
+	}
+	">> DITTO IS USING SEED ATTACK <<"
+	{
+		"trans"		">> <暴漫百变怪-妙蛙种子形态> 使用了 <飞叶快刀>!!! <<"
+	}
+	">> DITTO IS USING FLAMETHROWER <<"
+	{
+		"trans"		">> <暴漫百变怪-小火龙形态> 使用了 <喷射火焰>!!! <<"
+	}
+	">> DITTO IS USING WATER... SOMETHING <<"
+	{
+		"trans"		">> <暴漫百变怪-杰尼龟形态> 使用了 <水枪>!!! <<"
+	}
+	">> DITTO IS USING THUNDERBOLT SWIM TO SAFETY <<"
+	{
+		"trans"		">> <暴漫百变怪-皮卡丘形态> 使用了 <十万伏特>!!! <<"
+	}
+	">> DITTO IS USING SOMETHING... FUNNY? <<"
+	{
+		"trans"		">> <暴漫百变怪-鬼斯形态> 使用了 <祸不单行>!!! <<"
+	}
+	">> ZOMBIES ABOARD!! LEVEL FAILED!! <<"
+	{
+		"trans"		">>有僵尸闯进了平台!!你们输了!!<<"
+	}
+	">> DITTO ATTACK IS STOPPED FEW SEC <<"
+	{
+		"trans"		">> <暴漫百变怪>即将停止攻击 <<"
+	}
+}
