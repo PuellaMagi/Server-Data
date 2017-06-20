@@ -1,0 +1,47 @@
+"Chat"
+{
+	" Map by Princess"
+	{
+		"trans"		" Map by Princess"
+	}
+	" Come say hi at steamcommunity.com／id／FactoryNewAnna"
+	{
+		"trans"		" Come say hi at steamcommunity.com／id／FactoryNewAnna"
+	}
+	"**YOU'VE CHOSEN WALLHACKS**"
+	{
+		"trans"		"**YOU'VE CHOSEN WALLHACKS**"
+	}
+	"**Song - TheFatRat Unity**"
+	{
+		"trans"		"**Song - TheFatRat Unity**"
+	}
+	"**YOU'VE CHOSEN HEADSHOT (AK47)**"
+	{
+		"trans"		"**YOU'VE CHOSEN HEADSHOT (AK47)**"
+	}
+	"**Song - Lenkso Cetus**"
+	{
+		"trans"		"**Song - Lenkso Cetus**"
+	}
+	"**YOU'VE CHOSEN SLIDERACE (HARD)**"
+	{
+		"trans"		"**YOU'VE CHOSEN SLIDERACE (HARD)**"
+	}
+	"**YOU'VE CHOSEN KNIFE (NORMAL)**"
+	{
+		"trans"		"**YOU'VE CHOSEN KNIFE (NORMAL)**"
+	}
+	"**Song - TheFatRat Timelapse**"
+	{
+		"trans"		"**Song - TheFatRat Timelapse**"
+	}
+	"**YOU'VE CHOSEN SHOTGUNS**"
+	{
+		"trans"		"**YOU'VE CHOSEN SHOTGUNS**"
+	}
+	"**Song - Popcorn Monstaz**"
+	{
+		"trans"		"**Song - Popcorn Monstaz**"
+	}
+}

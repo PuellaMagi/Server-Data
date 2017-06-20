@@ -16,4 +16,124 @@
 	{
 		"trans"		"[Map] Music: MDK - Jelly Castle"
 	}
+	"[Map] Lavarun!"
+	{
+		"trans"		"[Map] Lavarun!"
+	}
+	"[Map] 3.."
+	{
+		"trans"		"[Map] 3.."
+	}
+	"[Map] 2.."
+	{
+		"trans"		"[Map] 2.."
+	}
+	"[Map] 1.."
+	{
+		"trans"		"[Map] 1.."
+	}
+	"[Map] Music: Twitch Music 5"
+	{
+		"trans"		"[Map] Music: Twitch Music 5"
+	}
+	"[Map] Novaskate!"
+	{
+		"trans"		"[Map] Novaskate!"
+	}
+	"[Map] Music: DJSnake - Middle"
+	{
+		"trans"		"[Map] Music: DJSnake - Middle"
+	}
+	"[Map] Music: Gabe the halls"
+	{
+		"trans"		"[Map] Music: Gabe the halls"
+	}
+	"[Map] Music: Lil Wayne, Wiz Khalifa & Imagine Dragons w／ Logic & Ty Dolla $ign ft X Ambassadors - Sucker for Pain"
+	{
+		"trans"		"[Map] Music: Lil Wayne, Wiz Khalifa & Imagine Dragons w／ Logic & Ty Dolla $ign ft X Ambassadors - Sucker for Pain"
+	}
+	"[Map] Music: Imagine Dragons - Friction"
+	{
+		"trans"		"[Map] Music: Imagine Dragons - Friction"
+	}
+	"[Map] Music: CSGO - Decoy Remix"
+	{
+		"trans"		"[Map] Music: CSGO - Decoy Remix"
+	}
+	"[Map] Basketball! Throw the decoy into the basketballnet."
+	{
+		"trans"		"[Map] Basketball! Throw the decoy into the basketballnet."
+	}
+	"[Map] Music: Fall Out Boy - Novacaine"
+	{
+		"trans"		"[Map] Music: Fall Out Boy - Novacaine"
+	}
+	"[Map] Terrorist Wins!"
+	{
+		"trans"		"[Map] Terrorist Wins!"
+	}
+	"[Map] Music: Daft Labeouf - Harder, Better, Faster, Do it"
+	{
+		"trans"		"[Map] Music: Daft Labeouf - Harder, Better, Faster, Do it"
+	}
+	"[Map] SkyAwp ends in 60 seconds.."
+	{
+		"trans"		"[Map] SkyAwp ends in 60 seconds.."
+	}
+	"[Map] Music: MDK & Neowing - Boss Rush"
+	{
+		"trans"		"[Map] Music: MDK & Neowing - Boss Rush"
+	}
+	"[Map] Vollynades!"
+	{
+		"trans"		"[Map] Vollynades!"
+	}
+	"[Map] Begin! Don't fall off the platform!"
+	{
+		"trans"		"[Map] Begin! Don't fall off the platform!"
+	}
+	"[Map] Music: Eminem - Mom's Spaghetti"
+	{
+		"trans"		"[Map] Music: Eminem - Mom's Spaghetti"
+	}
+	"[Map] A random game has been chosen."
+	{
+		"trans"		"[Map] A random game has been chosen."
+	}
+	"[Map] Player picks random!"
+	{
+		"trans"		"[Map] Player picks random!"
+	}
+	"[Map] Novaskate will end in 60 seconds.."
+	{
+		"trans"		"[Map] Novaskate will end in 60 seconds.."
+	}
+	"[Map] Counter-Terrorist Wins!"
+	{
+		"trans"		"[Map] Counter-Terrorist Wins!"
+	}
+	"[Map] Music: CS:GO Ninjas in Pyjamas - Who We Are"
+	{
+		"trans"		"[Map] Music: CS:GO Ninjas in Pyjamas - Who We Are"
+	}
+	"[Map] Vollynade will end in 60 seconds."
+	{
+		"trans"		"[Map] Vollynade will end in 60 seconds."
+	}
+	"[Map] Basketball will end in 60 seconds.."
+	{
+		"trans"		"[Map] Basketball will end in 60 seconds.."
+	}
+	"[Map] Music: A-Ha - Take On Me"
+	{
+		"trans"		"[Map] Music: A-Ha - Take On Me"
+	}
+	"[Map] Basketball will end in 5 seconds.."
+	{
+		"trans"		"[Map] Basketball will end in 5 seconds.."
+	}
+	"[Map] Time's Up!"
+	{
+		"trans"		"[Map] Time's Up!"
+	}
 }

@@ -184,4 +184,60 @@
 	{
 		"trans"		"[Music] Matisyahu - Live Like A Warrior (Richello Remix)"
 	}
+	"[Map] T give weapons"
+	{
+		"trans"		"[Map] T give weapons"
+	}
+	"[Map] Weapon AK-47"
+	{
+		"trans"		"[Map] Weapon AK-47"
+	}
+	"[Map] Weapon Scout"
+	{
+		"trans"		"[Map] Weapon Scout"
+	}
+	"[Mod] BackStab mod"
+	{
+		"trans"		"[Mod] BackStab mod"
+	}
+	"[Map] Grenades"
+	{
+		"trans"		"[Map] Grenades"
+	}
+	"[Map] Randomly selection"
+	{
+		"trans"		"[Map] Randomly selection"
+	}
+	"[Map] Holes"
+	{
+		"trans"		"[Map] Holes"
+	}
+	"[Time] TimeLimit"
+	{
+		"trans"		"[Time] TimeLimit"
+	}
+	"[Map] T Win"
+	{
+		"trans"		"[Map] T WIN"
+	}
+	"[Map] Refire Time -  0.3 seconds"
+	{
+		"trans"		"[Map] Refire Time -  0.3 seconds"
+	}
+	"[Map] Winners Get 10 Points"
+	{
+		"trans"		"[Map] Winners Get 10 Points"
+	}
+	"[Map] AFK TIMER activated"
+	{
+		"trans"		"[Map] AFK TIMER activated"
+	}
+	"[Map] RANDOM GAME WILL BE CHOSEN"
+	{
+		"trans"		"[Map] RANDOM GAME WILL BE CHOSEN"
+	}
+	"[Map] CT WIN"
+	{
+		"trans"		"[Map] CT WIN"
+	}
 }

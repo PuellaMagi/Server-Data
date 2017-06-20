@@ -44,4 +44,104 @@
 	{
 		"trans"		"[Map] - maximize bob-ombs at time to three"
 	}
+	"[Map] molotov wars will be the next minigame"
+	{
+		"trans"		"[Map] molotov wars will be the next minigame"
+	}
+	"[Map] Everyone get every 5seconds a molotov"
+	{
+		"trans"		"[Map] Everyone get every 5seconds a molotov"
+	}
+	"[Map] soccer will be the next minigame"
+	{
+		"trans"		"[Map] soccer will be the next minigame"
+	}
+	"[Map] Terrorist win"
+	{
+		"trans"		"[Map] Terrorist win"
+	}
+	"[Map] skipping rope will be the next minigame"
+	{
+		"trans"		"[Map] skipping rope will be the next minigame"
+	}
+	"[Map] weapon damage disabled"
+	{
+		"trans"		"[Map] weapon damage disabled"
+	}
+	"[Map] engine is switched on"
+	{
+		"trans"		"[Map] engine is switched on"
+	}
+	"[Map] climb will be the next minigame"
+	{
+		"trans"		"[Map] climb will be the next minigame"
+	}
+	"[Map] - fall damage disabled"
+	{
+		"trans"		"[Map] - fall damage disabled"
+	}
+	"[Map] Killing all people in 15seconds"
+	{
+		"trans"		"[Map] Killing all people in 15seconds"
+	}
+	"[Map] Killing all people in 10seconds"
+	{
+		"trans"		"[Map] Killing all people in 10seconds"
+	}
+	"[Map] knife will be the next minigame"
+	{
+		"trans"		"[Map] knife will be the next minigame"
+	}
+	"[Map] block shot will be the next minigame"
+	{
+		"trans"		"[Map] block shot will be the next minigame"
+	}
+	"[Map] - engaging easy mode"
+	{
+		"trans"		"[Map] - engaging easy mode"
+	}
+	"[Map] - increased speed"
+	{
+		"trans"		"[Map] - increased speed"
+	}
+	"[Map] - weapon damage enabled"
+	{
+		"trans"		"[Map] - weapon damage enabled"
+	}
+	"[Map] Killing all people in 5seconds"
+	{
+		"trans"		"[Map] Killing all people in 5seconds"
+	}
+	"[Map] Killing all people in 4seconds"
+	{
+		"trans"		"[Map] Killing all people in 4seconds"
+	}
+	"[Map] Killing all people in 3seconds"
+	{
+		"trans"		"[Map] Killing all people in 3seconds"
+	}
+	"[Map] Killing all people in 2seconds"
+	{
+		"trans"		"[Map] Killing all people in 2seconds"
+	}
+	"[Map] Killing all people in 1second"
+	{
+		"trans"		"[Map] Killing all people in 1second"
+	}
+	"[Map] - maximized speed"
+	{
+		"trans"		"[Map] - maximized speed"
+	}
+	"[Map] nothing choosen..."
+	{
+		"trans"		"[Map] nothing choosen..."
+	}
+	"[Map] - All players alive get an AWP"
+	{
+		"trans"		"[Map] - All players alive get an AWP"
+	}
+	"[Map] Counter-Terrorist win"
+	{
+		"trans"		"[Map] Counter-Terrorist win"
+	}
 }

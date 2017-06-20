@@ -12,4 +12,40 @@
 	{
 		"trans"		"[Map] Deagle (headshot only)"
 	}
+	"[Map] Headshot (ak47)"
+	{
+		"trans"		"[Map] Headshot (ak47)"
+	}
+	"[Map] Usp"
+	{
+		"trans"		"[Map] Usp"
+	}
+	"[Map] Molotov"
+	{
+		"trans"		"[Map] Molotov"
+	}
+	"[Map] Buy "
+	{
+		"trans"		"[Map] Buy "
+	}
+	"[Map] Sky Way (knife)"
+	{
+		"trans"		"[Map] Sky Way (knife)"
+	}
+	"[Map] Awp"
+	{
+		"trans"		"[Map] Awp"
+	}
+	"[MAP] KNIFE"
+	{
+		"trans"		"[Map] Knife"
+	}
+	"[Map] Hard Wallhack (buy)"
+	{
+		"trans"		"[Map] Hard Wallhack (buy)"
+	}
+	"[Map] Smoke (1 hp)"
+	{
+		"trans"		"[Map] Smoke (1 hp)"
+	}
 }

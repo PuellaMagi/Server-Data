@@ -156,4 +156,12 @@
 	{
 		"trans"		"Looks like we needed more balls"
 	}
+	"Skate disabled!"
+	{
+		"trans"		"Skate disabled!"
+	}
+	"[MiniGame] Football 50HP"
+	{
+		"trans"		"[MiniGame] Football 50HP"
+	}
 }

@@ -1,0 +1,11 @@
+"Chat"
+{
+	"Original map by Mathijs!"
+	{
+		"trans"		"Original map by Mathijs!"
+	}
+	"CS:GO port by WriteX!"
+	{
+		"trans"		"CS:GO port by WriteX!"
+	}
+}

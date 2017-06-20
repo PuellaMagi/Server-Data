@@ -8,4 +8,20 @@
 	{
 		"trans"		"Music : PSY - Gangnam Style"
 	}
+	"Music : M83 - Midnight city"
+	{
+		"trans"		"Music : M83 - Midnight city"
+	}
+	"Music : Just Jack - Basement"
+	{
+		"trans"		"Music : Just Jack - Basement"
+	}
+	"No music"
+	{
+		"trans"		"No music"
+	}
+	"Someone want a new race, run with your weapon in 10 seconds !"
+	{
+		"trans"		"Someone want a new race, run with your weapon in 10 seconds !"
+	}
 }

@@ -1,0 +1,7 @@
+"Chat"
+{
+	"football"
+	{
+		"trans"		"football"
+	}
+}

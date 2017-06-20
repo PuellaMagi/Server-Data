@@ -120,4 +120,16 @@
 	{
 		"trans"		"----> Wall Break : 30 Seconds <----"
 	}
+	"----> Wall Break : 10 Seconds <----"
+	{
+		"trans"		"----> Wall Break : 10 Seconds <----"
+	}
+	"----> Wall Break : 5 Seconds <----"
+	{
+		"trans"		"----> Wall Break : 5 Seconds <----"
+	}
+	"----> Wall Break : Activated <----"
+	{
+		"trans"		"----> Wall Break : Activated <----"
+	}
 }

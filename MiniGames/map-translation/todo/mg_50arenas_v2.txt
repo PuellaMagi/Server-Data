@@ -492,4 +492,128 @@
 	{
 		"trans"		" EFFECT [ T2 S1 E3 ]"
 	}
+	" SIMON SAYS P250"
+	{
+		"trans"		" SIMON SAYS P250"
+	}
+	" EFFECT [ T2 S1 E2 ]"
+	{
+		"trans"		" EFFECT [ T2 S1 E2 ]"
+	}
+	" SIMON SAYS HEGRENADE"
+	{
+		"trans"		" SIMON SAYS HEGRENADE"
+	}
+	" ARENA  [ 2 ]"
+	{
+		"trans"		" ARENA  [ 2 ]"
+	}
+	" ARENA  [ 20 ]"
+	{
+		"trans"		" ARENA  [ 20 ]"
+	}
+	" EFFECT [ T1 S2 E2 ]"
+	{
+		"trans"		" EFFECT [ T1 S2 E2 ]"
+	}
+	" EFFECT [ T1 S1 E5 ]"
+	{
+		"trans"		" EFFECT [ T1 S1 E5 ]"
+	}
+	" ARENA  [ 25 ]"
+	{
+		"trans"		" ARENA  [ 25 ]"
+	}
+	" EFFECT [ T1 S3 E7 ]"
+	{
+		"trans"		" EFFECT [ T1 S3 E7 ]"
+	}
+	" EFFECT [ T3 S2 E4 ]"
+	{
+		"trans"		" EFFECT [ T3 S2 E4 ]"
+	}
+	" EFFECT [ T1 S2 E7 ]"
+	{
+		"trans"		" EFFECT [ T1 S2 E7 ]"
+	}
+	" EFFECT [ T2 S2 E3 ]"
+	{
+		"trans"		" EFFECT [ T2 S2 E3 ]"
+	}
+	" ARENA  [ 44 ]"
+	{
+		"trans"		" ARENA  [ 44 ]"
+	}
+	" EFFECT [ T2 S2 E5 ]"
+	{
+		"trans"		" EFFECT [ T2 S2 E5 ]"
+	}
+	" EFFECT [ T2 S2 E6 ]"
+	{
+		"trans"		" EFFECT [ T2 S2 E6 ]"
+	}
+	" EFFECT [ T1 S1 E2 ]"
+	{
+		"trans"		" EFFECT [ T1 S1 E2 ]"
+	}
+	" EFFECT [ T1 S3 E4 ]"
+	{
+		"trans"		" EFFECT [ T1 S3 E4 ]"
+	}
+	" EFFECT [ T2 S2 E7 ]"
+	{
+		"trans"		" EFFECT [ T2 S2 E7 ]"
+	}
+	" EFFECT [ T3 S2 E1 ]"
+	{
+		"trans"		" EFFECT [ T3 S2 E1 ]"
+	}
+	" EFFECT [ T2 S1 E6 ]"
+	{
+		"trans"		" EFFECT [ T2 S1 E6 ]"
+	}
+	" EFFECT [ T3 S1 E4 ]"
+	{
+		"trans"		" EFFECT [ T3 S1 E4 ]"
+	}
+	" EFFECT [ T1 S3 E6 ]"
+	{
+		"trans"		" EFFECT [ T1 S3 E6 ]"
+	}
+	" EFFECT [ T1 S3 E2 ]"
+	{
+		"trans"		" EFFECT [ T1 S3 E2 ]"
+	}
+	" EFFECT [ T3 S1 E6 ]"
+	{
+		"trans"		" EFFECT [ T3 S1 E6 ]"
+	}
+	" EFFECT [ T2 S1 E1 ]"
+	{
+		"trans"		" EFFECT [ T2 S1 E1 ]"
+	}
+	" EFFECT [ T1 S1 E4 ]"
+	{
+		"trans"		" EFFECT [ T1 S1 E4 ]"
+	}
+	" EFFECT [ T2 S1 E5 ]"
+	{
+		"trans"		" EFFECT [ T2 S1 E5 ]"
+	}
+	" EFFECT [ T2 S2 E2 ]"
+	{
+		"trans"		" EFFECT [ T2 S2 E2 ]"
+	}
+	" EFFECT [ T3 S2 E5 ]"
+	{
+		"trans"		" EFFECT [ T3 S2 E5 ]"
+	}
+	" EFFECT [ T3 S2 E6 ]"
+	{
+		"trans"		" EFFECT [ T3 S2 E6 ]"
+	}
+	" EFFECT [ T3 S1 E1 ]"
+	{
+		"trans"		" EFFECT [ T3 S1 E1 ]"
+	}
 }

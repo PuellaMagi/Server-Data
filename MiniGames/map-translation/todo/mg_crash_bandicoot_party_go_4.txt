@@ -72,4 +72,28 @@
 	{
 		"trans"		"Blue Gem obtained"
 	}
+	"Dark Castle Course"
+	{
+		"trans"		"Dark Castle Course"
+	}
+	"Flashlight disabled"
+	{
+		"trans"		"Flashlight disabled"
+	}
+	"Everyone got a knife"
+	{
+		"trans"		"Everyone got a knife"
+	}
+	"Purple Gem obtained"
+	{
+		"trans"		"Purple Gem obtained"
+	}
+	"You only have 1 minute left"
+	{
+		"trans"		"You only have 1 minute left"
+	}
+	"TIME IS OVER"
+	{
+		"trans"		"TIME IS OVER"
+	}
 }

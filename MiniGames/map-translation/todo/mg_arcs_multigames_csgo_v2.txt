@@ -160,4 +160,40 @@
 	{
 		"trans"		"[Game] Arena [Shotguns]"
 	}
+	"[Game] Arena [Elites]"
+	{
+		"trans"		"[Game] Arena [Elites]"
+	}
+	"[Game] Pushcircle [No Buy]"
+	{
+		"trans"		"[Game] Pushcircle [No Buy]"
+	}
+	"[Game] Boostknife"
+	{
+		"trans"		"[Game] Boostknife"
+	}
+	"[Game] Arena [Scouts]"
+	{
+		"trans"		"[Game] Arena [Scouts]"
+	}
+	"[Game] 1v1 [Deagle]"
+	{
+		"trans"		"[Game] 1v1 [Deagle]"
+	}
+	"Cannon Surf [Shotguns]"
+	{
+		"trans"		"Cannon Surf [Shotguns]"
+	}
+	"[Game] Arena [MP7]"
+	{
+		"trans"		"[Game] Arena [MP7]"
+	}
+	"[Game] Cannon Surf [Knives]"
+	{
+		"trans"		"[Game] Cannon Surf [Knives]"
+	}
+	"[Game] 1v1 [Knife]"
+	{
+		"trans"		"[Game] 1v1 [Knife]"
+	}
 }

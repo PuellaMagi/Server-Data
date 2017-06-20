@@ -104,4 +104,8 @@
 	{
 		"trans"		"[MAP] Wall breaking in 10 seconds!"
 	}
+	"[MAP] Healing trigger disabled!"
+	{
+		"trans"		"[MAP] Healing trigger disabled!"
+	}
 }

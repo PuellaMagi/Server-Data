@@ -1,0 +1,179 @@
+"Chat"
+{
+	"Map by: nyro"
+	{
+		"trans"		"Map by: nyro"
+	}
+	"Feedback & testing: The Lt. Team"
+	{
+		"trans"		"Feedback & testing: The Lt. Team"
+	}
+	"Voting will start in 10 seconds!"
+	{
+		"trans"		"Voting will start in 10 seconds!"
+	}
+	"Stand in the BLUE to VOTE for a game!"
+	{
+		"trans"		"Stand in the BLUE to VOTE for a game!"
+	}
+	"5..."
+	{
+		"trans"		"5..."
+	}
+	"4..."
+	{
+		"trans"		"4..."
+	}
+	"3..."
+	{
+		"trans"		"3..."
+	}
+	"2..."
+	{
+		"trans"		"2..."
+	}
+	"1..."
+	{
+		"trans"		"1..."
+	}
+	"[VOTE]"
+	{
+		"trans"		"[VOTE]"
+	}
+	"[SURF]"
+	{
+		"trans"		"[SURF]"
+	}
+	"[START]"
+	{
+		"trans"		"[START]"
+	}
+	"[NADE]"
+	{
+		"trans"		"[NADE]"
+	}
+	"[ICESKATE]"
+	{
+		"trans"		"[ICESKATE]"
+	}
+	"[SCOUT] [LOWGRAV]"
+	{
+		"trans"		"[SCOUT] [LOWGRAV]"
+	}
+	"[BUNNYHOP]"
+	{
+		"trans"		"[BUNNYHOP]"
+	}
+	"Someone has won! Round ending in 15 seconds..."
+	{
+		"trans"		"Someone has won! Round ending in 15 seconds..."
+	}
+	"[AWP] [DEAGLE]"
+	{
+		"trans"		"[AWP] [DEAGLE]"
+	}
+	"30 seconds remaining!"
+	{
+		"trans"		"30 seconds remaining!"
+	}
+	"15 seconds remaining!"
+	{
+		"trans"		"15 seconds remaining!"
+	}
+	"Boring."
+	{
+		"trans"		"Boring."
+	}
+	"Draw."
+	{
+		"trans"		"Draw."
+	}
+	"[BUY]"
+	{
+		"trans"		"[BUY]"
+	}
+	"The last T is in BLUE!"
+	{
+		"trans"		"The last T is in BLUE!"
+	}
+	"[OBSTACLE]"
+	{
+		"trans"		"[OBSTACLE]"
+	}
+	"ZzZzZz..."
+	{
+		"trans"		"ZzZzZz..."
+	}
+	"[CLIMB]"
+	{
+		"trans"		"[CLIMB]"
+	}
+	"Die."
+	{
+		"trans"		"Die."
+	}
+	"[RANDOM]"
+	{
+		"trans"		"[RANDOM]"
+	}
+	"The last T is in RED!"
+	{
+		"trans"		"The last T is in RED!"
+	}
+	"The last T is in YELLOW!"
+	{
+		"trans"		"The last T is in YELLOW!"
+	}
+	"[SLIDE]"
+	{
+		"trans"		"[SLIDE]"
+	}
+	"You guys suck."
+	{
+		"trans"		"You guys suck."
+	}
+	"Herp Derp"
+	{
+		"trans"		"Herp Derp"
+	}
+	"Game Over."
+	{
+		"trans"		"Game Over."
+	}
+	"[SPHERE]"
+	{
+		"trans"		"[SPHERE]"
+	}
+	"[LEVEL ONE]"
+	{
+		"trans"		"[LEVEL ONE]"
+	}
+	"[LEVEL TWO]"
+	{
+		"trans"		"[LEVEL TWO]"
+	}
+	"The last CT is in RED!"
+	{
+		"trans"		"The last CT is in RED!"
+	}
+	"The last CT is in YELLOW!"
+	{
+		"trans"		"The last CT is in YELLOW!"
+	}
+	"The last CT is in BLUE!"
+	{
+		"trans"		"The last CT is in BLUE!"
+	}
+	"[LEVEL THREE]"
+	{
+		"trans"		"[LEVEL THREE]"
+	}
+	"[LEVEL FOUR]"
+	{
+		"trans"		"[LEVEL FOUR]"
+	}
+	"[LEVEL FIVE]"
+	{
+		"trans"		"[LEVEL FIVE]"
+	}
+}

@@ -8,7 +8,7 @@
 	{
 		"trans"		"[MUSIC] Major Lazer & DJ Snake - Lean On"
 	}
-	"[MAP] AWP"
+	"[Map] Awp"
 	{
 		"trans"		"[MAP] AWP"
 	}
@@ -155,5 +155,41 @@
 	"[MAP] GRENADE HOLES"
 	{
 		"trans"		"[MAP] GRENADE HOLES"
+	}
+	"[COUNTER-TERRORISTS WIN]"
+	{
+		"trans"		"[COUNTER-TERRORISTS WIN]"
+	}
+	"[MAP] Blocks breaking in 10 seconds"
+	{
+		"trans"		"[MAP] Blocks breaking in 10 seconds"
+	}
+	"[MAP] Blocks breaking in 5 seconds"
+	{
+		"trans"		"[MAP] Blocks breaking in 5 seconds"
+	}
+	"[Map] Football"
+	{
+		"trans"		"[MAP] FOOTBALL"
+	}
+	"[MAP] Knife damage allowed in 30 seconds"
+	{
+		"trans"		"[MAP] Knife damage allowed in 30 seconds"
+	}
+	"[MAP] Knife damage allowed in 10 seconds"
+	{
+		"trans"		"[MAP] Knife damage allowed in 10 seconds"
+	}
+	"[TERRORISTS WIN]"
+	{
+		"trans"		"[TERRORISTS WIN]"
+	}
+	"[MAP] Knife damage enabled!"
+	{
+		"trans"		"[MAP] Knife damage enabled!"
+	}
+	"[TERRORISTS NOW HAVE 2 BALLS]"
+	{
+		"trans"		"[TERRORISTS NOW HAVE 2 BALLS]"
 	}
 }

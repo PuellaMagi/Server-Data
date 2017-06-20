@@ -16,7 +16,7 @@
 	{
 		"trans"		"[Map]  AFK TIMER in 30 sec"
 	}
-	"[MAP] AWP"
+	"[Map] Awp"
 	{
 		"trans"		"[Map] Awp"
 	}
@@ -168,7 +168,7 @@
 	{
 		"trans"		"[Map] AFK TIMER in 10 sec"
 	}
-	"[Music] Tritonal - Getaway"
+	"[MUSIC] Tritonal - Getaway"
 	{
 		"trans"		"[Music] Tritonal - Getaway"
 	}
@@ -195,5 +195,29 @@
 	"[Time] 3 minute 30 seconds before the arrival of the main ghast"
 	{
 		"trans"		"[Time] 3 minute 30 seconds before the arrival of the main ghast"
+	}
+	"[Map] Weapon M4A1"
+	{
+		"trans"		"[Map] Weapon M4A1"
+	}
+	"[Map] Weapon Awp"
+	{
+		"trans"		"[Map] Weapon Awp"
+	}
+	"[Map] Weapon Knife"
+	{
+		"trans"		"[Map] Weapon Knife"
+	}
+	"[Map] Luke open 10 seconds"
+	{
+		"trans"		"[Map] Luke open 10 seconds"
+	}
+	"[Map] Weapon Nova"
+	{
+		"trans"		"[Map] Weapon Nova"
+	}
+	"[Map] Weapon Deagle"
+	{
+		"trans"		"[Map] Weapon Deagle"
 	}
 }
