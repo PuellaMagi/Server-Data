@@ -116,4 +116,16 @@
 	{
 		"trans"		"*** Difficulty : Insane ***"
 	}
+	"Admin pressed Insane button"
+	{
+		"trans"		"Admin pressed Insane button"
+	}
+	"Admin pressed rtv button"
+	{
+		"trans"		"Admin pressed rtv button"
+	}
+	"*** Difficulty : rtv ***"
+	{
+		"trans"		"*** Difficulty : rtv ***"
+	}
 }

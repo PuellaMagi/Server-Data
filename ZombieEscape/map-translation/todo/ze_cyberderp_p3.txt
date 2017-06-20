@@ -8,25 +8,21 @@
 	{
 		"trans"		"* * >>TIP<< ORANGE is a GOOD colour * *"
 	}
-	"* * * Current phase: CURSED HEXAHEDRON * * *"
+	"* * * Current phase: MAGIC IS REAL * * *"
 	{
-		"trans"		"* * * Current phase: CURSED HEXAHEDRON * * *"
+		"trans"		"* * * Current phase: MAGIC IS REAL * * *"
 	}
 	"* * The pedestal will be raising in 25 seconds * *"
 	{
 		"trans"		"* * The pedestal will be raising in 25 seconds * *"
 	}
-	"* * * Current phase: MAGIC IS REAL * * *"
-	{
-		"trans"		"* * * Current phase: MAGIC IS REAL * * *"
-	}
 	"* * * Current phase: NOT TRAMPOLINES * * *"
 	{
 		"trans"		"* * * Current phase: NOT TRAMPOLINES * * *"
 	}
-	"* * * Current phase: TOTALLY NEVER SEEN * * *"
+	"* * * Current phase: CURSED HEXAHEDRON * * *"
 	{
-		"trans"		"* * * Current phase: TOTALLY NEVER SEEN * * *"
+		"trans"		"* * * Current phase: CURSED HEXAHEDRON * * *"
 	}
 	"* * Hold here for 20 seconds * *"
 	{
@@ -39,6 +35,10 @@
 	"* * Door opening in 25 seconds * *"
 	{
 		"trans"		"* * Door opening in 25 seconds * *"
+	}
+	"* * * GO HULK DICK * * *"
+	{
+		"trans"		"* * * GO HULK DICK * * *"
 	}
 	"* * Closing door * * 5 seconds left * *"
 	{
@@ -56,44 +56,124 @@
 	{
 		"trans"		"* * Go to the lower floor * *"
 	}
-	"* * Hacking doors. This may take a few seconds * *"
+	"* * * Flame of Udun has been picked up * * *"
 	{
-		"trans"		"* * Hacking doors. This may take a few seconds * *"
+		"trans"		"* * * Flame of Udun has been picked up * * *"
 	}
-	"* * Press the orange button to start the Core * *"
+	"* * * Starting elevator * * * 20 seconds * * *"
 	{
-		"trans"		"* * Press the orange button to start the Core * *"
+		"trans"		"* * * Starting elevator * * * 20 seconds * * *"
 	}
-	"> INITIALIZING CORE <"
+	"* * * The door will open in 15 seconds * * *"
 	{
-		"trans"		"> INITIALIZING CORE <"
+		"trans"		"* * * The door will open in 15 seconds * * *"
 	}
-	"> THE CORE WILL BE READY IN 21 SECONDS <"
+	"* * * Hold 15 seconds * * *"
 	{
-		"trans"		"> THE CORE WILL BE READY IN 21 SECONDS <"
+		"trans"		"* * * Hold 15 seconds * * *"
 	}
-	"> CORE READY IN 5 SECONDS <"
+	"* * * Aeolus' Spirit has been picked up * * *"
 	{
-		"trans"		"> CORE READY IN 5 SECONDS <"
+		"trans"		"* * * Aeolus' Spirit has been picked up * * *"
 	}
-	"> CORE READY <"
+	"* * * 5 seconds left * * *"
 	{
-		"trans"		"> CORE READY <"
+		"trans"		"* * * 5 seconds left * * *"
 	}
-	"* * We can move * * FALL BACK * *"
+	"* * * GO WHITE DICK * * *"
 	{
-		"trans"		"* * We can move * * FALL BACK * *"
+		"trans"		"* * * GO WHITE DICK * * *"
 	}
-	"* * Hold 25 seconds * *"
+	"* * Left route door will open in 20 seconds * *"
 	{
-		"trans"		"* * Hold 25 seconds * *"
+		"trans"		"* * Left route door will open in 20 seconds * *"
 	}
-	"* * You have defended long enough * *"
+	"* * * Slightly Cursed Hexahedron has been picked up * * *"
 	{
-		"trans"		"* * You have defended long enough * *"
+		"trans"		"* * * Slightly Cursed Hexahedron has been picked up * * *"
 	}
-	"* * Keep running * *"
+	"* * * Frost Wave has been picked up * * *"
 	{
-		"trans"		"* * Keep running * *"
+		"trans"		"* * * Frost Wave has been picked up * * *"
+	}
+	"* * Wait 23 seconds * *"
+	{
+		"trans"		"* * Wait 23 seconds * *"
+	}
+	"* * Press both buttons at the same time * *"
+	{
+		"trans"		"* * Press both buttons at the same time * *"
+	}
+	"* * BUTTONS PRESSED * *"
+	{
+		"trans"		"* * BUTTONS PRESSED * *"
+	}
+	"* * GO GO GO * *"
+	{
+		"trans"		"* * GO GO GO * *"
+	}
+	"* * The main door WILL open in 35s... * *"
+	{
+		"trans"		"* * The main door WILL open in 35s... * *"
+	}
+	"* * ...but this convenient side vent might help * *"
+	{
+		"trans"		"* * ...but this convenient side vent might help * *"
+	}
+	"* * Final door opening in 20 seconds * *"
+	{
+		"trans"		"* * Final door opening in 20 seconds * *"
+	}
+	"* * Final door opening in 5 seconds * *"
+	{
+		"trans"		"* * Final door opening in 5 seconds * *"
+	}
+	"* * You have reached the escape zone * *"
+	{
+		"trans"		"* * You have reached the escape zone * *"
+	}
+	"* * Wait 40 seconds until the magic elevator is ready to go * *"
+	{
+		"trans"		"* * Wait 40 seconds until the magic elevator is ready to go * *"
+	}
+	"* * Only 10 seconds left * * Hold * *"
+	{
+		"trans"		"* * Only 10 seconds left * * Hold * *"
+	}
+	"* * Magic elevator is ready * *"
+	{
+		"trans"		"* * Magic elevator is ready * *"
+	}
+	"* * * ZOMBIES! nowin4u * * *"
+	{
+		"trans"		"* * * ZOMBIES! nowin4u * * *"
+	}
+	"* * Wait 15 seconds * *"
+	{
+		"trans"		"* * Wait 15 seconds * *"
+	}
+	"* * You can pass * *"
+	{
+		"trans"		"* * You can pass * *"
+	}
+	"* * 15 seconds until final teleport * *"
+	{
+		"trans"		"* * 15 seconds until final teleport * *"
+	}
+	"* * Humans must reach the arena or they will be teleported * *"
+	{
+		"trans"		"* * Humans must reach the arena or they will be teleported * *"
+	}
+	"* * * IT HAS RUN AWAY * * *"
+	{
+		"trans"		"* * * IT HAS RUN AWAY * * *"
+	}
+	"* * * RUN! * * *"
+	{
+		"trans"		"* * * RUN! * * *"
+	}
+	"* * 25 seconds until this... thing... starts * *"
+	{
+		"trans"		"* * 25 seconds until this... thing... starts * *"
 	}
 }

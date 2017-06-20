@@ -72,4 +72,24 @@
 	{
 		"trans"		">>> THE EXPLOSIVES ARE IN PLACE! <<<"
 	}
+	">>> EXPLOSION IN 40 SECONDS <<<"
+	{
+		"trans"		">>> EXPLOSION IN 40 SECONDS <<<"
+	}
+	">>> EXPLOSION IN 20 SECONDS <<<"
+	{
+		"trans"		">>> EXPLOSION IN 20 SECONDS <<<"
+	}
+	">>> EXPLOSION IN 5 SECONDS <<<"
+	{
+		"trans"		">>> EXPLOSION IN 5 SECONDS <<<"
+	}
+	">>> YOU MUST OPEN THE REAR DOOR OF THE REPAIR VESSEL <<<"
+	{
+		"trans"		">>> YOU MUST OPEN THE REAR DOOR OF THE REPAIR VESSEL <<<"
+	}
+	"> Tip - You can do this by standing near the lever at the rear part of the vessel"
+	{
+		"trans"		"> Tip - You can do this by standing near the lever at the rear part of the vessel"
+	}
 }

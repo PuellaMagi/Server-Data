@@ -100,7 +100,7 @@
 	{
 		"trans"		"***INITIATE THE TOASTER***"
 	}
-	"***BUTTON PRESSED***"
+	"***Button Pressed***"
 	{
 		"trans"		"***BUTTON PRESSED***"
 	}
@@ -167,5 +167,17 @@
 	"***A JALAPENO HAS BEEN PICKED UP***"
 	{
 		"trans"		"***A JALAPENO HAS BEEN PICKED UP***"
+	}
+	"***DOOR OPENING IN 20 SECONDS***"
+	{
+		"trans"		"***DOOR OPENING IN 20 SECONDS***"
+	}
+	"***THE TOASTER IS GOING TO TOAST TOAST IN 1 MINUTE***"
+	{
+		"trans"		"***THE TOASTER IS GOING TO TOAST TOAST IN 1 MINUTE***"
+	}
+	"***ELEVATOR IS LEAVING IN 1 SECOND***"
+	{
+		"trans"		"***ELEVATOR IS LEAVING IN 1 SECOND***"
 	}
 }

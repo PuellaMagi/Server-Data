@@ -88,4 +88,12 @@
 	{
 		"trans"		"**Defend until the others have returned!**"
 	}
+	"***Carrier says: the Ring is mine!***"
+	{
+		"trans"		"***Carrier says: the Ring is mine!***"
+	}
+	"***The Ring carrier has betrayed us! Get into the Mount Doom and defend during 40s!***"
+	{
+		"trans"		"***The Ring carrier has betrayed us! Get into the Mount Doom and defend during 40s!***"
+	}
 }

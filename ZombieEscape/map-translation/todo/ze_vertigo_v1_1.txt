@@ -44,10 +44,6 @@
 	{
 		"trans"		"Helicopter is leaving !"
 	}
-	"ZOMBIES DETECTED IN CHOPPER, INVALID WIN"
-	{
-		"trans"		"ZOMBIES DETECTED IN CHOPPER, INVALID WIN"
-	}
 	">Humans have successfully escaped<"
 	{
 		"trans"		">Humans have successfully escaped<"
@@ -79,5 +75,21 @@
 	"Helicopter will departure in 35 seconds"
 	{
 		"trans"		"Helicopter will departure in 35 seconds"
+	}
+	">Changing difficulty to hard<"
+	{
+		"trans"		">Changing difficulty to hard<"
+	}
+	">>>CURRENT DIFFICULTY: HARD<<<"
+	{
+		"trans"		">>>CURRENT DIFFICULTY: HARD<<<"
+	}
+	"Platform will lower in 30 seconds"
+	{
+		"trans"		"Platform will lower in 30 seconds"
+	}
+	"ZOMBIES DETECTED IN CHOPPER, INVALID WIN"
+	{
+		"trans"		"ZOMBIES DETECTED IN CHOPPER, INVALID WIN"
 	}
 }

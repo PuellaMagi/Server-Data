@@ -84,13 +84,13 @@
 	{
 		"trans"		"***Next difficulty II***"
 	}
-	"* * * LAST DOOR CLOSING IN 30 SECONDS! * * *"
-	{
-		"trans"		"* * * LAST DOOR CLOSING IN 30 SECONDS! * * *"
-	}
 	"***Dificulty II***"
 	{
 		"trans"		"***Dificulty II***"
+	}
+	"* * * LAST DOOR CLOSING IN 30 SECONDS! * * *"
+	{
+		"trans"		"* * * LAST DOOR CLOSING IN 30 SECONDS! * * *"
 	}
 	"* * * The Gate Door Will Open in 10 Seconds! * * *"
 	{
@@ -147,13 +147,5 @@
 	"* * * Train is leaving in 30 seconds! * * *"
 	{
 		"trans"		"* * * Train is leaving in 30 seconds! * * *"
-	}
-	"***Congratulations!***"
-	{
-		"trans"		"***Congratulations!***"
-	}
-	"***Resetting the map***"
-	{
-		"trans"		"***Resetting the map***"
 	}
 }

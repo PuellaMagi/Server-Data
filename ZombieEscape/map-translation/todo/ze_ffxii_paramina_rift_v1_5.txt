@@ -24,7 +24,7 @@
 	{
 		"trans"		"** HOLD 25 SECONDS **"
 	}
-	"** 5 seconds left **"
+	"** 5 Seconds left **"
 	{
 		"trans"		"** 5 SECONDS LEFT **"
 	}
@@ -267,5 +267,221 @@
 	"5 '／. STAGGER"
 	{
 		"trans"		"5 '／. STAGGER"
+	}
+	"** YOU FOUND A WAY TO OPEN THE GATE ** "
+	{
+		"trans"		"** YOU FOUND A WAY TO OPEN THE GATE ** "
+	}
+	"** 15 MORE SECONDS ** "
+	{
+		"trans"		"** 15 MORE SECONDS ** "
+	}
+	"** THE ICE IS MELTED - DOOR SHOULD BE OPEN SOON **"
+	{
+		"trans"		"** THE ICE IS MELTED - DOOR SHOULD BE OPEN SOON **"
+	}
+	"** GATE WILL OPEN IN 25 SECONDS **"
+	{
+		"trans"		"** GATE WILL OPEN IN 25 SECONDS **"
+	}
+	"** 5 MORE SECONDS TILL DOOR OPENS **"
+	{
+		"trans"		"** 5 MORE SECONDS TILL DOOR OPENS **"
+	}
+	"** HOLD HERE TILL THE GATE OPENS **"
+	{
+		"trans"		"** HOLD HERE TILL THE GATE OPENS **"
+	}
+	"** SHOOT THE SWARM BEFORE THEY CAN ATTACK **"
+	{
+		"trans"		"** SHOOT THE SWARM BEFORE THEY CAN ATTACK **"
+	}
+	"** OH NO - THEY SUMMONED CHAOS **"
+	{
+		"trans"		"** OH NO - THEY SUMMONED CHAOS **"
+	}
+	"** TREASURE +120 GIL FOUND **"
+	{
+		"trans"		"** TREASURE +120 GIL FOUND **"
+	}
+	"** Congratulations - you won STAGE 1 INSANE **"
+	{
+		"trans"		"** Congratulations - you won STAGE 1 INSANE **"
+	}
+	"** BARRIER 2 OPENS IN 20 SECS"
+	{
+		"trans"		"** BARRIER 2 OPENS IN 20 SECS"
+	}
+	"** THE SWORD WILL OPEN THE WAY SOON **"
+	{
+		"trans"		"** THE SWORD WILL OPEN THE WAY SOON **"
+	}
+	"** MAKE A STAND HERE TILL WE FOUND A WAY OUT **"
+	{
+		"trans"		"** MAKE A STAND HERE TILL WE FOUND A WAY OUT **"
+	}
+	"** WE HAVE TO JUMP IF WE WANT TO ESCAPE THE TEMPLE! **"
+	{
+		"trans"		"** WE HAVE TO JUMP IF WE WANT TO ESCAPE THE TEMPLE! **"
+	}
+	"** OH GOD ITS MATEUS! SHOOT IT! **"
+	{
+		"trans"		"** OH GOD ITS MATEUS! SHOOT IT! **"
+	}
+	"** BARRIER 1 OPENS IN 20 SECS **"
+	{
+		"trans"		"** BARRIER 1 OPENS IN 20 SECS **"
+	}
+	"** Player has acquired a HOLY-POTION **"
+	{
+		"trans"		"** Player has acquired a HOLY-POTION **"
+	}
+	"** 5 MORE SECONDS TILL GATE OPENS **"
+	{
+		"trans"		"** 5 MORE SECONDS TILL GATE OPENS **"
+	}
+	"** MATEUS IS DEAD! GO ESCAPE TO THE FOREST! **"
+	{
+		"trans"		"** MATEUS IS DEAD! GO ESCAPE TO THE FOREST! **"
+	}
+	"** END OF THE LINE **"
+	{
+		"trans"		"** END OF THE LINE **"
+	}
+	"** YOU HAVE FAILED.. **"
+	{
+		"trans"		"** YOU HAVE FAILED.. **"
+	}
+	"** Player has acquired a AMMO-POTION **"
+	{
+		"trans"		"** Player has acquired a AMMO-POTION **"
+	}
+	"Stage 2 - Find the hidden treasures and defeat the Esper Mateus in Stilshrine of Miriam.."
+	{
+		"trans"		"Stage 2 - Find the hidden treasures and defeat the Esper Mateus in Stilshrine of Miriam.."
+	}
+	"** Player has learned FIRE (fire lvl1) **"
+	{
+		"trans"		"** Player has learned FIRE (fire lvl1) **"
+	}
+	"** Player has learned BLIZZAGA (ice lvl5) **"
+	{
+		"trans"		"** Player has learned BLIZZAGA (ice lvl5) **"
+	}
+	"** KILL REMAINING ZOMBIES **"
+	{
+		"trans"		"** KILL REMAINING ZOMBIES **"
+	}
+	"3 '／. STAGGER"
+	{
+		"trans"		"3 '／. STAGGER"
+	}
+	"58 '／. STAGGER"
+	{
+		"trans"		"58 '／. STAGGER"
+	}
+	"55 '／. STAGGER"
+	{
+		"trans"		"55 '／. STAGGER"
+	}
+	"75 '／. STAGGER"
+	{
+		"trans"		"75 '／. STAGGER"
+	}
+	"73 '／. STAGGER"
+	{
+		"trans"		"73 '／. STAGGER"
+	}
+	"70 '／. STAGGER"
+	{
+		"trans"		"70 '／. STAGGER"
+	}
+	"53 '／. STAGGER"
+	{
+		"trans"		"53 '／. STAGGER"
+	}
+	"50 '／. STAGGER"
+	{
+		"trans"		"50 '／. STAGGER"
+	}
+	"48 '／. STAGGER"
+	{
+		"trans"		"48 '／. STAGGER"
+	}
+	"** Player has learned BLIZZARD (ice lvl1) **"
+	{
+		"trans"		"** Player has learned BLIZZARD (ice lvl1) **"
+	}
+	"** TREASURE +27 GIL FOUND **"
+	{
+		"trans"		"** TREASURE +27 GIL FOUND **"
+	}
+	"** TREASURE +100 GIL FOUND **"
+	{
+		"trans"		"** TREASURE +100 GIL FOUND **"
+	}
+	"** TREASURE +87 GIL FOUND **"
+	{
+		"trans"		"** TREASURE +87 GIL FOUND **"
+	}
+	"** Player has learned AERO (wind lvl2) **"
+	{
+		"trans"		"** Player has learned AERO (wind lvl2) **"
+	}
+	"** Player has learned CURA (heal lvl3) **"
+	{
+		"trans"		"** Player has learned CURA (heal lvl3) **"
+	}
+	"** Player has learned CURE (heal lvl2) **"
+	{
+		"trans"		"** Player has learned CURE (heal lvl2) **"
+	}
+	"** Player has learned FIRA (fire lvl4) **"
+	{
+		"trans"		"** Player has learned FIRA (fire lvl4) **"
+	}
+	"** Player has learned BLIZZARA (ice lvl3) **"
+	{
+		"trans"		"** Player has learned BLIZZARA (ice lvl3) **"
+	}
+	"** Player has learned FIRAGA (fire lvl5) **"
+	{
+		"trans"		"** Player has learned FIRAGA (fire lvl5) **"
+	}
+	"** Player has learned BLIZZARA (ice lvl4) **"
+	{
+		"trans"		"** Player has learned BLIZZARA (ice lvl4) **"
+	}
+	"** Player has learned POISON (damage lvl2) **"
+	{
+		"trans"		"** Player has learned POISON (damage lvl2) **"
+	}
+	"** Player has acquired a HP-POTION **"
+	{
+		"trans"		"** Player has acquired a HP-POTION **"
+	}
+	"** Player has acquired the esper MATEUS **"
+	{
+		"trans"		"** Player has acquired the esper MATEUS **"
+	}
+	"** The esper MATEUS has been summoned **"
+	{
+		"trans"		"** The esper MATEUS has been summoned **"
+	}
+	"** Player has learned AEROGA (wind lvl4) **"
+	{
+		"trans"		"** Player has learned AEROGA (wind lvl4) **"
+	}
+	"** BOSS MATEUS CHARGES HIS LAST ATTACK!  **"
+	{
+		"trans"		"** BOSS MATEUS CHARGES HIS LAST ATTACK!  **"
+	}
+	"** TREASURE +64 GIL FOUND **"
+	{
+		"trans"		"** TREASURE +64 GIL FOUND **"
+	}
+	"** Player has learned CURA (heal lvl4) **"
+	{
+		"trans"		"** Player has learned CURA (heal lvl4) **"
 	}
 }

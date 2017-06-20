@@ -1,16 +1,28 @@
 "Chat"
 {
+	"*** Door opens in 25 seconds ***"
+	{
+		"trans"		"*** Door opens in 25 seconds ***"
+	}
+	"*** 10 seconds left ***"
+	{
+		"trans"		"*** 10 seconds left ***"
+	}
+	"*** DOOR IS OPENING ***"
+	{
+		"trans"		"*** Door is Opening ***"
+	}
 	"*** Player has picked up PushGun ***"
 	{
 		"trans"		"*** Player has picked up PushGun ***"
 	}
+	"*** Player has picked up Flamethrower ***"
+	{
+		"trans"		"*** Player has picked up Flamethrower ***"
+	}
 	"*** Gate opening ***"
 	{
 		"trans"		"*** Gate opening ***"
-	}
-	"*** Player has picked up Lego Maker ***"
-	{
-		"trans"		"*** Player has picked up Lego Maker ***"
 	}
 	"*** FALL BACK ***"
 	{
@@ -36,25 +48,25 @@
 	{
 		"trans"		"*** Level Completed ***"
 	}
-	"*** 10 seconds left ***"
+	"*** Left Door Opens in 10 seconds ***"
 	{
-		"trans"		"*** 10 seconds left ***"
-	}
-	"*** DOOR IS OPENING ***"
-	{
-		"trans"		"*** Door is Opening ***"
-	}
-	"*** Right Door Opens in 10 seconds ***"
-	{
-		"trans"		"*** Right Door Opens in 10 seconds ***"
+		"trans"		"*** Left Door Opens in 10 seconds ***"
 	}
 	"*** Success! ***"
 	{
 		"trans"		"*** Success! ***"
 	}
-	"*** Player has picked up HandCannon ***"
+	"*** Player has picked up Lego Maker ***"
 	{
-		"trans"		"*** Player has picked up HandCannon ***"
+		"trans"		"*** Player has picked up Lego Maker ***"
+	}
+	"*** Level 1 ***"
+	{
+		"trans"		"*** Level 1 ***"
+	}
+	"*** Player has picked up Explosive Mines ***"
+	{
+		"trans"		"*** Player has picked up Explosive Mines ***"
 	}
 	"*** Door opens in 10 seconds ***"
 	{
@@ -96,44 +108,20 @@
 	{
 		"trans"		"*** Tram is leaving ***"
 	}
-	"*** Player has picked up Flamethrower ***"
-	{
-		"trans"		"*** Player has picked up Flamethrower ***"
-	}
 	"*** OH NO ITS AN EVIL ROBO BOSS ***"
 	{
 		"trans"		"*** OH NO ITS AN EVIL ROBO BOSS ***"
 	}
-	"*** Left Door Opens in 10 seconds ***"
+	"*** Player has picked up HandCannon ***"
 	{
-		"trans"		"*** Left Door Opens in 10 seconds ***"
+		"trans"		"*** Player has picked up HandCannon ***"
 	}
-	"*** Door opens in 25 seconds ***"
+	"*** You got both items to the end ***"
 	{
-		"trans"		"*** Door opens in 25 seconds ***"
-	}
-	"*** Player has picked up Explosive Mines ***"
-	{
-		"trans"		"*** Player has picked up Explosive Mines ***"
-	}
-	"*** Level 1 ***"
-	{
-		"trans"		"*** Level 1 ***"
-	}
-	"*** Player has picked up Heal ***"
-	{
-		"trans"		"*** Player has picked up Heal ***"
+		"trans"		"*** You got both items to the end ***"
 	}
 	"*** Level 3 ***"
 	{
 		"trans"		"*** Level 3 ***"
-	}
-	"*** Player has picked up Ammo Box ***"
-	{
-		"trans"		"*** Player has picked up Ammo Box ***"
-	}
-	"*** Level 2 ***"
-	{
-		"trans"		"*** Level 2 ***"
 	}
 }

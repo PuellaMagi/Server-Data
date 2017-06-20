@@ -388,4 +388,36 @@
 	{
 		"trans"		"***KEEP FIRING WITH UNLIMITED AMMO***"
 	}
+	"***PLAYER PICKED UP MINI GUN***"
+	{
+		"trans"		"***PLAYER PICKED UP MINI GUN***"
+	}
+	"***PLAYER PICKED UP ALIEN SAMPLE***"
+	{
+		"trans"		"***PLAYER PICKED UP ALIEN SAMPLE***"
+	}
+	"***PLAYER PICKED UP AMMO DISPENSER***"
+	{
+		"trans"		"***PLAYER PICKED UP AMMO DISPENSER***"
+	}
+	"***PLAYER PICKED UP PUSH GUN***"
+	{
+		"trans"		"***PLAYER PICKED UP PUSH GUN***"
+	}
+	"***YOU MUST PRESS ALL 4 ORBS TO SURVIVE!***"
+	{
+		"trans"		"***YOU MUST PRESS ALL 4 ORBS TO SURVIVE!***"
+	}
+	"***HOLD ON TO YOUR HELMETS!***"
+	{
+		"trans"		"***HOLD ON TO YOUR HELMETS!***"
+	}
+	"ZOMBIES ARE RELEASED!"
+	{
+		"trans"		"ZOMBIES ARE RELEASED!"
+	}
+	"YOU TOOK TOO LONG!"
+	{
+		"trans"		"YOU TOOK TOO LONG!"
+	}
 }

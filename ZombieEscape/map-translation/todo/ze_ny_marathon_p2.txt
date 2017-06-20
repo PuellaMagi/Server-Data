@@ -4,17 +4,21 @@
 	{
 		"trans"		"*** NY MARATHON: GET READY TO RUN! ***"
 	}
-	"*** Current level: Onion ***"
+	"*** MODE: RABBIT RIBBIT ***"
 	{
-		"trans"		"*** Current level: Onion ***"
+		"trans"		"*** MODE: RABBIT RIBBIT ***"
 	}
-	"* [[ NYCRockRadio FM 81.2 :: Flower Travellin' Band - Satori PT1 ]] *"
+	"* [[ NYCRockRadio FM 81.2 :: The Gun - Race With The Devil ]] *"
 	{
-		"trans"		"* [[ NYCRockRadio FM 81.2 :: Flower Travellin' Band - Satori PT1 ]] *"
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: The Gun - Race With The Devil ]] *"
 	}
-	"*** 0110100001101001 ***"
+	"*** Stage 4: Cuckoo ***"
 	{
-		"trans"		"*** 0110100001101001 ***"
+		"trans"		"*** Stage 4: Cuckoo ***"
+	}
+	"* [[ NYCRockRadio FM 81.2 :: Leaf Hound - Growers Of Mushroom ]] *"
+	{
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: Leaf Hound - Growers Of Mushroom ]] *"
 	}
 	"** Oh noes! The tunnel is locked! We'll have to hold a bit (30s) **"
 	{
@@ -28,61 +32,13 @@
 	{
 		"trans"		"** 5 seconds left! Resist! **"
 	}
-	"** HOLD! The doors will open in 15 seconds!!! **"
+	"*** LEVEL: ULTIMATE ***"
 	{
-		"trans"		"** HOLD! The doors will open in 15 seconds!!! **"
+		"trans"		"*** LEVEL: ULTIMATE ***"
 	}
-	"*** Stage 4: Cuckoo ***"
+	"* [[ NYCRockRadio FM 81.2 :: M.O.D. - Surfin' USA ]] *"
 	{
-		"trans"		"*** Stage 4: Cuckoo ***"
-	}
-	"* [[ NYCRockRadio FM 81.2 :: Deep Purple - Highway Star ]] *"
-	{
-		"trans"		"* [[ NYCRockRadio FM 81.2 :: Deep Purple - Highway Star ]] *"
-	}
-	"** CHECKPOINT REACHED: STAY ON THE WHITE CIRCLES TO KEEP GOING. **"
-	{
-		"trans"		"** CHECKPOINT REACHED: STAY ON THE WHITE CIRCLES TO KEEP GOING. **"
-	}
-	"** THE CHECKPOINT HAS BEEN ENABLED! **"
-	{
-		"trans"		"** THE CHECKPOINT HAS BEEN ENABLED! **"
-	}
-	"** AFK AND SLOW WOBBLES WILL BE TELEPORTED TO IT IN 20 SECONDS. **"
-	{
-		"trans"		"** AFK AND SLOW WOBBLES WILL BE TELEPORTED TO IT IN 20 SECONDS. **"
-	}
-	"** HOLD! The station door will open in 25 seconds! **"
-	{
-		"trans"		"** HOLD! The station door will open in 25 seconds! **"
-	}
-	"** HOLD! The station door will open in 10 seconds! **"
-	{
-		"trans"		"** HOLD! The station door will open in 10 seconds! **"
-	}
-	"** JUMP OVER THE TRAINS! WE HAVE TO GET TO THE OTHER SIDE!!! **"
-	{
-		"trans"		"** JUMP OVER THE TRAINS! WE HAVE TO GET TO THE OTHER SIDE!!! **"
-	}
-	"** We must resist here until the door unlocks! (25s) **"
-	{
-		"trans"		"** We must resist here until the door unlocks! (25s) **"
-	}
-	"** Resist! 10 seconds left! **"
-	{
-		"trans"		"** Resist! 10 seconds left! **"
-	}
-	"* [[ NYCRockRadio FM 81.2 :: Ram Jam - Black Betty ]] *"
-	{
-		"trans"		"* [[ NYCRockRadio FM 81.2 :: Ram Jam - Black Betty ]] *"
-	}
-	"*** FIDDICULTU: STRING 2 ***"
-	{
-		"trans"		"*** FIDDICULTU: STRING 2 ***"
-	}
-	"* [[ NYCRockRadio FM 81.2 :: Buffalo - Shylock ]] *"
-	{
-		"trans"		"* [[ NYCRockRadio FM 81.2 :: Buffalo - Shylock ]] *"
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: M.O.D. - Surfin' USA ]] *"
 	}
 	"** We need to resist! The park's door will open in 20 seconds! **"
 	{
@@ -100,6 +56,98 @@
 	{
 		"trans"		"** Resist! 10 more seconds! **"
 	}
+	"** CHECKPOINT REACHED: STAY ON THE WHITE CIRCLES TO KEEP GOING. **"
+	{
+		"trans"		"** CHECKPOINT REACHED: STAY ON THE WHITE CIRCLES TO KEEP GOING. **"
+	}
+	"** THE CHECKPOINT HAS BEEN ENABLED! **"
+	{
+		"trans"		"** THE CHECKPOINT HAS BEEN ENABLED! **"
+	}
+	"** AFK AND SLOW WOBBLES WILL BE TELEPORTED TO IT IN 20 SECONDS. **"
+	{
+		"trans"		"** AFK AND SLOW WOBBLES WILL BE TELEPORTED TO IT IN 20 SECONDS. **"
+	}
+	"* [[ NYCRockRadio FM 81.2 :: Granicus - Cleveland Ohio ]] *"
+	{
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: Granicus - Cleveland Ohio ]] *"
+	}
+	"*** Turn on the chopper's engines! ***"
+	{
+		"trans"		"*** Turn on the chopper's engines! ***"
+	}
+	"*** Word: BIRD ***"
+	{
+		"trans"		"*** Word: BIRD ***"
+	}
+	"* [[ NYCRockRadio FM 81.2 :: Sir Lord Baltimore - Hell Hound ]] *"
+	{
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: Sir Lord Baltimore - Hell Hound ]] *"
+	}
+	"** HOLD! The doors will open in 15 seconds!!! **"
+	{
+		"trans"		"** HOLD! The doors will open in 15 seconds!!! **"
+	}
+	"** RESIST! 5 seconds left!!! **"
+	{
+		"trans"		"** RESIST! 5 seconds left!!! **"
+	}
+	"** HOLD! The station door will open in 25 seconds! **"
+	{
+		"trans"		"** HOLD! The station door will open in 25 seconds! **"
+	}
+	"* [[ NYCRockRadio FM 81.2 :: Warpig - Rock Star ]] *"
+	{
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: Warpig - Rock Star ]] *"
+	}
+	"** HOLD! The station door will open in 10 seconds! **"
+	{
+		"trans"		"** HOLD! The station door will open in 10 seconds! **"
+	}
+	"** JUMP OVER THE TRAINS! WE HAVE TO GET TO THE OTHER SIDE!!! **"
+	{
+		"trans"		"** JUMP OVER THE TRAINS! WE HAVE TO GET TO THE OTHER SIDE!!! **"
+	}
+	"** We must resist here until the door unlocks! (25s) **"
+	{
+		"trans"		"** We must resist here until the door unlocks! (25s) **"
+	}
+	"** Resist! 10 seconds left! **"
+	{
+		"trans"		"** Resist! 10 seconds left! **"
+	}
+	"*** Difficulty: MissingNo ***"
+	{
+		"trans"		"*** Difficulty: MissingNo ***"
+	}
+	"* [[ NYCRockRadio FM 81.2 :: Steppenwolf - Born To Be Wild ]] *"
+	{
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: Steppenwolf - Born To Be Wild ]] *"
+	}
+	"** The helicopter is leaving in 30 seconds. RESIST! **"
+	{
+		"trans"		"** The helicopter is leaving in 30 seconds. RESIST! **"
+	}
+	"** C'mon! 15 more seconds! **"
+	{
+		"trans"		"** C'mon! 15 more seconds! **"
+	}
+	"*** Current level: Onion ***"
+	{
+		"trans"		"*** Current level: Onion ***"
+	}
+	"* [[ NYCRockRadio FM 81.2 :: Ram Jam - Black Betty ]] *"
+	{
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: Ram Jam - Black Betty ]] *"
+	}
+	"*** Current stage: Mines of Moria ***"
+	{
+		"trans"		"*** Current stage: Mines of Moria ***"
+	}
+	"* [[ NYCRockRadio FM 81.2 :: Deep Purple - Highway Star ]] *"
+	{
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: Deep Purple - Highway Star ]] *"
+	}
 	"** The exitless park doors are opening in 20 seconds! **"
 	{
 		"trans"		"** The exitless park doors are opening in 20 seconds! **"
@@ -115,5 +163,129 @@
 	"** OK GO! The Penis-UFO is coming! RESIST!!! **"
 	{
 		"trans"		"** OK GO! The Penis-UFO is coming! RESIST!!! **"
+	}
+	"** GO! The penis UFO doors are opening!!! **"
+	{
+		"trans"		"** GO! The penis UFO doors are opening!!! **"
+	}
+	"** RESIST FOR 20 SECONDS!!! **"
+	{
+		"trans"		"** RESIST FOR 20 SECONDS!!! **"
+	}
+	"*** I FUCKING HATE YOU WALT WHITMAN!!! ***"
+	{
+		"trans"		"*** I FUCKING HATE YOU WALT WHITMAN!!! ***"
+	}
+	"** Engine area door is opening in 30 seconds. **"
+	{
+		"trans"		"** Engine area door is opening in 30 seconds. **"
+	}
+	"** Engine area door is opening in 15 seconds. **"
+	{
+		"trans"		"** Engine area door is opening in 15 seconds. **"
+	}
+	"** Engine area door is opening in 5 seconds. RESIST!!! **"
+	{
+		"trans"		"** Engine area door is opening in 5 seconds. RESIST!!! **"
+	}
+	"** Valve room door is opening in 15 seconds. **"
+	{
+		"trans"		"** Valve room door is opening in 15 seconds. **"
+	}
+	"** Valve room door is opening in 5 seconds. RESIST!!! **"
+	{
+		"trans"		"** Valve room door is opening in 5 seconds. RESIST!!! **"
+	}
+	"** Spam E on the valves! We need to let the toxic waste out!!! **"
+	{
+		"trans"		"** Spam E on the valves! We need to let the toxic waste out!!! **"
+	}
+	"** This will wipe out those darn filthy zombies! **"
+	{
+		"trans"		"** This will wipe out those darn filthy zombies! **"
+	}
+	"** Left valve has been fully opened! **"
+	{
+		"trans"		"** Left valve has been fully opened! **"
+	}
+	"** Right valve has been fully opened! **"
+	{
+		"trans"		"** Right valve has been fully opened! **"
+	}
+	"** BOTH VALVES HAVE BEEN UNLOCKED!!! **"
+	{
+		"trans"		"** BOTH VALVES HAVE BEEN UNLOCKED!!! **"
+	}
+	"** RESIST FOR 15 SECONDS!!! **"
+	{
+		"trans"		"** RESIST FOR 15 SECONDS!!! **"
+	}
+	"***5***"
+	{
+		"trans"		"***5***"
+	}
+	"***4***"
+	{
+		"trans"		"***4***"
+	}
+	"***3***"
+	{
+		"trans"		"***3***"
+	}
+	"***2***"
+	{
+		"trans"		"***2***"
+	}
+	"***1***"
+	{
+		"trans"		"***1***"
+	}
+	"***0***"
+	{
+		"trans"		"***0***"
+	}
+	"*** DIFFICULTY: XTRIMER ***"
+	{
+		"trans"		"*** DIFFICULTY: XTRIMER ***"
+	}
+	"* [[ NYCRockRadio FM 81.2 :: Girlschool - C'mon Let's Go! ]] *"
+	{
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: Girlschool - C'mon Let's Go! ]] *"
+	}
+	"* [[ NYCRockRadio FM 81.2 :: Arzachel - Leg ]] *"
+	{
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: Arzachel - Leg ]] *"
+	}
+	"* [[ NYCRockRadio FM 81.2 :: Flower Travellin' Band - Satori PT1 ]] *"
+	{
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: Flower Travellin' Band - Satori PT1 ]] *"
+	}
+	"*** Escape: THE PAPER DIMENSION ***"
+	{
+		"trans"		"*** Escape: THE PAPER DIMENSION ***"
+	}
+	"* [[ NYCRockRadio FM 81.2 :: Arthur Brown - I've Got Money ]] *"
+	{
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: Arthur Brown - I've Got Money ]] *"
+	}
+	"* [[ NYCRockRadio FM 81.2 :: Buffalo - Shylock ]] *"
+	{
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: Buffalo - Shylock ]] *"
+	}
+	"* [[ NYCRockRadio FM 81.2 :: Motorhead - Ace of Spades ]] *"
+	{
+		"trans"		"* [[ NYCRockRadio FM 81.2 :: Motorhead - Ace of Spades ]] *"
+	}
+	"*** FIDDICULTU: STRING 2 ***"
+	{
+		"trans"		"*** FIDDICULTU: STRING 2 ***"
+	}
+	"*** 0110100001101001 ***"
+	{
+		"trans"		"*** 0110100001101001 ***"
+	}
+	"*** Address: 0x6469636b ***"
+	{
+		"trans"		"*** Address: 0x6469636b ***"
 	}
 }

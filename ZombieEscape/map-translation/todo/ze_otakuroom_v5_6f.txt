@@ -164,4 +164,20 @@
 	{
 		"trans"		"**Kanameishi**"
 	}
+	"**[Admin]Stage 3**"
+	{
+		"trans"		"**[Admin]Stage 3**"
+	}
+	"**[Admin]Stage 1**"
+	{
+		"trans"		"**[Admin]Stage 1**"
+	}
+	"**You failed**"
+	{
+		"trans"		"**You failed**"
+	}
+	"**[Admin]Stage 2**"
+	{
+		"trans"		"**[Admin]Stage 2**"
+	}
 }

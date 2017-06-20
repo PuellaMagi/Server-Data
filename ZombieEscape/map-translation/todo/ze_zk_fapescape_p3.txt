@@ -8,11 +8,11 @@
 	{
 		"trans"		"* Turning music on *"
 	}
-	"*** Boat leaving in 5 seconds ***"
+	"*** Boat Leaving in 5 Seconds ***"
 	{
 		"trans"		"*** Boat leaving in 5 seconds ***"
 	}
-	"*** Door opens in 25 seconds ***"
+	"*** DOOR OPENS IN 25 SECONDS ***"
 	{
 		"trans"		"*** Door opens in 25 seconds ***"
 	}

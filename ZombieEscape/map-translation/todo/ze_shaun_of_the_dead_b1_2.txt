@@ -8,6 +8,10 @@
 	{
 		"trans"		"***OFFICE ROUTE***"
 	}
+	"***UNDERGROUND ROUTE***"
+	{
+		"trans"		"***UNDERGROUND ROUTE***"
+	}
 	"***DOORS OPENS IN 30 SECONDS***"
 	{
 		"trans"		"***DOORS OPENS IN 30 SECONDS***"
@@ -20,21 +24,121 @@
 	{
 		"trans"		"***DOORS OPENS IN 10 SECONDS***"
 	}
-	"***DOORS OPENS IN 5 SECONDS***"
+	"***GET GAS FOR THE BOAT***"
 	{
-		"trans"		"***DOORS OPENS IN 5 SECONDS***"
+		"trans"		"***GET GAS FOR THE BOAT***"
+	}
+	"***LOOK IN THE SUPPLY SHED***"
+	{
+		"trans"		"***LOOK IN THE SUPPLY SHED***"
+	}
+	"***GAS CANS HAVE BEEN COLLECTED***"
+	{
+		"trans"		"***GAS CANS HAVE BEEN COLLECTED***"
+	}
+	"***RUN BACK TO THE BOAT***"
+	{
+		"trans"		"***RUN BACK TO THE BOAT***"
+	}
+	"***BOAT REFUELING***"
+	{
+		"trans"		"***BOAT REFUELING***"
+	}
+	"***BOAT LEAVES IN 5 SECONDS!***"
+	{
+		"trans"		"***BOAT LEAVES IN 5 SECONDS!***"
+	}
+	"***ZOMBIES TAKE THE BRIDGE***"
+	{
+		"trans"		"***ZOMBIES TAKE THE BRIDGE***"
+	}
+	"***A PLAYER NEEDS TO ACTIVATE THE GATE"
+	{
+		"trans"		"***A PLAYER NEEDS TO ACTIVATE THE GATE"
+	}
+	"***LOCK GATE 1 OPEING***"
+	{
+		"trans"		"***LOCK GATE 1 OPEING***"
+	}
+	"***SOMEONE NEEDS TO UP THE WATER LEVELS***"
+	{
+		"trans"		"***SOMEONE NEEDS TO UP THE WATER LEVELS***"
+	}
+	"***USE THE PIPES TO GAIN ACCESS THE CONTROL ROOM***"
+	{
+		"trans"		"***USE THE PIPES TO GAIN ACCESS THE CONTROL ROOM***"
+	}
+	"***GET OUT OF THE BOAT AND HOLD!***"
+	{
+		"trans"		"***GET OUT OF THE BOAT AND HOLD!***"
+	}
+	"***TRY TO HOLD THE BOXES***"
+	{
+		"trans"		"***TRY TO HOLD THE BOXES***"
+	}
+	"***WATER LEVELS RISING***"
+	{
+		"trans"		"***WATER LEVELS RISING***"
+	}
+	"***LOCK GATE 2 OPEING***"
+	{
+		"trans"		"***LOCK GATE 2 OPEING***"
+	}
+	"***DOOR OPENS IN 10 SECONDS***"
+	{
+		"trans"		"***DOOR OPENS IN 10 SECONDS***"
+	}
+	"***DOOR OPENS IN 5 SECONDS***"
+	{
+		"trans"		"***DOOR OPENS IN 5 SECONDS***"
 	}
 	"***FALL BACK***"
 	{
 		"trans"		"***FALL BACK***"
 	}
-	"***UNDERGROUND ROUTE***"
-	{
-		"trans"		"***UNDERGROUND ROUTE***"
-	}
 	"***A PLAYER NEEDS TO GO INSIDE THE VENT***"
 	{
 		"trans"		"***A PLAYER NEEDS TO GO INSIDE THE VENT***"
+	}
+	"***FLOOD GATE OPENING***"
+	{
+		"trans"		"***FLOOD GATE OPENING***"
+	}
+	"***ELEVATOR LEAVING 15 SECONDS***"
+	{
+		"trans"		"***ELEVATOR LEAVING 15 SECONDS***"
+	}
+	"***DOORS OPENS IN 5 SECONDS***"
+	{
+		"trans"		"***DOORS OPENS IN 5 SECONDS***"
+	}
+	"***AFK TELE 10 SECONDS***"
+	{
+		"trans"		"***AFK TELE 10 SECONDS***"
+	}
+	"***ELEVATOR ON THE WAY***"
+	{
+		"trans"		"***ELEVATOR ON THE WAY***"
+	}
+	"***ELEVATOR IS HERE***"
+	{
+		"trans"		"***ELEVATOR IS HERE***"
+	}
+	"***HOLD THE WINDOWS***"
+	{
+		"trans"		"***HOLD THE WINDOWS***"
+	}
+	"***HOLD 20 SECONDS***"
+	{
+		"trans"		"***HOLD 20 SECONDS***"
+	}
+	"***HOLD 10 SECONDS***"
+	{
+		"trans"		"***HOLD 10 SECONDS***"
+	}
+	"***HOLD 5 SECONDS***"
+	{
+		"trans"		"***HOLD 5 SECONDS***"
 	}
 	"***TRUCKS LEAVE IN 20 SECONDS***"
 	{
@@ -56,21 +160,21 @@
 	{
 		"trans"		"***COVER THE DOOR***"
 	}
-	"***ESCAPE ROUTE: ROOFTOP***"
+	"***ESCAPE ROUTE: CELLAR***"
 	{
-		"trans"		"***ESCAPE ROUTE: ROOFTOP***"
-	}
-	"***AFK TELE 10 SECONDS***"
-	{
-		"trans"		"***AFK TELE 10 SECONDS***"
+		"trans"		"***ESCAPE ROUTE: CELLAR***"
 	}
 	"***RESTORE THE POWER***"
 	{
 		"trans"		"***RESTORE THE POWER***"
 	}
-	"***HOLD THE WINDOWS***"
+	"***ESCAPE ROUTE: ROOFTOP***"
 	{
-		"trans"		"***HOLD THE WINDOWS***"
+		"trans"		"***ESCAPE ROUTE: ROOFTOP***"
+	}
+	"***ENTER THE SEWERS***"
+	{
+		"trans"		"***ENTER THE SEWERS***"
 	}
 	"***WATCH OUT FOR ZOMBIES AT THE BACK DOOR***"
 	{
@@ -80,17 +184,9 @@
 	{
 		"trans"		"***FALL BACK UPSTAIRS***"
 	}
-	"***FLOOD GATE OPENING***"
+	"***SHOTGUN OUT OF AMMO***"
 	{
-		"trans"		"***FLOOD GATE OPENING***"
-	}
-	"***ELEVATOR LEAVING 15 SECONDS***"
-	{
-		"trans"		"***ELEVATOR LEAVING 15 SECONDS***"
-	}
-	"***ESCAPE ROUTE: CELLAR***"
-	{
-		"trans"		"***ESCAPE ROUTE: CELLAR***"
+		"trans"		"***SHOTGUN OUT OF AMMO***"
 	}
 	"***FALL BACK BEHIND THE BAR***"
 	{

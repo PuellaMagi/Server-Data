@@ -60,11 +60,15 @@
 	{
 		"trans"		"*** Entrance Door will close in 1 minutes ! ***"
 	}
+	"!!! KILL ALL ZOMBIES !!!"
+	{
+		"trans"		"!!! KILL ALL ZOMBIES !!!"
+	}
 	"*** STAGE COMPLETED ***"
 	{
 		"trans"		"*** STAGE COMPLETED ***"
 	}
-	"*** Door opens in 15 seconds ***"
+	"*** Door Opens in 15 seconds ***"
 	{
 		"trans"		"*** Door Opens in 15 seconds ***"
 	}

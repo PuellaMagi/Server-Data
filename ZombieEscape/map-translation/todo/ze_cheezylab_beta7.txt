@@ -1,0 +1,63 @@
+"Chat"
+{
+	"--5 seconds--"
+	{
+		"trans"		"--5 seconds--"
+	}
+	"*-'What was that!?'-*"
+	{
+		"trans"		"*-'What was that!?'-*"
+	}
+	"--Door opens in 5 seconds--"
+	{
+		"trans"		"--Door opens in 5 seconds--"
+	}
+	"--Zombies held for 10 seconds--"
+	{
+		"trans"		"--Zombies held for 10 seconds--"
+	}
+	"*-'A low gravity room.Kinda expected that'-*"
+	{
+		"trans"		"*-'A low gravity room.Kinda expected that'-*"
+	}
+	"*-'Great.Now plant C4 here and run!'-*"
+	{
+		"trans"		"*-'Great.Now plant C4 here and run!'-*"
+	}
+	"*-'Upload the data.'-*"
+	{
+		"trans"		"*-'Upload the data.'-*"
+	}
+	"*Upload 50% complete*"
+	{
+		"trans"		"*Upload 50% complete*"
+	}
+	"--Photonic Blade Obtained: 30 seconds cooldown--"
+	{
+		"trans"		"--Photonic Blade Obtained: 30 seconds cooldown--"
+	}
+	"*-'Well,that's convenient.'-*"
+	{
+		"trans"		"*-'Well,that's convenient.'-*"
+	}
+	"*-'Hurry!To the left'-*"
+	{
+		"trans"		"*-'Hurry!To the left'-*"
+	}
+	"*-'An airlock? That's strange. I don't remember them having these.'-*"
+	{
+		"trans"		"*-'An airlock? That's strange. I don't remember them having these.'-*"
+	}
+	"*-'This is your slightly eccentric commander speaking, get a move on!'-*"
+	{
+		"trans"		"*-'This is your slightly eccentric commander speaking, get a move on!'-*"
+	}
+	"*-'Maybe there's something here we can use'-*"
+	{
+		"trans"		"*-'Maybe there's something here we can use'-*"
+	}
+	"*-'Halfway there!Keep firing!'-*"
+	{
+		"trans"		"*-'Halfway there!Keep firing!'-*"
+	}
+}

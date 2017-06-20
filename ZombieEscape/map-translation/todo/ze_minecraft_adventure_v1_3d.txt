@@ -152,4 +152,32 @@
 	{
 		"trans"		"*** KILL ZOMBIES INSIDE!  ***"
 	}
+	"*** CURRENT STAGE IS 1: Overworld ***"
+	{
+		"trans"		"*** CURRENT STAGE IS 1: Overworld ***"
+	}
+	"*** CURRENT STAGE IS 2: The Nether ***"
+	{
+		"trans"		"*** CURRENT STAGE IS 2: The Nether ***"
+	}
+	"*** 20 SECONDS REMAINING ***"
+	{
+		"trans"		"*** 20 SECONDS REMAINING ***"
+	}
+	"*** WELL DONE! NEXT DOOR OPENS IN 5 SEC ***"
+	{
+		"trans"		"*** WELL DONE! NEXT DOOR OPENS IN 5 SEC ***"
+	}
+	"*** SOLVE THE PUZZLE OR RESIST 30 SECONDS ***"
+	{
+		"trans"		"*** SOLVE THE PUZZLE OR RESIST 30 SECONDS ***"
+	}
+	"*** HUMANS WON! MOVING ON TO STAGE 4 ***"
+	{
+		"trans"		"*** HUMANS WON! MOVING ON TO STAGE 4 ***"
+	}
+	"He's watching you..."
+	{
+		"trans"		"He's watching you..."
+	}
 }

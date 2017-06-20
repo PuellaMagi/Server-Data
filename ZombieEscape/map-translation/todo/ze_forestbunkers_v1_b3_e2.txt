@@ -208,4 +208,12 @@
 	{
 		"trans"		">> ROUND OVER <<"
 	}
+	">> HEALTHPACK PICKED UP (ONE USE) <<"
+	{
+		"trans"		">> HEALTHPACK PICKED UP (ONE USE) <<"
+	}
+	">> FREEZERAY PICKED UP <<"
+	{
+		"trans"		">> FREEZERAY PICKED UP <<"
+	}
 }

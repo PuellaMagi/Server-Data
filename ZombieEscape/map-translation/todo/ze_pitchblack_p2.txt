@@ -1,0 +1,55 @@
+"Chat"
+{
+	"***Door 1B opens in 10s***"
+	{
+		"trans"		"***Door 1B opens in 10s***"
+	}
+	"***Top Door opens in 10s***"
+	{
+		"trans"		"***Top Door opens in 10s***"
+	}
+	"***Door 1A opens in 10s***"
+	{
+		"trans"		"***Door 1A opens in 10s***"
+	}
+	"*** Defend for 30s. ***"
+	{
+		"trans"		"*** Defend for 30s. ***"
+	}
+	"***Door 2B opens in 5s***"
+	{
+		"trans"		"***Door 2B opens in 5s***"
+	}
+	"***You must reach the skiff to escape the planet!! stay near the flares to help avoid being picked off***"
+	{
+		"trans"		"***You must reach the skiff to escape the planet!! stay near the flares to help avoid being picked off***"
+	}
+	"***Outpost Door opens in 20s***"
+	{
+		"trans"		"***Outpost Door opens in 20s***"
+	}
+	"*** Hold here for 30s ***"
+	{
+		"trans"		"*** Hold here for 30s ***"
+	}
+	"***Skiff leaves in 60s!!!***"
+	{
+		"trans"		"***Skiff leaves in 60s!!!***"
+	}
+	"***Cowards board the skiff... HEROS STAY BEHIND TO FIGHT TO THE DEATH :D!!!***"
+	{
+		"trans"		"***Cowards board the skiff... HEROS STAY BEHIND TO FIGHT TO THE DEATH :D!!!***"
+	}
+	"***30s Remaining!!***"
+	{
+		"trans"		"***30s Remaining!!***"
+	}
+	"***10s Remaining!!***"
+	{
+		"trans"		"***10s Remaining!!***"
+	}
+	"***Make room and remain still while in Skiff!!***"
+	{
+		"trans"		"***Make room and remain still while in Skiff!!***"
+	}
+}

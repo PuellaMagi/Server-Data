@@ -4,7 +4,7 @@
 	{
 		"trans"		"*** ze_Pidaras_v1_4 ***"
 	}
-	"*** Map by Nostar ***"
+	"*** Map By Nostar ***"
 	{
 		"trans"		"*** Map by Nostar ***"
 	}
@@ -327,5 +327,25 @@
 	"*** WAIT THE NEXT VERSION FOR MORE CONTENT ***"
 	{
 		"trans"		"*** WAIT THE NEXT VERSION FOR MORE CONTENT ***"
+	}
+	"*** MESHLEM USE FLAMING FART ***"
+	{
+		"trans"		"*** MESHLEM USE FLAMING FART ***"
+	}
+	"*** MESHLEM USE ZIZICOPTER ! JUMP TO DODGE IT ! ***"
+	{
+		"trans"		"*** MESHLEM USE ZIZICOPTER ! JUMP TO DODGE IT ! ***"
+	}
+	"*** MESHLEM USE DIARRHEA ! JUMP ! ***"
+	{
+		"trans"		"*** MESHLEM USE DIARRHEA ! JUMP ! ***"
+	}
+	"*** MESHLEM USE GANDALF PUTATIMA !!! DON'T STAY IN THE MIDDLE ! ***"
+	{
+		"trans"		"*** MESHLEM USE GANDALF PUTATIMA !!! DON'T STAY IN THE MIDDLE ! ***"
+	}
+	"*** MESHLEM USE PENISGUN ! CROUCH TO DODGE IT ! ***"
+	{
+		"trans"		"*** MESHLEM USE PENISGUN ! CROUCH TO DODGE IT ! ***"
 	}
 }

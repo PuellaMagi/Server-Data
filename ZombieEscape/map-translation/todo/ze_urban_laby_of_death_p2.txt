@@ -148,4 +148,12 @@
 	{
 		"trans"		"*** Mines can be used up to 6 times. ***"
 	}
+	"*** Zombie Heal has been picked up. ***"
+	{
+		"trans"		"*** Zombie Heal has been picked up. ***"
+	}
+	"*** Zombie Heal has a cooldown of 60 secs. ***"
+	{
+		"trans"		"*** Zombie Heal has a cooldown of 60 secs. ***"
+	}
 }

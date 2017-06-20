@@ -1,0 +1,47 @@
+"Chat"
+{
+	"*** STAGE 1 ***"
+	{
+		"trans"		"*** STAGE 1 ***"
+	}
+	"*** 7 SECONDS REMAINING ***"
+	{
+		"trans"		"*** 7 SECONDS REMAINING ***"
+	}
+	"*** >????????????????????? ***"
+	{
+		"trans"		"*** >????????????????????? ***"
+	}
+	"*** STAGE 1 PASSED ***"
+	{
+		"trans"		"*** STAGE 1 PASSED ***"
+	}
+	"*** STAGE 3 ***"
+	{
+		"trans"		"*** STAGE 3 ***"
+	}
+	"*** INFILTRATE SEVERNAYA SPACE STATION ***"
+	{
+		"trans"		"*** INFILTRATE SEVERNAYA SPACE STATION ***"
+	}
+	"*** ACTIVATE GUIDANCE TERMINALS ***"
+	{
+		"trans"		"*** ACTIVATE GUIDANCE TERMINALS ***"
+	}
+	"*** MEET RENDEZVOUS HELICOPTER ***"
+	{
+		"trans"		"*** MEET RENDEZVOUS HELICOPTER ***"
+	}
+	"*** BUTTON PRESSED ***"
+	{
+		"trans"		"*** BUTTON PRESSED ***"
+	}
+	"*** DOOR OPEN ***"
+	{
+		"trans"		"*** DOOR OPEN ***"
+	}
+	"*** OPENING ***"
+	{
+		"trans"		"*** OPENING ***"
+	}
+}

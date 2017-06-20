@@ -396,4 +396,12 @@
 	{
 		"trans"		"+++ BARBOSSA picked up +++"
 	}
+	"|Admin Room|***Admin has changed difficulty to LEVEL 4 ***"
+	{
+		"trans"		"|Admin Room|***Admin has changed difficulty to LEVEL 4 ***"
+	}
+	"|Admin Room| *** ADMIN SLAYING EVERYONE ***"
+	{
+		"trans"		"|Admin Room| *** ADMIN SLAYING EVERYONE ***"
+	}
 }

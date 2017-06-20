@@ -1,6 +1,6 @@
 "Chat"
 {
-	"** MAP BY Hannibal [SPA] (Rafuron) **"
+	"** MAP BY HANNIBAL [SPA] (Rafuron) **"
 	{
 		"trans"		"** MAP BY HANNIBAL [SPA] (Rafuron) **"
 	}
@@ -27,5 +27,21 @@
 	"**Kill the remaining zombies of the room!**"
 	{
 		"trans"		"**Kill the remaining zombies of the room!**"
+	}
+	"** They have broken through! The castle is breached! Retreat! Get them inside! Into the Keep!** "
+	{
+		"trans"		"** They have broken through! The castle is breached! Retreat! Get them inside! Into the Keep!** "
+	}
+	"**Sun is rising.**"
+	{
+		"trans"		"**Sun is rising.**"
+	}
+	"**The battering ram is breaking the door!**"
+	{
+		"trans"		"**The battering ram is breaking the door!**"
+	}
+	"**Hurry! get in the hall!**"
+	{
+		"trans"		"**Hurry! get in the hall!**"
 	}
 }

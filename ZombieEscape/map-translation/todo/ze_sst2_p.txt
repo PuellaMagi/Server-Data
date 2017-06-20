@@ -20,6 +20,10 @@
 	{
 		"trans"		"***Lift Departing in 5 Seconds***"
 	}
+	"***Cave Wall Will Collapse in 18 Seconds***"
+	{
+		"trans"		"***Cave Wall Will Collapse in 18 Seconds***"
+	}
 	"***Second Cave Wall Will Collapse in 20 Seconds***"
 	{
 		"trans"		"***Second Cave Wall Will Collapse in 20 Seconds***"
@@ -35,10 +39,6 @@
 	"***Stay Within the APC's Interior***"
 	{
 		"trans"		"***Stay Within the APC's Interior***"
-	}
-	"***Cave Wall Will Collapse in 18 Seconds***"
-	{
-		"trans"		"***Cave Wall Will Collapse in 18 Seconds***"
 	}
 	"***12 Seconds to Enter the Outpost***"
 	{

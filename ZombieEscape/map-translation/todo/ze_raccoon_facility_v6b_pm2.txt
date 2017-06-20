@@ -32,4 +32,12 @@
 	{
 		"trans"		"**Train departs in 15 seconds**"
 	}
+	"**Train depart**"
+	{
+		"trans"		"**Train depart**"
+	}
+	">>PRESS THE BUTTON TO START THE TRAIN<<"
+	{
+		"trans"		">>PRESS THE BUTTON TO START THE TRAIN<<"
+	}
 }

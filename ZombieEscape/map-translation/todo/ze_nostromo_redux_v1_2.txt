@@ -4,17 +4,49 @@
 	{
 		"trans"		">>>ze_nostromo_redux_v1_2. Map by AngryAngus3<<<"
 	}
-	"Override the door controls to gain access to the Garage area!"
+	">>>Vent opening in 5 seconds<<<"
 	{
-		"trans"		"Override the door controls to gain access to the Garage area!"
+		"trans"		">>>Vent opening in 5 seconds<<<"
 	}
 	"Hold off for 15 seconds and wait for the ladder access override!"
 	{
 		"trans"		"Hold off for 15 seconds and wait for the ladder access override!"
 	}
+	">>> 5 seconds left! <<<"
+	{
+		"trans"		">>> 5 seconds left! <<<"
+	}
 	"Make a run to B deck! I hope you packed a flashlight today!"
 	{
 		"trans"		"Make a run to B deck! I hope you packed a flashlight today!"
+	}
+	"Override the door controls to gain access to the Garage area!"
+	{
+		"trans"		"Override the door controls to gain access to the Garage area!"
+	}
+	"Flamethrower picked up. Use to push aliens away!"
+	{
+		"trans"		"Flamethrower picked up. Use to push aliens away!"
+	}
+	"'***Flamethrower is charging in 3 seconds!***'"
+	{
+		"trans"		"'***Flamethrower is charging in 3 seconds!***'"
+	}
+	"'***Flamethrower recharging, 10 seconds!***'"
+	{
+		"trans"		"'***Flamethrower recharging, 10 seconds!***'"
+	}
+	"'***Flamethrower ready!***'"
+	{
+		"trans"		"'***Flamethrower ready!***'"
+	}
+	">>>Hold off for 30 seconds and wait for the vent doors to open!<<<"
+	{
+		"trans"		">>>Hold off for 30 seconds and wait for the vent doors to open!<<<"
+	}
+	">>>5 seconds left!<<<"
+	{
+		"trans"		">>>5 seconds left!<<<"
 	}
 	">>> Airlock button will activate in 15 seconds <<<"
 	{
@@ -28,12 +60,48 @@
 	{
 		"trans"		">>> Use airlock button to flush Aliens into space! <<<"
 	}
-	"Airlock cycling, get out of there!"
+	">>>Access Granted<<<"
 	{
-		"trans"		"Airlock cycling, get out of there!"
+		"trans"		">>>Access Granted<<<"
+	}
+	">>>Request access to Engineering Service Passage<<<"
+	{
+		"trans"		">>>Request access to Engineering Service Passage<<<"
 	}
 	">>>Self destruct sequence preparing, hold off for 20 seconds!"
 	{
 		"trans"		">>>Self destruct sequence preparing, hold off for 20 seconds!"
+	}
+	">>>DANGER! THE EMERGENCY DESTRUCT SYSTEM IS NOW ACTIVATED!<<<"
+	{
+		"trans"		">>>DANGER! THE EMERGENCY DESTRUCT SYSTEM IS NOW ACTIVATED!<<<"
+	}
+	">>>GO! GO! GO!<<<"
+	{
+		"trans"		">>>GO! GO! GO!<<<"
+	}
+	">>>Shuttle has left!<<<"
+	{
+		"trans"		">>>Shuttle has left!<<<"
+	}
+	">>>5<<<"
+	{
+		"trans"		">>>5<<<"
+	}
+	"Door override initiated, please wait 15 seconds"
+	{
+		"trans"		"Door override initiated, please wait 15 seconds"
+	}
+	">>>GO GO GO!<<<"
+	{
+		"trans"		">>>GO GO GO!<<<"
+	}
+	"Airlock cycling, get out of there!"
+	{
+		"trans"		"Airlock cycling, get out of there!"
+	}
+	">>>Elevator Powering up in 5 seconds!<<<"
+	{
+		"trans"		">>>Elevator Powering up in 5 seconds!<<<"
 	}
 }

@@ -1,5 +1,41 @@
 "Chat"
 {
+	"** !!! THIS IS A WARMUP ROUND !!! **"
+	{
+		"trans"		"** !!! THIS IS A WARMUP ROUND !!! **"
+	}
+	"** !!! WAITING FOR MORE PLAYERS !!! **"
+	{
+		"trans"		"** !!! WAITING FOR MORE PLAYERS !!! **"
+	}
+	">>>Map by CriSsys<<<"
+	{
+		"trans"		">>>Map by CriSsys<<<"
+	}
+	">>>Help tips opinions and adjustements by Aeris004<<<"
+	{
+		"trans"		">>>Help tips opinions and adjustements by Aeris004<<<"
+	}
+	">>>Thanks to FireWavezZ<<<"
+	{
+		"trans"		">>>Thanks to FireWavezZ<<<"
+	}
+	"** !!! GAME WILL START IN FEW SECOND !!! **"
+	{
+		"trans"		"** !!! GAME WILL START IN FEW SECOND !!! **"
+	}
+	"** !!! CURRENT DIFFICULTY : EASY !!! **"
+	{
+		"trans"		"** !!! CURRENT DIFFICULTY : EASY !!! **"
+	}
+	">>>Type mat_colorcorrection 1 for a better illumination<<<"
+	{
+		"trans"		">>>Type mat_colorcorrection 1 for a better illumination<<<"
+	}
+	"** Naruto will open the way ! Follow him ! **"
+	{
+		"trans"		"** Naruto will open the way ! Follow him ! **"
+	}
 	"** HOLD THIS POSTION **"
 	{
 		"trans"		"** HOLD THIS POSTION **"
@@ -88,7 +124,7 @@
 	{
 		"trans"		"** DOOR WILL OPEN IN 10 SECONDS **"
 	}
-	"** Door will open in 5 seconds **"
+	"** DOOR WILL OPEN IN 5 SECONDS **"
 	{
 		"trans"		"** DOOR WILL OPEN IN 5 SECONDS **"
 	}
@@ -156,20 +192,20 @@
 	{
 		"trans"		"** USE YOUR GRENADE TO MAKE MORE DAMAGE **"
 	}
-	"** YOU DID IT !!! YOU DEFETEAD SASUKE **"
+	"** NARUTO PREPARE IS FINAL ATTACK. HE WILL USE YOUR POWER **"
 	{
-		"trans"		"** YOU DID IT !!! YOU DEFETEAD SASUKE **"
+		"trans"		"** NARUTO PREPARE IS FINAL ATTACK. HE WILL USE YOUR POWER **"
 	}
-	"** YOU BIT EXTREME DIFFICULTY **"
+	"** DON'T LET SASUKE MAKE A NEW ATTACK **"
 	{
-		"trans"		"** YOU BIT EXTREME DIFFICULTY **"
+		"trans"		"** DON'T LET SASUKE MAKE A NEW ATTACK **"
 	}
-	"** YOU CAN CHOOSE THE NEXT DIFFICULTY **"
+	"** KILL HIM BEFORE NARUTO USE HIS ATTACK **"
 	{
-		"trans"		"** YOU CAN CHOOSE THE NEXT DIFFICULTY **"
+		"trans"		"** KILL HIM BEFORE NARUTO USE HIS ATTACK **"
 	}
-	"** NEXT DIFFICULTY : HARD **"
+	"** NARUTO USED YOUR POWER... YOU CAN'T HELP HIM ANYMORE **"
 	{
-		"trans"		"** NEXT DIFFICULTY : HARD **"
+		"trans"		"** NARUTO USED YOUR POWER... YOU CAN'T HELP HIM ANYMORE **"
 	}
 }

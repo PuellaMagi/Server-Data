@@ -1,0 +1,59 @@
+"Chat"
+{
+	"**MAP BY Makvi_Ankom**"
+	{
+		"trans"		"**MAP BY Makvi_Ankom**"
+	}
+	"Ported Nice Shot "
+	{
+		"trans"		"Ported Nice Shot "
+	}
+	"**Ze_Star_wars**"
+	{
+		"trans"		"**Ze_Star_wars**"
+	}
+	"**The bridge will open in 15 seconds**"
+	{
+		"trans"		"**The bridge will open in 15 seconds**"
+	}
+	"**The bridge will open in 5 seconds**"
+	{
+		"trans"		"**The bridge will open in 5 seconds**"
+	}
+	"**Fall back! The bridge open**"
+	{
+		"trans"		"**Fall back! The bridge open**"
+	}
+	"A player picked up Force Push"
+	{
+		"trans"		"A player picked up Force Push"
+	}
+	"A player picked up Force Lightning"
+	{
+		"trans"		"A player picked up Force Lightning"
+	}
+	"**The doors will open in 15 seconds**"
+	{
+		"trans"		"**The doors will open in 15 seconds**"
+	}
+	"**The doors will open in 5 seconds**"
+	{
+		"trans"		"**The doors will open in 5 seconds**"
+	}
+	"**Fall back! The doors are open**"
+	{
+		"trans"		"**Fall back! The doors are open**"
+	}
+	"**The barricade will explode in 10 seconds**"
+	{
+		"trans"		"**The barricade will explode in 10 seconds**"
+	}
+	"**barricade exploded**"
+	{
+		"trans"		"**barricade exploded**"
+	}
+	"A player picked up Force Heal"
+	{
+		"trans"		"A player picked up Force Heal"
+	}
+}

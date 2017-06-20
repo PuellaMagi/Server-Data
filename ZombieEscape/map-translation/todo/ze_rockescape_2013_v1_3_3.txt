@@ -1,0 +1,95 @@
+"Chat"
+{
+	"-=[ Use C4 to blow your way out!!! ]=-"
+	{
+		"trans"		"-=[ Use C4 to blow your way out!!! ]=-"
+	}
+	"-=[ Detonation in 5 seconds ]=-"
+	{
+		"trans"		"-=[ Detonation in 5 seconds ]=-"
+	}
+	"-=[ 4 ]=-"
+	{
+		"trans"		"-=[ 4 ]=-"
+	}
+	"-=[ Lift starting in 45 seconds ]=-"
+	{
+		"trans"		"-=[ Lift starting in 45 seconds ]=-"
+	}
+	"-=[ Lift starting in 5 seconds ]=-"
+	{
+		"trans"		"-=[ Lift starting in 5 seconds ]=-"
+	}
+	"-=[ C4 has been armed ]=-"
+	{
+		"trans"		"-=[ C4 has been armed ]=-"
+	}
+	"-=[ Zombie spawn advanced ]=-"
+	{
+		"trans"		"-=[ Zombie Spawn Advanced ]=-"
+	}
+	"-=[ Lift leaving in 20 seconds... ]=-"
+	{
+		"trans"		"-=[ Lift leaving in 20 seconds... ]=-"
+	}
+	"-=[ Command exit opening in 60 seconds ]=-"
+	{
+		"trans"		"-=[ Command exit opening in 60 seconds ]=-"
+	}
+	"-=[ Lift leaving in 10 seconds... ]=-"
+	{
+		"trans"		"-=[ Lift leaving in 10 seconds... ]=-"
+	}
+	"-=[ Heli inbound... ]=-"
+	{
+		"trans"		"-=[ Heli inbound... ]=-"
+	}
+	"-=[ Boats ready in 30 seconds... ]=-"
+	{
+		"trans"		"-=[ Boats ready in 30 seconds... ]=-"
+	}
+	"-=[ Command exit has opened ]=-"
+	{
+		"trans"		"-=[ Command exit has opened ]=-"
+	}
+	"-=[ Boats ready in 5 seconds... ]=-"
+	{
+		"trans"		"-=[ Boats ready in 5 seconds... ]=-"
+	}
+	"-=[ Nuke detonation in 5 seconds ]=-"
+	{
+		"trans"		"-=[ Nuke detonation in 5 seconds ]=-"
+	}
+	"-=[ Air island leaving in 10 seconds ]=-"
+	{
+		"trans"		"-=[ Air island leaving in 10 seconds ]=-"
+	}
+	"-=[ 2 ]=-"
+	{
+		"trans"		"-=[ 2 ]=-"
+	}
+	"-=[ C4 Detonation in 5 seconds... ]=-"
+	{
+		"trans"		"-=[ C4 Detonation in 5 seconds... ]=-"
+	}
+	"-=[ Lift leaving in 5 seconds... ]=-"
+	{
+		"trans"		"-=[ Lift leaving in 5 seconds... ]=-"
+	}
+	"-=[ Boats ready in 60 seconds... ]=-"
+	{
+		"trans"		"-=[ Boats ready in 60 seconds... ]=-"
+	}
+	"-=[ Boats ready in 10 seconds... ]=-"
+	{
+		"trans"		"-=[ Boats ready in 10 seconds... ]=-"
+	}
+	"-=[ 1 ]=-"
+	{
+		"trans"		"-=[ 1 ]=-"
+	}
+	"-=[ Detonation in 20 seconds ]=-"
+	{
+		"trans"		"-=[ Detonation in 20 seconds ]=-"
+	}
+}

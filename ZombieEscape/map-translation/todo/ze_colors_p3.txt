@@ -1,0 +1,15 @@
+"Chat"
+{
+	"** RESIST! We need to wait for a bit until we fly-fly-fly! **"
+	{
+		"trans"		"** RESIST! We need to wait for a bit until we fly-fly-fly! **"
+	}
+	"** Hey there! Welcome to ze_colors **"
+	{
+		"trans"		"** Hey there! Welcome to ze_colors **"
+	}
+	"** Do you see it? Time to practice ropeless bungee jumping! **"
+	{
+		"trans"		"** Do you see it? Time to practice ropeless bungee jumping! **"
+	}
+}

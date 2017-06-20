@@ -12,4 +12,28 @@
 	{
 		"trans"		"***low gravity zone ahead. jump over the wall***"
 	}
+	"***metal door is opening***"
+	{
+		"trans"		"***metal door is opening***"
+	}
+	"***storage door is opening***"
+	{
+		"trans"		"***storage door is opening***"
+	}
+	"***Elevator is here***"
+	{
+		"trans"		"***Elevator is here***"
+	}
+	"***map by Denn15***"
+	{
+		"trans"		"***map by Denn15***"
+	}
+	"**wtf boom nuke is launched. 10 seconds until explosion**"
+	{
+		"trans"		"**wtf boom nuke is launched. 10 seconds until explosion**"
+	}
+	"***metal door opens in 30 seconds***"
+	{
+		"trans"		"***metal door opens in 30 seconds***"
+	}
 }

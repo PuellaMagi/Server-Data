@@ -48,13 +48,17 @@
 	{
 		"trans"		"***DOOR OPENING IN 20 SECONDS***"
 	}
-	"***UPPER DOOR IS OPENING IN 10 SECONDS***"
-	{
-		"trans"		"***UPPER DOOR IS OPENING IN 10 SECONDS***"
-	}
 	"***SPAM E ON THE BOMBS TO ACTIVATE THEM***"
 	{
 		"trans"		"***SPAM E ON THE BOMBS TO ACTIVATE THEM***"
+	}
+	"***BOMB 2 HAS BEEN ACTIVATED***"
+	{
+		"trans"		"***BOMB 2 HAS BEEN ACTIVATED***"
+	}
+	"***UPPER DOOR IS OPENING IN 10 SECONDS***"
+	{
+		"trans"		"***UPPER DOOR IS OPENING IN 10 SECONDS***"
 	}
 	"***BOMB 1 HAS BEEN ACTIVATED***"
 	{
@@ -63,10 +67,6 @@
 	"***ELVATOR LEAVING IN 10 SECONDS***"
 	{
 		"trans"		"***ELVATOR LEAVING IN 10 SECONDS***"
-	}
-	"***BOMB 2 HAS BEEN ACTIVATED***"
-	{
-		"trans"		"***BOMB 2 HAS BEEN ACTIVATED***"
 	}
 	"***ELEVATOR LEAVING IN 10 SECONDS***"
 	{
@@ -108,10 +108,6 @@
 	{
 		"trans"		"***GO!***"
 	}
-	"***YOU MUST ACTIVATE ALL 3 BOMBS BEFORE MOVING ON***"
-	{
-		"trans"		"***YOU MUST ACTIVATE ALL 3 BOMBS BEFORE MOVING ON***"
-	}
 	"***OPENING POD DOORS***"
 	{
 		"trans"		"***OPENING POD DOORS***"
@@ -127,5 +123,25 @@
 	"***PODS ARE LEAVING***"
 	{
 		"trans"		"***PODS ARE LEAVING***"
+	}
+	"***YOU MUST ACTIVATE ALL 3 BOMBS BEFORE MOVING ON***"
+	{
+		"trans"		"***YOU MUST ACTIVATE ALL 3 BOMBS BEFORE MOVING ON***"
+	}
+	"***ZOMBIES DETECTED IN POD 3***"
+	{
+		"trans"		"***ZOMBIES DETECTED IN POD 3***"
+	}
+	"***POD 3 OPENING IN 5 SECONDS***"
+	{
+		"trans"		"***POD 3 OPENING IN 5 SECONDS***"
+	}
+	"***ZOMBIES DETECTED IN POD 2***"
+	{
+		"trans"		"***ZOMBIES DETECTED IN POD 2***"
+	}
+	"***POD 2 OPENING IN 5 SECONDS***"
+	{
+		"trans"		"***POD 2 OPENING IN 5 SECONDS***"
 	}
 }

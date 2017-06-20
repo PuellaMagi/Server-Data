@@ -1,0 +1,55 @@
+"Chat"
+{
+	"**Balin's door closing in 10 s**"
+	{
+		"trans"		"**Balin's door closing in 10 s**"
+	}
+	"**Map by: Hannibal [SPA] (Rafuron)**"
+	{
+		"trans"		"**Map by: Hannibal [SPA] (Rafuron)**"
+	}
+	"**Balrog coming to SPAWN CAVE AND LADDER ZONE in 15s**"
+	{
+		"trans"		"**Balrog coming to SPAWN CAVE AND LADDER ZONE in 15s**"
+	}
+	"**Resist 30 s**"
+	{
+		"trans"		"**Resist 30 s**"
+	}
+	"**Resist 15 s**"
+	{
+		"trans"		"**Resist 15 s**"
+	}
+	"**Go to the Khazad-Dum bridge!**"
+	{
+		"trans"		"**Go to the Khazad-Dum bridge!**"
+	}
+	"** ... **"
+	{
+		"trans"		"** ... **"
+	}
+	"**Humans have reached Balin's tomb! Resist 55 s**"
+	{
+		"trans"		"**Humans have reached Balin's tomb! Resist 55 s**"
+	}
+	"**(Zombies) The door to Khazad-Dum bridge is now open**"
+	{
+		"trans"		"**(Zombies) The door to Khazad-Dum bridge is now open**"
+	}
+	"**Gandalf in the middle**"
+	{
+		"trans"		"**Gandalf in the middle**"
+	}
+	"**Congratulations! The ring has reached Khazad-Dum! The wooden bridge has been destroyed**"
+	{
+		"trans"		"**Congratulations! The ring has reached Khazad-Dum! The wooden bridge has been destroyed**"
+	}
+	"**Gandalf is dead!**"
+	{
+		"trans"		"**Gandalf is dead!**"
+	}
+	"**Zombies have been alerted!**"
+	{
+		"trans"		"**Zombies have been alerted!**"
+	}
+}

@@ -40,4 +40,8 @@
 	{
 		"trans"		">>>*2 seconds to closing the door*<<<"
 	}
+	">>>*Hold 10 seconds!*<<<"
+	{
+		"trans"		">>>*Hold 10 seconds!*<<<"
+	}
 }

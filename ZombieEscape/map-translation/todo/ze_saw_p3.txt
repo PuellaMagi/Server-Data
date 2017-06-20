@@ -88,4 +88,8 @@
 	{
 		"trans"		">- shelter door closing!!  -<"
 	}
+	">-Door opening in 30 sec-<"
+	{
+		"trans"		">-Door opening in 30 sec-<"
+	}
 }

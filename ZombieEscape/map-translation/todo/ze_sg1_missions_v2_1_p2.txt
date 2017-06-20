@@ -188,4 +188,8 @@
 	{
 		"trans"		">>>RUUUUUUUUUUUUN<<<"
 	}
+	">>>MALP DOOR OPENING IN 10 SEC<<<"
+	{
+		"trans"		">>>MALP DOOR OPENING IN 10 SEC<<<"
+	}
 }

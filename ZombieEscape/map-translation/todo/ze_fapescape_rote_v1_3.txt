@@ -140,4 +140,44 @@
 	{
 		"trans"		"*** HOLD THEM BACK  ***"
 	}
+	"*** Player has picked up EyeTech Cannon ***"
+	{
+		"trans"		"*** Player has picked up EyeTech Cannon ***"
+	}
+	"*** Player has picked up Pipe bombs ***"
+	{
+		"trans"		"*** Player has picked up Pipe bombs ***"
+	}
+	"*** It has unlimited uses ***"
+	{
+		"trans"		"*** It has unlimited uses ***"
+	}
+	"*** Elevators leave in 15 seconds *** "
+	{
+		"trans"		"*** Elevators leave in 15 seconds *** "
+	}
+	"*** Elevators leave in 5 seconds *** "
+	{
+		"trans"		"*** Elevators leave in 5 seconds *** "
+	}
+	"*** 20 SECONDS LEFT ***"
+	{
+		"trans"		"*** 20 SECONDS LEFT ***"
+	}
+	"*** 5 seconds left ***"
+	{
+		"trans"		"*** 5 SECONDS LEFT ***"
+	}
+	"*** CONGRATULATIONS  YOU HAVE BEATEN THE MAP! ***"
+	{
+		"trans"		"*** CONGRATULATIONS  YOU HAVE BEATEN THE MAP! ***"
+	}
+	"*** It has 5 uses ***"
+	{
+		"trans"		"*** It has 5 uses ***"
+	}
+	"*** Level 3 ***"
+	{
+		"trans"		"*** Level 3 ***"
+	}
 }

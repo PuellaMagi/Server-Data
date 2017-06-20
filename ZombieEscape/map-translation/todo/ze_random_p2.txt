@@ -1,0 +1,251 @@
+"Chat"
+{
+	"***Map by SonicTheHitManHog／RelaxingWalls***"
+	{
+		"trans"		"***Map by SonicTheHitManHog／RelaxingWalls***"
+	}
+	"***LEVEL -- BOX WITH A LIGHT IN IT***"
+	{
+		"trans"		"***LEVEL -- BOX WITH A LIGHT IN IT***"
+	}
+	"***Hold off as the zombies spawn until you're teleport to 1 of the 9 maps!***"
+	{
+		"trans"		"***Hold off as the zombies spawn until you're teleport to 1 of the 9 maps!***"
+	}
+	"***Teleporting in 20secs!***"
+	{
+		"trans"		"***Teleporting in 20secs!***"
+	}
+	"***3***"
+	{
+		"trans"		"***3***"
+	}
+	"***2***"
+	{
+		"trans"		"***2***"
+	}
+	"***1***"
+	{
+		"trans"		"***1***"
+	}
+	"***Good Luck!!***"
+	{
+		"trans"		"***Good Luck!!***"
+	}
+	"***LEVEL -- ZOMBIE DEATHRUN***"
+	{
+		"trans"		"***LEVEL -- ZOMBIE DEATHRUN***"
+	}
+	"***Shoot wisely!***"
+	{
+		"trans"		"***Shoot wisely!***"
+	}
+	"***Zombies try to trap the CTs!***"
+	{
+		"trans"		"***Zombies try to trap the CTs!***"
+	}
+	"***CTs have 120secs to escape as the temple's curse spreads!*** "
+	{
+		"trans"		"***CTs have 120secs to escape as the temple's curse spreads!*** "
+	}
+	"***Good things come to those who wait...***"
+	{
+		"trans"		"***Good things come to those who wait...***"
+	}
+	"***Did someone see an awp?***"
+	{
+		"trans"		"***Did someone see an awp?***"
+	}
+	"***The curse has reached spawn!*** "
+	{
+		"trans"		"***The curse has reached spawn!*** "
+	}
+	"***CTs have 15secs to escape!*** "
+	{
+		"trans"		"***CTs have 15secs to escape!*** "
+	}
+	"***Wait here till everyone else makes it!*** "
+	{
+		"trans"		"***Wait here till everyone else makes it!*** "
+	}
+	"***Don't Delay!***"
+	{
+		"trans"		"***Don't Delay!***"
+	}
+	"***Teleporting to next map!***"
+	{
+		"trans"		"***Teleporting to next map!***"
+	}
+	"***LEVEL -- FAIL NADES***"
+	{
+		"trans"		"***LEVEL -- FAIL NADES***"
+	}
+	"***Zombie will arrive in 10secs!***"
+	{
+		"trans"		"***Zombie will arrive in 10secs!***"
+	}
+	"***Split up on each side or group up on one! Just keep the zombies back until the valves on both sides are unlocked!*** "
+	{
+		"trans"		"***Split up on each side or group up on one! Just keep the zombies back until the valves on both sides are unlocked!*** "
+	}
+	"***The curse has reached the dual arch!*** "
+	{
+		"trans"		"***The curse has reached the dual arch!*** "
+	}
+	"***Emergency doors closing in 10secs!***"
+	{
+		"trans"		"***Emergency doors closing in 10secs!***"
+	}
+	"***Boxcar door opening in 10secs!***"
+	{
+		"trans"		"***Boxcar door opening in 10secs!***"
+	}
+	"***Final express door opening in 25secs!***"
+	{
+		"trans"		"***Final express door opening in 25secs!***"
+	}
+	"***Final express door open!***"
+	{
+		"trans"		"***Final express door open!***"
+	}
+	"***Valves are stuck! BREAK THEM! Only 20secs to destroy both!***"
+	{
+		"trans"		"***Valves are stuck! BREAK THEM! Only 20secs to destroy both!***"
+	}
+	"***If one side overrun start chucking nades over to break the valve!***"
+	{
+		"trans"		"***If one side overrun start chucking nades over to break the valve!***"
+	}
+	"***Zombie drain open!***"
+	{
+		"trans"		"***Zombie drain open!***"
+	}
+	"***Beware K.'s SlenderMan!*** "
+	{
+		"trans"		"***Beware K.'s SlenderMan!*** "
+	}
+	"***Elevator 1 leaving in 5secs!***"
+	{
+		"trans"		"***Elevator 1 leaving in 5secs!***"
+	}
+	"***Power lost. Shoot the doors!***"
+	{
+		"trans"		"***Power lost. Shoot the doors!***"
+	}
+	"***4***"
+	{
+		"trans"		"***4***"
+	}
+	"***FINAL BOSS INCOMING!***"
+	{
+		"trans"		"***FINAL BOSS INCOMING!***"
+	}
+	"***If the world is going to end at least you'll have a warm seat!***"
+	{
+		"trans"		"***If the world is going to end at least you'll have a warm seat!***"
+	}
+	"***Hold these crates while someone breaks the barrier and gets the couch going!***"
+	{
+		"trans"		"***Hold these crates while someone breaks the barrier and gets the couch going!***"
+	}
+	"***The curse has reached Mona's Hallway!*** "
+	{
+		"trans"		"***The curse has reached Mona's Hallway!*** "
+	}
+	"***Hurry under! Zombie block planks breaking in 15secs!***"
+	{
+		"trans"		"***Hurry under! Zombie block planks breaking in 15secs!***"
+	}
+	"***C4 set to go off in 25secs!***"
+	{
+		"trans"		"***C4 set to go off in 25secs!***"
+	}
+	"***Hurry through the warehouse while the carpet passes under!***"
+	{
+		"trans"		"***Hurry through the warehouse while the carpet passes under!***"
+	}
+	"***Carpet leaves in 5secs!***"
+	{
+		"trans"		"***Carpet leaves in 5secs!***"
+	}
+	"***Watch out for...barrel...attacks...?***"
+	{
+		"trans"		"***Watch out for...barrel...attacks...?***"
+	}
+	"***CT's will have to jump off and activate the switches!***"
+	{
+		"trans"		"***CT's will have to jump off and activate the switches!***"
+	}
+	"***CONGRATULATIONS -- ...Wait...F---!!***"
+	{
+		"trans"		"***CONGRATULATIONS -- ...Wait...F---!!***"
+	}
+	"***JUMP INTO THE ORB!!***"
+	{
+		"trans"		"***JUMP INTO THE ORB!!***"
+	}
+	"***LEVEL -- CLASSIC***"
+	{
+		"trans"		"***LEVEL -- CLASSIC***"
+	}
+	"***Zombie will arrive in 20secs!***"
+	{
+		"trans"		"***Zombie will arrive in 20secs!***"
+	}
+	"***Survive for 75secs!***"
+	{
+		"trans"		"***Survive for 75secs!***"
+	}
+	"***Teleporter ERROR!***"
+	{
+		"trans"		"***Teleporter ERROR!***"
+	}
+	"***Door breaking in 10secs!***"
+	{
+		"trans"		"***Door breaking in 10secs!***"
+	}
+	"***HOLD THE CRATES!***"
+	{
+		"trans"		"***HOLD THE CRATES!***"
+	}
+	"***Survive for 15secs!***"
+	{
+		"trans"		"***Survive for 15secs!***"
+	}
+	"***CONGRATULATIONS -- THANK YOU FOR PLAYING!!***"
+	{
+		"trans"		"***CONGRATULATIONS -- THANK YOU FOR PLAYING!!***"
+	}
+	"***Teleporting to FINAL MAP!***"
+	{
+		"trans"		"***Teleporting to FINAL MAP!***"
+	}
+	"***Defend for 35secs as the Carpet...refuels...?***"
+	{
+		"trans"		"***Defend for 35secs as the Carpet...refuels...?***"
+	}
+	"***Only 60secs left!***"
+	{
+		"trans"		"***Only 60secs left!***"
+	}
+	"***Couch Only! Take the alleyway!"
+	{
+		"trans"		"***Couch Only! Take the alleyway!"
+	}
+	"***Hold final barrier for 15secs!***"
+	{
+		"trans"		"***Hold final barrier for 15secs!***"
+	}
+	"***Final barrier down!***"
+	{
+		"trans"		"***Final barrier down!***"
+	}
+	"***HOLD the first tunnel crates while the others gets the couch out of the maintenance path and break the barriers!***"
+	{
+		"trans"		"***HOLD the first tunnel crates while the others gets the couch out of the maintenance path and break the barriers!***"
+	}
+	"***Shoot the Block!***"
+	{
+		"trans"		"***Shoot the Block!***"
+	}
+}

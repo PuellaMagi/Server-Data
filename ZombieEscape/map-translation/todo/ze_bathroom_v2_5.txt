@@ -124,4 +124,8 @@
 	{
 		"trans"		"Kill all zombies inside!"
 	}
+	"You have won the map! Congratulations!"
+	{
+		"trans"		"You have won the map! Congratulations!"
+	}
 }

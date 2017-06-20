@@ -104,4 +104,32 @@
 	{
 		"trans"		"** Zombies have 1 HP! **"
 	}
+	"** Kill the remaining zombies! **"
+	{
+		"trans"		"** Kill the remaining zombies! **"
+	}
+	"** LEVEL 3 **"
+	{
+		"trans"		"** LEVEL 3 **"
+	}
+	"** LEVEL 4 **"
+	{
+		"trans"		"** LEVEL 4 **"
+	}
+	"** Victory in 150 seconds. **"
+	{
+		"trans"		"** Victory in 150 seconds. **"
+	}
+	"** LEVEL 1 **"
+	{
+		"trans"		"** LEVEL 1 **"
+	}
+	"** A player has picked up Heal Staff **"
+	{
+		"trans"		"** A player has picked up Heal Staff **"
+	}
+	"** LEVEL 2 **"
+	{
+		"trans"		"** LEVEL 2 **"
+	}
 }

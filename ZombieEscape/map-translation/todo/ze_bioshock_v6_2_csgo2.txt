@@ -68,17 +68,13 @@
 	{
 		"trans"		">>Get in the Bathysphere - 12s<<"
 	}
-	"***Plasmid obtained: Insect Swarm***"
-	{
-		"trans"		"***Plasmid obtained: Insect Swarm***"
-	}
 	">>Hold the Atrium - 22s<<"
 	{
 		"trans"		">>Hold the Atrium - 22s<<"
 	}
-	"***Plasmid obtained: Gravity Well***"
+	"***Plasmid obtained: Winter Blast***"
 	{
-		"trans"		"***Plasmid obtained: Gravity Well***"
+		"trans"		"***Plasmid obtained: Winter Blast***"
 	}
 	">>Door is open<<"
 	{
@@ -100,25 +96,17 @@
 	{
 		"trans"		"*AFK teleport in 5s*"
 	}
-	">>Elevator 2 leaving - 5s<<"
-	{
-		"trans"		">>Elevator 2 leaving - 5s<<"
-	}
-	"***Plasmid obtained: Incinerate***"
-	{
-		"trans"		"***Plasmid obtained: Incinerate***"
-	}
 	">>Elevator 1 leaving - 5s<<"
 	{
 		"trans"		">>Elevator 1 leaving - 5s<<"
 	}
+	"***Plasmid obtained: Sonic Boom***"
+	{
+		"trans"		"***Plasmid obtained: Sonic Boom***"
+	}
 	">>Hold until the security door releases<<"
 	{
 		"trans"		">>Hold until the security door releases<<"
-	}
-	"***Plasmid obtained: Winter Blast***"
-	{
-		"trans"		"***Plasmid obtained: Winter Blast***"
 	}
 	"That's a Little Sister. Looks like she's alone..."
 	{
@@ -132,16 +120,80 @@
 	{
 		"trans"		">>Board and defend the Rapture Metro<<"
 	}
-	">>>Chapter failed<<<"
+	">>>Chapter complete<<<"
 	{
-		"trans"		">>>Chapter failed<<<"
+		"trans"		">>>Chapter complete<<<"
 	}
-	">>Current Difficulty: Easy<<"
+	">>Chapter 2 - Fort Frolic<<"
 	{
-		"trans"		">>Current Difficulty: Easy<<"
+		"trans"		">>Chapter 2 - Fort Frolic<<"
 	}
-	"***Plasmid obtained: Sonic Boom***"
+	">>Wait for Siren Alley doors to open - 15s<<"
 	{
-		"trans"		"***Plasmid obtained: Sonic Boom***"
+		"trans"		">>Wait for Siren Alley doors to open - 15s<<"
+	}
+	"*Splicers have been blocked for 8 seconds*"
+	{
+		"trans"		"*Splicers have been blocked for 8 seconds*"
+	}
+	">>Hide or hold until the exit has drained - 84s<<"
+	{
+		"trans"		">>Hide or hold until the exit has drained - 84s<<"
+	}
+	"*Splicers have been blocked for 6 seconds*"
+	{
+		"trans"		"*Splicers have been blocked for 6 seconds*"
+	}
+	"*Splicers have been blocked for 4 seconds*"
+	{
+		"trans"		"*Splicers have been blocked for 4 seconds*"
+	}
+	"*Splicers have been blocked for 2 seconds*"
+	{
+		"trans"		"*Splicers have been blocked for 2 seconds*"
+	}
+	"*Splicers have been freed!*"
+	{
+		"trans"		"*Splicers have been freed!*"
+	}
+	">>Hold the Decompression Chamber<<"
+	{
+		"trans"		">>Hold the Decompression Chamber<<"
+	}
+	">>Defend until Cohen opens the doors - 20s<<"
+	{
+		"trans"		">>Defend until Cohen opens the doors - 20s<<"
+	}
+	">>Hold the doorway - 5s<<"
+	{
+		"trans"		">>Hold the doorway - 5s<<"
+	}
+	">>Go up the stairs<<"
+	{
+		"trans"		">>Go up the stairs<<"
+	}
+	">>Wait for Poseidon Plaza to unfreeze<<"
+	{
+		"trans"		">>Wait for Poseidon Plaza to unfreeze<<"
+	}
+	">>Defend while the door unfreezes - 20s<<"
+	{
+		"trans"		">>Defend while the door unfreezes - 20s<<"
+	}
+	">>Defend Jasmine Jolie's room - 60s<<"
+	{
+		"trans"		">>Defend Jasmine Jolie's room - 60s<<"
+	}
+	">>Elevator 2 leaving - 5s<<"
+	{
+		"trans"		">>Elevator 2 leaving - 5s<<"
+	}
+	"***Plasmid obtained: Insect Swarm***"
+	{
+		"trans"		"***Plasmid obtained: Insect Swarm***"
+	}
+	"***Plasmid obtained: Gravity Well***"
+	{
+		"trans"		"***Plasmid obtained: Gravity Well***"
 	}
 }

@@ -32,4 +32,16 @@
 	{
 		"trans"		"** Bridge will be destroyed after 30 sec .**"
 	}
+	"** Door opening in 15 sec **"
+	{
+		"trans"		"** Door opening in 15 sec **"
+	}
+	"** Second door opening in 10 seconds **"
+	{
+		"trans"		"** Second door opening in 10 seconds **"
+	}
+	"** Boat leaving in 20 sec **"
+	{
+		"trans"		"** Boat leaving in 20 sec **"
+	}
 }

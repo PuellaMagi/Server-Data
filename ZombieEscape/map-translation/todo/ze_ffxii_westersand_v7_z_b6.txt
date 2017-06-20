@@ -1,0 +1,315 @@
+"Chat"
+{
+	"[NORMAL MODE]"
+	{
+		"trans"		"[NORMAL MODE]"
+	}
+	"** MAP BY SLAYERDRAGON **"
+	{
+		"trans"		"** MAP BY SLAYERDRAGON **"
+	}
+	"** Defend untill the guards open the airport. **"
+	{
+		"trans"		"** Defend untill the guards open the airport. **"
+	}
+	"** Airport opened. **"
+	{
+		"trans"		"** Airport opened. **"
+	}
+	"** Defend 25 seconds untill the guards open the hallway. **"
+	{
+		"trans"		"** Defend 25 seconds untill the guards open the hallway. **"
+	}
+	"** 5 Seconds left **"
+	{
+		"trans"		"** 5 Seconds left **"
+	}
+	"** Defend here so the guards will open the gates to the city! **"
+	{
+		"trans"		"** Defend here so the guards will open the gates to the city! **"
+	}
+	"** A player has learned Fire magick. **"
+	{
+		"trans"		"** A player has learned Fire magick. **"
+	}
+	"** Cover here till the rock explodes **"
+	{
+		"trans"		"** Cover here till the rock explodes **"
+	}
+	"** The elevator will leave in 20 seconds **"
+	{
+		"trans"		"** The elevator will leave in 20 seconds **"
+	}
+	"** The elevator will leave in 5 seconds **"
+	{
+		"trans"		"** The elevator will leave in 5 seconds **"
+	}
+	"** The first door will open in 10 seconds **"
+	{
+		"trans"		"** The first door will open in 10 seconds **"
+	}
+	"** The second door will open in 15 seconds **"
+	{
+		"trans"		"** The second door will open in 15 seconds **"
+	}
+	"** Keep defending!! **"
+	{
+		"trans"		"** Keep defending!! **"
+	}
+	"** Nades do more damage ** "
+	{
+		"trans"		"** Nades do more damage ** "
+	}
+	"** FIRE NOVA INBOUND **"
+	{
+		"trans"		"** FIRE NOVA INBOUND **"
+	}
+	"** USE WATER TO DODGE IT  **"
+	{
+		"trans"		"** USE WATER TO DODGE IT  **"
+	}
+	"** The dragon has been defeated **"
+	{
+		"trans"		"** The dragon has been defeated **"
+	}
+	"** Cover 10 seconds till the rock explodes **"
+	{
+		"trans"		"** Cover 10 seconds till the rock explodes **"
+	}
+	"** Go to the end of the road! **"
+	{
+		"trans"		"** Go to the end of the road! **"
+	}
+	"** 50 SECS REMAINING **"
+	{
+		"trans"		"** 50 SECS REMAINING **"
+	}
+	"** 40 SECS REMAINING **"
+	{
+		"trans"		"** 40 SECS REMAINING **"
+	}
+	"** 30 SECS REMAINING **"
+	{
+		"trans"		"** 30 SECS REMAINING **"
+	}
+	"** 20 SECS REMAINING **"
+	{
+		"trans"		"** 20 SECS REMAINING **"
+	}
+	"** 10 SECS REMAINING **"
+	{
+		"trans"		"** 10 SECS REMAINING **"
+	}
+	"** 5 SECS REMAINING **"
+	{
+		"trans"		"** 5 SECS REMAINING **"
+	}
+	"** Congratulations - u won [NORMAL] **"
+	{
+		"trans"		"** Congratulations - u won [NORMAL] **"
+	}
+	"[HARD MODE]"
+	{
+		"trans"		"[HARD MODE]"
+	}
+	"** A player has learned Heal magick. **"
+	{
+		"trans"		"** A player has learned Heal magick. **"
+	}
+	"** A player has learned Wind magick. **"
+	{
+		"trans"		"** A player has learned Wind magick. **"
+	}
+	"** Cover 20 seconds till the rock explodes **"
+	{
+		"trans"		"** Cover 20 seconds till the rock explodes **"
+	}
+	"** 60 SECS REMAINING **"
+	{
+		"trans"		"** 60 SECS REMAINING **"
+	}
+	"** A player has learned Water magick. **"
+	{
+		"trans"		"** A player has learned Water magick. **"
+	}
+	"** A player has learned Earth magick. **"
+	{
+		"trans"		"** A player has learned Earth magick. **"
+	}
+	"** A player has learned Holy magick. **"
+	{
+		"trans"		"** A player has learned Holy magick. **"
+	}
+	"** METEOR INBOUND **"
+	{
+		"trans"		"** METEOR INBOUND **"
+	}
+	"** USE ELECTRO TO  BREAK IT **"
+	{
+		"trans"		"** USE ELECTRO TO  BREAK IT **"
+	}
+	"** Congratulations - u won [HARD] **"
+	{
+		"trans"		"** Congratulations - u won [HARD] **"
+	}
+	"[EXTREME MODE]"
+	{
+		"trans"		"[EXTREME MODE]"
+	}
+	"** A player has learned Electro magick. **"
+	{
+		"trans"		"** A player has learned Electro magick. **"
+	}
+	"** Cover 30 seconds till the rock explodes **"
+	{
+		"trans"		"** Cover 30 seconds till the rock explodes **"
+	}
+	"** 70 SECS REMAINING **"
+	{
+		"trans"		"** 70 SECS REMAINING **"
+	}
+	"** Congratulations - u won [EXTREME] **"
+	{
+		"trans"		"** Congratulations - u won [EXTREME] **"
+	}
+	"[EPIC MODE]"
+	{
+		"trans"		"[EPIC MODE]"
+	}
+	"** Teleporter will be ready in 20 seconds! **"
+	{
+		"trans"		"** Teleporter will be ready in 20 seconds! **"
+	}
+	"** Teleporter will be ready in 5 seconds! **"
+	{
+		"trans"		"** Teleporter will be ready in 5 seconds! **"
+	}
+	"** Door will open in 5 seconds **"
+	{
+		"trans"		"** Door will open in 5 seconds **"
+	}
+	"** Second door will open in 10 seconds **"
+	{
+		"trans"		"** Second door will open in 10 seconds **"
+	}
+	"** Hold 10 more seconds!! **"
+	{
+		"trans"		"** Hold 10 more seconds!! **"
+	}
+	"** Nades do more damage **"
+	{
+		"trans"		"** Nades do more damage **"
+	}
+	"[3 WINS IN A ROW] Easteregg unlocked!"
+	{
+		"trans"		"[3 WINS IN A ROW] Easteregg unlocked!"
+	}
+	"** The guardians are dead!! Run back to the entrance!! **"
+	{
+		"trans"		"** The guardians are dead!! Run back to the entrance!! **"
+	}
+	"** The healer is down!! **"
+	{
+		"trans"		"** The healer is down!! **"
+	}
+	"** The battlemage is down!! **"
+	{
+		"trans"		"** The battlemage is down!! **"
+	}
+	"** ZM JAIL OPEN **"
+	{
+		"trans"		"** ZM JAIL OPEN **"
+	}
+	"** Defend here for 30 seconds **"
+	{
+		"trans"		"** Defend here for 30 seconds **"
+	}
+	"** 5 more seconds **"
+	{
+		"trans"		"** 5 more seconds **"
+	}
+	"** The airship reactors are going to explode!! **"
+	{
+		"trans"		"** The airship reactors are going to explode!! **"
+	}
+	"** CHAOS is using a deathwall - RUN FASTER!! **"
+	{
+		"trans"		"** CHAOS is using a deathwall - RUN FASTER!! **"
+	}
+	"** Chaos has been defeated - RUN !!!!! **"
+	{
+		"trans"		"** Chaos has been defeated - RUN !!!!! **"
+	}
+	"** Congratulations - u won [EPIC] **"
+	{
+		"trans"		"** Congratulations - u won [EPIC] **"
+	}
+	"[GOD MODE]"
+	{
+		"trans"		"[GOD MODE]"
+	}
+	"** The dragon has been defeated! GOGOGO **"
+	{
+		"trans"		"** The dragon has been defeated! GOGOGO **"
+	}
+	"** Congratulations - u won [GODMODE] **"
+	{
+		"trans"		"** Congratulations - u won [GODMODE] **"
+	}
+	"** THANKS FOR PLAYING **"
+	{
+		"trans"		"** THANKS FOR PLAYING **"
+	}
+	"[ZOMBIE MODE]"
+	{
+		"trans"		"[ZOMBIE MODE]"
+	}
+	"** NUKE IN 80 SECONDS **"
+	{
+		"trans"		"** NUKE IN 80 SECONDS **"
+	}
+	"** TELEPORTING EVERYONE TO CHOCOBORACE IN 10 SEC **"
+	{
+		"trans"		"** TELEPORTING EVERYONE TO CHOCOBORACE IN 10 SEC **"
+	}
+	"** TELEPORTING EVERYONE TO CHOCOBORACE **"
+	{
+		"trans"		"** TELEPORTING EVERYONE TO CHOCOBORACE **"
+	}
+	"** ZOMBIES RELEASED IN 2 SECS **"
+	{
+		"trans"		"** ZOMBIES RELEASED IN 2 SECS **"
+	}
+	"** NUKE IN 20 SECONDS **"
+	{
+		"trans"		"** NUKE IN 20 SECONDS **"
+	}
+	"[WINNER] Selected [GOD MODE] for next round"
+	{
+		"trans"		"[WINNER] Selected [GOD MODE] for next round"
+	}
+	"[WINNER] Selected [EPIC MODE] for next round"
+	{
+		"trans"		"[WINNER] Selected [EPIC MODE] for next round"
+	}
+	"[WINNER] Selected [EXTREME MODE] for next round"
+	{
+		"trans"		"[WINNER] Selected [EXTREME MODE] for next round"
+	}
+	"[WINNER] Selected [HARD MODE] for next round"
+	{
+		"trans"		"[WINNER] Selected [HARD MODE] for next round"
+	}
+	"[WINNER] Selected [NORMAL MODE] for next round"
+	{
+		"trans"		"[WINNER] Selected [NORMAL MODE] for next round"
+	}
+	"[ADMIN] Selected [GOD MODE] for next round. Restarting round in 5 seconds."
+	{
+		"trans"		"[ADMIN] Selected [GOD MODE] for next round. Restarting round in 5 seconds."
+	}
+	"** Zombies Have Escaped **"
+	{
+		"trans"		"** Zombies Have Escaped **"
+	}
+}

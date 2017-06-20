@@ -1,0 +1,103 @@
+"Chat"
+{
+	"** Cargo secction upper door opening in 5s**"
+	{
+		"trans"		"** Cargo secction upper door opening in 5s**"
+	}
+	"**Giant red star is unstable**"
+	{
+		"trans"		"**Giant red star is unstable**"
+	}
+	"**Double doors sealing in 15s**"
+	{
+		"trans"		"**Double doors sealing in 15s**"
+	}
+	"**Double doors sealing in 5s**"
+	{
+		"trans"		"**Double doors sealing in 5s**"
+	}
+	"**Sealing double doors**"
+	{
+		"trans"		"**Sealing double doors**"
+	}
+	"**Generator Elevator leaving 15 s**"
+	{
+		"trans"		"**Generator Elevator leaving 15 s**"
+	}
+	"**Gravity tower acces breaking crate in 5s**"
+	{
+		"trans"		"**Gravity tower acces breaking crate in 5s**"
+	}
+	"**Generator Elevator is leaving**"
+	{
+		"trans"		"**Generator Elevator is leaving**"
+	}
+	"**Pods will departure in 2 minutes**"
+	{
+		"trans"		"**Pods will departure in 2 minutes**"
+	}
+	"**Cargo lift leaving in 5 s**"
+	{
+		"trans"		"**Cargo lift leaving in 5 s**"
+	}
+	"**Giant Star is in critical situation**"
+	{
+		"trans"		"**Giant Star is in critical situation**"
+	}
+	"**Closing gravity tower upper acces**"
+	{
+		"trans"		"**Closing gravity tower upper acces**"
+	}
+	"**Generator Elevator leaving in 25 s**"
+	{
+		"trans"		"**Generator Elevator leaving in 25 s**"
+	}
+	"**Sealing elevator acces for security**"
+	{
+		"trans"		"**Sealing elevator acces for security**"
+	}
+	"**Cargo lift leaving in 30 s**"
+	{
+		"trans"		"**Cargo lift leaving in 30 s**"
+	}
+	"**Pod acces door will close in 10 s**"
+	{
+		"trans"		"**Pod acces door will close in 10 s**"
+	}
+	"**Pod acces door will close in 5 s**"
+	{
+		"trans"		"**Pod acces door will close in 5 s**"
+	}
+	"**Pods are leaving the platform**"
+	{
+		"trans"		"**Pods are leaving the platform**"
+	}
+	"**Do not allow zombies to infect pods**"
+	{
+		"trans"		"**Do not allow zombies to infect pods**"
+	}
+	"**What the hell...**"
+	{
+		"trans"		"**What the hell...**"
+	}
+	"**A blackhole!**"
+	{
+		"trans"		"**A blackhole!**"
+	}
+	"**Gravity of the blackhole is very strong**"
+	{
+		"trans"		"**Gravity of the blackhole is very strong**"
+	}
+	"**Rear section leaving the structure**"
+	{
+		"trans"		"**Rear section leaving the structure**"
+	}
+	"**Central section sealing in 5 s**"
+	{
+		"trans"		"**Central section sealing in 5 s**"
+	}
+	"**Central section leaving the structure**"
+	{
+		"trans"		"**Central section leaving the structure**"
+	}
+}

@@ -12,10 +12,6 @@
 	{
 		"trans"		">>>Map created by FreeZe<<<"
 	}
-	">>>60 seconds until vacuum in Spawn Sections<<<"
-	{
-		"trans"		">>>60 seconds until vacuum in Spawn Sections<<<"
-	}
 	">>>Right-Elevator leaving in 10 seconds<<<"
 	{
 		"trans"		">>>Right-Elevator leaving in 10 seconds<<<"
@@ -24,13 +20,21 @@
 	{
 		"trans"		">>>Left-Elevator unlocked<<<"
 	}
+	">>>Left-Elevator leaving in 10 seconds<<<"
+	{
+		"trans"		">>>Left-Elevator leaving in 10 seconds<<<"
+	}
+	">>>60 seconds until vacuum in Spawn Sections<<<"
+	{
+		"trans"		">>>60 seconds until vacuum in Spawn Sections<<<"
+	}
 	">>>30 seconds until vacuum<<<"
 	{
 		"trans"		">>>30 seconds until vacuum<<<"
 	}
-	">>>Left-Elevator leaving in 10 seconds<<<"
+	">>>Lightbridge deactivating in 8 sec<<<"
 	{
-		"trans"		">>>Left-Elevator leaving in 10 seconds<<<"
+		"trans"		">>>Lightbridge deactivating in 8 sec<<<"
 	}
 	">>>Spawn Sections losing air...vacuum in 10 seconds<<<"
 	{
@@ -40,17 +44,13 @@
 	{
 		"trans"		">>>Door opening in 10 seconds<<<"
 	}
-	">>>DOOR OPENING IN 5 SECONDS<<<"
-	{
-		"trans"		">>>DOOR OPENING IN 5 SECONDS<<<"
-	}
-	">>>Lightbridge deactivating in 8 sec<<<"
-	{
-		"trans"		">>>Lightbridge deactivating in 8 sec<<<"
-	}
 	">>>Generator section losing air...vacuum in 10 seconds"
 	{
 		"trans"		">>>Generator section losing air...vacuum in 10 seconds"
+	}
+	">>>DOOR OPENING IN 5 SECONDS<<<"
+	{
+		"trans"		">>>DOOR OPENING IN 5 SECONDS<<<"
 	}
 	">>>Hold the cantina 25 seconds<<<"
 	{
@@ -59,6 +59,10 @@
 	">>>10 seconds left<<<"
 	{
 		"trans"		">>>10 seconds left<<<"
+	}
+	">>>Right-Lock closing in 5 seconds<<<"
+	{
+		"trans"		">>>Right-Lock closing in 5 seconds<<<"
 	}
 	">>>Left-Lock closing in 5 seconds<<<"
 	{

@@ -8,4 +8,64 @@
 	{
 		"trans"		"Elivator leaving in: 3"
 	}
+	"***Doors will open in 25 sec***"
+	{
+		"trans"		"***Doors will open in 25 sec***"
+	}
+	"***Defend***"
+	{
+		"trans"		"***Defend***"
+	}
+	"***5 sec remaining***"
+	{
+		"trans"		"***5 sec remaining***"
+	}
+	"Mini train leaving in 5 seconds."
+	{
+		"trans"		"Mini train leaving in 5 seconds."
+	}
+	"Tracks crashed ahead"
+	{
+		"trans"		"Tracks crashed ahead"
+	}
+	"Door opening in 5 seconds!"
+	{
+		"trans"		"Door opening in 5 seconds!"
+	}
+	"Tram leaving in 30 seconds!"
+	{
+		"trans"		"Tram leaving in 30 seconds!"
+	}
+	"***Door will open in 25 sec***"
+	{
+		"trans"		"***Door will open in 25 sec***"
+	}
+	"Security doors closing in 10."
+	{
+		"trans"		"Security doors closing in 10."
+	}
+	"Train leaving in 60 seconds."
+	{
+		"trans"		"Train leaving in 60 seconds."
+	}
+	"Train leaving in 30 seconds."
+	{
+		"trans"		"Train leaving in 30 seconds."
+	}
+	"Train leaving in 10 seconds."
+	{
+		"trans"		"Train leaving in 10 seconds."
+	}
+	"Train is leaving."
+	{
+		"trans"		"Train is leaving."
+	}
+	"Incoming nuke!!!"
+	{
+		"trans"		"Incoming nuke!!!"
+	}
+	"***Map ported by Et3rnity***"
+	{
+		"trans"		"***Map ported by Et3rnity***"
+	}
 }

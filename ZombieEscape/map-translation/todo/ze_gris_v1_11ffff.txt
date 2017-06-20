@@ -4,4 +4,12 @@
 	{
 		"trans"		"*** rtv ***"
 	}
+	"*** LEVEL4 ***"
+	{
+		"trans"		"*** LEVEL4 ***"
+	}
+	"*** LEVEL3 ***"
+	{
+		"trans"		"*** LEVEL3 ***"
+	}
 }

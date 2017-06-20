@@ -52,4 +52,8 @@
 	{
 		"trans"		"***Zombies have broken out of Jail!**"
 	}
+	"***Zombies reached the Hill*** "
+	{
+		"trans"		"***Zombies reached the Hill*** "
+	}
 }

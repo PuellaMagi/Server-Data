@@ -1,0 +1,55 @@
+"Chat"
+{
+	"HINT: Break your way out!"
+	{
+		"trans"		"HINT: Break your way out!"
+	}
+	"** Tram leaving in 15 seconds **"
+	{
+		"trans"		"** Tram leaving in 15 seconds **"
+	}
+	"HINT: 'Crouch' into the hang gliders and then stand up inside."
+	{
+		"trans"		"HINT: 'Crouch' into the hang gliders and then stand up inside."
+	}
+	"HINT: Cut the boat cable!"
+	{
+		"trans"		"HINT: Cut the boat cable!"
+	}
+	"HINT: SWIM AROUND THE BUOY TO REACH WILMEKEA PEAK!"
+	{
+		"trans"		"HINT: SWIM AROUND THE BUOY TO REACH WILMEKEA PEAK!"
+	}
+	"** Helicopter leaving in 15 seconds! **"
+	{
+		"trans"		"** Helicopter leaving in 15 seconds! **"
+	}
+	"** Missile launched! You will have to jump! **"
+	{
+		"trans"		"** Missile launched! You will have to jump! **"
+	}
+	"HINT: Ocean currents will impede progress."
+	{
+		"trans"		"HINT: Ocean currents will impede progress."
+	}
+	"** Magma chamber charges detonated. Wilmekea Peak has become unstable! **"
+	{
+		"trans"		"** Magma chamber charges detonated. Wilmekea Peak has become unstable! **"
+	}
+	"** Wilmekea has gone critical. 10 seconds until eruption! **"
+	{
+		"trans"		"** Wilmekea has gone critical. 10 seconds until eruption! **"
+	}
+	"** Jungle bus out of fuel! **"
+	{
+		"trans"		"** Jungle bus out of fuel! **"
+	}
+	"** Boat leaving in 10 seconds! **"
+	{
+		"trans"		"** Boat leaving in 10 seconds! **"
+	}
+	"** Zodiac Operator: Jaw's cousin is closing on our six! Shoot her! **"
+	{
+		"trans"		"** Zodiac Operator: Jaw's cousin is closing on our six! Shoot her! **"
+	}
+}

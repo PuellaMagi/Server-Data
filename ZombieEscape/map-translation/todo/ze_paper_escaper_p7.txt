@@ -688,4 +688,28 @@
 	{
 		"trans"		"** Explosion in 20 seconds **"
 	}
+	"*The zombies are trying to get on our elevator. Shoot!!!*"
+	{
+		"trans"		"*The zombies are trying to get on our elevator. Shoot!!!*"
+	}
+	"*** ZOMBIES DETECTED: INVALID VICTORY **"
+	{
+		"trans"		"*** ZOMBIES DETECTED: INVALID VICTORY **"
+	}
+	"*Offensive module loaded: Laser meat slasher*"
+	{
+		"trans"		"*Offensive module loaded: Laser meat slasher*"
+	}
+	"*Offensive module loaded: Napalm shower module.*"
+	{
+		"trans"		"*Offensive module loaded: Napalm shower module.*"
+	}
+	"*Last offensive module activated: Plasma cannon module loaded*"
+	{
+		"trans"		"*Last offensive module activated: Plasma cannon module loaded*"
+	}
+	"*Mass destruction module loading: 10 seconds until CT defeat.*"
+	{
+		"trans"		"*Mass destruction module loading: 10 seconds until CT defeat.*"
+	}
 }

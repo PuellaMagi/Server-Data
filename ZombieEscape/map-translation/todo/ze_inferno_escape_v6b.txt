@@ -32,4 +32,8 @@
 	{
 		"trans"		"<< Map made by Lup4n` >>"
 	}
+	"<< Gate will close in 35 seconds >>"
+	{
+		"trans"		"<< Gate will close in 35 seconds >>"
+	}
 }

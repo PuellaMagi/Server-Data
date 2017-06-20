@@ -80,8 +80,4 @@
 	{
 		"trans"		"***1***"
 	}
-	"***Right Gate opening 15secs.***"
-	{
-		"trans"		"***Right Gate opening 15secs.***"
-	}
 }

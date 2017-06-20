@@ -1,0 +1,91 @@
+"Chat"
+{
+	"Break the doors to exit the laboratory."
+	{
+		"trans"		"Break the doors to exit the laboratory."
+	}
+	"Cable Car leaving in 7 seconds..."
+	{
+		"trans"		"Cable Car leaving in 7 seconds..."
+	}
+	"Pole-Rider machine leaving in 9 seconds..."
+	{
+		"trans"		"Pole-Rider machine leaving in 9 seconds..."
+	}
+	"Boat leaving in 6 seconds!"
+	{
+		"trans"		"Boat leaving in 6 seconds!"
+	}
+	"Truck leaving in 15 seconds!"
+	{
+		"trans"		"Truck leaving in 15 seconds!"
+	}
+	"Station doors will open in 25 seconds."
+	{
+		"trans"		"Station doors will open in 25 seconds."
+	}
+	"Zombie outbreak has been detected."
+	{
+		"trans"		"Zombie outbreak has been detected."
+	}
+	"Emergency protection barriers activated."
+	{
+		"trans"		"Emergency protection barriers activated."
+	}
+	"Station doors have opened!"
+	{
+		"trans"		"Station doors have opened!"
+	}
+	"The gates will open in 25 seconds."
+	{
+		"trans"		"The gates will open in 25 seconds."
+	}
+	"Hold out the zombies at the ticket gates!"
+	{
+		"trans"		"Hold out the zombies at the ticket gates!"
+	}
+	"The teleporters at the spawn area are now working!"
+	{
+		"trans"		"The teleporters at the spawn area are now working!"
+	}
+	"Activate the emergency button!!!"
+	{
+		"trans"		"Activate the emergency button!!!"
+	}
+	"Emergency button has been activated! Emergency doors closing..."
+	{
+		"trans"		"Emergency button has been activated! Emergency doors closing..."
+	}
+	"Train arriving in approximately 35 seconds..."
+	{
+		"trans"		"Train arriving in approximately 35 seconds..."
+	}
+	"Train arriving in approximately 20 seconds..."
+	{
+		"trans"		"Train arriving in approximately 20 seconds..."
+	}
+	"The train has arrived and will leave in 10 seconds!"
+	{
+		"trans"		"The train has arrived and will leave in 10 seconds!"
+	}
+	"Train arriving at nuclear station..."
+	{
+		"trans"		"Train arriving at nuclear station..."
+	}
+	"Beware of zombies coming from the back!"
+	{
+		"trans"		"Beware of zombies coming from the back!"
+	}
+	"Missile Doors 1 Opening..."
+	{
+		"trans"		"Missile Doors 1 Opening..."
+	}
+	"Missile Doors 2 Opening..."
+	{
+		"trans"		"Missile Doors 2 Opening..."
+	}
+	"Nuclear missile has been launched!!!"
+	{
+		"trans"		"Nuclear missile has been launched!!!"
+	}
+}

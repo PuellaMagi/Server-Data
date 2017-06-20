@@ -28,4 +28,180 @@
 	{
 		"trans"		"<!!!> FALL BACK <!!!>"
 	}
+	"<!!!> DOOR OPEN <!!!>"
+	{
+		"trans"		"<!!!> DOOR OPEN <!!!>"
+	}
+	"<!!!> HOLD HERE <!!!>"
+	{
+		"trans"		"<!!!> HOLD HERE <!!!>"
+	}
+	"<!!!> FINAL DOOR CLOSING IN <!!!>"
+	{
+		"trans"		"<!!!> FINAL DOOR CLOSING IN <!!!>"
+	}
+	"<!!!> 40 SECONDS <!!!>"
+	{
+		"trans"		"<!!!> 40 SECONDS <!!!>"
+	}
+	"<!!!> 30 SECONDS <!!!>"
+	{
+		"trans"		"<!!!> 30 SECONDS <!!!>"
+	}
+	"<!!!> 20 SECONDS <!!!>"
+	{
+		"trans"		"<!!!> 20 SECONDS <!!!>"
+	}
+	"<!!!> 10 SECONDS <!!!>"
+	{
+		"trans"		"<!!!> 10 SECONDS <!!!>"
+	}
+	"<!!!> 5 SECONDS <!!!>"
+	{
+		"trans"		"<!!!> 5 SECONDS <!!!>"
+	}
+	"<!!!> ZOMBIE'S DETECTED - YOU LOSE <!!!>"
+	{
+		"trans"		"<!!!> ZOMBIE'S DETECTED - YOU LOSE <!!!>"
+	}
+	"<!!!> PART 1 - ESCAPE! PASSED <!!!>"
+	{
+		"trans"		"<!!!> PART 1 - ESCAPE! PASSED <!!!>"
+	}
+	"# PART 2 - CASTLE KEEP #"
+	{
+		"trans"		"# PART 2 - CASTLE KEEP #"
+	}
+	"# HOLD HERE #"
+	{
+		"trans"		"# HOLD HERE #"
+	}
+	"<!!!> ACTIVATE LEVER <!!!>"
+	{
+		"trans"		"<!!!> ACTIVATE LEVER <!!!>"
+	}
+	"# 10 SECONDS #"
+	{
+		"trans"		"# 10 SECONDS #"
+	}
+	"<!!!> GO GO GO <!!!>"
+	{
+		"trans"		"<!!!> GO GO GO <!!!>"
+	}
+	"<!!!> UP THE STAIRS <!!!>"
+	{
+		"trans"		"<!!!> UP THE STAIRS <!!!>"
+	}
+	"# HOLD THIS POSITION #"
+	{
+		"trans"		"# HOLD THIS POSITION #"
+	}
+	"# PRESS BUTTON #"
+	{
+		"trans"		"# PRESS BUTTON #"
+	}
+	"<!!!> GATE OPEN IN 20 SECONDS <!!!>"
+	{
+		"trans"		"<!!!> GATE OPEN IN 20 SECONDS <!!!>"
+	}
+	"# UNLIMITED AMMO #"
+	{
+		"trans"		"# UNLIMITED AMMO #"
+	}
+	"<!!!> GO LEFT <!!!>"
+	{
+		"trans"		"<!!!> GO LEFT <!!!>"
+	}
+	"# UNLIMITED AMMO - 14 SECONDS #"
+	{
+		"trans"		"# UNLIMITED AMMO - 14 SECONDS #"
+	}
+	"# MG42 AMMO #"
+	{
+		"trans"		"# MG42 AMMO #"
+	}
+	"<!!!> DOOR CLOSING IN 15 SECONDS <!!!>"
+	{
+		"trans"		"<!!!> DOOR CLOSING IN 15 SECONDS <!!!>"
+	}
+	"# TORCH #"
+	{
+		"trans"		"# TORCH #"
+	}
+	"<!!!> DEFEND THIS POSITION <!!!>"
+	{
+		"trans"		"<!!!> DEFEND THIS POSITION <!!!>"
+	}
+	"<!!!> PART 2 - CASTLE KEEP PASSED <!!!>"
+	{
+		"trans"		"<!!!> PART 2 - CASTLE KEEP PASSED <!!!>"
+	}
+	"# PART 3 - TRAM RIDE #"
+	{
+		"trans"		"# PART 3 - TRAM RIDE #"
+	}
+	"# TRAM ON ITS WAY #"
+	{
+		"trans"		"# TRAM ON ITS WAY #"
+	}
+	"# TRAM ARRIVED # "
+	{
+		"trans"		"# TRAM ARRIVED # "
+	}
+	"# TRAM IS LEAVING # "
+	{
+		"trans"		"# TRAM IS LEAVING # "
+	}
+	"# HOLD TRAM #"
+	{
+		"trans"		"# HOLD TRAM #"
+	}
+	"# TRAM START IN 20 SECONDS #"
+	{
+		"trans"		"# TRAM START IN 20 SECONDS #"
+	}
+	"# DOOR OPEN IN 20 SECONDS #"
+	{
+		"trans"		"# DOOR OPEN IN 20 SECONDS #"
+	}
+	"# DOOR OPEN #"
+	{
+		"trans"		"# DOOR OPEN #"
+	}
+	"# FINAL DOOR CLOSING IN 20 SECONDS #"
+	{
+		"trans"		"# FINAL DOOR CLOSING IN 20 SECONDS #"
+	}
+	"# 5 SECONDS #"
+	{
+		"trans"		"# 5 SECONDS #"
+	}
+	"# BAZOOKA #"
+	{
+		"trans"		"# BAZOOKA #"
+	}
+	"<!!!> PART 3 - TRAM RIDE PASSED <!!!>"
+	{
+		"trans"		"<!!!> PART 3 - TRAM RIDE PASSED <!!!>"
+	}
+	"<!!!> EASY COMPLETED <!!!>"
+	{
+		"trans"		"<!!!> EASY COMPLETED <!!!>"
+	}
+	"# BLACK MAGIC #"
+	{
+		"trans"		"# BLACK MAGIC #"
+	}
+	"# MAGIC - FREEZE #"
+	{
+		"trans"		"# MAGIC - FREEZE #"
+	}
+	"# SANDBAG WALL #"
+	{
+		"trans"		"# SANDBAG WALL #"
+	}
+	"# MAGIC - FOG #"
+	{
+		"trans"		"# MAGIC - FOG #"
+	}
 }

@@ -24,4 +24,12 @@
 	{
 		"trans"		"* * * Warning: 2 minutes remaining * * *"
 	}
+	"* * * Warning: 1 minute remaining * * *"
+	{
+		"trans"		"* * * Warning: 1 minute remaining * * *"
+	}
+	"* * * Warning: 30 seconds remaining * * *"
+	{
+		"trans"		"* * * Warning: 30 seconds remaining * * *"
+	}
 }

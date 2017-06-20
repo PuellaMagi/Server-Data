@@ -196,4 +196,12 @@
 	{
 		"trans"		"***Recast 80s***"
 	}
+	"*** 30 seconds to Open Door ***"
+	{
+		"trans"		"*** 30 seconds to Open Door ***"
+	}
+	"***Recast 90s***"
+	{
+		"trans"		"***Recast 90s***"
+	}
 }

@@ -24,25 +24,21 @@
 	{
 		"trans"		">>> WARMUP ROUND END <<<"
 	}
-	">>> STAGE 1 <<<"
-	{
-		"trans"		">>> STAGE 1 <<<"
-	}
 	">>> AFK TELEPORT IN 10 SECONDS <<<"
 	{
 		"trans"		">>> AFK TELEPORT IN 10 SECONDS <<<"
 	}
-	">>> PLAYER HAS PICKED UP HEAL <<<"
+	">>> HOLD 20 SECONDS <<<"
 	{
-		"trans"		">>> PLAYER HAS PICKED UP HEAL <<<"
+		"trans"		">>> HOLD 20 SECONDS <<<"
 	}
-	">>> PLAYER HAS PICKED UP PUSH <<<"
+	">>> PLAYER HAS PICKED UP FIRE <<<"
 	{
-		"trans"		">>> PLAYER HAS PICKED UP PUSH <<<"
+		"trans"		">>> PLAYER HAS PICKED UP FIRE <<<"
 	}
-	">>> AFK TELEPORT IN 5 SECONDS <<<"
+	">>> PLAYER HAS PICKED UP ICE <<<"
 	{
-		"trans"		">>> AFK TELEPORT IN 5 SECONDS <<<"
+		"trans"		">>> PLAYER HAS PICKED UP ICE <<<"
 	}
 	">>> HOLD 10 SECONDS <<<"
 	{
@@ -52,13 +48,13 @@
 	{
 		"trans"		">>> HOLD 5 SECONDS <<<"
 	}
-	">>> PLAYER HAS PICKED UP ZOMBIE FIRE <<<"
+	">>> PLAYER HAS PICKED UP HEAL <<<"
 	{
-		"trans"		">>> PLAYER HAS PICKED UP ZOMBIE FIRE <<<"
+		"trans"		">>> PLAYER HAS PICKED UP HEAL <<<"
 	}
-	">>> PLAYER HAS PICKED UP FIRE <<<"
+	">>> SPIDER IS COMING <<<"
 	{
-		"trans"		">>> PLAYER HAS PICKED UP FIRE <<<"
+		"trans"		">>> SPIDER IS COMING <<<"
 	}
 	">>> SPIDER USED POISON <<<"
 	{
@@ -76,37 +72,29 @@
 	{
 		"trans"		">>> DOOR CLOSING <<<"
 	}
-	">>> HOLD 20 SECONDS <<<"
-	{
-		"trans"		">>> HOLD 20 SECONDS <<<"
-	}
-	">>> PLAYER HAS PICKED UP ICE <<<"
-	{
-		"trans"		">>> PLAYER HAS PICKED UP ICE <<<"
-	}
-	">>> HOLD 15 SECONDS <<<"
-	{
-		"trans"		">>> HOLD 15 SECONDS <<<"
-	}
-	">>> SPIDER IS COMING <<<"
-	{
-		"trans"		">>> SPIDER IS COMING <<<"
-	}
 	">>> STAGE 1 COMPLETED <<<"
 	{
 		"trans"		">>> STAGE 1 COMPLETED <<<"
-	}
-	">>> HOLD 25 SECONDS <<<"
-	{
-		"trans"		">>> HOLD 25 SECONDS <<<"
 	}
 	">>> PLAYER HAS PICKED UP LIGHTNING <<<"
 	{
 		"trans"		">>> PLAYER HAS PICKED UP LIGHTNING <<<"
 	}
-	">>> PLAYER HAS PICKED UP ZOMBIE POISON <<<"
+	">>> HOLD 25 SECONDS <<<"
 	{
-		"trans"		">>> PLAYER HAS PICKED UP ZOMBIE POISON <<<"
+		"trans"		">>> HOLD 25 SECONDS <<<"
+	}
+	">>> PLAYER HAS PICKED UP PUSH <<<"
+	{
+		"trans"		">>> PLAYER HAS PICKED UP PUSH <<<"
+	}
+	">>> AFK TELEPORT IN 5 SECONDS <<<"
+	{
+		"trans"		">>> AFK TELEPORT IN 5 SECONDS <<<"
+	}
+	">>> HOLD 15 SECONDS <<<"
+	{
+		"trans"		">>> HOLD 15 SECONDS <<<"
 	}
 	">>> TROLL IS COMING <<<"
 	{
@@ -120,10 +108,6 @@
 	{
 		"trans"		">>> IT'S DRAGON <<<"
 	}
-	">>> STAGE 2 <<<"
-	{
-		"trans"		">>> STAGE 2 <<<"
-	}
 	">>> DRAGON IS DEFEATED <<<"
 	{
 		"trans"		">>> DRAGON IS DEFEATED <<<"
@@ -136,12 +120,64 @@
 	{
 		"trans"		">>> PLAYER HAS PICKED UP AMMO <<<"
 	}
-	">>> HOLD 35 SECONDS <<<"
+	">>> PLAYER HAS PICKED UP ZOMBIE FIRE <<<"
 	{
-		"trans"		">>> HOLD 35 SECONDS <<<"
+		"trans"		">>> PLAYER HAS PICKED UP ZOMBIE FIRE <<<"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE DRUG <<<"
+	{
+		"trans"		">>> PLAYER HAS PICKED UP ZOMBIE DRUG <<<"
 	}
 	">>> PLAYER HAS PICKED UP KILLER <<<"
 	{
 		"trans"		">>> PLAYER HAS PICKED UP KILLER <<<"
+	}
+	">>> DRAGON IS COMING <<<"
+	{
+		"trans"		">>> DRAGON IS COMING <<<"
+	}
+	">>> DRAGON USED FIRE <<<"
+	{
+		"trans"		">>> DRAGON USED FIRE <<<"
+	}
+	">>> DRAGON USED PUSH <<<"
+	{
+		"trans"		">>> DRAGON USED PUSH <<<"
+	}
+	">>> DRAGON USED WATER <<<"
+	{
+		"trans"		">>> DRAGON USED WATER <<<"
+	}
+	">>> HOLD 35 SECONDS <<<"
+	{
+		"trans"		">>> HOLD 35 SECONDS <<<"
+	}
+	">>> STAGE 3 <<<"
+	{
+		"trans"		">>> STAGE 3 <<<"
+	}
+	">>> PLAYER HAS PICKED UP HEDGE <<<"
+	{
+		"trans"		">>> PLAYER HAS PICKED UP HEDGE <<<"
+	}
+	">>> 5 SECONDS REMAINING. DON'T DELAY <<<"
+	{
+		"trans"		">>> 5 SECONDS REMAINING. DON'T DELAY <<<"
+	}
+	">>> RUN <<<"
+	{
+		"trans"		">>> RUN <<<"
+	}
+	">>> GARGANTUA IS COMING KEEP RUNNING <<<"
+	{
+		"trans"		">>> GARGANTUA IS COMING KEEP RUNNING <<<"
+	}
+	">>> SHOOT DRAGON <<<"
+	{
+		"trans"		">>> SHOOT DRAGON <<<"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE POISON <<<"
+	{
+		"trans"		">>> PLAYER HAS PICKED UP ZOMBIE POISON <<<"
 	}
 }

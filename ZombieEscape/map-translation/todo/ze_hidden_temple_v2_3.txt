@@ -24,10 +24,6 @@
 	{
 		"trans"		"### WARMUP - 30 SECONDS LEFT ###"
 	}
-	"### GATES OPEN IN 30 SECONDS ###"
-	{
-		"trans"		"### GATES OPEN IN 30 SECONDS ###"
-	}
 	"### WARMUP - 20 SECONDS LEFT ###"
 	{
 		"trans"		"### WARMUP - 20 SECONDS LEFT ###"
@@ -36,16 +32,236 @@
 	{
 		"trans"		"### WARMUP - 10 SECONDS LEFT ###"
 	}
-	"### 10 SECOND REMAINING ###"
-	{
-		"trans"		"### 10 SECOND REMAINING ###"
-	}
 	"### WARMUP OVER - RESTARTING ROUND ###"
 	{
 		"trans"		"### WARMUP OVER - RESTARTING ROUND ###"
 	}
+	"### GATES OPEN IN 30 SECONDS ###"
+	{
+		"trans"		"### GATES OPEN IN 30 SECONDS ###"
+	}
+	"### 10 SECOND REMAINING ###"
+	{
+		"trans"		"### 10 SECOND REMAINING ###"
+	}
 	"### DEFEND UNTIL GATES CLOSED ###"
 	{
 		"trans"		"### DEFEND UNTIL GATES CLOSED ###"
+	}
+	"### HOLD THIS AREA FOR 30 SECONDS ###"
+	{
+		"trans"		"### HOLD THIS AREA FOR 30 SECONDS ###"
+	}
+	"### 10 SECONDS REMAINING ###"
+	{
+		"trans"		"### 10 SECONDS REMAINING ###"
+	}
+	"### FALL BACK NOW !!! ### "
+	{
+		"trans"		"### FALL BACK NOW !!! ### "
+	}
+	"### GATE OPEN IN 30 SECONDS ###"
+	{
+		"trans"		"### GATE OPEN IN 30 SECONDS ###"
+	}
+	"### YOU NEED TO CROSS BACK ###"
+	{
+		"trans"		"### YOU NEED TO CROSS BACK ###"
+	}
+	"### PILLARS GONNA BREAK SOON ###"
+	{
+		"trans"		"### PILLARS GONNA BREAK SOON ###"
+	}
+	"### GATE IS OPENING ###"
+	{
+		"trans"		"### GATE IS OPENING ###"
+	}
+	"### LIGHT THESE BARRELS AND WAIT ###"
+	{
+		"trans"		"### LIGHT THESE BARRELS AND WAIT ###"
+	}
+	"### BARRELS EXPLODE IN 30 SECONDS ###"
+	{
+		"trans"		"### BARRELS EXPLODE IN 30 SECONDS ###"
+	}
+	"### DONT STAY CLOSE TO THESE BARRELS ###"
+	{
+		"trans"		"### DONT STAY CLOSE TO THESE BARRELS ###"
+	}
+	"### FALL BACKK !! ###"
+	{
+		"trans"		"### FALL BACKK !! ###"
+	}
+	"### HOLD THIS HALL UNTIL GATE OPEN ###"
+	{
+		"trans"		"### HOLD THIS HALL UNTIL GATE OPEN ###"
+	}
+	"### PRESS THE LAST LEVER ###"
+	{
+		"trans"		"### PRESS THE LAST LEVER ###"
+	}
+	"### HOLD THESE LADDERS ###"
+	{
+		"trans"		"### HOLD THESE LADDERS ###"
+	}
+	"### UNTIL FINAL GATES OPEN ###"
+	{
+		"trans"		"### UNTIL FINAL GATES OPEN ###"
+	}
+	"### FINAL GATES OPEN IN 40 SECONDS ###"
+	{
+		"trans"		"### FINAL GATES OPEN IN 40 SECONDS ###"
+	}
+	"### 30 SECONDS REMAINING ###"
+	{
+		"trans"		"### 30 SECONDS REMAINING ###"
+	}
+	"### FINAL GATES IS OPENING FALL BACK ###"
+	{
+		"trans"		"### FINAL GATES IS OPENING FALL BACK ###"
+	}
+	"### HOLD UNTIL THE GATES CLOSED ###"
+	{
+		"trans"		"### HOLD UNTIL THE GATES CLOSED ###"
+	}
+	"### STAGE COMPLETED ###"
+	{
+		"trans"		"### STAGE COMPLETED ###"
+	}
+	"### STAGE : HELL (NARAKA) ###"
+	{
+		"trans"		"### STAGE : HELL (NARAKA) ###"
+	}
+	"### LEFT GATES OPEN ###"
+	{
+		"trans"		"### LEFT GATES OPEN ###"
+	}
+	"### DEFEND HERE ###"
+	{
+		"trans"		"### DEFEND HERE ###"
+	}
+	"### 2 LEVERS NEED TO ACTIVE TO OPEN THE DOOR ###"
+	{
+		"trans"		"### 2 LEVERS NEED TO ACTIVE TO OPEN THE DOOR ###"
+	}
+	"### LEFT LEVER ACTIVATED ###"
+	{
+		"trans"		"### LEFT LEVER ACTIVATED ###"
+	}
+	"### RIGHT GATES OPEN ###"
+	{
+		"trans"		"### RIGHT GATES OPEN ###"
+	}
+	"### RIGHT LEVER ACTIVATED ###"
+	{
+		"trans"		"### RIGHT LEVER ACTIVATED ###"
+	}
+	"### ALL 2 LEVERS ACTIVATED ###"
+	{
+		"trans"		"### ALL 2 LEVERS ACTIVATED ###"
+	}
+	"### GATE OPEN !! FALL BACK NOW ###"
+	{
+		"trans"		"### GATE OPEN !! FALL BACK NOW ###"
+	}
+	"### HOLD FOR 30 SECONDS ###"
+	{
+		"trans"		"### HOLD FOR 30 SECONDS ###"
+	}
+	"## HOLD HERE FOR A BIT ###"
+	{
+		"trans"		"## HOLD HERE FOR A BIT ###"
+	}
+	"### DEFEND BOTH SIDES ###"
+	{
+		"trans"		"### DEFEND BOTH SIDES ###"
+	}
+	"### CRATES CANNOT HOLD ZOMBIES ANYMORE ###"
+	{
+		"trans"		"### CRATES CANNOT HOLD ZOMBIES ANYMORE ###"
+	}
+	"### DEFEND THIS HALL WAY ###"
+	{
+		"trans"		"### DEFEND THIS HALL WAY ###"
+	}
+	"### ACTIVE 2 LEVERS TO OPEN GATES ###"
+	{
+		"trans"		"### ACTIVE 2 LEVERS TO OPEN GATES ###"
+	}
+	"### HOLD HERE UNTIL GATES OPEN ###"
+	{
+		"trans"		"### HOLD HERE UNTIL GATES OPEN ###"
+	}
+	"### HOLD FOR 15 SECONDS ###"
+	{
+		"trans"		"### HOLD FOR 15 SECONDS ###"
+	}
+	"### NARAKA BECOMES IMMORTAL AND RELEASE ZOMBIES ###"
+	{
+		"trans"		"### NARAKA BECOMES IMMORTAL AND RELEASE ZOMBIES ###"
+	}
+	">>> YOU ALL HAVE 2 MINTUES BEFORE  <<<"
+	{
+		"trans"		">>> YOU ALL HAVE 2 MINTUES BEFORE  <<<"
+	}
+	"lll NARAKA IS USING PHYSICAL ATTACK lll"
+	{
+		"trans"		"lll NARAKA IS USING PHYSICAL ATTACK lll"
+	}
+	"lll NARAKA IS CASTING LIFESTEALER lll"
+	{
+		"trans"		"lll NARAKA IS CASTING LIFESTEALER lll"
+	}
+	"lll NARAKA IS CASTING DEATH BREATH lll"
+	{
+		"trans"		"lll NARAKA IS CASTING DEATH BREATH lll"
+	}
+	">>> HE'S DEAD. DEFEND UNTIL GATES OPEN <<<"
+	{
+		"trans"		">>> HE'S DEAD. DEFEND UNTIL GATES OPEN <<<"
+	}
+	"### ACTIVE THE LEVER TO OPEN GATES ###"
+	{
+		"trans"		"### ACTIVE THE LEVER TO OPEN GATES ###"
+	}
+	"### HOLD BOTH SIDES FOR 30 SECONDS ###"
+	{
+		"trans"		"### HOLD BOTH SIDES FOR 30 SECONDS ###"
+	}
+	"### LEAVE THE ROOM OR DEAD ###"
+	{
+		"trans"		"### LEAVE THE ROOM OR DEAD ###"
+	}
+	"### HOLD A BIT HERE ###"
+	{
+		"trans"		"### HOLD A BIT HERE ###"
+	}
+	"### SHOOT THE CROSS IN THE MIDDLE ROOM ###"
+	{
+		"trans"		"### SHOOT THE CROSS IN THE MIDDLE ROOM ###"
+	}
+	"### TO OPEN CHURCH GATES ###"
+	{
+		"trans"		"### TO OPEN CHURCH GATES ###"
+	}
+	"### CHURCH GATES OPEN IN 15 SECONDS ###"
+	{
+		"trans"		"### CHURCH GATES OPEN IN 15 SECONDS ###"
+	}
+	"### 5 SECOND REMAINING ###"
+	{
+		"trans"		"### 5 SECOND REMAINING ###"
+	}
+	"### CHURCH GATES CLOSED IN 10 SECONDS ###"
+	{
+		"trans"		"### CHURCH GATES CLOSED IN 10 SECONDS ###"
+	}
+	"### STAGE FAILED ###"
+	{
+		"trans"		"### STAGE FAILED ###"
+	}
+	"### ZOMBIES ARE COMING FOR LEFT SIDE ###"
+	{
+		"trans"		"### ZOMBIES ARE COMING FOR LEFT SIDE ###"
 	}
 }

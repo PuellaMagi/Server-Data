@@ -152,4 +152,40 @@
 	{
 		"trans"		"***Difficulty will not change***"
 	}
+	"***Easy mode completed***"
+	{
+		"trans"		"***Easy mode completed***"
+	}
+	"***Changing level to Normal***"
+	{
+		"trans"		"***Changing level to Normal***"
+	}
+	"***Changing level to Hard***"
+	{
+		"trans"		"***Changing level to Hard***"
+	}
+	"***Normal mode completed***"
+	{
+		"trans"		"***Normal mode completed***"
+	}
+	"***Hard mode completed***"
+	{
+		"trans"		"***Hard mode completed***"
+	}
+	"***Changing level to Suicide***"
+	{
+		"trans"		"***Changing level to Suicide***"
+	}
+	"***Suicide level complete!***"
+	{
+		"trans"		"***Suicide level complete!***"
+	}
+	"***Suicide difficulty will stay***"
+	{
+		"trans"		"***Suicide difficulty will stay***"
+	}
+	"***Use admin room to change difficulty***"
+	{
+		"trans"		"***Use admin room to change difficulty***"
+	}
 }

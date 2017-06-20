@@ -12,13 +12,13 @@
 	{
 		"trans"		"***Map by TheSeriouSamurai***"
 	}
-	"***Door opens in 20sec***"
-	{
-		"trans"		"***Door opens in 20sec***"
-	}
 	"***Ammobox picked***"
 	{
 		"trans"		"***Ammobox picked***"
+	}
+	"***Door opens in 20sec***"
+	{
+		"trans"		"***Door opens in 20sec***"
 	}
 	"***Use the keyboard to hack door***"
 	{
@@ -28,13 +28,13 @@
 	{
 		"trans"		"***Door opens in 25 sec***"
 	}
-	"***Go and arm the C4***"
-	{
-		"trans"		"***Go and arm the C4***"
-	}
 	"***C4 explodes in 25 secs***"
 	{
 		"trans"		"***C4 explodes in 25 secs***"
+	}
+	"***Go and arm the C4***"
+	{
+		"trans"		"***Go and arm the C4***"
 	}
 	"***Escape through the new path***"
 	{
@@ -115,17 +115,5 @@
 	"***Door opens in 11 secs***"
 	{
 		"trans"		"***Door opens in 11 secs***"
-	}
-	"***Builder picked***"
-	{
-		"trans"		"***Builder picked***"
-	}
-	"***The Door is locked. Wait some secs***"
-	{
-		"trans"		"***The Door is locked. Wait some secs***"
-	}
-	"***This wall can take a while***"
-	{
-		"trans"		"***This wall can take a while***"
 	}
 }

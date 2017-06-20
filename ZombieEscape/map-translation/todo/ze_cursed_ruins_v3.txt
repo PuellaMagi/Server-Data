@@ -1,8 +1,24 @@
 "Chat"
 {
+	"*** Door will open soon ***"
+	{
+		"trans"		"*** Door will open soon ***"
+	}
+	"*** Defend this place until the door open ***"
+	{
+		"trans"		"*** Defend this place until the door open ***"
+	}
+	"*** Door open in 5 seconds ***"
+	{
+		"trans"		"*** Door open in 5 seconds ***"
+	}
 	"*** Door is open ***"
 	{
 		"trans"		"*** Door is open ***"
+	}
+	"*** Elevator is ready in 40 seconds ***"
+	{
+		"trans"		"*** Elevator is ready in 40 seconds ***"
 	}
 	"*** Elevator is ready in 10 seconds ***"
 	{
@@ -12,17 +28,49 @@
 	{
 		"trans"		"Don't block elevator or...."
 	}
+	"*** Explosive ready ***"
+	{
+		"trans"		"*** Explosive ready ***"
+	}
+	"*** Defend the spot few seconds ***"
+	{
+		"trans"		"*** Defend the spot few seconds ***"
+	}
+	"*** C4 will explode in 10 seconds ***"
+	{
+		"trans"		"*** C4 will explode in 10 seconds ***"
+	}
 	"*** Defend !!! ***"
 	{
 		"trans"		"*** Defend !!! ***"
+	}
+	"*** Teleport will ready soon***"
+	{
+		"trans"		"*** Teleport will ready soon***"
+	}
+	"*** Teleport will ready in 10 seconds ***"
+	{
+		"trans"		"*** Teleport will ready in 10 seconds ***"
 	}
 	"*** Teleport is ready !!! ***"
 	{
 		"trans"		"*** Teleport is ready !!! ***"
 	}
+	"*** Nuke in 65 seconds ****"
+	{
+		"trans"		"*** Nuke in 65 seconds ****"
+	}
 	"*** We will finally leave this cursed place ***"
 	{
 		"trans"		"*** We will finally leave this cursed place ***"
+	}
+	"*** Defend our lives ***"
+	{
+		"trans"		"*** Defend our lives ***"
+	}
+	"*** Helicopter take off in 10 seconds ***"
+	{
+		"trans"		"*** Helicopter take off in 10 seconds ***"
 	}
 	"*** Helicopter take off in 05 seconds ***"
 	{
@@ -32,8 +80,8 @@
 	{
 		"trans"		"*** Nuke launched ***"
 	}
-	"*** Door will open soon ***"
+	"map by Lup4n`"
 	{
-		"trans"		"*** Door will open soon ***"
+		"trans"		"map by Lup4n`"
 	}
 }

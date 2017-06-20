@@ -12,13 +12,13 @@
 	{
 		"trans"		"***MAP BY thegregster101***"
 	}
-	"***ALL MATERIALS FOR DIAMOND SWORD HAVE BEEN FOUND*** "
+	"***TNT EXPLODING IN 30 SECONDS***"
 	{
-		"trans"		"***ALL MATERIALS FOR DIAMOND SWORD HAVE BEEN FOUND*** "
+		"trans"		"***TNT EXPLODING IN 30 SECONDS***"
 	}
-	"***THIS WILL CRAFT THE SWORD*** "
+	"***HOLD THE CAVE!!!!***"
 	{
-		"trans"		"***THIS WILL CRAFT THE SWORD*** "
+		"trans"		"***HOLD THE CAVE!!!!***"
 	}
 	"***TNT EXPLODING IN 10 SECONDS***"
 	{
@@ -32,9 +32,9 @@
 	{
 		"trans"		"***GOGO.. GET TO THE SLIP GATE***"
 	}
-	"***AFK TELE 2 TELEPORTING IN 20 SECONDS***"
+	"***PUMPKIN HEAD HAS BEEN PICKED UP***"
 	{
-		"trans"		"***AFK TELE 2 TELEPORTING IN 20 SECONDS***"
+		"trans"		"***PUMPKIN HEAD HAS BEEN PICKED UP***"
 	}
 	"***DOOR OPENING IN 15 SECONDS***"
 	{
@@ -60,9 +60,9 @@
 	{
 		"trans"		"***MINE CARTS ARRIVE IN 25 SECONDS***"
 	}
-	"***MINE CARTS ARRIVE IN 20 SECONDS***"
+	"***TROLL FACE HAS BEEN PICKED UP***"
 	{
-		"trans"		"***MINE CARTS ARRIVE IN 20 SECONDS***"
+		"trans"		"***TROLL FACE HAS BEEN PICKED UP***"
 	}
 	"***MINE CARTS ARRIVE IN 15 SECONDS***"
 	{
@@ -96,6 +96,14 @@
 	{
 		"trans"		"***BUNKER DOOR OPEN!***"
 	}
+	"***ALL MATERIALS FOR DIAMOND SWORD HAVE BEEN FOUND*** "
+	{
+		"trans"		"***ALL MATERIALS FOR DIAMOND SWORD HAVE BEEN FOUND*** "
+	}
+	"***THIS WILL CRAFT THE SWORD*** "
+	{
+		"trans"		"***THIS WILL CRAFT THE SWORD*** "
+	}
 	"***THE SWORD HAS BEEN PICKED UP***"
 	{
 		"trans"		"***THE SWORD HAS BEEN PICKED UP***"
@@ -104,20 +112,24 @@
 	{
 		"trans"		"***SWORD READY***"
 	}
+	"***MINE CARTS ARRIVE IN 20 SECONDS***"
+	{
+		"trans"		"***MINE CARTS ARRIVE IN 20 SECONDS***"
+	}
+	"***PRESS use ON THE WORKBENCH AT THE TNT HOLD POINT*** "
+	{
+		"trans"		"***PRESS use ON THE WORKBENCH AT THE TNT HOLD POINT*** "
+	}
+	"***AFK TELE 2 TELEPORTING IN 20 SECONDS***"
+	{
+		"trans"		"***AFK TELE 2 TELEPORTING IN 20 SECONDS***"
+	}
 	"***STONE DOOR OPENING***"
 	{
 		"trans"		"***STONE DOOR OPENING***"
 	}
-	"***TNT EXPLODING IN 30 SECONDS***"
+	"***BUNKER DOOR OPENING IN 15 SECONDS***"
 	{
-		"trans"		"***TNT EXPLODING IN 30 SECONDS***"
-	}
-	"***HOLD THE CAVE!!!!***"
-	{
-		"trans"		"***HOLD THE CAVE!!!!***"
-	}
-	"***PUMPKIN HEAD HAS BEEN PICKED UP***"
-	{
-		"trans"		"***PUMPKIN HEAD HAS BEEN PICKED UP***"
+		"trans"		"***BUNKER DOOR OPENING IN 15 SECONDS***"
 	}
 }

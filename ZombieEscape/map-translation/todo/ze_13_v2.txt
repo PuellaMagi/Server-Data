@@ -1,0 +1,27 @@
+"Chat"
+{
+	"*** Map made by Manficool (제작자 : Manficool) ***"
+	{
+		"trans"		"*** Map made by Manficool (제작자 : Manficool) ***"
+	}
+	"*** REAR DOORS OPENING IN 30 SECONDS ***"
+	{
+		"trans"		"*** REAR DOORS OPENING IN 30 SECONDS ***"
+	}
+	"*** REAR DOORS OPENING IN 10 SECONDS ***"
+	{
+		"trans"		"*** REAR DOORS OPENING IN 10 SECONDS ***"
+	}
+	"*** SAFETY DOOR CLOSING ***"
+	{
+		"trans"		"*** SAFETY DOOR CLOSING ***"
+	}
+	"*** SIDE DOOR OPENING ***"
+	{
+		"trans"		"*** SIDE DOOR OPENING ***"
+	}
+	"*** NUKE IMPACTING ***"
+	{
+		"trans"		"*** NUKE IMPACTING ***"
+	}
+}

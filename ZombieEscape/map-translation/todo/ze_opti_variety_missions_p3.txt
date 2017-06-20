@@ -1,0 +1,55 @@
+"Chat"
+{
+	"*OBJECTIVE - Survive 45 sec*"
+	{
+		"trans"		"*OBJECTIVE - Survive 45 sec*"
+	}
+	"* VR-Mission 1 START*"
+	{
+		"trans"		"* VR-Mission 1 START*"
+	}
+	"*Break crystals*"
+	{
+		"trans"		"*Break crystals*"
+	}
+	"* VR-Mission 1 Complete*"
+	{
+		"trans"		"* VR-Mission 1 Complete*"
+	}
+	"*VR-Mission 2 START*"
+	{
+		"trans"		"*VR-Mission 2 START*"
+	}
+	"*OBJECTIVE - Destroy green floor"
+	{
+		"trans"		"*OBJECTIVE - Destroy green floor"
+	}
+	"* VR-Mission 2 Complete*"
+	{
+		"trans"		"* VR-Mission 2 Complete*"
+	}
+	"*VR-Mission 3 START*"
+	{
+		"trans"		"*VR-Mission 3 START*"
+	}
+	"*OBJECTIVE - Break crystals*"
+	{
+		"trans"		"*OBJECTIVE - Break crystals*"
+	}
+	"* VR-Training complete*"
+	{
+		"trans"		"* VR-Training complete*"
+	}
+	"*25 SECONDS TO NUKE*"
+	{
+		"trans"		"*25 SECONDS TO NUKE*"
+	}
+	"*Map by Mr.Neko*"
+	{
+		"trans"		"*Map by Mr.Neko*"
+	}
+	"*Don't delay! Hurry up with the objectives and get out of there!*"
+	{
+		"trans"		"*Don't delay! Hurry up with the objectives and get out of there!*"
+	}
+}

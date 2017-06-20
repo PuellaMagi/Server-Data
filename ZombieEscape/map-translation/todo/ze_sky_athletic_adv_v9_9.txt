@@ -1524,4 +1524,68 @@
 	{
 		"trans"		"*** WIND is too strong !! Bullets will be back !! ***"
 	}
+	"Girl CLOUD :Stop it !! Engine will be burning !!"
+	{
+		"trans"		"Girl CLOUD :Stop it !! Engine will be burning !!"
+	}
+	"*** ZOMBIE WAVE ***"
+	{
+		"trans"		"*** ZOMBIE WAVE ***"
+	}
+	"*** TAPIOKA PUNCH ***"
+	{
+		"trans"		"*** TAPIOKA PUNCH ***"
+	}
+	"*** >>>> WARNING <<<< KEYBOARD RUSH ***"
+	{
+		"trans"		"*** >>>> WARNING <<<< KEYBOARD RUSH ***"
+	}
+	"CRASHER :HAHAHA!!! What's the taste of this !!!?!?!?!"
+	{
+		"trans"		"CRASHER :HAHAHA!!! What's the taste of this !!!?!?!?!"
+	}
+	"CRASHER :It's over !!!!!!!!!!!!! HAHAHAHAHAHHAHHHHHH !!!!!!"
+	{
+		"trans"		"CRASHER :It's over !!!!!!!!!!!!! HAHAHAHAHAHHAHHHHHH !!!!!!"
+	}
+	"????? :That you won't !!!"
+	{
+		"trans"		"????? :That you won't !!!"
+	}
+	"CLOUD FATHER :Don't take hand for them !!"
+	{
+		"trans"		"CLOUD FATHER :Don't take hand for them !!"
+	}
+	"CLOUD FATHER :Hey! Humans !! I will help you !!"
+	{
+		"trans"		"CLOUD FATHER :Hey! Humans !! I will help you !!"
+	}
+	"CLOUD FATHER :Pick up me !! I will attack him !!!"
+	{
+		"trans"		"CLOUD FATHER :Pick up me !! I will attack him !!!"
+	}
+	"*** A player has picked up the CLOUD FATHER ***"
+	{
+		"trans"		"*** A player has picked up the CLOUD FATHER ***"
+	}
+	"CLOUD FATHER :I'm giving the power to you..."
+	{
+		"trans"		"CLOUD FATHER :I'm giving the power to you..."
+	}
+	"CRASHER :HAHAHA !!! You can't kill me whatever you do anything !!!!!!"
+	{
+		"trans"		"CRASHER :HAHAHA !!! You can't kill me whatever you do anything !!!!!!"
+	}
+	"*** CRASHER HEALED 70 HP ***"
+	{
+		"trans"		"*** CRASHER HEALED 70 HP ***"
+	}
+	"*** KEYBOARD CUTTER 2 ***"
+	{
+		"trans"		"*** KEYBOARD CUTTER 2 ***"
+	}
+	"Girl CLOUD :Can't move finely !! Is engine colding !?"
+	{
+		"trans"		"Girl CLOUD :Can't move finely !! Is engine colding !?"
+	}
 }

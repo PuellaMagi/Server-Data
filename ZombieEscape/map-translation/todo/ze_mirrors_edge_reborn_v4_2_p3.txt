@@ -132,18 +132,6 @@
 	{
 		"trans"		"<<< Door Opens In 20 sec >>>"
 	}
-	"<<< SUITCASE DOOR OPENS IN 10 SECONDS >>>"
-	{
-		"trans"		"<<< SUITCASE DOOR OPENS IN 10 SECONDS >>>"
-	}
-	"<<< SUITCASE DOOR IS OPENING!>>>"
-	{
-		"trans"		"<<< SUITCASE DOOR IS OPENING!>>>"
-	}
-	"<<< SUITCASE COLLECTED! RUN! >>>"
-	{
-		"trans"		"<<< SUITCASE COLLECTED! RUN! >>>"
-	}
 	"<<< DIFFICULTY LEVEL : EXTREME >>>"
 	{
 		"trans"		"<<< DIFFICULTY LEVEL : EXTREME >>>"
@@ -155,61 +143,5 @@
 	"<<< ZOMBIES ARE FASTER AND HAVE MORE HEALTH >>>"
 	{
 		"trans"		"<<< ZOMBIES ARE FASTER AND HAVE MORE HEALTH >>>"
-	}
-	"<<< Door Opens In 30 sec >>>"
-	{
-		"trans"		"<<< Door Opens In 30 sec >>>"
-	}
-	"<<< SUITCASE DOOR WILL OPEN IN 10 SECONDS>>>"
-	{
-		"trans"		"<<< SUITCASE DOOR WILL OPEN IN 10 SECONDS>>>"
-	}
-	"<<<SUITCASE DOOR IS OPENING! PRESS THE BUTTON>>>"
-	{
-		"trans"		"<<<SUITCASE DOOR IS OPENING! PRESS THE BUTTON>>>"
-	}
-	">>>Hold more 25 seconds<<<"
-	{
-		"trans"		">>>Hold more 25 seconds<<<"
-	}
-	"<<< DIFFICULTY LEVEL : GOD ／ IMPOSSIBLE>>>"
-	{
-		"trans"		"<<< DIFFICULTY LEVEL : GOD ／ IMPOSSIBLE>>>"
-	}
-	"<<< YOU DONT HAVE WALLS OR PROPS TO HELP WITH COVER >>>"
-	{
-		"trans"		"<<< YOU DONT HAVE WALLS OR PROPS TO HELP WITH COVER >>>"
-	}
-	"<<< DOOR WILL BREAK IN 20 SECONDS >>>"
-	{
-		"trans"		"<<< DOOR WILL BREAK IN 20 SECONDS >>>"
-	}
-	"<<< DOOR WILL BREAK IN 10 SECONDS >>>"
-	{
-		"trans"		"<<< DOOR WILL BREAK IN 10 SECONDS >>>"
-	}
-	"<<< DOOR WILL BREAK IN 5 SECONDS >>>"
-	{
-		"trans"		"<<< DOOR WILL BREAK IN 5 SECONDS >>>"
-	}
-	"<<< DOOR ITS BROKEN!! RUN!!!! >>>"
-	{
-		"trans"		"<<< DOOR ITS BROKEN!! RUN!!!! >>>"
-	}
-	"<<< Door Opens In 35 sec >>>"
-	{
-		"trans"		"<<< Door Opens In 35 sec >>>"
-	}
-	"<<< THE PATH IS BLOCKED!! WE NEED TO PRESS THE BUTTON!!"
-	{
-		"trans"		"<<< THE PATH IS BLOCKED!! WE NEED TO PRESS THE BUTTON!!"
-	}
-	"<<< DOOR IS FULLY OPENED!! PRESS THE BUTTON >>>"
-	{
-		"trans"		"<<< DOOR IS FULLY OPENED!! PRESS THE BUTTON >>>"
-	}
-	"<<< BUTTON IS PRESSED! RUN!! >>>"
-	{
-		"trans"		"<<< BUTTON IS PRESSED! RUN!! >>>"
 	}
 }

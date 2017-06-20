@@ -12,21 +12,29 @@
 	{
 		"trans"		">> STAGE 1 <<"
 	}
-	"** The doors will open in 20 seconds **"
+	"** A player has picked up Fire Staff **"
 	{
-		"trans"		"** The doors will open in 20 seconds **"
-	}
-	"** 5 seconds left **"
-	{
-		"trans"		"** 5 seconds left **"
-	}
-	"** FALL BACK **"
-	{
-		"trans"		"** FALL BACK **"
+		"trans"		"** A player has picked up Fire Staff **"
 	}
 	"** A player has picked up Heal Staff **"
 	{
 		"trans"		"** A player has picked up Heal Staff **"
+	}
+	"** The doors will open in 20 seconds **"
+	{
+		"trans"		"** The doors will open in 20 seconds **"
+	}
+	"** 5 Seconds left **"
+	{
+		"trans"		"** 5 seconds left **"
+	}
+	"** A player has picked up Tornado Staff **"
+	{
+		"trans"		"** A player has picked up Tornado Staff **"
+	}
+	"** FALL BACK **"
+	{
+		"trans"		"** FALL BACK **"
 	}
 	"** The doors will open in 25 seconds **"
 	{
@@ -35,10 +43,6 @@
 	"** A player has picked up Earth Staff **"
 	{
 		"trans"		"** A player has picked up Earth Staff **"
-	}
-	"** A player has picked up Quicksand Staff **"
-	{
-		"trans"		"** A player has picked up Quicksand Staff **"
 	}
 	"** The door will open in 30 seconds **"
 	{
@@ -60,8 +64,184 @@
 	{
 		"trans"		"*** YOU WON STAGE 1 ***"
 	}
-	"** A player has picked up Fire Staff **"
+	">> STAGE 2 <<"
 	{
-		"trans"		"** A player has picked up Fire Staff **"
+		"trans"		">> STAGE 2 <<"
+	}
+	"** A player has picked up Quicksand Staff **"
+	{
+		"trans"		"** A player has picked up Quicksand Staff **"
+	}
+	"** A player has picked up SandStorm Staff **"
+	{
+		"trans"		"** A player has picked up SandStorm Staff **"
+	}
+	"** Teleport will open in 20 seconds **"
+	{
+		"trans"		"** Teleport will open in 20 seconds **"
+	}
+	"** 5 seconds left. **"
+	{
+		"trans"		"** 5 seconds left. **"
+	}
+	"** Kill him or he kills you!!! **"
+	{
+		"trans"		"** Kill him or he kills you!!! **"
+	}
+	"*** Grenades do more damage. ***"
+	{
+		"trans"		"*** Grenades do more damage. ***"
+	}
+	"*** He's dead. Run. ***"
+	{
+		"trans"		"*** He's dead. Run. ***"
+	}
+	"** The doors will open on 15 seconds **"
+	{
+		"trans"		"** The doors will open on 15 seconds **"
+	}
+	"** Press on the 4 obelisks to open the door **"
+	{
+		"trans"		"** Press on the 4 obelisks to open the door **"
+	}
+	"** The doors will open in 10 seconds **"
+	{
+		"trans"		"** The doors will open in 10 seconds **"
+	}
+	"** Elevator leaves in 20 seconds **"
+	{
+		"trans"		"** Elevator leaves in 20 seconds **"
+	}
+	"** Kill the remaining zombies! **"
+	{
+		"trans"		"** Kill the remaining zombies! **"
+	}
+	"** YOU WON STAGE 2 **"
+	{
+		"trans"		"** YOU WON STAGE 2 **"
+	}
+	">> STAGE 3 <<"
+	{
+		"trans"		">> STAGE 3 <<"
+	}
+	"** Hold for 20 seconds. **"
+	{
+		"trans"		"** Hold for 20 seconds. **"
+	}
+	"** Teleport will open in 15 seconds **"
+	{
+		"trans"		"** Teleport will open in 15 seconds **"
+	}
+	"** Hold Zombies for 10 seconds **"
+	{
+		"trans"		"** Hold Zombies for 10 seconds **"
+	}
+	"** YOU WON STAGE 3 **"
+	{
+		"trans"		"** YOU WON STAGE 3 **"
+	}
+	">> STAGE 4 <<"
+	{
+		"trans"		">> STAGE 4 <<"
+	}
+	"** Meteorite arrives in 17 seconds. **"
+	{
+		"trans"		"** Meteorite arrives in 17 seconds. **"
+	}
+	"*** Grenades do more damage. (8 SECONDS)***"
+	{
+		"trans"		"*** Grenades do more damage. (8 SECONDS)***"
+	}
+	"*** YOU WON STAGE 4 ***"
+	{
+		"trans"		"*** YOU WON STAGE 4 ***"
+	}
+	"** Run into the center and break the crystal!!! **"
+	{
+		"trans"		"** Run into the center and break the crystal!!! **"
+	}
+	">> STAGE 5 <<"
+	{
+		"trans"		">> STAGE 5 <<"
+	}
+	"** 10 seconds left **"
+	{
+		"trans"		"** 10 seconds left **"
+	}
+	"** Teleport will open in 20 seconds. **"
+	{
+		"trans"		"** Teleport will open in 20 seconds. **"
+	}
+	"** Teleport will open on 10 seconds **"
+	{
+		"trans"		"** Teleport will open on 10 seconds **"
+	}
+	"** Hold for 15 seconds. **"
+	{
+		"trans"		"** Hold for 15 seconds. **"
+	}
+	"*** Grenades do more damage (4 SECONDS). ***"
+	{
+		"trans"		"*** Grenades do more damage (4 SECONDS). ***"
+	}
+	"** Do not come to the edge of the platform! **"
+	{
+		"trans"		"** Do not come to the edge of the platform! **"
+	}
+	"** NOW YOU DIE! **"
+	{
+		"trans"		"** NOW YOU DIE! **"
+	}
+	"** Hold for 10 seconds. **"
+	{
+		"trans"		"** Hold for 10 seconds. **"
+	}
+	"*** YOU WON STAGE 5 ***"
+	{
+		"trans"		"*** YOU WON STAGE 5 ***"
+	}
+	"** Humans have become immortal!!! **"
+	{
+		"trans"		"** Humans have become immortal!!! **"
+	}
+	"** Zombies have 1 HP! **"
+	{
+		"trans"		"** Zombies have 1 HP! **"
+	}
+	"** Victory in 230 seconds. **"
+	{
+		"trans"		"** Victory in 230 seconds. **"
+	}
+	">> ZM ROUND <<"
+	{
+		"trans"		">> ZM ROUND <<"
+	}
+	"** Victory in 200 seconds. **"
+	{
+		"trans"		"** Victory in 200 seconds. **"
+	}
+	"** Victory in 150 seconds. **"
+	{
+		"trans"		"** Victory in 150 seconds. **"
+	}
+	"** Victory in 100 seconds. **"
+	{
+		"trans"		"** Victory in 100 seconds. **"
+	}
+	"** Victory in 50 seconds. **"
+	{
+		"trans"		"** Victory in 50 seconds. **"
+	}
+	"** Victory in 10 seconds. **"
+	{
+		"trans"		"** Victory in 10 seconds. **"
+	}
+	">> VICTORY <<"
+	{
+		"trans"		">> VICTORY <<"
+	}
+	">>*** THANKS FOR PLAYING! ***<<"
+	{
+		"trans"		">>*** THANKS FOR PLAYING! ***<<"
 	}
 }

@@ -12,25 +12,49 @@
 	{
 		"trans"		"*** TWIST: NONE - BORING NORMAL MODE! ***"
 	}
-	"*** TWIST: ALL ABOARD THE FAILTRAM - NO BRIDGE ／ SECRET ***"
+	"*** Bridge Activated ***"
 	{
-		"trans"		"*** TWIST: ALL ABOARD THE FAILTRAM - NO BRIDGE ／ SECRET ***"
+		"trans"		"*** Bridge Activated ***"
+	}
+	"*** It seems as if there was going to ocurr a big earthquake...  ***"
+	{
+		"trans"		"*** It seems as if there was going to ocurr a big earthquake...  ***"
 	}
 	"*** Tram Starts in 7 Seconds ***"
 	{
 		"trans"		"*** Tram Starts in 7 Seconds ***"
 	}
-	"*** Bridge Activated ***"
-	{
-		"trans"		"*** Bridge Activated ***"
-	}
 	"*** Airlock Opens in 12 Seconds ***"
 	{
 		"trans"		"*** Airlock Opens in 12 Seconds ***"
 	}
-	"*** It seems as if there was going to ocurr a big earthquake...  ***"
+	"*** BARRICADE ROUND: Survive for 5 minutes! ***"
 	{
-		"trans"		"*** It seems as if there was going to ocurr a big earthquake...  ***"
+		"trans"		"*** BARRICADE ROUND: Survive for 5 minutes! ***"
+	}
+	"*** TWIST: SPACED OUT JIMMY - LOW GRAVITY ACTIVATED ***"
+	{
+		"trans"		"*** TWIST: SPACED OUT JIMMY - LOW GRAVITY ACTIVATED ***"
+	}
+	"*** TWIST: SECRETS ARE UNPOLITE - SECRET WAY IS LOCKED! ***"
+	{
+		"trans"		"*** TWIST: SECRETS ARE UNPOLITE - SECRET WAY IS LOCKED! ***"
+	}
+	"*** TWIST: BREAK ON THROUGH TO THE OTHER SIDE - NO TRAM & FRONT WAY LOCKED ***"
+	{
+		"trans"		"*** TWIST: BREAK ON THROUGH TO THE OTHER SIDE - NO TRAM & FRONT WAY LOCKED ***"
+	}
+	"*** TWIST: ALL ABOARD THE FAILTRAM - NO BRIDGE ／ SECRET ***"
+	{
+		"trans"		"*** TWIST: ALL ABOARD THE FAILTRAM - NO BRIDGE ／ SECRET ***"
+	}
+	"*** TWIST: STRANGE SPACE SITUATION - OTHER SIDE／NO SECRET／LOW GRAV ***"
+	{
+		"trans"		"*** TWIST: STRANGE SPACE SITUATION - OTHER SIDE／NO SECRET／LOW GRAV ***"
+	}
+	"*** TWIST: ALL ABOARD THE FAILTRAM & NO FRONT ／ SECRET ***"
+	{
+		"trans"		"*** TWIST: ALL ABOARD THE FAILTRAM & NO FRONT ／ SECRET ***"
 	}
 	"*** Airlock Closing in 8 Seconds ***"
 	{
@@ -40,17 +64,17 @@
 	{
 		"trans"		"*** Sector L door opens in 30 seconds ***"
 	}
-	"*** Landmines have been picked up. Press +USE (E) to spawn. You only have 4 landmines. ***"
-	{
-		"trans"		"*** Landmines have been picked up. Press +USE (E) to spawn. You only have 4 landmines. ***"
-	}
-	"*** Ventilation area protections unlock in 10 seconds ***"
-	{
-		"trans"		"*** Ventilation area protections unlock in 10 seconds ***"
-	}
 	"*** Sector L door opens in 10 seconds ***"
 	{
 		"trans"		"*** Sector L door opens in 10 seconds ***"
+	}
+	"*Ammo Box has been picked up. Press +USE (E) to activate.*"
+	{
+		"trans"		"*Ammo Box has been picked up. Press +USE (E) to activate.*"
+	}
+	"*It has a 90 seconds cooldown.*"
+	{
+		"trans"		"*It has a 90 seconds cooldown.*"
 	}
 	"*** This cave has collapsed... Maybe another earthquake could help? ***"
 	{
@@ -95,73 +119,5 @@
 	"*** C'MON!!! ***"
 	{
 		"trans"		"*** C'MON!!! ***"
-	}
-	"*** SlowRing generator has been picked up. Press +USE (E) to use. 45 seconds cooldown. ***"
-	{
-		"trans"		"*** SlowRing generator has been picked up. Press +USE (E) to use. 45 seconds cooldown. ***"
-	}
-	"*** Pushgun has been taken. Press +USE (E) to activate. 60 seconds cooldown. ***"
-	{
-		"trans"		"*** Pushgun has been taken. Press +USE (E) to activate. 60 seconds cooldown. ***"
-	}
-	"*** First sector G door opens in 30 seconds ***"
-	{
-		"trans"		"*** First sector G door opens in 30 seconds ***"
-	}
-	"*** First sector G door opens in 10 seconds ***"
-	{
-		"trans"		"*** First sector G door opens in 10 seconds ***"
-	}
-	"*** Second sector G door opens in 25 seconds ***"
-	{
-		"trans"		"*** Second sector G door opens in 25 seconds ***"
-	}
-	"*** Second sector G door opens in 10 seconds ***"
-	{
-		"trans"		"*** Second sector G door opens in 10 seconds ***"
-	}
-	"*** Lift is leaving in 15 Seconds ***"
-	{
-		"trans"		"*** Lift is leaving in 15 Seconds ***"
-	}
-	"*** WARNING: The main generator is overloading ***"
-	{
-		"trans"		"*** WARNING: The main generator is overloading ***"
-	}
-	"*** ERROR: Cooling system can not be activated. ***"
-	{
-		"trans"		"*** ERROR: Cooling system can not be activated. ***"
-	}
-	"*** ATTENTION: Emergency mode activated. Doors open in 1 minute. ***"
-	{
-		"trans"		"*** ATTENTION: Emergency mode activated. Doors open in 1 minute. ***"
-	}
-	"*** Helicopter Departing in 30 Seconds ***"
-	{
-		"trans"		"*** Helicopter Departing in 30 Seconds ***"
-	}
-	"*** Helicopter Departing in 10 Seconds ***"
-	{
-		"trans"		"*** Helicopter Departing in 10 Seconds ***"
-	}
-	"*** Helicopter Departing in 5 Seconds ***"
-	{
-		"trans"		"*** Helicopter Departing in 5 Seconds ***"
-	}
-	"*** Helicopter is Departing ***"
-	{
-		"trans"		"*** Helicopter is Departing ***"
-	}
-	"*** WARNING: Facility detonation in 30 Seconds ***"
-	{
-		"trans"		"*** WARNING: Facility detonation in 30 Seconds ***"
-	}
-	"*** ANNIHILATION MODE ENABLED: MONSTER LAB. OPEN ***"
-	{
-		"trans"		"*** ANNIHILATION MODE ENABLED: MONSTER LAB. OPEN ***"
-	}
-	"*** Security Door Closes in 5 Seconds ***"
-	{
-		"trans"		"*** Security Door Closes in 5 Seconds ***"
 	}
 }

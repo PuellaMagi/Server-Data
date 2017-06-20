@@ -1,0 +1,79 @@
+"Chat"
+{
+	"*** Door opening in 5 seconds ***"
+	{
+		"trans"		"*** Door opening in 5 seconds ***"
+	}
+	"*** Abyssal Orb has been acquired ***"
+	{
+		"trans"		"*** Abyssal Orb has been acquired ***"
+	}
+	"*** Boats departing in 20 seconds ***"
+	{
+		"trans"		"*** Boats departing in 20 seconds ***"
+	}
+	"*** Boats departing in 5 seconds ***"
+	{
+		"trans"		"*** Boats departing in 5 seconds ***"
+	}
+	"*** Gate opening in 10 seconds ***"
+	{
+		"trans"		"*** Gate opening in 10 seconds ***"
+	}
+	"*** 5 seconds left ***"
+	{
+		"trans"		"*** 5 seconds left ***"
+	}
+	"*** Round failed! Zombies have reached the objective! ***"
+	{
+		"trans"		"*** Round failed! Zombies have reached the objective! ***"
+	}
+	"*** Burning Orb has been acquired ***"
+	{
+		"trans"		"*** Burning Orb has been acquired ***"
+	}
+	"*** Door opening in 20 seconds ***"
+	{
+		"trans"		"*** Door opening in 20 seconds ***"
+	}
+	"*** Lightning Orb has been acquired ***"
+	{
+		"trans"		"*** Lightning Orb has been acquired ***"
+	}
+	"*** Gust Orb has been acquired ***"
+	{
+		"trans"		"*** Gust Orb has been acquired ***"
+	}
+	"*** All 4 levers activated ***"
+	{
+		"trans"		"*** All 4 levers activated ***"
+	}
+	"*** Gate opening ***"
+	{
+		"trans"		"*** Gate opening ***"
+	}
+	"*** Glacial Orb has been acquired ***"
+	{
+		"trans"		"*** Glacial Orb has been acquired ***"
+	}
+	"*** Divine Orb has been acquired ***"
+	{
+		"trans"		"*** Divine Orb has been acquired ***"
+	}
+	"*** Celestial Embrace has been acquired ***"
+	{
+		"trans"		"*** Celestial Embrace has been acquired ***"
+	}
+	"*** Platform rising in 15 seconds ***"
+	{
+		"trans"		"*** Platform rising in 15 seconds ***"
+	}
+	"*** Right lever activated ***"
+	{
+		"trans"		"*** Right lever activated ***"
+	}
+	"*** Final door opening in 5 seconds ***"
+	{
+		"trans"		"*** Final door opening in 5 seconds ***"
+	}
+}

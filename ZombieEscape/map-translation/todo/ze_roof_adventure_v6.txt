@@ -260,4 +260,8 @@
 	{
 		"trans"		"***All zombies will come in 20s!***"
 	}
+	"***Boss will destroy us in 5s!***"
+	{
+		"trans"		"***Boss will destroy us in 5s!***"
+	}
 }

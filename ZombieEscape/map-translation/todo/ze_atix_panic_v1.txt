@@ -28,28 +28,4 @@
 	{
 		"trans"		"++ ALL FLOORS ARE UNLOCKED ++"
 	}
-	"++ ZOMBIE BARRIERS ARE EASIER TO BREAK NOW ++"
-	{
-		"trans"		"++ ZOMBIE BARRIERS ARE EASIER TO BREAK NOW ++"
-	}
-	"++ HELICOPTER ON THE WAY ++"
-	{
-		"trans"		"++ HELICOPTER ON THE WAY ++"
-	}
-	"++ 30 SECONDS UNTIL ARRIVAL ++"
-	{
-		"trans"		"++ 30 SECONDS UNTIL ARRIVAL ++"
-	}
-	"++ 20 SECONDS UNTIL THE HELICOPTER LEAVES ++"
-	{
-		"trans"		"++ 20 SECONDS UNTIL THE HELICOPTER LEAVES ++"
-	}
-	"++ HELICOPTER IS LEAVING ++"
-	{
-		"trans"		"++ HELICOPTER IS LEAVING ++"
-	}
-	"++ NUKE IN 10 SECONDS ++"
-	{
-		"trans"		"++ NUKE IN 10 SECONDS ++"
-	}
 }

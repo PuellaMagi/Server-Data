@@ -1,12 +1,12 @@
 "Chat"
 {
-	"***Testlab Door3 Opens in 5 Seconds***"
+	"***Cargo Door Opens in 10 Seconds***"
 	{
-		"trans"		"***Testlab Door3 Opens in 5 Seconds***"
+		"trans"		"***Cargo Door Opens in 10 Seconds***"
 	}
-	"***Testlab Door2 Opens in 5 Seconds***"
+	"***Main Testlab Door Opens in 10 Seconds***"
 	{
-		"trans"		"***Testlab Door2 Opens in 5 Seconds***"
+		"trans"		"***Main Testlab Door Opens in 10 Seconds***"
 	}
 	"***Bridge Activated***"
 	{

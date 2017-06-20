@@ -1,0 +1,59 @@
+"Chat"
+{
+	"***zombies are being held at first doors for 5 seconds***"
+	{
+		"trans"		"***zombies are being held at first doors for 5 seconds***"
+	}
+	"***elevator 1 leaving in 15 seconds***"
+	{
+		"trans"		"***elevator 1 leaving in 15 seconds***"
+	}
+	"***doors to ladders opening 30 seconds***"
+	{
+		"trans"		"***doors to ladders opening 30 seconds***"
+	}
+	"***elevator 2 leaving in 15 seconds***"
+	{
+		"trans"		"***elevator 2 leaving in 15 seconds***"
+	}
+	"***zombies are being held back by lifts for 8 seconds***"
+	{
+		"trans"		"***zombies are being held back by lifts for 8 seconds***"
+	}
+	"***555 door will open in 30 seconds***"
+	{
+		"trans"		"***555 door will open in 30 seconds***"
+	}
+	"***zombies are beling held at the 555 corridor  for 10 seconds*** "
+	{
+		"trans"		"***zombies are beling held at the 555 corridor  for 10 seconds*** "
+	}
+	"***Blast doors will open in 25 seconds***"
+	{
+		"trans"		"***Blast doors will open in 25 seconds***"
+	}
+	"***zombies are being held at blast doors for 8 seconds***"
+	{
+		"trans"		"***zombies are being held at blast doors for 8 seconds***"
+	}
+	"***Get into the control room and release the nerve gas***"
+	{
+		"trans"		"***Get into the control room and release the nerve gas***"
+	}
+	"***Gas has now been released***"
+	{
+		"trans"		"***Gas has now been released***"
+	}
+	"***Aztec door will open 30 seconds***"
+	{
+		"trans"		"***Aztec door will open 30 seconds***"
+	}
+	"***Door will open in 30 seconds***"
+	{
+		"trans"		"***Door will open in 30 seconds***"
+	}
+	"*** zombies are being held at aztec corridor for 11 seconds"
+	{
+		"trans"		"*** zombies are being held at aztec corridor for 11 seconds"
+	}
+}

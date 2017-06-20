@@ -16,10 +16,6 @@
 	{
 		"trans"		"**AFK TELE 20 SECONDS**"
 	}
-	"** Push the C4 between the barrels **"
-	{
-		"trans"		"** Push the C4 between the barrels **"
-	}
 	"**AFK TELE 10 SECONDS**"
 	{
 		"trans"		"**AFK TELE 10 SECONDS**"
@@ -28,28 +24,12 @@
 	{
 		"trans"		"** Zodiac departing for island interior. **"
 	}
-	"** C4 planted! **"
+	"** Push the C4 between the barrels **"
 	{
-		"trans"		"** C4 planted! **"
+		"trans"		"** Push the C4 between the barrels **"
 	}
 	"** Raptor nest has been disturbed! **"
 	{
 		"trans"		"** Raptor nest has been disturbed! **"
-	}
-	"** InGen has received your distress signal. A109 inbound for extraction in 60... **"
-	{
-		"trans"		"** InGen has received your distress signal. A109 inbound for extraction in 60... **"
-	}
-	"** Laboratory Security online. Locking in 10 seconds... **"
-	{
-		"trans"		"** Laboratory Security online. Locking in 10 seconds... **"
-	}
-	"** Power has been restored to Isla Sorna **"
-	{
-		"trans"		"** Power has been restored to Isla Sorna **"
-	}
-	"** BRIDGE CHARGE DETONATED -- JUMP YOU FOOLS! **"
-	{
-		"trans"		"** BRIDGE CHARGE DETONATED -- JUMP YOU FOOLS! **"
 	}
 }

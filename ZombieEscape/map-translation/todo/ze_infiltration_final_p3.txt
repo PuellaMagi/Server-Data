@@ -4,17 +4,25 @@
 	{
 		"trans"		"Map made by Luffaren／Per30010"
 	}
-	"*** Door opens in 15 seconds ***"
+	"*** BLASTDOOR OPENING IN 30 SECONDS ***"
 	{
-		"trans"		"*** Door opens in 15 seconds ***"
+		"trans"		"*** BLASTDOOR OPENING IN 30 SECONDS ***"
 	}
 	"--- ELEVATOR 1 LEAVING IN 10 SECONDS ---"
 	{
 		"trans"		"--- ELEVATOR 1 LEAVING IN 10 SECONDS ---"
 	}
-	"*** BLASTDOOR OPENING IN 30 SECONDS ***"
+	"*** Door opens in 15 seconds ***"
 	{
-		"trans"		"*** BLASTDOOR OPENING IN 30 SECONDS ***"
+		"trans"		"*** Door opens in 15 seconds ***"
+	}
+	"*** Door opens in 18 seconds ***"
+	{
+		"trans"		"*** Door opens in 18 seconds ***"
+	}
+	"--- RESIST 15 SECONDS ---"
+	{
+		"trans"		"--- RESIST 15 SECONDS ---"
 	}
 	"--- TRAM LEAVES IN 10 SECONDS ---"
 	{
@@ -59,33 +67,5 @@
 	"*** Humans are recommended to stay in the elevator***"
 	{
 		"trans"		"*** Humans are recommended to stay in the elevator***"
-	}
-	"*** Contacting HQ ***"
-	{
-		"trans"		"*** Contacting HQ ***"
-	}
-	"*** A helicopter is waiting at the helipad ***"
-	{
-		"trans"		"*** A helicopter is waiting at the helipad ***"
-	}
-	"*** GET TO THE CHOPPER! ***"
-	{
-		"trans"		"*** GET TO THE CHOPPER! ***"
-	}
-	"*** HQ will send a nuke at your position ***"
-	{
-		"trans"		"*** HQ will send a nuke at your position ***"
-	}
-	"*** Get away from there A.S.A.P ***"
-	{
-		"trans"		"*** Get away from there A.S.A.P ***"
-	}
-	"*** HELICOPTER IS LEAVING IN 70 SECONDS ***"
-	{
-		"trans"		"*** HELICOPTER IS LEAVING IN 70 SECONDS ***"
-	}
-	"*** HELICOPTER IS LEAVING IN 10 SECONDS ***"
-	{
-		"trans"		"*** HELICOPTER IS LEAVING IN 10 SECONDS ***"
 	}
 }

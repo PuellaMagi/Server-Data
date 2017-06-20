@@ -1,0 +1,743 @@
+"Chat"
+{
+	"[PLAYING] Jim Carrey : Cuban Pete"
+	{
+		"trans"		"[PLAYING] Jim Carrey : Cuban Pete"
+	}
+	"**MAP BY Hannibal[SPA] ** "
+	{
+		"trans"		"**MAP BY Hannibal[SPA] ** "
+	}
+	"*** Thanks to  Kaemon ***"
+	{
+		"trans"		"*** Thanks to  Kaemon ***"
+	}
+	"*** Thanks to  Lunatxz ***"
+	{
+		"trans"		"*** Thanks to  Lunatxz ***"
+	}
+	"** The round will start in few seconds** ** You must choose a room when door opening**"
+	{
+		"trans"		"** The round will start in few seconds** ** You must choose a room when door opening**"
+	}
+	"[PLAYING] Herb Alpert : Spanish Flea"
+	{
+		"trans"		"[PLAYING] Herb Alpert : Spanish Flea"
+	}
+	"**A boring round... cmon CT** Everyone will be teleported to the white room in 20s**"
+	{
+		"trans"		"**A boring round... cmon CT** Everyone will be teleported to the white room in 20s**"
+	}
+	"[PLAYING] Blarsa : Garden Party"
+	{
+		"trans"		"[PLAYING] Blarsa : Garden Party"
+	}
+	"** LETS START THE SELECCION PROCESS! **"
+	{
+		"trans"		"** LETS START THE SELECCION PROCESS! **"
+	}
+	"** VOLUNTARY! Jump into the red hole to get zombified **"
+	{
+		"trans"		"** VOLUNTARY! Jump into the red hole to get zombified **"
+	}
+	"** VIP! Protect the VIP! If the dies you all die! **"
+	{
+		"trans"		"** VIP! Protect the VIP! If the dies you all die! **"
+	}
+	"** Playable area set to SMALL **"
+	{
+		"trans"		"** Playable area set to SMALL **"
+	}
+	"**VIP selected! ** The Human without knife will be turned into the VIP!**"
+	{
+		"trans"		"**VIP selected! ** The Human without knife will be turned into the VIP!**"
+	}
+	"[PLAYING] Crysis Warhead : jungle fight"
+	{
+		"trans"		"[PLAYING] Crysis Warhead : jungle fight"
+	}
+	"**If the VIP dies EVERYONE die**"
+	{
+		"trans"		"**If the VIP dies EVERYONE die**"
+	}
+	"**If the VIP survive you will have a reward for next round**"
+	{
+		"trans"		"**If the VIP survive you will have a reward for next round**"
+	}
+	"**DOORS OPENING IN 30 SECONDS**"
+	{
+		"trans"		"**DOORS OPENING IN 30 SECONDS**"
+	}
+	"** A CT reached the second labyrinth wall **"
+	{
+		"trans"		"** A CT reached the second labyrinth wall **"
+	}
+	"** Every random walls from first labyrinth will be removed in 15s**"
+	{
+		"trans"		"** Every random walls from first labyrinth will be removed in 15s**"
+	}
+	"**Doors opening**"
+	{
+		"trans"		"**Doors opening**"
+	}
+	"**Teleporting all people of first labyrinth in 20 s**"
+	{
+		"trans"		"**Teleporting all people of first labyrinth in 20 s**"
+	}
+	"**Team trigger activated: fast CT in 5 s**"
+	{
+		"trans"		"**Team trigger activated: fast CT in 5 s**"
+	}
+	"** Someone has reached the core walls **"
+	{
+		"trans"		"** Someone has reached the core walls **"
+	}
+	"[PLAYING] Crysis Warhead : Airfield 2"
+	{
+		"trans"		"[PLAYING] Crysis Warhead : Airfield 2"
+	}
+	"** Every random walls from second labyrinth will be removed in 20s**"
+	{
+		"trans"		"** Every random walls from second labyrinth will be removed in 20s**"
+	}
+	"**Every CT and T of first and second labyrinth will be teleported at jail in 45s**"
+	{
+		"trans"		"**Every CT and T of first and second labyrinth will be teleported at jail in 45s**"
+	}
+	"**Resist 35 s!**"
+	{
+		"trans"		"**Resist 35 s!**"
+	}
+	"**Final barrier WILL BREAK IN 4 SECONDS**"
+	{
+		"trans"		"**Final barrier WILL BREAK IN 4 SECONDS**"
+	}
+	"**Run! Reach the core!**"
+	{
+		"trans"		"**Run! Reach the core!**"
+	}
+	"**Annihilator has been picked**"
+	{
+		"trans"		"**Annihilator has been picked**"
+	}
+	"*** The CT have win the round! Choose the finish mode ***"
+	{
+		"trans"		"*** The CT have win the round! Choose the finish mode ***"
+	}
+	"[PLAYING] Little Big Planet : Garden theme"
+	{
+		"trans"		"[PLAYING] Little Big Planet : Garden theme"
+	}
+	"*** Finish mode ** Kill all zombies without help!**"
+	{
+		"trans"		"*** Finish mode ** Kill all zombies without help!**"
+	}
+	"**Lift leaving in 7 s**"
+	{
+		"trans"		"**Lift leaving in 7 s**"
+	}
+	"**3**"
+	{
+		"trans"		"**3**"
+	}
+	"**2**"
+	{
+		"trans"		"**2**"
+	}
+	"**1**"
+	{
+		"trans"		"**1**"
+	}
+	"**Go!**"
+	{
+		"trans"		"**Go!**"
+	}
+	"** ZM! Remember! This is not escape anymore! Just defend and save your ass! **"
+	{
+		"trans"		"** ZM! Remember! This is not escape anymore! Just defend and save your ass! **"
+	}
+	"**Flamethrower has been picked**"
+	{
+		"trans"		"**Flamethrower has been picked**"
+	}
+	"**Juggernaut has been picked**"
+	{
+		"trans"		"**Juggernaut has been picked**"
+	}
+	"** ASCENSION! Forget the labyrinth! Prepare to ascend through the core! **"
+	{
+		"trans"		"** ASCENSION! Forget the labyrinth! Prepare to ascend through the core! **"
+	}
+	"**Resist 35 seconds!**"
+	{
+		"trans"		"**Resist 35 seconds!**"
+	}
+	"** RUN **"
+	{
+		"trans"		"** RUN **"
+	}
+	"**Rocket launcher has been picked**"
+	{
+		"trans"		"**Rocket launcher has been picked**"
+	}
+	"**Hold 20 seconds!**"
+	{
+		"trans"		"**Hold 20 seconds!**"
+	}
+	"** Heal item has been picked up **"
+	{
+		"trans"		"** Heal item has been picked up **"
+	}
+	"**Ladder carrier has been picked**"
+	{
+		"trans"		"**Ladder carrier has been picked**"
+	}
+	"** Thunder gun has been picked up**"
+	{
+		"trans"		"** Thunder gun has been picked up**"
+	}
+	"**This is your last stand! Defend! The teleporter is getting ready!**"
+	{
+		"trans"		"**This is your last stand! Defend! The teleporter is getting ready!**"
+	}
+	"[PLAYING] Crysis Warhead : Airfield Hero Theme"
+	{
+		"trans"		"[PLAYING] Crysis Warhead : Airfield Hero Theme"
+	}
+	"**Slower weapon has been picked**"
+	{
+		"trans"		"**Slower weapon has been picked**"
+	}
+	"**30 seconds until final teleportation!**"
+	{
+		"trans"		"**30 seconds until final teleportation!**"
+	}
+	"*** Finish mode ** Easy killing! You are untouchable!**"
+	{
+		"trans"		"*** Finish mode ** Easy killing! You are untouchable!**"
+	}
+	"** We have an epic winner! **"
+	{
+		"trans"		"** We have an epic winner! **"
+	}
+	"** REVERSE! Go from coliseum to the begining! **"
+	{
+		"trans"		"** REVERSE! Go from coliseum to the begining! **"
+	}
+	"**Giant chainsaw has been picked**"
+	{
+		"trans"		"**Giant chainsaw has been picked**"
+	}
+	"** TELEPORT WILL BE ACTIVATED IN 25 SECONDS **"
+	{
+		"trans"		"** TELEPORT WILL BE ACTIVATED IN 25 SECONDS **"
+	}
+	"** BRIDGE IS OPENING IN 20 SECONDS **"
+	{
+		"trans"		"** BRIDGE IS OPENING IN 20 SECONDS **"
+	}
+	"**Freezer has  been picked**"
+	{
+		"trans"		"**Freezer has  been picked**"
+	}
+	"** Metal door will open in 20 seconds! **"
+	{
+		"trans"		"** Metal door will open in 20 seconds! **"
+	}
+	"**Gravity gun has been picked**"
+	{
+		"trans"		"**Gravity gun has been picked**"
+	}
+	"** Portal will open in 30 seconds! **"
+	{
+		"trans"		"** Portal will open in 30 seconds! **"
+	}
+	"** PORTAL IS READY! GO IN! **"
+	{
+		"trans"		"** PORTAL IS READY! GO IN! **"
+	}
+	"**SELF DESTRUCTION ACTIVATED!**"
+	{
+		"trans"		"**SELF DESTRUCTION ACTIVATED!**"
+	}
+	"**Nuke in 40 s**"
+	{
+		"trans"		"**Nuke in 40 s**"
+	}
+	"**Global trigger activated: absolute blind in 5 s**"
+	{
+		"trans"		"**Global trigger activated: absolute blind in 5 s**"
+	}
+	"[PLAYING] Herp Albert : Spanish Fleah"
+	{
+		"trans"		"[PLAYING] Herp Albert : Spanish Fleah"
+	}
+	"** STATIC LABYRINTH! Choose the correct way! **"
+	{
+		"trans"		"** STATIC LABYRINTH! Choose the correct way! **"
+	}
+	"**Global trigger activated: slippery ground in 5s**"
+	{
+		"trans"		"**Global trigger activated: slippery ground in 5s**"
+	}
+	"** 2 SPAWNS! More humans per square meter... and more zombies!  **"
+	{
+		"trans"		"** 2 SPAWNS! More humans per square meter... and more zombies!  **"
+	}
+	"** Playable area set to MEDIUM **"
+	{
+		"trans"		"** Playable area set to MEDIUM **"
+	}
+	"** SUPER TRIGGER ACTIVATED : SILENT HILL **"
+	{
+		"trans"		"** SUPER TRIGGER ACTIVATED : SILENT HILL **"
+	}
+	"[PLAYING] Silent Hill 2 : Theme of Laura"
+	{
+		"trans"		"[PLAYING] Silent Hill 2 : Theme of Laura"
+	}
+	"**Pyramid Head is looking for you ... **"
+	{
+		"trans"		"**Pyramid Head is looking for you ... **"
+	}
+	"** The hole will open in 60 s **"
+	{
+		"trans"		"** The hole will open in 60 s **"
+	}
+	"** TRIGGER MADNESS! Random triggers every 10 seconds! **"
+	{
+		"trans"		"** TRIGGER MADNESS! Random triggers every 10 seconds! **"
+	}
+	"**Team trigger activated: slow T in 5 s**"
+	{
+		"trans"		"**Team trigger activated: slow T in 5 s**"
+	}
+	"**Global trigger activated: invert controls**"
+	{
+		"trans"		"**Global trigger activated: invert controls**"
+	}
+	"**Team trigger activated: fast T in 5 s**"
+	{
+		"trans"		"**Team trigger activated: fast T in 5 s**"
+	}
+	"**Team trigger activated: untouchable zombies in 5s (7s)**"
+	{
+		"trans"		"**Team trigger activated: untouchable zombies in 5s (7s)**"
+	}
+	"**Titan monster has entered the game**"
+	{
+		"trans"		"**Titan monster has entered the game**"
+	}
+	"**Global trigger activated: absolute darkness in 5s **"
+	{
+		"trans"		"**Global trigger activated: absolute darkness in 5s **"
+	}
+	"** Vortigaunt has been picked up**"
+	{
+		"trans"		"** Vortigaunt has been picked up**"
+	}
+	"**Team trigger activated: untouchable ct in 5s (15s)**"
+	{
+		"trans"		"**Team trigger activated: untouchable ct in 5s (15s)**"
+	}
+	"** MASSACRE AT AT BUYZONE! Be careful with the zombies! **"
+	{
+		"trans"		"** MASSACRE AT AT BUYZONE! Be careful with the zombies! **"
+	}
+	"**Temporal invulnerability weapon has been picked**"
+	{
+		"trans"		"**Temporal invulnerability weapon has been picked**"
+	}
+	"** TREX HAS BEEN PICKED UP! **"
+	{
+		"trans"		"** TREX HAS BEEN PICKED UP! **"
+	}
+	"**Team trigger activated: global push to zombies in 5 s**"
+	{
+		"trans"		"**Team trigger activated: global push to zombies in 5 s**"
+	}
+	"** ZOMBIE BOSS! 1 zombie faster and stronger than ever  **"
+	{
+		"trans"		"** ZOMBIE BOSS! 1 zombie faster and stronger than ever  **"
+	}
+	"*** Finish mode ** 1 shoot 1 kill!**"
+	{
+		"trans"		"*** Finish mode ** 1 shoot 1 kill!**"
+	}
+	"** FACE TO FACE! Lets get some weapons and fight zombies! **"
+	{
+		"trans"		"** FACE TO FACE! Lets get some weapons and fight zombies! **"
+	}
+	"[PLAYING] Crysis Warhead : Hovercraft Pursuit"
+	{
+		"trans"		"[PLAYING] Crysis Warhead : Hovercraft Pursuit"
+	}
+	"** Unlimited ammo weapon picked! **"
+	{
+		"trans"		"** Unlimited ammo weapon picked! **"
+	}
+	"**Singularity cannon has been picked up**"
+	{
+		"trans"		"**Singularity cannon has been picked up**"
+	}
+	"** SUPER TRIGGER ACTIVATED : THIS IS MADNESS **"
+	{
+		"trans"		"** SUPER TRIGGER ACTIVATED : THIS IS MADNESS **"
+	}
+	"[PLAYING] Vuvuzela Ultra Megamix"
+	{
+		"trans"		"[PLAYING] Vuvuzela Ultra Megamix"
+	}
+	"** Car has been picked **"
+	{
+		"trans"		"** Car has been picked **"
+	}
+	"** ULTIMATUM! Fight against 8 zombie monsters of same type! **"
+	{
+		"trans"		"** ULTIMATUM! Fight against 8 zombie monsters of same type! **"
+	}
+	"** The selected Zombie monster is going to be ..."
+	{
+		"trans"		"** The selected Zombie monster is going to be ..."
+	}
+	"** ... 8 Barnacles zombies! Barnacles are funny! **"
+	{
+		"trans"		"** ... 8 Barnacles zombies! Barnacles are funny! **"
+	}
+	"** And the human weapons will be  ..."
+	{
+		"trans"		"** And the human weapons will be  ..."
+	}
+	"**UNLIMITED AMMO! It looks kinda easy! **"
+	{
+		"trans"		"**UNLIMITED AMMO! It looks kinda easy! **"
+	}
+	"** And the spawn mode  ..."
+	{
+		"trans"		"** And the spawn mode  ..."
+	}
+	"** FACE TO FACE CHALLENGE! **"
+	{
+		"trans"		"** FACE TO FACE CHALLENGE! **"
+	}
+	"** Barnacle impulsion zombie has been picked up **"
+	{
+		"trans"		"** Barnacle impulsion zombie has been picked up **"
+	}
+	"*** Finish mode ** Normal nuke!**"
+	{
+		"trans"		"*** Finish mode ** Normal nuke!**"
+	}
+	"** GRAVITY! Low gravity all the round! **"
+	{
+		"trans"		"** GRAVITY! Low gravity all the round! **"
+	}
+	"*** Finish mode ** Kill the super Monster! ***"
+	{
+		"trans"		"*** Finish mode ** Kill the super Monster! ***"
+	}
+	"** ALL ZOMBIES WILL DIE BUT NOT THE MONSTER! IN 15 SECONDS **"
+	{
+		"trans"		"** ALL ZOMBIES WILL DIE BUT NOT THE MONSTER! IN 15 SECONDS **"
+	}
+	"**Zombie stopper has been picked by a zombie**"
+	{
+		"trans"		"**Zombie stopper has been picked by a zombie**"
+	}
+	"** NUKE in 60 seconds **"
+	{
+		"trans"		"** NUKE IN 60 SECONDS **"
+	}
+	"** NUKE IN 40 SECONDS **"
+	{
+		"trans"		"** NUKE IN 40 SECONDS **"
+	}
+	"** NUKE IN 20 SECONDS **"
+	{
+		"trans"		"** NUKE IN 20 SECONDS **"
+	}
+	"**10 seconds left**"
+	{
+		"trans"		"**10 SECONDS LEFT**"
+	}
+	"**5 seconds left**"
+	{
+		"trans"		"**5 SECONDS LEFT**"
+	}
+	"** Teleport weapon has been picked up **"
+	{
+		"trans"		"** Teleport weapon has been picked up **"
+	}
+	"** Holy grenade has been picked**"
+	{
+		"trans"		"** Holy grenade has been picked**"
+	}
+	"**Global trigger activated: everyone will be teleported to a room int 8s**"
+	{
+		"trans"		"**Global trigger activated: everyone will be teleported to a room int 8s**"
+	}
+	"**Global trigger activated: low gravity for humans**"
+	{
+		"trans"		"**Global trigger activated: low gravity for humans**"
+	}
+	"**Scary zombie has been picked**"
+	{
+		"trans"		"**Scary zombie has been picked**"
+	}
+	"**Builder has been picked**"
+	{
+		"trans"		"**Builder has been picked**"
+	}
+	"**Invisibility cloud has been picked**"
+	{
+		"trans"		"**Invisibility cloud has been picked**"
+	}
+	"** RANDOM! Red dot will choose! **"
+	{
+		"trans"		"** RANDOM! Red dot will choose! **"
+	}
+	"** SUPER TRIGGER ACTIVATED : NO WALLS **"
+	{
+		"trans"		"** SUPER TRIGGER ACTIVATED : NO WALLS **"
+	}
+	"[PLAYING] The Qemists : Stompbox"
+	{
+		"trans"		"[PLAYING] The Qemists : Stompbox"
+	}
+	"**No walls** Every walls will be removed in 24 s** "
+	{
+		"trans"		"**No walls** Every walls will be removed in 24 s** "
+	}
+	"** LORDS OF DESTRUCTION! Two voluntaries please! **"
+	{
+		"trans"		"** LORDS OF DESTRUCTION! Two voluntaries please! **"
+	}
+	"**Gandalf staff has been picked!**"
+	{
+		"trans"		"**Gandalf staff has been picked!**"
+	}
+	"** Gandalf in the middle! **"
+	{
+		"trans"		"** Gandalf in the middle! **"
+	}
+	"** ... 8 Stoppers! well... thats easy! **"
+	{
+		"trans"		"** ... 8 Stoppers! well... thats easy! **"
+	}
+	"** ROCKET LAUNCHER! Covering fire!!! **"
+	{
+		"trans"		"** ROCKET LAUNCHER! Covering fire!!! **"
+	}
+	"**HUMAN OWNAGE IN 20S** HUMANS MUST REACH THE CORE NOW!!!**"
+	{
+		"trans"		"**HUMAN OWNAGE IN 20S** HUMANS MUST REACH THE CORE NOW!!!**"
+	}
+	"**Sprint weapon has been picked**"
+	{
+		"trans"		"**Sprint weapon has been picked**"
+	}
+	"** .. THE CREATURE OF SHADOW AND FIRE IS HERE ... **"
+	{
+		"trans"		"** .. THE CREATURE OF SHADOW AND FIRE IS HERE ... **"
+	}
+	"** Playable area set to BIG **"
+	{
+		"trans"		"** Playable area set to BIG **"
+	}
+	"** Bed item has been picked up **"
+	{
+		"trans"		"** Bed item has been picked up **"
+	}
+	"***Earendil light has been picked***"
+	{
+		"trans"		"***Earendil light has been picked***"
+	}
+	"*** Finish mode ** Fight versus the current monsters! ***"
+	{
+		"trans"		"*** Finish mode ** Fight versus the current monsters! ***"
+	}
+	"** Grenade maker has been picked up **"
+	{
+		"trans"		"** Grenade maker has been picked up **"
+	}
+	"** ... 8 Pyramid Head! Bullets dont do nothing agains them! **"
+	{
+		"trans"		"** ... 8 Pyramid Head! Bullets dont do nothing agains them! **"
+	}
+	"** BEDS! Well ... it could be worse! **"
+	{
+		"trans"		"** BEDS! Well ... it could be worse! **"
+	}
+	"**The VIP has been killed!**"
+	{
+		"trans"		"**The VIP has been killed!**"
+	}
+	"**Zombie summoner has been picked by a zombie**"
+	{
+		"trans"		"**Zombie summoner has been picked by a zombie**"
+	}
+	"** ... 8 BALROGS!!! You are dead **"
+	{
+		"trans"		"** ... 8 BALROGS!!! You are dead **"
+	}
+	"** FLAMETHROWER! I love the smell of Napalm in the morning! **"
+	{
+		"trans"		"** FLAMETHROWER! I love the smell of Napalm in the morning! **"
+	}
+	"** NORMAL SPAWNS! **"
+	{
+		"trans"		"** NORMAL SPAWNS! **"
+	}
+	"** COLISEUM CARNAGE! This is not going to be easy! Survive 2 minutes! **"
+	{
+		"trans"		"** COLISEUM CARNAGE! This is not going to be easy! Survive 2 minutes! **"
+	}
+	"** OPENING ZOMBIE DOOR IN 15 SECONDS!!! **"
+	{
+		"trans"		"** OPENING ZOMBIE DOOR IN 15 SECONDS!!! **"
+	}
+	"** 3 **"
+	{
+		"trans"		"** 3 **"
+	}
+	"** 2 **"
+	{
+		"trans"		"** 2 **"
+	}
+	"** 1 **"
+	{
+		"trans"		"** 1 **"
+	}
+	"** FIRE! **"
+	{
+		"trans"		"** FIRE! **"
+	}
+	"** BUTTONS WILL UNLOCK IN 65 SECONDS **"
+	{
+		"trans"		"** BUTTONS WILL UNLOCK IN 65 SECONDS **"
+	}
+	"** BUTTONS WILL UNLOCK IN 25 SECONDS **"
+	{
+		"trans"		"** BUTTONS WILL UNLOCK IN 25 SECONDS **"
+	}
+	"** BUTTONS UNLOCKED **"
+	{
+		"trans"		"** BUTTONS UNLOCKED **"
+	}
+	"**Team trigger activated: zombies health is now 50000**"
+	{
+		"trans"		"**Team trigger activated: zombies health is now 50000**"
+	}
+	"** ... 8 TITANS! incoming rape! **"
+	{
+		"trans"		"** ... 8 TITANS! incoming rape! **"
+	}
+	"** MINIGUN! Counter Terrorist Win! **"
+	{
+		"trans"		"** MINIGUN! Counter Terrorist Win! **"
+	}
+	"** Playable area set to HUGE **"
+	{
+		"trans"		"** Playable area set to HUGE **"
+	}
+	"** HEAL WEAPON! Useful ... sometimes **"
+	{
+		"trans"		"** HEAL WEAPON! Useful ... sometimes **"
+	}
+	"** ... 8 Scary zombies! Your hands will be trembling all round! **"
+	{
+		"trans"		"** ... 8 Scary zombies! Your hands will be trembling all round! **"
+	}
+	"** THUNDER GUN! I would like to have 8 thunder guns in Black Ops! **"
+	{
+		"trans"		"** THUNDER GUN! I would like to have 8 thunder guns in Black Ops! **"
+	}
+	"*** Finish mode ** Touch them! Kill them!**"
+	{
+		"trans"		"*** Finish mode ** Touch them! Kill them!**"
+	}
+	"** ... 8 Zombie Dogs! **"
+	{
+		"trans"		"** ... 8 Zombie Dogs! **"
+	}
+	"** INVULNERABILITY! I hope you are one of the pickers! **"
+	{
+		"trans"		"** INVULNERABILITY! I hope you are one of the pickers! **"
+	}
+	"** ... 8 TREX!! Prepare your weapons! **"
+	{
+		"trans"		"** ... 8 TREX!! Prepare your weapons! **"
+	}
+	"** ... 8 Antlions! remember they are fucking fast! **"
+	{
+		"trans"		"** ... 8 Antlions! remember they are fucking fast! **"
+	}
+	"** GANDALF STAFF! Work in team!**"
+	{
+		"trans"		"** GANDALF STAFF! Work in team!**"
+	}
+	"** MG42! Covering fire! **"
+	{
+		"trans"		"** MG42! Covering fire! **"
+	}
+	"** YOU BREAK THE LASTS BRICKS AT SAME TIME ! ** SELECTING RANDOMLY **"
+	{
+		"trans"		"** YOU BREAK THE LASTS BRICKS AT SAME TIME ! ** SELECTING RANDOMLY **"
+	}
+	"** BLACK HOLE! Use it carefully! Remember! Just one use! ** "
+	{
+		"trans"		"** BLACK HOLE! Use it carefully! Remember! Just one use! ** "
+	}
+	"** ... 8 Jumpers! Be careful! It is harder than it sounds! **"
+	{
+		"trans"		"** ... 8 Jumpers! Be careful! It is harder than it sounds! **"
+	}
+	"** SINGULARITY GUN! Fuck you gravity! **"
+	{
+		"trans"		"** SINGULARITY GUN! Fuck you gravity! **"
+	}
+	"** SLOWER! Slowing enemies make everything easy! **"
+	{
+		"trans"		"** SLOWER! Slowing enemies make everything easy! **"
+	}
+	"** SAW! Remember 300? Maybe you could try something! **"
+	{
+		"trans"		"** SAW! Remember 300? Maybe you could try something! **"
+	}
+	"** ... 8 Vortigaunts! And no! they are not friendly! **"
+	{
+		"trans"		"** ... 8 Vortigaunts! And no! they are not friendly! **"
+	}
+	"** ... 8 Summoners! Zombies: remember that right click summons a black hole! **"
+	{
+		"trans"		"** ... 8 Summoners! Zombies: remember that right click summons a black hole! **"
+	}
+	"** LADDER! Maybe the worst item right now! **"
+	{
+		"trans"		"** LADDER! Maybe the worst item right now! **"
+	}
+	"** HOLY GENADE! Be careful with that weapon! **"
+	{
+		"trans"		"** HOLY GENADE! Be careful with that weapon! **"
+	}
+	"**ANNIHILATOR! You are very lucky! **"
+	{
+		"trans"		"**ANNIHILATOR! You are very lucky! **"
+	}
+	"** ... 8 huge Crabs! **"
+	{
+		"trans"		"** ... 8 huge Crabs! **"
+	}
+	"**BUILDER! Time to build a fortress! **"
+	{
+		"trans"		"**BUILDER! Time to build a fortress! **"
+	}
+	"** DOGS! Secondary attack for fun! **"
+	{
+		"trans"		"** DOGS! Secondary attack for fun! **"
+	}
+	"** EARENDIL LIGHT! Work in team! And you will win easy **"
+	{
+		"trans"		"** EARENDIL LIGHT! Work in team! And you will win easy **"
+	}
+}

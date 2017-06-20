@@ -256,4 +256,28 @@
 	{
 		"trans"		"** Zapdos is Using Zap Cannon! **"
 	}
+	"** The path is blocked! Hold for 30 seconds! **"
+	{
+		"trans"		"** The path is blocked! Hold for 30 seconds! **"
+	}
+	"** The path is clear. Move! **"
+	{
+		"trans"		"** The path is clear. Move! **"
+	}
+	"** The bridges are blocked. Let's wait for help! **"
+	{
+		"trans"		"** The bridges are blocked. Let's wait for help! **"
+	}
+	"** Hold for 25 seconds! **"
+	{
+		"trans"		"** Hold for 25 seconds! **"
+	}
+	"** Flygmon's are removing the rocks, let's go! **"
+	{
+		"trans"		"** Flygmon's are removing the rocks, let's go! **"
+	}
+	"** 5 seconds to explosion! Stay back! **"
+	{
+		"trans"		"** 5 seconds to explosion! Stay back! **"
+	}
 }

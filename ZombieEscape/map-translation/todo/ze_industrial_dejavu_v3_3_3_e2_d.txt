@@ -36,4 +36,20 @@
 	{
 		"trans"		"*** ZOMBIES DETECTED - INVALID VICTORY ***"
 	}
+	"*** HOLD! The bunker will seal in 15 seconds! ***"
+	{
+		"trans"		"*** HOLD! The bunker will seal in 15 seconds! ***"
+	}
+	"*** We did it! Moving on to the NORMAL mode! ***"
+	{
+		"trans"		"*** We did it! Moving on to the NORMAL mode! ***"
+	}
+	"* Zombie heal has been picked up. Press +USE (E) to activate.*"
+	{
+		"trans"		"* Zombie heal has been picked up. Press +USE (E) to activate.*"
+	}
+	"*** Pushgun has been taken. Press +USE (E) to activate. 60 seconds cooldown. ***"
+	{
+		"trans"		"*** Pushgun has been taken. Press +USE (E) to activate. 60 seconds cooldown. ***"
+	}
 }

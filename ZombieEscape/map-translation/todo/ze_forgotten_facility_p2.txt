@@ -8,13 +8,13 @@
 	{
 		"trans"		"**Elevator is activated. Leaving in 12 seconds**"
 	}
-	"**The swine flu disease will reach the first floor in 10 seconds**"
-	{
-		"trans"		"**The swine flu disease will reach the first floor in 10 seconds**"
-	}
 	"**Shaft 2 will open in 15 seconds**"
 	{
 		"trans"		"**Shaft 2 will open in 15 seconds**"
+	}
+	"**The swine flu disease will reach the first floor in 10 seconds**"
+	{
+		"trans"		"**The swine flu disease will reach the first floor in 10 seconds**"
 	}
 	"**The poison waste machines have been activated**"
 	{
@@ -44,9 +44,17 @@
 	{
 		"trans"		"**The junk machines will start in 3 seconds...**"
 	}
+	"**The machines have now been shut off...**"
+	{
+		"trans"		"**The machines have now been shut off...**"
+	}
 	"**The infected have passed the final door!**"
 	{
 		"trans"		"**The infected have passed the final door!**"
+	}
+	"**Prevent the infected from crossing the bridge!**"
+	{
+		"trans"		"**Prevent the infected from crossing the bridge!**"
 	}
 	"**Zombies will be teleported in 35 secs!**"
 	{
@@ -56,17 +64,9 @@
 	{
 		"trans"		"**The bridge is preparing for activation...**"
 	}
-	"**Prevent the infected from crossing the bridge!**"
-	{
-		"trans"		"**Prevent the infected from crossing the bridge!**"
-	}
 	"**Zombies arriving closer in 20 secs!**"
 	{
 		"trans"		"**Zombies arriving closer in 20 secs!**"
-	}
-	"**Zombies arriving in 5 secs!**"
-	{
-		"trans"		"**Zombies arriving in 5 secs!**"
 	}
 	"**Activated the emergency button...**"
 	{
@@ -75,6 +75,10 @@
 	"**Closing gates in...**"
 	{
 		"trans"		"**Closing gates in...**"
+	}
+	"**Zombies arriving in 5 secs!**"
+	{
+		"trans"		"**Zombies arriving in 5 secs!**"
 	}
 	"**Preparing fuel. Help will arrive in 40 seconds**"
 	{
@@ -112,8 +116,12 @@
 	{
 		"trans"		"**Map made by: Westsid3r**"
 	}
-	"**The machines have now been shut off...**"
+	"**Door 1 will open in 10 seconds**"
 	{
-		"trans"		"**The machines have now been shut off...**"
+		"trans"		"**Door 1 will open in 10 seconds**"
+	}
+	"**Shaft 1 will open in 15 seconds**"
+	{
+		"trans"		"**Shaft 1 will open in 15 seconds**"
 	}
 }

@@ -1,31 +1,91 @@
 "Chat"
 {
-	">>>LIGHT HAS BEEN TAKEN<<<"
+	">>LEVEL: EASY<<"
 	{
-		"trans"		">>>LIGHT HAS BEEN TAKEN<<<"
+		"trans"		">>LEVEL: EASY<<"
 	}
-	">>  TELEPORTING everyone to jungle<<"
+	">>MAP MADE BY TaskuVaras<<"
 	{
-		"trans"		">>  TELEPORTING everyone to jungle<<"
+		"trans"		">>MAP MADE BY TaskuVaras<<"
 	}
-	">> IMPORTANT!!!!!!!! <<"
+	">>Special thanks to: T-Money and Enviolinador<<"
 	{
-		"trans"		">> IMPORTANT!!!!!!!! <<"
+		"trans"		">>Special thanks to: T-Money and Enviolinador<<"
 	}
-	">>  TELEPORTING everyone to fountain of youth<<"
+	">> 1 player must go to lighthouse and shoot the oil<<"
 	{
-		"trans"		">>  TELEPORTING everyone to fountain of youth<<"
+		"trans"		">> 1 player must go to lighthouse and shoot the oil<<"
 	}
-	">>  5 MORE SECONDS<<"
+	">> others try to keep zombies in water<<"
 	{
-		"trans"		">>  5 MORE SECONDS<<"
+		"trans"		">> others try to keep zombies in water<<"
+	}
+	">> Lighthouse exploding automatically in 30 seconds <<"
+	{
+		"trans"		">> Lighthouse exploding automatically in 30 seconds <<"
 	}
 	">> DEFEND FOR 30 SEC<<"
 	{
 		"trans"		">> DEFEND FOR 30 SEC<<"
 	}
-	">>LEVEL: EXTREME<<"
+	">>>LIGHT HAS BEEN TAKEN<<<"
 	{
-		"trans"		">>LEVEL: EXTREME<<"
+		"trans"		">>>LIGHT HAS BEEN TAKEN<<<"
+	}
+	">>>Press USE to fire<<<"
+	{
+		"trans"		">>>Press USE to fire<<<"
+	}
+	">>  TELEPORTING everyone to jungle<<"
+	{
+		"trans"		">>  TELEPORTING everyone to jungle<<"
+	}
+	">>  5 MORE SECONDS<<"
+	{
+		"trans"		">>  5 MORE SECONDS<<"
+	}
+	">> LIGHT CAN BE NOW USED AGAIN<<"
+	{
+		"trans"		">> LIGHT CAN BE NOW USED AGAIN<<"
+	}
+	">> IMPORTANT!!!!!!!! <<"
+	{
+		"trans"		">> IMPORTANT!!!!!!!! <<"
+	}
+	">> TAKE THE SILVER CHALICES <<"
+	{
+		"trans"		">> TAKE THE SILVER CHALICES <<"
+	}
+	">>  TELEPORTING everyone to ponce de leon<<"
+	{
+		"trans"		">>  TELEPORTING everyone to ponce de leon<<"
+	}
+	">> TAKE CHALICES TO FOUNTAIN OF YOUTH <<"
+	{
+		"trans"		">> TAKE CHALICES TO FOUNTAIN OF YOUTH <<"
+	}
+	">> YOU FORGOT THE CHALICES<<"
+	{
+		"trans"		">> YOU FORGOT THE CHALICES<<"
+	}
+	">> DEFEND FOR 60 SEC<<"
+	{
+		"trans"		">> DEFEND FOR 60 SEC<<"
+	}
+	">>  TELEPORTING everyone to fountain of youth<<"
+	{
+		"trans"		">>  TELEPORTING everyone to fountain of youth<<"
+	}
+	">>LEVEL COMPLETED!<<"
+	{
+		"trans"		">>LEVEL COMPLETED!<<"
+	}
+	">> SURVIVE FOR 60 SEC<<"
+	{
+		"trans"		">> SURVIVE FOR 60 SEC<<"
+	}
+	">>LEVEL: NORMAL<<"
+	{
+		"trans"		">>LEVEL: NORMAL<<"
 	}
 }

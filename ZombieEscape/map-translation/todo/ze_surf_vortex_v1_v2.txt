@@ -124,7 +124,7 @@
 	{
 		"trans"		"***Nuke in 10 seconds***"
 	}
-	"***Thank you for playing***"
+	"***THANK YOU FOR PLAYING***"
 	{
 		"trans"		"***Thank you for playing***"
 	}

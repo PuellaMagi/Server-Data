@@ -16,14 +16,6 @@
 	{
 		"trans"		"** Looks like the Van is broken **"
 	}
-	"** Call the mainland - Tell them to send the damn helicopter! **"
-	{
-		"trans"		"** Call the mainland - Tell them to send the damn helicopter! **"
-	}
-	"** SECURE THE AREA ** "
-	{
-		"trans"		"** SECURE THE AREA ** "
-	}
 	"** Generator override enabled **"
 	{
 		"trans"		"** Generator override enabled **"
@@ -31,6 +23,14 @@
 	"** Power has been lost to Jurassic Park **"
 	{
 		"trans"		"** Power has been lost to Jurassic Park **"
+	}
+	"** Call the mainland - Tell them to send the damn helicopter! **"
+	{
+		"trans"		"** Call the mainland - Tell them to send the damn helicopter! **"
+	}
+	"** SECURE THE AREA ** "
+	{
+		"trans"		"** SECURE THE AREA ** "
 	}
 	"** Get ready to move! **"
 	{

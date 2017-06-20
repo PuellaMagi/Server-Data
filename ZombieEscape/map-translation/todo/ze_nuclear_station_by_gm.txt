@@ -228,4 +228,8 @@
 	{
 		"trans"		"****> Maps Created By GroSSo MineTTo<****"
 	}
+	"****> Music: OST Resident Evil_ Extinction  Charlie Clouser - Convoy (Remix)  <**** "
+	{
+		"trans"		"****> Music: OST Resident Evil_ Extinction  Charlie Clouser - Convoy (Remix)  <**** "
+	}
 }

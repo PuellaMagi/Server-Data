@@ -72,4 +72,84 @@
 	{
 		"trans"		"***Nuke impact***"
 	}
+	"***CURRENT MODE >>>CUSTOM<<<***"
+	{
+		"trans"		"***CURRENT MODE >>>CUSTOM<<<***"
+	}
+	"***Heal picked up***"
+	{
+		"trans"		"***Heal picked up***"
+	}
+	"***Zombie picked up Freeze***"
+	{
+		"trans"		"***Zombie picked up Freeze***"
+	}
+	"***Jump portal opened***"
+	{
+		"trans"		"***Jump portal opened***"
+	}
+	"***Snow picked up***"
+	{
+		"trans"		"***Snow picked up***"
+	}
+	"***Wind picked up***"
+	{
+		"trans"		"***Wind picked up***"
+	}
+	"***ADMIN ENABLE ADDON MODE [LOW FRICTION]***"
+	{
+		"trans"		"***ADMIN ENABLE ADDON MODE [LOW FRICTION]***"
+	}
+	"***ADMIN CHANGED MODE [NORMAL]***"
+	{
+		"trans"		"***ADMIN CHANGED MODE [NORMAL]***"
+	}
+	"***ADMIN CHANGED MODE [CUSTOM]***"
+	{
+		"trans"		"***ADMIN CHANGED MODE [CUSTOM]***"
+	}
+	"***Barrel picked up***"
+	{
+		"trans"		"***Barrel picked up***"
+	}
+	"***Zombie picked up Nuke***"
+	{
+		"trans"		"***Zombie picked up Nuke***"
+	}
+	"***A PLAYER SLAIN BY A BARREL***"
+	{
+		"trans"		"***A PLAYER SLAIN BY A BARREL***"
+	}
+	"***ADMIN ENABLE ADDON MODE [LOW GRAVITY]***"
+	{
+		"trans"		"***ADMIN ENABLE ADDON MODE [LOW GRAVITY]***"
+	}
+	"***Protector picked up***"
+	{
+		"trans"		"***Protector picked up***"
+	}
+	"***Helicopter 2 explode in 3s***"
+	{
+		"trans"		"***Helicopter 2 explode in 3s***"
+	}
+	"***Speed picked up***"
+	{
+		"trans"		"***Speed picked up***"
+	}
+	"***Zombie picked up Gravity***"
+	{
+		"trans"		"***Zombie picked up Gravity***"
+	}
+	"***Ice picked up***"
+	{
+		"trans"		"***Ice picked up***"
+	}
+	"***ADMIN ENABLE ADDON MODE [FOG]***"
+	{
+		"trans"		"***ADMIN ENABLE ADDON MODE [FOG]***"
+	}
+	"***ADMIN ENABLE ADDON MODE [METEOR]***"
+	{
+		"trans"		"***ADMIN ENABLE ADDON MODE [METEOR]***"
+	}
 }

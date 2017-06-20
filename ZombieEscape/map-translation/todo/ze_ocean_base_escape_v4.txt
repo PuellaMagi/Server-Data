@@ -1,0 +1,203 @@
+"Chat"
+{
+	"***The Ocean Base is starting to explode!***"
+	{
+		"trans"		"***The Ocean Base is starting to explode!***"
+	}
+	"***Find a place to hide and hold here for 45secs until a path is clear!!***"
+	{
+		"trans"		"***Find a place to hide and hold here for 45secs until a path is clear!!***"
+	}
+	"***Map made by RelaxingWalls (제작자 : RelaxingWalls)***"
+	{
+		"trans"		"***Map made by RelaxingWalls (제작자 : RelaxingWalls)***"
+	}
+	"***Map ported by [ＥSＣAＰＥ] Loving You (수정자 : 러빙유)***"
+	{
+		"trans"		"***Map ported by [ＥSＣAＰＥ] Loving You (수정자 : 러빙유)***"
+	}
+	"***Path clear. Make your way to the other end of the base before it's too late!***"
+	{
+		"trans"		"***Path clear. Make your way to the other end of the base before it's too late!***"
+	}
+	"***Old Lab path opening in 5secs. RUN!!***"
+	{
+		"trans"		"***Old Lab path opening in 5secs. RUN!!***"
+	}
+	"***Break the glass and make your way across the ship's hull.*** "
+	{
+		"trans"		"***Break the glass and make your way across the ship's hull.*** "
+	}
+	"***The lift is out of power. We'll have to go through the hole in the hull.***"
+	{
+		"trans"		"***The lift is out of power. We'll have to go through the hole in the hull.***"
+	}
+	"***If we break the weak glass we can't make it back into the base.***"
+	{
+		"trans"		"***If we break the weak glass we can't make it back into the base.***"
+	}
+	"***Ocean Base status critical!***"
+	{
+		"trans"		"***Ocean Base status critical!***"
+	}
+	"***Hit the switch to activate the door.***"
+	{
+		"trans"		"***Hit the switch to activate the door.***"
+	}
+	"***Left Gate opening in 20secs!***"
+	{
+		"trans"		"***Left Gate opening in 20secs!***"
+	}
+	"***Left Gate opening!***"
+	{
+		"trans"		"***Left Gate opening!***"
+	}
+	"***Launch Bay Open!***"
+	{
+		"trans"		"***Launch Bay Open!***"
+	}
+	"***RUN! Get into the Submarine! Zombie can't get in!***"
+	{
+		"trans"		"***RUN! Get into the Submarine! Zombie can't get in!***"
+	}
+	"***Submarine leaving in 30secs!***"
+	{
+		"trans"		"***Submarine leaving in 30secs!***"
+	}
+	"***Grab any weapons or nades you might need!***"
+	{
+		"trans"		"***Grab any weapons or nades you might need!***"
+	}
+	"***Get in and hold the control room!***"
+	{
+		"trans"		"***Get in and hold the control room!***"
+	}
+	"***We made it just in time!***"
+	{
+		"trans"		"***We made it just in time!***"
+	}
+	"***OH NO! They got on board!***"
+	{
+		"trans"		"***OH NO! They got on board!***"
+	}
+	"***We can't let them reach the surface!***"
+	{
+		"trans"		"***We can't let them reach the surface!***"
+	}
+	"***Damn! The only way to get rid of them is to activate the Atomic Core overload program!***"
+	{
+		"trans"		"***Damn! The only way to get rid of them is to activate the Atomic Core overload program!***"
+	}
+	"***ACTIVATE THE CORE OVERLOAD FROM THE CONSOLE!!!***"
+	{
+		"trans"		"***ACTIVATE THE CORE OVERLOAD FROM THE CONSOLE!!!***"
+	}
+	"***Submarine Atomic Core overload activated! Full overload in 45secs!***"
+	{
+		"trans"		"***Submarine Atomic Core overload activated! Full overload in 45secs!***"
+	}
+	"***Submarine Atomic Core overload at 25%!***"
+	{
+		"trans"		"***Submarine Atomic Core overload at 25%!***"
+	}
+	"***Submarine Atomic Core overload at 60%!***"
+	{
+		"trans"		"***Submarine Atomic Core overload at 60%!***"
+	}
+	"***Submarine Atomic Core overload at 95%!***"
+	{
+		"trans"		"***Submarine Atomic Core overload at 95%!***"
+	}
+	"***CORE OVERLOAD ERROR**"
+	{
+		"trans"		"***CORE OVERLOAD ERROR**"
+	}
+	"***Manual activation required!**"
+	{
+		"trans"		"***Manual activation required!**"
+	}
+	"***Someone has to go back there and activate the core!***"
+	{
+		"trans"		"***Someone has to go back there and activate the core!***"
+	}
+	"***Someone take the overhead ladder! Everyone else give them cover fire!***"
+	{
+		"trans"		"***Someone take the overhead ladder! Everyone else give them cover fire!***"
+	}
+	"***CORE OVERLOAD 100%!**"
+	{
+		"trans"		"***CORE OVERLOAD 100%!**"
+	}
+	"***...We made it...**"
+	{
+		"trans"		"***...We made it...**"
+	}
+	"***...Thank you...<<Insert Name Here>>...**"
+	{
+		"trans"		"***...Thank you...<<Insert Name Here>>...**"
+	}
+	"***Hurry up! We only have to 10secs left!!***"
+	{
+		"trans"		"***Hurry up! We only have to 10secs left!!***"
+	}
+	"***Research path opening in 7secs. RUN!!***"
+	{
+		"trans"		"***Research path opening in 7secs. RUN!!***"
+	}
+	"***Swim to the wrecked ship. We'll have to go through the hole in the hull.***"
+	{
+		"trans"		"***Swim to the wrecked ship. We'll have to go through the hole in the hull.***"
+	}
+	"***Use the pipes along the wall to get across the pit of fire!***"
+	{
+		"trans"		"***Use the pipes along the wall to get across the pit of fire!***"
+	}
+	"***Make your way to the other end of the ballroom! There's a hole in the railing to can use to make it to the second floor!***"
+	{
+		"trans"		"***Make your way to the other end of the ballroom! There's a hole in the railing to can use to make it to the second floor!***"
+	}
+	"***Jump and slide down to use the ladders to get off the ceiling!***"
+	{
+		"trans"		"***Jump and slide down to use the ladders to get off the ceiling!***"
+	}
+	"***Thank You for Playing!!***"
+	{
+		"trans"		"***Thank You for Playing!!***"
+	}
+	"***Modern Lab path opening in 5secs. RUN!!***"
+	{
+		"trans"		"***Modern Lab path opening in 5secs. RUN!!***"
+	}
+	"***Activate the lift and hold the boxes while it powers up!***"
+	{
+		"trans"		"***Activate the lift and hold the boxes while it powers up!***"
+	}
+	"***Tram leaving in 25secs!***"
+	{
+		"trans"		"***Tram leaving in 25secs!***"
+	}
+	"***Tram leaving in 5secs!***"
+	{
+		"trans"		"***Tram leaving in 5secs!***"
+	}
+	"***Tram leaving!***"
+	{
+		"trans"		"***Tram leaving!***"
+	}
+	"***Careful scaling across the top on the crates!***"
+	{
+		"trans"		"***Careful scaling across the top on the crates!***"
+	}
+	"***Tram power has shut down! Zombies can now walk across!***"
+	{
+		"trans"		"***Tram power has shut down! Zombies can now walk across!***"
+	}
+	"***Right Gate opening in 20secs!***"
+	{
+		"trans"		"***Right Gate opening in 20secs!***"
+	}
+	"***Right Gate opening!***"
+	{
+		"trans"		"***Right Gate opening!***"
+	}
+}

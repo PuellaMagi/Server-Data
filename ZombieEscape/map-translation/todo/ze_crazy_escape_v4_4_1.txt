@@ -196,4 +196,180 @@
 	{
 		"trans"		"### STAGE FAILED, YOU NOOBS ###"
 	}
+	"### STAGE COMPLETED ###"
+	{
+		"trans"		"### STAGE COMPLETED ###"
+	}
+	"### PART II : CRAZIER ESCAPE ###"
+	{
+		"trans"		"### PART II : CRAZIER ESCAPE ###"
+	}
+	"### TELEPORT INCOMING IN 20 SECONDS ###"
+	{
+		"trans"		"### TELEPORT INCOMING IN 20 SECONDS ###"
+	}
+	"### RUN TO THE OTHER SIDE  ###"
+	{
+		"trans"		"### RUN TO THE OTHER SIDE  ###"
+	}
+	"### AND SHOOT THOSE ZOMBIES  ### "
+	{
+		"trans"		"### AND SHOOT THOSE ZOMBIES  ### "
+	}
+	"### MAKE YOUR WAY TO THE OTHER SIDE ###"
+	{
+		"trans"		"### MAKE YOUR WAY TO THE OTHER SIDE ###"
+	}
+	"### WHILE DEFENDING AGAINST ZOMBIES ###"
+	{
+		"trans"		"### WHILE DEFENDING AGAINST ZOMBIES ###"
+	}
+	"### HUMANS, DO NOT DELAY ###"
+	{
+		"trans"		"### HUMANS, DO NOT DELAY ###"
+	}
+	"### PRESS THE BUTTON ON THE OTHER SIDE ###"
+	{
+		"trans"		"### PRESS THE BUTTON ON THE OTHER SIDE ###"
+	}
+	"### YOU HAVE 90 SECONDS BEFORE ###"
+	{
+		"trans"		"### YOU HAVE 90 SECONDS BEFORE ###"
+	}
+	"### HUMANS GET TELEPORTED WITH ZOMBIES AUTOMATICALLY ###"
+	{
+		"trans"		"### HUMANS GET TELEPORTED WITH ZOMBIES AUTOMATICALLY ###"
+	}
+	"### HOLD AND DEFEND FOR 30 SECONDS ###"
+	{
+		"trans"		"### HOLD AND DEFEND FOR 30 SECONDS ###"
+	}
+	"### WAIT UNTIL THE DOOR OPENS ###"
+	{
+		"trans"		"### WAIT UNTIL THE DOOR OPENS ###"
+	}
+	"### 10 SECONDS REMAININGS ###"
+	{
+		"trans"		"### 10 SECONDS REMAININGS ###"
+	}
+	"### TELEPORTING THE REST IN 5 SECONDS ###"
+	{
+		"trans"		"### TELEPORTING THE REST IN 5 SECONDS ###"
+	}
+	"### TIP: DON'T TOUCH THE CAUTION PILLARS ###"
+	{
+		"trans"		"### TIP: DON'T TOUCH THE CAUTION PILLARS ###"
+	}
+	"### THEY WILL TELEPORT YOU BACKK LOL ###"
+	{
+		"trans"		"### THEY WILL TELEPORT YOU BACKK LOL ###"
+	}
+	"### ZOMBIES WAIT FOR 10 SECONDS ###"
+	{
+		"trans"		"### ZOMBIES WAIT FOR 10 SECONDS ###"
+	}
+	"### STAY IN THE GREEN LIGHT ZONE ###"
+	{
+		"trans"		"### STAY IN THE GREEN LIGHT ZONE ###"
+	}
+	"### TELEPORT INCOMING IN 30 SECONDS ###"
+	{
+		"trans"		"### TELEPORT INCOMING IN 30 SECONDS ###"
+	}
+	"### HUMANS NOT IN THE GREEN LIGHT ZONE ###"
+	{
+		"trans"		"### HUMANS NOT IN THE GREEN LIGHT ZONE ###"
+	}
+	"### WILL BE TELEPORTED WITH ZOMBIES ###"
+	{
+		"trans"		"### WILL BE TELEPORTED WITH ZOMBIES ###"
+	}
+	"### WAIT HERE FOR A BIT ###"
+	{
+		"trans"		"### WAIT HERE FOR A BIT ###"
+	}
+	"### BE READY IN 5 SECONDS ###"
+	{
+		"trans"		"### BE READY IN 5 SECONDS ###"
+	}
+	"### HOLD HERE AND SHOOT FOR 30 SECONDS ###"
+	{
+		"trans"		"### HOLD HERE AND SHOOT FOR 30 SECONDS ###"
+	}
+	"### DONT DELAY OR YOU WILL TELEPORT WITH ZOMBIES ###"
+	{
+		"trans"		"### DONT DELAY OR YOU WILL TELEPORT WITH ZOMBIES ###"
+	}
+	"### WHEN EVERYONE IS HERE, NARAKA WILL SPAWN ###"
+	{
+		"trans"		"### WHEN EVERYONE IS HERE, NARAKA WILL SPAWN ###"
+	}
+	"### IN 10 SECONDS ###"
+	{
+		"trans"		"### IN 10 SECONDS ###"
+	}
+	"### MADUDU FAKA MADAFAKAA HUEHUE ###"
+	{
+		"trans"		"### MADUDU FAKA MADAFAKAA HUEHUE ###"
+	}
+	"### THE WALL WILL DISAPPEAR AND NARAKA WILL COME ###"
+	{
+		"trans"		"### THE WALL WILL DISAPPEAR AND NARAKA WILL COME ###"
+	}
+	"### YOU ALL HAVE 2 MINUTES BEFORE ###"
+	{
+		"trans"		"### YOU ALL HAVE 2 MINUTES BEFORE ###"
+	}
+	"### NARAKA BECOMES IMMORTAL AND RELEASES THE ZOMBIES ###"
+	{
+		"trans"		"### NARAKA BECOMES IMMORTAL AND RELEASES THE ZOMBIES ###"
+	}
+	">>> HE'S DEAD. DEFEND UNTIL DOOR BREAKS <<<"
+	{
+		"trans"		">>> HE'S DEAD. DEFEND UNTIL DOOR BREAKS <<<"
+	}
+	"### ALL ZOMBIES AND HUMANS IN BOSS AREA ###"
+	{
+		"trans"		"### ALL ZOMBIES AND HUMANS IN BOSS AREA ###"
+	}
+	"### WILL BE TELEPORTED TO THE FINAL DESTINATION ###"
+	{
+		"trans"		"### WILL BE TELEPORTED TO THE FINAL DESTINATION ###"
+	}
+	"### IN 15 SECONDS ###"
+	{
+		"trans"		"### IN 15 SECONDS ###"
+	}
+	"### RIGHT BUTTON HAS BEEN PRESSED ###"
+	{
+		"trans"		"### RIGHT BUTTON HAS BEEN PRESSED ###"
+	}
+	"### BOTH BUTTONS ACTIVATED ###"
+	{
+		"trans"		"### BOTH BUTTONS ACTIVATED ###"
+	}
+	"### LEFT BUTTON HAS BEEN PRESSED ###"
+	{
+		"trans"		"### LEFT BUTTON HAS BEEN PRESSED ###"
+	}
+	"### BRIDGE BREAKS IN 50 SECONDS ###"
+	{
+		"trans"		"### BRIDGE BREAKS IN 50 SECONDS ###"
+	}
+	"### DEFEND YOU NOOBS ###"
+	{
+		"trans"		"### DEFEND YOU NOOBS ###"
+	}
+	"### ONE OF GFL ADMINS SAID TO ME ###"
+	{
+		"trans"		"### ONE OF GFL ADMINS SAID TO ME ###"
+	}
+	"### IT WOULD BE GREAT IF YOU CAN ADD THE LASER ###"
+	{
+		"trans"		"### IT WOULD BE GREAT IF YOU CAN ADD THE LASER ###"
+	}
+	"### AT THE END OF YOUR MAP : HMM OKIEEE ^^ ###"
+	{
+		"trans"		"### AT THE END OF YOUR MAP : HMM OKIEEE ^^ ###"
+	}
 }

@@ -12,17 +12,29 @@
 	{
 		"trans"		"-=[ 5 ]=-"
 	}
+	"-=[ Easy Mode :: CT／T > 4 ]=-"
+	{
+		"trans"		"-=[ Easy Mode :: CT／T > 4 ]=-"
+	}
+	"-=[ Normal Mode :: CT／T > 2 < 4 ]=-"
+	{
+		"trans"		"-=[ Normal Mode :: CT／T > 2 < 4 ]=-"
+	}
 	"-=[ You have 40 seconds ]=-"
 	{
 		"trans"		"-=[ You have 40 seconds ]=-"
 	}
-	"-=[ Here come the zombies ]=-"
+	"-=[ Zombies are blind!!!! ]=-"
 	{
-		"trans"		"-=[ Here come the zombies ]=-"
+		"trans"		"-=[ Zombies are blind!!!! ]=-"
 	}
-	"-=[ Zombie spawn has advanced ]=-"
+	"-=[ Extreme Mode :: CT／T < 1 ]=-"
 	{
-		"trans"		"-=[ Zombie spawn has advanced ]=-"
+		"trans"		"-=[ Extreme Mode :: CT／T < 1 ]=-"
+	}
+	"-=[ Hard Mode :: CT／T > 1 < 2 ]=-"
+	{
+		"trans"		"-=[ Hard Mode :: CT／T > 1 < 2 ]=-"
 	}
 	"-=[ Zombies are free ]=-"
 	{
@@ -32,6 +44,14 @@
 	{
 		"trans"		"-=[ Shoot the ladders down ]=-"
 	}
+	"-=[ Here come the zombies ]=-"
+	{
+		"trans"		"-=[ Here come the zombies ]=-"
+	}
+	"-=[ Zombie spawn has advanced ]=-"
+	{
+		"trans"		"-=[ Zombie spawn has advanced ]=-"
+	}
 	"-=[ Fallback ]=-"
 	{
 		"trans"		"-=[ Fallback ]=-"
@@ -39,6 +59,26 @@
 	"-=[ Castle gates are opening ]=-"
 	{
 		"trans"		"-=[ Castle gates are opening ]=-"
+	}
+	"-=[ Finishing in 5 ]=-"
+	{
+		"trans"		"-=[ Finishing in 5 ]=-"
+	}
+	"-=[ Normal Mode :: CT／T == 2 ]=-"
+	{
+		"trans"		"-=[ Normal Mode :: CT／T == 2 ]=-"
+	}
+	"-=[ All Gems have been collected ]=-"
+	{
+		"trans"		"-=[ All Gems have been collected ]=-"
+	}
+	"-=[ Doors opening in 5 ]=-"
+	{
+		"trans"		"-=[ Doors opening in 5 ]=-"
+	}
+	"-=[ Hard Mode :: CT／T == 1 ]=-"
+	{
+		"trans"		"-=[ Hard Mode :: CT／T == 1 ]=-"
 	}
 	"-=[ Welcome to Zombie Games ]=-"
 	{
@@ -52,12 +92,44 @@
 	{
 		"trans"		"-=[ Zombie spawn advanced ]=-"
 	}
+	"-=[ Lavapit activating in 5 seconds ]=-"
+	{
+		"trans"		"-=[ Lavapit activating in 5 seconds ]=-"
+	}
+	"-=[ Here come the zombies!!! ]=-"
+	{
+		"trans"		"-=[ Here come the zombies!!! ]=-"
+	}
+	"-=[ Activating in 5 ]=-"
+	{
+		"trans"		"-=[ Activating in 5 ]=-"
+	}
 	"-=[ Finishing in 5... ]=-"
 	{
 		"trans"		"-=[ Finishing in 5... ]=-"
 	}
-	"-=[ Finishing in 5 ]=-"
+	"-=[ Activating Trap ]=-"
 	{
-		"trans"		"-=[ Finishing in 5 ]=-"
+		"trans"		"-=[ Activating Trap ]=-"
+	}
+	"-=[ Hurry, 10 seconds left ]=-"
+	{
+		"trans"		"-=[ Hurry, 10 seconds left ]=-"
+	}
+	"-=[ Fallback up the ladders ]=-"
+	{
+		"trans"		"-=[ Fallback up the ladders ]=-"
+	}
+	"-=[ Hold for 30 seconds ]=-"
+	{
+		"trans"		"-=[ Hold for 30 seconds ]=-"
+	}
+	"-=[ It's time for the final minigame ]=-"
+	{
+		"trans"		"-=[ It's time for the final minigame ]=-"
+	}
+	"-=[ Doors closing in 5 seconds ]=-"
+	{
+		"trans"		"-=[ Doors closing in 5 seconds ]=-"
 	}
 }

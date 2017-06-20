@@ -12,36 +12,4 @@
 	{
 		"trans"		"*** MAP BY JB_GAMBLE ***"
 	}
-	"*** HOLD HERE! ***"
-	{
-		"trans"		"*** HOLD HERE! ***"
-	}
-	"*** 5 SECONDS ***"
-	{
-		"trans"		"*** 5 SECONDS ***"
-	}
-	"*** FALL BACK ***"
-	{
-		"trans"		"*** FALL BACK ***"
-	}
-	"***** HOLD THIS POSITION *****"
-	{
-		"trans"		"***** HOLD THIS POSITION *****"
-	}
-	"*** ELEVATOR 1 & 2 OPENING ***"
-	{
-		"trans"		"*** ELEVATOR 1 & 2 OPENING ***"
-	}
-	"*** USE RADIO ***"
-	{
-		"trans"		"*** USE RADIO ***"
-	}
-	"*** SELF DESTRUCT ACTIVATED - 60 SECONDS ***"
-	{
-		"trans"		"*** SELF DESTRUCT ACTIVATED - 60 SECONDS ***"
-	}
-	"*** MAP CRASH FIXED BY 5UNZ ***"
-	{
-		"trans"		"*** MAP CRASH FIXED BY 5UNZ ***"
-	}
 }

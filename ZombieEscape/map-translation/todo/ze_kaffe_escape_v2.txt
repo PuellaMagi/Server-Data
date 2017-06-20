@@ -12,7 +12,7 @@
 	{
 		"trans"		"*** Door will open in 30 seconds ***"
 	}
-	"*** DOOR IS NOW OPEN ***"
+	"*** Door is now open ***"
 	{
 		"trans"		"*** Door is now open ***"
 	}

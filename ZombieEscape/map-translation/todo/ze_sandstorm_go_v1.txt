@@ -128,4 +128,48 @@
 	{
 		"trans"		"** Do not come to the edge of the platform! **"
 	}
+	"** A player has picked up Heal Staff **"
+	{
+		"trans"		"** A player has picked up Heal Staff **"
+	}
+	">| ADMIN ROOM |< Level changed to 3. Kill all in 5 seconds."
+	{
+		"trans"		">| ADMIN ROOM |< Level changed to 3. Kill all in 5 seconds."
+	}
+	"** NOW YOU DIE! **"
+	{
+		"trans"		"** NOW YOU DIE! **"
+	}
+	"** Hold for 10 seconds. **"
+	{
+		"trans"		"** Hold for 10 seconds. **"
+	}
+	"*** YOU WON STAGE 5 ***"
+	{
+		"trans"		"*** YOU WON STAGE 5 ***"
+	}
+	">> ZM ROUND <<"
+	{
+		"trans"		">> ZM ROUND <<"
+	}
+	"** Victory in 150 seconds. **"
+	{
+		"trans"		"** Victory in 150 seconds. **"
+	}
+	"** Victory in 100 seconds. **"
+	{
+		"trans"		"** Victory in 100 seconds. **"
+	}
+	"** Victory in 50 seconds. **"
+	{
+		"trans"		"** Victory in 50 seconds. **"
+	}
+	"** Victory in 10 seconds. **"
+	{
+		"trans"		"** Victory in 10 seconds. **"
+	}
+	">> VICTORY <<"
+	{
+		"trans"		">> VICTORY <<"
+	}
 }

@@ -1,13 +1,5 @@
 "Chat"
 {
-	"*** You Must Wait For Your Team ***"
-	{
-		"trans"		"*** You Must Wait For Your Team ***"
-	}
-	"*** The Train Will Leave in 5 seconds ***"
-	{
-		"trans"		"*** The Train Will Leave in 5 seconds ***"
-	}
 	"*** Level B Door Opens in 15 Seconds ***"
 	{
 		"trans"		"*** Level B Door Opens in 15 Seconds ***"
@@ -20,49 +12,53 @@
 	{
 		"trans"		"*** Press RIGHT MOUSE BUTTON to freeze the water with this gun!! ***"
 	}
-	"*** HOLD LEFT MOUSE BUTTON to charge this plasma gun, and PRESS RIGHT MOUSE BUTTON TOGETHER TO SHOOT!! ***"
+	"*** WAIT WHILE THE PORTAL IS BEING OPENED!!!! ***"
 	{
-		"trans"		"*** HOLD LEFT MOUSE BUTTON to charge this plasma gun, and PRESS RIGHT MOUSE BUTTON TOGETHER TO SHOOT!! ***"
+		"trans"		"*** WAIT WHILE THE PORTAL IS BEING OPENED!!!! ***"
 	}
 	"*** THIS ELEVATOR IS HAUNTED, YOU MAY BE LUCKY IF YOU SURVIVE!!! ***"
 	{
 		"trans"		"*** THIS ELEVATOR IS HAUNTED, YOU MAY BE LUCKY IF YOU SURVIVE!!! ***"
 	}
-	"*** BREAK THE BLUE BARREL TO PLAY AS THE TANK!!! ***"
-	{
-		"trans"		"*** BREAK THE BLUE BARREL TO PLAY AS THE TANK!!! ***"
-	}
-	"*** WAIT WHILE THE PORTAL IS BEING OPENED!!!! ***"
-	{
-		"trans"		"*** WAIT WHILE THE PORTAL IS BEING OPENED!!!! ***"
-	}
-	"*** Exit Door Opens in 5 Seconds ***"
-	{
-		"trans"		"*** Exit Door Opens in 5 Seconds ***"
-	}
-	"*** To use the barricade hammer press LEFT MOUSE button for wood go up, RIGHT MOUSE for wood go down, and LEFT+RIGHT MOUSE button for place a wood barricade! ***"
-	{
-		"trans"		"*** To use the barricade hammer press LEFT MOUSE button for wood go up, RIGHT MOUSE for wood go down, and LEFT+RIGHT MOUSE button for place a wood barricade! ***"
-	}
-	"*** Level B Door Opens in 25 Seconds ***"
-	{
-		"trans"		"*** Level B Door Opens in 25 Seconds ***"
-	}
 	"*** THE ICE GUN HOLDER HAS 60 SECONDS TO LEAVE THE VENTS BEFORE THE ANTI CAMPER ACTIVATES! ***"
 	{
 		"trans"		"*** THE ICE GUN HOLDER HAS 60 SECONDS TO LEAVE THE VENTS BEFORE THE ANTI CAMPER ACTIVATES! ***"
+	}
+	"*** BREAK THE BLUE BARREL TO PLAY AS THE TANK!!! ***"
+	{
+		"trans"		"*** BREAK THE BLUE BARREL TO PLAY AS THE TANK!!! ***"
 	}
 	"*** For sugestions and bug reports or any information contact me on steam Steam Community ID --> JackBauer123 ***"
 	{
 		"trans"		"*** For sugestions and bug reports or any information contact me on steam Steam Community ID --> JackBauer123 ***"
 	}
+	"*** You Must Wait For Your Team ***"
+	{
+		"trans"		"*** You Must Wait For Your Team ***"
+	}
+	"*** HOLD LEFT MOUSE BUTTON to charge this plasma gun, and PRESS RIGHT MOUSE BUTTON TOGETHER TO SHOOT!! ***"
+	{
+		"trans"		"*** HOLD LEFT MOUSE BUTTON to charge this plasma gun, and PRESS RIGHT MOUSE BUTTON TOGETHER TO SHOOT!! ***"
+	}
+	"*** Exit Door Opens in 15 Seconds ***"
+	{
+		"trans"		"*** Exit Door Opens in 15 Seconds ***"
+	}
+	"*** To use the barricade hammer press LEFT MOUSE button for wood go up, RIGHT MOUSE for wood go down, and LEFT+RIGHT MOUSE button for place a wood barricade! ***"
+	{
+		"trans"		"*** To use the barricade hammer press LEFT MOUSE button for wood go up, RIGHT MOUSE for wood go down, and LEFT+RIGHT MOUSE button for place a wood barricade! ***"
+	}
+	"*** Exit Door Opens in 5 Seconds ***"
+	{
+		"trans"		"*** Exit Door Opens in 5 Seconds ***"
+	}
 	"*** THE ICE GUN HOLDER HAS 10 MORE SECONDS TO LEAVE THE VENTS BEFORE THE ANTI CAMPER ACTIVATES! ***"
 	{
 		"trans"		"*** THE ICE GUN HOLDER HAS 10 MORE SECONDS TO LEAVE THE VENTS BEFORE THE ANTI CAMPER ACTIVATES! ***"
 	}
-	"*** Detonation in 3 Seconds ***"
+	"*** Eletric Fence Disabled ***"
 	{
-		"trans"		"*** Detonation in 3 Seconds ***"
+		"trans"		"*** Eletric Fence Disabled ***"
 	}
 	"*** The Helicopter Will Depart in 30 seconds ***"
 	{
@@ -92,12 +88,36 @@
 	{
 		"trans"		"*** Rocket Launched ***"
 	}
-	"*** Press RIGHT MOUSE BUTTON to push things away with this gun! ***"
+	"*** Level B Door Opens in 25 Seconds ***"
 	{
-		"trans"		"*** Press RIGHT MOUSE BUTTON to push things away with this gun! ***"
+		"trans"		"*** Level B Door Opens in 25 Seconds ***"
+	}
+	"*** The Train Will Leave in 5 seconds ***"
+	{
+		"trans"		"*** The Train Will Leave in 5 seconds ***"
 	}
 	"*** THE BIG ROCK ON THE WOOD PLATFORM CAN BE BROKEN BY THE TANK WITH ARROUND 5 PUNCHS／ROCKS!!! ***"
 	{
 		"trans"		"*** THE BIG ROCK ON THE WOOD PLATFORM CAN BE BROKEN BY THE TANK WITH ARROUND 5 PUNCHS／ROCKS!!! ***"
+	}
+	"*** The Helicopter is coming ***"
+	{
+		"trans"		"*** The Helicopter is coming ***"
+	}
+	"*** Boat Leaving in 5 Seconds ***"
+	{
+		"trans"		"*** Boat Leaving in 5 Seconds ***"
+	}
+	"*** THE MOVING CHECKPOINT WILL GO TO THE SPACE AREA IN 15 SECONDS!! ***"
+	{
+		"trans"		"*** THE MOVING CHECKPOINT WILL GO TO THE SPACE AREA IN 15 SECONDS!! ***"
+	}
+	"*** Press RIGHT MOUSE BUTTON to push things away with this gun! ***"
+	{
+		"trans"		"*** Press RIGHT MOUSE BUTTON to push things away with this gun! ***"
+	}
+	"*** CASTLE DOOR IS CLOSING IN 5 SECONDS ***"
+	{
+		"trans"		"*** CASTLE DOOR IS CLOSING IN 5 SECONDS ***"
 	}
 }

@@ -52,20 +52,148 @@
 	{
 		"trans"		"** Exit door opening in 10 seconds! **"
 	}
+	"A player has aquired the soulsphere powerup!"
+	{
+		"trans"		"A player has aquired the soulsphere powerup!"
+	}
+	"Soulsphere power has 2 charges and a 120 second cooldown!"
+	{
+		"trans"		"Soulsphere power has 2 charges and a 120 second cooldown!"
+	}
+	"First soulsphere charge used!"
+	{
+		"trans"		"First soulsphere charge used!"
+	}
+	"Soulsphere first charge depleted!"
+	{
+		"trans"		"Soulsphere first charge depleted!"
+	}
+	"Soulsphere recharged!"
+	{
+		"trans"		"Soulsphere recharged!"
+	}
+	"Soulsphere final charge used!"
+	{
+		"trans"		"Soulsphere final charge used!"
+	}
 	"** Exit door opened! **"
 	{
 		"trans"		"** Exit door opened! **"
-	}
-	"** BAD WIN!! ZOMBIES DETECTED!! **"
-	{
-		"trans"		"** BAD WIN!! ZOMBIES DETECTED!! **"
 	}
 	"** Exit door closing in 15 seconds! **"
 	{
 		"trans"		"** Exit door closing in 15 seconds! **"
 	}
+	"Soulsphere power fully depleted!"
+	{
+		"trans"		"Soulsphere power fully depleted!"
+	}
 	"** Exit door closed! **"
 	{
 		"trans"		"** Exit door closed! **"
+	}
+	"** LEVEL: NO REST FOR LIVING **"
+	{
+		"trans"		"** LEVEL: NO REST FOR LIVING **"
+	}
+	"** Opening Door... **"
+	{
+		"trans"		"** Opening Door... **"
+	}
+	"** Door opening in 20 seconds! **"
+	{
+		"trans"		"** Door opening in 20 seconds! **"
+	}
+	"** Door Opened **"
+	{
+		"trans"		"** Door Opened **"
+	}
+	"** Door Opening in 15 Seconds !!!**"
+	{
+		"trans"		"** Door Opening in 15 Seconds !!!**"
+	}
+	"** Opening door in 20 Seconds **"
+	{
+		"trans"		"** Opening door in 20 Seconds **"
+	}
+	"** Opening door in 10 Seconds **"
+	{
+		"trans"		"** Opening door in 10 Seconds **"
+	}
+	"** Elevator Leaving in 35 Seconds...**"
+	{
+		"trans"		"** Elevator Leaving in 35 Seconds...**"
+	}
+	"** Elevator Leaving in 10 Seconds...**"
+	{
+		"trans"		"** Elevator Leaving in 10 Seconds...**"
+	}
+	"** BAD WIN!! ZOMBIES DETECTED **"
+	{
+		"trans"		"** BAD WIN!! ZOMBIES DETECTED **"
+	}
+	"** LEVEL: NIGHTMARE **"
+	{
+		"trans"		"** LEVEL: NIGHTMARE **"
+	}
+	"** Door opening in 40 seconds! **"
+	{
+		"trans"		"** Door opening in 40 seconds! **"
+	}
+	"** Opening door in 10 seconds... **"
+	{
+		"trans"		"** Opening door in 10 seconds... **"
+	}
+	"** Opening X door in few seconds **"
+	{
+		"trans"		"** Opening X door in few seconds **"
+	}
+	"** Teleport active in 40 seconds! **"
+	{
+		"trans"		"** Teleport active in 40 seconds! **"
+	}
+	"** Teleport active in 10 seconds! **"
+	{
+		"trans"		"** Teleport active in 10 seconds! **"
+	}
+	"** Teleport active! **"
+	{
+		"trans"		"** Teleport active! **"
+	}
+	"A player has aquired berserker powerup!"
+	{
+		"trans"		"A player has aquired berserker powerup!"
+	}
+	"Berserker powerup has one charge!"
+	{
+		"trans"		"Berserker powerup has one charge!"
+	}
+	"Beserker has been enabled!"
+	{
+		"trans"		"Beserker has been enabled!"
+	}
+	"Beserker charge depleting in 3"
+	{
+		"trans"		"Beserker charge depleting in 3"
+	}
+	"Beserker charge depleting in 2"
+	{
+		"trans"		"Beserker charge depleting in 2"
+	}
+	"Beserker charge depleting in 1"
+	{
+		"trans"		"Beserker charge depleting in 1"
+	}
+	"Beserker charge fully depleted!"
+	{
+		"trans"		"Beserker charge fully depleted!"
+	}
+	"** BAD WIN!! ZOMBIES DETECTED!! **"
+	{
+		"trans"		"** BAD WIN!! ZOMBIES DETECTED!! **"
+	}
+	"** Killing exit room in 10 seconds! **"
+	{
+		"trans"		"** Killing exit room in 10 seconds! **"
 	}
 }
