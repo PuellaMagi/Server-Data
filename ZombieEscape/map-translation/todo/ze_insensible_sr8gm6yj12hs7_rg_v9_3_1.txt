@@ -700,4 +700,3 @@
 	{
 		"trans"		"<== [Side] Short ready time ==>"
 	}
-}
