@@ -2,219 +2,219 @@
 {
 	"<== Map made by qazlll456 [Hong Kong]==>"
 	{
-		"trans"		"<== Map made by qazlll456 [Hong Kong]==>"
+		"trans"		"<== µØÍ¼ÓÉ qazlll456 [Hong Kong] ÖÆ×÷ ·­Òë havoc  SBMAP700¶àĞĞ·­Òë==>"
 	}
 	"<== Also Thank [Syoudous] for helping testing the map ==>"
 	{
-		"trans"		"<== Also Thank [Syoudous] for helping testing the map ==>"
+		"trans"		"<== ¸ĞĞ» [Syoudous] Ğ­Öú²âÊÔ ==>"
 	}
 	"<== The most recent version is in Mapeadores ==>"
 	{
-		"trans"		"<== The most recent version is in Mapeadores ==>"
+		"trans"		"<== ×îĞÂ°æ±¾ÔÚ Mapeadores ÉÏ==>"
 	}
-	"<== Get up the base and escape this place==>"
+	"<== Get up the base and escape this place ==>"
 	{
-		"trans"		"<== Get up the base and escape this place==>"
+		"trans"		"<== ´Ó»ùµØ³öÀ´²¢ÌÓÀëÕâ¸öµØ·½ ==>"
 	}
 	"<== Current Level : ultimate super most extreme easy==>"
 	{
-		"trans"		"<== Current Level : ultimate super most extreme easy==>"
+		"trans"		"<== µ±Ç°ÒôÀÖ : ultimate super most extreme easy ==>"
 	}
 	"<== One and only one level, hope you guys enjoy it==>"
 	{
-		"trans"		"<== One and only one level, hope you guys enjoy it==>"
+		"trans"		"<== ÓĞÇÒ½öÓĞÒ»¹Ø ==>"
 	}
 	"<== Map play time around 18-25min==>"
 	{
-		"trans"		"<== Map play time around 18-25min==>"
+		"trans"		"<== ÓÎÍæÊ±¼ä´ó¸ÅÔÚ18-25·ÖÖÓ ==>"
 	}
 	"<== Do not reach the top of this column==>"
 	{
-		"trans"		"<== Do not reach the top of this column==>"
+		"trans"		"<== ±ğµ½Õâ¸öÖù×Ó¶¥¶Ë {red}×ĞÏ¸¿´ÉÏÃæÓĞµ¹´Ì{red}==>"
 	}
 	"<== Current background music: johnson lee + justin lo - way out (uu1r1)==>"
 	{
-		"trans"		"<== Current background music: johnson lee + justin lo - way out (uu1r1)==>"
+		"trans"		"<== µ±Ç°ÒôÀÖ: johnson lee + justin lo - way out (uu1r1)==>"
 	}
 	"<== This base is doing something secret experiment ==>"
 	{
-		"trans"		"<== This base is doing something secret experiment ==>"
+		"trans"		"<== ÕâÊÇÒ»¸öÃØÃÜ»ùµØ ==>"
 	}
 	"<== You need to find the way out and get out this base ==>"
 	{
-		"trans"		"<== You need to find the way out and get out this base ==>"
+		"trans"		"<== ÄãĞèÒªÕÒµ½Ò»ÌõÂ·Àë¿ªÕâ¸ö»ùµØ ==>"
 	}
 	"<== You can get in the secret experiment place in 30 second ==>"
 	{
-		"trans"		"<== You can get in the secret experiment place in 30 second ==>"
+		"trans"		"<== Äã¿ÉÒÔÔÚ 30 ÃëÄÚÀë¿ªÕâ¸ö»ùµØ		==>"
 	}
 	"<== Secret experiment can be enter in 15 second ==>"
 	{
-		"trans"		"<== Secret experiment can be enter in 15 second ==>"
+		"trans"		"<== »ùµØÔÚ 15 ÃëÄÚ¿ÉÒÔ½øÈë ==>"
 	}
 	"<== Current background music: taiwan_song richie jen look over here, girl ==>"
 	{
-		"trans"		"<== Current background music: taiwan_song richie jen look over here, girl ==>"
+		"trans"		"<== µ±Ç°ÒôÀÖ: taiwan_song richie jen look over here, girl ==>"
 	}
 	"<== You entered helicopter field, the helicopter may active in 30 second==>"
 	{
-		"trans"		"<== You entered helicopter field, the helicopter may active in 30 second==>"
+		"trans"		"<== Äã½øÈëÁËÖ±Éı»ú³¡£¬Ö±Éı»ú½«ÔÚ 30 ÃëÄÚÆô¶¯ ==>"
 	}
 	"<= The helicopter may active in 15 second==>"
 	{
-		"trans"		"<= The helicopter may active in 15 second==>"
+		"trans"		"<= Ö±Éı»ú{red}¿ÉÄÜ{red}ÔÚ 15 ºóÄÚÆô¶¯ ==>"
 	}
 	"<== Secret experiment can be enter in 5 second ==>"
 	{
-		"trans"		"<== Secret experiment can be enter in 5 second ==>"
+		"trans"		"<== »ùµØÔÚ 5 ÃëÄÚ¿ÉÒÔ½øÈë ==>"
 	}
 	"<= The helicopter may active in 5 second==>"
 	{
-		"trans"		"<= The helicopter may active in 5 second==>"
+		"trans"		"<= Ö±Éı»ú{red}¿ÉÄÜ{red}ÔÚ 5 ºóÄÚÆô¶¯ ==>"
 	}
 	"<= the helicopter has stopped suddenly ==>"
 	{
-		"trans"		"<= the helicopter has stopped suddenly ==>"
+		"trans"		"<= Ö±Éı»úÍ»È»Í£Ö¹ÁË ==>"
 	}
 	"<== Zombie teleport up place in 5 second==>"
 	{
-		"trans"		"<== Zombie teleport up place in 5 second==>"
+		"trans"		"<== ½©Ê¬ÔÚ5Ãëºó´«ËÍ ==>"
 	}
 	"<== Teleport exit can be use in 20s ==>"
 	{
-		"trans"		"<== Teleport exit can be use in 20s ==>"
+		"trans"		"<== ´«ËÍ³ö¿ÚÔÚ 20 ÃëÄÚ¿ÉÓÃ ==>"
 	}
 	"<== Teleport exit can be use in 5s ==>"
 	{
-		"trans"		"<== Teleport exit can be use in 5s ==>"
+		"trans"		"<== ´«ËÍ³ö¿ÚÔÚ 15 ÃëÄÚ¿ÉÓÃ ==>"
 	}
 	"<== Jump inside ! ==>"
 	{
-		"trans"		"<== Jump inside ! ==>"
+		"trans"		"<== Ìø½øÈ¥£¡==>"
 	}
 	"<== Information you need to know: ==>"
 	{
-		"trans"		"<== Information you need to know: ==>"
+		"trans"		"<== ÒÔÏÂÊÇÄãĞèÒªÖªµÀµÄĞÅÏ¢: ==>"
 	}
 	"<== If you teleport in black area, Run to red area ==>"
 	{
-		"trans"		"<== If you teleport in black area, Run to red area ==>"
+		"trans"		"<== Èç¹ûÄã´«ËÍµ½ºÚÉ«ÇøÓò £¬ÅÜÈëºìÉ«ÇøÓò ==>"
 	}
 	"<== The rainbow subway are line like : ==>"
 	{
-		"trans"		"<== The rainbow subway are line like : ==>"
+		"trans"		"<== µØÌúÏß¾ÍÏñÒ»Ìõ²Êºç : ==>"
 	}
 	"<== Black > Red > Orange > Yellow > Green > Teal > Blue > Purple > white ==>"
 	{
-		"trans"		"<== Black > Red > Orange > Yellow > Green > Teal > Blue > Purple > white ==>"
+		"trans"		"<== ºÚ > ºì > ³È > »Æ > ÂÌ > Ë®Ñ¼É« > À¶ > ×ÏÉ« > °× ==>"
 	}
 	"<== Remember touch the door to open it ==>"
 	{
-		"trans"		"<== Remember touch the door to open it ==>"
+		"trans"		"<== ¼ÇµÃÌùÃÅÀ´´ò¿ªÃÅ ==>"
 	}
 	"<== There is 9 area in there, your target is white==>"
 	{
-		"trans"		"<== There is 9 area in there, your target is white==>"
+		"trans"		"<== ÓĞ9¸öÇøÓò, ÄãµÄÄ¿±êÊÇ°×É«ÇøÓò==>"
 	}
 	"<== First area will clear in 3 second==>"
 	{
-		"trans"		"<== First area will clear in 3 second==>"
+		"trans"		"<== µÚÒ»¸öÇøÓò½«ÔÚ 3 ÃëÄÚÇå³ı ==>"
 	}
 	"<== Try to live longer , It not metter skill, It talk about luck ==>"
 	{
-		"trans"		"<== Try to live longer , It not metter skill, It talk about luck ==>"
+		"trans"		"<== ¾¡Á¿»îµÄ¸ü¾Ã£¬Õâ¾Í¿´ÔËÆøÁË ==>"
 	}
 	"<==red area door will open in 10second==>"
 	{
-		"trans"		"<==red area door will open in 10second==>"
+		"trans"		"<== ºìÉ«ÇøÓò½«ÔÚ 10 Ãëºó¿ªÆô ==>"
 	}
 	"<==orange area door will open in 15second ==>"
 	{
-		"trans"		"<==orange area door will open in 15second ==>"
+		"trans"		"<== ³ÈÉ«ÇøÓò½«ÔÚ 15 Ãëºó¿ªÆô ==>"
 	}
 	"<==orange area door will open in 5second ==>"
 	{
-		"trans"		"<==orange area door will open in 5second ==>"
+		"trans"		"<== ³ÈÉ«ÇøÓò½«ÔÚ 5 Ãëºó¿ªÆô ==>"
 	}
 	"<==blue area door will open in 35second ==>"
 	{
-		"trans"		"<==blue area door will open in 35second ==>"
+		"trans"		"<== À¶É«ÇøÓò½«ÔÚ 35 Ãëºó¿ªÆô ==>"
 	}
 	"<== Teleport active in 25second ==>"
 	{
-		"trans"		"<== Teleport active in 25second ==>"
+		"trans"		"<== ´«ËÍ³ö¿ÚÔÚ 25 Ãëºó¼¤»î ==>"
 	}
 	"<==blue area door will open in 5second ==>"
 	{
-		"trans"		"<==blue area door will open in 5second ==>"
+		"trans"		"<== À¶É«ÇøÓò½«ÔÚ 5 Ãëºó¿ªÆô ==>"
 	}
 	"<== Teleport active in 15second ==>"
 	{
-		"trans"		"<== Teleport active in 15second ==>"
+		"trans"		"<== ´«ËÍ³ö¿ÚÔÚ 15 Ãëºó¼¤»î ==>"
 	}
 	"<== Teleport active in 5second ==>"
 	{
-		"trans"		"<== Teleport active in 5second ==>"
+		"trans"		"<== ´«ËÍ³ö¿ÚÔÚ 5 Ãëºó¼¤»î ==>"
 	}
 	"<== Get inside and go press the button on the wall!==>"
 	{
-		"trans"		"<== Get inside and go press the button on the wall!==>"
+		"trans"		"<== ¿ì½øÈ¥,È»ºó°´Ç½ÉÏµÄ°´Å¥! ==>"
 	}
 	"<== Everyone not longer in subway in 10 second==>"
 	{
-		"trans"		"<== Everyone not longer in subway in 10 second==>"
+		"trans"		"<== ËùÓĞÈËÔÚ 10 ÃëÄÚÀë¿ªµØÌú ==>"
 	}
 	"<== Lab entrance will be open in 5s ==>"
 	{
-		"trans"		"<== Lab entrance will be open in 5s ==>"
+		"trans"		"<== ÊµÑéÊÒÈë¿Ú½«ÔÚ 5 ÃëÄÚ´ò¿ª ==>"
 	}
 	"<==First door take 5 second to open ==>"
 	{
-		"trans"		"<==First door take 5 second to open ==>"
+		"trans"		"<== µÚÒ»¸öÃÅÔÚ 5 Ãëºó´ò¿ª ==>"
 	}
 	"<==second door take 10 second to open ==>"
 	{
-		"trans"		"<==second door take 10 second to open ==>"
+		"trans"		"<== µÚ¶ş¸öÃÅÔÚ 10 Ãëºó´ò¿ª ==>"
 	}
 	"<==teal area door will open in 30second==>"
 	{
-		"trans"		"<==teal area door will open in 30second==>"
+		"trans"		"<== Ë®Ñ¼É«ÇøÓòÔÚ 10 Ãëºó´ò¿ª==>"
 	}
 	"<==teal area door will open in 5second==>"
 	{
-		"trans"		"<==teal area door will open in 5second==>"
+		"trans"		"<== Ë®Ñ¼É«ÇøÓòÔÚ 5 Ãëºó´ò¿ª ==>"
 	}
 	"<==Exit teleport can be use in 30s ==>"
 	{
-		"trans"		"<==Exit teleport can be use in 30s ==>"
+		"trans"		"<== ´«ËÍ³ö¿ÚÔÚ 30 ÃëÄÚ¿ÉÓÃ ==>"
 	}
 	"<==Lab Weapon is ready to charge  ==>"
 	{
-		"trans"		"<==Lab Weapon is ready to charge  ==>"
+		"trans"		"<== ÊÔÑéÎäÆ÷×¼±¸³ö»÷  ==>"
 	}
 	"<==Lab Weapon charge 0% ==>"
 	{
-		"trans"		"<==Lab Weapon charge 0% ==>"
+		"trans"		"<== ÊÔÑéÎäÆ÷³äÄÜ 0% ==>"
 	}
 	"<==Lab Weapon charge 25% ==>"
 	{
-		"trans"		"<==Lab Weapon charge 25% ==>"
+		"trans"		"<== ÊÔÑéÎäÆ÷³äÄÜ 25% ==>"
 	}
 	"<==Lab Weapon charge 50% ==>"
 	{
-		"trans"		"<==Lab Weapon charge 50% ==>"
+		"trans"		"<== ÊÔÑéÎäÆ÷³äÄÜ 50% ==>"
 	}
 	"<==Lab Weapon charge 75% ==>"
 	{
-		"trans"		"<==Lab Weapon charge 75% ==>"
+		"trans"		"<== ÊÔÑéÎäÆ÷³äÄÜ 75% ==>"
 	}
 	"<==Lab Weapon will kill all zombie in front of it ==>"
 	{
-		"trans"		"<==Lab Weapon will kill all zombie in front of it ==>"
+		"trans"		"<== ÊÔÑéÎäÆ÷½«»÷É±ËüÃæÇ°µÄËùÓĞ½©Ê¬ ==>"
 	}
 	"<==Exit teleport can be use in 15s ==>"
 	{
-		"trans"		"<==Exit teleport can be use in 15s ==>"
+		"trans"		"<== ´«ËÍ³ö¿ÚÔÚ 15 ÃëÄÚ¿ÉÓÃ ==>"
 	}
 	"<==Shield for Awp item it will not broke ==>"
 	{
@@ -222,183 +222,183 @@
 	}
 	"<==You can take Awp item after 3 second==>"
 	{
-		"trans"		"<==You can take Awp item after 3 second==>"
+		"trans"		"<== Äã¿ÉÒÔÔÚ 3 ÃëÄÚ¼ñÈ¡ AWP ÉñÆ÷ ==>"
 	}
 	"<==Exit teleport can be use in 5s ==>"
 	{
-		"trans"		"<==Exit teleport can be use in 5s ==>"
+		"trans"		"<== ´«ËÍ³ö¿ÚÔÚ 5 ÃëÄÚ¿ÉÓÃ ==>"
 	}
 	"<==Shoot !!==>"
 	{
-		"trans"		"<==Shoot !!==>"
+		"trans"		"<== Éä»÷ !!==>"
 	}
 	"<== Zombie teleport inside in 10 second==>"
 	{
-		"trans"		"<== Zombie teleport inside in 10 second==>"
+		"trans"		"<== ½©Ê¬ÔÚ 10 Ãëºó´«ËÍ ==>"
 	}
 	"<== Current background music:  steven ma - mk1yp8 ==>"
 	{
-		"trans"		"<== Current background music:  steven ma - mk1yp8 ==>"
+		"trans"		"<== µ±Ç°ÒôÀÖ:  steven ma - mk1yp8 ==>"
 	}
 	"<==Lab Weapon charge 90% ==>"
 	{
-		"trans"		"<==Lab Weapon charge 90% ==>"
+		"trans"		"<== ÊÔÑéÎäÆ÷³äÄÜ 90% ==>"
 	}
 	"<==Lab Weapon has been disable ==>"
 	{
-		"trans"		"<==Lab Weapon has been disable ==>"
+		"trans"		"<== ÊÔÑéÎäÆ÷±»´İ»Ù ==>"
 	}
 	"<== teleport active in 45 second==>"
 	{
-		"trans"		"<== teleport active in 45 second==>"
+		"trans"		"<== ´«ËÍµãÔÚ 45 Ãëºó¼¤»î ==>"
 	}
 	"<== Zombie on attack positon in 5 second==>"
 	{
-		"trans"		"<== Zombie on attack positon in 5 second==>"
+		"trans"		"<== ½©Ê¬½«ÔÚ 5 Ãëºó½ø¹¥ ==>"
 	}
 	"<== teleport active in 30 second==>"
 	{
-		"trans"		"<== teleport active in 30 second==>"
+		"trans"		"<== ´«ËÍÔÚ 30 Ãëºó¼¤»î ==>"
 	}
 	"<== teleport active in 15 second==>"
 	{
-		"trans"		"<== teleport active in 15 second==>"
+		"trans"		"<== ´«ËÍÔÚ 15 Ãëºó¼¤»î ==>"
 	}
 	"<== teleport active in 5 second==>"
 	{
-		"trans"		"<== teleport active in 5 second==>"
+		"trans"		"<== ´«ËÍÔÚ 5 Ãëºó¼¤»î ==>"
 	}
 	"<== Zombie after 10 second will teleport to this area ==>"
 	{
-		"trans"		"<== Zombie after 10 second will teleport to this area ==>"
+		"trans"		"<== ½©Ê¬ÔÚ 10 Ãëºó´«ËÍ ==>"
 	}
 	"<==When zombie come in this area, human will fall down to the water and no teleport for fall down ==>"
 	{
-		"trans"		"<==When zombie come in this area, human will fall down to the water and no teleport for fall down ==>"
+		"trans"		"<== µ±½©Ê¬½øÈëÕâ¸öÇøÓò£¬ÈËÀà»áµôÈëË®ÖĞ²¢ÇÒ²»»á±»´«ËÍ ==>"
 	}
 	"<==You may need to press something? ==>"
 	{
-		"trans"		"<==You may need to press something? ==>"
+		"trans"		"<== Äã¿ÉÄÜĞèÒª°´ÏÂÊ²Ã´°´Å¥? ==>"
 	}
 	"<==Wooden help path will clear in 5second ==>"
 	{
-		"trans"		"<==Wooden help path will clear in 5second ==>"
+		"trans"		"<== Ä¾ÖÊÂ·ÕÏ½«»áÔÚ 5 ÃëÄÚÇå³ı	==>"
 	}
 	"<== Door open in 20s ==>"
 	{
-		"trans"		"<== Door open in 20s ==>"
+		"trans"		"<== ÃÅÔÚ 20 Ãëºó´ò¿ª ==>"
 	}
 	"<== Get in the dugout and defend totall 1 min==>"
 	{
-		"trans"		"<== Get in the dugout and defend totall 1 min==>"
+		"trans"		"<== ½øÈëÕâ¸ö¶ÀÄ¾ÖÛ±ø·ÀÊØ 1 ·ÖÖÓ ==>"
 	}
 	"<== Incorrect input ==>"
 	{
-		"trans"		"<== Incorrect input ==>"
+		"trans"		"<== ²»ÕıÈ·µÄÊäÈë ==>"
 	}
 	"<== somthing coming in 5 secoud ==>"
 	{
-		"trans"		"<== somthing coming in 5 secoud ==>"
+		"trans"		"<== Ê²Ã´¶«Î÷»áÔÚ 5 Ãëºóµ½À´ ==>"
 	}
 	"<== human need to stay inside to get teleport out side this area ==>"
 	{
-		"trans"		"<== human need to stay inside to get teleport out side this area ==>"
+		"trans"		"<== ÈËÀàĞèÒª´ôÔÚÕâµÈ´ı´«ËÍ ==>"
 	}
 	"<== Teleport will active when you arrive blue area ==>"
 	{
-		"trans"		"<== Teleport will active when you arrive blue area ==>"
+		"trans"		"<== µ±Äãµ½´ïÀ¶É«ÇøÓò´«ËÍ½«±»¼¤»î ==>"
 	}
 	"<== Current background music : Ellie Goulding - Love Me Like You Do ==>"
 	{
-		"trans"		"<== Current background music : Ellie Goulding - Love Me Like You Do ==>"
+		"trans"		"<== µ±Ç°ÒôÀÖ : Ellie Goulding - Love Me Like You Do ==>"
 	}
 	"<== Welcome to the non-bhop area! ==>"
 	{
-		"trans"		"<== Welcome to the non-bhop area! ==>"
+		"trans"		"<== »¶Ó­À´µ½ non-bhop ÇøÓò! ==>"
 	}
 	"<== Get in the centre by the green path ==>"
 	{
-		"trans"		"<== Get in the centre by the green path ==>"
+		"trans"		"<== ÑØ×ÅÂÌÉ«Í¨µÀµ½´ïÖĞĞÄ ==>"
 	}
 	"<== Fall down to the red plcae will teleport to start ==>"
 	{
-		"trans"		"<== Fall down to the red plcae will teleport to start ==>"
+		"trans"		"<== µôÈëºìÉ«ÇøÓò½«»á´«ËÍÖÁÆğµã ==>"
 	}
 	"<== the escape teleport only in the certre place ==>"
 	{
-		"trans"		"<== the escape teleport only in the certre place ==>"
+		"trans"		"<== ÕıÈ·µÄÌÓÉú´«ËÍµãÔÚÖĞĞÄÇøÓò ==>"
 	}
 	"<==yellow item human area speed buff in 5 second ==>"
 	{
-		"trans"		"<==yellow item human area speed buff in 5 second ==>"
+		"trans"		"<== »ÆÉ«ÇøÓòµÄÈËÀà½«ÔÚ 5 Ãëºó¼ÓËÙ ==>"
 	}
 	"<== yellow item human area speed buff now available==>"
 	{
-		"trans"		"<== yellow item human area speed buff now available==>"
+		"trans"		"<== »ÆÉ«ÇøÓòµÄÈËÀà¿ªÊ¼¼ÓËÙ ==>"
 	}
 	"<== yellow item zombie push in 5s ==>"
 	{
-		"trans"		"<== yellow item zombie push in 5s ==>"
+		"trans"		"<== »ÆÉ«ÇøÓòµÄ½©Ê¬½«ÔÚ 5 Ãë±»ÍÆ½ø ==>"
 	}
 	"<==Yellow UI self destruct in 5 second==>"
 	{
-		"trans"		"<==Yellow UI self destruct in 5 second==>"
+		"trans"		"<==»ÆÉ« UI ÔÚ 5 Ãëºó×Ô»Ù==>"
 	}
 	"<== yellow item zombie push now available==>"
 	{
-		"trans"		"<== yellow item zombie push now available==>"
+		"trans"		"<== »ÆÉ«ÇøÓòµÄ½©Ê¬ÏÖÔÚÍÆ½ø ==>"
 	}
 	"<== Human teleport active in 20s ==>"
 	{
-		"trans"		"<== Human teleport active in 20s ==>"
+		"trans"		"<== ÈËÀà´«ËÍ½«»áÔÚ 20 Ãëºó¼¤»î ==>"
 	}
 	"<== Zombie teleport to next area in 10s ==>"
 	{
-		"trans"		"<== Zombie teleport to next area in 10s ==>"
+		"trans"		"<== ½©Ê¬ÔÚ 10 Ãëºó´«ËÍÖÁÏÂÒ»ÇøÓò ==>"
 	}
 	"<== Forward! clear the path way and defend your self!==>"
 	{
-		"trans"		"<== Forward! clear the path way and defend your self!==>"
+		"trans"		"<== Ç°½ø£¡ÇåÀíµÀÂ·²¢±£»¤ºÃÄã×Ô¼º==>"
 	}
 	"<== Current background music : Otto Knows - Million Voices ==>"
 	{
-		"trans"		"<== Current background music : Otto Knows - Million Voices ==>"
+		"trans"		"<== µ±Ç°ÒôÀÖ : Otto Knows - Million Voices ==>"
 	}
 	"<== You should worry those gun tower in your path way==>"
 	{
-		"trans"		"<== You should worry those gun tower in your path way==>"
+		"trans"		"<== ÄãĞèÒª×¢ÒâÂ·ÉÏµÄÅÚËş ==>"
 	}
 	"<== Gate take 5 second to open ==>"
 	{
-		"trans"		"<== Gate take 5 second to open ==>"
+		"trans"		"<== ÃÅĞèÒª 5 Ãë´ò¿ª ==>"
 	}
 	"<== Invisable wall will be gone in 20 second==>"
 	{
-		"trans"		"<== Invisable wall will be gone in 20 second==>"
+		"trans"		"<== Ç½ÔÚ 20 ÃëºóÏûÊ§==>"
 	}
 	"<== Do something to go! ==>"
 	{
-		"trans"		"<== Do something to go! ==>"
+		"trans"		"<== ×öµãÊ²Ã´ÊÂÓÃÀ´Àë¿ª! ==>"
 	}
 	"<== Door will open in 5 second ==>"
 	{
-		"trans"		"<== Door will open in 5 second ==>"
+		"trans"		"<== ÃÅÔÚ 5 Ãëºó´ò¿ª ==>"
 	}
 	"<== You need to defend this area to wait something coming==>"
 	{
-		"trans"		"<== You need to defend this area to wait something coming==>"
+		"trans"		"<== ÄãĞèÒªÔÚ´Ë·ÀÊØÖ±ÖÁÊ²Ã´¶«Î÷µ½À´ ==>"
 	}
 	"<== Someone said : hi i am something, i helping you to get you out ==>"
 	{
-		"trans"		"<== Someone said : hi i am something, i helping you to get you out ==>"
+		"trans"		"<== Ê²Ã´¶«Î÷Ëµ : hi ÎÒÊÇÊ²Ã´¶«Î÷, ÎÒÕıÔÚ°ïÖúÄãÀë¿ª ==>"
 	}
 	"<== Something said : but it might take me a little while ==>"
 	{
-		"trans"		"<== Something said : but it might take me a little while ==>"
+		"trans"		"<== Ê²Ã´¶«Î÷Ëµ : ²»¹ıÕâĞèÒªÒ»Ğ©Ê±¼ä ==>"
 	}
 	"<== Something said : so do you want me to tell you a story? ==>"
 	{
-		"trans"		"<== Something said : so do you want me to tell you a story? ==>"
+		"trans"		"<== µ×ÏÂÊÇÀ¬»øÆ¨»°£¬Ó¢ÓïºÃµÄ×Ô¼º¿´ ==>"
 	}
 	"<== Something said : There’s this emperor, and he asks the shepherd’s boy ==>"
 	{
@@ -410,11 +410,11 @@
 	}
 	"<== Something said : And the shepherd’s boy says ==>"
 	{
-		"trans"		"<== Something said : And the shepherd’s boy says ==>"
+		"trans"		"<== Something said : And the shepherd boy says ==>"
 	}
 	"<== Something said :‘There’s this mountain of pure diamond. ==>"
 	{
-		"trans"		"<== Something said :‘There’s this mountain of pure diamond. ==>"
+		"trans"		"<== Something said :here this mountain of pure diamond. ==>"
 	}
 	"<== Something said : It takes an hour to climb it and an hour to go around it ==>"
 	{
@@ -442,107 +442,107 @@
 	}
 	"<== Something said : Personally, I think that’s a hell of a bird.==>"
 	{
-		"trans"		"<== Something said : Personally, I think that’s a hell of a bird.==>"
+		"trans"		"<== Something said : Personally, I think that a hell of a bird.==>"
 	}
 	"<== Something said : You can go now!.==>"
 	{
-		"trans"		"<== Something said : You can go now!.==>"
+		"trans"		"<== ÏÖÔÚÄãÄÜÀë¿ªÁË ==>"
 	}
-	"<==Human defend castle ï¼ Zombie attack castle ==>"
+	"<==Human defend castle ï¼?Zombie attack castle ==>"
 	{
-		"trans"		"<==Human defend castle ï¼ Zombie attack castle ==>"
+		"trans"		"<== ÈËÀà±£ÎÀ³Ç±¤ ½©Ê¬¹¥»÷³Ç±¤ ==>"
 	}
 	"<==Three signals night on top of the gate, each signals night represents a door==>"
 	{
-		"trans"		"<==Three signals night on top of the gate, each signals night represents a door==>"
+		"trans"		"<== Èı¸öÍíÉÏµÄĞÅºÅÃÅ,Ã¿¸öÍíÉÏĞÅºÅ´ú±íÒ»¸öÃÅ ==>"
 	}
 	"<==Human are not able to break the gate in anyway ==>"
 	{
-		"trans"		"<==Human are not able to break the gate in anyway ==>"
+		"trans"		"<== ÈËÀàÎŞ·¨´òÆÆÃÅ ==>"
 	}
 	"<== Green place add human hp to 250 ==>"
 	{
-		"trans"		"<== Green place add human hp to 250 ==>"
+		"trans"		"<== ÔÚÂÌÉ«ÇøÓòµÄÈËÀà»á±ä³É 250 HP ==>"
 	}
 	"<== 2 min counter start by now!==>"
 	{
-		"trans"		"<== 2 min counter start by now!==>"
+		"trans"		"<==  2 ·ÖÖÓµ¹¼ÆÊ±==>"
 	}
 	"<== Zombie already outside base==>"
 	{
-		"trans"		"<== Zombie already outside base==>"
+		"trans"		"<== ½©Ê¬µ½´ïÁËÍâÃæ ==>"
 	}
 	"<== Current background music : (2x fast forward time)Eason Chan - ai2op2ss1jb9 ==>"
 	{
-		"trans"		"<== Current background music : (2x fast forward time)Eason Chan - ai2op2ss1jb9 ==>"
+		"trans"		"<== µ±Ç°ÒôÀÖ : (2x fast forward time)Eason Chan - ai2op2ss1jb9 ==>"
 	}
 	"<==Zombie pass the Wall! ==>"
 	{
-		"trans"		"<==Zombie pass the Wall! ==>"
+		"trans"		"<== ½©Ê¬Í¨¹ıÁËÇ½ ==>"
 	}
 	"<== Human get teleport to next area in : 1m 30s ==>"
 	{
-		"trans"		"<== Human get teleport to next area in : 1m 30s ==>"
+		"trans"		"<== ÈËÀà½«ÓÚ 90 Ãëºó´«ËÍÖÁÏÂÒ»ÇøÓò ==>"
 	}
 	"<==Zombie pass the gate! ==>"
 	{
-		"trans"		"<==Zombie pass the gate! ==>"
+		"trans"		"<== ½©Ê¬Í¨¹ıÁË´óÃÅ ==>"
 	}
 	"<==protection of the office will broke in 45second ==>"
 	{
-		"trans"		"<==protection of the office will broke in 45second ==>"
+		"trans"		"<== °ì¹«ÊÒ½«ÓÚ 45 Ãëºó´İ»Ù ==>"
 	}
 	"<==You do something good to human ==>"
 	{
-		"trans"		"<==You do something good to human ==>"
+		"trans"		"<== Äã×öÁËÒ»Ğ©¶ÔÈËÀàÓĞÀûµÄÊÂ ==>"
 	}
 	"<== Human get teleport to next area in : 1m 0s ==>"
 	{
-		"trans"		"<== Human get teleport to next area in : 1m 0s ==>"
+		"trans"		"<== ÈËÀà½«ÓÚ 60 Ãëºó´«ËÍÖÁÏÂÒ»ÇøÓò ==>"
 	}
 	"<== Human get teleport to next area in : 0m 30s ==>"
 	{
-		"trans"		"<== Human get teleport to next area in : 0m 30s ==>"
+		"trans"		"<== ÈËÀà½«ÓÚ 30 Ãëºó´«ËÍÖÁÏÂÒ»ÇøÓò ==>"
 	}
 	"<== Human get teleport to next area in : 0m 15s ==>"
 	{
-		"trans"		"<== Human get teleport to next area in : 0m 15s ==>"
+		"trans"		"<== ÈËÀà½«ÓÚ 15 Ãëºó´«ËÍÖÁÏÂÒ»ÇøÓò ==>"
 	}
 	"<== Human get teleport to next area in : 0m 5s ==>"
 	{
-		"trans"		"<== Human get teleport to next area in : 0m 5s ==>"
+		"trans"		"<== ÈËÀà½«ÓÚ 5 Ãëºó´«ËÍÖÁÏÂÒ»ÇøÓò ==>"
 	}
 	"<==Line1 : Warm up==>"
 	{
-		"trans"		"<==Line1 : Warm up==>"
+		"trans"		"<==Line1 : ÈÈÉí==>"
 	}
 	"<== When you get on next line, you need wait 3 second to open the door ==>"
 	{
-		"trans"		"<== When you get on next line, you need wait 3 second to open the door ==>"
+		"trans"		"<== µ±Äãµ½´ïÏÂÒ»ÌõÏß£¬ÄãĞèÒªµÈ´ı3ÃëÀ´´ò¿ªÃÅ ==>"
 	}
 	"<== You need to keep go to next area untill you get exit on up place ==>"
 	{
-		"trans"		"<== You need to keep go to next area untill you get exit on up place ==>"
+		"trans"		"<== ÄãĞèÒª¼ÌĞøÈ¥ÏÂÒ»¸öÇøÓòÖ±µ½Äã¿´µÃµ½³ö¿Ú ==>"
 	}
 	"<==Line2 : Hurt area==>"
 	{
-		"trans"		"<==Line2 : Hurt area==>"
+		"trans"		"<==Line2 : ÉËº¦ÇøÓò ==>"
 	}
 	"<==Line3 : Obstacle race - Left and Right==>"
 	{
-		"trans"		"<==Line3 : Obstacle race - Left and Right==>"
+		"trans"		"<==Line3 : ÕÏ°­Èü - ×óºÍÓÒ==>"
 	}
 	"<==Line4 : Obstacle race - Color==>"
 	{
-		"trans"		"<==Line4 : Obstacle race - Color==>"
+		"trans"		"<==Line4 : ÕÏ°­Èü - ÑÕÉ« ==>"
 	}
 	"<==shoot this 9 block to clear the path ==>"
 	{
-		"trans"		"<==shoot this 9 block to clear the path ==>"
+		"trans"		"<== Éä»÷Õâ¾Å¸öÕÏ°­À´´òÍ¨µÀÂ· ==>"
 	}
 	"<==Line5 : Obstacle race - Jump==>"
 	{
-		"trans"		"<==Line5 : Obstacle race - Jump==>"
+		"trans"		"<==Line5 : ÕÏ°­Èü - ÌøÔ¾ ==>"
 	}
 	"<==Line6 : Push==>"
 	{
@@ -550,7 +550,7 @@
 	}
 	"<==Line7 : Surf==>"
 	{
-		"trans"		"<==Line7 : Surf==>"
+		"trans"		"<==Line7 : »¬Ïè==>"
 	}
 	"<==Line8 : Mechanism ==>"
 	{
@@ -558,19 +558,19 @@
 	}
 	"<==Someone arrive the last area ==>"
 	{
-		"trans"		"<==Someone arrive the last area ==>"
+		"trans"		"<== ÓĞÈËµ½´ïÁË×îºóÒ»¸öÇøÓò ==>"
 	}
 	"<== all area will teleport all human and zombie to last area ==>"
 	{
-		"trans"		"<== all area will teleport all human and zombie to last area ==>"
+		"trans"		"<== ËùÓĞÇøÓòµÄÈËÀàºÍ½©Ê¬½«±»´«ËÍÖÁ×îºóÒ»¸öÇøÓò ==>"
 	}
-	"<== human tele in 5s ï¼ zombie tele in 20s ==>"
+	"<== human tele in 5s ï¼?zombie tele in 20s ==>"
 	{
-		"trans"		"<== human tele in 5s ï¼ zombie tele in 20s ==>"
+		"trans"		"<== ÈËÀàÔÚ 5 Ãëºó´«ËÍ£¬½©Ê¬ÔÚ 20 Ãëºó´«ËÍ ==>"
 	}
 	"<==Welcome , Finally , someone arrive the top  ==>"
 	{
-		"trans"		"<==Welcome , Finally , someone arrive the top  ==>"
+		"trans"		"<== ÓĞÈËµ½´ïÁË¶¥¶Ë  ==>"
 	}
 	"<==Right now , i want to thank my friend for giving me suggestion  ==>"
 	{
@@ -578,7 +578,7 @@
 	}
 	"<== zombie tele in 5s ==>"
 	{
-		"trans"		"<== zombie tele in 5s ==>"
+		"trans"		"<==½©Ê¬ÔÚ 5 ÃëÄÚ´«ËÍ ==>"
 	}
 	"<==Without them, this map are not able to play ==>"
 	{
@@ -604,9 +604,9 @@
 	{
 		"trans"		"<== Someone triggered the information ==>"
 	}
-	"<== Path way release in 20s or you break it! ==>"
+	"<== ÓĞÈË´¥·¢ÁËĞÅÏ¢ ==>"
 	{
-		"trans"		"<== Path way release in 20s or you break it! ==>"
+		"trans"		"<==µÈ´ı 20 ÃëÇå¿ÕÂ·»òÕß´ò±¬Ëü ==>"
 	}
 	"<== Go Go Go!==>"
 	{
@@ -614,9 +614,9 @@
 	}
 	"<== Jump down to the water and enjoy your victory==>"
 	{
-		"trans"		"<== Jump down to the water and enjoy your victory==>"
+		"trans"		"<== ÌøÏÂÈ¥Ë®²¢ÏíÊÜÄãµÄÊ¤Àû ==>"
 	}
-	"<== This 10 second is the time for watching those photo on the wall, hope you guy enjoy it==>"
+	"<== Õâ10ÃëµÄÊ±¼ä¿ÉÒÔ¿´ÄÇĞ©Ç½ÉÏµÄÕÕÆ¬,Ï£ÍûÄãÏíÊÜËü ==>"
 	{
 		"trans"		"<== This 10 second is the time for watching those photo on the wall, hope you guy enjoy it==>"
 	}
@@ -630,7 +630,7 @@
 	}
 	"<== human will win in 20 second==>"
 	{
-		"trans"		"<== human will win in 20 second==>"
+		"trans"		"<== ÈËÀà½«ÔÚ 20 ÃëÄÚÊ¤Àû==>"
 	}
 	"<== You win!==>"
 	{
@@ -638,27 +638,27 @@
 	}
 	"<== Something Wrong, oh my god, meme boss coming!==>"
 	{
-		"trans"		"<== Something Wrong, oh my god, meme boss coming!==>"
+		"trans"		"<== ´íÁË,Å¶,ÎÒµÄÉÏµÛ, bossÀ´ÁË!!==>"
 	}
 	"<== Human have 10 more second to escape==>"
 	{
-		"trans"		"<== Human have 10 more second to escape==>"
+		"trans"		"<== ÈËÀà»¹ÓĞ 10 ÃëÌÓÍö==>"
 	}
 	"<== You have 5 min to kill==>"
 	{
-		"trans"		"<== You have 5 min to kill==>"
+		"trans"		"<== ÄãÓĞ 5 ·ÖÖÓÉ±ËÀboss==>"
 	}
 	"<== Shoot the meme Lord!==>"
 	{
-		"trans"		"<== Shoot the meme Lord!==>"
+		"trans"		"<== Éä»÷Õâ¸öBOSS!==>"
 	}
 	"<== When the Symphony stop , you lose! ==>"
 	{
-		"trans"		"<== When the Symphony stop , you lose! ==>"
+		"trans"		"<== ½»ÏìÀÖÍ£Ö¹Ê±, Äã¾Í»áÊä£¡ ==>"
 	}
 	"<== Meme lord kill human in 3 way==>"
 	{
-		"trans"		"<== Meme lord kill human in 3 way==>"
+		"trans"		"<== bossÓĞ 3 ÖÖ°ì·¨»÷É±ÈËÀà ==>"
 	}
 	"<== Neo Gonna Attack!==>"
 	{
@@ -670,11 +670,11 @@
 	}
 	"<== Gandalf Incoming!==>"
 	{
-		"trans"		"<== Gandalf Incoming!==>"
+		"trans"		"<== Gandalf À´ÁË£¡==>"
 	}
 	"<== They come so slow==>"
 	{
-		"trans"		"<== They come so slow==>"
+		"trans"		"<== ËûÃÇºÜÂı ==>"
 	}
 	"<== Meme Box !==>"
 	{
