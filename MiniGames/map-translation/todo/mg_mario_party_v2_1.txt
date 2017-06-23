@@ -316,4 +316,20 @@
 	{
 		"trans"		"You have 8 seconds to select a platform!"
 	}
+	"***Pirate Island Selected***"
+	{
+		"trans"		"***Pirate Island Selected***"
+	}
+	"***Game Starting in 10 seconds***"
+	{
+		"trans"		"***Game Starting in 10 seconds***"
+	}
+	"***Knife Arena Selected***"
+	{
+		"trans"		"***Knife Arena Selected***"
+	}
+	"***Auto Kill Trigger in 30 seconds...***"
+	{
+		"trans"		"***Auto Kill Trigger in 30 seconds...***"
+	}
 }

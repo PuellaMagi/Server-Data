@@ -616,4 +616,8 @@
 	{
 		"trans"		" EFFECT [ T3 S1 E1 ]"
 	}
+	" EFFECT [ T1 S3 E1 ]"
+	{
+		"trans"		" EFFECT [ T1 S3 E1 ]"
+	}
 }

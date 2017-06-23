@@ -296,4 +296,12 @@
 	{
 		"trans"		"[Map] Weapon Deagle"
 	}
+	"[Weapon] M4A1"
+	{
+		"trans"		"[Weapon] M4A1"
+	}
+	"[Hp] 300"
+	{
+		"trans"		"[Hp] 300"
+	}
 }
