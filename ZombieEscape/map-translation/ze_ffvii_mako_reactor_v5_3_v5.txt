@@ -278,7 +278,7 @@
 	}
 	"** HUMAN VICTORY IN 4 MINUTES **"
 	{
-		"trans"		"**核爆將於240秒后到達**"
+		"trans"		"**核爆將於4分鐘后到達**"
 	}
 	"** Door is opening in 7 seconds **"
 	{
@@ -286,18 +286,78 @@
 	}
 	"** HUMAN VICTORY IN 3 MINUTES **"
 	{
-		"trans"		"**核爆將於180秒后到達**"
+		"trans"		"**核爆將於3分鐘后到達**"
 	}
 	"** HUMAN VICTORY IN 2 MINUTES **"
 	{
-		"trans"		"**核爆將於120秒后到達**"
+		"trans"		"**核爆將於2分鐘后到達**"
 	}
 	"** HUMAN VICTORY IN 1 MINUTES **"
 	{
-		"trans"		"**核爆將於60秒后到達**"
+		"trans"		"**核爆將於1分鐘后到達**"
 	}
 	"** HUMAN VICTORY IN 20 SECONDS **"
 	{
 		"trans"		"**核爆將於20秒后到達**"
+	}
+	"** WARNING! BAHAMUT IS CASTING ULTIMA ** GET READY TO USE HEAL ++ **"
+	{
+		"trans"		"**警告! <巴哈姆特>即將釋放終極元素 **人類可使用奶元素規避之**"
+	}
+	"** ULTIMA CAST WILL SUCCED IN 10 SECONDS **"
+	{
+		"trans"		"**終極元素將在10秒后釋放!!!(提示:看到本提示后6秒使用奶元素即可)**"
+	}
+	"** Bahamut is going to cast Mega Flare !! Shoot !! **"
+	{
+		"trans"		"**<巴哈姆特>將要釋放毀滅嘴炮!!! 全力開火!!!**"
+	}
+	"** BAHAMUT HAS CAST GRAVITY **"
+	{
+		"trans"		"**<巴哈姆特>釋放了黑洞元素(提示:按住S向後體對抗吸力)**"
+	}
+	"** BAHAMUT HAS CAST ELECTRO! **"
+	{
+		"trans"		"**<巴哈姆特>釋放了電元素(提示:跳上欄杆 攻擊結束及時下來)**"
+	}
+	"** BAHAMUT HAS CAST FIRE! **"
+	{
+		"trans"		"**<巴哈姆特>釋放了火元素(提示:向後退到魔光爐)**"
+	}
+	"** BAHAMUT HAS CAST WIND **"
+	{
+		"trans"		"**<巴哈姆特>釋放了風元素(提示:放開方向鍵 跳躍或欄杆上的自求多福)**"
+	}
+	"** BAHAMUT HAS HEALED 300 HIT POINTS**"
+	{
+		"trans"		"**<巴哈姆特>釋放了奶元素(提示:BOSS回復300血量)**"
+	}
+	"** 3 COWBELLS LEFT! **"
+	{
+		"trans"		"**還有3個敲鈴人!!**"
+	}
+	"** 2 COWBELLS LEFT! **"
+	{
+		"trans"		"**還有2個敲鈴人!!**"
+	}
+	"** 1 COWBELLS LEFT!!! **"
+	{
+		"trans"		"**還有1個敲鈴人!!**"
+	}
+	"** ALL COWBELLS HAVE BEEN BROKEN ** BAHAMUT WILL NOT USE MATERIAS **  "
+	{
+		"trans"		"**所有敲鈴人都被擊碎!!! <巴哈姆特>在本回合不會使用任何元素!!!**  "
+	}
+	"** NO MORE COWBELL BONUS **"
+	{
+		"trans"		"**沒有更多的敲鈴人彩蛋了**"
+	}
+	"** ZOMBIES HAVE INFECTED THE BUNKER **"
+	{
+		"trans"		"**僵尸已經進入了庇護所 你們輸了!!!**"
+	}
+	"** BAHAMUT IS GOING TO EXTERMINATE ALL US ! DONT STOP SHOOTING **"
+	{
+		"trans"		"**<巴哈姆特>想要終結我們!!! 全力開火 留給我們的時間不多了!!!**"
 	}
 }
