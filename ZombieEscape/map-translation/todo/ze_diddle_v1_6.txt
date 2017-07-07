@@ -1220,4 +1220,16 @@
 	{
 		"trans"		"***THANK YOU FOR PLAYING***"
 	}
+	"***THE DIDDLERY HAS BEEN DONE***"
+	{
+		"trans"		"***THE DIDDLERY HAS BEEN DONE***"
+	}
+	"***HOWEVER, YOU ARE POOR AND SAD INSIDE***"
+	{
+		"trans"		"***HOWEVER, YOU ARE POOR AND SAD INSIDE***"
+	}
+	"***COME BACK WHEN YOU ARE WEALTHIER***"
+	{
+		"trans"		"***COME BACK WHEN YOU ARE WEALTHIER***"
+	}
 }
