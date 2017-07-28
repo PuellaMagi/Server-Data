@@ -332,7 +332,7 @@
 	"ze_FFVII_Mako_Reactor_v5_3_v5"
 	{
 		"desc"		"魔光炉: [4+1关|神器|BOSS] *神图*"
-		"price"		"10000"
+		"price"		"1000"
 		"Size"		"143"
 		"Nice"		"1"
 	}
@@ -360,7 +360,7 @@
 	"ze_ffxiv_wanderers_palace_v4_10"
 	{
 		"desc"		"贴图者宫殿: [很多关|神器|BOSS] *神图*"
-		"price"		"3000"
+		"price"		"1000"
 		"Size"		"136"
 		"Nice"		"1"
 	}
@@ -416,7 +416,7 @@
 	"ze_gris_v1_11ffff"
 	{
 		"desc"		"创世纪: [4+2关|高奖励] *神图*"
-		"price"		"1500"
+		"price"		"2000"
 		"Size"		"95"
 		"Nice"		"1"
 	}
@@ -759,7 +759,7 @@
 	"ze_platformer_b6"
 	{
 		"desc"		"捡金币: [1关|娱乐|神器|低奖励] 困难"
-		"price"		"1500"
+		"price"		"800"
 		"Size"		"43"
 		"Nice"		"1"
 	}
@@ -948,7 +948,7 @@
 	"ze_sky_athletic_v8_2"
 	{
 		"desc"		"天空体育场: [4关|神器|BOSS|中奖励] 困难"
-		"price"		"3000"
+		"price"		"1000"
 		"Size"		"167"
 		"Nice"		"0"
 	}
@@ -1018,7 +1018,7 @@
 	"ze_tesv_skyrim_v5_6"
 	{
 		"desc"		"上古卷轴-天际: [5关|神器|BOSS] *神图*"
-		"price"		"2500"
+		"price"		"1000"
 		"Size"		"246"
 		"Nice"		"1"
 	}
