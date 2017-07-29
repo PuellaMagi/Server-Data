@@ -399,13 +399,6 @@
 		"Size"		"56"
 		"Nice"		"0"
 	}
-	"ze_gris_v1_11ffff"
-	{
-		"desc"		"创世纪: [4+2关|高奖励] *神图*"
-		"price"		"1500"
-		"Size"		"95"
-		"Nice"		"1"
-	}
 	"ze_Halloween_House_b4"
 	{
 		"desc"		"万圣节之家: [1关|中奖励] 困难"
@@ -1372,13 +1365,6 @@
 		"Size"		"63"
 		"Nice"		"0"
 	}
-	"ze_roof_adventure_v6_3"
-	{
-		"desc"		"不详: 尚未明朗"
-		"price"		"100"
-		"Size"		"107"
-		"Nice"		"0"
-	}
 	"ze_serpentis_temple_v1_1_csgo1"
 	{
 		"desc"		"不详: 尚未明朗"
@@ -1533,32 +1519,11 @@
 		"Size"		"39"
 		"Nice"		"0"
 	}
-	"ze_lotr_minas_tirith_p4"
-	{
-		"desc"		"不详: 尚未明朗"
-		"price"		"100"
-		"Size"		"150"
-		"Nice"		"0"
-	}
 	"ze_dreamin_v1_9"
 	{
 		"desc"		"不详: 尚未明朗"
 		"price"		"100"
 		"Size"		"51"
-		"Nice"		"0"
-	}
-	"ze_gris_a4_9_8"
-	{
-		"desc"		"不详: 尚未明朗"
-		"price"		"100"
-		"Size"		"69"
-		"Nice"		"0"
-	}
-	"ze_gris_b2f"
-	{
-		"desc"		"不详: 尚未明朗"
-		"price"		"100"
-		"Size"		"107"
 		"Nice"		"0"
 	}
 	"ze_fire_temple_v2"
@@ -1608,13 +1573,6 @@
 		"desc"		"不详: 尚未明朗"
 		"price"		"100"
 		"Size"		"109"
-		"Nice"		"0"
-	}
-	"ze_surf_froyo_v1_4"
-	{
-		"desc"		"不详: 尚未明朗"
-		"price"		"100"
-		"Size"		"142"
 		"Nice"		"0"
 	}
 	"ze_deadcore_c14"
@@ -1699,13 +1657,6 @@
 		"desc"		"不详: 尚未明朗"
 		"price"		"100"
 		"Size"		"171"
-		"Nice"		"0"
-	}
-	"ze_gris_v1_11f5"
-	{
-		"desc"		"不详: 尚未明朗"
-		"price"		"100"
-		"Size"		"100"
 		"Nice"		"0"
 	}
 	"ze_gris_v1_11f5_m"
