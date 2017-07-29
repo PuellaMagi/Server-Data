@@ -185,7 +185,7 @@
 	"ze_christmas_infection_p"
 	{
 		"desc"		"圣诞夜惊魂: [5关|中奖励|神器] *神图*"
-		"price"		"2500"
+		"price"		"500"
 		"Size"		"242"
 		"Nice"		"1"
 	}
@@ -318,14 +318,14 @@
 	"ze_FFVII_Mako_Reactor_v5_3_v5"
 	{
 		"desc"		"魔光炉: [4+1关|神器|BOSS] *神图*"
-		"price"		"10000"
+		"price"		"1000"
 		"Size"		"143"
 		"Nice"		"1"
 	}
 	"ze_ffxii_feywood_b3_1_e2"
 	{
 		"desc"		"幻妖之森: [5+1关|BOSS|神器] *神图*"
-		"price"		"3000"
+		"price"		"500"
 		"Size"		"148"
 		"Nice"		"1"
 	}
@@ -345,14 +345,14 @@
 	}
 	"ze_ffxiv_wanderers_palace_v4_10"
 	{
-		"desc"		"贴图者宫殿: [很多关|神器|BOSS] *神图*"
-		"price"		"3000"
+		"desc"		"新贴图者宫殿: [很多关|神器|BOSS] *神图*"
+		"price"		"500"
 		"Size"		"136"
 		"Nice"		"1"
 	}
 	"ze_firewall_laboratory_part2_p2"
 	{
-		"desc"		"防火墙实验室: [1关|低奖励] 简单"
+		"desc"		"防火墙实验室2: [1关|低奖励] 简单"
 		"price"		"100"
 		"Size"		"48"
 		"Nice"		"0"
@@ -703,7 +703,7 @@
 	"ze_pidaras_v1_4fix3_e9"
 	{
 		"desc"		"大diao图: [3关|神器|BOSS] *神图*"
-		"price"		"1000"
+		"price"		"500"
 		"Size"		"149"
 		"Nice"		"1"
 	}
@@ -849,7 +849,7 @@
 	}
 	"ze_sandstorm_v7_1_e4"
 	{
-		"desc"		"沙尘暴: [5关|神器|BOSS] *神图*"
+		"desc"		"老沙尘暴: [5关|神器|BOSS] *神图*"
 		"price"		"500"
 		"Size"		"125"
 		"Nice"		"1"
@@ -913,7 +913,7 @@
 	"ze_sorrento_escape_v2"
 	{
 		"desc"		"意大利风情: [无记录|未知难度]"
-		"price"		"1000"
+		"price"		"500"
 		"Size"		"127"
 		"Nice"		"0"
 	}
@@ -934,7 +934,7 @@
 	"ze_stalker_ultimate_v4_4"
 	{
 		"desc"		"核电站(逃跑潜行者): [5关|神器|BOSS] *神图*"
-		"price"		"2500"
+		"price"		"500"
 		"Size"		"283"
 		"Nice"		"1"
 	}
@@ -962,7 +962,7 @@
 	"ze_tesv_skyrim_v5_6"
 	{
 		"desc"		"上古卷轴-天际: [5关|神器|BOSS] *神图*"
-		"price"		"2500"
+		"price"		"100"
 		"Size"		"246"
 		"Nice"		"1"
 	}
@@ -1171,10 +1171,10 @@
 	}
 	"ze_sky_athletic_adv_v9_9"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"天空体育场: [很多关|神器|BOSS] *神图*"
 		"price"		"100"
 		"Size"		"93"
-		"Nice"		"0"
+		"Nice"		"1"
 	}
 	"ze_pokemon_adventure_b1"
 	{
@@ -1269,8 +1269,8 @@
 	}
 	"ze_sandstorm_go_v1_3"
 	{
-		"desc"		"不详: 尚未明朗"
-		"price"		"100"
+		"desc"		"新沙尘暴: [5关|神器|BOSS] *神图*"
+		"price"		"300"
 		"Size"		"144"
 		"Nice"		"0"
 	}
@@ -1493,10 +1493,10 @@
 	}
 	"ze_crazy_escape_v5_5"
 	{
-		"desc"		"不详: 尚未明朗"
-		"price"		"100"
+		"desc"		"疯狂逃亡: [3关|神器|BOSS] *神图*"
+		"price"		"300"
 		"Size"		"92"
-		"Nice"		"0"
+		"Nice"		"1"
 	}
 	"ze_chicken_lords_p"
 	{
@@ -1507,7 +1507,7 @@
 	}
 	"ze_firewall_laboratory_part1_p2"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"防火墙实验室1: [1关|低奖励] 简单"
 		"price"		"100"
 		"Size"		"52"
 		"Nice"		"0"
@@ -1521,10 +1521,10 @@
 	}
 	"ze_dreamin_v1_9"
 	{
-		"desc"		"不详: 尚未明朗"
-		"price"		"100"
+		"desc"		"性幻想: [2关|神器|BOSS] *神图*"
+		"price"		"300"
 		"Size"		"51"
-		"Nice"		"0"
+		"Nice"		"1"
 	}
 	"ze_fire_temple_v2"
 	{
@@ -1542,7 +1542,7 @@
 	}
 	"ze_ffxii_ridorana_cataract_b4_ps3"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"大瀑布: [4关|神器|BOSS] *神图*"
 		"price"		"100"
 		"Size"		"112"
 		"Nice"		"0"
@@ -1556,10 +1556,10 @@
 	}
 	"ze_ffxiv_wanderers_palace_v2_11"
 	{
-		"desc"		"不详: 尚未明朗"
-		"price"		"100"
+		"desc"		"老流浪者宫殿:[5关|神器|BOSS] *神图*"
+		"price"		"300"
 		"Size"		"150"
-		"Nice"		"0"
+		"Nice"		"1"
 	}
 	"ze_luck_matters_v2d"
 	{
@@ -1570,17 +1570,17 @@
 	}
 	"ze_roof_adventure_v6_5"
 	{
-		"desc"		"不详: 尚未明朗"
-		"price"		"100"
+		"desc"		"屋顶逃亡: [很多关|神器|BOSS] *神图*"
+		"price"		"500"
 		"Size"		"109"
-		"Nice"		"0"
+		"Nice"		"1"
 	}
 	"ze_deadcore_c14"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"死亡核心: [4关|神器|BOSS] *神图*"
 		"price"		"100"
 		"Size"		"59"
-		"Nice"		"0"
+		"Nice"		"1"
 	}
 	"ze_isla_nublar_p3"
 	{
@@ -1626,10 +1626,10 @@
 	}
 	"ze_lotr_minas_tirith_v3_3_ps38"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"米纳斯: 尚未明朗"
 		"price"		"100"
 		"Size"		"132"
-		"Nice"		"0"
+		"Nice"		"1"
 	}
 	"ze_surf_sahok_p3"
 	{
@@ -1640,10 +1640,10 @@
 	}
 	"ze_ffxii_westersand_v7_z9"
 	{
-		"desc"		"不详: 尚未明朗"
-		"price"		"100"
+		"desc"		"西沙(V7): [5+1关|神器|BOSS] *神图*"
+		"price"		"300"
 		"Size"		"122"
-		"Nice"		"0"
+		"Nice"		"1"
 	}
 	"ze_surf_vortex_v2_3"
 	{
@@ -1654,14 +1654,14 @@
 	}
 	"ze_tyranny_v5beta_csgo2"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"暴君: [5+1关|神器|BOSS] *神图*"
 		"price"		"100"
 		"Size"		"171"
-		"Nice"		"0"
+		"Nice"		"1"
 	}
 	"ze_gris_v1_11f5_m"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"创世纪: [4+1关|神器|BOSS] *神图*"
 		"price"		"100"
 		"Size"		"100"
 		"Nice"		"0"
