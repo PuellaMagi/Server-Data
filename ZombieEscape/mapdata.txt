@@ -87,7 +87,7 @@
 	"ze_biohazard2_rpd_004_p3"
 	{
 		"desc"		"生化危机2-警察局: [1关|低奖励] 中等"
-		"price"		"100"
+		"price"		"2000"
 		"Size"		"108"
 		"Nice"		"0"
 	}
@@ -717,7 +717,7 @@
 	"ze_Pirates_Port_Royal_v5_6"
 	{
 		"desc"		"加勒比海盗-皇家港口: [5关|神器|BOSS] *神图*"
-		"price"		"500"
+		"price"		"800"
 		"Size"		"141"
 		"Nice"		"1"
 	}
@@ -738,7 +738,7 @@
 	"ze_platformer_b6"
 	{
 		"desc"		"捡金币: [1关|娱乐|神器|低奖励] 困难"
-		"price"		"1500"
+		"price"		"500"
 		"Size"		"43"
 		"Nice"		"1"
 	}
@@ -850,7 +850,7 @@
 	"ze_sandstorm_v7_1_e4"
 	{
 		"desc"		"老沙尘暴: [5关|神器|BOSS] *神图*"
-		"price"		"500"
+		"price"		"1500"
 		"Size"		"125"
 		"Nice"		"1"
 	}
@@ -899,7 +899,7 @@
 	"ze_sit_caelum_paradisus_b7"
 	{
 		"desc"		"遗落天堂的雕具座: [3关|神器|BOSS] *神图*"
-		"price"		"2000"
+		"price"		"500"
 		"Size"		"181"
 		"Nice"		"1"
 	}
@@ -962,7 +962,7 @@
 	"ze_tesv_skyrim_v5_6"
 	{
 		"desc"		"上古卷轴-天际: [5关|神器|BOSS] *神图*"
-		"price"		"100"
+		"price"		"1000"
 		"Size"		"246"
 		"Nice"		"1"
 	}
@@ -1144,7 +1144,7 @@
 	"ze_slender_escape_rc1"
 	{
 		"desc"		"瘦长鬼影: 尚未明朗"
-		"price"		"100"
+		"price"		"500"
 		"Size"		"144"
 		"Nice"		"1"
 	}
@@ -1172,7 +1172,7 @@
 	"ze_sky_athletic_adv_v9_9"
 	{
 		"desc"		"天空体育场: [很多关|神器|BOSS] *神图*"
-		"price"		"100"
+		"price"		"500"
 		"Size"		"93"
 		"Nice"		"1"
 	}
@@ -1270,7 +1270,7 @@
 	"ze_sandstorm_go_v1_3"
 	{
 		"desc"		"新沙尘暴: [5关|神器|BOSS] *神图*"
-		"price"		"300"
+		"price"		"1000"
 		"Size"		"144"
 		"Nice"		"0"
 	}
