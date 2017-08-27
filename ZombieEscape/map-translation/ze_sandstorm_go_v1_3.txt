@@ -1,0 +1,247 @@
+"Chat"
+{
+	">>> WARMUP ROUND <<<"
+	{
+		"trans"		"** 热身时间 **"
+	}
+	">>*** MAP BY STK ***<<"
+	{
+		"trans"		"** 地图作者：STK 翻译：Laser **"
+	}
+	">> STAGE 1 <<"
+	{
+		"trans"		"** STAGE 1 **"
+	}
+	"** A player has picked up Fire Staff **"
+	{
+		"trans"		"** 一名玩家捡起了火焰权杖 **"
+	}
+	"** A player has picked up Heal Staff **"
+	{
+		"trans"		"** 一位玩家捡起了治愈权杖 **"
+	}
+	"** The doors will open in 20 seconds **"
+	{
+		"trans"		"** 大门将于20秒后打开 **"
+	}
+	"** 5 Seconds left **"
+	{
+		"trans"		"** 剩余5秒 **"
+	}
+	"** A player has picked up Tornado Staff **"
+	{
+		"trans"		"** 一名玩家捡起了飓风权杖 **"
+	}
+	"** FALL BACK **"
+	{
+		"trans"		"** 撤退 **"
+	}
+	"** The doors will open in 25 seconds **"
+	{
+		"trans"		"** 大门将于25秒后打开 **"
+	}
+	"** A player has picked up Earth Staff **"
+	{
+		"trans"		"** 一名玩家捡起了土地权杖 **"
+	}
+	"** The door will open in 30 seconds **"
+	{
+		"trans"		"** 大门将于30秒后打开 **"
+	}
+	"** The doors will open in 15 seconds **"
+	{
+		"trans"		"** 大门将于15秒后打开 **"
+	}
+	"** Bomb explodes in 20 seconds **"
+	{
+		"trans"		"** 炸药将于10秒后爆炸 **"
+	}
+	"** Hold zombies for 15 seconds **"
+	{
+		"trans"		"** 守住15秒 **"
+	}
+	"*** YOU WON STAGE 1 ***"
+	{
+		"trans"		"** 你通过了STAGE 1 **"
+	}
+	">> STAGE 2 <<"
+	{
+		"trans"		"** STAGE 2 **"
+	}
+	"** A player has picked up Quicksand Staff **"
+	{
+		"trans"		"** 一名玩家捡起了流沙权杖 **"
+	}
+	"** A player has picked up SandStorm Staff **"
+	{
+		"trans"		"** 一名玩家捡起了沙尘暴权杖 **"
+	}
+	"** Teleport will open in 20 seconds **"
+	{
+		"trans"		"** 传送点将于20秒后开放 **"
+	}
+	"** 5 seconds left. **"
+	{
+		"trans"		"** 剩余5秒。 **"
+	}
+	"** Kill him or he kills you!!! **"
+	{
+		"trans"		"** 射击他！不是他死，就是你亡！ **"
+	}
+	"*** Grenades do more damage. ***"
+	{
+		"trans"		"** 手雷能造成大量伤害。 **"
+	}
+	"*** He's dead. Run. ***"
+	{
+		"trans"		"** 他已经死了。快跑。 **"
+	}
+	"** The doors will open on 15 seconds **"
+	{
+		"trans"		"** 大门将于15秒后打开 **"
+	}
+	"** Press on the 4 obelisks to open the door **"
+	{
+		"trans"		"** 按下4座方尖碑以启动电梯门（左右都要去人） **"
+	}
+	"** The doors will open in 10 seconds **"
+	{
+		"trans"		"** 大门将于10秒后打开 **"
+	}
+	"** Elevator leaves in 20 seconds **"
+	{
+		"trans"		"** 电梯将于20秒后离开 **"
+	}
+	"** Kill the remaining zombies! **"
+	{
+		"trans"		"** 杀死入侵的僵尸！ **"
+	}
+	"** YOU WON STAGE 2 **"
+	{
+		"trans"		"** 你通过了STAGE 2 **"
+	}
+	">> STAGE 3 <<"
+	{
+		"trans"		"** STAGE 3 **"
+	}
+	"** Hold for 20 seconds. **"
+	{
+		"trans"		"** 守住20秒。 **"
+	}
+	"** Teleport will open in 15 seconds **"
+	{
+		"trans"		"** 传送点将于15秒后开放 **"
+	}
+	"** Hold Zombies for 10 seconds **"
+	{
+		"trans"		"** 守住10秒 **"
+	}
+	"** YOU WON STAGE 3 **"
+	{
+		"trans"		"** 你通过了STAGE 3 **"
+	}
+	">> STAGE 4 <<"
+	{
+		"trans"		"** STAGE 4 **"
+	}
+	"** Meteorite arrives in 17 seconds. **"
+	{
+		"trans"		"** 陨石将于17秒后到达。 **"
+	}
+	"*** Grenades do more damage. (8 SECONDS)***"
+	{
+		"trans"		"** 在8秒之内手雷能造成大量伤害。 **"
+	}
+	"*** YOU WON STAGE 4 ***"
+	{
+		"trans"		"** 你通过了STAGE 4 **"
+	}
+	"** Run into the center and break the crystal!!! **"
+	{
+		"trans"		"** 跑进中间打破水晶！ **"
+	}
+	">> STAGE 5 <<"
+	{
+		"trans"		"** STAGE 5 **"
+	}
+	"** 10 seconds left **"
+	{
+		"trans"		"** 剩余10秒 **"
+	}
+	"** Teleport will open in 20 seconds. **"
+	{
+		"trans"		"** 传送点将于20秒后开放。 **"
+	}
+	"** Teleport will open on 10 seconds **"
+	{
+		"trans"		"** 传送点将于10秒后开放 **"
+	}
+	"** Hold for 15 seconds. **"
+	{
+		"trans"		"** 守住15秒。 **"
+	}
+	"*** Grenades do more damage (4 SECONDS). ***"
+	{
+		"trans"		"** 在4秒之内手雷能造成大量伤害。 **"
+	}
+	"** Do not come to the edge of the platform! **"
+	{
+		"trans"		"** 别到平台的边缘！ **"
+	}
+	"** NOW YOU DIE! **"
+	{
+		"trans"		"** 现在你已经死了！ **"
+	}
+	"** Hold for 10 seconds. **"
+	{
+		"trans"		"** 守住10秒。 **"
+	}
+	"*** YOU WON STAGE 5 ***"
+	{
+		"trans"		"** 你通过了STAGE 5 **"
+	}
+	"** Humans have become immortal!!! **"
+	{
+		"trans"		"** 人类现在是无敌的！ **"
+	}
+	"** Zombies have 1 HP! **"
+	{
+		"trans"		"** 僵尸全部是1HP哦！ **"
+	}
+	"** Victory in 230 seconds. **"
+	{
+		"trans"		"** 坚持230秒就能胜利。 **"
+	}
+	">> ZM ROUND <<"
+	{
+		"trans"		"** ZM ROUND **"
+	}
+	"** Victory in 200 seconds. **"
+	{
+		"trans"		"** 坚持200秒就能胜利。 **"
+	}
+	"** Victory in 150 seconds. **"
+	{
+		"trans"		"** 坚持150秒就能胜利。 **"
+	}
+	"** Victory in 100 seconds. **"
+	{
+		"trans"		"** 坚持100秒就能胜利。 **"
+	}
+	"** Victory in 50 seconds. **"
+	{
+		"trans"		"** 坚持50秒就能胜利。 **"
+	}
+	"** Victory in 10 seconds. **"
+	{
+		"trans"		"** 坚持10秒就能胜利。 **"
+	}
+	">> VICTORY <<"
+	{
+		"trans"		"** 胜利 **"
+	}
+	">>*** THANKS FOR PLAYING! ***<<"
+	{
+		"trans"		"** 感谢游玩！ **"
+	}
+}
