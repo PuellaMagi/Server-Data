@@ -6,6 +6,11 @@
 		"price"		"1000"
 		"Size"		"139"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_007_goldeneye_v64"
 	{
@@ -13,6 +18,11 @@
 		"price"		"100"
 		"Size"		"82"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_13_v2"
 	{
@@ -20,6 +30,11 @@
 		"price"		"100"
 		"Size"		"67"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_ALIEN_mountain_escape_p3"
 	{
@@ -27,6 +42,11 @@
 		"price"		"100"
 		"Size"		"35"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_ApertureScience_p2"
 	{
@@ -34,6 +54,11 @@
 		"price"		"100"
 		"Size"		"43"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_ATIX_extinction_p2"
 	{
@@ -41,6 +66,11 @@
 		"price"		"100"
 		"Size"		"48"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_ATIX_panic_b3t_p"
 	{
@@ -48,6 +78,11 @@
 		"price"		"100"
 		"Size"		"25"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_aztecnoob_p2"
 	{
@@ -55,6 +90,11 @@
 		"price"		"100"
 		"Size"		"28"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_aztec_temple_go_v2"
 	{
@@ -62,6 +102,11 @@
 		"price"		"100"
 		"Size"		"28"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_A_E_S_T_H_E_T_I_C_v1_1"
 	{
@@ -69,6 +114,11 @@
 		"price"		"1000"
 		"Size"		"78"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_bastion_nav72"
 	{
@@ -76,20 +126,35 @@
 		"price"		"100"
 		"Size"		"76"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_Bathroom_v2_5"
 	{
 		"desc"		"浴室逃脱: [2关|中奖励] 困难"
 		"price"		"100"
 		"Size"		"104"
-		"Nice"		"0"
+		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_biohazard2_rpd_004_p3"
 	{
 		"desc"		"生化危机2-警察局: [1关|低奖励] 中等"
-		"price"		"2000"
+		"price"		"3000"
 		"Size"		"108"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_biohazard2_sewer_004_p8"
 	{
@@ -97,20 +162,23 @@
 		"price"		"100"
 		"Size"		"101"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_biohazard_manor_004_p4"
 	{
 		"desc"		"生化危机2-洋馆: [?关|尚未明朗]"
-		"price"		"100"
+		"price"		"1500"
 		"Size"		"129"
 		"Nice"		"0"
-	}
-	"ze_bisounours_party_go_v1"
-	{
-		"desc"		"彩虹岛: [4关|BOSS|神器] *神图*"
-		"price"		"300"
-		"Size"		"112"
-		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_boacceho_p4"
 	{
@@ -118,13 +186,23 @@
 		"price"		"100"
 		"Size"		"17"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_boatescape101_p"
 	{
 		"desc"		"逃生船: [1关|低奖励] 简单"
-		"price"		"100"
+		"price"		"300"
 		"Size"		"10"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_bowser_in_the_fire_sea_v1nb2"
 	{
@@ -132,6 +210,11 @@
 		"price"		"100"
 		"Size"		"31"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_bp-infested-prison_p2"
 	{
@@ -139,6 +222,11 @@
 		"price"		"10000"
 		"Size"		"39"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_Breakable_p3"
 	{
@@ -146,6 +234,11 @@
 		"price"		"100"
 		"Size"		"60"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_bunker_escape_v1_2"
 	{
@@ -153,6 +246,11 @@
 		"price"		"100"
 		"Size"		"29"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_cathedral_b1_1"
 	{
@@ -160,6 +258,11 @@
 		"price"		"100"
 		"Size"		"95"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_cheezylab_beta7"
 	{
@@ -167,6 +270,11 @@
 		"price"		"100"
 		"Size"		"68"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_chemical_weapons_depot_v3_1"
 	{
@@ -174,6 +282,11 @@
 		"price"		"100"
 		"Size"		"73"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_chicken_ranch_v2_1"
 	{
@@ -181,6 +294,11 @@
 		"price"		"100"
 		"Size"		"116"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_christmas_infection_p"
 	{
@@ -188,6 +306,11 @@
 		"price"		"500"
 		"Size"		"242"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_colorlicouspilar_p4"
 	{
@@ -195,6 +318,11 @@
 		"price"		"100"
 		"Size"		"10"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_colors_p3"
 	{
@@ -202,6 +330,11 @@
 		"price"		"100"
 		"Size"		"47"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_csgo_grey2"
 	{
@@ -209,6 +342,11 @@
 		"price"		"100"
 		"Size"		"23"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_cyberderp_p3"
 	{
@@ -216,6 +354,11 @@
 		"price"		"100"
 		"Size"		"132"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_death_star_escape_v4_5"
 	{
@@ -223,6 +366,11 @@
 		"price"		"100"
 		"Size"		"119"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_deepice_p3"
 	{
@@ -230,6 +378,11 @@
 		"price"		"100"
 		"Size"		"40"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_desert_fox_v7_6"
 	{
@@ -237,6 +390,11 @@
 		"price"		"100"
 		"Size"		"112"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_destruction_of_exorath_v4_lite"
 	{
@@ -244,6 +402,11 @@
 		"price"		"1000"
 		"Size"		"137"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_dingo_land_v1"
 	{
@@ -251,13 +414,23 @@
 		"price"		"100"
 		"Size"		"3"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_DOOM_p2"
 	{
 		"desc"		"毁灭战士: [3关|神器|BOSS] *神图*"
-		"price"		"350"
+		"price"		"300"
 		"Size"		"59"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_dragonball_snakeway_v1_3"
 	{
@@ -265,6 +438,11 @@
 		"price"		"100"
 		"Size"		"40"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_ELEVATOR_escape"
 	{
@@ -272,6 +450,11 @@
 		"price"		"100"
 		"Size"		"90"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_escape_the_eye_p2"
 	{
@@ -279,6 +462,11 @@
 		"price"		"100"
 		"Size"		"29"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_eternal_void_p3"
 	{
@@ -286,6 +474,11 @@
 		"price"		"100"
 		"Size"		"46"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_evil_mansion_v1_final"
 	{
@@ -293,6 +486,11 @@
 		"price"		"100"
 		"Size"		"85"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_fapescape_p5"
 	{
@@ -300,6 +498,11 @@
 		"price"		"500"
 		"Size"		"93"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_fapescape_rote_v1_3"
 	{
@@ -307,20 +510,35 @@
 		"price"		"500"
 		"Size"		"126"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_farmhouse_v9_fix"
 	{
 		"desc"		"夺命农场: [4关|神器|BOSS] 困难"
-		"price"		"100"
+		"price"		"500"
 		"Size"		"112"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_FFVII_Mako_Reactor_v5_3_v5"
 	{
 		"desc"		"魔光炉: [4+1关|神器|BOSS] *神图*"
-		"price"		"1000"
+		"price"		"3000"
 		"Size"		"143"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_ffxii_feywood_b3_1_e2"
 	{
@@ -328,20 +546,23 @@
 		"price"		"500"
 		"Size"		"148"
 		"Nice"		"1"
-	}
-	"ze_ffxii_paramina_rift_v1_5"
-	{
-		"desc"		"帕拉米娅: [4关|BOSS|神器] *神图*"
-		"price"		"500"
-		"Size"		"144"
-		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_ffxii_westersand_v7_2_e6"
 	{
-		"desc"		"西沙(e6): [5+1关|神器|BOSS] *神图*"
+		"desc"		"西沙(v7_2_e6): [5+1关|神器|BOSS] *神图*"
 		"price"		"500"
 		"Size"		"143"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_ffxiv_wanderers_palace_v4_10"
 	{
@@ -349,6 +570,11 @@
 		"price"		"500"
 		"Size"		"136"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_firewall_laboratory_part2_p2"
 	{
@@ -356,6 +582,11 @@
 		"price"		"100"
 		"Size"		"48"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_Flying_World_p"
 	{
@@ -363,6 +594,11 @@
 		"price"		"100"
 		"Size"		"59"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_forgotten_facility_p2"
 	{
@@ -370,6 +606,11 @@
 		"price"		"100"
 		"Size"		"23"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_frostdrake_tower_v1"
 	{
@@ -377,6 +618,11 @@
 		"price"		"1000"
 		"Size"		"75"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_games_v2_1"
 	{
@@ -384,6 +630,11 @@
 		"price"		"100"
 		"Size"		"33"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_great_crate_escape_v6"
 	{
@@ -391,6 +642,11 @@
 		"price"		"100"
 		"Size"		"58"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_greencity_fix"
 	{
@@ -398,6 +654,11 @@
 		"price"		"100"
 		"Size"		"56"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_Halloween_House_b4"
 	{
@@ -405,6 +666,11 @@
 		"price"		"100"
 		"Size"		"135"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_halo_poa_p4"
 	{
@@ -412,6 +678,11 @@
 		"price"		"100"
 		"Size"		"59"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_haunted_lab_escape_v2c_e3"
 	{
@@ -419,6 +690,11 @@
 		"price"		"100"
 		"Size"		"103"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_hold_em_v8"
 	{
@@ -426,6 +702,11 @@
 		"price"		"100"
 		"Size"		"11"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_hypernova_v2fix2"
 	{
@@ -433,6 +714,11 @@
 		"price"		"100"
 		"Size"		"147"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_icecap_escape_v5_p"
 	{
@@ -440,6 +726,11 @@
 		"price"		"3000"
 		"Size"		"31"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_inboxed_final"
 	{
@@ -447,6 +738,11 @@
 		"price"		"100"
 		"Size"		"42"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_industrial_dejavu_v3_3_3_e2_d"
 	{
@@ -454,6 +750,11 @@
 		"price"		"1500"
 		"Size"		"110"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_infected_tramway_csgo1"
 	{
@@ -461,6 +762,11 @@
 		"price"		"100"
 		"Size"		"83"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_inferno_escape_v6b"
 	{
@@ -468,6 +774,11 @@
 		"price"		"100"
 		"Size"		"14"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_infiltration_final_p3"
 	{
@@ -475,6 +786,11 @@
 		"price"		"100"
 		"Size"		"69"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_insanitycity_final"
 	{
@@ -482,6 +798,11 @@
 		"price"		"100"
 		"Size"		"22"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_interception_p2"
 	{
@@ -489,6 +810,11 @@
 		"price"		"100"
 		"Size"		"68"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_Island_Escape_p3"
 	{
@@ -496,6 +822,11 @@
 		"price"		"100"
 		"Size"		"33"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_journey_p4"
 	{
@@ -503,6 +834,11 @@
 		"price"		"100"
 		"Size"		"119"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_k19_escape_v5"
 	{
@@ -510,6 +846,11 @@
 		"price"		"100"
 		"Size"		"1"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_kaffe_escape_v2"
 	{
@@ -517,6 +858,11 @@
 		"price"		"100"
 		"Size"		"11"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_lab_v5"
 	{
@@ -524,6 +870,11 @@
 		"price"		"100"
 		"Size"		"45"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_lila_panic_escape_v2"
 	{
@@ -531,6 +882,11 @@
 		"price"		"300"
 		"Size"		"74"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_lotr_helms_deep_v5_p6"
 	{
@@ -538,6 +894,11 @@
 		"price"		"100"
 		"Size"		"76"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_LOTR_Mines_of_Moria_p2"
 	{
@@ -545,6 +906,11 @@
 		"price"		"100"
 		"Size"		"63"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_LOTR_Mount_Doom_p3"
 	{
@@ -552,6 +918,11 @@
 		"price"		"100"
 		"Size"		"72"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_luigismansion_p2"
 	{
@@ -559,6 +930,11 @@
 		"price"		"100"
 		"Size"		"119"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_magic_ship_fix"
 	{
@@ -566,6 +942,11 @@
 		"price"		"100"
 		"Size"		"46"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_mario_tower_v4_p2"
 	{
@@ -573,6 +954,11 @@
 		"price"		"100"
 		"Size"		"50"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_minecraft_adventure_v1_3d"
 	{
@@ -580,6 +966,11 @@
 		"price"		"500"
 		"Size"		"81"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_minecraft_v1_1_p3"
 	{
@@ -587,6 +978,11 @@
 		"price"		"100"
 		"Size"		"29"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_mirrors_edge_reborn_v4_2_p3"
 	{
@@ -594,6 +990,11 @@
 		"price"		"100"
 		"Size"		"55"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_modafuka_v1-2"
 	{
@@ -601,6 +1002,11 @@
 		"price"		"100"
 		"Size"		"4"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_motanuminc_p2"
 	{
@@ -608,6 +1014,11 @@
 		"price"		"100"
 		"Size"		"24"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_mountainpass_b6"
 	{
@@ -615,6 +1026,11 @@
 		"price"		"100"
 		"Size"		"17"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_naruto_v1_1"
 	{
@@ -622,6 +1038,11 @@
 		"price"		"2000"
 		"Size"		"149"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_neko_canyon_p3"
 	{
@@ -629,6 +1050,11 @@
 		"price"		"100"
 		"Size"		"47"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_noir_p1"
 	{
@@ -636,6 +1062,11 @@
 		"price"		"100"
 		"Size"		"131"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_nostromo_redux_v1_2"
 	{
@@ -643,6 +1074,11 @@
 		"price"		"100"
 		"Size"		"112"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_nuclear_station_by_gm"
 	{
@@ -650,6 +1086,11 @@
 		"price"		"100"
 		"Size"		"114"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_NY_marathon_p2"
 	{
@@ -657,6 +1098,11 @@
 		"price"		"500"
 		"Size"		"87"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_ocean_base_escape_v4"
 	{
@@ -664,13 +1110,11 @@
 		"price"		"100"
 		"Size"		"108"
 		"Nice"		"0"
-	}
-	"ze_otakuroom_v5_6f"
-	{
-		"desc"		"死宅房: [无记录]"
-		"price"		"2000"
-		"Size"		"100"
-		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_paper_escaper_p7"
 	{
@@ -678,6 +1122,11 @@
 		"price"		"300"
 		"Size"		"71"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_paradise_v2_csgo"
 	{
@@ -685,6 +1134,11 @@
 		"price"		"100"
 		"Size"		"32"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_Parking_p4"
 	{
@@ -692,6 +1146,11 @@
 		"price"		"300"
 		"Size"		"109"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_parkour_fix"
 	{
@@ -699,6 +1158,11 @@
 		"price"		"100"
 		"Size"		"6"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_pidaras_v1_4fix3_e9"
 	{
@@ -706,6 +1170,11 @@
 		"price"		"500"
 		"Size"		"149"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_pipescape_v1"
 	{
@@ -713,13 +1182,23 @@
 		"price"		"100"
 		"Size"		"7"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_Pirates_Port_Royal_v5_6"
 	{
 		"desc"		"加勒比海盗-皇家港口: [5关|神器|BOSS] *神图*"
-		"price"		"800"
+		"price"		"500"
 		"Size"		"141"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_pitchblack_p2"
 	{
@@ -727,6 +1206,11 @@
 		"price"		"100"
 		"Size"		"42"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_PKMN_Adventure_v7_2"
 	{
@@ -734,6 +1218,11 @@
 		"price"		"1000"
 		"Size"		"132"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_platformer_b6"
 	{
@@ -741,6 +1230,11 @@
 		"price"		"500"
 		"Size"		"43"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_Portal_Story_v3_2fix"
 	{
@@ -748,6 +1242,11 @@
 		"price"		"2000"
 		"Size"		"177"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_PoR_island_p3"
 	{
@@ -755,6 +1254,11 @@
 		"price"		"100"
 		"Size"		"69"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_PotC_p4"
 	{
@@ -762,6 +1266,11 @@
 		"price"		"100"
 		"Size"		"78"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_predator_ultimate_p7"
 	{
@@ -769,6 +1278,11 @@
 		"price"		"300"
 		"Size"		"133"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_raccoon_facility_v6b_pm2"
 	{
@@ -776,6 +1290,11 @@
 		"price"		"100"
 		"Size"		"79"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_rainbow_factory_v1_2"
 	{
@@ -783,6 +1302,11 @@
 		"price"		"100"
 		"Size"		"151"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_Random_p2"
 	{
@@ -790,6 +1314,11 @@
 		"price"		"100"
 		"Size"		"88"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_reconnoiter_b4"
 	{
@@ -797,6 +1326,11 @@
 		"price"		"100"
 		"Size"		"44"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_reloaded_v1_e10"
 	{
@@ -804,6 +1338,11 @@
 		"price"		"300"
 		"Size"		"144"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_revolution_part1"
 	{
@@ -811,6 +1350,11 @@
 		"price"		"100"
 		"Size"		"3"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_rising_waters_beta"
 	{
@@ -818,6 +1362,11 @@
 		"price"		"100"
 		"Size"		"21"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_rizomata_b43"
 	{
@@ -825,6 +1374,11 @@
 		"price"		"2000"
 		"Size"		"195"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_rockescape_2013_v1_3_3"
 	{
@@ -832,6 +1386,11 @@
 		"price"		"100"
 		"Size"		"22"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_Rooftop_Runaway1_p"
 	{
@@ -839,6 +1398,11 @@
 		"price"		"100"
 		"Size"		"13"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_rtcw_ominous_rumors_p3"
 	{
@@ -846,13 +1410,23 @@
 		"price"		"100"
 		"Size"		"142"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_sandstorm_v7_1_e4"
 	{
 		"desc"		"老沙尘暴: [5关|神器|BOSS] *神图*"
-		"price"		"1500"
+		"price"		"500"
 		"Size"		"125"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_saw_p3"
 	{
@@ -860,6 +1434,11 @@
 		"price"		"100"
 		"Size"		"51"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_sewage_processing_v8"
 	{
@@ -867,6 +1446,11 @@
 		"price"		"100"
 		"Size"		"33"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_shaun_of_the_dead_b1_2"
 	{
@@ -874,6 +1458,11 @@
 		"price"		"1000"
 		"Size"		"145"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_showdown_v4_1_p"
 	{
@@ -881,6 +1470,11 @@
 		"price"		"100"
 		"Size"		"26"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_shroomforest2_p6"
 	{
@@ -888,6 +1482,11 @@
 		"price"		"500"
 		"Size"		"133"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_shroomforest_p6"
 	{
@@ -895,13 +1494,23 @@
 		"price"		"500"
 		"Size"		"105"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_sit_caelum_paradisus_b7"
 	{
 		"desc"		"遗落天堂的雕具座: [3关|神器|BOSS] *神图*"
-		"price"		"500"
+		"price"		"2000"
 		"Size"		"181"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_skyscraper_city_csgo1"
 	{
@@ -909,6 +1518,11 @@
 		"price"		"100"
 		"Size"		"22"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_sorrento_escape_v2"
 	{
@@ -916,6 +1530,11 @@
 		"price"		"500"
 		"Size"		"127"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_spacestation_og_final"
 	{
@@ -923,6 +1542,11 @@
 		"price"		"100"
 		"Size"		"15"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_sst2_p"
 	{
@@ -930,6 +1554,11 @@
 		"price"		"100"
 		"Size"		"35"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_stalker_ultimate_v4_4"
 	{
@@ -937,6 +1566,11 @@
 		"price"		"500"
 		"Size"		"283"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_super_metroid"
 	{
@@ -944,6 +1578,11 @@
 		"price"		"100"
 		"Size"		"32"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_surf_danger_p2"
 	{
@@ -951,6 +1590,11 @@
 		"price"		"100"
 		"Size"		"26"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_surf_facility_p4"
 	{
@@ -958,13 +1602,23 @@
 		"price"		"100"
 		"Size"		"37"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_tesv_skyrim_v5_6"
 	{
 		"desc"		"上古卷轴-天际: [5关|神器|BOSS] *神图*"
-		"price"		"1000"
+		"price"		"2500"
 		"Size"		"246"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_texturescape_p2"
 	{
@@ -972,6 +1626,11 @@
 		"price"		"100"
 		"Size"		"21"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_thelostworld_redux_p2"
 	{
@@ -979,6 +1638,11 @@
 		"price"		"100"
 		"Size"		"72"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_thousand_steps_b7"
 	{
@@ -986,6 +1650,11 @@
 		"price"		"100"
 		"Size"		"20"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_tilex_escape_e3"
 	{
@@ -993,6 +1662,11 @@
 		"price"		"100"
 		"Size"		"39"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_timesplitters_p"
 	{
@@ -1000,6 +1674,11 @@
 		"price"		"100"
 		"Size"		"13"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_titanic_escape_v2_3_p"
 	{
@@ -1007,6 +1686,11 @@
 		"price"		"100"
 		"Size"		"22"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_tkara_v4_3"
 	{
@@ -1014,6 +1698,11 @@
 		"price"		"100"
 		"Size"		"119"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_tloz_stone_tower_temple_v1_4"
 	{
@@ -1021,6 +1710,11 @@
 		"price"		"100"
 		"Size"		"84"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_toaster_p3"
 	{
@@ -1028,6 +1722,11 @@
 		"price"		"300"
 		"Size"		"21"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_townscape_vfinallqfix2"
 	{
@@ -1035,6 +1734,11 @@
 		"price"		"100"
 		"Size"		"111"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_traak_b2"
 	{
@@ -1042,6 +1746,11 @@
 		"price"		"100"
 		"Size"		"113"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_trainescape_final_p2"
 	{
@@ -1049,6 +1758,11 @@
 		"price"		"100"
 		"Size"		"30"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_tv_station_v2_pm2"
 	{
@@ -1056,6 +1770,11 @@
 		"price"		"100"
 		"Size"		"57"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_underground_escape_final_e2"
 	{
@@ -1063,6 +1782,11 @@
 		"price"		"100"
 		"Size"		"97"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_urban_laby_of_death_p2"
 	{
@@ -1070,6 +1794,11 @@
 		"price"		"100"
 		"Size"		"61"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_UT2004_Convoy_p2"
 	{
@@ -1077,6 +1806,11 @@
 		"price"		"300"
 		"Size"		"63"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_vertigo_v1_1"
 	{
@@ -1084,6 +1818,11 @@
 		"price"		"100"
 		"Size"		"56"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_volcano_escape_v4fix"
 	{
@@ -1091,6 +1830,11 @@
 		"price"		"100"
 		"Size"		"112"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_winter_p3"
 	{
@@ -1098,6 +1842,11 @@
 		"price"		"100"
 		"Size"		"14"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_zk_fapescape_p3"
 	{
@@ -1105,6 +1854,11 @@
 		"price"		"100"
 		"Size"		"53"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_zk_mall_of_zombies_p2"
 	{
@@ -1112,6 +1866,11 @@
 		"price"		"100"
 		"Size"		"59"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_zombiemod_corporation_p2"
 	{
@@ -1119,6 +1878,11 @@
 		"price"		"100"
 		"Size"		"16"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_zombierig_v4_3_pm1"
 	{
@@ -1126,48 +1890,59 @@
 		"price"		"2000"
 		"Size"		"187"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_strange_escape_b3_ps_b7"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"奇异逃亡: [3关|低奖励]"
 		"price"		"100"
 		"Size"		"146"
 		"Nice"		"0"
-	}
-	"ze_LOTR_Minas_Tiret_p2"
-	{
-		"desc"		"不详: 尚未明朗"
-		"price"		"100"
-		"Size"		"52"
-		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_slender_escape_rc1"
 	{
 		"desc"		"瘦长鬼影: 尚未明朗"
-		"price"		"500"
+		"price"		"100"
 		"Size"		"144"
 		"Nice"		"1"
-	}
-	"ze_artika_base_v1_1"
-	{
-		"desc"		"亚提卡基地: 尚未明朗"
-		"price"		"100"
-		"Size"		"150"
-		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_30_seconds_go_v2"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"30秒: [1关|低奖励] 简单"
 		"price"		"100"
 		"Size"		"21"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_mountain_escape_snow_v5_4"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"高山逃亡[1关|低奖励] 简单"
 		"price"		"100"
 		"Size"		"65"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_sky_athletic_adv_v9_9"
 	{
@@ -1175,321 +1950,455 @@
 		"price"		"500"
 		"Size"		"93"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_pokemon_adventure_b1"
 	{
-		"desc"		"不详: 尚未明朗"
-		"price"		"100"
+		"desc"		"神器宝贝大冒险: [很多关|中奖励] 中等"
+		"price"		"3000"
 		"Size"		"168"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_elevator_escape_p2"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"电梯逃亡: [1关|低奖励] 简单"
 		"price"		"100"
 		"Size"		"31"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_PotC_IV_p2"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"加勒比: [很多关|低奖励]  简单"
 		"price"		"100"
 		"Size"		"66"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_omega_p3"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"黑夜传说: [1关|低奖励]  简单"
 		"price"		"100"
 		"Size"		"36"
 		"Nice"		"0"
-	}
-	"ze_anima_ruins_v2_2"
-	{
-		"desc"		"不详: 尚未明朗"
-		"price"		"100"
-		"Size"		"77"
-		"Nice"		"0"
-	}
-	"ze_bioshock_v6_2_csgo2"
-	{
-		"desc"		"不详: 尚未明朗"
-		"price"		"100"
-		"Size"		"149"
-		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_frozentemple_rc1_1"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"寒冰寺庙: [1关|低奖励|BOSS]  中等"
 		"price"		"100"
 		"Size"		"66"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_hidden_temple_v2_3"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"寒冰寺庙: [2关|低奖励|BOSS]  中等"
 		"price"		"100"
 		"Size"		"91"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_apollo_e1"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"阿波罗计划: [1关|低奖励]  简单"
 		"price"		"100"
 		"Size"		"67"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_mytex_escape_v3_p"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"失落城堡: [1关|神器|低奖励]  简单"
 		"price"		"100"
 		"Size"		"48"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_opti_variety_missions_p3"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"黑色方块任务: [1关|低奖励]  简单"
 		"price"		"100"
 		"Size"		"8"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_kororinpa_v1_6"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"水晶收集任务: [1关|低奖励]  简单"
 		"price"		"100"
 		"Size"		"26"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_exchange_innovation_v1b_ps4"
 	{
-		"desc"		"不详: 尚未明朗"
-		"price"		"100"
+		"desc"		"创新实验室: [3关|低奖励]  简单"
+		"price"		"1500"
 		"Size"		"171"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_sandstorm_go_v1_3"
 	{
 		"desc"		"新沙尘暴: [5关|神器|BOSS] *神图*"
-		"price"		"1000"
+		"price"		"300"
 		"Size"		"144"
-		"Nice"		"0"
+		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_sg1_missions_v2_1_p2"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"星际之门: [1关|低奖励]  简单"
 		"price"		"100"
 		"Size"		"81"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_forestbunkers_v1_b3_e2"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"丛林逃亡: [1关|低奖励]  简单"
 		"price"		"100"
 		"Size"		"117"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_infected_lab_v4_1"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"感染实验室: [1关|低奖励]  简单"
 		"price"		"100"
 		"Size"		"65"
 		"Nice"		"0"
-	}
-	"ze_diddle_v1_6"
-	{
-		"desc"		"不详: 尚未明朗"
-		"price"		"100"
-		"Size"		"146"
-		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_undertale_g_v1_3"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"传说之下: [1关|低奖励]  简单"
 		"price"		"100"
 		"Size"		"39"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_arctic_escape_p2"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"北极逃亡: [1关|低奖励]  简单"
 		"price"		"100"
 		"Size"		"42"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_starwars_v1_6_1"
 	{
-		"desc"		"不详: 尚未明朗"
-		"price"		"100"
+		"desc"		"星战: [5关|神器|BOSS] *神图*"
+		"price"		"500"
 		"Size"		"186"
-		"Nice"		"0"
+		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_sunlight_v2_0_p8"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"日光: [4+1关|神器|BOSS] *神图*"
 		"price"		"100"
 		"Size"		"124"
-		"Nice"		"0"
+		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_panic_escape_v3_2_e3"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"恐慌逃亡: [1关|低奖励] 简单"
 		"price"		"100"
 		"Size"		"11"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_insensible_sr8gm6yj12hs7_rg_v9_3_1"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"无感: [1关|低奖励] 简单"
 		"price"		"100"
 		"Size"		"134"
 		"Nice"		"0"
-	}
-	"ze_phantasy_escape_4_pm1"
-	{
-		"desc"		"不详: 尚未明朗"
-		"price"		"100"
-		"Size"		"129"
-		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_l0v0l_a7_csgo4"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"l0v0l: [3关|神器|BOSS] *神图*"
 		"price"		"100"
 		"Size"		"146"
-		"Nice"		"0"
+		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_magmadrake_b1417z"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"侏罗纪：坠机: [1关|低奖励] 简单"
 		"price"		"100"
 		"Size"		"63"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_serpentis_temple_v1_1_csgo1"
 	{
-		"desc"		"不详: 尚未明朗"
-		"price"		"100"
+		"desc"		"美杜莎神庙: [5关|神器|BOSS] *神图*"
+		"price"		"500"
 		"Size"		"150"
-		"Nice"		"0"
+		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_jurassicpark_evolved"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"侏罗纪公园：净化: [1关|低奖励] 简单"
 		"price"		"100"
 		"Size"		"48"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_thriller_escape_p"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"thriller: [1关|低奖励] 简单"
 		"price"		"100"
 		"Size"		"51"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_sky_temples_v2a"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"天空神庙: 尚未明朗"
 		"price"		"100"
 		"Size"		"119"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_tilex_possession_v2_10"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"新跳刀竞赛: [5+1关|神器|BOSS] *神图*"
 		"price"		"100"
 		"Size"		"137"
 		"Nice"		"0"
-	}
-	"ze_s_a_m_a7"
-	{
-		"desc"		"不详: 尚未明朗"
-		"price"		"100"
-		"Size"		"57"
-		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_antfarm_2v"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"蚂蚁农场: 尚未明朗"
 		"price"		"100"
 		"Size"		"20"
 		"Nice"		"0"
-	}
-	"ze_ashen_keep_v0_3_csgo1"
-	{
-		"desc"		"不详: 尚未明朗"
-		"price"		"100"
-		"Size"		"150"
-		"Nice"		"0"
-	}
-	"ze_cursed_ruins_v1_7b"
-	{
-		"desc"		"不详: 尚未明朗"
-		"price"		"100"
-		"Size"		"28"
-		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_evernight_a2_4c"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"永夜: [2关|神器]  *神图*"
 		"price"		"100"
 		"Size"		"117"
-		"Nice"		"0"
+		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_kraznov_poopata_p2"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"方块逃亡: [1关|低奖励] 简单"
 		"price"		"100"
 		"Size"		"53"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_negative_legacy_xf4"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"逐渐消去的遗产: [1关|BOSS] 简单"
 		"price"		"100"
 		"Size"		"95"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_nuke_v2"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"核弹基地: [1关|低奖励] 简单"
 		"price"		"100"
 		"Size"		"25"
 		"Nice"		"0"
-	}
-	"ze_pd2_crime_art_v2"
-	{
-		"desc"		"不详: 尚未明朗"
-		"price"		"100"
-		"Size"		"45"
-		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_pl_mountain_b2"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"爬山: [2关|低奖励] 简单"
 		"price"		"100"
 		"Size"		"143"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_project_alcaria_v1_7"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"阿卡尼亚项目: [3关|神器|BOSS] *神图*"
 		"price"		"100"
 		"Size"		"149"
-		"Nice"		"0"
+		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_gods_wrath_v3_9"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"神之愤怒: [1关|神器] 简单"
 		"price"		"100"
 		"Size"		"41"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_legoland_crackheads_v2_fix"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"方块公园: [1关|boss] 中等"
 		"price"		"100"
 		"Size"		"115"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_crazy_escape_v5_5"
 	{
@@ -1497,13 +2406,23 @@
 		"price"		"300"
 		"Size"		"92"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_chicken_lords_p"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"鸡城堡: [1关|低奖励] 中等"
 		"price"		"100"
 		"Size"		"15"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_firewall_laboratory_part1_p2"
 	{
@@ -1511,48 +2430,59 @@
 		"price"		"100"
 		"Size"		"52"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_voodoo_islands_v4_1_csgo"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"巫毒岛: [1关|低奖励] 简单"
 		"price"		"100"
 		"Size"		"39"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_dreamin_v1_9"
 	{
-		"desc"		"性幻想: [2关|神器|BOSS] *神图*"
+		"desc"		"梦境: [2关|神器|BOSS] *神图*"
 		"price"		"300"
 		"Size"		"51"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_fire_temple_v2"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"火焰神庙:  [1关|低奖励] 简单"
 		"price"		"100"
 		"Size"		"84"
 		"Nice"		"0"
-	}
-	"ze_percocet_v5"
-	{
-		"desc"		"不详: 尚未明朗"
-		"price"		"100"
-		"Size"		"23"
-		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_ffxii_ridorana_cataract_b4_ps3"
 	{
 		"desc"		"大瀑布: [4关|神器|BOSS] *神图*"
 		"price"		"100"
 		"Size"		"112"
-		"Nice"		"0"
-	}
-	"ze_surf_froyo_lite_v1_5"
-	{
-		"desc"		"不详: 尚未明朗"
-		"price"		"100"
-		"Size"		"76"
-		"Nice"		"0"
+		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_ffxiv_wanderers_palace_v2_11"
 	{
@@ -1560,48 +2490,47 @@
 		"price"		"300"
 		"Size"		"150"
 		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_luck_matters_v2d"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"运气挑战: [2关|BOSS] *神图*"
 		"price"		"100"
 		"Size"		"66"
 		"Nice"		"0"
-	}
-	"ze_roof_adventure_v6_5"
-	{
-		"desc"		"屋顶逃亡: [很多关|神器|BOSS] *神图*"
-		"price"		"500"
-		"Size"		"109"
-		"Nice"		"1"
-	}
-	"ze_deadcore_c14"
-	{
-		"desc"		"死亡核心: [4关|神器|BOSS] *神图*"
-		"price"		"100"
-		"Size"		"59"
-		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_isla_nublar_p3"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"侏罗纪公园: [3关|神器|BOSS] *神图*"
 		"price"		"100"
 		"Size"		"93"
-		"Nice"		"0"
+		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_parkers_pit_b8_ps4"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"废弃矿洞: [5关|低奖励] 简单"
 		"price"		"100"
 		"Size"		"137"
 		"Nice"		"0"
-	}
-	"ze_surface_a1_ps_b2"
-	{
-		"desc"		"不详: 尚未明朗"
-		"price"		"100"
-		"Size"		"147"
-		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_aepp_nano_grid2_v1"
 	{
@@ -1609,6 +2538,251 @@
 		"price"		"100"
 		"Size"		"37"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_anima_ruins_v2_2"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"77"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_antartika_b1_1_ps1"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"119"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_apocatastasis_v1_1"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"29"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_artika_base_v1_2"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"150"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_ashen_keep_v0_3_csgo3"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"150"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_atix_apocalypse_p3"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"90"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_atix_panic_v1"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"84"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_barrage_p2"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"92"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_bioshock_v6_2_csgo4"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"149"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_bisounours_party_go_v2"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"115"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_boredom_v543654"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"137"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_christmas_b2_1"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"142"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_chrono_trigger_b3"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"83"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_crashbandicoot_p3"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"119"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_deadcore_c16"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"59"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_diddle_v3"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"145"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_ffxii_paramina_rift_v1_4_csgo_d"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"145"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_ffxii_westersand_v7_z9"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"122"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_ffxii_westersand_v8zeta1_x12"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"140"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_gris_v1_11f5_m"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"100"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_hsc_a3_rc2_1"
 	{
@@ -1616,20 +2790,95 @@
 		"price"		"100"
 		"Size"		"54"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
-	"ze_licciana_escape_zrgbr_b3"
+	"ze_lolxd_final"
 	{
 		"desc"		"不详: 尚未明朗"
 		"price"		"100"
-		"Size"		"72"
+		"Size"		"68"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_LOTR_Minas_Tiret_p2"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"52"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_lotr_minas_tirith_p4"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"150"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_lotr_minas_tirith_v3_3_ps38"
 	{
-		"desc"		"米纳斯: 尚未明朗"
+		"desc"		"不详: 尚未明朗"
 		"price"		"100"
 		"Size"		"132"
-		"Nice"		"1"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_otakuroom_v5_6f3"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"102"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_roof_adventure_v6_6"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"114"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_surf_froyo_lite_v2"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"76"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_surf_sahok_p3"
 	{
@@ -1637,13 +2886,11 @@
 		"price"		"100"
 		"Size"		"77"
 		"Nice"		"0"
-	}
-	"ze_ffxii_westersand_v7_z9"
-	{
-		"desc"		"西沙(V7): [5+1关|神器|BOSS] *神图*"
-		"price"		"300"
-		"Size"		"122"
-		"Nice"		"1"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_surf_vortex_v2_3"
 	{
@@ -1651,19 +2898,46 @@
 		"price"		"100"
 		"Size"		"55"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_s_a_m_a20"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"99"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_tilex_ultimate_v2_13"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"146"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 	"ze_tyranny_v5beta_csgo2"
 	{
-		"desc"		"暴君: [5+1关|神器|BOSS] *神图*"
+		"desc"		"不详: 尚未明朗"
 		"price"		"100"
 		"Size"		"171"
-		"Nice"		"1"
-	}
-	"ze_gris_v1_11f5_m"
-	{
-		"desc"		"创世纪: [4+1关|神器|BOSS] *神图*"
-		"price"		"100"
-		"Size"		"100"
 		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
 	}
 }
