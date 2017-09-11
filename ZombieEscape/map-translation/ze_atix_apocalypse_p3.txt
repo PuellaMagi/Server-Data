@@ -1,0 +1,19 @@
+"Chat"
+{
+	"*** BOAT EVACUATION ***"
+	{
+		"trans"		"** 关卡:乘船撤离 **"
+	}
+	"*** HELICOPTER EVACUATION ***"
+	{
+		"trans"		"** 关卡:直升机撤离 **"
+	}
+	"*** TRAIN EVACUATION ***"
+	{
+		"trans"		"** 关卡:火车撤离 **"
+	}
+	"*** TRUCK EVACUATION ***"
+	{
+		"trans"		"** 关卡:卡车撤离 **"
+	}
+}

@@ -1,0 +1,40 @@
+"Chat"
+{
+	"*** NUCLEAR CORE UNSTABLE ***"
+	{
+		"trans"		"** 核芯不稳定 **"
+	}
+	"***SHOOT THE BUTTON***"
+	{
+		"trans"		"** 射击并按下右侧玻璃内按钮能让水升高 **"
+	}
+	"*** WATER CART LEAVING IN 5 SECONDS***"
+	{
+		"trans"		"** 水车5秒后离开 **"
+	}
+	"***** HOLD THIS POSITION *****"
+	{
+		"trans"		"** 守住这里 **"
+	}
+	"*** ELEVATOR 1 & 2 OPENING ***"
+	{
+		"trans"		"** 1和2号电梯正在开启 **"
+	}
+	"*** RESCUE ZONE - RED SMOKE ***"
+	{
+		"trans"		"** 救援区-红色烟雾 **"
+	}
+	"*** USE RADIO ***"
+	{
+		"trans"		"** 使用无线电 **"
+	}
+	"*** SELF DESTRUCT ACTIVATED - 60 SECONDS ***"
+	{
+		"trans"		"** 自毁激活 - 60秒 **"
+	}
+	"*** MAP BY JB_GAMBLE ***"
+	{
+		"trans"		"** 地图作者:JB_GAMBLE 翻译:Laser **"
+	}
+
+}

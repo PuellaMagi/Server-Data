@@ -1,0 +1,7 @@
+"Chat"
+{
+	"***Map remake by [ＥSＣAＰＥ] Loving You (수정자 : 러빙유)***"
+	{
+		"trans"		"**地图作者:러빙유 翻译:Laser **"
+	}
+}

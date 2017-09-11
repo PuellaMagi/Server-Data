@@ -1,0 +1,363 @@
+"Chat"
+{
+	"*** original : Super mario 64 Bowser in the fire sea ***"
+	{
+		"trans"		"** 原文：在火海中的64位超级马里奥 **"
+	}
+	"*** WARNING : This map was ported from CS:S ***"
+	{
+		"trans"		"** 警告:这张地图是从CSS移植的 **"
+	}
+	"*** NOBOSS   NO ITEM   ***"
+	{
+		"trans"		"** 没BOSS 没神器 **"
+	}
+	"*** It become simply map... ***"
+	{
+		"trans"		"** 它变成了一张简单的地图... **"
+	}
+	"*** map created by thas ***"
+	{
+		"trans"		"** 地图作者:thas 翻译:Laser **"
+	}
+	"*** creating particle helped by Airvulpes ***"
+	{
+		"trans"		"** 感谢Airvulpes帮忙创建粒子 **"
+	}
+	"*** LIFT LEAVES IN 15 SECONDS ***"
+	{
+		"trans"		"** 电梯将于15秒后离开 **"
+	}
+	"*** LIFT LEAVES IN 5 SECONDS ***"
+	{
+		"trans"		"** 电梯将于5秒后离开 **"
+	}
+	"*** Wall will become can climb in 40 SECONDS ***"
+	{
+		"trans"		"**4 0秒后墙可以攀爬 **"
+	}
+	"*** STUCK TELEPORT IS ENABLED ***"
+	{
+		"trans"		"** 已启用传送 **"
+	}
+	"*** STUCKER HURRY TO RUN ***"
+	{
+		"trans"		"** 斯图克快点跑 **"
+	}
+	"*** DEFEND FOR 5 SECONDS ***"
+	{
+		"trans"		"** 守住5秒 **"
+	}
+	"*** GO!! GO!!***"
+	{
+		"trans"		"** 快跑!!要被爆菊了!! **"
+	}
+	"*** YOU CAN CLIMB THE WALL ***"
+	{
+		"trans"		"** 你可以爬墙了 **"
+	}
+	"*** LIFT WILL RISE IN 20 SECONDS ***"
+	{
+		"trans"		"** 电梯将于20秒后离开 **"
+	}
+	"*** LIFT WILL RISE IN 5 SECONDS ***"
+	{
+		"trans"		"** 电梯将于5秒后离开 **"
+	}
+	"*** DEFEND FOR 30 SECONDS ***"
+	{
+		"trans"		"** 守住30秒 **"
+	}
+	"*** GO !! GO !! ***"
+	{
+		"trans"		"** 快跑!!要被爆菊了!! **"
+	}
+	"*** NORMAL MODE COMPLETED ***"
+	{
+		"trans"		"** 普通模式通关 **"
+	}
+	"*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
+	{
+		"blocked"		"1"
+	}
+	"*** A PERSON PICKED UP THE COLOR LIFT ***"
+	{
+		"trans"		"** 一名玩家捡起了彩色电梯 **"
+	}
+	"*** IF YOU LOST IT ***"
+	{
+		"trans"		"** 如果你丢了它 **"
+	}
+	"*** WE CAN'T ESCAPE FROM FIRE SEA !!! ***"
+	{
+		"trans"		"** 我们就逃不出火海!!! **"
+	}
+	"*** PICKER MUST NOT DIE AND HOLD THIS !!! ***"
+	{
+		"trans"		"** 持有者不能死!!! **"
+	}
+	"*** WARNING : This map was ported from CS:S ***"
+	{
+		"trans"		"** 警告:这张地图是从CSS移植的 **"
+	}
+	"*** NOBOSS   NO ITEM   ***"
+	{
+		"trans"		"** 没BOSS 没神器 **"
+	}
+	"*** It become simply map... ***"
+	{
+		"trans"		"** 它变成了一张简单的地图... **"
+	}
+	"*** map created by thas ***"
+	{
+		"trans"		"** 地图作者:thas 翻译:Laser **"
+	}
+	"*** creating particle helped by Airvulpes ***"
+	{
+		"trans"		"** 感谢Airvulpes帮忙创建粒子 **"
+	}
+	"*** LIFT LEAVES IN 15 SECONDS ***"
+	{
+		"trans"		"** 电梯将于15秒后离开 **"
+	}
+	"*** LIFT LEAVES IN 5 SECONDS ***"
+	{
+		"trans"		"** 电梯将于5秒后离开 **"
+	}
+	"*** Wall will become can climb in 40 SECONDS ***"
+	{
+		"trans"		"** 40秒后墙可以攀爬 **"
+	}
+	"*** STUCK TELEPORT IS ENABLED ***"
+	{
+		"trans"		"** 已启用传送 **"
+	}
+	"*** STUCKER HURRY TO RUN ***"
+	{
+		"trans"		"** 斯图克快点跑 **"
+	}
+	"*** DEFEND FOR 5 SECONDS ***"
+	{
+		"trans"		"** 守住5秒 **"
+	}
+	"*** GO GO !! ***"
+	{
+		"trans"		"** 快跑!!要被爆菊了!! **"
+	}
+	"*** YOU CAN CLIMB THE WALL ***"
+	{
+		"trans"		"** 你可以爬墙了 **"
+	}
+	"*** LIFT WILL RISE IN 20 SECONDS ***"
+	{
+		"trans"		"** 电梯将于20秒后离开 **"
+	}
+	"*** LIFT WILL RISE IN 5 SECONDS ***"
+	{
+		"trans"		"** 电梯将于5秒后离开 **"
+	}
+	"*** DEFEND FOR 30 SECONDS ***"
+	{
+		"trans"		"** 守住30秒 **"
+	}
+	"*** GO !! GO !! ***"
+	{
+		"trans"		"** 快跑!!要被爆菊了!! **"
+	}
+	"*** NORMAL MODE COMPLETED ***"
+	{
+		"trans"		"** 普通模式通关 **"
+	}
+	"*** DIFFICULTY: INSANE ***"
+	{
+		"trans"		"** 难度:疯狂 **"
+	}
+	"*** LOOK AT THE SKY !! ***"
+	{
+		"trans"		"** 看天空!! **"
+	}
+	"*** THIS IS THE PURPLE LIGHT !! ***"
+	{
+		"trans"		"** 这是紫光!! **"
+	}
+	"*** IT WILL INCREASE BOWSERS SOME ABILITIES... ***"
+	{
+		"trans"		"** 它会增加bowsers一些能力... **"
+	}
+	"*** ZOMBIES LIFT LEAVES IN 5 SECONDS ***"
+	{
+		"trans"		"** 将于5秒后上升 **"
+	}
+	"*** THREE PERSON NEED TO PRESS THE LIFT BUTTON ***"
+	{
+		"trans"		"** 需要三个人按电梯按钮 **"
+	}
+	"*** HOLD THEM !! ***"
+	{
+		"trans"		"** 守着这里！！ **"
+	}
+	"*** NICE JOB !! ALL BUTTON ARE PRESSED BY HUMANS ***"
+	{
+		"trans"		"** 干的好!!人类已按下所有按钮 **"
+	}
+	"*** LIFT WILL LEAVE IN 30 SECONDS ***"
+	{
+		"trans"		"** 电梯将于30秒后上升 **"
+	}
+	"*** LIFT WILL LEAVE IN 5 SECONDS ***"
+	{
+		"trans"		"** 电梯将于5秒后上升 **"
+	}
+	"*** DONT GO !!!!!!! ***"
+	{
+		"trans"		"** 别走!!!!!!! **"
+	}
+	"*** TELEPORTER IS NOT ACTIVATING !!!! ***"
+	{
+		"trans"		"** 传送点不激活!!!! **"
+	}
+	"*** ACTIVATING.... YOU MUST DEFENCE FOR 30 SECONDS !!! ***"
+	{
+		"trans"		"** 还好激活了....守住30秒!!! **"
+	}
+	"*** TELEPORTER WILL ACTIVE IN 5 SECONDS... ***"
+	{
+		"trans"		"** 传送点于在5秒后激活 **"
+	}
+	"*** GO !! GO !! YOU CAN TELEPORT NOW !! ***"
+	{
+		"trans"		"** 快跑!!你可以去传送点了!! **"
+	}
+	"*** !? ***"
+	{
+		"trans"		"** !? **"
+	}
+	"***OH NO !! BOWSER IS GETTING POWER FROM PURPLE LIGHT !! ***"
+	{
+		"trans"		"** OH NO!!BOWSER从紫光得到了力量!! **"
+	}
+	"*** BOWSER IS POWERED UP !! BE CAREFUL !! ***"
+	{
+		"trans"		"** BOWSER供电了!!小心!! **"
+	}
+	"*** RED LIGHT COMPLETED ***"
+	{
+		"trans"		"** 红光已完成 **"
+	}
+	"*** POWER STAR APPEARD ***"
+	{
+		"trans"		"** 功率星出现 **"
+	}
+	"*** A PLAYER HAS PICKED UP THE POWER STAR ***"
+	{
+		"trans"		"** 一名玩家捡起了功率星 **"
+	}
+	"*** DIFFICULTY: HARD ***"
+	{
+		"trans"		"** 难度:困难 **"
+	}
+	"*** LIFT WILL RISE IN 30 SECONDS ***"
+	{
+		"trans"		"** 电梯将于30秒后离开 **"
+	}
+	"*** BOWSER IS APPERED !!! SHOOT HIM !! ***"
+	{
+		"trans"		"** BOWSER出现了!!!快射他!! **"
+	}
+	"*** YOU HAVE KILLED BOWSER ***"
+	{
+		"trans"		"** BOWSER已倒下 **"
+	}
+	"*** PORTAL IS APPEARED ***"
+	{
+		"trans"		"** 入口已出现 **"
+	}
+	"*** GET IN TO THE PORTAL OF MIDDLE ***"
+	{
+		"trans"		"**  进入中间的入口 **"
+	}
+	"*** ZOMBIES WILL COME IN 10 SECONDS ***"
+	{
+		"trans"		"** 僵尸将于10秒后到来 **"
+	}
+	"*** COLOR LIFT WILL LEAVE IN 40 SECONDS ***"
+	{
+		"trans"		"** 彩色电梯将于40秒后离开 **"
+	}
+	"*** HOLD THIS POTISION !! ***"
+	{
+		"trans"		"** 守住这个地方!! **"
+	}
+	"*** COLOR LIFT WILL LEAVE IN 5 SECONDS ***"
+	{
+		"trans"		"** 彩色电梯将于5秒后离开 **"
+	}
+	"*** HARD MODE COMPLETED ***"
+	{
+		"trans"		"** 困难模式已通过 **"
+	}
+	"*** A PLAYER HAS PICKED UP THE POISON FIRE MUSHROOM ***"
+	{
+		"trans"		"** 一名玩家捡起了毒蘑菇 **"
+	}
+	"*** A PLAYER HAS PICKED UP THE HEALTH MUSHROOM ***"
+	{
+		"trans"		"** 一名玩家捡起了健康蘑菇 **"
+	}
+	"*** A PLAYER HAS PICKED UP THE WIND FIRE MUSHROOM ***"
+	{
+		"trans"		"** 一名玩家捡起了风蘑菇 **"
+	}
+	"*** DIFFICULTY: VERY HARD ***"
+	{
+		"trans"		"** 难度：极难 **"
+	}
+	"*** VERY HARD MODE COMPLETED ***"
+	{
+		"trans"		"** 极难模式已通过 **"
+	}
+	"*** OH NO !! BOWSER IS GETTING POWER FROM PURPLE LIGHT !! ***"
+	{
+		"trans"		"** OH NO!!BOWSER从紫光得到了力量!! **"
+	}
+	"*** OH NO !! PURPLE LIGHT BE OUT OF CONTROL !! ****"
+	{
+		"trans"		"** OH NO!!紫色的光失去控制了!! **"
+	}
+	"*** PURPLE LIGHT IS GETTING THE BIG SIZE ... ***"
+	{
+		"trans"		"** 紫色的光线越来越大... **"
+	}
+	"*** WE DONT KNOW WHEN IT WILL DESTROY FIRE SEA ... ***"
+	{
+		"trans"		"** 我们不知道什么时候它会摧毁火海... **"
+	}
+	"*** HURRY TO ESCAPE !! ***"
+	{
+		"trans"		"** 快点逃走!! **"
+	}
+	"*** WE CANT ESCAPE FROM FIRE SEA !!! ***"
+	{
+		"trans"		"** 我们逃不出火海!!! **"
+	}
+	"*** LIFT WILL LEAVE IN 30 SECONDS... ***"
+	{
+		"trans"		"** 电梯将于30秒后离开 **"
+	}
+	"*** LIFT WILL LEAVE IN 5 SECONDS... ***"
+	{
+		"trans"		"** 电梯将于5秒后离开 **"
+	}
+	"*** GET ON THE LIFT !!!!!!! IF YOU DONT WANT TO DIE !!!! ***"
+	{
+		"trans"		"** 上电梯!!!!!!!如果你不想死!!!! **"
+	}
+	"*** LIFT WILL LEAVE TO LAST STAND POINT IN 25 SECONDS ***"
+	{
+		"trans"		"** 电梯将于25秒后离开到最后一个地方 **"
+	}
+	"*** LIFT WILL LEAVE TO LAST STAND POINT IN 5 SECONDS ***"
+	{
+		"trans"		"** 电梯将于5秒后离开到最后一个地方 **"
+	}
+}

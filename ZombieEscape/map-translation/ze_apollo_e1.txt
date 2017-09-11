@@ -1,0 +1,60 @@
+"Chat"
+{
+	"***Tram Leaving Momentarily***"
+	{
+		"trans"		"** 电车正在离开 **"
+	}
+	"***Airlock Door Opening In 20 Seconds***"
+	{
+		"trans"		"** 气闸门将于20秒后打开 **"
+	}
+	"***Outdoor Tram Starting in 25 Seconds***"
+	{
+		"trans"		"** 户外电车将于25秒后开走 **"
+	}
+	"***Outdoor Tram Starting in 10 Seconds***"
+	{
+		"trans"		"** 户外电车将于10秒后开走 **"
+	}
+	"***Outdoor Tram Starting in 5 Seconds***"
+	{
+		"trans"		"** 户外电车将于5秒后开走 **"
+	}
+	"***Rocket Lift Leaving In 10 Seconds***"
+	{
+		"trans"		"** 火箭升降电梯将于10秒后上升 **"
+	}
+	"<Rocket Launch In 30 Seconds>"
+	{
+		"trans"		"** 火箭将于30秒后发射 **"
+	}
+	"<Rocket Launch In 20 Seconds>"
+	{
+		"trans"		"** 火箭将于20秒后发射 **"
+	}
+	"<Rocket Launch In 10 Seconds>"
+	{
+		"trans"		"** 火箭将于10秒后发射 **"
+	}
+	"<Rocket Launch In 5 Seconds>"
+	{
+		"trans"		"** 火箭将于50秒后发射 **"
+	}
+	"<<ROCKET LAUNCHING>>"
+	{
+		"trans"		"** 火箭发射 **"
+	}
+	"<<<Map by Thatguyoverthere>>>"
+	{
+		"trans"		"** 地图作者:Thatguyoverthere 翻译:Laser **"
+	}
+	"<<<Map ported by Et3rnity>>>"
+	{
+		"trans"		"** 地图移植:Et3rnity 翻译:Laser **"
+	}
+	"***Aux Door Opening In 30 Seconds***"
+	{
+		"trans"		"** 辅助门将于30秒后打开 **"
+	}
+
+}

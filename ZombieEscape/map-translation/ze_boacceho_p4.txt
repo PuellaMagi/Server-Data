@@ -1,0 +1,111 @@
+"Chat"
+{
+	"** We're stranded in Nowhere... **"
+	{
+		"trans"		"我们被困在任何地方... 翻译:Laser "
+	}
+	"** Wait until something happens! **"
+	{
+		"trans"		"等待奇迹发生! "
+	}
+	"** What journey will this binary+1 entscheidungsproblem lead us to..? **"
+	{
+		"trans"		"这将会有什么旅程,某人将会引导我们..? "
+	}
+	"** Behind this door may await the Beast of All Cunning Hallways... **"
+	{
+		"trans"		"在这扇门后面可能会有野兽 "
+	}
+	"** Cunning Hallways shall be -of course- those that contain Barely Anything -or was it everything-. **"
+	{
+		"trans"		"野兽的种类很多 "
+	}
+	"** Wait here! A wise word might come from HIGH **"
+	{
+		"trans"		"在这里等待!高位的人正在前来 "
+	}
+	"** Some time has passed and yet no words came... May HIGH have lied? **"
+	{
+		"trans"		"一后时间过去了，没有任何消息...我们也许被他骗了? "
+	}
+	"** ... **"
+	{
+		"trans"		"...(mmp这地图英文真TM难懂) "
+	}
+	"** It opened but... no word was read or heard... Or was it that we couldn't understand? **"
+	{
+		"trans"		"它打开了...但一句话也没读或听...还是我们不懂? "
+	}
+	"** On this little pool of doubt we must stand for long enough to understand... **"
+	{
+		"trans"		"在这一点点怀疑中，我们必须守住这里，才能理解"
+	}
+	"** RESIST! Think and the paradox will come at last! **"
+	{
+		"trans"		"守住!认为和悖论将会到来! "
+	}
+	"** The columnvator is warming up - going up to the puffy clouds requires lots of energy! **"
+	{
+		"trans"		"Columnvator正在升温 - 上升到蓬松的云需要大量的能量! "
+	}
+	"** RESIST! Time is long as to make this little time step nothing - if at all... **"
+	{
+		"trans"		"守住!我们需要更多的时间 - 都只是为了这一点点慢慢聚集起来... "
+	}
+	"** It stopped for some reason! **"
+	{
+		"trans"		"由于某种原因，它停了下来! "
+	}
+	"** Perhaps this conveniently placed valve will unlock the reason why? **"
+	{
+		"trans"		"也许放置valve就能够解锁? "
+	}
+	"** We've opened the valve and the reason has been revealed... **"
+	{
+		"trans"		"我们打开了valve，原因已被揭露…"
+	}
+	"** It just says 'to have a reason for the valve to be - aesthetics aside'... **"
+	{
+		"trans"		"它只是说'有一个原因就是valve - 美学之外'... "
+	}
+	"** The entrance to the port of all paradoxes will open soon... **"
+	{
+		"trans"		"所有入口将很快打开 "
+	}
+	"** Although small all paradoxes fit in -a paradox told me- because they're quite slim... **"
+	{
+		"trans"		"虽然所有的通道都很小，但通道却告诉我 - 因为它们相当纤细..."
+	}
+	"** Well done! Now we can get out of this mess of a place and start being by our own beingness! **"
+	{
+		"trans"		"做得好!现在我们可以摆脱这种混乱的一个地方，开始我们自己的自由 "
+	}
+	"** RESIST! The flying floaty matter will take a bit of time to get us out... **"
+	{
+		"trans"		"守住!飞天飘逸的物质需要一点时间来让我们离开..."
+	}
+	"** THE RIDE NEVER ENDS! **"
+	{
+		"trans"		"旅程永不结束! "
+	}
+	"** Were stranded in Nowhere... **"
+	{
+		"trans"		"**被困在任何地方... **"
+	}
+	"** It opened but... no word was read or heard... Or was it that we couldnt understand? **"
+	{
+		"trans"		"**它打开了...但一句话也没读或听过...还是我们不能理解? **"
+	}
+	"** Weve opened the valve and the reason has been revealed... **"
+	{
+		"trans"		"**我们打开了valve，原因已被揭露... **"
+	}
+	"** It just says to have a reason for the valve to be - aesthetics aside... **"
+	{
+		"trans"		"**它只是说有一个原因就是valve - 美学之外... **"
+	}
+	"** Although small all paradoxes fit in -a paradox told me- because theyre quite slim... **"
+	{
+		"trans"		"**虽然所有的通道都很小，但通道却告诉我 - 因为它们相当纤细... **"
+	}
+}

@@ -1,0 +1,143 @@
+"Chat"
+{
+	"Map by FW -=LightningZLaser=-"
+	{
+		"trans"		"** 地图作者: FW -=LightningZLaser=- 翻译:Laser **"
+	}
+	"www.FireWaLLCS.net"
+	{
+		"trans"		" www.FireWaLLCS.net "
+	}
+	"Door opening in 15 seconds..."
+	{
+		"trans"		"** 门在15秒后打开 **"
+	}
+	"Door opening in 5 seconds..."
+	{
+		"trans"		"** 门在5秒后打开 **"
+	}
+	"Gate opening in 15 seconds..."
+	{
+		"trans"		"** 门在15秒后打开 **"
+	}
+	"Gate opening in 5 seconds..."
+	{
+		"trans"		"** 门在5秒后打开 **"
+	}
+	"Heaven Teleporter generators initiating..."
+	{
+		"trans"		"** 天堂传送发电机启动... **"
+	}
+	"Notice! <Insert Player Name Here> is going to heaven!"
+	{
+		"trans"		"** 注意! <傻逼>将前往天堂! **"
+	}
+	"Doors to Test Laboratory G opening in 15 seconds."
+	{
+		"trans"		"** G号实验室在15秒后打开 **"
+	}
+	"Zombies detected! Gate will re-open in 5 seconds."
+	{
+		"trans"		"** 检测到僵尸!大门将在5秒后重新打开. **"
+	}
+	"Doors to Test Laboratory G opening in 5 seconds."
+	{
+		"trans"		"** G号实验室在5秒后打开. **"
+	}
+	"Doors to Test Laboratory G has opened!"
+	{
+		"trans"		"** G号实验室已打开! **"
+	}
+	"Panel Walk has been activated. Doors will open in 20 seconds."
+	{
+		"trans"		"** 面板通道已被激活.20秒后门就开了. **"
+	}
+	"Doors opening in 10 seconds."
+	{
+		"trans"		"** 门在10秒后开启(门开后慢慢跳，掉下去估计你已经会被僵尸追尾了). **"
+	}
+	"Zombies are blocked for 10 seconds!"
+	{
+		"trans"		"** 僵尸被阻挡10秒! **"
+	}
+	"Panel Walk retracting..."
+	{
+		"trans"		"** 面板分离中... **"
+	}
+	"[TIP] Use your head to go across the Headclimber!"
+	{
+		"trans"		"** [提示]跳上栏杆(掉下去估计你就被僵尸追尾了)! **"
+	}
+	"Panels retracting in 7 seconds."
+	{
+		"trans"		"** 面板7秒后分离. **"
+	}
+	"[Tip] Humans have special laboratory suits and will be able to pass these fans without slowing down!"
+	{
+		"trans"		"** [提示]人类有特殊的实验室服装，可以不受风扇影响! **"
+	}
+	"Cable Car leaving in 5 seconds!"
+	{
+		"trans"		"** 缆车5秒后离开! **"
+	}
+	"WARNING! Facility emergency self-destruction sequence activated."
+	{
+		"trans"		"** 警告!设施紧急自毁激活. **"
+	}
+	"===100 seconds remaining to detonation==="
+	{
+		"trans"		"** 剩余100秒逃生 **"
+	}
+	"===90 seconds remaining to detonation==="
+	{
+		"trans"		"** 剩余90秒逃生 **"
+	}
+	"===80 seconds remaining to detonation==="
+	{
+		"trans"		"** 剩余80秒逃生 **"
+	}
+	"===70 seconds remaining to detonation==="
+	{
+		"trans"		"** 剩余70秒逃生 **"
+	}
+	"===60 seconds remaining to detonation==="
+	{
+		"trans"		"** 剩余60秒逃生 **"
+	}
+	"Activate the self-destruction sequence in the emergency room!"
+	{
+		"trans"		"** 在应对室激活自毁! **"
+	}
+	"===50 seconds remaining to detonation==="
+	{
+		"trans"		"** 剩余50秒逃生 **"
+	}
+	"===40 seconds remaining to detonation==="
+	{
+		"trans"		"** 剩余40秒逃生 **"
+	}
+	"WARNING===30 seconds remaining to detonation==="
+	{
+		"trans"		"** 警告!剩余40秒逃生 **"
+	}
+	"WARNING===20 seconds remaining to detonation==="
+	{
+		"trans"		"** 警告!剩余20秒逃生 **"
+	}
+	"WARNING===10 seconds remaining to detonation==="
+	{
+		"trans"		"** 警告!剩余10秒逃生 **"
+	}
+	"WARNING- BLAST DOORS CLOSING"
+	{
+		"trans"		"** 防爆门关闭 **"
+	}
+	"EMERGENCY WARNING===5 seconds remaining to detonation==="
+	{
+		"trans"		"** 警告!5秒后大爆炸 **"
+	}
+	"www.FireWaLLCS.netforums"
+	{
+		"trans"		"** www.FireWaLLCS.netforums **"
+	}
+}

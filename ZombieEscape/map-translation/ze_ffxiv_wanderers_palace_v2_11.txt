@@ -1,0 +1,507 @@
+"Chat"
+{
+	"***5 seconds***"
+	{
+		"trans"		"** 剩余5秒 **"
+	}
+	"***Location: The Wanderers Palace***"
+	{
+		"trans"		"** 地点:流浪者宫殿 **"
+	}
+	"***Level:Normal"
+	{
+		"trans"		"** 关卡:普通 **"
+	}
+	"***Look for Nymian Device***"
+	{
+		"trans"		"** 寻找Nymian设备 **"
+	}
+	"***A player found Nymian Device***"
+	{
+		"trans"		"** 一名玩家发现了Nymian设备 **"
+	}
+	"***20 seconds to Activate Nymian Device***"
+	{
+		"trans"		"** 20秒后激活Nymian设备 **"
+	}
+	"*** 5 seconds***"
+	{
+		"trans"		"** 剩余5秒 **"
+	}
+	"***Break Fence***"
+	{
+		"trans"		"** 围栏已破裂 **"
+	}
+	"***10 seconds to Activate Nymian Device***"
+	{
+		"trans"		"** 10秒后激活Nymian设备 **"
+	}
+	"***Wait for 20 seconds ***"
+	{
+		"trans"		"** 守住20秒 **"
+	}
+	"***Door opened***"
+	{
+		"trans"		"** 门已经开启 **"
+	}
+	"***Door close 10 seconds***"
+	{
+		"trans"		"** 门在10秒后关闭 **"
+	}
+	"***Enkidu appered***"
+	{
+		"trans"		"** Enkidu出现了 **"
+	}
+	"***Keep shooting Enkidu***"
+	{
+		"trans"		"** 保持防守并射击Enkidu **"
+	}
+	"***10 seconds to attack of the boss***"
+	{
+		"trans"		"** 10秒后可以攻击BOSS **"
+	}
+	"***Attack of the boss***"
+	{
+		"trans"		"** 射击BOSS **"
+	}
+	"***Enkidu died***"
+	{
+		"trans"		"** Enkidu已经死亡 **"
+	}
+	"***15 seconds to Active Nymian Device***"
+	{
+		"trans"		"** 15秒后激活Nymian设备 **"
+	}
+	"***Look for RED,YELLOW,GREEN Nymian Devices***"
+	{
+		"trans"		"** 寻找紅、黄、绿色的Nymian设备 **"
+	}
+	"***Activated GREEN Nymian Device***"
+	{
+		"trans"		"** 已激活绿色Nymian设备 **"
+	}
+	"***Activated YELLOW Nymian Device***"
+	{
+		"trans"		"** 已激活黄色Nymian设备 **"
+	}
+	"***Activated RED Nymian Device***"
+	{
+		"trans"		"** 已激活红色Nymian设备 **"
+	}
+	"***10 seconds to Active Nymian Device***"
+	{
+		"trans"		"** 10秒后激活Nymian设备 **"
+	}
+	"***20 seconds to Activate Escape Elevator***"
+	{
+		"trans"		"** 电梯在20秒后启动 **"
+	}
+	"***Congratulations***"
+	{
+		"trans"		"** 祝贺您 **"
+	}
+	"***Next Level Savage***"
+	{
+		"trans"		"** 下一关:野蛮 **"
+	}
+	"***Map made by Altima***"
+	{
+		"trans"		"** 地图制作:Altima 翻译:Laser **"
+	}
+	"***Level:Savage"
+	{
+		"trans"		"** 关卡:野蛮 **"
+	}
+	"***Wait for 20 seconds***"
+	{
+		"trans"		"** 守住20秒 **"
+	}
+	"***Wait for 30 seconds"
+	{
+		"trans"		"** 守住30秒 **"
+	}
+	"***35 seconds to Activate Nymian Device***"
+	{
+		"trans"		"** 35秒后激活Nymian设备 **"
+	}
+	"***Hold this position 35 seconds***"
+	{
+		"trans"		"** 守住这个地方35秒 **"
+	}
+	"***Teleporter Activate***"
+	{
+		"trans"		"** 传送器已激活 **"
+	}
+	"***Location:The Binding Coil of Bahamut***"
+	{
+		"trans"		"** 地点:巴哈姆特的禁区 **"
+	}
+	"***Found Intruders!!!!!!!***"
+	{
+		"trans"		"** 发现侵入者!!!!!!! **"
+	}
+	"***ADS........Activated***"
+	{
+		"trans"		"** ADS........已激活 **"
+	}
+	"***ADS appeared***"
+	{
+		"trans"		"** ADS已出现 **"
+	}
+	"***Keep shooting to ADS***"
+	{
+		"trans"		"** 全力射击ADS **"
+	}
+	"***ADS is selecting now...***"
+	{
+		"trans"		"** ADS正在选择技能 **"
+	}
+	"*** Cauterize***"
+	{
+		"trans"		"** 灸燋(面向BOSS附近有箱子去6点钟方向，没箱子去8点钟方向) **"
+	}
+	"*** Electro***"
+	{
+		"trans"		"** 电子攻击(去右边箱子，记得及时回来) **"
+	}
+	"***ADS died***"
+	{
+		"trans"		"** ADS已经死亡 **"
+	}
+	"***45 seconds to MAP CLEAR***"
+	{
+		"trans"		"** 关卡将于45后通关 **"
+	}
+	"***Human Killer ON***"
+	{
+		"trans"		"** 人类大扫除 **"
+	}
+	"***Gravity ON***"
+	{
+		"trans"		"** 反重力已开启 **"
+	}
+	"***STAGE CLEAR***"
+	{
+		"trans"		"** 关卡已通过 **"
+	}
+	"***Texture Support by fujione***"
+	{
+		"blocked"		"1"
+	}
+	"*** Heavens Fall***"
+	{
+		"trans"		"** 天坠(天坠贴地的瞬间切刀往天坠靠) **"
+	}
+	"***10seconds to Mega Flare***"
+	{
+		"trans"		"** 10秒后释放魔法闪光 **"
+	}
+	"***5***"
+	{
+		"trans"		"** 5 **"
+	}
+	"***4***"
+	{
+		"trans"		"** 4 **"
+	}
+	"***3***"
+	{
+		"trans"		"** 3 **"
+	}
+	"***2***"
+	{
+		"trans"		"** 2 **"
+	}
+	"***1***"
+	{
+		"trans"		"** 1 **"
+	}
+	"***Next Level A Realm Reborn***"
+	{
+		"trans"		"** 下一关:重生领域 **"
+	}
+	"***Skill Unlocked***"
+	{
+		"trans"		"** 技能(神器)已解锁 **"
+	}
+	"***Level:A Realm Reborn***"
+	{
+		"trans"		"** 关卡:重生领域 **"
+	}
+	"***A player picked up Summoner Shadow Flare***"
+	{
+		"trans"		"** 一名玩家召唤了影子(电) **"
+	}
+	"***Recast 60s***"
+	{
+		"trans"		"** 冷却60秒 **"
+	}
+	"***A player picked up Black Mage Flare***"
+	{
+		"trans"		"** 一名玩家召唤了黑魔法(火) **"
+	}
+	"***Recast 45s***"
+	{
+		"trans"		"** 冷却45秒 **"
+	}
+	"***A player picked up Paladin Shild Oath"
+	{
+		"trans"		"** 一名玩家召唤了圣骑士之盾(流沙) **"
+	}
+	"***Recast 70s***"
+	{
+		"trans"		"** 冷却70秒 **"
+	}
+	"***Wait for 30 seconds***"
+	{
+		"trans"		"** 守住30秒 **"
+	}
+	"***A player picked up Bird Armys Paeon***"
+	{
+		"trans"		"** 一名玩家召唤了鸟军(子弹) **"
+	}
+	"***Recast 90s***"
+	{
+		"trans"		"** 冷却90秒 **"
+	}
+	"***A player picked up Mount Night Mare***"
+	{
+		"trans"		"** 一名玩家召唤了伟大的暗墙(土) **"
+	}
+	"***Recast 50s***"
+	{
+		"trans"		"** 冷却50秒 **"
+	}
+	"***30 seconds to Active Nymian Device***"
+	{
+		"trans"		"** 30秒后激活Nymian设备 **"
+	}
+	"***Hold this position 20 seconds***"
+	{
+		"trans"		"** 守住这个地方20秒 **"
+	}
+	"***Hold this position 60 seconds***"
+	{
+		"trans"		"** 守住这个地方60秒 **"
+	}
+	"***Heavens Fall***"
+	{
+		"trans"		"** 天坠(天坠贴地的瞬间切刀往天坠靠) **"
+	}
+	"***Go to the Escape Elevator Tower***"
+	{
+		"trans"		"** 前往能够逃生的电梯 **"
+	}
+	"***20 seconds to Active Nymian Device***"
+	{
+		"trans"		"** 20秒后激活Nymian设备 **"
+	}
+	"***30 seconds to Activate Escape Elevator***"
+	{
+		"trans"		"** 30秒后启动电梯 **"
+	}
+	"***Ravana Used Stop***"
+	{
+		"trans"		"** 你的动作已被固定 **"
+	}
+	"***Next Level:Heavens Ward***"
+	{
+		"trans"		"** 下一关:天空禁地 **"
+	}
+	"***Level:Heavens Ward***"
+	{
+		"trans"		"** 关卡:天空禁地 **"
+	}
+	"***Hold this position 40 seconds***"
+	{
+		"trans"		"** 守住这个地方40秒 **"
+	}
+	"***20 seconds to Activate Elevator"
+	{
+		"trans"		"** 20秒后启动电梯 **"
+	}
+	"***30 seconds to Activate Elevator***"
+	{
+		"trans"		"** 30秒后启动电梯 **"
+	}
+	"***30 seconds to Break Wall***"
+	{
+		"trans"		"** 30秒后围墙破裂 **"
+	}
+	"***40 seconds to Activate Telepoter"
+	{
+		"trans"		"** 40秒后激活传送器 **"
+	}
+	"***A player picked up White Mage Benediction***"
+	{
+		"trans"		"** 一名玩家召唤了神之杖(奶) **"
+	}
+	"***Bahamut Prime appeared***"
+	{
+		"trans"		"** 巴哈姆特出现了 **"
+	}
+	"***Bahamut Prime has casting now***"
+	{
+		"trans"		"** 巴哈姆特正在准备技能 **"
+	}
+	"***Akh Morn***"
+	{
+		"trans"		"** 死吧!死吧!死吧!(4秒後记得开奶) **"
+	}
+	"*** 3 ***"
+	{
+		"trans"		"** 3 **"
+	}
+	"*** 2 ***"
+	{
+		"trans"		"** 2 **"
+	}
+	"*** 1 ***"
+	{
+		"trans"		"** 1 **"
+	}
+	"***Flare***"
+	{
+		"trans"		"** 火焰之海(离开红色范围) **"
+	}
+	"***Tempest Wing***"
+	{
+		"trans"		"** 食物之宴(面对BOSS按s) **"
+	}
+	"***Bahamut Prime died***"
+	{
+		"trans"		"** 巴哈姆特已倒下 **"
+	}
+	"***Go to the Escape Elevator***"
+	{
+		"trans"		"** 前往能够逃生的电梯 **"
+	}
+	"***Elevator Gravity ON***"
+	{
+		"trans"		"** 电梯反重力开启 **"
+	}
+	"***Hold this position to 15 seconds***"
+	{
+		"trans"		"** 守住这个地方15秒 **"
+	}
+	"***Jump!***"
+	{
+		"trans"		"** 跳 **"
+	}
+	"***The Wanderers Palace Clear to 20 seconds***"
+	{
+		"trans"		"** 流浪者宫殿将于20秒后摧毁 **"
+	}
+	"***The Wanderers Palace CLEAR***"
+	{
+		"trans"		"** 流浪者宫殿已摧毁 **"
+	}
+	"***ADS Attack***"
+	{
+		"trans"		"** 射击ADS **"
+	}
+	"***shoot ADS and Zombies***"
+	{
+		"trans"		"** 射击两边的ADS和后面的僵尸 **"
+	}
+	"***Earth Shaker***"
+	{
+		"trans"		"** 排山倒海(看出现的位置并离开它) **"
+	}
+	"***10 seconds***"
+	{
+		"trans"		"** 剩余10秒 **"
+	}
+	"***Recast 55s***"
+	{
+		"trans"		"** 冷却时间55秒 **"
+	}
+	"***A player picked up Paladin Shield Oath"
+	{
+		"trans"		"** 一名玩家召唤了圣骑士之盾(流沙) **"
+	}
+	"***Recast 80s***"
+	{
+		"trans"		"** 冷却80秒 **"
+	}
+	"***Level:Savage set***"
+	{
+		"trans"		"** 关卡设定为野蛮 **"
+	}
+	"***Hold this position to 30 seconds***"
+	{
+		"trans"		"** 守住这个地方30秒 **"
+	}
+	"***Laser***"
+	{
+		"trans"		"** 跳刀吧! **"
+	}
+	"***The Wanderers Palace Clear to 10 seconds***"
+	{
+		"trans"		"** 流浪者宫殿将于10秒后摧毁 **"
+	}
+	"***Nael Van Durnas appeared***"
+	{
+		"trans"		"** Nael出现了 **"
+	}
+	"***KILL HER***"
+	{
+		"trans"		"** 杀死他 **"
+	}
+	"***GO GO GO GO***"
+	{
+		"trans"		"** 快跑快跑，要被爆菊啦! **"
+	}
+	"***The Wanderers Palace Clear...?***"
+	{
+		"trans"		"** 流浪者宫殿的摧毁呢...？ **"
+	}
+	"***I will kill you guys***"
+	{
+		"trans"		"** 我会杀了你们 **"
+	}
+	"***Savage Nael appeared ***"
+	{
+		"trans"		"** 野蛮的Nael出现了 **"
+	}
+	"***Dogde Last Lasers***"
+	{
+		"trans"		"** 通过最后的跳刀 **"
+	}
+	"***Nael Van Darnus DIED***"
+	{
+		"trans"		"** Nael死了 **"
+	}
+	"***Level:Secret Type-0***"
+	{
+		"trans"		"** 关卡：零的秘密 **"
+	}
+	"***Level:Heavens Ward set***"
+	{
+		"trans"		"** 关卡设定为天空禁地 **"
+	}
+	"***Level:type-0 set***"
+	{
+		"trans"		"** 关卡设定为零的秘密 **"
+	}
+	"***Hold this position to 70 seconds***"
+	{
+		"trans"		"** 防守70秒 **"
+	}
+	"***SECRET CLEAR ALLMODE COMPLETE***"
+	{
+		"trans"		"** 你已通过了秘密，所有关卡已完成 **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"blocked"		"1"
+	}
+	"***Level:A Realm Reborn set***"
+	{
+		"trans"		"** 关卡设定为重生领域 **"
+	}
+	"***Level:Normal set***"
+	{
+		"trans"		"** 关卡设定为普通 **"
+	}
+}

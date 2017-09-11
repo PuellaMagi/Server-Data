@@ -1,0 +1,63 @@
+"Chat"
+{
+	"++ DOORS WILL BE UNLOCKED IN 120 SECONDS ++"
+	{
+		"trans"		"** 门将于120秒后解锁 **"
+	}
+	"++ DOORS WILL BE UNLOCKED IN 60 SECONDS ++"
+	{
+		"trans"		"** 门将于60秒后解锁 **"
+	}
+	"++ DOORS WILL BE UNLOCKED IN 30 SECONDS ++"
+	{
+		"trans"		"** 门将于30秒后解锁 **"
+	}
+	"++ FIRST FLOOR WILL BE UNLOCKED IN 10 SECONDS ++"
+	{
+		"trans"		"** 第一层将于10秒后解锁 **"
+	}
+	"++ SECOND FLOOR WILL BE UNLOCKED IN 10 SECONDS ++"
+	{
+		"trans"		"** 第二层将于10秒后解锁 **"
+	}
+	"++ THIRD FLOOR WILL BE UNLOCKED IN 10 SECONDS ++"
+	{
+		"trans"		"** 第三层将于10秒后解锁 **"
+	}
+	"++ ALL FLOORS ARE UNLOCKED ++"
+	{
+		"trans"		"** 所有楼层以解锁 **"
+	}
+	"++ ZOMBIE BARRIERS ARE EASIER TO BREAK NOW ++"
+	{
+		"trans"		"** 僵尸壁垒现在更容易打破 **"
+	}
+	"++ HELICOPTER ON THE WAY ++"
+	{
+		"trans"		"** 直升机正在前来 **"
+	}
+	"++ 30 SECONDS UNTIL ARRIVAL ++"
+	{
+		"trans"		"** 30秒后直升机到来 **"
+	}
+	"++ 20 SECONDS UNTIL THE HELICOPTER LEAVES ++"
+	{
+		"trans"		"** 20秒后直升机离开 **"
+	}
+	"++ HELICOPTER IS LEAVING ++"
+	{
+		"trans"		"** 直升机离岸 **"
+	}
+	"++ NUKE IN 10 SECONDS ++"
+	{
+		"trans"		"** 核弹将于10秒后爆炸 **"
+	}
+	"++ 15 seconds to choose ++"
+	{
+		"trans"		"** 15秒內可供选择 **"
+	}
+	"++ Wrong button! ++"
+	{
+		"trans"		"** 按错了! **"
+	}
+}

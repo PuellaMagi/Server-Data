@@ -1,0 +1,179 @@
+"Chat"
+{
+	"Created by Soft Serve"
+	{
+		"trans"		"** 地图作者:Soft Serve 翻译:Laser **"
+	}
+	"Map ported by www.dashijie.es"
+	{
+		"trans"		"** 移植:www.dashijie.es **"
+	}
+	"*** STAGE I ***"
+	{
+		"trans"		"** 第一关 **"
+	}
+	"ZE Sunlight"
+	{
+		"trans"		"** 日光 **"
+	}
+	"*** Defend for 30 seconds! ***"
+	{
+		"trans"		"** 守住30秒 **"
+	}
+	"*** 5 seconds left ***"
+	{
+		"trans"		"** 剩余5秒 **"
+	}
+	"*** Eye of the Storm has been acquired ***"
+	{
+		"trans"		"** 一名玩家学到了风暴之眼(风) **"
+	}
+	"*** Lift is leaving in 30 seconds ***"
+	{
+		"trans"		"** 电梯30秒后离开 **"
+	}
+	"*** Defend for 20 seconds! ***"
+	{
+		"trans"		"** 守住20秒 **"
+	}
+	"*** Nuke in 1 minute ***"
+	{
+		"trans"		"** 核爆1分钟后降临 **"
+	}
+	"*** Final door is opening in 10 seconds ***"
+	{
+		"trans"		"** 最后的门10秒后打开 **"
+	}
+	"*** Nuke in 10 seconds ***"
+	{
+		"trans"		"** 核爆10秒后降临 **"
+	}
+	"*** Melon Launcher has been acquired ***"
+	{
+		"trans"		"** 一名玩家捡到了甜瓜发射器 **"
+	}
+	"*** Stage completed! ***"
+	{
+		"trans"		"** 第一关通过 **"
+	}
+	"*** STAGE II ***"
+	{
+		"trans"		"** 第二关 **"
+	}
+	"*** Defend for 25 seconds! ***"
+	{
+		"trans"		"** 守住25秒 **"
+	}
+	"*** Defend for 35 seconds! ***"
+	{
+		"trans"		"** 守住35秒 **"
+	}
+	"*** Orange Launcher has been acquired ***"
+	{
+		"trans"		"** 一名玩家捡到了橘子发射器 **"
+	}
+	"*** Defend while one person calls the lift! ***"
+	{
+		"trans"		"** 原地守住僵尸(1个去按电梯开关) **"
+	}
+	"*** Lift is leaving in 10 seconds ***"
+	{
+		"trans"		"** 电梯10秒后离开 **"
+	}
+	"*** STAGE III ***"
+	{
+		"trans"		"** 第三关 **"
+	}
+	"*** Sacrificial Orb has been acquired ***"
+	{
+		"trans"		"** 一名玩家拿起了献祭之球**"
+	}
+	"*** Defend for 45 seconds! ***"
+	{
+		"trans"		"** 守住45秒 **"
+	}
+	"*** Water is rising in 10 seconds ***"
+	{
+		"trans"		"** 水平面10秒后上升 **"
+	}
+	"*** Nuke in 2 minutes ***"
+	{
+		"trans"		"** 核爆2分钟后降临 **"
+	}
+	"*** Stage failed! ***"
+	{
+		"trans"		"** 关卡失败 **"
+	}
+	"[Load ShroomForest2 Config]"
+	{
+		"blocked"		"1"
+	}
+	"[Warmup] Wait for others players to join"
+	{
+		"blocked"		"1"
+	}
+	"*** Zombies have been teleported. Prepare to charge! ***"
+	{
+		"trans"		"** 僵尸已经传送.准备冲锋(风神器自己留意) **"
+	}
+	"*** STAGE IV ***"
+	{
+		"trans"		"** 第四关 **"
+	}
+	"*** Top door is breaking in 20 seconds ***"
+	{
+		"trans"		"** 顶门20秒后打开 **"
+	}
+	"*** Bottom door is breaking in 10 seconds ***"
+	{
+		"trans"		"** 底门10秒后打开 **"
+	}
+	"*** Defend for 60 seconds! ***"
+	{
+		"trans"		"** 守住60秒 **"
+	}
+	"*** The dragon has been defeated. Keep defending the bridge! ***"
+	{
+		"trans"		"** 龙已经倒下了.全力守桥! **"
+	}
+	"*** STAGE V ***"
+	{
+		"trans"		"** 第五关 **"
+	}
+	"*** Teleporting humans in 10 seconds ***"
+	{
+		"trans"		"** 人类10秒后传送 **"
+	}
+	"*** Defend all 3 statues. Do not let zombies near! ***"
+	{
+		"trans"		"** 守住3尊雕像.不能让僵尸靠近! **"
+	}
+	"*** Teleporting zombies in 10 seconds ***"
+	{
+		"trans"		"** 僵尸10秒后传送 **"
+	}
+	"*** 3 minutes left ***"
+	{
+		"trans"		"** 剩余3分钟 **"
+	}
+	"*** 2 minutes left ***"
+	{
+		"trans"		"** 剩余2分钟 **"
+	}
+	"*** 1 minute left ***"
+	{
+		"trans"		"** 剩余1分钟 **"
+	}
+	"*** 10 seconds left ***"
+	{
+		"trans"		"** 剩余10秒 **"
+	}
+	"*** Congratulations! You have completed ZE_SUNLIGHT! ***"
+	{
+		"trans"		"** 恭喜!您已成功完成了日光! **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"blocked"		"1"
+	}
+}

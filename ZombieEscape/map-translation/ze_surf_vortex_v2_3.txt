@@ -1,0 +1,159 @@
+"Chat"
+{
+	"***READY TO RUN***"
+	{
+		"trans"		"** 准备开跑 **"
+	}
+	"***Map by Reflelia***"
+	{
+		"trans"		"** 地图作者:Reflelia 翻译:Laser **"
+	}
+	"***Teleport activates in 20 seconds***"
+	{
+		"trans"		"** 传送20秒后激活**"
+	}
+	"***3***"
+	{
+		"trans"		"** 3 **"
+	}
+	"***2***"
+	{
+		"trans"		"** 2 **"
+	}
+	"***1***"
+	{
+		"trans"		"** 1 **"
+	}
+	"***RUN***"
+	{
+		"trans"		"** 快跑 **"
+	}
+	"***Resist for 60 seconds***"
+	{
+		"trans"		"** 守住60秒 **"
+	}
+	"***Zombies are coming!!***"
+	{
+		"trans"		"** 僵尸来了 **"
+	}
+	"***Teleporting all humans...***"
+	{
+		"trans"		"** 传送所有人类 **"
+	}
+	"***Teleporting all zombies...***"
+	{
+		"trans"		"** 传送所有僵尸 **"
+	}
+	"***Gravity picked up***"
+	{
+		"trans"		"** 一名玩家捡起了黑洞 **"
+	}
+	"***10 SECONDS LEFT***"
+	{
+		"trans"		"** 剩余10秒 **"
+	}
+	"***Resist 60 seconds***"
+	{
+		"trans"		"** 守住60秒 **"
+	}
+	"***Zombies are coming!***"
+	{
+		"trans"		"** 僵尸来了 **"
+	}
+	"***Gravity Used***"
+	{
+		"trans"		"** 黑洞已使用 **"
+	}
+	"***Resist 45 seconds***"
+	{
+		"trans"		"** 守住45秒 **"
+	}
+	"***shorcut open***"
+	{
+		"trans"		"** 捷径已开放 **"
+	}
+	"***Low Health picked up***"
+	{
+		"trans"		"** 一名玩家捡起了低血量 **"
+	}
+	"***Teleport error***"
+	{
+		"trans"		"** 传送出现问题 **"
+	}
+	"***Zombies are coming in 15 seconds***"
+	{
+		"trans"		"** 僵尸15秒后到来 **"
+	}
+	"***Try to find button***"
+	{
+		"trans"		"** 尝试找到按钮 **"
+	}
+	"***Teleport error fixed in 30 seconds***"
+	{
+		"trans"		"** 传送错误在30秒后修复 **"
+	}
+	"***Try to find second button***"
+	{
+		"trans"		"** 尝试找到第2个按钮 **"
+	}
+	"***Low Health Used***"
+	{
+		"trans"		"** 低血量已使用 **"
+	}
+	"***ZOMBIES ARE COMING***"
+	{
+		"trans"		"** 僵尸来了 **"
+	}
+	"***Second teleport fixed in 30 seconds***"
+	{
+		"trans"		"** 第2个传送30秒后启动 **"
+	}
+	"***5 seconds left, prepare yourself***"
+	{
+		"trans"		"** 剩余5秒，做好心理准备 **"
+	}
+	"***Watch out!***"
+	{
+		"trans"		"** 注意跳刀! **"
+	}
+	"***Resist for 30 seconds***"
+	{
+		"trans"		"** 守住30秒(守到门关) **"
+	}
+	"***5 seconds left***"
+	{
+		"trans"		"** 剩余5秒 **"
+	}
+	"***Ready for final surf***"
+	{
+		"trans"		"** 准备最后的滑翔(滑过去就能爽爽无限刷僵尸了) **"
+	}
+	"***Watermelon***"
+	{
+		"trans"		"** 西瓜 **"
+	}
+	"***Detonation in 3 seconds***"
+	{
+		"trans"		"** 3秒后爆炸 **"
+	}
+	"***No Secret Chance***"
+	{
+		"trans"		"** 没有秘密的机会 **"
+	}
+	"***Timed Out***"
+	{
+		"trans"		"** 超时 **"
+	}
+	"***Find Another Button***"
+	{
+		"trans"		"** 找到另一个按钮 **"
+	}
+	"***5 second left***"
+	{
+		"trans"		"** 剩余5秒 **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"blocked"		"1"
+	}
+}

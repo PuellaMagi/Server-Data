@@ -1,0 +1,35 @@
+"Chat"
+{
+	"***1***"
+	{
+		"trans"		"** 第一关 **"
+	}
+	"Map made by xXhamadryadesXx"
+	{
+		"trans"		"** 地图作者:xXhamadryadesXx 翻译:Laser **"
+	}
+	"***Modified by Reflelia***"
+	{
+		"trans"		"** 修改：Reflelia **"
+	}
+	"***2***"
+	{
+		"trans"		"** 第二关 **"
+	}
+	"***3***"
+	{
+		"trans"		"** 第三关 **"
+	}
+	"***4***"
+	{
+		"trans"		"** 第四关 **"
+	}
+	"***5***"
+	{
+		"trans"		"** 第五关 **"
+	}
+	"***COMPLETE!***"
+	{
+		"trans"		"** 通关 **"
+	}
+}

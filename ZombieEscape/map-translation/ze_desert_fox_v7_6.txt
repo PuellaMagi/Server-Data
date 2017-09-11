@@ -1,0 +1,75 @@
+"Chat"
+{
+	"Defend until door open"
+	{
+		"trans"		"** 守住直到门开 **"
+	}
+	"Fall Back"
+	{
+		"trans"		"** 快跑!要被爆菊了! **"
+	}
+	"<< Defend 30 seconds >>"
+	{
+		"trans"		"** 守住30秒**"
+	}
+	"<< 30 seconds until door open >>"
+	{
+		"trans"		"** 守住30秒后门就会打开 **"
+	}
+	"Defend the bridge"
+	{
+		"trans"		"** 守住桥梁 **"
+	}
+	"back off the bridge zombies will be delayed"
+	{
+		"trans"		"** 离开桥上，僵尸会被阻挡一会 **"
+	}
+	"Door open in 5 seconds"
+	{
+		"trans"		"** 门将于5秒后打开 **"
+	}
+	"Door is open"
+	{
+		"trans"		"** 门开了 **"
+	}
+	"Hurry up !! Run !"
+	{
+		"trans"		"** 快点!跑!要被爆菊了!**"
+	}
+	"defend this spot few seconds"
+	{
+		"trans"		"** 守住这里几秒 **"
+	}
+	"Fall Back !!!"
+	{
+		"trans"		"** 撤退!!!要被爆菊了!**"
+	}
+	"You are near the goal"
+	{
+		"trans"		"** 你已经很接近终点了 **"
+	}
+	"<< Cover spot for few seconds >>"
+	{
+		"trans"		"** 守住几秒 **"
+	}
+	"Teleport to boss room will ready in 5 seconds"
+	{
+		"trans"		"** 5秒后传送至boss房**"
+	}
+	"Teleport ready !"
+	{
+		"trans"		"** 传送准备!**"
+	}
+	"boss defeated"
+	{
+		"trans"		"** BOSS已倒下 **"
+	}
+	"<< Nuke has been launched!! 20 seconds until explosion >>"
+	{
+		"trans"		"** 核弹已经发射！20秒后爆炸 **"
+	}
+	"<< Map by Lup4n` >>"
+	{
+		"trans"		"** 地图作者:Lup4n`翻译:Laser **"
+	}
+}

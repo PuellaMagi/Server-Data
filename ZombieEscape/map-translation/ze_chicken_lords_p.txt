@@ -1,0 +1,43 @@
+"Chat"
+{
+	"**Teleporter activating in 7 seconds...**"
+	{
+		"trans"		"** 传送点将于7秒后激活 **"
+	}
+	"**Ladder blockade breaking in 7 seconds...**"
+	{
+		"trans"		"** 梯子封锁在7秒后被突破 **"
+	}
+	"**The other ladder blockade will break in 15 seconds...**"
+	{
+		"trans"		"** 另一个梯子封锁将在15秒后崩溃... **"
+	}
+	"*** Hold 25 seconds ***"
+	{
+		"trans"		"** 守住25秒 **"
+	}
+	"**Teleporting bottom area in 10 seconds!**"
+	{
+		"trans"		"** 10秒后传送底部区域! **"
+	}
+	"**Teleporting bottom area!**"
+	{
+		"trans"		"** 传送底部区域! **"
+	}
+	"*** Teleporting slow players in 10 ***"
+	{
+		"trans"		"** 10秒后 传送速度最慢的人 **"
+	}
+	"**The quarantine platform will begin its ascent in 40 seconds!**"
+	{
+		"trans"		"** 检疫台将在40秒后开始上升! **"
+	}
+	"**The quarantine platform will begin to rise in 5 seconds!**"
+	{
+		"trans"		"** 检疫台将在5秒后开始上升! **"
+	}
+	"**Nuke has been launched!! 10 seconds until explosion**"
+	{
+		"trans"		"**核弹已经发射!10秒后爆炸 **"
+	}
+}

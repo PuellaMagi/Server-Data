@@ -1,0 +1,91 @@
+"Chat"
+{
+	"*** Co-Mapper: starbucks ***"
+	{
+		"trans"		"** 移植:starbucks 翻译:Laser **"
+	}
+	"*** STEAMGAMERS.COM ***"
+	{
+		"trans"		"** 伺服器steamgamers.com **"
+	}
+	"*** Mapper: yardy ***"
+	{
+		"trans"		"** 作者:yardy 翻译:Laser **"
+	}
+	"*** Lift 2 is leaving soon ***"
+	{
+		"trans"		"** 2号电梯马上就要开了 **"
+	}
+	"*** Door is being fixed defend yourself ***"
+	{
+		"trans"		"** 守住直到门修好 **"
+	}
+	"*** ALIEN shield has been activated ***"
+	{
+		"trans"		"** 外星盾被激活了 **"
+	}
+	"*** Alienshield disabled ***"
+	{
+		"trans"		"** 外星武器禁用 **"
+	}
+	"*** Train is leaving soon ***"
+	{
+		"trans"		"** 火车马上就要开了 **"
+	}
+	"*** Defend the area until train leaves ***"
+	{
+		"trans"		"** 守住直到火车启动 **"
+	}
+	"*** Train departing ***"
+	{
+		"trans"		"** 火车正在启动 **"
+	}
+	"*** Oh my god jump off the train before it squeezes you ***"
+	{
+		"trans"		"** Oh my god!在火车撞上之前跳下去，快! **"
+	}
+	"*** Gate opens soon defend yourself ***"
+	{
+		"trans"		"** 守住直到大门开 **"
+	}
+	"*** Hold back the ALIENS while calling the chopper ***"
+	{
+		"trans"		"** 守住直到直升机到达 **"
+	}
+	"*** Second gate stuck ***"
+	{
+		"trans"		"** 第二道门卡住了 **"
+	}
+	"*** Defend yourself until we get it open ***"
+	{
+		"trans"		"** 守住直到大门开 **"
+	}
+	"*** Sea Hawk arrival soon ***"
+	{
+		"trans"		"** 海鹰很快到达 **"
+	}
+	"*** Alien Reactor Overload 50% ***"
+	{
+		"trans"		"** 外星反应堆过载50% **"
+	}
+	"*** Sea Hawk arrival immediately ***"
+	{
+		"trans"		"** 海鹰快抵达了 **"
+	}
+	"*** Alien Reactor Overload 100% ***"
+	{
+		"trans"		"** 外星反应堆过载50% **"
+	}
+	"*** TO BE CONTINUED ***"
+	{
+		"trans"		"** 待续 **"
+	}
+	"*** Lift 1 is leaving soon ***"
+	{
+		"trans"		"** 1号电梯马上就要开了 **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"blocked"		"1"
+	}
+}

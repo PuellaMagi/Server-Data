@@ -1,0 +1,87 @@
+"Chat"
+{
+	"MAP BY GEORGE"
+	{
+		"trans"		"** 地图作者:GEORGE 翻译:Laser **"
+	}
+	"STAGE 1 - HYPER SPACE CUBE"
+	{
+		"trans"		"** STAGE 1 - 超空间立方体 **"
+	}
+	"THANKS TO LUFFAREN"
+	{
+		"trans"		"** 感谢LUFFAREN **"
+	}
+	"THIS MAP IS IN ALPHA. THERE ARE ONLY TWO STAGES BUILT CURRENTLY."
+	{
+		"trans"		"** 这地图只是测试版.目前只有两关. **"
+	}
+	"DOOR OPENS IN 35 SECONDS"
+	{
+		"trans"		"** 门35秒后开启 **"
+	}
+	"ELEVATOR WILL RISE IN 15 SECONDS"
+	{
+		"trans"		"** 电梯将于15秒后上升 **"
+	}
+	"DOOR WILL OPEN IN 25 SECONDS"
+	{
+		"trans"		"** 门将于25秒后开启 **"
+	}
+	"THE DOOR WILL OPEN IN 30 SECONDS"
+	{
+		"trans"		"** 门将于30秒后开启 **"
+	}
+	"THE DOOR WILL OPEN IN 20 SECONDS"
+	{
+		"trans"		"** 门将于20秒后开启 **"
+	}
+	"A WAY WILL OPEN IN 15 SECONDS"
+	{
+		"trans"		"** 路15秒后开放 **"
+	}
+	"A WAY WILL OPEN IN 25 SECONDS! KEEP RESISTING!"
+	{
+		"trans"		"** 路25秒后开放!守住! **"
+	}
+	"THE DOORS WILL OPEN IN 30 SECONDS"
+	{
+		"trans"		"** 门将于30秒后开启 **""
+	}
+	"THE NEXT DOORS WILL OPEN IN 15 SECONDS"
+	{
+		"trans"		"** 下一道门将于15秒后开启 **"
+	}
+	"ELEVATOR WILL RISE IN 30 SECONDS"
+	{
+		"trans"		"** 电梯将于30秒后上升 **"
+	}
+	"STAGE 2 - HARMONIOUS SPATIAL CREATIONS"
+	{
+		"trans"		"** STAGE 2 - 创造和谐空间 **"
+	}
+	"A WAY WILL OPEN IN 40 SECONDS!"
+	{
+		"trans"		"** 路40秒后开放 **"
+	}
+	"KEEP HOLDING! 15 MORE SECONDS!"
+	{
+		"trans"		"** 守住!15秒以上! **"
+	}
+	"THE WAY WILL OPEN IN 20 SECONDS!"
+	{
+		"trans"		"** 路20秒后开放 **"
+	}
+	"THE ELEVATOR WILL RISE IN 30 SECONDS"
+	{
+		"trans"		"** 电梯将于30秒后移动 **"
+	}
+	"THE DOORS WILL OPEN IN 25 SECONDS"
+	{
+		"trans"		"** 门将于25秒后开启 **"
+	}
+	"RESIST FOR 30 MORE SECONDS!"
+	{
+		"trans"		"** 再守住30秒! **"
+	}
+}

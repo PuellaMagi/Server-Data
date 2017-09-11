@@ -1,0 +1,99 @@
+"Chat"
+{
+	"### MAP CREATED BY CISNEROS ###"
+	{
+		"trans"		"** 地图作者:CISNEROS 翻译:Laser **"
+	}
+	"### WELCOME TO ARTIKA BASE ###"
+	{
+		"trans"		"** 欢迎来到ARTIKA基地 **"
+	}
+	"### Objetive: Run for your life ###"
+	{
+		"trans"		"** 目标:为你的生活奔跑 **"
+	}
+	"### The elevator will leave in 25 seconds ###"
+	{
+		"trans"		"** 电梯将于25秒后离开 **"
+	}
+	"### The door will open soon ###"
+	{
+		"trans"		"** 门很快就要开了 **"
+	}
+	"### The door will open in 10 seconds ###"
+	{
+		"trans"		"** 门将于10秒后打开 **"
+	}
+	"### The elevator will leave in 15 sec ###"
+	{
+		"trans"		"** 电梯将于15秒后离开 **"
+	}
+	"### The door will open in 25 seconds ###"
+	{
+		"trans"		"** 门将于25秒后打开 **"
+	}
+	"### Hold this position ###"
+	{
+		"trans"		"** 守住这个地方 **"
+	}
+	"### The door will open soon###"
+	{
+		"trans"		"** 门很快就要开了 **"
+	}
+	"### The door is open ###"
+	{
+		"trans"		"** 门开启了 **"
+	}
+	"### The door will open in 40 seconds ###"
+	{
+		"trans"		"** 门将于40秒后打开 **"
+	}
+	"### Hold this position! ###"
+	{
+		"trans"		"** 守住这个地方 **"
+	}
+	"### The door will open in 5 seconds ###"
+	{
+		"trans"		"** 门将于5秒后打开 **"
+	}
+	"### The door will open in 20 seconds ###"
+	{
+		"trans"		"** 门将于20秒后打开 **"
+	}
+	"### The tram will leave in 25 seconds ###"
+	{
+		"trans"		"** 电车将于25秒后离开 **"
+	}
+	"### The tram will leave in 5 seconds ###"
+	{
+		"trans"		"** 电车将于5秒后离开 **"
+	}
+	"### Hold this place! ###"
+	{
+		"trans"		"** 守住这个地方! **"
+	}
+	"### The elevator will leave in 35 seconds ###"
+	{
+		"trans"		"** 电梯将于35秒后离开 **"
+	}
+	"### The elevator will leave in 5 seconds ###"
+	{
+		"trans"		"** 电梯将于5秒后离开 **"
+	}
+	"### The final door will open in 50 seconds ###"
+	{
+		"trans"		"** 最终的门将于50秒后打开 **"
+	}
+	"### The final door will open in 10 seconds ###"
+	{
+		"trans"		"** 最终的门将于10秒后打开 **"
+	}
+	"### The final door will close in 10 seconds ###"
+	{
+		"trans"		"** 最终的门将于10秒后关闭 **"
+	}
+	"### The ship is coming ###"
+	{
+		"trans"		"** 船来了 **"
+	}
+}

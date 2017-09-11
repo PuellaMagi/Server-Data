@@ -1,0 +1,72 @@
+"Chat"
+{
+	"**The door will open in 45 seconds. Cover!!**"
+	{
+		"trans"		"** 门将于45秒后开启.守住僵尸!! **"
+
+	}
+	"**Door is open 10 sec**"
+	{
+		"trans"		"** 门10秒后开启 **"
+	}
+	"**Elevator is leaving in 25s**"
+	{
+		"trans"		"** 电梯25秒后离开 **"
+	}
+	"**Elevator is leaving in 5s**"
+	{
+		"trans"		"** 电梯5秒后离开 **"
+	}
+	"**Boats will arrive in 30 seconds**"
+	{
+		"trans"		"** 小船将于30秒后抵达(必须压着僵尸传送点) **"
+	}
+	"***Boat is leaving***"
+	{
+		"trans"		"** 小船出发(守多一会才走) **"
+	}
+	"***The teleporter its now available for zombies!***"
+	{
+		"trans"		"** 僵尸可以进入滑翔传送点了 **"
+	}
+	"** Boss Fight in 10s **"
+	{
+		"trans"		"** 10秒后准备打BOSS(守住别让僵尸过来) **"
+	}
+	"** Boss Fight in 5s **"
+	{
+		"trans"		"** 5秒后准备打BOSS(守住别让僵尸过来) **"
+	}
+	"** Nades do more damage **"
+	{
+		"trans"		"** 手雷可以造成更多伤害 **"
+	}
+	"** Boss is dead - Escape ! **"
+	{
+		"trans"		"** BOSS死了，快回头守僵尸并慢慢收窄位置 **"
+	}
+	"**The door will open in 30 seconds. Cover!!**"
+	{
+		"trans"		"** 门将于30秒后开启.守住!! **"
+	}
+	"***Congratulations!***"
+	{
+		"trans"		"** 恭喜! **"
+	}
+	"***Map fixed by Et3rnity***"
+	{
+		"trans"		"** 地图完成:Et3rnity 翻译:Laser **"
+	}
+	"**Boat will arrive in 30 seconds**"
+	{
+		"trans"		"** 小船将于30秒后抵达(必须压着僵尸传送点) **"
+	}
+	"**Elevator is leaving in 35s**"
+	{
+		"trans"		"** 电梯35秒后离开 **"
+	}
+	"*** You took way too long ! ***"
+	{
+		"trans"		"** 你走得太久了! **"
+	}
+}

@@ -1,0 +1,316 @@
+"Chat"
+{
+	"*** ze_Chrono_Trigger. ***"
+	{
+		"trans"		"** 地图作者:?? 翻译:Laser **"
+	}
+	"*** Version: Alpha 3 ***"
+	{
+		"blocked"		"1"
+	}
+	"*** Teleporter activating in 25 seconds. ***"
+	{
+		"trans"		"** 传送点将于25秒后激活 **"
+	}
+	"*** Teleporter activating in 15 seconds. ***"
+	{
+		"trans"		"** 传送点将于15秒后激活 **"
+	}
+	"*** Teleporter activating in 5 seconds. ***"
+	{
+		"trans"		"** 传送点将于5秒后激活 **"
+	}
+	"*** Teleporter active! ***"
+	{
+		"trans"		"** 传送点激活 **"
+	}
+	"*** Requesting access from Zeal Palace. ***"
+	{
+		"trans"		"** 请求进入热血宫殿 **"
+	}
+	"*** Access granted. ***"
+	{
+		"trans"		"** 允许访问 **"
+	}
+	"*** Teleporter activating in 35 seconds. ***"
+	{
+		"trans"		"** 传送点将于35秒后激活 **"
+	}
+	"*** Teleporter activating in 30 seconds. ***"
+	{
+		"trans"   	"** 传送点将于30秒后激活 **"
+	}
+	"*** Zombies teleporting in 3 seconds... ***"
+	{
+		"trans"		"** 僵尸将于3秒后传送... **"
+	}
+	"*** Teleporter activating in 20 seconds. ***"
+	{
+		"trans"		"** 传送点将于20秒后激活 **"
+	}
+	"*** Teleporter activating in 10 seconds. ***"
+	{
+		"trans"		"** 传送点将于10秒后激活 **"
+	}
+	"*** Bridge spawning in 20 seconds... ***"
+	{
+		"trans"		"** 桥将于20秒后开放... **"
+	}
+	"*** Zombies teleporting in 3 seconds.... ***"
+	{
+		"trans"		"** 僵尸将于3秒后传送... **"
+	}
+	"*** Bridge spawning in 10 seconds... ***"
+	{
+		"trans"		"** 桥将于10秒后开放... **"
+	}
+	"*** Barrier 1 breaking in 20 seconds... ***"
+	{
+		"trans"		"** 屏障1将于20秒后打开 **"
+	}
+	"*** Barrier 1 breaking in 10 seconds... ***"
+	{
+		"trans"		"** 屏障1将于10秒后打开 **"
+	}
+	"*** Barrier 2 breaking in 10 seconds... ***"
+	{
+		"trans"		"** 屏障2将于10秒后打开 **"
+	}
+	"*** The temple is locked? ***"
+	{
+		"trans"		"** 寺庙被锁上了吗? **"
+	}
+	"*** .... ***"
+	{
+		"trans"		"** .... **"
+	}
+	"*** Defend until something happens. ***"
+	{
+		"trans"		"** 全力守住这里. **"
+	}
+	"*** Zombies are teleporting in 3 seconds. ***"
+	{
+		"trans"		"** 僵尸将于3秒后传送. **"
+	}
+	"*** The door is open, fall back!. ***"
+	{
+		"trans"		"** 门已开了，撤退! **"
+	}
+	"*** The door will be closing in 5 seconds.... ***"
+	{
+		"trans"		"** 大门将于5秒后关闭 **"
+	}
+	"*** Lucca: This doesnt look like Zeal Palace. ***"
+	{
+		"trans"		"** Lucca:这看起来并不像热血宫殿 **"
+	}
+	"*** Lucca: With this machine in the middle, Id almost say it was ***"
+	{
+		"trans"		"** Lucca:把这台机械放去中间，我几乎说是这样 **"
+	}
+	"*** ALERT: HUMANS DETECTED IN THE SECURITY SYSTEM ***"
+	{
+		"trans"		"** 警报:安全系统中检测到人 **"
+	}
+	"*** PREPARE TO BE ELIMINATED ***"
+	{
+		"trans"		"** 准备消除 **"
+	}
+	"*** Security System used: Terminate ***"
+	{
+		"trans"		"** 使用安全系统:终止 **"
+	}
+	"*** Security System uses: Gravity ***"
+	{
+		"trans"		"** 安全系统使用:重力 **"
+	}
+	"*** Security System uses: Delta Attack ***"
+	{
+		"trans"		"** 安全系统使用:三角攻击 **"
+	}
+	"*** Security System uses: Reversal ***"
+	{
+		"trans"		"** 安全系统使用:反转 **"
+	}
+	"*** Security System uses: Reduction ***"
+	{
+		"trans"		"** 安全系统使用:减少 **"
+	}
+	"*** The Security System has been defeated. ***"
+	{
+		"trans"		"** 安全系统已经被打败了. **"
+	}
+	"*** ALERT! SELF DESTRUCT MODE INITIATING***"
+	{
+		"trans"		"** 警报!自毁式系統启动 **"
+	}
+	"*** Hurry, get in the teleporter! ***"
+	{
+		"trans"		"** 快点，进入传送点! **"
+	}
+	"*** Stage 1 Completed! ***"
+	{
+		"trans"		"** Stage 1已通过 **"
+	}
+	"*** Stay away from the teleporter as it activates. ***"
+	{
+		"trans"		"** 远离传送器，因为它激活中 **"
+	}
+	"*** ADMIN HAS SWITCHED TO LEVEL 2.... ***"
+	{
+		"trans"		"** 管理员把关卡调到LEVEL 2.... **"
+	}
+	"*** So you were able to escape... ***"
+	{
+		"trans"		"** 这样你就可以逃脱了... **"
+	}
+	"*** The Prophet was right... ***"
+	{
+		"trans"		"** 预言是对的... **"
+	}
+	"*** You must be stopped! ***"
+	{
+		"trans"		"** 你必须停下來! **"
+	}
+	"*** Dalton: We will meet again... ***"
+	{
+		"trans"		"** Dalton:我们还会见面的... **"
+	}
+	"*** Temple doors will open in 30 seconds. ***"
+	{
+		"trans"		"** 庙宇的门将于30秒后打开. **"
+	}
+	"*** Temple doors will open in 10 seconds. ***"
+	{
+		"trans"		"** 庙宇的门将于10秒后打开. **"
+		"command"	"sm_aei_hammerid 70287 enable"
+	}
+	"*** Temple doors will open in 5 seconds. ***"
+	{
+		"trans"		"** 庙宇的门将于5秒后打开. **"
+	}
+	"*** The door is open, escape! ***"
+	{
+		"trans"		"** 门已经开了，快逃跑! **"
+	}
+	"*** Barrier 1 breaking in 15 seconds.. ***"
+	{
+		"trans"		"** 屏障1将于20秒后打开.. **"
+	}
+	"*** Barrier 2 breaking in 15 seconds.. ***"
+	{
+		"trans"		"** 屏障2将于15秒后打开.. **"
+	}
+	"*** Barrier 3 breaking in 15 seconds.. ***"
+	{
+		"trans"		"** 屏障3将于15秒后打开.. **"
+	}
+	"*** Defend for 20 seconds aboard the bridge! ***"
+	{
+		"trans"		"** 在桥上守住20秒! **"
+	}
+	"*** Defend for 10 seconds aboard the bridge! ***"
+	{
+		"trans"		"** 在桥上守住10秒! **"
+	}
+	"*** Defend for 5 seconds aboard the bridge! ***"
+	{
+		"trans"		"** 在桥上守住5秒! **"
+	}
+	"*** Dalton: So you finally decided to show up. ***"
+	{
+		"trans"		"** Dalton:所以你终于决定露面了 **"
+	}
+	"*** Dalton: I let the Prophet go, knowing hed mess up sooner or later. ***"
+	{
+		"trans"		"** Dalton:我让先知走了，知道迟早会混乱. **"
+	}
+	"*** Dalton: But Ive no use for you anymore. ***"
+	{
+		"trans"		"** Dalton:但对你来说也没用了. **"
+	}
+	"*** Dalton: Youre history!. ***"
+	{
+		"trans"		"** Dalton:成为历史吧! **"
+	}
+	"*** Dalton uses: Omega Flare! Dodge the laser! ***"
+	{
+		"trans"		"** Dalton使用:奧米加耀光!躲开激光!**"
+	}
+	"*** Dalton uses: Chaotic Zone! Get away from the zombies! ***"
+	{
+		"trans"		"** Dalton使用:混乱地带!远离僵尸! **"
+	}
+	"*** Dalton uses: Vortex! Get away from the sides! ***"
+	{
+		"trans"		"** Dalton使用:旋涡!离开两边! **"
+	}
+	"*** The vortex has disappeared! ***"
+	{
+		"trans"		"** 漩涡消失了! **"
+	}
+	"*** Dalton uses: Hexagon Mist! Crouch! ***"
+	{
+		"trans"		"** Dalton使用:六角薄雾!蹲下! **"
+	}
+	"*** The mist has disappeared! ***"
+	{
+		"trans"		"** 薄雾已经消失了! **"
+	}
+	"*** Dalton uses: Vortex! Get away from the middle! ***"
+	{
+		"trans"		"** Dalton使用:漩涡!远离中间! **"
+	}
+	"*** Dalton uses: Teleportation! Get away from the middle! ***"
+	{
+		"trans"		"** Dalton使用:传送!远离中间! **"
+	}
+	"*** Dalton uses: Hexagon Mist! Jump! ***"
+	{
+		"trans"		"** Dalton使用:六角薄雾!跳起來!**"
+	}
+	"*** Dalton: Ive been... defeated? ***"
+	{
+		"trans"		"** Dalton:我...被打败了? **"
+	}
+	"*** Dalton: Not yet. I still have one more thing up my sleeve. ***"
+	{
+		"trans"		"** Dalton:还没.我还有一个秘密武器. **"
+	}
+	"*** Dalton: You wont survive this! ***"
+	{
+		"trans"		"** Dalton:你不能活下来! **"
+	}
+	"*** Dalton: Say goodbye! ***"
+	{
+		"trans"		"** Dalton:再见了 **"
+	}
+	"*** Dalton: No! I cant be defeated now! ***"
+	{
+		"trans"		"** Dalton:不!我现在不能被打败! **"
+	}
+	"*** Dalton: Not when immortality is so close to hand. ***"
+	{
+		"trans"		"** Dalton:不朽是离我们如此之近. **"
+	}
+	"*** Dalton: We will meet again. ***"
+	{
+		"trans"		"** Dalton:我们还会见面的. **"
+	}
+	"*** Defend for 20 seconds! ***"
+	{
+		"trans"		"** 守住20秒 **"
+	}
+	"*** Defend for 10 seconds! ***"
+	{
+		"trans"		"** 守住10秒 **"
+	}
+	"*** Defend for 5 seconds! ***"
+	{
+		"trans"		"** 守住5秒!! **"
+	}
+	"*** Stage 2 has been completed! ***"
+	{
+		"trans"		"** Stage 2已通过! **"
+	}
+}

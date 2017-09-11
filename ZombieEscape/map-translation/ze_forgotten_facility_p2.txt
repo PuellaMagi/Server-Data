@@ -1,0 +1,131 @@
+"Chat"
+{
+	"* * Map by Mojonero * *"
+	{
+		"trans"		"** 地图:Mojonero 翻译:Laser **"
+	}
+	"**Shaft 2 will open in 15 seconds**"
+	{
+		"trans"		"** 轴2将于15秒后开启 **"
+	}
+	"**Door 2 will open in 10 seconds**"
+	{
+		"trans"		"** 第二道门将于10秒后打开 **"
+	}
+	"**Elevator is activated. Leaving in 12 seconds**"
+	{
+		"trans"		"** 电梯启动.12秒后离开 **"
+	}
+	"**The swine flu disease will reach the first floor in 10 seconds**"
+	{
+		"trans"		"** 猪流感病将于10秒后到达一楼 **"
+	}
+	"**The poison waste machines have been activated**"
+	{
+		"trans"		"** 有毒废物的机器已经激活 **"
+	}
+	"**The elevator door will open in 40 seconds**"
+	{
+		"trans"		"** 电梯门将于40秒后打开 **"
+	}
+	"**The elevator door will open in 10 seconds**"
+	{
+		"trans"		"** 电梯门将于10秒后打开 **"
+	}
+	"**The elevator door is now open. Closing in 5 seconds**"
+	{
+		"trans"		"** 电梯门已打开.5秒后离开 **"
+	}
+	"**The ebola disease will reach the second floor in 10 seconds**"
+	{
+		"trans"		"** 埃博拉病毒将于10秒后到达二楼 **"
+	}
+	"**Final Door will open in 30 seconds**"
+	{
+		"trans"		"** 最后的大门将于30秒后打开 **"
+	}
+	"**The infected have passed the final door!**"
+	{
+		"trans"		"** 检测到僵尸,人类输了! **"
+	}
+	"**Zombies will be teleported in 35 secs!**"
+	{
+		"trans"		"** 僵尸将于35秒后传送! **"
+	}
+	"**Zombies arriving closer in 20 secs!**"
+	{
+		"trans"		"** 僵尸20秒后更接近! **"
+	}
+	"**The bridge is preparing for activation...**"
+	{
+		"trans"		"** 这座桥正在准备激活... **"
+	}
+	"**Door 1 will open in 10 seconds**"
+	{
+		"trans"		"** 第一道门将于10秒后打开 **"
+	}
+	"**Shaft 1 will open in 15 seconds**"
+	{
+		"trans"		"** 杆1将于10秒后启动 **"
+	}
+	"**The junk machines will start in 3 seconds...**"
+	{
+		"trans"		"** 垃圾机器将于3秒后启动... **"
+	}
+	"**Prevent the infected from crossing the bridge!**"
+	{
+		"trans"		"** 阻止僵尸过桥! **"
+	}
+	"**Zombies arriving in 5 secs!**"
+	{
+		"trans"		"** 僵尸5秒后到达! **"
+	}
+	"**Activated the emergency button...**"
+	{
+		"trans"		"** 激活紧急按钮... **"
+	}
+	"**Preparing fuel. Help will arrive in 40 seconds**"
+	{
+		"trans"		"** 制备燃料。救援将于40秒内到达 **"
+	}
+	"**The teleports are now enabled!**"
+	{
+		"trans"		"** 立即启用传送! **"
+	}
+	"**Help will arrive in 20 seconds**"
+	{
+		"trans"		"** 救援将于20秒后到达 **"
+	}
+	"**Help will arrive in 10 seconds!**"
+	{
+		"trans"		"** 救援将于10秒后到达! **"
+	}
+	"**Help has arrived. Departure in 15 seconds**"
+	{
+		"trans"		"** 救援抵达.15秒后离开 **"
+	}
+	"** Defend the gates until departure!**"
+	{
+		"trans"		"** 守住大门直到我们出发! **"
+	}
+	"**Departure in 5 seconds**"
+	{
+		"trans"		"** 5秒后出发 **"
+	}
+	"**The nukes have been launched!!**"
+	{
+		"trans"		"** 核武器已经发射!! **"
+	}
+	"**Map made by: Westsid3r**"
+	{
+		"trans"		"** 地图作者:Westsid3r 翻译:Laser**"
+	}
+	"**Closing gates in...**"
+	{
+		"trans"		"** 关闭大门... **"
+	}
+	"**The machines have now been shut off...**"
+	{
+		"trans"		"** 这些机器现已关闭... **"
+	}
+}

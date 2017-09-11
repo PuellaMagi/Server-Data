@@ -1,0 +1,63 @@
+"Chat"
+{
+	"### STAY AWAY FROM CONTAMINATE AREAS ###"
+	{
+		"trans"		"** 远离污染区域 **"
+	}
+	"### USE OFFICE DOOR INSTEAD !! ###"
+	{
+		"trans"		"** 用办公室门代替!! **"
+	}
+	"* * Map by Mojonero * *"
+	{
+		"trans"		"** 地图作者:Mojonero 翻译:Laser **"
+	}
+	"### !! BOTH GATES OPEN  !! ###"
+	{
+		"trans"		"** !!门都已打开!! **"
+	}
+	"### 10 SECONDS REMAINING ###"
+	{
+		"trans"		"** 剩余10秒 **"
+	}
+	"### PRESS THE CONTROLER ###"
+	{
+		"trans"		"** 按下控制器 **"
+	}
+	"### TO DESTROY THE BRIDGE ###"
+	{
+		"trans"		"** 摧毁这座桥 **"
+	}
+	"### FENCE GATES ARE CLOSING ###"
+	{
+		"trans"		"** 栅栏门正在关上 **"
+	}
+	"## POISON GAS HAS BEEN RELEASED !! ##"
+	{
+		"trans"		"** 毒气泄漏了!! **"
+	}
+	"### !!! USE THE LEFT EXIT !! ###"
+	{
+		"trans"		"** 去左出口!! **"
+	}
+	"### ELEVATOR IS LEAVING ###"
+	{
+		"trans"		"** 电梯正在离开 **"
+	}
+	"### IN 10 SECONDS ###"
+	{
+		"trans"		"** 剩下10秒了 **"
+	}
+	"### ZOMBIES USE THE LEFT LADDER INSTEAD ###"
+	{
+		"trans"		"** 僵尸可以用左边的梯子代替 **"
+	}
+	"### LADDER DOOR OPENS ###"
+	{
+		"trans"		"** 梯门打开 **"
+	}
+	"### DEFEND THE LADDER NOW ###"
+	{
+		"trans"		"** 守住梯子 **"
+	}
+}

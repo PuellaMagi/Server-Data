@@ -1,0 +1,311 @@
+"Chat"
+{
+	"** We have reached the ranch at the edge of the peninsula. **"
+	{
+		"trans"		"** 我们到达了半岛边缘的牧场. **"
+	}
+	"** Our reports show that some sort of facility is hidden within it... **"
+	{
+		"trans"		"** 我们的报告显示，某种设施隐藏在里面... **"
+	}
+	"** MISSION: FIND A WAY IN! NEUTRALIZE ANY OPPOSING FORCE! **"
+	{
+		"trans"		"** 任务:找到一条路!解决任何对立的力量! **"
+	}
+	"** Wait until we meet up! Hold the zombies off! **"
+	{
+		"trans"		"** 等到我们见面了再说!先形成禁闭僵尸的场所! **"
+	}
+	"** MOVE! **"
+	{
+		"trans"		"** 快撤退!要被爆菊了! **"
+	}
+	"** This little tram seems to go well with the factory: it has chickens. **"
+	{
+		"trans"		"** 这辆小电车似乎很好:但它有鸡. **"
+	}
+	"** Why would they even trap 4 chickens on a tram that doesnt seem to move...? **"
+	{
+		"trans"		"** 为什么他们会把4只鸡放在一辆不动的电车上...? **"
+	}
+	"** ... **"
+	{
+		"trans"		"** ... **"
+	}
+	"** WAIT! THE CHICKENS ARE THE POWER! SHOOT THEM! **"
+	{
+		"trans"		"** 等等!这些小鸡是能量!朝它们开枪! **"
+	}
+	"** FIND A WAY INTO THE COMPOUND! ACTIVATE THE LIFT! **"
+	{
+		"trans"		"** 找一条进入大院的路!启动电梯! **"
+	}
+	"** Chicken nugget production interrupted! Emergency elevator leaving soon! **"
+	{
+		"trans"		"** 鸡能量中断！紧急电梯即将离开! **"
+	}
+	"** The chicken has stepped on the energetic relay! HOLD! **"
+	{
+		"trans"		"** 小鸡踩上了能量继电器!守住! **"
+	}
+	"** The door shall open soon. **"
+	{
+		"trans"		"** 门很快就要开了. **"
+	}
+	"** Unlocking nuclear feather-powered silo doors... **"
+	{
+		"trans"		"** 解锁核羽动力筒仓门... **"
+	}
+	"** MOVE! WE GOTTA GET THROUGH! **"
+	{
+		"trans"		"** 撤退!我们一定要通过! **"
+	}
+	"** We are close to the central warehouse... **"
+	{
+		"trans"		"** 我们接近中央仓库了... **"
+	}
+	"** HOLD! WE NEED TO RESIST WHILE THE DOOR OPENS! **"
+	{
+		"trans"		"** 守住!我们需要守到门开! **"
+	}
+	"** Were in one of the main warehouses... **"
+	{
+		"trans"		"** 我们进入了仓库里面... **"
+	}
+	"** The rocket fuel seems to be cooled in those sketchy tanks - but what is it? **"
+	{
+		"trans"		"** 火箭燃料似乎在那些粗略的坦克里冷却了 - 但这是什么? **"
+	}
+	"** Enabling the ignition process... Rocket launch started... **"
+	{
+		"trans"		"** 启动点火过程...准备发射... **"
+	}
+	"** Somethings wrong! There seems to be an fuel overload! **"
+	{
+		"trans"		"** 出错了!有燃料过载了! **"
+	}
+	"** THE FUEL CONTAINER IS OPENING! **"
+	{
+		"trans"		"** 燃料箱泄露了! **"
+	}
+	"** Quick! Trim the excess of nuclear chickens! **"
+	{
+		"trans"		"** 快!把受辐射污染的鸡杀掉! **"
+	}
+	"** We have interrupted the explosion for now... **"
+	{
+		"trans"		"** 我们暂时中断了这次爆炸…... **"
+	}
+	"** The radiactive chicken remains are toxic! The air is getting contaminated! **"
+	{
+		"trans"		"** 鸡的核污染是放射性的!空气被污染了! **"
+	}
+	"** QUICK! GET INTO THE SAFE ROOM! **"
+	{
+		"trans"		"** 快!进入安全室! **"
+	}
+	"** We should not be affected by the toxins here... **"
+	{
+		"trans"		"** 我们可不想受到这里毒素的影响... **"
+	}
+	"** THE TOXINS ARE GETTING IN THE VENTILATION SYSTEM! WERE DOOMED! **"
+	{
+		"trans"		"** 这些毒素正进入通风系统!无法处理了! **"
+	}
+	"** We need to find a way out! The rocket is going to blow up! **"
+	{
+		"trans"		"** 我们需要找到出路!火箭要爆炸了! **"
+	}
+	"** According to our data we must be close to one of the energy plants... **"
+	{
+		"trans"		"** 根据我们的情报，我们必须靠近一个能源工厂... **"
+	}
+	"** Hold the line! The doors will open soon and we will get to one of the underground power plants! **"
+	{
+		"trans"		"** 守住到底!门很快就要开了，我们去地下发电厂! **"
+	}
+	"** KEEP IT UP! THE SECURITY DOORS ARE CRACKED NOW! **"
+	{
+		"trans"		"** 守住这里!防盗门现在坏了! **"
+	}
+	"** GO! GO! GO! We should be close to an exit of some sort! **"
+	{
+		"trans"		"** 快走!我们要寻找一个出口! **"
+	}
+	"** MOVE! The facility is blowing up and this area is likely to colapse! **"
+	{
+		"trans"		"** 快跑!该设施可能会崩溃! **"
+	}
+	"** This is enormous... **"
+	{
+		"trans"		"** 这是多么的庞大... **"
+	}
+	"** The power plant is at the other side - we need to get there! Be careful not to fall! **"
+	{
+		"trans"		"** 发电厂在另一边 - 我们需要到那里去!小心不要摔倒! **"
+	}
+	"** GET GOING! ITS GETTING WORSE! **"
+	{
+		"trans"		"** 快走!越来越糟了! **"
+	}
+	"** The door seems locked... **"
+	{
+		"trans"		"** 门好像锁上了... **"
+	}
+	"** RESIST UNTIL WE CAN GET THROUGH! HOLD IT! **"
+	{
+		"trans"		"** 守住这里直到我们能够通过!守住! **"
+	}
+	"** GO! GET INSIDE AND USE THE LIFT! THIS IS ABOUT TO BLOW! **"
+	{
+		"trans"		"** 快进去!进入电梯!这里开始崩溃了! **"
+	}
+	"** HOLD! THE ELEVATORS ENGINES ARE WARMING UP! **"
+	{
+		"trans"		"** 守住!电梯发动机在预热! **"
+	}
+	"** KEEP IT UP! RESIST! **"
+	{
+		"trans"		"** 坚持住!守住! **"
+	}
+	"** ONE LAST BIT! HOLD IT! **"
+	{
+		"trans"		"** 所有人都快上电梯!守住! **"
+	}
+	"** ZOMBIES DETECTED - MISSION FAILED! **"
+	{
+		"trans"		"** 检测到僵尸 - 本关失败! **"
+	}
+	"** CONGRATULATIONS TEAM - WE DID IT! **"
+	{
+		"trans"		"** 恭喜队伍 - 我们做到了! **"
+	}
+	"** We are in the depths of the facility... **"
+	{
+		"trans"		"** 我们在设施的深处... **"
+	}
+	"** The airstrike team will be blowing up the command center soon! **"
+	{
+		"trans"		"** 空袭小组很快就会来炸毁这里的指挥中心! **"
+	}
+	"** MISSION: FIND A WAY OUT! NEUTRALIZE ANY OPPOSING FORCE! **"
+	{
+		"trans"		"** 任务：找到出路！干掉任何对立的力量! **"
+	}
+	"** GET TOGETHER! Were close to the outdoor areas! **"
+	{
+		"trans"		"** 我们要团结一致，已经接近外面了! **"
+	}
+	"** MOVE! WE GOTTA REACH THE EXTRACTION POINT AT THE HELIPAD! **"
+	{
+		"trans"		"** 快走!我们要到停机坪! **"
+	}
+	"** The direct pathway towards the underground exit is locked... **"
+	{
+		"trans"		"** 通往地下出口的直接通道已被锁住... **"
+	}
+	"** HOLD! We will try to find a way from the facilitys top instead! **"
+	{
+		"trans"		"** 守住!我们需要寻找新的一条逃生路线! **"
+	}
+	"** GET READY! The door is about to open! **"
+	{
+		"trans"		"** 做好准备!门就要开了! **"
+	}
+	"** Look! The control tower has been blown up! **"
+	{
+		"trans"		"** 看!控制塔被炸毁了! **"
+	}
+	"** We can now hijack one of the helicopters and leave! **"
+	{
+		"trans"		"** 我们现在可以劫持其中一架直升机离开! **"
+	}
+	"** SECURITY SYSTEM BREACHED! THE PATH WILL SHOW SOON! **"
+	{
+		"trans"		"** 安全系统遭到破坏!这条路很快就会开放! **"
+	}
+	"** RESIST! THE ELEVATOR DOOR WILL BE OPENING SOON! **"
+	{
+		"trans"		"** 守住!电梯门很快就要开了! **"
+	}
+	"** GET INSIDE! THE ELEVATOR IS LEAVING SOON! **"
+	{
+		"trans"		"** 进去!电梯马上就要开了! **"
+	}
+	"** This door seems locked! Hold the line while we open it! **"
+	{
+		"trans"		"** 这扇门好像锁住了!我们需要一些开门的时间! **"
+	}
+	"** HOLD RIGHT HERE! THE EXTRACTION POINT IS CLOSE! **"
+	{
+		"trans"		"** 就在这儿守住!提取点接近! **"
+	}
+	"** GO! COVER YOUR TEAM MATES AND GET MOVING! **"
+	{
+		"trans"		"** 快跑!掩护你的队友并开始前进! **"
+	}
+	"** WE HAVE REACHED THE HELIPAD! RESIST! **"
+	{
+		"trans"		"** 我们已经达到了直升机停机坪!守住! **"
+	}
+	"** The helicopters engines will take a bit to warm up! Dont let them through! **"
+	{
+		"trans"		"** 直升机引擎需要预热一下!不要让僵尸过来! **"
+	}
+	"** DONT GIVE UP! HOLD IT! **"
+	{
+		"trans"		"** 不要放弃!守住这里! **"
+	}
+	"** KEEP IT UP! THE BLADES ARE MOVING! **"
+	{
+		"trans"		"** 坚持住!要起飞了! **"
+	}
+	"** GET ON! WERE LEAVING! GO! **"
+	{
+		"trans"		"** 快上飞机!我们要离开这地方了! **"
+	}
+	"** COVER YOUR EYES! THE NUCLEAR WARHEAD IS COMING! **"
+	{
+		"trans"		"** 遮住你的眼睛!核弹就要来了! **"
+	}
+	"** ITS GOING TO BLOW!!! **"
+	{
+		"trans"		"** 它要爆炸了!!! **"
+	}
+	"** FANTASTIC JOB - YOU ESCAPED FROM THE CHICKEN RANCH! **"
+	{
+		"trans"		"** 你们做得好 - 从鸡农场逃走了! **"
+	}
+	"** THE MAP WILL RESET NOW - THANKS FOR PLAYING! **"
+	{
+		"trans"		"** 地图现在会重置 - 感谢游玩! **"
+	}
+	"** WE WERE TOO SLOW! TACTICAL NUKE INBOUND! **"
+	{
+		"trans"		"** 我们太慢了!核武器已经先到了! **"
+	}
+	"** NUKE INCOMING IN 5 **"
+	{
+		"trans"		"** 核弹爆炸剩余5秒 **"
+	}
+	"** 4 **"
+	{
+		"trans"		"** 核弹爆炸剩余4秒 **"
+	}
+	"** 3 **"
+	{
+		"trans"		"** 核弹爆炸剩余3秒 **"
+	}
+	"** 2 **"
+	{
+		"trans"		"** 核弹爆炸剩余2秒 **"
+	}
+	"** 1 **"
+	{
+		"trans"		"** 核弹爆炸剩余1秒 **"
+	}
+	"** MISSION FAILED - ZOMBIES ON THE HELICOPTER! **"
+	{
+		"trans"		"** 任务失败-直升机有僵尸! **"
+	}
+}

@@ -1,0 +1,111 @@
+"Chat"
+{
+	">>LEVEL 1<<"
+	{
+		"trans"		"** LEVEL 1 **"
+	}
+	"***HOLD FOR 20 seconds***"
+	{
+		"trans"		"** 守住20秒 **"
+	}
+	"***GO!GO!GO!***"
+	{
+		"trans"		"** 快跑!要被爆菊啦! **"
+	}
+	"*** SHOOT THE WALL ***"
+	{
+		"trans"		"** 射击这道墙 **"
+	}
+	"***HOLD FOR 30 seconds***"
+	{
+		"trans"		"** 守住30秒 **"
+	}
+	"***HOLD FOR 10 seconds***"
+	{
+		"trans"		"** 守住10秒 **"
+	}
+	"LEVEL COMPLETED!!"
+	{
+		"trans"		"** 第一关已通过!! **"
+	}
+	"***ZOMBIES INSIDE!!!***"
+	{
+		"trans"		"** 僵尸在里面!!! **"
+	}
+	">>LEVEL 2<<"
+	{
+		"trans"		"** LEVEL 2 **"
+	}
+	"***GO!***"
+	{
+		"trans"		"** 快跑!要被爆菊啦! **"
+	}
+	"***STAY ON GLOWING AREA OR...***"
+	{
+		"trans"		"** 停留在发光区域或... **"
+	}
+	"***--- YOU WILL DIE WHEN BALLOON STARTS MOVING***"
+	{
+		"trans"		"** 当气球开始移动时你会死去 **"
+	}
+	"***CORTEX DOESNT TAKE DAMAGE FROM BULLETS***"
+	{
+		"trans"		"** 子弹无效 **"
+	}
+	"***TRY TO KILL IT WITH SOMETHING ELSE***"
+	{
+		"trans"		"** 用别的东西杀了它 **"
+	}
+	">>LEVEL 3<<"
+	{
+		"trans"		"** LEVEL 3 **"
+	}
+	"***DEFEND FOR 10 SECONDS!!***"
+	{
+		"trans"		"** 守住10秒!! **"
+	}
+	"*** GET OFF THE ELEVATOR!!!***"
+	{
+		"trans"		"** 离开电梯!!! **"
+	}
+	"*** OH NO! ITS UKA UKA!!!***"
+	{
+		"trans"		"** OH NO!它是UKA UKA!!! **"
+	}
+	"*** KILL IT BEFORE IT DOES SOMETHING***"
+	{
+		"trans"		"** 在它做某事之前杀死它 **"
+	}
+	"*** UKA UKA IS DEFEATED! RUN TO SAFETY!***"
+	{
+		"trans"		"** UKA UKA已倒下!奔向安全的地方! **"
+	}
+	">>LEVEL 1 Extreme<<"
+	{
+		"trans"		"** LEVEL 1 Extreme **"
+	}
+	"*** Defend both sides***"
+	{
+		"trans"		"** 保护双方 **"
+	}
+	">>LEVEL 2 Extreme<<"
+	{
+		"trans"		"** LEVEL 2 Extreme **"
+	}
+	">>LEVEL 3 Extreme<<"
+	{
+		"trans"		"** LEVEL 3 Extreme **"
+	}
+	"***BOAT ROUTE***"
+	{
+		"trans"		"** 船只航线 **"
+	}
+	">> PLAYER HAS CHOSEN LEVEL EXTREME 3<<"
+	{
+		"trans"		"** 玩家选择了LEVEL EXTREME 3 **"
+	}
+	">> NUKE LAUNCHED<<"
+	{
+		"trans"		"** 核弹发射 **"
+	}
+}

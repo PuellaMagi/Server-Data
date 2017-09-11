@@ -1,0 +1,151 @@
+"Chat"
+{
+	">>MANAGE MUSIC VOLUME IN CSS PARAMETERS<<<"
+	{
+		"blocked"		"1"
+	}
+	">>>RUN TO THE CT FLIGHING BOAT<<<<"
+	{
+		"trans"		"** 跑到人类用的飞船 **"
+	}
+	">>>FOLLOW THE BLUE LIGHT<<<<"
+	{
+		"trans"		"** 跟着蓝灯走 **"
+	}
+	">>>MAP BY LeGrem<<<"
+	{
+		"trans"		"** 地图作者:LeGrem 翻译:Laser **"
+	}
+	">>>CT FLIGHING BOAT LEAVING IN 15 SECONDS<<<"
+	{
+		"trans"		"** 人类用飞船在15秒后离开 **"
+	}
+	">>>ZOMBIES FLIGHING BOAT LEAVING IN 10 SECONDS<<<"
+	{
+		"trans"		"** 僵尸用飞船在10秒后离开 **"
+	}
+	">>>CT FLIGHING BOAT LEAVING<<<"
+	{
+		"trans"		"** 人类用飞船已离开 **"
+	}
+	">>>ZOMBIES FLIGHING BOAT LEAVING<<<"
+	{
+		"trans"		"** 僵尸用飞船已离开 **"
+	}
+	">>>WAIT C4 EXPLOSION<<<"
+	{
+		"trans"		"** 等待C4爆炸 **"
+	}
+	">>>20 SECONDS LEFT<<<"
+	{
+		"trans"		"** 剩余20秒 **"
+	}
+	">>>5 seconds left<<<"
+	{
+		"trans"		"** 剩余5秒 **"
+	}
+	">>>RUN<<<"
+	{
+		"trans"		"** 快跑!要被爆菊了! **"
+	}
+	">>> WAIT FLYING BOAT AT THE TOP OF THE LIGHTHOUSE<<<"
+	{
+		"trans"		"** 去灯塔顶部等待飞船 **"
+	}
+	">>>WAIT THE FLYING BOAT 15 SECONDS<<<"
+	{
+		"trans"		"** 守住飞船15秒 **"
+	}
+	">>>FLYING BOAT LEAVING IN 10 SECONDS<<<"
+	{
+		"trans"		"** 飞船在10秒后离开 **"
+	}
+	">>>THE OTHER NEED TO COVER<<<"
+	{
+		"trans"		"** 还要守窗户 **"
+	}
+	">>>BREAK THE WOODEN BLOCKER ON TOP<<<"
+	{
+		"trans"		"** 射破顶端的木板 **"
+	}
+	">>>DOORS CLOSING IN 25 SECONDS<<<"
+	{
+		"trans"		"** 门在25秒后关闭 **"
+	}
+	">>>DOORS CLOSING IN 5 SECONDS<<<"
+	{
+		"trans"		"**门在5秒后关闭 **"
+	}
+	">>>FLYING BOAT WILL LEAVE IN 15 SECONDS<<<"
+	{
+		"trans"		"** 飞船在15秒后离开 **"
+	}
+	">>>COVER 25 SECONDS<<<"
+	{
+		"trans"		"** 守住25秒 **"
+	}
+	">>>START THE GENERATOR TO OPEN THE DOOR<<<"
+	{
+		"trans"		"** 启动发电机打开门 **"
+	}
+	">>>FLIGHING BOAT LEAVING IN 15 SECONDS<<<"
+	{
+		"trans"		"** 飞船在15秒后离开 **"
+	}
+	">>>ACTIVATE THE GENERATOR<<<"
+	{
+		"trans"		"** 发动机激活 **"
+	}
+	">>>DOOR WILL OPEN IN 30 SECONDS<<<"
+	{
+		"trans"		"** 门在30秒后打开 **"
+	}
+	">>RUN TO THE LAB<<"
+	{
+		"trans"		"** 跑到实验室 **"
+	}
+	">>>COVER 20 SECONDS<<<"
+	{
+		"trans"		"** 守住20秒 **"
+	}
+	">>>RUN TO THE AIRPORT BUILDING<<<"
+	{
+		"trans"		"** 跑向机场大楼 **"
+	}
+	">>>COVER 45 SECONDS<<<"
+	{
+		"trans"		"** 守住45秒 **"
+	}
+	">>>OVER 15 CT - DOOR ON 1ST FLOOR IS OPEN<<<"
+	{
+		"trans"		"** 存活人数多于15人，第一层门口开放 **"
+	}
+	">>>RUN TO THE CONTROL ROOM AND ACTIVATE THE PANEL<<<"
+	{
+		"trans"		"** 跑到控制室并激活 **"
+	}
+	">>>CONTROL PANEL ACTIVATED<<<"
+	{
+		"trans"		"** 控制器激活 **"
+	}
+	">>>TAKE THE LADDER<<<"
+	{
+		"trans"		"** 去梯子往下面走 **"
+	}
+	">>>RUN TO THE NEXT CONTROL PANEL<<<"
+	{
+		"trans"		"** 去下一个控制室 **"
+	}
+	">>>RUN TO THE LAST CONTROL PANEL<<<"
+	{
+		"trans"		"** 跑到最后一个控制器 **"
+	}
+	">>>LIFT LEAVING IN 15 SECONDS<<<"
+	{
+		"trans"		"** 电梯在15秒后内离开 **"
+	}
+	">>>OVER 30 CT - DOOR ON 2ND FLOOR IS OPEN<<<"
+	{
+		"trans"		"** 存活人数多于30人，第二层门口开放 **"
+	}
+}

@@ -1,0 +1,83 @@
+"Chat"
+{
+	"<<< Map made by Jllaneras >>>"
+	{
+		"trans"		"**地图作者:Jllaneras 翻译Laser  **"
+	}
+	"<<< Defend for 30 seconds! >>>"
+	{
+		"trans"		"**守住30秒 **"
+	}
+	"<<< Zombies teleport in 30 seconds! >>>"
+	{
+		"trans"		"**僵尸在30秒后传送 **"
+	}
+	"<<< Box will break in 30 seconds! >>>"
+	{
+		"trans"		"**箱子在30秒后破裂 **"
+	}
+	"<<< Back gate opening in 15 seconds! >>>"
+	{
+		"trans"		"**后门在30秒后开启 **"
+	}
+	"<<< Zombies teleport in 40 seconds! >>>"
+	{
+		"trans"		"**僵尸在40秒后传送 **"
+	}
+	"<<< Lift leaves in 40 seconds! >>>"
+	{
+		"trans"		"**40秒后抬起树叶！ **"
+	}
+	"<<< 10 seconds left! >>>"
+	{
+		"trans"		"**剩余10秒 **"
+	}
+	"<<< Zombies will teleport in 20 seconds! >>>"
+	{
+		"trans"		"**僵尸在20秒后传送 **"
+	}
+	"<<< Top door will open in 60 seconds! >>>"
+	{
+		"trans"		"**顶门将于60秒后打开 **"
+	}
+	"<<< Zombies teleport in 25 seconds! >>>"
+	{
+		"trans"		"**僵尸在25秒后传送 **"
+	}
+	"<<< Defend for 90 seconds! >>>"
+	{
+		"trans"		"**守住90秒 **"
+	}
+	"<<< 30 seconds left! >>>"
+	{
+		"trans"		"**剩余30秒 **"
+	}
+	"<<< 10 seconds left untill back door opens! >>>"
+	{
+		"trans"		"**剩下10秒左右，守到后门打开！ **"
+	}
+	"<<< Zombies have been teleported! >>>"
+	{
+		"trans"		"**僵尸已被传送 **"
+	}
+	"<<< Zombies will teleport in 15 seconds! >>>"
+	{
+		"trans"		"**僵尸在15秒后传送 **"
+	}
+	"<<< Back door will open in 30 seconds! >>>"
+	{
+		"trans"		"**后门在30秒后打开 **"
+	}
+	"<<< Cage closing in 30 seconds! >>>"
+	{
+		"trans"		"**笼子在30秒后关闭 **"
+	}
+	"<<< Zombies teleport in 20 seconds! >>>"
+	{
+		"trans"		"**僵尸在20秒后传送 **"
+	}
+	"<<< Boss fight coming soon! >>>"
+	{
+		"trans"		"**BOSS战斗即将到来 **"
+	}
+}

@@ -1,0 +1,135 @@
+"Chat"
+{
+	"*** MAP BY GEORGE ***"
+	{
+		"trans"		"** 地图作者:GEORGE 翻译:Laser **"
+	}
+	"*** THANKS TO STRUPPI. JENZ. SOFT SERVE. MOLTARD. AND LUFFAREN ***"
+	{
+		"trans"		"** 感谢:STRUPPI. JENZ. SOFT SERVE. MOLTARD. LUFFAREN **"
+	}
+	"*** TEMPLE OPENS IN 5 SECONDS ***"
+	{
+		"trans"		"** 神殿5秒后开启 **"
+	}
+	"*** WELL DONE! DOOR OPENS IN 20 SECONDS ***"
+	{
+		"trans"		"** 做得好!门20秒后开启 **"
+	}
+	"*** DOORS OPEN IN 20 SECONDS ***"
+	{
+		"trans"		"** 门20秒后开启 **"
+	}
+	"*** DOOR OPENS IN 40 SECONDS ***"
+	{
+		"trans"		"** 门40秒后开启 **"
+	}
+	"*** Door opens in 25 seconds ***"
+	{
+		"trans"		"** 门25秒后开启 **"
+	}
+	"*** IT LOOKS LIKE THE LEVER HAS FROZEN SOLID ***"
+	{
+		"trans"		"** 看起来杠杆已经冷冻了 **"
+	}
+	"*** WE CAN LIGHT THIS BRAZIER TO HELP THAW IT OUT ***"
+	{
+		"trans"		"** 我们可以用这个火盆解冻 **"
+	}
+	"*** WE HAVE TO HOLD OUT 1 MINUTE UNTIL IT THAWS. ***"
+	{
+		"trans"		"** 我们要守住1分钟直到它融化 **"
+	}
+	"*** IT SHOULD BE THAWED OUT BY NOW. LETS GO! ***"
+	{
+		"trans"		"** 现在应该解冻了.快走! **"
+	}
+	"*** WHAT IS THIS PLACE? ***"
+	{
+		"trans"		"** 这是什么地方? **"
+	}
+	"*** IT SEEMS LIKE THERE IS NO WAY OUT ***"
+	{
+		"trans"		"** 好像没有出路了 **"
+	}
+	"*** RESIST UNTIL SOMETHING HAPPENS ***"
+	{
+		"trans"		"** 守住直到某事发生 **"
+	}
+	"*** BLANKET FREEZE ***"
+	{
+		"trans"		"** 被子冻结 **"
+	}
+	"*** CRYSTALLIZE ***"
+	{
+		"trans"		"** 结晶 **"
+	}
+	"*** ICY WIND ***"
+	{
+		"trans"		"** 冷风 **"
+	}
+	"*** FROSTY BEAM ***"
+	{
+		"trans"		"** 急冻光线 **"
+	}
+	"*** CRYSTAL RAIN ***"
+	{
+		"trans"		"** 水晶雨 **"
+	}
+	"*** WHAT WAS THAT THING? ***"
+	{
+		"trans"		"** 那是什么东西? **"
+	}
+	"*** OH WELL! WHATEVER IT IS ITS GONE NOW! ***"
+	{
+		"trans"		"** OH WELL!无论如何它已经不见了! **"
+	}
+	"*** WE BETTER RUN BEFORE THE TEMPLE COLLAPSES! ***"
+	{
+		"trans"		"** 我们最好在寺庙倒塌之前离开这里 **"
+	}
+	"*** NUKE IN 1 MINUTE AND 30 SECONDS ***"
+	{
+		"trans"		"** 核爆1分30秒后启动 **"
+	}
+	"*** ZOMBIES MUST NOT ESCAPE THE TEMPLE! ***"
+	{
+		"trans"		"** 不能让僵尸离开神殿! **"
+	}
+	"*** YOU FAILED! ZOMBIES ESCAPED! ***"
+	{
+		"trans"		"** 你失败了!僵尸逃脱! **"
+	}
+	"*** NUKE IN 1 MINUTE ***"
+	{
+		"trans"		"** 核弹剩余一分钟 **"
+	}
+	"*** NUKE IN 30 SECONDS ***"
+	{
+		"trans"		"** 核弹剩余30秒 **"
+	}
+	"*** 5 ***"
+	{
+		"trans"		"** 剩余5秒 **"
+	}
+	"*** 4 ***"
+	{
+		"trans"		"** 剩余4秒 **"
+	}
+	"*** 3 ***"
+	{
+		"trans"		"** 剩余3秒 **"
+	}
+	"*** 2 ***"
+	{
+		"trans"		"** 剩余2秒 **"
+	}
+	"*** 1 ***"
+	{
+		"trans"		"** 剩余1秒 **"
+	}
+	"*** YOU WIN! ***"
+	{
+		"trans"		"** 你赢了! **"
+	}
+}

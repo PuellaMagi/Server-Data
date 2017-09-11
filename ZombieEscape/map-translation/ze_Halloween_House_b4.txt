@@ -1,0 +1,275 @@
+"Chat"
+{
+	"** There seems to be a nasty bug infestation! **"
+	{
+		"trans"		"** 好像有一种讨厌的虫子! **"
+	}
+	"** Luckily bugs tend to dislike bright lights! **"
+	{
+		"trans"		"** 幸运的是，臭虫往往不喜欢明亮的灯光 **"
+	}
+	"** WE CAN'T SEEM TO PROGRESS AHEAD... **"
+	{
+		"trans"		"** 我们困在这里了 **"
+	}
+	"** HOLD UNTIL WE FIGURE SOMETHING OUT! **"
+	{
+		"trans"		"** 守住这里直到什么东西进来 **"
+	}
+	"** THE WINDOW! GET ON IT! **"
+	{
+		"trans"		"** 窗破了!快走! **"
+	}
+	"** We need to make the door move! **"
+	{
+		"trans"		"** 我们需要开启笼子上面的门 **"
+	}
+	"** It looks as if it would probably open if we get the wheel moving... **"
+	{
+		"trans"		"** 如果我们让车轮移动,它看起来好像可能会打开... **"
+	}
+	"** GET GOING! WE HAVE ENOUGH KINETIC ENERGY! **"
+	{
+		"trans"		"** 快走！我们有足够的动能了! **"
+	}
+	"** THE TOP DOOR IS OPENING 5 SECONDS! **"
+	{
+		"trans"		"** 门在5秒后开启! **"
+	}
+	"** Something spooky seems to be going on that table! **"
+	{
+		"trans"		"** 一些奇怪的事情似乎在那张桌子上发生了! **"
+	}
+	"** We need to reach the top! **"
+	{
+		"trans"		"** 我们需要爬上桌子 **"
+	}
+	"** The seance is beginning and the spirits are calling... **"
+	{
+		"trans"		"** 这一切都是开始，精神正在呼唤... **"
+	}
+	"** The spirits marked the 'H' leter... **"
+	{
+		"trans"		"** 精神标志着“H”字母 **"
+	}
+	"** 'A'... **"
+	{
+		"trans"		"** 'A'... **"
+	}
+	"** 'L'... **"
+	{
+		"trans"		"** 'L'... **"
+	}
+	"** 'L' again... **"
+	{
+		"trans"		"** 'L' 再次... **"
+	}
+	"** 'O'... **"
+	{
+		"trans"		"** 'O'... **"
+	}
+	"** 'W'... **"
+	{
+		"trans"		"** 'W'... **"
+	}
+	"** 'E'... **"
+	{
+		"trans"		"** 'E'... **"
+	}
+	"** 'E' yet again... **"
+	{
+		"trans"		"** 'E' 再次... **"
+	}
+	"** 'N'... **"
+	{
+		"trans"		"** 'N'... **"
+	}
+	"** It spelled 'HALLOWEEN'! **"
+	{
+		"trans"		"** 它写的是'万圣节'! **"
+	}
+	"** Who would have guessed? **"
+	{
+		"trans"		"** 谁会猜到呢? **"
+	}
+	"** Something is happening! **"
+	{
+		"trans"		"** 发生了一些事情 **"
+	}
+	"** Get on the lamp! Quick! The spell might not last long! **"
+	{
+		"trans"		"** 上灯!快!咒语可能不会持续很久! **"
+	}
+	"** There is some screaking sound in the distance - maybe something is lurking in the darkness! **"
+	{
+		"trans"		"** 在远处有一些清晰的声音 - 也许有些东西在黑暗中潜伏着! **"
+	}
+	"** Try to get that old toy going! We must get out of here! **"
+	{
+		"trans"		"** 尝试让小火车启动!我们必须离开这里!(开关按7次) **"
+	}
+	"** MS. WHISKERS HAS WHISKED US! IT'S ALL OVER! **"
+	{
+		"trans"		"** 被老鼠追上了!你们死定了! **"
+	}
+	"** OOOAAAAAAAAAAAAH! The darn thing almost squashed us! **"
+	{
+		"trans"		"** OOOAAAAAAAAAAAAH!该死的东西几乎把我们压扁了! **"
+	}
+	"** Being up here the reasonable way to solve the situation would be to go for a swim... If you know what I mean! **"
+	{
+		"trans"		"** 到这里来，解决这个问题的合理方法是去游泳...如果你明白我的意思! **"
+	}
+	"** We're getting close! If we can get into the pumpkin besides the oven we will be safe! **"
+	{
+		"trans"		"** 我们越来越近了！如果我们能把南瓜炸掉，我们将是安全的! **"
+	}
+	"** We should inspect that giant pumpkin sitting on the stool! **"
+	{
+		"trans"		"** 我们应该检查坐在凳子上的那个巨型南瓜! **"
+	}
+	"** THAT'S IT! WE'RE GONNA BLOW IT UP! **"
+	{
+		"trans"		"** 就是这!我们要把它炸了! **"
+	}
+	"** HOLD AND STAY AFFAR UNTIL THE C4 CHARGE GOES OFF! **"
+	{
+		"trans"		"** 守住这里直到C4爆炸 **"
+	}
+	"** MOVE! THE DARN THING IS OUT OF THE WAY! **"
+	{
+		"trans"		"** 撤退!寻找出路! **"
+	}
+	"** We can't get past here with that stove turned on! **"
+	{
+		"trans"		"** 我们不能过去，那个炉子开了! **"
+	}
+	"** What can we do? **"
+	{
+		"trans"		"** 我们可以做什么? **"
+	}
+	"** The gas counter! If we mess it up the gas might stop flowing - perhaps? **"
+	{
+		"trans"		"** 气体计数器!如果我们打爆了气体可能会停止流动吗? **"
+	}
+	"** WELL DONE! THE GAS SHOULD STOP RUNNING ANY TIME SOON! **"
+	{
+		"trans"		"** 做得好!煤气很快就会停止运转! **"
+	}
+	"** The metal is still hot - KEEP RESISTING! **"
+	{
+		"trans"		"** 金属仍然是热的-守住 **"
+	}
+	"** NOW! GET MOVING! **"
+	{
+		"trans"		"** 就是现在!撒退! **"
+	}
+	"** This seems to be a dead end! HOLD UNTIL SOMETHING HAPPENS! **"
+	{
+		"trans"		"** 这似乎是个死胡同!守住直到某事发生! **"
+	}
+	"** Nothing yet... KEEP IT UP! **"
+	{
+		"trans"		"** 还没有...坚持下去! **"
+	}
+	"** We need to resist... Something must open! **"
+	{
+		"trans"		"** 坚持下去!某些东西一定会打开的! **"
+	}
+	"** Will we be here forever? Have the mapmakers left us at our stake?! That can't be! **"
+	{
+		"trans"		"** 我们被永远困在这了吗?!这不可能! **"
+	}
+	"** It looks like this Halloween will be the end... of it all... **"
+	{
+		"trans"		"** 看来这个万圣节将结束...这一切... **"
+	}
+	"** Hey look! It's Billy the friendly ghost! **"
+	{
+		"trans"		"** 嘿！是比利，友好的幽灵! **"
+	}
+	"** The tell tale is told to tell that Billy turns spooky things stale! Zombies will become vulnerable! **"
+	{
+		"trans"		"** 比利说，事情变得可怕了!僵尸将变得脆弱! **"
+	}
+	"** And thus Billy the friendly ghost removed all spooky things from the world **"
+	{
+		"trans"		"** 因此，友善的鬼魂比利把世界上所有可怕的东西都移走了 **"
+	}
+	"** and conveniently led our diminute human friends to the end of their little story! **"
+	{
+		"trans"		"** 故事结束 **"
+	}
+	"** THE END **"
+	{
+		"trans"		"** 结束 **"
+	}
+	"** MS. WHISKERS HAS WHISKED US! ITS ALL OVER! **"
+	{
+		"trans"		"** 被老鼠追上了!你们死定了! **"
+	}
+	"** WE CANT SEEM TO PROGRESS AHEAD... **"
+	{
+		"trans"		"** 我们困在这里了... **"
+	}
+	"** The spirits marked the H leter... **"
+	{
+		"trans"		"** 精神标志着“H”字母 **"
+	}
+	"** A... **"
+	{
+		"trans"		"** A... **"
+	}
+	"** L... **"
+	{
+		"trans"		"** L... **"
+	}
+	"** L again... **"
+	{
+		"trans"		"** L 再次... **"
+	}
+	"** O... **"
+	{
+		"trans"		"** O... **"
+	}
+	"** W... **"
+	{
+		"trans"		"** W... **"
+	}
+	"** E... **"
+	{
+		"trans"		"** E... **"
+	}
+	"** E yet again... **"
+	{
+		"trans"		"** E 再次... **"
+	}
+	"** N... **"
+	{
+		"trans"		"** N... **"
+	}
+	"** It spelled HALLOWEEN! **"
+	{
+		"trans"		"** 它拼写了HALLOWEEN! **"
+	}
+	"** Were getting close! If we can get into the pumpkin besides the oven we will be safe! **"
+	{
+		"trans"		"** 我们越来越近了！如果我们能把南瓜炸掉，我们将是安全的 **"
+	}
+	"** THATS IT! WERE GONNA BLOW IT UP! **"
+	{
+		"trans"		"** 就是这!我们要把它炸了! **"
+	}
+	"** We cant get past here with that stove turned on! **"
+	{
+		"trans"		"** 我们不能过去，那个炉子开了! **"
+	}
+	"** Will we be here forever? Have the mapmakers left us at our stake?! That cant be! **"
+	{
+		"trans"		"** 我们被永远困在这了吗?!这不可能! **"
+	}
+	"** Hey look! Its Billy the friendly ghost! **"
+	{
+		"trans"		"** 嘿！是比利，友好的幽灵! **"
+	}
+}

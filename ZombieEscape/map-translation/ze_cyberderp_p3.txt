@@ -1,0 +1,391 @@
+"Chat"
+{
+	"* * >>TIP<< ORANGE is a GOOD colour * *"
+	{
+		"trans"		"** 提示：橙色是好颜色 **"
+	}
+	"* * * Current phase: CURSED HEXAHEDRON * * *"
+	{
+		"trans"		"** 当前阶段：被诅咒的六面体 **"
+	}
+	"* * The pedestal will be raising in 25 seconds * *"
+	{
+		"trans"		"** 基座将于25秒后升起 **"
+	}
+	"* * Map by Mojonero * *"
+	{
+		"trans"		"** 地图作者:Mojonero 翻译:Laser **"
+	}
+	"* * * Current phase: NOT TRAMPOLINES * * *"
+	{
+		"trans"		"** 当前阶段:重力 **"
+	}
+	"* * * Current phase: MAGIC IS REAL * * *"
+	{
+		"trans"		"** 当前阶段：奇迹是真实的 **"
+	}
+	"* * Hold here for 20 seconds * *"
+	{
+		"trans"		"** 守住20秒 **"
+	}
+	"* * 3 seconds left * *"
+	{
+		"trans"		"** 剩余3秒 **"
+	}
+	"* * Left route door will open in 20 seconds * *"
+	{
+		"trans"		"** 左路门将于20秒后打开 **"
+	}
+	"* * * Aeolus' Spirit has been picked up * * *"
+	{
+		"trans"		"** 一名玩家捡起了风神 **"
+	}
+	"* * Wait 23 seconds * *"
+	{
+		"trans"		"** 守住23秒 **"
+	}
+	"* * Press both buttons at the same time * *"
+	{
+		"trans"		"** 同时按下两个按钮 **"
+	}
+	"* * * Frost Wave has been picked up * * *"
+	{
+		"trans"		"** 一名玩家减起了水 **"
+	}
+	"* * * GO NIGGER DICK * * *"
+	{
+		"trans"		"** 去黑鬼那边 **"
+	}
+	"* * * GO WHITE DICK * * *"
+	{
+		"trans"		"** 去白色那边 **"
+	}
+	"* * * GO CHARIZARD DICK * * *"
+	{
+		"trans"		"** 去喷火龙那边 **"
+	}
+	"* * * GO HULK DICK * * *"
+	{
+		"trans"		"** 去绿巨人那边 **"
+	}
+	"* * Door opening in 25 seconds * *"
+	{
+		"trans"		"** 门25秒后打开   **"
+	}
+	"* * Closing door * * 5 seconds left * *"
+	{
+		"trans"		"** 门将于5秒后关闭 **"
+	}
+	"* * KEEP DEFENDING * *"
+	{
+		"trans"		"** 守住 **"
+	}
+	"* * Go to the lower floor * *"
+	{
+		"trans"		"** 走到下层 **"
+	}
+	"* * * Starting elevator * * * 20 seconds * * *"
+	{
+		"trans"		"** 电梯将于20秒后启动 **"
+	}
+	"* * * The door will open in 15 seconds * * *"
+	{
+		"trans"		"** 门将于20秒后打开 **"
+	}
+	"* * * Hold 15 seconds * * *"
+	{
+		"trans"		"** 守住15秒 **"
+	}
+	"* * * 5 seconds left * * *"
+	{
+		"trans"		"** 剩余5秒 **"
+	}
+	"* * Wait 15 seconds * *"
+	{
+		"trans"		"** 守住15秒 **"
+	}
+	"* * You can pass * *"
+	{
+		"trans"		"** 你可以通过了 **"
+	}
+	"* * * Flame of Udun has been picked up * * *"
+	{
+		"trans"		"** 一名玩家捡起了火 **"
+	}
+	"* * 15 seconds until final teleport * *"
+	{
+		"trans"		"** 守住15秒直到最终传送 **"
+	}
+	"* * Humans must reach the arena or they will be teleported * *"
+	{
+		"trans"		"** 人类必须达到竞技场或僵尸被传送 **"
+	}
+	"* * * IT HAS RUN AWAY * * *"
+	{
+		"trans"		"** 它已经跑掉了 **"
+	}
+	"* * * RUN! * * *"
+	{
+		"trans"		"** 快走! **"
+	}
+	"* * 25 seconds until this... thing... starts * *"
+	{
+		"trans"		"** 守住25秒，直到这个…事情...开始 **"
+	}
+	"* * Resist! * * It all will end soon * *"
+	{
+		"trans"		"** 守住!一切都快结束了 **"
+	}
+	"* * * Current phase: TOTALLY NEVER SEEN * * *"
+	{
+		"trans"		"** 当前阶段：完全没有见过 **"
+	}
+	"* * * Wait 7 seconds * * *"
+	{
+		"trans"		"** 守住7秒 **"
+	}
+	"* * * Door opening in 12 seconds * * *"
+	{
+		"trans"		"** 门将于12秒后打开 **"
+	}
+	"* * * Door opening in 3 seconds * * *"
+	{
+		"trans"		"** 门将于3秒后打开 **"
+	}
+	"* * * The bridge will be enabled in 25 seconds * * *"
+	{
+		"trans"		"** 大桥将于25秒后启动 **"
+	}
+	"* * * MOVE * * *"
+	{
+		"trans"		"** 撤退 **"
+	}
+	"* * * Exit door will open in 10 seconds * * *"
+	{
+		"trans"		"** 出口门将于10秒后打开 **"
+	}
+	"* * * Hold this position for 30 seconds * * *"
+	{
+		"trans"		"** 守住30秒 **"
+	}
+	"* * * 10 seconds left * * *"
+	{
+		"trans"		"** 剩下10秒 **"
+	}
+	"* * Top door will open in 15 seconds * *"
+	{
+		"trans"		"** 门将于15秒后打开 **"
+	}
+	"* * Top door will open in 3 seconds * *"
+	{
+		"trans"		"** 门将于3秒后打开 **"
+	}
+	"* * * Top exit door will open in 13 seconds * * *"
+	{
+		"trans"		"** 顶部出口门将于13秒后打开 **"
+	}
+	"* * * There must be a way to open that door * * *"
+	{
+		"trans"		"** 一定有办法打开那扇门的 **"
+	}
+	"* * * Figure it out * * *"
+	{
+		"trans"		"** 弄清楚 **"
+	}
+	"* * * It's open * * *"
+	{
+		"trans"		"** 它开了 **"
+	}
+	"* * * Wait until magic happens * * *"
+	{
+		"trans"		"** 等待魔法发生 **"
+	}
+	"* * * Wait until magic happens * * *"
+	{
+		"trans"		"** 等待魔法发生 **"
+	}
+	"* * * Just a bit more... * * *"
+	{
+		"trans"		"** 即使是一点点也要守下去... **"
+	}
+	"* * * The Magic Fire has arrived! * * *"
+	{
+		"trans"		"** 魔法之火已经到来! **"
+	}
+	"* * * Projectile Deflector has been picked up * * *"
+	{
+		"trans"		"** 一名玩家捡起了子弹偏转器 **"
+	}
+	"* * Hacking doors. This may take a few seconds * *"
+	{
+		"trans"		"** 正在黑这道门.这可能需要几秒钟 **"
+	}
+	"* * Press the orange button to start the Core * *"
+	{
+		"trans"		"** 按橙色按钮启动核心 **"
+	}
+	"> INITIALIZING CORE <"
+	{
+		"trans"		"** 初始化核心 **"
+	}
+	"> THE CORE WILL BE READY IN 21 SECONDS <"
+	{
+		"trans"		"** 核心将于21秒钟后准备就绪 **"
+	}
+	"> CORE READY IN 5 SECONDS <"
+	{
+		"trans"		"** 核心将于5秒钟后准备就绪 **"
+	}
+	"> CORE READY <"
+	{
+		"trans"		"** 核心准备就绪 **"
+	}
+	"* * We can move * * FALL BACK * *"
+	{
+		"trans"		"** 我们可以撤退了 **"
+	}
+	"* * Hold 25 seconds * *"
+	{
+		"trans"		"** 守住25秒 **"
+	}
+	"* * You have defended long enough * *"
+	{
+		"trans"		"** 你防守得够久了 **"
+	}
+	"* * Keep running * *"
+	{
+		"trans"		"** 继续跑 **"
+	}
+	"* * The Core is getting unstable... * *"
+	{
+		"trans"		"** 核心变得不稳定... **"
+	}
+	"* * 20 seconds until the door opens * *"
+	{
+		"trans"		"** 20秒钟后打开门 **"
+	}
+	"(Right) * * * Door opening * * * 8 seconds * * *"
+	{
+		"trans"		"** (右)门将于8秒后打开 **"
+	}
+	"* * * HOLD FOR 15 SECONDS * * *"
+	{
+		"trans"		"** 守住15秒 **"
+	}
+	"* * * ONLY 3 SECONDS LEFT * * *"
+	{
+		"trans"		"** 剩下3秒 **"
+	}
+	"* * BUTTONS PRESSED * *"
+	{
+		"trans"		"** 按钮按下 **"
+	}
+	"* * GO GO GO * *"
+	{
+		"trans"		"** 快走 **"
+	}
+	"* * The main door WILL open in 35s... * *"
+	{
+		"trans"		"** 门将于35秒后打开 **"
+	}
+	"* * ...but this convenient side vent might help * *"
+	{
+		"trans"		"** ...但是这个方便的侧通风口可能会有帮助 **"
+	}
+	"* * Final door opening in 20 seconds * *"
+	{
+		"trans"		"** 最后一道门将于20秒后打开 **"
+	}
+	"* * Final door opening in 5 seconds * *"
+	{
+		"trans"		"** 最后一道门将于5秒后打开 **"
+	}
+	"* * You have reached the escape zone * *"
+	{
+		"trans"		"** 你已经到达逃生区了 **"
+	}
+	"* * Wait 40 seconds until the magic elevator is ready to go * *"
+	{
+		"trans"		"** 守住40秒直到魔法电梯准备好了 **"
+	}
+	"* * Only 10 seconds left * * Hold * *"
+	{
+		"trans"		"** 剩下10秒* * **"
+	}
+	"* * Magic elevator is ready * *"
+	{
+		"trans"		"** 魔法电梯已准备好了 **"
+	}
+	"* * Zombies got inside * * Learn2hold * *"
+	{
+		"trans"		"** 僵尸进入Learn2hold里面 **"
+	}
+	"(Left) * * * Door opening * * * 8 seconds * * *"
+	{
+		"trans"		"** (左)门将于8秒后打开 **"
+	}
+	"* * * Slightly Cursed Hexahedron has been picked up * * *"
+	{
+		"trans"		"** 一名玩家捡起了被诅咒的六面体 **"
+	}
+	"*** NY MARATHON: GET READY TO RUN! ***"
+	{
+		"trans"		"** 纽约马拉松：准备跑步! **"
+	}
+	"* * Bottom door will open in 15 seconds * *"
+	{
+		"trans"		"** 底部的门将于15秒后打开 **"
+	}
+	"* * Bottom door will open in 3 seconds * *"
+	{
+		"trans"		"** 底部的门将于3秒后打开 **"
+	}
+	"* * * Bottom exit door will open in 11 seconds * * *"
+	{
+		"trans"		"** 底部出口门将于11秒后打开 **"
+	}
+	"* * * IT'S DEAD * * *"
+	{
+		"trans"		"** 它死了 **"
+	}
+	"* * * ZOMBIES! nowin4u * * *"
+	{
+		"trans"		"** 僵尸！没有胜利 **"
+	}
+	"* * * Aeolus Spirit has been picked up * * *"
+	{
+		"trans"		"** 一名玩家捡起了风神 **"
+	}
+	"* * * Its open * * *"
+	{
+		"trans"		"** 它开了 **"
+	}
+	"* * * HOLD THIS POSITION * * *"
+	{
+		"trans"		"** 守住这里 **"
+	}
+	"* * * ITS DEAD * * *"
+	{
+		"trans"		"** 它死了 **"
+	}
+	"* * * WIND: ENABLED * * *"
+	{
+		"trans"		"** 风：启用 **"
+	}
+	"* * * GLASSES: OFF * * *"
+	{
+		"trans"		"** 眼镜：关闭 **"
+	}
+	"* * * GRAVITY: IS KILL * * *"
+	{
+		"trans"		"** 重力：杀戮 **"
+	}
+	"* * * HASUL COMO HEL MAR HASUL * * *"
+	{
+		"blocked"		"1"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"blocked"		"1"
+	}
+}

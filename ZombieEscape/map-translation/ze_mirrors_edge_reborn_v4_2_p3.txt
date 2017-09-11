@@ -1,0 +1,243 @@
+"Chat"
+{
+	"<<< DIFFICULTY LEVEL : EASY >>>"
+	{
+		"trans"		"** 难度级别:简单 **"
+	}
+	"<<< THE FIRST TO PRESS THE BUTTON IN HELICOPTER WINS >>>"
+	{
+		"trans"		"** 按下直升机的按钮获胜 **"
+	}
+	">>>Map created by Dark Arrow<<<"
+	{
+		"trans"		"** 地图作者:Dark Arrow 翻译:Laser **"
+	}
+	">>>Edited first by [pF]Detonator<<<"
+	{
+		"trans"		"** 编辑:[pF]Detonator **"
+	}
+	">>>Finished by Hallucinogenic Troll<<<"
+	{
+		"trans"		"** 完成:Hallucinogenic Troll **"
+	}
+	">>>Map ported by www.dashijie.es<<<"
+	{
+		"trans"		"** 移植:www.dashijie.es **"
+	}
+	">>>Helicopter will leave in 3 seconds...<<<"
+	{
+		"trans"		"** 直升机将于3秒后离开 **"
+	}
+	">>>2<<<"
+	{
+		"trans"		"** 直升机将于2秒后离开 **"
+	}
+	">>>1<<<"
+	{
+		"trans"		"** 直升机将于1秒后离开 **"
+	}
+	">>>HELICOPTER IS LEAVING<<<"
+	{
+		"trans"		"** 直升机离开了 **"
+	}
+	"<<< SUITCASE(S) MADE IT ON TO CHOPPER. WELL DONE YOU WIN >>>"
+	{
+		"trans"		"** 公文包在飞机上，人类获胜 **"
+	}
+	"<<< Nuke launched>>>"
+	{
+		"trans"		"** 核弹发射 **"
+	}
+	"<<< 4 >>>"
+	{
+		"trans"		"** 4 **"
+	}
+	"<<< 3 >>>"
+	{
+		"trans"		"** 3 **"
+	}
+	"<<< 2 >>>"
+	{
+		"trans"		"** 2 **"
+	}
+	"<<< 1 >>>"
+	{
+		"trans"		"** 1 **"
+	}
+	"<<< DIFFICULTY LEVEL : NORMAL >>>"
+	{
+		"trans"		"** 难度级别:普通 **"
+	}
+	"<<< ADJUST THE MUSIC VOLUME IN AUDIO SETTINGS >>>"
+	{
+		"trans"		"** 在音频设置中调整音乐音量 **"
+	}
+	"<<< OBJECTIVE : RUN TO THE CHOPPER >>>"
+	{
+		"trans"		"** 目标：跑向直升机 **"
+	}
+	"<<< Door Opens In 15 sec >>>"
+	{
+		"trans"		"** 门15秒后打开 **"
+	}
+	"<<< Door Opens In 10 sec >>>"
+	{
+		"trans"		"** 门10秒后打开 **"
+	}
+	"<<< Door Opens In 5 sec >>>"
+	{
+		"trans"		"** 门5秒后打开 **"
+	}
+	"<<< HOLD HERE FOR 20 SEC >>>"
+	{
+		"trans"		"** 守住20秒 **"
+	}
+	"<<< RUN!!! >>>"
+	{
+		"trans"		"** 快跑!!要被爆菊了! **"
+	}
+	"<<< Hold For 25 secs >>>"
+	{
+		"trans"		"** 守住25秒 **"
+	}
+	"<<< 10 Seconds Remaining >>>"
+	{
+		"trans"		"** 守多10秒 **"
+	}
+	"<<< Heli leaves in 30 seconds >>>"
+	{
+		"trans"		"** 直升机30秒后离开(先在外面守僵尸) **"
+	}
+	"<<< Heli leaves in 20 seconds >>>"
+	{
+		"trans"		"** 直升机将在20秒后离开(先在外面守僵尸) **"
+	}
+	"<<< Heli leaves in 10 seconds >>>"
+	{
+		"trans"		"** 直升机将在10秒后离开(守僵尸的快上直升机了) **"
+	}
+	"<<< Heli is leaving hop on >>>"
+	{
+		"trans"		"** 直升机起飞! **"
+	}
+	"<<< ZOMBIES MADE IT ON TO CHOPPER. YOU LOSE! >>>"
+	{
+		"trans"		"** 侦测到僵尸.人类失败! **"
+	}
+	"4"
+	{
+		"trans"		"** 4 **"
+	}
+	"<<< DIFFICULTY LEVEL : HARD >>>"
+	{
+		"trans"		"** 难度级别:困难 **"
+	}
+	"<<< OBJECTIVE : COLLECT 1 SUITCASE >>>"
+	{
+		"trans"		"** 目标：收集1个公文包 **"
+	}
+	"<<< Door Opens In 20 sec >>>"
+	{
+		"trans"		"** 门20秒后打开 **"
+	}
+	"<<< SUITCASE DOOR OPENS IN 10 SECONDS >>>"
+	{
+		"trans"		"** 公文包门10秒后打开(1个去拿，其他全部守僵尸) **"
+	}
+	"<<< SUITCASE DOOR IS OPENING!>>>"
+	{
+		"trans"		"** 公文包门开了! **"
+	}
+	"<<< SUITCASE COLLECTED! RUN! >>>"
+	{
+		"trans"		"** 拿到公文包了!快跑! **"
+	}
+	"3"
+	{
+		"trans"		"** 3 **"
+	}
+	"2"
+	{
+		"trans"		"** 2 **"
+	}
+	"<<< DIFFICULTY LEVEL : EXTREME >>>"
+	{
+		"trans"		"** 难度级别:非常难 **"
+	}
+	"<<< OBJECTIVE: COLLECT 2 SUITCASES >>>"
+	{
+		"trans"		"** 目标：收集2个公文包 **"
+	}
+	"<<< ZOMBIES ARE FASTER AND HAVE MORE HEALTH >>>"
+	{
+		"trans"		"** 僵尸跑得更快，血量更多 **"
+	}
+	"<<< Door Opens In 30 sec >>>"
+	{
+		"trans"		"** 门30秒后打开 **"
+	}
+	"<<< SUITCASE DOOR WILL OPEN IN 10 SECONDS>>>"
+	{
+		"trans"		"** 公文包门10秒后打开(2个去拿，其他全部守僵尸) **"
+	}
+	"<<<SUITCASE DOOR IS OPENING! PRESS THE BUTTON>>>"
+	{
+		"trans"		"** 公文包门开了!按下按钮 **"
+	}
+	">>>Hold more 25 seconds<<<"
+	{
+		"trans"		"** 守住25秒! **"
+	}
+	"<<< Unlimited ammo has been picked >>>"
+	{
+		"trans"		"** 无限弹药被捡起 **"
+	}
+	"<<< Press E to have unlimited ammo for 15 sec. Recharge after 50 seconds >>>"
+	{
+		"trans"		"** 按E开使用无限弹药，持续15秒，冷却50秒 **"
+	}
+	"<<< DIFFICULTY LEVEL : GOD  IMPOSSIBLE>>>"
+	{
+		"trans"		"** 难度级别:不可能的上帝 **"
+	}
+	"<<< YOU DONT HAVE WALLS OR PROPS TO HELP WITH COVER >>>"
+	{
+		"trans"		"** 没有空气墙和神器协助你 **"
+	}
+	"<<< DOOR WILL BREAK IN 20 SECONDS >>>"
+	{
+		"trans"		"** 门将于20秒后破碎 **"
+	}
+	"<<< DOOR WILL BREAK IN 10 SECONDS >>>"
+	{
+		"trans"		"** 门将于10秒后破碎 **"
+	}
+	"<<< DOOR WILL BREAK IN 5 SECONDS >>>"
+	{
+		"trans"		"** 门将于5秒后破碎 **"
+	}
+	"<<< DOOR ITS BROKEN!! RUN!!!! >>>"
+	{
+		"trans"		"** 门碎了!快撤退!!!! **"
+	}
+	"<<< Door Opens In 35 sec >>>"
+	{
+		"trans"		"** 门35秒后打开 **"
+	}
+	"<<< THE PATH IS BLOCKED!! WE NEED TO PRESS THE BUTTON!!"
+	{
+		"trans"		"** 这条路被堵住了!我们需要按这个按钮!!(1个去按，其他人疯狂地向刚爬上来的楼梯丢手雷) **"
+	}
+	"<<< DOOR IS FULLY OPENED!! PRESS THE BUTTON >>>"
+	{
+		"trans"		"** 门已经开了!!快按按钮 **"
+	}
+	"<<< BUTTON IS PRESSED! RUN!! >>>"
+	{
+		"trans"		"** 按钮已按下!快跑!! **"
+	}
+	"1"
+	{
+		"trans"		"** 1 **"
+	}
+}

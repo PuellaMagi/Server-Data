@@ -1,0 +1,27 @@
+"Chat"
+{
+	"*** LEVEL4 ***"
+	{
+		"trans"		"** LEVEL4 **"
+	}
+	"*** rtv ***"
+	{
+		"trans"		"** rtv **"
+	}
+	"*** LEVEL3 ***"
+	{
+		"trans"		"** LEVEL3 **"
+	}
+	"*** LEVEL1 ***"
+	{
+		"trans"		"** LEVEL1 **"
+	}
+	"*** LEVEL2 ***"
+	{
+		"trans"		"** LEVEL2 **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"blocked"		"1"
+	}
+}

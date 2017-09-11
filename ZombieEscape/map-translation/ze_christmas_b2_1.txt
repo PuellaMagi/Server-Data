@@ -1,0 +1,255 @@
+"Chat"
+{
+	"***Elevator doors closing in 5 seconds***"
+	{
+		"trans"		"** 电梯将于5秒后关闭 **"
+	}
+	"***Hold for 5 seconds***"
+	{
+		"trans"		"** 守住5秒 **"
+	}
+	"***Hold for 10 seconds***"
+	{
+		"trans"		"** 守住10秒 **"
+	}
+	"***Doors closing in 30 seconds***"
+	{
+		"trans"		"** 门将于30秒后关闭 **"
+	}
+	"***ZOMBIES IN SAFE ZONE!!!***"
+	{
+		"trans"		"** 僵尸在安全区!!! **"
+	}
+	"***KILL THEM TO COMPLETE LEVEL***"
+	{
+		"trans"		"** 杀死它们完成本关 **"
+	}
+	">> LEVEL: 2 <<"
+	{
+		"trans"		"** LEVEL: 2 **"
+	}
+	"**Sleigh leaving in 5 seconds**"
+	{
+		"trans"		"** 雪橇将于5秒后出发 **"
+	}
+	"***Elevator leaving in 20 seconds***"
+	{
+		"trans"		"** 电梯将于20秒后离开 **"
+	}
+	"***5 seconds left***"
+	{
+		"trans"		"** 剩余5秒 **"
+	}
+	"***Station Doors will open in 10 seconds***"
+	{
+		"trans"		"** 车站门将于10秒后开启 **"
+	}
+	"***Station Doors are open***"
+	{
+		"trans"		"** 车站门已开启 **"
+	}
+	"***The train is blocking the path***"
+	{
+		"trans"		"** 火车挡住了路 **"
+	}
+	"***We need to blow it up***"
+	{
+		"trans"		"** 我们需要炸毁它 **"
+	}
+	"***Plant the c4 on each side of the train by pressing E ***"
+	{
+		"trans"		"** 在列车的每一侧按E放置C4 **"
+	}
+	"***C4 is planted***"
+	{
+		"trans"		"** C4已安置 **"
+	}
+	"***It should explode soon***"
+	{
+		"trans"		"** 它很快就会爆炸 **"
+	}
+	"***Hold for 15 seconds***"
+	{
+		"trans"		"** 守住15秒 **"
+	}
+	"**Level completed**"
+	{
+		"trans"		"** 本关通过 **"
+	}
+	">> LEVEL: 3 <<"
+	{
+		"trans"		"** LEVEL: 3 **"
+	}
+	"***Defend for 20 seconds***"
+	{
+		"trans"		"** 守住20秒 **"
+	}
+	">> PLAYER HAS PICKED UP HEAL <<"
+	{
+		"trans"		"** 一名玩家捡起了奶 **"
+	}
+	"***DOOR IS OPEN! GET INSIDE!!***"
+	{
+		"trans"		"** 门是开放的!快进去! **"
+	}
+	">> CROSS THE ACID POOL <<"
+	{
+		"trans"		"** 穿过酸池 **"
+	}
+	"***Elevator leaving in 5 seconds***"
+	{
+		"trans"		"** 电梯将于5秒后离开 **"
+	}
+	"***Hold for 20 seconds***"
+	{
+		"trans"		"** 守住20秒 **"
+	}
+	"***Hold for 5seconds***"
+	{
+		"trans"		"** 守住5秒 **"
+	}
+	">>NYAN CAT ADDED<<"
+	{
+		"trans"		"** 发现猫 **"
+	}
+	"***Elevator doors closing in 10 seconds***"
+	{
+		"trans"		"** 电梯门将于10秒后关闭 **"
+	}
+	"**Sleigh leaving in 20 seconds**"
+	{
+		"trans"		"** 雪橇将于20秒后离开 **"
+	}
+	"**Sleigh leaving in 10 seconds**"
+	{
+		"trans"		"** 雪橇将于10秒后离开 **"
+	}
+	"***Defend until we open the gate***"
+	{
+		"trans"		"** 守住直到大门开启 **"
+	}
+	"***The door is open***"
+	{
+		"trans"		"** 门已开了 **"
+	}
+	"***THE GATES ARE CLOSED***"
+	{
+		"trans"		"** 门将被关闭 **"
+	}
+	"***1 PLAYER HAS TO GO TO PRESS THE BUTTON***"
+	{
+		"trans"		"**1 名玩家必须按按钮 **"
+	}
+	"510 Cat Found"
+	{
+		"trans"		"** 发现510只猫 **"
+	}
+	"***Exit Door will open in 20 seconds***"
+	{
+		"trans"		"** 出口门将于20秒后打开 **"
+	}
+	"***Exit Door will open in 10 seconds***"
+	{
+		"trans"		"** 出口门将于10秒后打开 **"
+	}
+	"***Exit Door is open***"
+	{
+		"trans"		"** 出口门开了 **"
+	}
+	"610 Cat Found"
+	{
+		"trans"		"** 发现610只猫 **"
+	}
+	"***Hold for 30 seconds***"
+	{
+		"trans"		"** 守住30秒 **"
+	}
+	"710 Cat Found"
+	{
+		"trans"		"** 发现710只猫 **"
+	}
+	"***Defend few seconds***"
+	{
+		"trans"		"** 守住几秒 **"
+	}
+	">> Map by Taskuvaras  Fixed with Moltard <<"
+	{
+		"trans"		"** 地图作者:Taskuvaras 协助:Moltard 翻译:Laser **"
+	}
+	">> LEVEL: 1 <<"
+	{
+		"trans"		"** LEVEL: 1 **"
+	}
+	">> PLAYER HAS PICKED UP GRAVITY <<"
+	{
+		"trans"		"** 一名玩家捡起了重力 **"
+	}
+	"***Door opening in 20 seconds***"
+	{
+		"trans"		"** 门将于20秒后打开 **"
+	}
+	"***Hold here for 10 seconds***"
+	{
+		"trans"		"** 守住10秒 **"
+	}
+	"110 Cat Found"
+	{
+		"trans"		"** 发现110只猫 **"
+	}
+	"***The train is stuck and wont start***"
+	{
+		"trans"		"** 火车卡住了，无法起动 **"
+	}
+	"***Take the left path***"
+	{
+		"trans"		"** 走左边的路 **"
+	}
+	"210 Cat Found"
+	{
+		"trans"		"** 发现210只猫 **"
+	}
+	"310 Cat Found"
+	{
+		"trans"		"** 发现310只猫 **"
+	}
+	"410 Cat Found"
+	{
+		"trans"		"** 发现410只猫 **"
+	}
+	"***Defend for 10 seconds***"
+	{
+		"trans"		"** 守住10秒 **"
+	}
+	">> ZOMBIES INSIDE THE ELEVATOR <<"
+	{
+		"trans"		"** 僵尸在电梯里 **"
+	}
+	">> LEVEL FAILED <<"
+	{
+		"trans"		"** 关卡失败 **"
+	}
+	"810 Cat Found"
+	{
+		"trans"		"** 发现810只猫 **"
+	}
+	">> You beat the map <<"
+	{
+		"trans"		"** 你已攻陷了这个地图 **"
+	}
+	">> Congratulation <<"
+	{
+		"trans"		"** 恭喜你 **"
+	}
+	">> Map will reset <<"
+	{
+		"trans"		"** 地图将重置 **"
+	}
+	">> ZOMBIE ABOARD !! YOU FAILED !! <<"
+	{
+		"trans"		"** 僵尸上来了!!你输了!! **"
+	}
+	"*** PLAYER HAS CHOSEN LEVEL 2 NORMAL ***"
+	{
+		"trans"		"** 玩家选择了LEVEL 2：普通 **"
+	}
+}

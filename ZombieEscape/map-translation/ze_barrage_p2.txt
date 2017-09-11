@@ -1,0 +1,91 @@
+"Chat"
+{
+	">>ROAD SELECTION : Gas Station<<"
+	{
+		"trans"		"** 道路选择:加油站 **"
+	}
+	">>>MAP BY LeGrem<<<"
+	{
+		"trans"		"** 地图作者:LeGrem 翻译:Laser **"
+	}
+	">>DOOR CLOSING IN 15s<<"
+	{
+		"trans"		"** 门将于15秒后关闭**"
+	}
+	">>DEFEND THE GAS STATION 50s<<"
+	{
+		"trans"		"** 守住这个加油站50秒 **"
+	}
+	">>5s LEFT<<"
+	{
+		"trans"		"** 剩余5秒 **"
+	}
+	">>>RUN<<<"
+	{
+		"trans"		"** 快跑!要被爆菊了! **"
+	}
+	">>ACTIVATE THE GENERATOR IN THE BARN !<<"
+	{
+		"trans"		"** 激活谷仓里的发电机! **"
+	}
+	">>DOORS CLOSING IN 15s<<"
+	{
+		"trans"		"** 门将于15秒后关闭 **"
+	}
+	">>DEFEND THE BARN 45s<<"
+	{
+		"trans"		"** 守住这个谷仓45秒 **"
+	}
+	">>ROAD SELECTION : House<<"
+	{
+		"trans"		"** 道路选择:房屋 **"
+	}
+	">>DEFEND THE HOUSE 50s<<"
+	{
+		"trans"		"** 守住这个房屋50秒 **"
+	}
+	">>1ST FLOOR LOST : CLOSING IN 5s<<"
+	{
+		"trans"		"** 一楼已经失守:将于5秒后关闭 **"
+	}
+	">>ZOMBIES IN THE BEDROOM DEFEND 5s<<"
+	{
+		"trans"		"** 在卧室里守住僵尸5秒 **"
+	}
+	">>DEFEND 30s<<"
+	{
+		"trans"		"** 守住30秒 **"
+	}
+	">>BLOW UP THE BARRAGE WITH THE COMPUTER<<"
+	{
+		"trans"		"** 用计算机炸开河道 **"
+	}
+	">>EXPLOSION IN 1 MINUTE<<"
+	{
+		"trans"		"** 爆炸剩余60秒 **"
+	}
+	">>DEFEND THE 2 BRIDGES<<"
+	{
+		"trans"		"** 守住这两条桥 **"
+	}
+	">>TOO MUCH CT. SECOND WAY OPEN<<"
+	{
+		"trans"		"** 人类太多了.新的路线开放 **"
+	}
+	">>ROOF OPEN<<"
+	{
+		"trans"		"** 屋顶开放 **"
+	}
+	">>LADDERS ACCESS OPEN<<"
+	{
+		"trans"		"** 梯子开放 **"
+	}
+	">>LADDERS BREAK<<"
+	{
+		"trans"		"** 梯子断裂 **"
+	}
+	">>BYE BYE<<"
+	{
+		"trans"		"** 再见 **"
+	}
+}

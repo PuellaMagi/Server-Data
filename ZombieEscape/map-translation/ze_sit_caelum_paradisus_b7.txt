@@ -1,0 +1,291 @@
+"Chat"
+{
+	"** TAKE FRONT-LEFT DOOR **"
+	{
+		"trans"		"** 走左前方的门 **"
+	}
+	"** ENTER THE CENTER OF HALL TO ACCESS SP ITEM ROOM **"
+	{
+		"trans"		"** 进入大厅的中心访问SP项目室(拿神器) **"
+	}
+	" ** TRY TO USE THEM **"
+	{
+		"trans"		"** 试着使用它们防守僵尸 **"
+	}
+	"** ZE_SIT_CAELUM_PARADISUS **"
+	{
+		"trans"		"** 地图:ZE_SIT_CAELUM_PARADISUS **"
+	}
+	"** ROUTE ONE **"
+	{
+		"trans"		"** 第一关 **"
+	}
+	"** SANATIO STAFF HAS BEEN PICKED UP **"
+	{
+		"trans"		"** 一名玩家捡起了奶(附带无限弹药) **"
+	}
+	"** VENTUS STAFF HAS BEEN PICKED UP **"
+	{
+		"trans"		"** 一名玩家捡起了风 **"
+	}
+	"** IGNIS AXE HAS BEEN PICKED UP **"
+	{
+		"trans"		"** 一名玩家捡起了火 **"
+	}
+	"** TERRA AXE HAS BEEN PICKED UP **"
+	{
+		"trans"		"** 一名玩家捡起了墙 **"
+	}
+	">>>DOOR BREAKING IN 20 SECS<<<"
+	{
+		"trans"		"** 门将于20秒后打开 **"
+	}
+	">>>HOLD<<<"
+	{
+		"trans"		"** 守住 **"
+	}
+	">>>DOOR BREAKING IN 25 SECS<<<"
+	{
+		"trans"		"** 门将于25秒后打开 **"
+	}
+	">>>HHOOLLDD<<<"
+	{
+		"trans"		"** 绝对要守住 **"
+	}
+	">>>HOLDDDD<<<"
+	{
+		"trans"		"** 要守住 **"
+	}
+	">>>DOOR BREAKING IN 30 SECS<<<"
+	{
+		"trans"		"** 门将于30秒后打开 **"
+	}
+	">>>DOOR BREAKING IN 15 SECS<<<"
+	{
+		"trans"		"** 门将于15秒后打开 **"
+	}
+	">>>DOOR OPENING 20 SECS<<<"
+	{
+		"trans"		"** 门将于20秒后打开 **"
+	}
+	">>>DOOR OPENING IN 35 SECS<<<"
+	{
+		"trans"		"** 门将于35秒后打开 **"
+	}
+	">>>LAST HOLD 15 SECS<<<"
+	{
+		"trans"		"** 守住最后15秒 **"
+	}
+	">>>WAIT FOR TELEPORT<<<"
+	{
+		"trans"		"** 等待传送 **"
+	}
+	"** WE SECURED ROUTE ONE **"
+	{
+		"trans"		"** 我们确保通过了第一关了 **"
+	}
+	">>>LETS GO ROUTE TWO<<<"
+	{
+		"trans"		"** 正在前往第二关 **"
+	}
+	"*** MAP BY SATOKA***"
+	{
+		"trans"		"** 地图作者:SATOKA 翻译:Laser **"
+	}
+	"** ROUTE TWO **"
+	{
+		"trans"		"** 第二关 **"
+	}
+	"** TAKE FRONT-RIGHT DOOR **"
+	{
+		"trans"		"** 走右前方的门 **"
+	}
+	">>>DOOR OPENING IN 20 SECS<<<"
+	{
+		"trans"		"** 门20秒后开启 **"
+	}
+	">>>WE MUST FIND AND PRESS THREE HIDDEN BUTTON<<<"
+	{
+		"trans"		"** 我们必须找到并按下三个隐藏按钮 **"
+	}
+	">>>TO HET OUT THIS LIBRARY<<<"
+	{
+		"trans"		"** 离开这个图书馆 **"
+	}
+	">>>GOOD JOB!<<<"
+	{
+		"trans"		"** 干得好!全部回头守僵尸 **"
+	}
+	">>>NOW TIME TO HOLD<<<"
+	{
+		"trans"		"** 现在继续防守 **"
+	}
+	">>>DOOR BREAKING IN 45 SECS<<<"
+	{
+		"trans"		"** 门45秒后破裂 **"
+	}
+	">>>DOOR BREAKING IN 25 SECS<<<"
+	{
+		"trans"		"** 门25秒后破裂 **"
+	}
+	">>>DOOR BREAKING IN 25 SECS<<<"
+	{
+		"trans"		"** 门25秒后破裂 **"
+	}
+	">>>DOOR BREAKING IN 50 SECS<<<"
+	{
+		"trans"		"** 门50秒后破裂 **"
+	}
+	">>>RUN RUN RUN! <<<"
+	{
+		"trans"		"** 跑跑跑!要被爆菊了! **"
+	}
+	">>>GUARDIAN OF THE RUIN AHEAD <<<"
+	{
+		"trans"		"** 前方废墟有守护者 **"
+	}
+	">>>EXTRA VENTUS ACTIVATED<<<"
+	{
+		"trans"		"** ventus额外激活 **"
+	}
+	">>>WELL DONE!<<<"
+	{
+		"trans"		"** 做得好! **"
+	}
+	">>>THE GATE TO THE RUIN WILL OPEN SOON<<<"
+	{
+		"trans"		"** 通往废墟的大门很快就要打开了 **"
+	}
+	">>>DEFEND!!<<<"
+	{
+		"trans"		"** 守住!! **"
+	}
+	"** WE SECURED ROUTE TWO **"
+	{
+		"trans"		"** 我们确保通过了第二关 **"
+	}
+	">>>GO TO ROUTE THREE<<<"
+	{
+		"trans"		"** 正在前往第三关 **"
+	}
+	"** ROUTE THREE **"
+	{
+		"trans"		"** 第三关 **"
+	}
+	"** TAKE LEFT DOOR **"
+	{
+		"trans"		"** 走左边的门 **"
+	}
+	">> DOOR OPENING IN 30 SECS <<"
+	{
+		"trans"		"** 门30秒后开启 **"
+	}
+	">> DOOR OPENING IN 30 SECS <<"
+	{
+		"trans"		"** 门30秒后开启 **"
+	}
+	">>> DOOR OPENING IN 40 SECS <<<"
+	{
+		"trans"		"** 门40秒后开启 **"
+	}
+	">> DOOR OPENING IN 50 SECS <<"
+	{
+		"trans"		"** 门50秒后开启 **"
+	}
+	">> DOOR OPENING IN 10 SECS <<"
+	{
+		"trans"		"** 门10秒后开启 **"
+	}
+	"*** THE DRAGON NOTICED US ***"
+	{
+		"trans"		"** 龙注意到了我们 **"
+	}
+	">> KILL HIM!! <<"
+	{
+		"trans"		"** 杀了他!! **"
+	}
+	"*** IGNIS !!!***"
+	{
+		"trans"		"** 火!!! **"
+	}
+	"*** IGNIS !!! ***"
+	{
+		"trans"		"** 火!!! **"
+	}
+	"*** VENTUS !!! ***"
+	{
+		"trans"		"** 风!!! **"
+	}
+	"*** IGNIS WAVE !!! ***"
+	{
+		"trans"		"** 火墙!!! **"
+	}
+	"*** HEAL !!!***"
+	{
+		"trans"		"** 治疗!!! **"
+	}
+	">>> NICELY DONE !! <<<"
+	{
+		"trans"		"** 做得很好 **"
+	}
+	">>> NOW GET THE HELL OUT OF HERE <<<"
+	{
+		"trans"		"** 我们快走出去 **"
+	}
+	">>> RUN TO THE FINAL ROOM <<<"
+	{
+		"trans"		"** 跑到最后的房间 **"
+	}
+	">>> AND DEFEND UNTIL TELEPORT <<<"
+	{
+		"trans"		"** 守住直到传送 **"
+	}
+	">>> 90 SECS LEFT !!! <<<"
+	{
+		"trans"		"** 剩余90秒 **"
+	}
+	">>> 30 SECS LEFT !!! <<<"
+	{
+		"trans"		"** 剩余30秒 **"
+	}
+	">>> 10 SECS LEFT !!! <<<"
+	{
+		"trans"		"** 剩余10秒 **"
+	}
+	"** WE SECURED ROUTE THREE **"
+	{
+		"trans"		"** 我们确保通过了第三关 **"
+	}
+	">>>BACK TO ROOT ONE<<<"
+	{
+		"trans"		"** 返回第一关 **"
+	}
+	"**GRACIES ZOMBIE INCOMING**"
+	{
+		"trans"		"** 一名僵尸捡起了冰 **"
+	}
+	"**IGNIS ZOMBIE INCOMING**"
+	{
+		"trans"		"** 一名僵尸捡起了火 **"
+	}
+	"** TRY TO USE THEM **"
+	{
+		"trans"		"** 试着使用它们 **"
+	}
+	">>>BACK TO ROUTE ONE<<<"
+	{
+		"trans"		"** 返回第一关 **"
+	}
+	"** CHANGING ROOT TWO **"
+	{
+		"trans"		"** 管理员把关卡调为第二关 **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"blocked"		"1"
+	}
+	"** CHANGING ROOT THREE **"
+	{
+		"chi"		"** 管理员把关卡调为第三关 **"
+	}
+}
