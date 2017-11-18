@@ -864,7 +864,7 @@
 		"OnlyAdmin"		"0"
 		"OnlyVIP"		"0"
 	}
-	"ze_PotC_p4"
+	"ze_potc_p4"
 	{
 		"desc"		"加勒比海盗: [1关|低奖励] 中等"
 		"price"		"100"
@@ -1632,7 +1632,7 @@
 		"OnlyAdmin"		"0"
 		"OnlyVIP"		"0"
 	}
-	"ze_ffxii_westersand_v7_z9"
+	"ze_FFXII_Westersand_v7_z9"
 	{
 		"desc"		"不详: 尚未明朗"
 		"price"		"100"
@@ -1709,6 +1709,78 @@
 		"desc"		"不详: 尚未明朗"
 		"price"		"100"
 		"Size"		"146"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_alien_mountain_escape_ffvii_v5"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"59"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_escape_horizon_p2"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"61"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_s_a_m_a29"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"117"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_ShroomForest3_p"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"145"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_panic_escape_v3_2_e5"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"16"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_electrical_factory_b3_d"
+	{
+		"desc"		"不详: 尚未明朗"
+		"price"		"100"
+		"Size"		"125"
 		"Nice"		"0"
 		"minplayers"		"0"
 		"maxplayers"		"0"
