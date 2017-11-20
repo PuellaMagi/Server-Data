@@ -2,7 +2,7 @@
 {
 	"ze_10th_Station_vFaT10"
 	{
-		"desc"		"第十站: 尚未明朗"
+		"desc"		"第十站"
 		"price"		"100"
 		"Size"		"59"
 		"Nice"		"0"
@@ -14,7 +14,7 @@
 	}
 	"ze_13_v2"
 	{
-		"desc"		"13号基地设施: [1关] "
+		"desc"		"13号基地设施"
 		"price"		"100"
 		"Size"		"70"
 		"Nice"		"0"
@@ -26,7 +26,7 @@
 	}
 	"ze_30_seconds_go_v2"
 	{
-		"desc"		"生死30秒: [1关]"
+		"desc"		"生死30秒"
 		"price"		"100"
 		"Size"		"21"
 		"Nice"		"0"
@@ -38,7 +38,7 @@
 	}
 	"ze_A_E_S_T_H_E_T_I_C_v1_1"
 	{
-		"desc"		"舞台剧：艺术战争: [1关|BOSS|神器] *神图*"
+		"desc"		"舞台剧：艺术战争　**神图**"
 		"price"		"1000"
 		"Size"		"81"
 		"Nice"		"1"
@@ -50,7 +50,7 @@
 	}
 	"ze_abandoned_bio_bunker_v1_4"
 	{
-		"desc"		"被废弃的生物设施: 尚未明朗"
+		"desc"		"被废弃的生物设施"
 		"price"		"100"
 		"Size"		"37"
 		"Nice"		"0"
@@ -62,7 +62,7 @@
 	}
 	"ze_abandoned_industry_alpha"
 	{
-		"desc"		"废弃工业: 尚未明朗"
+		"desc"		"废弃工业"
 		"price"		"100"
 		"Size"		"50"
 		"Nice"		"0"
@@ -74,7 +74,7 @@
 	}
 	"ze_aepp_nano_grid2_v1"
 	{
-		"desc"		"纳米方块: [2关|神器]"
+		"desc"		"纳米方块"
 		"price"		"500"
 		"Size"		"37"
 		"Nice"		"0"
@@ -86,7 +86,7 @@
 	}
 	"ze_alien_mountain_escape_ffvii_v5"
 	{
-		"desc"		"阿里山逃亡：最终幻想7: [1关|BOSS]"
+		"desc"		"阿里山逃亡：最终幻想7"
 		"price"		"500"
 		"Size"		"61"
 		"Nice"		"0"
@@ -98,7 +98,7 @@
 	}
 	"ze_ALIEN_mountain_escape_p3"
 	{
-		"desc"		"阿里山逃亡: [1关]"
+		"desc"		"阿里山逃亡"
 		"price"		"100"
 		"Size"		"37"
 		"Nice"		"0"
@@ -110,7 +110,7 @@
 	}
 	"ze_ancient_wrath_v1_2"
 	{
-		"desc"		"古代种的愤怒: 尚未明朗 *神图*"
+		"desc"		"古代种的愤怒　**神图**"
 		"price"		"1000"
 		"Size"		"144"
 		"Nice"		"1"
@@ -122,7 +122,7 @@
 	}
 	"ze_anima_ruins_v2_2"
 	{
-		"desc"		"灵魂废墟: 尚未明朗"
+		"desc"		"灵魂废墟"
 		"price"		"100"
 		"Size"		"79"
 		"Nice"		"0"
@@ -134,7 +134,7 @@
 	}
 	"ze_antartika_b1_1"
 	{
-		"desc"		"南极逃亡: 尚未明朗"
+		"desc"		"南极逃亡"
 		"price"		"100"
 		"Size"		"152"
 		"Nice"		"0"
@@ -146,7 +146,7 @@
 	}
 	"ze_ApertureScience_p2"
 	{
-		"desc"		"光圈科技：传送门: [1关]"
+		"desc"		"光圈科技：传送门"
 		"price"		"100"
 		"Size"		"45"
 		"Nice"		"0"
@@ -158,7 +158,7 @@
 	}
 	"ze_apocatastasis_v1_2"
 	{
-		"desc"		"复原: 尚未明朗"
+		"desc"		"复原"
 		"price"		"100"
 		"Size"		"30"
 		"Nice"		"0"
@@ -170,7 +170,7 @@
 	}
 	"ze_apollo_e1"
 	{
-		"desc"		"阿波罗登月: [1关|] "
+		"desc"		"阿波罗登月"
 		"price"		"100"
 		"Size"		"69"
 		"Nice"		"0"
@@ -182,7 +182,7 @@
 	}
 	"ze_Apollo_p"
 	{
-		"desc"		"阿波罗: 尚未明朗"
+		"desc"		"阿波罗"
 		"price"		"100"
 		"Size"		"37"
 		"Nice"		"0"
@@ -194,7 +194,7 @@
 	}
 	"ze_arctic_escape_p2"
 	{
-		"desc"		"北极逃亡: [1关]"
+		"desc"		"北极逃亡"
 		"price"		"100"
 		"Size"		"43"
 		"Nice"		"0"
@@ -206,7 +206,7 @@
 	}
 	"ze_artika_base_v1_2"
 	{
-		"desc"		"南极逃亡: 尚未明朗"
+		"desc"		"南极逃亡"
 		"price"		"100"
 		"Size"		"154"
 		"Nice"		"0"
@@ -218,7 +218,7 @@
 	}
 	"ze_ashen_keep_v0_3_csgo3"
 	{
-		"desc"		"黑暗之魂：圣殿之战: [3关|BOSS|神器] *神图*"
+		"desc"		"黑暗之魂：圣殿之战　**神图**"
 		"price"		"1000"
 		"Size"		"153"
 		"Nice"		"1"
@@ -230,7 +230,7 @@
 	}
 	"ze_atix_apocalypse_p3"
 	{
-		"desc"		"ATIX：启示录: [1关]"
+		"desc"		"ATIX：启示录"
 		"price"		"100"
 		"Size"		"92"
 		"Nice"		"0"
@@ -242,7 +242,7 @@
 	}
 	"ze_ATIX_extinction_p2"
 	{
-		"desc"		"ATIX：灭绝: [1关]"
+		"desc"		"ATIX：灭绝"
 		"price"		"100"
 		"Size"		"50"
 		"Nice"		"0"
@@ -254,7 +254,7 @@
 	}
 	"ze_ATIX_helicopter_p"
 	{
-		"desc"		"ATIX：直升机逃生: [1关]"
+		"desc"		"ATIX：直升机逃生"
 		"price"		"100"
 		"Size"		"29"
 		"Nice"		"0"
@@ -266,7 +266,7 @@
 	}
 	"ze_ATIX_panic_b3t_p"
 	{
-		"desc"		"ATIX：恐慌: [1关]"
+		"desc"		"ATIX：恐慌"
 		"price"		"100"
 		"Size"		"26"
 		"Nice"		"0"
@@ -278,7 +278,7 @@
 	}
 	"ze_atix_panic_v1"
 	{
-		"desc"		"惊慌逃生: 尚未明朗"
+		"desc"		"惊慌逃生"
 		"price"		"100"
 		"Size"		"86"
 		"Nice"		"0"
@@ -290,7 +290,7 @@
 	}
 	"ze_aztec_temple_go_v2"
 	{
-		"desc"		"阿兹特克：神殿: [1关]"
+		"desc"		"阿兹特克：神殿"
 		"price"		"100"
 		"Size"		"30"
 		"Nice"		"0"
@@ -302,7 +302,7 @@
 	}
 	"ze_aztecnoob_p2"
 	{
-		"desc"		"阿兹特克：新手陷阱: [1关]"
+		"desc"		"阿兹特克：新手陷阱"
 		"price"		"100"
 		"Size"		"29"
 		"Nice"		"0"
@@ -314,7 +314,7 @@
 	}
 	"ze_barrage_p2"
 	{
-		"desc"		"求生之路：弹幕: [1关]"
+		"desc"		"求生之路：弹幕"
 		"price"		"100"
 		"Size"		"95"
 		"Nice"		"0"
@@ -326,7 +326,7 @@
 	}
 	"ze_Bathroom_v2_5"
 	{
-		"desc"		"浴室逃脱: [2关|BOSS|神器]"
+		"desc"		"浴室逃脱"
 		"price"		"500"
 		"Size"		"108"
 		"Nice"		"0"
@@ -338,7 +338,7 @@
 	}
 	"ze_biohazard_manor_004_p4"
 	{
-		"desc"		"生化危机：洋馆: [1关]"
+		"desc"		"生化危机：洋馆"
 		"price"		"500"
 		"Size"		"133"
 		"Nice"		"0"
@@ -350,7 +350,7 @@
 	}
 	"ze_biohazard2_rpd_004_p3"
 	{
-		"desc"		"生化危机：警察局: [1关]"
+		"desc"		"生化危机：警察局"
 		"price"		"500"
 		"Size"		"111"
 		"Nice"		"0"
@@ -362,7 +362,7 @@
 	}
 	"ze_biohazard2_sewer_004_p8"
 	{
-		"desc"		"生化危机：下水道: [1关]"
+		"desc"		"生化危机：下水道"
 		"price"		"500"
 		"Size"		"105"
 		"Nice"		"0"
@@ -374,7 +374,7 @@
 	}
 	"ze_bioshock_v6_2_csgo4"
 	{
-		"desc"		"生化奇兵: [5关|BOSS|神器] *神图*"
+		"desc"		"生化奇兵　**神图**"
 		"price"		"1000"
 		"Size"		"153"
 		"Nice"		"1"
@@ -386,7 +386,7 @@
 	}
 	"ze_bisounours_party_go_v2"
 	{
-		"desc"		"熊派对: [3关|BOSS]"
+		"desc"		"熊派对"
 		"price"		"500"
 		"Size"		"118"
 		"Nice"		"0"
@@ -398,7 +398,7 @@
 	}
 	"ze_blackmesa_escape_csgofix1"
 	{
-		"desc"		"黑山：起源: 尚未明朗"
+		"desc"		"黑山：起源"
 		"price"		"100"
 		"Size"		"62"
 		"Nice"		"0"
@@ -410,7 +410,7 @@
 	}
 	"ze_blackmesa_remix_p2"
 	{
-		"desc"		"黑山：起源—多路线: 尚未明朗"
+		"desc"		"黑山：起源—多路线"
 		"price"		"100"
 		"Size"		"113"
 		"Nice"		"0"
@@ -422,7 +422,7 @@
 	}
 	"ze_blocky_mess_b2"
 	{
-		"desc"		"混乱方块: 尚未明朗"
+		"desc"		"混乱方块"
 		"price"		"100"
 		"Size"		"36"
 		"Nice"		"0"
@@ -434,7 +434,7 @@
 	}
 	"ze_boatescape101_p"
 	{
-		"desc"		"逃生船101: [1关]"
+		"desc"		"逃生船101"
 		"price"		"100"
 		"Size"		"11"
 		"Nice"		"0"
@@ -446,7 +446,7 @@
 	}
 	"ze_boatescapex_b1"
 	{
-		"desc"		"逃生船X: 尚未明朗"
+		"desc"		"逃生船X"
 		"price"		"100"
 		"Size"		"73"
 		"Nice"		"0"
@@ -458,7 +458,7 @@
 	}
 	"ze_boredom_p"
 	{
-		"desc"		"无聊: 尚未明朗"
+		"desc"		"无聊"
 		"price"		"100"
 		"Size"		"152"
 		"Nice"		"0"
@@ -470,7 +470,7 @@
 	}
 	"ze_bp-infested-prison_p2"
 	{
-		"desc"		"监狱逃亡: [1关]"
+		"desc"		"监狱"
 		"price"		"100"
 		"Size"		"41"
 		"Nice"		"0"
@@ -482,7 +482,7 @@
 	}
 	"ze_Breakable_p3"
 	{
-		"desc"		"破坏之旅: [1关]"
+		"desc"		"破坏之旅"
 		"price"		"100"
 		"Size"		"62"
 		"Nice"		"0"
@@ -494,7 +494,7 @@
 	}
 	"ze_bunker_escape_v1_2"
 	{
-		"desc"		"地堡逃亡: [1关]"
+		"desc"		"地堡逃亡"
 		"price"		"100"
 		"Size"		"31"
 		"Nice"		"0"
@@ -506,7 +506,7 @@
 	}
 	"ze_castlevania_p1_7"
 	{
-		"desc"		"恶魔城: [6关|BOSS|神器] *神图*"
+		"desc"		"恶魔城　**神图**"
 		"price"		"1000"
 		"Size"		"124"
 		"Nice"		"1"
@@ -518,7 +518,7 @@
 	}
 	"ze_cathedral_b1_1"
 	{
-		"desc"		"大教堂: [1关] "
+		"desc"		"大教堂"
 		"price"		"100"
 		"Size"		"98"
 		"Nice"		"0"
@@ -530,7 +530,7 @@
 	}
 	"ze_ccc_azteclsd_v1"
 	{
-		"desc"		"CCC：阿兹特克: 尚未明朗"
+		"desc"		"CCC：阿兹特克"
 		"price"		"100"
 		"Size"		"34"
 		"Nice"		"0"
@@ -542,7 +542,7 @@
 	}
 	"ze_ccc_floator_mislands_timantetrix_v2"
 	{
-		"desc"		"CCC：浮岛: 尚未明朗"
+		"desc"		"CCC：浮岛"
 		"price"		"100"
 		"Size"		"98"
 		"Nice"		"0"
@@ -554,7 +554,7 @@
 	}
 	"ze_cheezylab_beta7"
 	{
-		"desc"		"实验室:  [1关]"
+		"desc"		"实验室"
 		"price"		"100"
 		"Size"		"71"
 		"Nice"		"0"
@@ -566,7 +566,7 @@
 	}
 	"ze_chemical_weapons_depot_v3_1"
 	{
-		"desc"		"化学武器库: 尚未明朗"
+		"desc"		"化学武器库"
 		"price"		"100"
 		"Size"		"76"
 		"Nice"		"0"
@@ -578,7 +578,7 @@
 	}
 	"ze_chicken_ranch_v2_2"
 	{
-		"desc"		"小鸡牧场: 尚未明朗"
+		"desc"		"小鸡牧场"
 		"price"		"100"
 		"Size"		"141"
 		"Nice"		"0"
@@ -590,7 +590,7 @@
 	}
 	"ze_christmas_b2_1"
 	{
-		"desc"		"圣诞节: 尚未明朗"
+		"desc"		"圣诞节"
 		"price"		"100"
 		"Size"		"145"
 		"Nice"		"0"
@@ -602,7 +602,7 @@
 	}
 	"ze_christmas_infection_p2"
 	{
-		"desc"		"圣诞节感染: [5关|神器]"
+		"desc"		"圣诞节感染"
 		"price"		"500"
 		"Size"		"131"
 		"Nice"		"0"
@@ -614,7 +614,7 @@
 	}
 	"ze_chrono_trigger_b3"
 	{
-		"desc"		"慢性触发: 尚未明朗"
+		"desc"		"慢性触发"
 		"price"		"100"
 		"Size"		"85"
 		"Nice"		"0"
@@ -626,7 +626,7 @@
 	}
 	"ze_colors_p3"
 	{
-		"desc"		"乐高逃亡：颜色: [3关]"
+		"desc"		"乐高逃亡：颜色"
 		"price"		"500"
 		"Size"		"49"
 		"Nice"		"0"
@@ -638,7 +638,7 @@
 	}
 	"ze_colourslide_v2_2"
 	{
-		"desc"		"彩色幻灯片: 尚未明朗"
+		"desc"		"彩色幻灯片"
 		"price"		"100"
 		"Size"		"63"
 		"Nice"		"0"
@@ -650,7 +650,7 @@
 	}
 	"ze_complex_b5_1"
 	{
-		"desc"		"复杂: 尚未明朗"
+		"desc"		"复杂"
 		"price"		"100"
 		"Size"		"73"
 		"Nice"		"0"
@@ -662,7 +662,7 @@
 	}
 	"ze_crashbandicoot_p3"
 	{
-		"desc"		"崩溃的袋鼠: 尚未明朗"
+		"desc"		"崩溃的袋鼠"
 		"price"		"100"
 		"Size"		"122"
 		"Nice"		"0"
@@ -674,7 +674,7 @@
 	}
 	"ze_crazy_escape_v5_5"
 	{
-		"desc"		"疯狂逃亡: [3关|BOSS]"
+		"desc"		"疯狂逃亡"
 		"price"		"500"
 		"Size"		"94"
 		"Nice"		"0"
@@ -686,7 +686,7 @@
 	}
 	"ze_crazy_escape_v5_5_1"
 	{
-		"desc"		"疯狂逃亡: [3关|BOSS]"
+		"desc"		"疯狂逃亡"
 		"price"		"500"
 		"Size"		"94"
 		"Nice"		"0"
@@ -698,7 +698,7 @@
 	}
 	"ze_crypt_v1_4"
 	{
-		"desc"		"地穴逃亡: 尚未明朗"
+		"desc"		"地穴逃亡"
 		"price"		"100"
 		"Size"		"58"
 		"Nice"		"0"
@@ -710,7 +710,7 @@
 	}
 	"ze_csgo_grey2"
 	{
-		"desc"		"灰白世界: [1关]"
+		"desc"		"灰白世界"
 		"price"		"100"
 		"Size"		"24"
 		"Nice"		"0"
@@ -722,7 +722,7 @@
 	}
 	"ze_cursed_ruins_v2"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"不详"
 		"price"		"100"
 		"Size"		"69"
 		"Nice"		"0"
@@ -734,7 +734,7 @@
 	}
 	"ze_cyberderp_p3"
 	{
-		"desc"		"网络王者: 尚未明朗"
+		"desc"		"网络王者"
 		"price"		"100"
 		"Size"		"137"
 		"Nice"		"0"
@@ -746,7 +746,7 @@
 	}
 	"ze_dangerous_waters_wb_1_3"
 	{
-		"desc"		"危险的水域: 尚未明朗"
+		"desc"		"危险的水域"
 		"price"		"100"
 		"Size"		"66"
 		"Nice"		"0"
@@ -758,7 +758,7 @@
 	}
 	"ze_deadcore_c18"
 	{
-		"desc"		"死亡核心: [4关|BOSS|神器] *神图*"
+		"desc"		"死亡核心　**神图**"
 		"price"		"1000"
 		"Size"		"57"
 		"Nice"		"1"
@@ -770,7 +770,7 @@
 	}
 	"ze_death_star_escape_v4_3_p2"
 	{
-		"desc"		"星球大战-逃离死星: [1关|神器]"
+		"desc"		"星球大战：逃离死星"
 		"price"		"100"
 		"Size"		"48"
 		"Nice"		"0"
@@ -782,7 +782,7 @@
 	}
 	"ze_Death_Valley_b2"
 	{
-		"desc"		"死亡之谷: 尚未明朗"
+		"desc"		"死亡之谷"
 		"price"		"100"
 		"Size"		"32"
 		"Nice"		"0"
@@ -794,7 +794,7 @@
 	}
 	"ze_death_wish_v6"
 	{
-		"desc"		"死亡之愿: 尚未明朗"
+		"desc"		"死亡之愿"
 		"price"		"100"
 		"Size"		"25"
 		"Nice"		"0"
@@ -806,7 +806,7 @@
 	}
 	"ze_deepice_p3"
 	{
-		"desc"		"深冰: 尚未明朗"
+		"desc"		"深冰"
 		"price"		"100"
 		"Size"		"41"
 		"Nice"		"0"
@@ -818,7 +818,7 @@
 	}
 	"ze_desert_fox_v7_6"
 	{
-		"desc"		"沙漠狐狸: 尚未明朗"
+		"desc"		"沙漠狐狸"
 		"price"		"100"
 		"Size"		"116"
 		"Nice"		"0"
@@ -830,7 +830,7 @@
 	}
 	"ze_destruction_of_exorath_v4_lite"
 	{
-		"desc"		"摧毁早熟的EXO: [5关|BOSS|神器] *神图*"
+		"desc"		"摧毁早熟的EXO　**神图**"
 		"price"		"1000"
 		"Size"		"153"
 		"Nice"		"1"
@@ -842,7 +842,7 @@
 	}
 	"ze_diddle_v3"
 	{
-		"desc"		"欺骗: [4关|BOSS|神器] *神图*"
+		"desc"		"欺骗　**神图**"
 		"price"		"1000"
 		"Size"		"148"
 		"Nice"		"1"
@@ -854,7 +854,7 @@
 	}
 	"ze_DOOM_p2"
 	{
-		"desc"		"厄运: [3关|BOSS|神器]"
+		"desc"		"厄运"
 		"price"		"100"
 		"Size"		"42"
 		"Nice"		"0"
@@ -866,7 +866,7 @@
 	}
 	"ze_doorhug_and_solo_v52329324_d"
 	{
-		"desc"		"贴门就能solo: 尚未明朗"
+		"desc"		"贴门就能solo"
 		"price"		"100"
 		"Size"		"124"
 		"Nice"		"0"
@@ -878,7 +878,7 @@
 	}
 	"ze_dragonball_snakeway_v1_3"
 	{
-		"desc"		"龙珠蛇道: 尚未明朗"
+		"desc"		"龙珠蛇道"
 		"price"		"100"
 		"Size"		"41"
 		"Nice"		"0"
@@ -890,7 +890,7 @@
 	}
 	"ze_dreamin_v1_9"
 	{
-		"desc"		"梦中: [2关|BOSS|神器]"
+		"desc"		"在梦中"
 		"price"		"500"
 		"Size"		"52"
 		"Nice"		"0"
@@ -902,7 +902,7 @@
 	}
 	"ze_dreamin_v1_9_1"
 	{
-		"desc"		"梦中: [2关|BOSS|神器]"
+		"desc"		"在梦中"
 		"price"		"500"
 		"Size"		"52"
 		"Nice"		"0"
@@ -914,7 +914,7 @@
 	}
 	"ze_drk_ratrace_v1_p4"
 	{
-		"desc"		"黑鼠竞赛: 尚未明朗"
+		"desc"		"黑鼠竞赛"
 		"price"		"100"
 		"Size"		"26"
 		"Nice"		"0"
@@ -926,7 +926,7 @@
 	}
 	"ze_electrical_factory_b3_d"
 	{
-		"desc"		"电器厂: 尚未明朗"
+		"desc"		"电器厂"
 		"price"		"100"
 		"Size"		"128"
 		"Nice"		"0"
@@ -938,7 +938,7 @@
 	}
 	"ze_ELEVATOR_escape"
 	{
-		"desc"		"电梯逃亡: 尚未明朗"
+		"desc"		"电梯逃亡"
 		"price"		"100"
 		"Size"		"93"
 		"Nice"		"0"
@@ -950,7 +950,7 @@
 	}
 	"ze_elevator_escape_p3"
 	{
-		"desc"		"电梯逃亡p3: [1关]"
+		"desc"		"电梯逃亡p3"
 		"price"		"100"
 		"Size"		"36"
 		"Nice"		"0"
@@ -962,7 +962,7 @@
 	}
 	"ze_empirecity_v1_t"
 	{
-		"desc"		"帝国城市: 尚未明朗"
+		"desc"		"帝国都市"
 		"price"		"100"
 		"Size"		"36"
 		"Nice"		"0"
@@ -974,7 +974,7 @@
 	}
 	"ze_escape_horizon_p2"
 	{
-		"desc"		"逃离地平线: 尚未明朗"
+		"desc"		"逃离地平线"
 		"price"		"100"
 		"Size"		"63"
 		"Nice"		"0"
@@ -986,7 +986,7 @@
 	}
 	"ze_escape_the_eye_p2"
 	{
-		"desc"		"逃离天眼: [1关]"
+		"desc"		"逃离天眼"
 		"price"		"100"
 		"Size"		"31"
 		"Nice"		"0"
@@ -998,7 +998,7 @@
 	}
 	"ze_eternal_void_p3"
 	{
-		"desc"		"永恒的虚空: 尚未明朗"
+		"desc"		"永恒的虚空"
 		"price"		"100"
 		"Size"		"48"
 		"Nice"		"0"
@@ -1010,7 +1010,7 @@
 	}
 	"ze_evernight_a2_4c"
 	{
-		"desc"		"永夜: [2关|BOSS|神器]"
+		"desc"		"永夜"
 		"price"		"500"
 		"Size"		"119"
 		"Nice"		"0"
@@ -1022,7 +1022,7 @@
 	}
 	"ze_evil_mansion_v1_final"
 	{
-		"desc"		"闹鬼庄园: [1关]"
+		"desc"		"闹鬼庄园"
 		"price"		"100"
 		"Size"		"88"
 		"Nice"		"0"
@@ -1034,7 +1034,7 @@
 	}
 	"ze_exchange_innovation_v1b_ps2"
 	{
-		"desc"		"交流创新: [3关]"
+		"desc"		"交流创新"
 		"price"		"100"
 		"Size"		"168"
 		"Nice"		"0"
@@ -1046,7 +1046,7 @@
 	}
 	"ze_fapescape_p5"
 	{
-		"desc"		"乐高：方块剧场: [6关|BOSS|神器] *神图*"
+		"desc"		"乐高逃亡：方块剧场　**神图**"
 		"price"		"1000"
 		"Size"		"96"
 		"Nice"		"1"
@@ -1058,7 +1058,7 @@
 	}
 	"ze_fapescape_rote_v1_3"
 	{
-		"desc"		"乐高：城堡: [6关|BOSS|神器] *神图*"
+		"desc"		"乐高逃亡：城堡　**神图**"
 		"price"		"1000"
 		"Size"		"130"
 		"Nice"		"1"
@@ -1070,7 +1070,7 @@
 	}
 	"ze_farmhouse_v9_fix"
 	{
-		"desc"		"农舍: 尚未明朗"
+		"desc"		"农舍"
 		"price"		"100"
 		"Size"		"116"
 		"Nice"		"0"
@@ -1082,7 +1082,7 @@
 	}
 	"ze_fartlocker_escape"
 	{
-		"desc"		"储物柜逃亡: 尚未明朗"
+		"desc"		"储物柜逃亡"
 		"price"		"100"
 		"Size"		"101"
 		"Nice"		"0"
@@ -1094,7 +1094,7 @@
 	}
 	"ze_fast_escape_p2"
 	{
-		"desc"		"快速逃生: 尚未明朗"
+		"desc"		"快速逃生"
 		"price"		"100"
 		"Size"		"32"
 		"Nice"		"0"
@@ -1106,7 +1106,7 @@
 	}
 	"ze_ffvii_cosmo_canyon_v5_d03n"
 	{
-		"desc"		"最终幻想7：大岟谷: 尚未明朗"
+		"desc"		"最终幻想7：大岟谷"
 		"price"		"100"
 		"Size"		"114"
 		"Nice"		"0"
@@ -1118,7 +1118,7 @@
 	}
 	"ze_FFVII_Mako_Reactor_v5_3_v5"
 	{
-		"desc"		"最终幻想7：魔光炉: [4+1关|BOSS|神器] *神图*"
+		"desc"		"最终幻想7：魔光炉　**神图**"
 		"price"		"1000"
 		"Size"		"148"
 		"Nice"		"1"
@@ -1130,7 +1130,7 @@
 	}
 	"ze_FFVII_temple_ancient_v3"
 	{
-		"desc"		"最终幻想7：古代神庙: 尚未明朗"
+		"desc"		"最终幻想7：古代神庙"
 		"price"		"100"
 		"Size"		"188"
 		"Nice"		"0"
@@ -1142,7 +1142,7 @@
 	}
 	"ze_ffxii_feywood_b3_1_t1"
 	{
-		"desc"		"最终幻想12：幻妖之森: [5+1关|BOSS|神器] *神图*"
+		"desc"		"最终幻想12：幻妖之森　**神图**"
 		"price"		"1000"
 		"Size"		"152"
 		"Nice"		"1"
@@ -1154,7 +1154,7 @@
 	}
 	"ze_ffxii_paramina_rift_v1_4_csgo2"
 	{
-		"desc"		"最终幻想12：帕拉米娅: [4关|BOSS|神器] *神图*"
+		"desc"		"最终幻想12：帕拉米娅　**神图**"
 		"price"		"1000"
 		"Size"		"148"
 		"Nice"		"1"
@@ -1166,7 +1166,7 @@
 	}
 	"ze_ffxii_ridorana_cataract_b3_ps5"
 	{
-		"desc"		"最终幻想12：大瀑布: [4关|BOSS|神器] *神图*"
+		"desc"		"最终幻想12：大瀑布　**神图**"
 		"price"		"1000"
 		"Size"		"114"
 		"Nice"		"1"
@@ -1178,7 +1178,7 @@
 	}
 	"ze_FFXII_Westersand_v7_z9"
 	{
-		"desc"		"最终幻想12：西沙z9: [5+1关|BOSS|神器] *神图*"
+		"desc"		"最终幻想12：西沙z9 　**神图**"
 		"price"		"1000"
 		"Size"		"125"
 		"Nice"		"1"
@@ -1190,7 +1190,7 @@
 	}
 	"ze_ffxii_westersand_v8zeta1_x16"
 	{
-		"desc"		"最终幻想12：西沙81: [8+2关|BOSS|神器] *神图*"
+		"desc"		"最终幻想12：西沙81　**神图**"
 		"price"		"1000"
 		"Size"		"144"
 		"Nice"		"1"
@@ -1202,7 +1202,7 @@
 	}
 	"ze_ffxiv_wanderers_palace_v2_11"
 	{
-		"desc"		"最终幻想14：舊版流浪者宫殿: [5关|BOSS|神器] *神图*"
+		"desc"		"最终幻想14：舊版流浪者宫殿　**神图**"
 		"price"		"1000"
 		"Size"		"153"
 		"Nice"		"1"
@@ -1214,7 +1214,7 @@
 	}
 	"ze_ffxiv_wanderers_palace_v4_10"
 	{
-		"desc"		"最终幻想14：新版流浪者宫殿: [5关|BOSS|神器] *神图*"
+		"desc"		"最终幻想14：新版流浪者宫殿　**神图**"
 		"price"		"1000"
 		"Size"		"148"
 		"Nice"		"1"
@@ -1226,7 +1226,7 @@
 	}
 	"ze_fire_temple_v2_4"
 	{
-		"desc"		"火之神殿: 尚未明朗"
+		"desc"		"火之神殿"
 		"price"		"100"
 		"Size"		"80"
 		"Nice"		"0"
@@ -1238,7 +1238,7 @@
 	}
 	"ze_firewall_laboratory_part1_p2"
 	{
-		"desc"		"防火墙实验室1: [1关]"
+		"desc"		"防火墙实验室1"
 		"price"		"100"
 		"Size"		"53"
 		"Nice"		"0"
@@ -1250,7 +1250,7 @@
 	}
 	"ze_firewall_laboratory_part2_p2"
 	{
-		"desc"		"防火墙实验室2: [1关]"
+		"desc"		"防火墙实验室2"
 		"price"		"100"
 		"Size"		"51"
 		"Nice"		"0"
@@ -1262,7 +1262,7 @@
 	}
 	"ze_floating_rocks_survival_csgo_v3"
 	{
-		"desc"		"浮岩生存: 尚未明朗"
+		"desc"		"浮岩生存"
 		"price"		"100"
 		"Size"		"75"
 		"Nice"		"0"
@@ -1274,7 +1274,7 @@
 	}
 	"ze_Flying_World_p"
 	{
-		"desc"		"飞行世界: [1关]"
+		"desc"		"飞行世界"
 		"price"		"100"
 		"Size"		"62"
 		"Nice"		"0"
@@ -1286,7 +1286,7 @@
 	}
 	"ze_forgotten_facility_p2"
 	{
-		"desc"		"被遗忘的设施: [1关]"
+		"desc"		"被遗忘的设施"
 		"price"		"100"
 		"Size"		"25"
 		"Nice"		"0"
@@ -1298,7 +1298,7 @@
 	}
 	"ze_frostdrake_tower_v1"
 	{
-		"desc"		"霜伏龙塔: [1关|BOSS] *神图*"
+		"desc"		"霜伏龙塔　**神图**"
 		"price"		"1000"
 		"Size"		"77"
 		"Nice"		"1"
@@ -1310,7 +1310,7 @@
 	}
 	"ze_frozentemple_rc1_1"
 	{
-		"desc"		"冻结的神庙: 尚未明朗"
+		"desc"		"冻结的神庙"
 		"price"		"100"
 		"Size"		"68"
 		"Nice"		"0"
@@ -1322,7 +1322,7 @@
 	}
 	"ze_games_v2_1"
 	{
-		"desc"		"小游戏: [1关|多模式]"
+		"desc"		"小游戏"
 		"price"		"500"
 		"Size"		"35"
 		"Nice"		"0"
@@ -1334,7 +1334,7 @@
 	}
 	"ze_gods_wrath_p2"
 	{
-		"desc"		"上帝的愤怒: [1关|神器]"
+		"desc"		"上帝的愤怒"
 		"price"		"100"
 		"Size"		"38"
 		"Nice"		"0"
@@ -1346,7 +1346,7 @@
 	}
 	"ze_grand_boatescape_p3"
 	{
-		"desc"		"大船逃生: 尚未明朗"
+		"desc"		"大船逃生"
 		"price"		"100"
 		"Size"		"48"
 		"Nice"		"0"
@@ -1358,7 +1358,7 @@
 	}
 	"ze_grau_a01_13"
 	{
-		"desc"		"创世记：鸽劳: 尚未明朗"
+		"desc"		"创世记：鸽劳"
 		"price"		"100"
 		"Size"		"79"
 		"Nice"		"0"
@@ -1370,7 +1370,7 @@
 	}
 	"ze_great_crate_escape_v6"
 	{
-		"desc"		"大箱子逃亡: [1关]"
+		"desc"		"大箱子逃亡"
 		"price"		"100"
 		"Size"		"62"
 		"Nice"		"0"
@@ -1382,7 +1382,7 @@
 	}
 	"ze_greencity_fix"
 	{
-		"desc"		"绿城: [5关]"
+		"desc"		"绿城"
 		"price"		"100"
 		"Size"		"58"
 		"Nice"		"0"
@@ -1394,7 +1394,7 @@
 	}
 	"ze_gris_in_beta02"
 	{
-		"desc"		"创世记：格里斯2: 尚未明朗"
+		"desc"		"创世记：格里斯2"
 		"price"		"100"
 		"Size"		"82"
 		"Nice"		"0"
@@ -1406,7 +1406,7 @@
 	}
 	"ze_gris_v1_11f5"
 	{
-		"desc"		"创世记：格里斯: [4+1(rtv2)关|BOSS|神器] *神图*"
+		"desc"		"创世记：格里斯 + rtv2　**神图**"
 		"price"		"1000"
 		"Size"		"103"
 		"Nice"		"1"
@@ -1418,7 +1418,7 @@
 	}
 	"ze_gris_v1_11f5_m"
 	{
-		"desc"		"创世记：格里斯: [4+1(rtv1)关|BOSS|神器] *神图*"
+		"desc"		"创世记：格里斯 + rtv1　**神图**"
 		"price"		"1000"
 		"Size"		"103"
 		"Nice"		"1"
@@ -1430,7 +1430,7 @@
 	}
 	"ze_Halloween_House_b4"
 	{
-		"desc"		"万圣节之家: [1关]"
+		"desc"		"万圣节之家"
 		"price"		"500"
 		"Size"		"139"
 		"Nice"		"0"
@@ -1442,7 +1442,7 @@
 	}
 	"ze_halo_poa_p4"
 	{
-		"desc"		"光晕: [1关|BOSS]"
+		"desc"		"光晕"
 		"price"		"100"
 		"Size"		"62"
 		"Nice"		"0"
@@ -1454,7 +1454,7 @@
 	}
 	"ze_hazard_escape_p2"
 	{
-		"desc"		"危险逃亡: 尚未明朗"
+		"desc"		"危险逃亡"
 		"price"		"100"
 		"Size"		"31"
 		"Nice"		"0"
@@ -1466,7 +1466,7 @@
 	}
 	"ze_Hell_Escape_p2"
 	{
-		"desc"		"地狱逃亡: 尚未明朗"
+		"desc"		"地狱逃亡"
 		"price"		"100"
 		"Size"		"41"
 		"Nice"		"0"
@@ -1478,7 +1478,7 @@
 	}
 	"ze_hidden_temple_v2_5"
 	{
-		"desc"		"被隐藏的神庙: 尚未明朗"
+		"desc"		"被隐藏的神庙"
 		"price"		"100"
 		"Size"		"79"
 		"Nice"		"0"
@@ -1490,7 +1490,7 @@
 	}
 	"ze_hold_em_v8"
 	{
-		"desc"		"鬼脸长廊: [1关|BOSS]"
+		"desc"		"鬼脸长廊"
 		"price"		"100"
 		"Size"		"12"
 		"Nice"		"0"
@@ -1502,7 +1502,7 @@
 	}
 	"ze_horizon_sky_escape_b1"
 	{
-		"desc"		"在地平线的天空逃亡: 尚未明朗"
+		"desc"		"在地平线的天空逃亡"
 		"price"		"100"
 		"Size"		"123"
 		"Nice"		"0"
@@ -1514,7 +1514,7 @@
 	}
 	"ze_hsc_a4_q3"
 	{
-		"desc"		"方块陷阱: [2关|BOSS]"
+		"desc"		"方块陷阱"
 		"price"		"100"
 		"Size"		"96"
 		"Nice"		"0"
@@ -1526,7 +1526,7 @@
 	}
 	"ze_hypernova_v2fix"
 	{
-		"desc"		"星际争霸：逃离超新星: [2关]"
+		"desc"		"星际争霸：逃离超新星"
 		"price"		"100"
 		"Size"		"152"
 		"Nice"		"0"
@@ -1538,7 +1538,7 @@
 	}
 	"ze_icecap_escape_v5_p"
 	{
-		"desc"		"西瓜橘子: [1关]"
+		"desc"		"西瓜橘子"
 		"price"		"100"
 		"Size"		"33"
 		"Nice"		"0"
@@ -1550,7 +1550,7 @@
 	}
 	"ze_inboxed_final"
 	{
-		"desc"		"悬空迷阵: [4关]"
+		"desc"		"悬空迷阵"
 		"price"		"100"
 		"Size"		"44"
 		"Nice"		"0"
@@ -1562,7 +1562,7 @@
 	}
 	"ze_indiana_jones_v4a_004_p4"
 	{
-		"desc"		"夺宝奇兵: 尚未明朗"
+		"desc"		"夺宝奇兵"
 		"price"		"100"
 		"Size"		"76"
 		"Nice"		"0"
@@ -1574,7 +1574,7 @@
 	}
 	"ze_industrial_dejavu_v3_3_3_e2_d"
 	{
-		"desc"		"工业循环: [随机关|BOSS|神器]"
+		"desc"		"工业循环"
 		"price"		"500"
 		"Size"		"113"
 		"Nice"		"0"
@@ -1586,7 +1586,7 @@
 	}
 	"ze_infected_lab_v4_1"
 	{
-		"desc"		"感染危机：实验室: 尚未明朗"
+		"desc"		"感染危机：实验室"
 		"price"		"100"
 		"Size"		"66"
 		"Nice"		"0"
@@ -1598,7 +1598,7 @@
 	}
 	"ze_infected_sewers_v6_1_1"
 	{
-		"desc"		"感染危机：下水道: 尚未明朗"
+		"desc"		"感染危机：下水道"
 		"price"		"100"
 		"Size"		"113"
 		"Nice"		"0"
@@ -1610,7 +1610,7 @@
 	}
 	"ze_infected_tramway_csgo1"
 	{
-		"desc"		"感染危机：电车: 尚未明朗"
+		"desc"		"感染危机：电车"
 		"price"		"100"
 		"Size"		"86"
 		"Nice"		"0"
@@ -1622,7 +1622,7 @@
 	}
 	"ze_infiltration_final_r1"
 	{
-		"desc"		"入侵行动: 尚未明朗"
+		"desc"		"入侵行动"
 		"price"		"100"
 		"Size"		"103"
 		"Nice"		"0"
@@ -1634,7 +1634,7 @@
 	}
 	"ze_insanitycity_final_fix"
 	{
-		"desc"		"疯狂的城市: [1关]"
+		"desc"		"疯狂的城市"
 		"price"		"100"
 		"Size"		"24"
 		"Nice"		"0"
@@ -1646,7 +1646,7 @@
 	}
 	"ze_insensible_sr8gm6yj12hs7_RG_v9_6"
 	{
-		"desc"		"没有感觉: 尚未明朗"
+		"desc"		"没有感觉"
 		"price"		"100"
 		"Size"		"145"
 		"Nice"		"0"
@@ -1658,7 +1658,7 @@
 	}
 	"ze_interception_p2"
 	{
-		"desc"		"拦截行动: [1关]"
+		"desc"		"拦截行动"
 		"price"		"100"
 		"Size"		"70"
 		"Nice"		"0"
@@ -1670,7 +1670,7 @@
 	}
 	"ze_isla_nublar_p3"
 	{
-		"desc"		"侏罗纪公园:努布拉岛: 尚未明朗"
+		"desc"		"侏罗纪公园：努布拉岛"
 		"price"		"100"
 		"Size"		"95"
 		"Nice"		"0"
@@ -1682,7 +1682,7 @@
 	}
 	"ze_Island_Escape_p3"
 	{
-		"desc"		"小岛逃亡: [1关]"
+		"desc"		"小岛逃亡"
 		"price"		"100"
 		"Size"		"35"
 		"Nice"		"0"
@@ -1694,7 +1694,7 @@
 	}
 	"ze_ismellmagicintheair_wg7tw9vm1io1bu7_v3"
 	{
-		"desc"		"我闻到空气中的魔力: 尚未明朗"
+		"desc"		"我闻到空气中的魔力"
 		"price"		"100"
 		"Size"		"125"
 		"Nice"		"0"
@@ -1706,7 +1706,7 @@
 	}
 	"ze_johnny_nukem_b8_1_csgo1"
 	{
-		"desc"		"约翰尼：毁灭: 尚未明朗"
+		"desc"		"约翰尼：毁灭"
 		"price"		"100"
 		"Size"		"153"
 		"Nice"		"0"
@@ -1718,7 +1718,7 @@
 	}
 	"ze_journey_p4"
 	{
-		"desc"		"旅程: [1关|神器] "
+		"desc"		"旅程"
 		"price"		"100"
 		"Size"		"122"
 		"Nice"		"0"
@@ -1730,7 +1730,7 @@
 	}
 	"ze_jurassicpark_evolved_v4"
 	{
-		"desc"		"侏罗纪公园：进化: 尚未明朗"
+		"desc"		"侏罗纪公园：进化"
 		"price"		"100"
 		"Size"		"67"
 		"Nice"		"0"
@@ -1742,7 +1742,7 @@
 	}
 	"ze_kororinpa_v1_7"
 	{
-		"desc"		"水晶收集任务: [1关]"
+		"desc"		"水晶收集任务"
 		"price"		"100"
 		"Size"		"26"
 		"Nice"		"0"
@@ -1754,7 +1754,7 @@
 	}
 	"ze_L_The_Lower_v1_6"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"不详"
 		"price"		"100"
 		"Size"		"85"
 		"Nice"		"0"
@@ -1766,7 +1766,7 @@
 	}
 	"ze_L_The_Medium_v1_4"
 	{
-		"desc"		"不详: 尚未明朗"
+		"desc"		"不详"
 		"price"		"100"
 		"Size"		"76"
 		"Nice"		"0"
@@ -1778,7 +1778,7 @@
 	}
 	"ze_l0v0l_a7_csgo4"
 	{
-		"desc"		"l0v0l: [3关|BOSS|神器] *神图*"
+		"desc"		"l0v0l　**神图**"
 		"price"		"1000"
 		"Size"		"150"
 		"Nice"		"1"
@@ -1790,7 +1790,7 @@
 	}
 	"ze_lab_v5"
 	{
-		"desc"		"实验室大作战: [1关]"
+		"desc"		"实验室大作战"
 		"price"		"100"
 		"Size"		"47"
 		"Nice"		"0"
@@ -1802,7 +1802,7 @@
 	}
 	"ze_licciana_escape_p"
 	{
-		"desc"		"陷阱逃亡: 尚未明朗"
+		"desc"		"陷阱逃亡"
 		"price"		"100"
 		"Size"		"27"
 		"Nice"		"0"
@@ -1814,7 +1814,7 @@
 	}
 	"ze_lila_panic_escape_v2"
 	{
-		"desc"		"里拉大逃亡: [9关|BOSS|神器]"
+		"desc"		"里拉大逃亡"
 		"price"		"500"
 		"Size"		"89"
 		"Nice"		"0"
@@ -1826,7 +1826,7 @@
 	}
 	"ze_lolxd_final_fix_iswear_v3"
 	{
-		"desc"		"我发誓要大声笑lol和XD: 尚未明朗"
+		"desc"		"我发誓要大声笑lol和XD"
 		"price"		"100"
 		"Size"		"29"
 		"Nice"		"0"
@@ -1838,7 +1838,7 @@
 	}
 	"ze_lotr_helms_deep_v5_p6"
 	{
-		"desc"		"魔戒：圣盔谷: [1关]"
+		"desc"		"魔戒：圣盔谷"
 		"price"		"100"
 		"Size"		"79"
 		"Nice"		"0"
@@ -1850,7 +1850,7 @@
 	}
 	"ze_LOTR_Minas_Tiret_p2"
 	{
-		"desc"		"魔戒：米纳斯—短跑: 尚未明朗"
+		"desc"		"魔戒：米纳斯—短跑"
 		"price"		"100"
 		"Size"		"53"
 		"Nice"		"0"
@@ -1862,7 +1862,7 @@
 	}
 	"ze_lotr_minas_tirith_p4"
 	{
-		"desc"		"魔戒：米纳斯提力斯p4: [8关|神器] *神图*"
+		"desc"		"魔戒：米纳斯提力斯p4　**神图**"
 		"price"		"1000"
 		"Size"		"153"
 		"Nice"		"1"
@@ -1874,7 +1874,7 @@
 	}
 	"ze_lotr_minas_tirith_v3_3_ps41"
 	{
-		"desc"		"魔戒：米纳斯提力斯v3_3: [8关|神器] *神图*"
+		"desc"		"魔戒：米纳斯提力斯v3_3　**神图**"
 		"price"		"1000"
 		"Size"		"138"
 		"Nice"		"1"
@@ -1886,7 +1886,7 @@
 	}
 	"ze_LOTR_Mines_of_Moria_p2"
 	{
-		"desc"		"魔戒：矿坑: [1关]"
+		"desc"		"魔戒：矿坑"
 		"price"		"100"
 		"Size"		"66"
 		"Nice"		"0"
@@ -1898,7 +1898,7 @@
 	}
 	"ze_LOTR_Mount_Doom_p3"
 	{
-		"desc"		"魔戒：末日火山: [1关]"
+		"desc"		"魔戒：末日火山"
 		"price"		"100"
 		"Size"		"75"
 		"Nice"		"0"
@@ -1910,7 +1910,7 @@
 	}
 	"ze_luck_matters_v2h"
 	{
-		"desc"		"运气挑战: [2关|BOSS]"
+		"desc"		"运气挑战"
 		"price"		"500"
 		"Size"		"74"
 		"Nice"		"0"
@@ -1922,7 +1922,7 @@
 	}
 	"ze_magala_castle_final"
 	{
-		"desc"		"马加拉城堡: 尚未明朗"
+		"desc"		"马加拉城堡"
 		"price"		"100"
 		"Size"		"56"
 		"Nice"		"0"
@@ -1934,7 +1934,7 @@
 	}
 	"ze_mario_tower_v4_p2"
 	{
-		"desc"		"马里奥之塔: [1关]"
+		"desc"		"马里奥之塔"
 		"price"		"100"
 		"Size"		"52"
 		"Nice"		"0"
@@ -1946,7 +1946,7 @@
 	}
 	"ze_minecraft_adventure_v1_3d"
 	{
-		"desc"		"我的世界大冒险: [4关|BOSS|神器] *神图*"
+		"desc"		"我的世界大冒险　**神图**"
 		"price"		"1000"
 		"Size"		"84"
 		"Nice"		"1"
@@ -1958,7 +1958,7 @@
 	}
 	"ze_minecraft_v1_1_p3"
 	{
-		"desc"		"我的世界: [1关|神器]"
+		"desc"		"我的世界"
 		"price"		"100"
 		"Size"		"30"
 		"Nice"		"0"
@@ -1970,7 +1970,7 @@
 	}
 	"ze_mirrors_edge_reborn_v4_2_p3"
 	{
-		"desc"		"镜之边缘: [4关]"
+		"desc"		"镜之边缘：重生"
 		"price"		"500"
 		"Size"		"63"
 		"Nice"		"0"
@@ -1982,7 +1982,7 @@
 	}
 	"ze_moon_base_p3"
 	{
-		"desc"		"月球基地: 尚未明朗"
+		"desc"		"月球基地"
 		"price"		"100"
 		"Size"		"45"
 		"Nice"		"0"
@@ -1994,7 +1994,7 @@
 	}
 	"ze_motanuminc_p2"
 	{
-		"desc"		"莫坦公司: 尚未明朗"
+		"desc"		"莫坦公司"
 		"price"		"100"
 		"Size"		"26"
 		"Nice"		"0"
@@ -2006,7 +2006,7 @@
 	}
 	"ze_mountain_escape_snow_v5_4"
 	{
-		"desc"		"雪山逃亡: [1关]"
+		"desc"		"雪山逃亡"
 		"price"		"100"
 		"Size"		"66"
 		"Nice"		"0"
@@ -2018,7 +2018,7 @@
 	}
 	"ze_mountainspire_p2"
 	{
-		"desc"		"山顶逃亡: 尚未明朗"
+		"desc"		"山顶逃亡"
 		"price"		"100"
 		"Size"		"25"
 		"Nice"		"0"
@@ -2030,7 +2030,7 @@
 	}
 	"ze_mytex_escape_v3_p"
 	{
-		"desc"		"遗迹逃亡: 尚未明朗"
+		"desc"		"遗迹逃亡"
 		"price"		"100"
 		"Size"		"49"
 		"Nice"		"0"
@@ -2042,7 +2042,7 @@
 	}
 	"ze_namviet_v6_1"
 	{
-		"desc"		"越南南部大逃亡: 尚未明朗"
+		"desc"		"越南南部大逃亡"
 		"price"		"100"
 		"Size"		"50"
 		"Nice"		"0"
@@ -2054,7 +2054,7 @@
 	}
 	"ze_naruto_p"
 	{
-		"desc"		"火影忍者: 尚未明朗"
+		"desc"		"火影忍者"
 		"price"		"100"
 		"Size"		"115"
 		"Nice"		"0"
@@ -2066,7 +2066,7 @@
 	}
 	"ze_negative_legacy_xf4"
 	{
-		"desc"		"消失的遗产: [1关]"
+		"desc"		"消失的遗产"
 		"price"		"100"
 		"Size"		"97"
 		"Nice"		"0"
@@ -2078,7 +2078,7 @@
 	}
 	"ze_nightmare_dimension_v2_7_ps3"
 	{
-		"desc"		"噩梦维度: 尚未明朗"
+		"desc"		"噩梦维度"
 		"price"		"100"
 		"Size"		"57"
 		"Nice"		"0"
@@ -2090,7 +2090,7 @@
 	}
 	"ze_noir_p1"
 	{
-		"desc"		"黑暗工厂: 尚未明朗"
+		"desc"		"黑暗工厂"
 		"price"		"100"
 		"Size"		"135"
 		"Nice"		"0"
@@ -2102,7 +2102,7 @@
 	}
 	"ze_nostromo_redux_v1_2"
 	{
-		"desc"		"诺史莫: 尚未明朗"
+		"desc"		"诺史莫"
 		"price"		"100"
 		"Size"		"106"
 		"Nice"		"0"
@@ -2114,7 +2114,7 @@
 	}
 	"ze_notredame_p3"
 	{
-		"desc"		"不详巴黎圣母院: 尚未明朗"
+		"desc"		"巴黎圣母院"
 		"price"		"100"
 		"Size"		"27"
 		"Nice"		"0"
@@ -2126,7 +2126,7 @@
 	}
 	"ze_nuclear_station_by_gm"
 	{
-		"desc"		"核电站: 尚未明朗"
+		"desc"		"核电站gm版"
 		"price"		"100"
 		"Size"		"118"
 		"Nice"		"0"
@@ -2138,7 +2138,7 @@
 	}
 	"ze_nuke_p5"
 	{
-		"desc"		"核子危机: [1关]"
+		"desc"		"核子危机"
 		"price"		"100"
 		"Size"		"32"
 		"Nice"		"0"
@@ -2150,7 +2150,7 @@
 	}
 	"ze_NY_marathon_p2"
 	{
-		"desc"		"纽约马拉松: [1关|神器]"
+		"desc"		"纽约马拉松"
 		"price"		"100"
 		"Size"		"90"
 		"Nice"		"0"
@@ -2162,7 +2162,7 @@
 	}
 	"ze_ocean_base_escape_p"
 	{
-		"desc"		"海洋基地大逃亡: [1关]"
+		"desc"		"海洋基地大逃亡"
 		"price"		"100"
 		"Size"		"46"
 		"Nice"		"0"
@@ -2174,7 +2174,7 @@
 	}
 	"ze_omega_p3"
 	{
-		"desc"		"黑夜危机: [1关]"
+		"desc"		"黑夜危机"
 		"price"		"100"
 		"Size"		"36"
 		"Nice"		"0"
@@ -2186,7 +2186,7 @@
 	}
 	"ze_otakuroom_v5_6f"
 	{
-		"desc"		"死宅房: [3关|BOSS]"
+		"desc"		"死宅房"
 		"price"		"500"
 		"Size"		"102"
 		"Nice"		"0"
@@ -2198,7 +2198,7 @@
 	}
 	"ze_outbreak_v2_1_p"
 	{
-		"desc"		"暴发: 尚未明朗"
+		"desc"		"暴发"
 		"price"		"100"
 		"Size"		"27"
 		"Nice"		"0"
@@ -2210,7 +2210,7 @@
 	}
 	"ze_panic_escape_v3_2_e5"
 	{
-		"desc"		"惊慌逃亡: [5关]"
+		"desc"		"惊慌逃亡"
 		"price"		"500"
 		"Size"		"17"
 		"Nice"		"0"
@@ -2222,7 +2222,7 @@
 	}
 	"ze_paper_escaper_p7"
 	{
-		"desc"		"纸张大逃亡: [5关|BOSS|神器] *神图*"
+		"desc"		"纸质大逃亡　**神图**"
 		"price"		"1000"
 		"Size"		"74"
 		"Nice"		"1"
@@ -2234,10 +2234,10 @@
 	}
 	"ze_Paranoid_Rezurrection_v11_9_ps14"
 	{
-		"desc"		"游乐园: [1关|神器|多模式]"
+		"desc"		"游乐园　**神图**"
 		"price"		"1000"
 		"Size"		"152"
-		"Nice"		"0"
+		"Nice"		"1"
 		"minplayers"		"0"
 		"maxplayers"		"0"
 		"OnlyNomination"		"0"
@@ -2246,7 +2246,7 @@
 	}
 	"ze_parkers_pit_b8_ps5"
 	{
-		"desc"		"帕克坑: 尚未明朗"
+		"desc"		"帕克坑"
 		"price"		"100"
 		"Size"		"151"
 		"Nice"		"0"
@@ -2258,7 +2258,7 @@
 	}
 	"ze_Parking_p3"
 	{
-		"desc"		"最终撤离-停车场大楼: [4关|神器]"
+		"desc"		"最终撤离：停车场大楼"
 		"price"		"500"
 		"Size"		"113"
 		"Nice"		"0"
@@ -2270,7 +2270,7 @@
 	}
 	"ze_phantasy_escape_p3"
 	{
-		"desc"		"幻想逃亡: 尚未明朗"
+		"desc"		"幻想逃亡"
 		"price"		"100"
 		"Size"		"62"
 		"Nice"		"0"
@@ -2282,7 +2282,7 @@
 	}
 	"ze_pidaras_v1_4fix3_e10"
 	{
-		"desc"		"大屌图: [3关|BOSS|神器] *神图*"
+		"desc"		"大屌图　**神图**"
 		"price"		"1000"
 		"Size"		"153"
 		"Nice"		"1"
@@ -2294,7 +2294,7 @@
 	}
 	"ze_Pirates_Port_Royal_v5_6"
 	{
-		"desc"		"加勒比海盗-皇家港口: [5关|BOSS|神器] *神图*"
+		"desc"		"加勒比海盗：皇家港口　**神图**"
 		"price"		"1000"
 		"Size"		"145"
 		"Nice"		"1"
@@ -2306,7 +2306,7 @@
 	}
 	"ze_pitchblack_p2"
 	{
-		"desc"		"星际传奇: [1关]"
+		"desc"		"星际传奇"
 		"price"		"100"
 		"Size"		"44"
 		"Nice"		"0"
@@ -2318,7 +2318,7 @@
 	}
 	"ze_pizzatime_v4"
 	{
-		"desc"		"披萨时间: 尚未明朗"
+		"desc"		"披萨时间"
 		"price"		"100"
 		"Size"		"80"
 		"Nice"		"0"
@@ -2330,10 +2330,10 @@
 	}
 	"ze_pkmn_adventure_v7_6"
 	{
-		"desc"		"口袋妖怪跳刀大冒险: 尚未明朗"
+		"desc"		"口袋妖怪跳刀大冒险　**神图**"
 		"price"		"100"
 		"Size"		"151"
-		"Nice"		"0"
+		"Nice"		"1"
 		"minplayers"		"0"
 		"maxplayers"		"0"
 		"OnlyNomination"		"0"
@@ -2342,7 +2342,7 @@
 	}
 	"ze_pkmn_hgss_v2_6"
 	{
-		"desc"		"口袋妖怪: 尚未明朗"
+		"desc"		"口袋妖怪"
 		"price"		"100"
 		"Size"		"88"
 		"Nice"		"0"
@@ -2354,7 +2354,7 @@
 	}
 	"ze_pl_mountain_b2"
 	{
-		"desc"		"上山: [2关]"
+		"desc"		"上山"
 		"price"		"100"
 		"Size"		"146"
 		"Nice"		"0"
@@ -2366,7 +2366,7 @@
 	}
 	"ze_platformer_b6"
 	{
-		"desc"		"捡金币: [1关|神器]"
+		"desc"		"捡金币"
 		"price"		"100"
 		"Size"		"45"
 		"Nice"		"0"
@@ -2378,7 +2378,7 @@
 	}
 	"ze_pokemon_adventure_v1_1"
 	{
-		"desc"		"口袋妖怪大冒险: 尚未明朗"
+		"desc"		"口袋妖怪大冒险"
 		"price"		"100"
 		"Size"		"147"
 		"Nice"		"0"
@@ -2390,7 +2390,7 @@
 	}
 	"ze_portal_story_v1_2"
 	{
-		"desc"		"传送门逸事: [3关|BOSS|神器] *神图*"
+		"desc"		"传送门逸事　**神图**"
 		"price"		"1000"
 		"Size"		"147"
 		"Nice"		"1"
@@ -2402,7 +2402,7 @@
 	}
 	"ze_PotC_IV_p3"
 	{
-		"desc"		"加勒比海盗IV: 尚未明朗"
+		"desc"		"加勒比海盗IV"
 		"price"		"100"
 		"Size"		"67"
 		"Nice"		"0"
@@ -2414,7 +2414,7 @@
 	}
 	"ze_potc_p4"
 	{
-		"desc"		"加勒比海盗: 尚未明朗"
+		"desc"		"加勒比海盗"
 		"price"		"100"
 		"Size"		"76"
 		"Nice"		"0"
@@ -2426,7 +2426,7 @@
 	}
 	"ze_predator_ultimate_p7"
 	{
-		"desc"		"铁血战士大战异形: [4关|BOSS|神器] *神图*"
+		"desc"		"铁血战士大战异形　**神图**"
 		"price"		"1000"
 		"Size"		"137"
 		"Nice"		"1"
@@ -2438,7 +2438,7 @@
 	}
 	"ze_project_alcaria_v2_4"
 	{
-		"desc"		"阿卡尼亚项目: [3关|BOSS|神器]"
+		"desc"		"阿卡尼亚项目"
 		"price"		"500"
 		"Size"		"150"
 		"Nice"		"0"
@@ -2450,7 +2450,7 @@
 	}
 	"ze_puta_p3"
 	{
-		"desc"		"时限危机: 尚未明朗"
+		"desc"		"时限危机"
 		"price"		"100"
 		"Size"		"51"
 		"Nice"		"0"
@@ -2462,7 +2462,7 @@
 	}
 	"ze_raccoon_facility_v6b_pm2"
 	{
-		"desc"		"浣熊设施: 尚未明朗"
+		"desc"		"浣熊设施"
 		"price"		"100"
 		"Size"		"82"
 		"Nice"		"0"
@@ -2474,7 +2474,7 @@
 	}
 	"ze_Random_p2"
 	{
-		"desc"		"随机大爆炸: [1关|BOSS|多模式]"
+		"desc"		"随机大爆炸"
 		"price"		"500"
 		"Size"		"91"
 		"Nice"		"0"
@@ -2486,7 +2486,7 @@
 	}
 	"ze_reconnoiter_b5"
 	{
-		"desc"		"侦察: 尚未明朗"
+		"desc"		"侦察"
 		"price"		"100"
 		"Size"		"52"
 		"Nice"		"0"
@@ -2498,7 +2498,7 @@
 	}
 	"ze_reloaded_v1_ez2"
 	{
-		"desc"		"重新加载: 尚未明朗"
+		"desc"		"重新加载"
 		"price"		"100"
 		"Size"		"149"
 		"Nice"		"0"
@@ -2510,7 +2510,7 @@
 	}
 	"ze_resonance_cascade_p3"
 	{
-		"desc"		"串联共振: 尚未明朗"
+		"desc"		"串联共振"
 		"price"		"100"
 		"Size"		"62"
 		"Nice"		"0"
@@ -2522,7 +2522,7 @@
 	}
 	"ze_rizomata_a44"
 	{
-		"desc"		"精灵塔a44: [3关|BOSS|神器] *神图*"
+		"desc"		"精灵塔a44　**神图**"
 		"price"		"1000"
 		"Size"		"146"
 		"Nice"		"1"
@@ -2534,7 +2534,7 @@
 	}
 	"ze_rizomata_b43"
 	{
-		"desc"		"精灵塔b43: [5关|BOSS|神器] *神图*"
+		"desc"		"精灵塔b43　**神图**"
 		"price"		"1000"
 		"Size"		"136"
 		"Nice"		"1"
@@ -2546,7 +2546,7 @@
 	}
 	"ze_roof_adventure_v6_7"
 	{
-		"desc"		"屋顶大冒险: [8+1关|BOSS|神器] *神图*"
+		"desc"		"屋顶大冒险　**神图**"
 		"price"		"1000"
 		"Size"		"118"
 		"Nice"		"1"
@@ -2558,7 +2558,7 @@
 	}
 	"ze_rooftop_madness_v1_9_csgo"
 	{
-		"desc"		"屋顶疯狂大逃亡: 尚未明朗"
+		"desc"		"屋顶疯狂大逃亡"
 		"price"		"100"
 		"Size"		"61"
 		"Nice"		"0"
@@ -2570,7 +2570,7 @@
 	}
 	"ze_rooftop_reborn_v3_2_p3"
 	{
-		"desc"		"屋顶再战: 尚未明朗"
+		"desc"		"屋顶再战"
 		"price"		"100"
 		"Size"		"86"
 		"Nice"		"0"
@@ -2582,7 +2582,7 @@
 	}
 	"ze_RTCW_Ominous_Rumors_p4"
 	{
-		"desc"		"重返德军总部: [3关]"
+		"desc"		"重返德军总部"
 		"price"		"500"
 		"Size"		"103"
 		"Nice"		"0"
@@ -2594,7 +2594,7 @@
 	}
 	"ze_rtv_one_more"
 	{
-		"desc"		"rtv多一个: 尚未明朗"
+		"desc"		"rtv多一个"
 		"price"		"100"
 		"Size"		"20"
 		"Nice"		"0"
@@ -2606,7 +2606,7 @@
 	}
 	"ze_s_a_m_a29"
 	{
-		"desc"		"刀剑神域: [4关|BOSS|神器] *神图*"
+		"desc"		"刀剑神域　**神图**"
 		"price"		"1000"
 		"Size"		"120"
 		"Nice"		"1"
@@ -2618,7 +2618,7 @@
 	}
 	"ze_sandstorm_go_v1_3"
 	{
-		"desc"		"新版沙尘暴: [5+1关|BOSS|神器] *神图*"
+		"desc"		"新版沙尘暴　**神图**"
 		"price"		"1000"
 		"Size"		"148"
 		"Nice"		"1"
@@ -2630,7 +2630,7 @@
 	}
 	"ze_sandstorm_v7_1_e4"
 	{
-		"desc"		"旧版沙尘暴: [5+1关|BOSS|神器] *神图*"
+		"desc"		"旧版沙尘暴　**神图**"
 		"price"		"1000"
 		"Size"		"129"
 		"Nice"		"1"
@@ -2642,7 +2642,7 @@
 	}
 	"ze_santassination_v3"
 	{
-		"desc"		"狮子王: [8+2关|BOSS|神器|刺激] *神图*"
+		"desc"		"狮子王　**刺激神图**"
 		"price"		"1000"
 		"Size"		"143"
 		"Nice"		"1"
@@ -2654,7 +2654,7 @@
 	}
 	"ze_saw_p3"
 	{
-		"desc"		"电锯惊魂: [1关]"
+		"desc"		"电锯惊魂"
 		"price"		"100"
 		"Size"		"53"
 		"Nice"		"0"
@@ -2666,7 +2666,7 @@
 	}
 	"ze_serpentis_temple_v1_1_csgo1"
 	{
-		"desc"		"美杜莎神庙: [5关|BOSS|神器] *神图*"
+		"desc"		"美杜莎神庙　**神图**"
 		"price"		"1000"
 		"Size"		"154"
 		"Nice"		"1"
@@ -2678,7 +2678,7 @@
 	}
 	"ze_sewage_processing_v8"
 	{
-		"desc"		"污水处理厂: [1关]"
+		"desc"		"污水处理厂"
 		"price"		"100"
 		"Size"		"32"
 		"Nice"		"0"
@@ -2690,7 +2690,7 @@
 	}
 	"ze_sg1_missions_v2_1_p2"
 	{
-		"desc"		"星际任务: [1关]"
+		"desc"		"星际任务"
 		"price"		"100"
 		"Size"		"83"
 		"Nice"		"0"
@@ -2702,7 +2702,7 @@
 	}
 	"ze_showdown_v4_1_p"
 	{
-		"desc"		"高手终结战: 尚未明朗"
+		"desc"		"底牌全开"
 		"price"		"100"
 		"Size"		"28"
 		"Nice"		"0"
@@ -2714,7 +2714,7 @@
 	}
 	"ze_shroomforest_p6"
 	{
-		"desc"		"蘑菇世界1: [6+2关|BOSS|神器] *神图*"
+		"desc"		"蘑菇世界1　**神图**"
 		"price"		"1000"
 		"Size"		"128"
 		"Nice"		"1"
@@ -2726,7 +2726,7 @@
 	}
 	"ze_shroomforest2_p6"
 	{
-		"desc"		"蘑菇世界2: [7+1关|BOSS|神器] *神图*"
+		"desc"		"蘑菇世界2　**神图**"
 		"price"		"1000"
 		"Size"		"129"
 		"Nice"		"1"
@@ -2738,7 +2738,7 @@
 	}
 	"ze_ShroomForest3_p"
 	{
-		"desc"		"蘑菇世界3: [7+1关|BOSS|神器] *神图*"
+		"desc"		"蘑菇世界3　**神图**"
 		"price"		"1000"
 		"Size"		"149"
 		"Nice"		"1"
@@ -2750,7 +2750,7 @@
 	}
 	"ze_Siberia_1990_v1_2c_p5"
 	{
-		"desc"		"1900年的西伯利亚: 尚未明朗"
+		"desc"		"1900年的西伯利亚"
 		"price"		"100"
 		"Size"		"47"
 		"Nice"		"0"
@@ -2762,7 +2762,7 @@
 	}
 	"ze_sit_caelum_paradisus_b7"
 	{
-		"desc"		"遗落天堂的雕具座: [3关|BOSS|神器] *神图*"
+		"desc"		"遗落天堂的雕具座　**神图**"
 		"price"		"1000"
 		"Size"		"187"
 		"Nice"		"1"
@@ -2774,7 +2774,7 @@
 	}
 	"ze_skill_escape_v09"
 	{
-		"desc"		"技能逃脱: 尚未明朗"
+		"desc"		"技巧逃亡"
 		"price"		"100"
 		"Size"		"42"
 		"Nice"		"0"
@@ -2786,7 +2786,7 @@
 	}
 	"ze_sky_athletic_adv_v9_10"
 	{
-		"desc"		"天空运动场: [6+1关|BOSS|神器] *神图*"
+		"desc"		"天空运动场　**神图**"
 		"price"		"1000"
 		"Size"		"96"
 		"Nice"		"1"
@@ -2798,7 +2798,7 @@
 	}
 	"ze_sky_temples_v2a"
 	{
-		"desc"		"天空神庙: 尚未明朗"
+		"desc"		"天空神庙"
 		"price"		"100"
 		"Size"		"122"
 		"Nice"		"0"
@@ -2810,7 +2810,7 @@
 	}
 	"ze_skyscraper_city_csgo1"
 	{
-		"desc"		"镜之边缘：摩天大楼城市: [1关]"
+		"desc"		"镜之边缘：摩天大楼城市"
 		"price"		"100"
 		"Size"		"24"
 		"Nice"		"0"
@@ -2822,7 +2822,7 @@
 	}
 	"ze_slender_escape_rc2"
 	{
-		"desc"		"面条人逃亡: [3关|神器|BOSS] *神图*"
+		"desc"		"面条人追击大逃亡　**神图**"
 		"price"		"1000"
 		"Size"		"147"
 		"Nice"		"1"
@@ -2834,7 +2834,7 @@
 	}
 	"ze_sorrento_escape_v2"
 	{
-		"desc"		"索伦托逃亡: [5关]"
+		"desc"		"索伦托逃亡"
 		"price"		"100"
 		"Size"		"131"
 		"Nice"		"0"
@@ -2846,7 +2846,7 @@
 	}
 	"ze_space_stationzz_go_v3"
 	{
-		"desc"		"空间站: 尚未明朗"
+		"desc"		"空间站"
 		"price"		"100"
 		"Size"		"102"
 		"Nice"		"0"
@@ -2858,7 +2858,7 @@
 	}
 	"ze_stalker_ultimate_v4_4"
 	{
-		"desc"		"追猎者的极限: [5关|BOSS|神器] *神图*"
+		"desc"		"核电站：追猎者的极限　**神图**"
 		"price"		"1000"
 		"Size"		"282"
 		"Nice"		"1"
@@ -2870,7 +2870,7 @@
 	}
 	"ze_stargate_escape_v8_p2"
 	{
-		"desc"		"星际之门逃亡: 尚未明朗"
+		"desc"		"星际之门逃亡"
 		"price"		"100"
 		"Size"		"65"
 		"Nice"		"0"
@@ -2882,7 +2882,7 @@
 	}
 	"ze_starwars_v2fix_csgo2"
 	{
-		"desc"		"星球大战: [5关|BOSS|神器] *神图*"
+		"desc"		"星球大战　**神图**"
 		"price"		"1000"
 		"Size"		"204"
 		"Nice"		"1"
@@ -2894,7 +2894,7 @@
 	}
 	"ze_strange_escape_p2"
 	{
-		"desc"		"奇怪的逃亡: 尚未明朗"
+		"desc"		"奇怪的逃亡"
 		"price"		"100"
 		"Size"		"128"
 		"Nice"		"0"
@@ -2906,7 +2906,7 @@
 	}
 	"ze_sunkentemple_v3_1"
 	{
-		"desc"		"沉没的神庙: 尚未明朗"
+		"desc"		"沉没的神庙"
 		"price"		"100"
 		"Size"		"80"
 		"Nice"		"0"
@@ -2918,7 +2918,7 @@
 	}
 	"ze_sunlight_v2_0_p8"
 	{
-		"desc"		"日光: [4+1关|BOSS|神器] *神图*"
+		"desc"		"日光　**神图**"
 		"price"		"1000"
 		"Size"		"127"
 		"Nice"		"1"
@@ -2930,7 +2930,7 @@
 	}
 	"ze_supershitshow_b4"
 	{
-		"desc"		"超级狗屎表演: 尚未明朗"
+		"desc"		"超级狗屎表演"
 		"price"		"100"
 		"Size"		"61"
 		"Nice"		"0"
@@ -2942,7 +2942,7 @@
 	}
 	"ze_surf_danger_p2"
 	{
-		"desc"		"危险的滑翔: [1关]"
+		"desc"		"危险的滑翔"
 		"price"		"100"
 		"Size"		"27"
 		"Nice"		"0"
@@ -2954,7 +2954,7 @@
 	}
 	"ze_surf_facility_p4"
 	{
-		"desc"		"金字塔滑翔: [1关]"
+		"desc"		"金字塔滑翔"
 		"price"		"100"
 		"Size"		"39"
 		"Nice"		"0"
@@ -2966,7 +2966,7 @@
 	}
 	"ze_surf_froyo_lite_v2_2"
 	{
-		"desc"		"酸奶跳刀滑翔: [1关|BOSS|神器]"
+		"desc"		"酸奶跳刀滑翔"
 		"price"		"100"
 		"Size"		"78"
 		"Nice"		"0"
@@ -2978,7 +2978,7 @@
 	}
 	"ze_surf_froyo_v2"
 	{
-		"desc"		"酸奶滑翔: [7关|BOSS|神器] *神图*"
+		"desc"		"酸奶大滑翔　**神图**"
 		"price"		"100"
 		"Size"		"145"
 		"Nice"		"1"
@@ -2990,7 +2990,7 @@
 	}
 	"ze_surf_sahok_p3"
 	{
-		"desc"		"压到性的跳刀滑翔: [1关|BOSS]"
+		"desc"		"压到性的跳刀滑翔"
 		"price"		"100"
 		"Size"		"79"
 		"Nice"		"0"
@@ -3002,7 +3002,7 @@
 	}
 	"ze_surf_vortex_v2_3"
 	{
-		"desc"		"漩涡滑翔: 尚未明朗"
+		"desc"		"漩涡滑翔"
 		"price"		"100"
 		"Size"		"57"
 		"Nice"		"0"
@@ -3014,7 +3014,7 @@
 	}
 	"ze_surface_a1_ps_b2"
 	{
-		"desc"		"矿井逃亡: 尚未明朗"
+		"desc"		"矿井逃亡"
 		"price"		"100"
 		"Size"		"150"
 		"Nice"		"0"
@@ -3026,7 +3026,7 @@
 	}
 	"ze_SURVIVORS_p2"
 	{
-		"desc"		"幸存者: 尚未明朗"
+		"desc"		"幸存者"
 		"price"		"100"
 		"Size"		"145"
 		"Nice"		"0"
@@ -3038,7 +3038,7 @@
 	}
 	"ze_temple_raider_b4_ps6"
 	{
-		"desc"		"神庙的袭击者: 尚未明朗"
+		"desc"		"神庙的袭击者"
 		"price"		"100"
 		"Size"		"146"
 		"Nice"		"0"
@@ -3050,7 +3050,7 @@
 	}
 	"ze_tesv_skyrim_v5_6"
 	{
-		"desc"		"上古卷轴-天际: [5关|BOSS|神器] *神图*"
+		"desc"		"上古卷轴：天际　**神图**"
 		"price"		"1000"
 		"Size"		"253"
 		"Nice"		"1"
@@ -3062,7 +3062,7 @@
 	}
 	"ze_thelostworld_redux_p2"
 	{
-		"desc"		"侏罗纪公园：失落的世界: [1关]"
+		"desc"		"侏罗纪公园：失落的世界"
 		"price"		"100"
 		"Size"		"65"
 		"Nice"		"0"
@@ -3074,7 +3074,7 @@
 	}
 	"ze_thousand_steps_b7"
 	{
-		"desc"		"千步工厂: [1关]"
+		"desc"		"千步工厂"
 		"price"		"100"
 		"Size"		"22"
 		"Nice"		"0"
@@ -3086,7 +3086,7 @@
 	}
 	"ze_thriller_escape_p"
 	{
-		"desc"		"惊悚逃亡: 尚未明朗"
+		"desc"		"惊悚逃亡"
 		"price"		"100"
 		"Size"		"52"
 		"Nice"		"0"
@@ -3098,7 +3098,7 @@
 	}
 	"ze_tilex_possession_v2_12"
 	{
-		"desc"		"跳刀竞赛：平民版: [5+1关|BOSS|神器] *神图*"
+		"desc"		"跳刀竞赛：平民版　**神图**"
 		"price"		"1000"
 		"Size"		"138"
 		"Nice"		"1"
@@ -3110,7 +3110,7 @@
 	}
 	"ze_tilex_ultimate_v2_13"
 	{
-		"desc"		"跳刀竞赛: [5+1关|BOSS|神器] *神图*"
+		"desc"		"跳刀竞赛　**神图**"
 		"price"		"1000"
 		"Size"		"150"
 		"Nice"		"1"
@@ -3122,7 +3122,7 @@
 	}
 	"ze_titanic_escape_v2_3_p"
 	{
-		"desc"		"泰坦尼克号逃亡: [1关]"
+		"desc"		"泰坦尼克号逃亡"
 		"price"		"100"
 		"Size"		"38"
 		"Nice"		"0"
@@ -3134,7 +3134,7 @@
 	}
 	"ze_tkara_v4_3"
 	{
-		"desc"		"塔卡拉地下基地: [1关]"
+		"desc"		"塔卡拉地下基地"
 		"price"		"100"
 		"Size"		"125"
 		"Nice"		"0"
@@ -3146,7 +3146,7 @@
 	}
 	"ze_tloz_stone_tower_temple_v1_4"
 	{
-		"desc"		"洛斯石塔寺: [3关]"
+		"desc"		"洛斯石塔寺"
 		"price"		"100"
 		"Size"		"87"
 		"Nice"		"0"
@@ -3158,7 +3158,7 @@
 	}
 	"ze_toaster_p3"
 	{
-		"desc"		"面包机: [随机关|BOSS|神器]"
+		"desc"		"面包机"
 		"price"		"100"
 		"Size"		"23"
 		"Nice"		"0"
@@ -3170,7 +3170,7 @@
 	}
 	"ze_tyranny_v5beta_csgo4"
 	{
-		"desc"		"暴君: [5+1关|BOSS|神器] *神图*"
+		"desc"		"暴君　**神图**"
 		"price"		"1000"
 		"Size"		"176"
 		"Nice"		"1"
@@ -3182,7 +3182,7 @@
 	}
 	"ze_ultimate_autism_b2"
 	{
-		"desc"		"终极孤独症: 尚未明朗"
+		"desc"		"终极孤独症"
 		"price"		"100"
 		"Size"		"64"
 		"Nice"		"0"
@@ -3194,7 +3194,7 @@
 	}
 	"ze_underground_escape_p"
 	{
-		"desc"		"地下逃亡: [1关]"
+		"desc"		"地下逃亡"
 		"price"		"100"
 		"Size"		"26"
 		"Nice"		"0"
@@ -3206,7 +3206,7 @@
 	}
 	"ze_undertale_g_v1_3"
 	{
-		"desc"		"在故事之下: [1关|BOSS|神器]"
+		"desc"		"在故事之下"
 		"price"		"100"
 		"Size"		"40"
 		"Nice"		"0"
@@ -3218,7 +3218,7 @@
 	}
 	"ze_unknown_underground_a2_8_2"
 	{
-		"desc"		"未知的地下: 尚未明朗"
+		"desc"		"未知的地下"
 		"price"		"100"
 		"Size"		"129"
 		"Nice"		"0"
@@ -3230,7 +3230,7 @@
 	}
 	"ze_urban_laby_of_death_p2"
 	{
-		"desc"		"迷宫: [1关|神器]"
+		"desc"		"迷宫"
 		"price"		"100"
 		"Size"		"63"
 		"Nice"		"0"
@@ -3242,7 +3242,7 @@
 	}
 	"ze_UT2004_Convoy_p2"
 	{
-		"desc"		"UT2004护卫舰: 尚未明朗"
+		"desc"		"UT2004护卫舰"
 		"price"		"100"
 		"Size"		"65"
 		"Nice"		"0"
@@ -3254,7 +3254,7 @@
 	}
 	"ze_venice_escape_p3"
 	{
-		"desc"		"威尼斯逃亡: 尚未明朗"
+		"desc"		"威尼斯逃亡"
 		"price"		"100"
 		"Size"		"75"
 		"Nice"		"0"
@@ -3266,7 +3266,7 @@
 	}
 	"ze_vietnam_p2"
 	{
-		"desc"		"越南大冒险: 尚未明朗"
+		"desc"		"越南大冒险"
 		"price"		"100"
 		"Size"		"41"
 		"Nice"		"0"
@@ -3278,7 +3278,7 @@
 	}
 	"ze_voodoo_islands_v4_1_csgo"
 	{
-		"desc"		"巫毒岛v41: 尚未明朗"
+		"desc"		"巫毒岛v41"
 		"price"		"100"
 		"Size"		"40"
 		"Nice"		"0"
@@ -3290,7 +3290,7 @@
 	}
 	"ze_voodoo_islands_v8_5_p4"
 	{
-		"desc"		"巫毒岛: 尚未明朗"
+		"desc"		"巫毒岛"
 		"price"		"100"
 		"Size"		"31"
 		"Nice"		"0"
@@ -3302,7 +3302,7 @@
 	}
 	"ze_whothefuckiam_v2_4"
 	{
-		"desc"		"他妈的我是谁: 尚未明朗"
+		"desc"		"他妈的我是谁"
 		"price"		"100"
 		"Size"		"69"
 		"Nice"		"0"
@@ -3314,7 +3314,7 @@
 	}
 	"ze_xiii_winslow_bank_v2_2fix_3"
 	{
-		"desc"		"温斯洛银行: 尚未明朗"
+		"desc"		"温斯洛银行"
 		"price"		"100"
 		"Size"		"90"
 		"Nice"		"0"
@@ -3326,7 +3326,7 @@
 	}
 	"ze_zombie_city_finalfix_ps2"
 	{
-		"desc"		"僵尸城市: 尚未明朗"
+		"desc"		"僵尸城市"
 		"price"		"100"
 		"Size"		"143"
 		"Nice"		"0"
@@ -3338,7 +3338,7 @@
 	}
 	"ze_zombieland_escape"
 	{
-		"desc"		"僵尸逃亡: 尚未明朗"
+		"desc"		"僵尸逃亡"
 		"price"		"100"
 		"Size"		"141"
 		"Nice"		"0"
@@ -3350,7 +3350,7 @@
 	}
 	"ze_zombierig_p3"
 	{
-		"desc"		"僵尸的戒指: 尚未明朗"
+		"desc"		"僵尸的戒指"
 		"price"		"100"
 		"Size"		"57"
 		"Nice"		"0"
