@@ -1,0 +1,306 @@
+"Chat"
+{
+	"** MAP BY SLAYERDRAGON **"
+	{
+		"trans"		"** 地图作者：SLAYERDRAGON 翻译:Laser **"
+	}
+	"[NORMAL MODE]"
+	{
+		"trans"		"** 普通难度 **"
+	}
+	"** Defend untill the guards open the airport. **"
+	{
+		"trans"		"** 坚守至卫兵把机场开放. **"
+	}
+	"** Airport opened. **"
+	{
+		"trans"		"** 机场开放. **"
+	}
+	"** Defend 25 seconds untill the guards open the hallway. **"
+	{
+		"trans"		"** 守住25秒，直到守卫开放走廊. **"
+	}
+	"** A player has learned Wind magick. **"
+	{
+		"trans"		"** 一名玩家捡起了飓风法杖. **"
+	}
+	"** 5 Seconds left **"
+	{
+		"trans"		"** 剩余5秒**"
+	}
+	"** Defend here so the guards will open the gates to the city! **"
+	{
+		"trans"		"** 守住这里，卫兵将打开通往城市的大门! **"
+	}
+	"** Cover here till the rock explodes **"
+	{
+		"trans"		"** 守住这里直到岩石爆炸(小心被爆炸波及) **"
+	}
+	"** The elevator will leave in 20 seconds **"
+	{
+		"trans"		"** 电梯20秒后离开 **"
+	}
+	"** The elevator will leave in 5 seconds **"
+	{
+		"trans"		"** 电梯5秒后离开 **"
+	}
+	"** The first door will open in 10 seconds **"
+	{
+		"trans"		"** 第一道门10秒后打开 **"
+	}
+	"** The second door will open in 15 seconds **"
+	{
+		"trans"		"** 第二道门15秒后打开 **"
+	}
+	"** A player has learned Heal magick. **"
+	{
+		"trans"		"** 一名玩家捡起了治疗法杖 **"
+	}
+	"** Keep defending!! **"
+	{
+		"trans"		"** 继续防守!! **"
+	}
+	"** Nades do more damage **"
+	{
+		"trans"		"** 手雷可以造成大量伤害 **"
+	}
+	"** METEOR INBOUND **"
+	{
+		"trans"		"** 陨石到来 **"
+	}
+	"** USE ELECTRO TO  BREAK IT **"
+	{
+		"trans"		"** 使用雷电法杖击碎陨石 **"
+	}
+	"** The dragon has been defeated **"
+	{
+		"trans"		"** 龙已经被打败了 **"
+	}
+	"** Cover 10 seconds till the rock explodes **"
+	{
+		"trans"		"** 守住10秒直到石头爆炸 **"
+	}
+	"** Go to the end of the road! **"
+	{
+		"trans"		"** 去到路的尽头! **"
+	}
+	"** 50 SECS REMAINING **"
+	{
+		"trans"		"** 剩余50秒 **"
+	}
+	"** Congratulations - You won [NORMAL] **"
+	{
+		"trans"		"** 恭喜-你通过了普通难度 **"
+	}
+	"[HARD MODE]"
+	{
+		"trans"		"** 困难难度 **"
+	}
+	"** A player has learned Holy magick. **"
+	{
+		"trans"		"** 一名玩家捡起了神圣法杖 **"
+	}
+	"** A player has learned Earth magick. **"
+	{
+		"trans"		"** 一名玩家捡起了大地法杖 **"
+	}
+	"** Cover 20 seconds till the rock explodes **"
+	{
+		"trans"		"** 守住20秒直到石头爆炸 **"
+	}
+	"** A player has learned Fire magick. **"
+	{
+		"trans"		"** 一名玩家捡起了火焰法杖 **"
+	}
+	"** A player has learned Water magick. **"
+	{
+		"trans"		"** 一名玩家捡起了水净法杖 **"
+	}
+	"** FIRE NOVA INBOUND **"
+	{
+		"trans"		"** 大火来袭 **"
+	}
+	"** USE WATER TO DODGE IT  **"
+	{
+		"trans"		"** 使用水净法杖来解决它 **"
+	}
+	"** Congratulations - You won [HARD] **"
+	{
+		"trans"		"** 恭喜-你通过了困难难度 **"
+	}
+	"[EXTREME MODE]"
+	{
+		"trans"		"** 极限难度 **"
+	}
+	"** Cover 30 seconds till the rock explodes **"
+	{
+		"trans"		"** 守住30秒直到石头爆炸 **"
+	}
+	"** 70 SECS REMAINING **"
+	{
+		"trans"		"** 剩余70秒 **"
+	}
+	"** 40 SECS REMAINING **"
+	{
+		"trans"		"** 剩余40秒 **"
+	}
+	"** 30 SECS REMAINING **"
+	{
+		"trans"		"** 剩余30秒 **"
+	}
+	"** 20 SECS REMAINING **"
+	{
+		"trans"		"** 剩余20秒 **"
+	}
+	"** 10 SECS REMAINING **"
+	{
+		"trans"		"** 剩余10秒 **"
+	}
+	"** 5 SECS REMAINING **"
+	{
+		"trans"		"** 剩余5秒 **"
+	}
+	"** 60 SECS REMAINING **"
+	{
+		"trans"		"** 剩余60秒 **"
+	}
+	"[ADMIN] Selected [HARD MODE] for next round. Restarting round in 5 seconds."
+	{
+		"trans"		"** 狗管理选择困难模式.5秒后重新开始. **"
+	}
+	"** Congratulations - You won [EXTREME] **"
+	{
+		"trans"		"** 恭喜-你通过了极限难度 **"
+	}
+	"[EPIC MODE]"
+	{
+		"trans"		"** 史诗难度 **"
+	}
+	"** Teleporter will be ready in 20 seconds! **"
+	{
+		"trans"		"** 传送器20秒后准备好! **"
+	}
+	"** Teleporter will be ready in 5 seconds! **"
+	{
+		"trans"		"** 传送器5秒后准备好! **"
+	}
+	"** Door will open in 5 seconds **"
+	{
+		"trans"		"** 大门5秒后开启 **"
+	}
+	"** Second door will open in 10 seconds **"
+	{
+		"trans"		"** 第二道门10秒后开启 **"
+	}
+	"** Hold 10 more seconds!! **"
+	{
+		"trans"		"** 守住10秒 **"
+	}
+	"** The guardians are dead!! Run back to the entrance!! **"
+	{
+		"trans"		"** 守护者已被击败!!跑回入口!! **"
+	}
+	"** The healer is down!! **"
+	{
+		"trans"		"** 治疗师已倒下!! **"
+	}
+	"** The battlemage is down!! **"
+	{
+		"trans"		"** 战斗师已倒下!! **"
+	}
+	"** ZM JAIL OPEN **"
+	{
+		"trans"		"** 僵尸笼已开放 **"
+	}
+	"** Defend here for 30 seconds **"
+	{
+		"trans"		"** 守住30秒 **"
+	}
+	"** The airship reactors are going to explode!! **"
+	{
+		"trans"		"** 飞艇反应堆将要爆炸!! **"
+	}
+	"** CHAOS is using a deathwall - RUN FASTER!! **"
+	{
+		"trans"		"** 轮回王正在使用死亡之墙-跑得更快!! **"
+	}
+	"** Chaos has been defeated - RUN !!!!! **"
+	{
+		"trans"		"** 轮回王已倒下 — 跑!!!!! **"
+	}
+	"** Congratulations - You won [EPIC] **"
+	{
+		"trans"		"** 恭喜-你通过了史诗难度 **"
+	}
+	"[GOD MODE]"
+	{
+		"trans"		"** 天神难度 **"
+	}
+	"** 5 MORE SECONDS **"
+	{
+		"trans"		"** 剩余5秒 **"
+	}
+	"** A player has learned Electro magick. **"
+	{
+		"trans"		"** 一名玩家捡起了雷电法杖 **"
+	}
+	"[ADMIN] Selected [GOD MODE] for next round. Restarting round in 5 seconds."
+	{
+		"trans"		"** 狗管理选择天神模式.5秒后重新开始. **"
+	}
+	"[ADMIN] Selected [EPIC MODE] for next round. Restarting round in 5 seconds."
+	{
+		"trans"		"** 狗管理选择史诗模式.5秒后重新开始. **"
+	}
+	"** Zombies Have Escaped **"
+	{
+		"trans"		"** 僵尸已经逃脱 **"
+	}
+	"** The dragon has been defeated! GOGOGO **"
+	{
+		"trans"		"** 龙已经被击败了! 冲啊 **"
+	}
+	"[3 WINS IN A ROW] Easteregg unlocked!"
+	{
+		"trans"		"** [3连胜] 彩蛋解锁! **"
+	}
+	"** Congratulations - You won [GODMODE] **"
+	{
+		"trans"		"** 恭喜-你通过了天神难度 **"
+	}
+	"** THANKS FOR PLAYING **"
+	{
+		"trans"		"** 感谢参与 **"
+	}
+	"[ZOMBIE MODE]"
+	{
+		"trans"		"** ZM模式 **"
+	}
+	"** NUKE IN 80 SECONDS **"
+	{
+		"trans"		"** 剩余80秒核爆 **"
+	}
+	"** TELEPORTING EVERYONE TO CHOCOBORACE IN 10 SEC **"
+	{
+		"trans"		"** 10秒后将全部人传送去陆行鸟跑道(终点有调关) **"
+	}
+	"** TELEPORTING EVERYONE TO CHOCOBORACE **"
+	{
+		"trans"		"** 全部人传送去陆行鸟跑道(终点有调关) **"
+	}
+	"** ZOMBIES RELEASED IN 2 SECS **"
+	{
+		"trans"		"** 僵尸在2秒后解放 **"
+	}
+	"** NUKE IN 20 SECONDS **"
+	{
+		"trans"		"** 剩余20秒核爆 **"
+	}
+	"[WINNER] Selected [GOD MODE] for next round"
+	{
+		"trans"		"** 通过者选择天神难度进行下一关 **"
+	}
+	"[WINNER] Selected [HARD MODE] for next round"
+	{
+		"trans"		"** 通过者选择困难难度进行下一关 **"
+	}

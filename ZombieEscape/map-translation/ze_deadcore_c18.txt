@@ -1,0 +1,136 @@
+"Chat"
+{
+	"*** Map by Airvulpes ***"
+	{
+		"trans"		"**地图作者:Airvulpes 翻译:Laser **"
+	}
+	"*** Hold 30 seconds ***"
+	{
+		"trans"		"**守住30秒**"
+		"DoorCountdown"		"30"
+	}
+	"*** 20 seconds left ***"
+	{
+		"trans"		"**剩余20秒 **"
+	}
+	"*** 10 seconds left ***"
+	{
+		"trans"		"**剩余10秒 **"
+	}
+	"*** Hold 15 seconds ***"
+	{
+		"trans"		"**守住15秒**"
+		"DoorCountdown"		"15"
+	}
+	"*** 5 seconds left ***"
+	{
+		"trans"		"**剩余5秒 **"
+	}
+	"*** Hold 20 seconds ***"
+	{
+		"trans"		"**守住20秒**"
+		"DoorCountdown"		"20"
+	}
+	"*** Hold 40 seconds ***"
+	{
+		"trans"		"**守住40秒**"
+		"DoorCountdown"		"40"
+	}
+	"*** 30 seconds left ***"
+	{
+		"trans"		"**剩余30秒 **"
+	}
+	"*** 10 ***"
+	{
+		"trans"		"** 10 **"
+	}
+	"*** 9 ***"
+	{
+		"trans"		"** 9 **"
+	}
+	"*** 8 ***"
+	{
+		"trans"		"** 8 **"
+	}
+	"*** 7 ***"
+	{
+		"trans"		"** 7 **"
+	}
+	"*** 6 ***"
+	{
+		"trans"		"** 6 **"
+	}
+	"*** 5 ***"
+	{
+		"trans"		"** 5 **"
+	}
+	"*** 4 ***"
+	{
+		"trans"		"** 4 **"
+	}
+	"*** 3 ***"
+	{
+		"trans"		"** 3 **"
+	}
+	"*** 2 ***"
+	{
+		"trans"		"** 2 **"
+	}
+	"*** 1 ***"
+	{
+		"trans"		"** 1 **"
+	}
+	"*** Hold 10 seconds ***"
+	{
+		"trans"		"**守住10秒**"
+		"DoorCountdown"		"10"
+	}
+	"*** Hold 5 seconds ***"
+	{
+		"trans"		"**守住5秒 **"
+	}
+	"*** 100 ***"
+	{
+		"trans"		"** 100 **"
+	}
+	"*** 90 ***"
+	{
+		"trans"		"** 90 **"
+	}
+	"*** 80 ***"
+	{
+		"trans"		"** 80 **"
+	}
+	"*** 70 ***"
+	{
+		"trans"		"** 70 **"
+	}
+	"*** 60 ***"
+	{
+		"trans"		"** 60 **"
+	}
+	"*** 50 ***"
+	{
+		"trans"		"** 50 **"
+	}
+	"*** 40 ***"
+	{
+		"trans"		"** 40 **"
+	}
+	"*** 30 ***"
+	{
+		"trans"		"** 30 **"
+	}
+	"*** 20 ***"
+	{
+		"trans"		"** 20 **"
+	}
+	"*** ZOMBIE GOT INSIDE THE LIFT ***"
+	{
+		"trans"		"**僵尸已进入电梯 **"
+	}
+	"*** STAGE FAILED ***"
+	{
+		"trans"		"** 关卡失败 **"
+	}
+}

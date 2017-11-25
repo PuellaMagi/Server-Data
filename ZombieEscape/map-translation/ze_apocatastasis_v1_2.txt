@@ -1,0 +1,79 @@
+"Chat"
+{
+	"* Press that button to begin, if that is what you will. *"
+	{
+		"trans"		"** 按下按钮开始，如果你愿意. 翻译:Laser **"
+	}
+	"* Greetings humans, would you like to destroy all evil today? *"
+	{
+		"trans"		"** 人类，你愿意今天毁灭所有的邪恶吗? **"
+	}
+	"* There are blessed areas, safe zones scattered around this world *"
+	{
+		"trans"		"** 各地都有幸福的地方，安全的地方 **"
+	}
+	"* Anyone willing to remain for a bit longer, good or evil,  must seek these sacred grounds*"
+	{
+		"trans"		"** 任何人愿意再多呆一段时间，无论是好是坏，都必须寻求这些神圣的理由 **"
+	}
+	"* The first glimpse of damnation will come some 200 seconds from now *"
+	{
+		"trans"		"** 200秒后将会有第一种诅咒 **"
+	}
+	"* Try not to kill yourselves in the meantime *"
+	{
+		"trans"		"** 尽量不要在这期间自杀 **"
+	}
+	"* death comes, and so do I *"
+	{
+		"trans"		"** 死神来了，我也来了 **"
+	}
+	"* slay your enemies or else youll die *"
+	{
+		"trans"		"** 杀死你的敌人，否则你也会死 **"
+	}
+	"* Kind humans, evil must not prevail *"
+	{
+		"trans"		"** 善良的人类，邪恶不能得逞 **"
+	}
+	"* Kill the living corpses, otherwise you fail*"
+	{
+		"trans"		"** 杀死僵尸，否则你会失败 **"
+	}
+	"* I give you my blessing, youre no more frail *"
+	{
+		"trans"		"** 我给你祝福，你不再虚弱了 *"
+	}
+	"* You have 105 seconds to put an end this tale *"
+	{
+		"trans"		"** 你有105秒的时间来结束这个故事 **"
+	}
+	"* SKADOOSH *"
+	{
+		"trans"		"** SKADOOSH **"
+	}
+	"* The universe will turn back to fire and all pneuma will mix together *"
+	{
+		"trans"		"** 宇宙将回到火中和精神将会融合在一起 **"
+	}
+	"* 100 seconds left *"
+	{
+		"trans"		"** 剩余100秒 **"
+	}
+	"* 50 seconds left *"
+	{
+		"trans"		"** 剩余50秒 **"
+	}
+	"* 30 seconds left *"
+	{
+		"trans"		"** 剩余30秒 **"
+	}
+	"* 20 seconds *"
+	{
+		"trans"		"** 剩余20秒 **"
+	}
+	"* 10 seconds *"
+	{
+		"trans"		"** 剩余10秒 **"
+	}
+}

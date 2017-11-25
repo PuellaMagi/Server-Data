@@ -1,0 +1,331 @@
+"Chat"
+{
+	"**MAP BY Makvi_Ankom**"
+	{
+		"trans"		"**地图由 Makvi_Ankom 制作**"
+	}
+	"Ported Nice Shot "
+	{
+		"trans"		"由 Nice Shot 移植"
+	}
+	"**Ze_Star_wars**"
+	{
+		"trans"		"**Ze_Star_wars**"
+	}
+	"**The bridge will open in 15 seconds**"
+	{
+		"trans"		"**桥将在 15 秒后开放**"
+	}
+	"**The bridge will open in 5 seconds**"
+	{
+		"trans"		"**桥将在 5 秒后开放**"
+	}
+	"**Fall back! The bridge open**"
+	{
+		"trans"		"**撤退！桥可以通过了**"
+	}
+	"**The doors will open in 15 seconds**"
+	{
+		"trans"		"**大门将在 15 秒后开放**"
+	}
+	"**The doors will open in 5 seconds**"
+	{
+		"trans"		"**大门将在 5 秒后开放**"
+	}
+	"**Fall back! The doors are open**"
+	{
+		"trans"		"**撤退！大门开启了**"
+	}
+	"**The barricade will explode in 10 seconds**"
+	{
+		"trans"		"**路障将于 10 秒后爆破**"
+	}
+	"**barricade exploded**"
+	{
+		"trans"		"**路障已被炸开**"
+	}
+	"A player picked up Force Lightning"
+	{
+		"trans"		"一个玩家捡起了电之原力[大片减速场,减速并伤害僵尸]"
+	}
+	"A player picked up Force Heal"
+	{
+		"trans"		"一个玩家捡起了原力治疗[奶]"
+	}
+	"A player picked up Force Grip"
+	{
+		"trans"		"一个玩家捡起了原力支配[水]"
+	}
+	"A player picked up Force Speed"
+	{
+		"trans"		"一个玩家捡起了原力加速[加速附近人类]"
+	}
+	"**Destroy the barricade 15 second**"
+	{
+		"trans"		"**路障将于 15 秒后破坏**"
+	}
+	"**Destroy the barricade 5 second**"
+	{
+		"trans"		"**路障将于 5 秒后破坏**"
+	}
+	"OMG! Shoot the ship!!"
+	{
+		"trans"		"OMG! 射击这艘飞船!!"
+	}
+	"**The palace doors will open in 30 seconds**"
+	{
+		"trans"		"**宫殿大门将在 30 秒后打开**"
+	}
+	"AFK TELEPORT IN 5 SECOND"
+	{
+		"trans"		"将在 5 秒后传送挂机玩家"
+	}
+	"**The palace doors will open in 5 seconds**"
+	{
+		"trans"		"**宫殿大门将在 5 秒后打开**"
+	}
+	"**Destroy the barricade in 20 second**"
+	{
+		"trans"		"**路障将于 20 秒后爆破**"
+	}
+	"**Last door will open in 30 seconds**"
+	{
+		"trans"		"**最终大门将于 30 秒后开启**"
+	}
+	"**FALL BACK**"
+	{
+		"trans"		"**撤退**"
+	}
+	"**Fall back close door in 5 second**"
+	{
+		"trans"		"**门将于 5 秒后关闭**"
+	}
+	"**Level 1 is complete**"
+	{
+		"trans"		"**关卡 1 完成**"
+	}
+	"**Level changes to NORMAL** "
+	{
+		"trans"		"**下1关：Normal**"
+	}
+	"A player picked up Force Push"
+	{
+		"trans"		"一个玩家捡起了原力驱逐[推开大片僵尸]"
+	}
+	"**The doors will open in 3 seconds**"
+	{
+		"trans"		"**大门将在 3 秒后打开**"
+	}
+	"**The droids will be killed in 10 seconds**"
+	{
+		"trans"		"**挡路的机器人将在 10 秒后自爆**"
+	}
+	"**Fall back! Droids are killed**"
+	{
+		"trans"		"**撤退! 机器人自爆了**"
+	}
+	"**The doors will open in 30 seconds**"
+	{
+		"trans"		"**大门将在 30 秒后打开**"
+	}
+	"**The droids will be killed in 30 seconds**"
+	{
+		"trans"		"**挡路的机器人将在 30 秒后自爆**"
+	}
+	"**The droids will be killed in 5 seconds**"
+	{
+		"trans"		"**挡路的机器人将在 5 秒后自爆**"
+	}
+	"**Fall back! Droids are killed** "
+	{
+		"trans"		"**撤退! 机器人自爆了**"
+	}
+	"**The doors will open in 20 seconds**"
+	{
+		"trans"		"**大门将在 20 秒后打开**"
+	}
+	"**The doors will open in 5 seconds** "
+	{
+		"trans"		"**大门将在 5 秒后打开**"
+	}
+	"**AFK TELEPORT IN 5 SECOND**"
+	{
+		"trans"		"**挂机者将在 5 秒后传送**"
+	}
+	"**The droids will be killed in 20 seconds**"
+	{
+		"trans"		"**挡路的机器人将在 20 秒后自爆**"
+	}
+	"**The droids will be killed in 25 seconds**"
+	{
+		"trans"		"**挡路的机器人将在 25 秒后自爆**"
+	}
+	"**The hangar doors will open in 20 seconds**"
+	{
+		"trans"		"**机库的门将于 20 秒后打开**"
+	}
+	"A player picked up Force Rage"
+	{
+		"trans"		"一个玩家捡起了大[终极]"
+	}
+	"**The hangar doors will open in 5 seconds**"
+	{
+		"trans"		"**机库的门在 5 秒后打开**"
+	}
+	"**Activate the ship**"
+	{
+		"trans"		"**激活机库里跑路的飞船**"
+	}
+	"**OMG! This is Darth Vader! SHOOT!**"
+	{
+		"trans"		"**OMG! 这是达斯·维德（黑武士）! 快射击!**"
+	}
+	"**The ship will move in 15 seconds**"
+	{
+		"trans"		"**飞船在 15 秒后移动**"
+	}
+	"**Fall back! The ship will move in 5 seconds**"
+	{
+		"trans"		"**快撤退! 飞船在 5 秒后移动**"
+	}
+	"**Level changes to HARD** "
+	{
+		"trans"		"**下1关：Hard**"
+	}
+	"**You completed Level 2**"
+	{
+		"trans"		"**关卡 2 完成**"
+	}
+	"**The bridge will open in 25 seconds**"
+	{
+		"trans"		"**桥将在 25 秒后开放**"
+	}
+	"**Fall back! The bridge has closed**"
+	{
+		"trans"		"**撤退! 桥要关闭了**"
+	}
+	"*The doors will open in 10 seconds*"
+	{
+		"trans"		"*大门将在 10 秒后打开*"
+	}
+	"*The doors will open in 5 seconds*"
+	{
+		"trans"		"*大门将在 5 秒后打开*"
+	}
+	"*The droids will be killed in 20 seconds*"
+	{
+		"trans"		"*挡路的机器人将在 20 秒后自爆*"
+	}
+	"*Droids cover the vicegerent. Capture him!*"
+	{
+		"trans"		"*那帮机器人掩护BOSS逃跑了,搞死他!*"
+	}
+	"*The droids will be killed in 5 seconds*"
+	{
+		"trans"		"*挡路的机器人将在 5 秒后自爆*"
+	}
+	"*The doors will open in 15 seconds*"
+	{
+		"trans"		"*大门将在 15 秒后打开*"
+	}
+	"*Fall back door close in 15 second*"
+	{
+		"trans"		"*大门将在 15 秒后关闭*"
+	}
+	"**Level changes to EXTREME** "
+	{
+		"trans"		"**下1关：Extreme**"
+	}
+	"**You completed Level 3**"
+	{
+		"trans"		"**你完成了关卡 3 **"
+	}
+	"Boss fight in 25 second"
+	{
+		"trans"		"Boss战将于 25 后开始"
+	}
+	"Boss fight in 10 second"
+	{
+		"trans"		"Boss战将于 10 后开始"
+	}
+	"Boss fight in 5 second"
+	{
+		"trans"		"Boss战将于 5 后开始"
+	}
+	"Boss Fight"
+	{
+		"trans"		"Boss战开始"
+	}
+	"BOSS USE PUSH"
+	{
+		"trans"		"BOSS使用了推"
+	}
+	"BOSS USE THUNDER"
+	{
+		"trans"		"BOSS使用了雷电"
+	}
+	"BOSS USE  GRIP"
+	{
+		"trans"		"BOSS使用了水"
+	}
+	"**The wall will explode in 30 second**"
+	{
+		"trans"		"**墙将于 30 秒后爆炸**"
+	}
+	"The ship will fly away in 35 seconds"
+	{
+		"trans"		"飞船在 35 秒后离开"
+	}
+	"Jumping on platform"
+	{
+		"trans"		"跳上平台"
+	}
+	"**You completed Level 4**"
+	{
+		"trans"		"**关卡 4 完成**"
+	}
+	"**Level changes to EPIC** "
+	{
+		"trans"		"**下1关：Epic**"
+	}
+	"First door will open in 10 seconds"
+	{
+		"trans"		"第一个大门将于 10 秒后打开"
+	}
+	"Third door will open in 10 seconds"
+	{
+		"trans"		"第三个大门将于 10 秒后打开"
+	}
+	"Second door will open in 10 seconds "
+	{
+		"trans"		"第二个大门将于 10 秒后打开"
+	}
+	"Last door will open in 40 seconds"
+	{
+		"trans"		"最终的大门将于 40 秒后打开"
+	}
+	"AFK TELEPORT 5 IN SECOND"
+	{
+		"trans"		"将在 5 秒后传送挂机玩家"
+	}
+	"NADES! NADES! NADES! "
+	{
+		"trans"		"手雷! 手雷! 手雷!"
+	}
+	"**First door will open in 45 seconds** "
+	{
+		"trans"		"**第一个大门将于 45 秒后打开**"
+	}
+	"Second door will open in 15 seconds"
+	{
+		"trans"		"第二个大门将于 15 秒后打开"
+	}
+	"Third door will open in 30 seconds"
+	{
+		"trans"		"第三个大门将于 15 秒后打开"
+	}
+	"**Level 5 is complete**"
+	{
+		"trans"		"**关卡 5 完成**"
+	}
+}

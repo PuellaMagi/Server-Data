@@ -1,0 +1,375 @@
+"Chat"
+{
+	"** Chapter I: Ascension **"
+	{
+		"trans"		"** 第一章:上升 翻译:Laser **"
+	}
+	"** Weve reached the southwest dock... **"
+	{
+		"trans"		"** 我们到达了西南码头... **"
+	}
+	"** We must find our way into the facility. **"
+	{
+		"trans"		"** 我们必须找到通往这个设施的路. **"
+	}
+	"** This path should lead us to one of the several supply warehouses... **"
+	{
+		"trans"		"** 这条路应该把我们带到几个供应仓库的其中一个地方... **"
+	}
+	"** BLIZARD MODE ENABLED: DIFFICULTY INCREASED **"
+	{
+		"trans"		"** 启用暴雪模式:增加难度 **"
+	}
+	"** RESIST! We need to access the main complex by unlocking this door! **"
+	{
+		"trans"		"** 守住!我们需要解锁这道门来进入主建筑群! **"
+	}
+	"** Were almost there! Dont let anything through! **"
+	{
+		"trans"		"** 几乎都在这里!别让僵尸过来! **"
+	}
+	"** FALL BACK! Its about to open! **"
+	{
+		"trans"		"** 撤退!门即将打开了! **"
+	}
+	"** Were nearing the neuralgic center of the complex... **"
+	{
+		"trans"		"** 我们正在靠近这个中心... **"
+	}
+	"** Hold until we are able to open this door! **"
+	{
+		"trans"		"** 守住!直到我们能够打开这道门! **"
+	}
+	"** This button should unlock the doors and let us through... **"
+	{
+		"trans"		"** 这个按钮应该能够打开门并让我们通过... **"
+	}
+	"** Resist while we wait for the doors to open! **"
+	{
+		"trans"		"** 我们要守住这里直到门打开! **"
+	}
+	"** Well need to reach one of the gas deposits to blow it up and delay their plans... **"
+	{
+		"trans"		"** 我们需要一个天然气罐并炸毁它，拖延他们... **"
+	}
+	"** Look at that! There is enough weaponry to start a massive offensive... **"
+	{
+		"trans"		"** 看那里!有足够的武器发动大规模进攻... **"
+	}
+	"** The maintenance elevator should be enough to access the upper levels. **"
+	{
+		"trans"		"** 把电梯维修好应该就能上去了. **"
+	}
+	"** GET GOING! We need to advance! **"
+	{
+		"trans"		"** 走吧!我们需要前进! **"
+	}
+	"** The elevator is coming! RESIST! **"
+	{
+		"trans"		"** 电梯来了!守住! **"
+	}
+	"** Call the elevator! Well need to resist right here while its coming... **"
+	{
+		"trans"		"** 电梯即将到来!在此之前我们要守住这里... **"
+	}
+	"** GET ON! THE ELEVATOR IS ABOUT TO LEAVE! **"
+	{
+		"trans"		"** 快上电梯!电梯马上就要出发了! **"
+	}
+	"** Resist! This door shall take us to one of the middle areas! **"
+	{
+		"trans"		"** 守住!这道门能够带我们到中间的其中一个地方! **"
+	}
+	"** Keep it up! Its about to open! **"
+	{
+		"trans"		"** 坚持着!它马上就要开了! **"
+	}
+	"** HOLD THEM RIGHT HERE! We need to unlock this door! **"
+	{
+		"trans"		"** 守住这里!我们需要解锁这道门! **"
+	}
+	"** GET CLOSE! Were about to breach in! **"
+	{
+		"trans"		"** 我们已经接近了!即将要到了! **"
+	}
+	"** We need to find a way to make those tanks blow up! **"
+	{
+		"trans"		"** 我们需要找到一种方法来使这些坦克炸毁! **"
+	}
+	"** Perhaps we can fiddle with the preasure using the control pannels? **"
+	{
+		"trans"		"** 也许我们可以摆弄使用控制盘的压力?  **"
+	}
+	"** We did it! The pressure is increasing at exponential rates! **"
+	{
+		"trans"		"** 我们做到了!指数压力正在速度增长! **"
+	}
+	"** Hold until we open the doors! We need a way out! **"
+	{
+		"trans"		"** 守住直到我们开门!我们需要一条出路! **"
+	}
+	"** Our information indicates there should be a small cargo elevator close to our position... **"
+	{
+		"trans"		"** 我们的附近应该有一个小型货运... **"
+	}
+	"** This is our way out! Defend the elevator until it leaves! **"
+	{
+		"trans"		"** 这是我们的出路!守住这个电梯直到上升! **"
+	}
+	"** CHAPTER 1 COMPLETED - UNLOCKING CHAPTER 2 **"
+	{
+		"trans"		"** 第1章已通关 - 解锁第2章 **"
+	}
+	"** Chapter II: A touch of heaven **"
+	{
+		"trans"		"** 第2章:一触即发的天堂 **"
+	}
+	"** The sabotage mission has been fulfilled. **"
+	{
+		"trans"		"** 破坏任务已经完成了. **"
+	}
+	"** We need to escape from the facility... **"
+	{
+		"trans"		"** 我们需要逃离这个设施... **"
+	}
+	"** Resist! These security doors are sturdy - theyll take a bit to unlock! **"
+	{
+		"trans"		"** 守住!这个门十分坚硬 - 需要很多的时间解锁!**"
+	}
+	"** Keep it up! Were almost there. **"
+	{
+		"trans"		"** 坚持下去!我们已经比较接近了. **"
+	}
+	"** Our reports indicate some sort of archeologic research takes place here... **"
+	{
+		"trans"		"** 我们的报告显示，一些考古学的研究发生在这里... **"
+	}
+	"** Hold! We need to unlock the metal gates and then well access the caves. **"
+	{
+		"trans"		"** 守住!我们需要解锁这道金属门才能进入洞穴. **"
+	}
+	"** Almost there! Keep it up! **"
+	{
+		"trans"		"** 差不多了!坚持住! **"
+	}
+	"** Some kind of electromagnetic radiation is emitted by those cristals... **"
+	{
+		"trans"		"** 那些晶体发出了某种电磁辐射... **"
+	}
+	"** They might be using those ruins and what they contain to develop some kind of new weapon. **"
+	{
+		"trans"		"** 他们可能正在利用这些废墟和他们所拥有的来开发某种新武器. **"
+	}
+	"** DEFEND! We need to find a way out - we are trapped! **"
+	{
+		"trans"		"** 守住!我们需要找到出路 - 我们被困住了! **"
+	}
+	"** Some of these plates might open... Keep holding! **"
+	{
+		"trans"		"** 这些盘子有些可能会打开...保持火力! **"
+	}
+	"** This one seems to move... GO! **"
+	{
+		"trans"		"** 这个好像动了...快走! **"
+	}
+	"** Something in this hall is making the field detector go crazy! **"
+	{
+		"trans"		"** 这个大厅里有东西让现场探测器发疯了! **"
+	}
+	"** They seem to be using the ruins for something - they must be stopped. **"
+	{
+		"trans"		"** 他们似乎在利用废墟做些什么 - 必须阻止他们. **"
+	}
+	"** Hold the bridges! We need to open this door! **"
+	{
+		"trans"		"** 守住桥梁!我们需要打开这扇门! **"
+	}
+	"** RESIST! Theres still a bit to go! **"
+	{
+		"trans"		"** 守住，还有一点点就能走了! **"
+	}
+	"** ONE LAST EFFORT! HOLD IT!!! **"
+	{
+		"trans"		"** 最后了!守住啊! **"
+	}
+	"** Keep going! We should soon reach the surface and see the iced fields of Antartika... **"
+	{
+		"trans"		"** 继续前进!我们应该很快到达并看到南极洲的冰原... **"
+	}
+	"** Hold the vent! We will move out of this area soon... **"
+	{
+		"trans"		"** 守住这个通风口!我们很快就会离开这个地区了... **"
+	}
+	"** DAMN! The door! HOLD IT! **"
+	{
+		"trans"		"** 该死的!这道门!守住! **"
+	}
+	"** What a harmonic view! It surely makes you feel as nothing but a clumsy dustmote in the universe... **"
+	{
+		"trans"		"** 什么是和谐的景色!它肯定只让你感到宇宙中笨拙的尘土飞扬... **"
+	}
+	"** Cover all entrances! Were nearing our safety! **"
+	{
+		"trans"		"** 守住所有的入口!我们要保证所有人的安全! **"
+	}
+	"** RESIST! It wont take much longer to open this door! **"
+	{
+		"trans"		"** 守住!这道门不需要花太多的时间! **"
+	}
+	"** Keep it up! A few seconds left! **"
+	{
+		"trans"		"** 守住!几秒后就能走了! **"
+	}
+	"** We can see the complex below and the sea... **"
+	{
+		"trans"		"** 我们可以看到下面的大海... **"
+	}
+	"** We need to hold! Well place charges on this bridge for it to blow up! **"
+	{
+		"trans"		"** 我们需要守住这里!把这座桥炸掉! **"
+	}
+	"** The bomb is being planted! Dont let them past the middle of the bridge! *"
+	{
+		"trans"		"** 炸弹已经安装好了!不要让它们过桥的中间! **"
+	}
+	"** ZOMBIES DETECTED - INVALID VICTORY! **"
+	{
+		"trans"		"** 侦测到僵尸 - 通关无效 **"
+	}
+	"** CHAPTER 2 COMPLETED - UNLOCKING CHAPTER 3 **"
+	{
+		"trans"		"** 第2章已通关 - 解锁第3章 **"
+	}
+	"** Chapter III: The womb **"
+	{
+		"trans"		"** 第3章:子宫 **"
+	}
+	"** We must make our way towards the extraction point. **"
+	{
+		"trans"		"** 我们必须朝着提取点前进. **"
+	}
+	"** Shall we decide our fate at last... **"
+	{
+		"trans"		"** 我们决定最后的命运吧... **"
+	}
+	"** We should be able to open these doors... Cover! **"
+	{
+		"trans"		"** 我们应该能够打开这些门...守好! **"
+	}
+	"** Just a tiny bit more! Keep defending! **"
+	{
+		"trans"		"** 还需要一点时间!再守多一会! **"
+	}
+	"** FALL BACK! THIS IS READY TO GO! OPENING SOON! **"
+	{
+		"trans"		"** 撤退!已经准备好了!即将打开了! **"
+	}
+	"** OAGH! IT STINKS IN HERE! HOLD YOUR BREATH AND RESIST! **"
+	{
+		"trans"		"** oagh!这里很臭!屏住呼吸堅持著! **"
+	}
+	"** The stench is unbearable! Were opening the door as fast as we can - HOLD THEM! **"
+	{
+		"trans"		"** 恶臭难以忍受!我们需要尽可能快地开门 - 守住他们! **"
+	}
+	"** Get close! The door is about to open! **"
+	{
+		"trans"		"** 退到门边!门就要开了! **"
+	}
+	"** Get moving! We might need to roam the abandoned basements to reach the main warehouse... **"
+	{
+		"trans"		"** 跑起来!我们可能需要在废弃的地下室里漫游才能到达主仓库... **"
+	}
+	"** This door should lead to one of the abandoned maintenance hallways! HOLD! **"
+	{
+		"trans"		"** 这扇门应该通向一个废弃的维修走廊!守住! **"
+	}
+	"** Hold them off! Keep them up the stairs! **"
+	{
+		"trans"		"** 把僵尸赶走!让僵尸上楼梯! **"
+	}
+	"** DEFEND FOR THE LAST BIT! ITS ABOUT TO OPEN! **"
+	{
+		"trans"		"** 守到最后一刻!门就要打开了! **"
+	}
+	"** This area seems familiar... **"
+	{
+		"trans"		"** 这个地区似乎很熟悉...  **"
+	}
+	"** Were close to the weaponry warehouse we saw during the ascension! **"
+	{
+		"trans"		"** 这是我们在第一章看到的武器仓库! **"
+	}
+	"** Wait for the team to regroup and hold - we will move on then! **"
+	{
+		"trans"		"** 守住这里并重组阵势 - 我们将继续前进! **"
+	}
+	"** This door seems to be further locked than the previous ones... **"
+	{
+		"trans"		"** 这扇门似乎比以前的门锁得更紧... **"
+	}
+	"** RESIST! It might take a while! Cover all entrances! **"
+	{
+		"trans"		"** 守住!打开这个门口可能需要一段时间!守住所有的入口! **"
+	}
+	"** KEEP IT UP! Were making progress! **"
+	{
+		"trans"		"** 坚持下去!已经有进展了! **"
+	}
+	"** NEVER GIVE UP! TRUST YOUR INSTINCTS! **"
+	{
+		"trans"		"** 永不放弃!相信你的直觉! **"
+	}
+	"** GO! GO! GO! The door is open! **"
+	{
+		"trans"		"** 快走!门开了! **"
+	}
+	"** Were nearing to the extraction point! One last effort! HOLD! **"
+	{
+		"trans"		"** 接近提取点!不要辜负所有队友的努力!守住! **"
+	}
+	"** KEEP RESISTING! ITS ABOUT TO OPEN! **"
+	{
+		"trans"		"** 堅持住!快要開了! **"
+	}
+	"** This is the end of the line! RESIST! **"
+	{
+		"trans"		"** 这就是这条线的终点了!坚持住! **"
+	}
+	"** Our rescue chopper is approaching! Well need to survive until it comes! **"
+	{
+		"trans"		"** 我们的救援直升机快到了!我们需要生存直到它到来! **"
+	}
+	"** Nuke inbound - Follow the rescue helicopter for it will take you to safety! **"
+	{
+		"trans"		"** 核武器來了 - 跟随救援直升机，它会带你到安全区! **"
+	}
+	"** HOP IN! We gotta get out of this before the nuke arrives! **"
+	{
+		"trans"		"** 快跳上飞机!我们必须在核弹来之前离来这里! **"
+	}
+	"** LOSING ALTITUDE! KEEP THEM OUT! **"
+	{
+		"trans"		"** 直升机正在升高!坚持着! **"
+	}
+	"** According to our information we should be nearing a maintenance zone... **"
+	{
+		"trans"		"** 根据我们的信息，我们应该接近维修区了... **"
+	}
+	"** CMON IN! We need to go before we become roasted chicken! **"
+	{
+		"trans"		"** 进来!在我们变成烤鸡之前得走了! **"
+	}
+	"** CHAPTER 3 COMPLETED - THE END **"
+	{
+		"trans"		"** 第3章已通关 - 剧情结束 **"
+	}
+	"** THE MAP WILL NOW START AGAIN FROM CHAPTER 1 **"
+	{
+		"trans"		"** 地图将从第1章重新开始 **"
+	}
+	"** NEXT VERSION MAY INCLUDE A SPECIAL INFILTRATION MODE **"
+	{
+		"trans"		"** 下一个版本可能包括特殊的渗透模式 **"
+	}
+}

@@ -1,0 +1,459 @@
+"Chat"
+{
+	"**Map by Tenshi**"
+	{
+		"trans"		"** 地图作者：Tenshi 翻译：Laser **"
+	}
+	"**Player has picked up <Ultima Magic>**"
+	{
+		"trans"		"** 一名人类掌握了终极魔法 **"
+	}
+	"**Player has picked up <Trace>**"
+	{
+		"trans"		"** 一名人类掌握了复制魔法 **"
+	}
+	"**Player has picked up <Water Magic>**"
+	{
+		"trans"		"** 一名人类掌握了水魔法 **"
+	}
+	"**Player has picked up <Gravity Magic>**"
+	{
+		"trans"		"** 一名人类掌握了黑洞魔法 **"
+	}
+	"**Player has picked up <Heal Magic>**"
+	{
+		"trans"		"** 一名人类掌握了治愈魔法 **"
+	}
+	"**Player has picked up <Earth Magic>**"
+	{
+		"trans"		"** 一名人类掌握了土魔法 **"
+	}
+	"**Player has picked up <Tornado Magic>**"
+	{
+		"trans"		"** 一名人类掌握了风魔法 **"
+	}
+	"**Player has picked up <Lightning Magic>**"
+	{
+		"trans"		"** 一名人类掌握了电魔法 **"
+	}
+	"**Player has picked up <Teleport Crystal>**"
+	{
+		"trans"		"** 一名人类拿到了传送水晶 **"
+	}
+	"**NUKE IN 10 SEC**"
+	{
+		"trans"		"** 10秒后核爆来了 **"
+	}
+	"**NOW USE THE TELEPORT CRYSTAL**"
+	{
+		"trans"		"** 就是现在!使用传送水晶吧! **"
+	}
+	"**3**"
+	{
+		"trans"		"** 3 **"
+	}
+	"**2**"
+	{
+		"trans"		"** 2 **"
+	}
+	"**1**"
+	{
+		"trans"		"** 1 **"
+	}
+	"**Mystery man : Ive studied the crystals you brought back last time**"
+	{
+		"trans"		"** 神秘人:我研究过你上次带回来的水晶 **"
+	}
+	"**Mystery man : Get into the palace , theres a great mystery under it**"
+	{
+		"trans"		"** 神秘人：进入宫殿，在它下面有一个非常神秘的奥秘 **"
+	}
+	"<WIND>"
+	{
+		"trans"		"** 风 **"
+	}
+	"**Barlog : Impotent things , go die**"
+	{
+		"trans"		"** 炎魔:无能的东西，去死 **"
+	}
+	"**YOUR FAILED**"
+	{
+		"trans"		"** 你输了，再来1次吧 **"
+	}
+	"**[Admin]STAGE 2**"
+	{
+		"trans"		"** 狗管理把关卡转去第二关 **"
+	}
+	"**[Admin]STAGE 1**"
+	{
+		"trans"		"** 狗管理把关卡转去第一关 **"
+	}
+	"**Zombie has picked up <Gravity>**"
+	{
+		"trans"		"** 一位僵尸掌握了黑洞魔法 **"
+	}
+	"**THANKS FOR PLAYING**"
+	{
+		"trans"		"** 感谢参与 **"
+	}
+	">>STAGE 1 COMPLETE<<"
+	{
+		"trans"		"** 第一关完成 **"
+	}
+	"**Zombie has picked up <Ice>**"
+	{
+		"trans"		"** 一位僵尸掌握了冰魔法 **"
+	}
+	"**NADE DO MORE DAMAGE**"
+	{
+		"trans"		"** 手雷可以造成更多伤害 **"
+	}
+	"**Balrog : Impotent things , go die**"
+	{
+		"trans"		"** 炎魔:无能的东西，去死 **"
+	}
+	">>STAGE 2 COMPLETE<<"
+	{
+		"trans"		"** 第二关完成 **"
+	}
+	">>STAGE 3 WILL COME SOON<<"
+	{
+		"trans"		"** 第三关即将到来 **"
+	}
+	">>THANKS FOR PLAYING<<"
+	{
+		"trans"		"** 感谢参与 **"
+	}
+	">>MAZEDOOR OPENING IN 30 SEC<<"
+	{
+		"trans"		"** 大门将于30秒后开启 **"
+	}
+	">>ACTIVATE THE CRYSTAL TOWER AND...<<"
+	{
+		"trans"		"** 激活水晶塔和... **"
+	}
+	">>BREAK THE INVERTED CRYSTAL TOWER<<"
+	{
+		"trans"		"** 打破反转的晶体塔 **"
+	}
+	">>DOOR OPENING IN 15 SEC<<"
+	{
+		"trans"		"** 大门将于15秒后打开 **"
+	}
+	">>GATE OPENING IN 15 SEC<<"
+	{
+		"trans"		"** 门将于15秒后打开 **"
+	}
+	">>HOLD 45 SEC<<"
+	{
+		"trans"		"** 守住45秒 **"
+	}
+	">>DOOR OPENING IN 25 SEC<<"
+	{
+		"trans"		"** 大门将于25秒后打开 **"
+	}
+	">>OUTDOOR OPENING IN 25 SEC<<"
+	{
+		"trans"		"** 出口将于25秒后打开 **"
+	}
+	">>IT SEEMS ORIGINAL WAY WAS BLOCKED<<"
+	{
+		"trans"		"** 它看来把原来的路封住了 **"
+	}
+	">>TAKE THE OPPOSITE DIRECTION<<"
+	{
+		"trans"		"** 走相反的方向 **"
+	}
+	">>TRIGGER THE MECHANISMS ON THE WALL<<"
+	{
+		"trans"		"** 触发墙上的机关 **"
+	}
+	">>WAIT FOR 10 SEC<<"
+	{
+		"trans"		"** 等待10秒 **"
+	}
+	">>ACTIVATE FOUR TOWERS<<"
+	{
+		"trans"		"** 激活四个塔 **"
+	}
+	">>ALL THE CRYSTAL ACTIVATED , WAIT 25 SEC<<"
+	{
+		"trans"		"** 所有的晶体激活，等待25秒 **"
+	}
+	">>WAITING THE PLATFORM APPEAR<<"
+	{
+		"trans"		"** 等待平台出现 **"
+	}
+	">>ITS LOOKS LIKE A DOOR , KEEP DEFENDING FOR 25 SEC<<"
+	{
+		"trans"		"** 它看起来像一个门，防守25秒 **"
+	}
+	">>THIS DOOR BREAKING IN 25 SEC<<"
+	{
+		"trans"		"** 门25秒后破坏 **"
+	}
+	">>THE DOOR BREAKING IN 45 SEC<<"
+	{
+		"trans"		"** 门45秒后破坏 **"
+	}
+	">>MIDDLE PLATFORM RISING IN 25 SEC<<"
+	{
+		"trans"		"** 中间平台在25秒后上升 **"
+	}
+	">>ELEVATOR LEAVES IN 20 SEC<<"
+	{
+		"trans"		"** 电梯20秒后离开 **"
+	}
+	">>GET OUT OF HERE QUICKLY<<"
+	{
+		"trans"		"** 快离开这里 **"
+	}
+	">>IT SEEMS CONTAIN A BIG ENERGY<<"
+	{
+		"trans"		"** 它包含了大量的能源 **"
+	}
+	">>KEEP DEFENCE , DONT LET THEM OUT<<"
+	{
+		"trans"		"** 守住，别让僵尸靠近门 **"
+	}
+	">>MAP BY TENSHI<<"
+	{
+		"trans"		"** 地图作者：Tenshi 翻译：Laser **"
+	}
+	"**Zombie has picked up <Stealth>**"
+	{
+		"trans"		"** 一名僵尸掌握了隐身魔法 **"
+	}
+	"**Zombie has picked up <Shield>**"
+	{
+		"trans"		"** 一名僵尸掌握了盾魔法 **"
+	}
+	">>NUKE IN 10 SEC<<"
+	{
+		"trans"		"** 10秒后核爆来了 **"
+	}
+	">>NOW USE THE TELEPORT CRYSTAL<<"
+	{
+		"trans"		"** 就是现在，使用传送水晶 **"
+	}
+	">>3<<"
+	{
+		"trans"		"** 3 **"
+	}
+	">>2<<"
+	{
+		"trans"		"** 2 **"
+	}
+	">>1<<"
+	{
+		"trans"		"** 1 **"
+	}
+	">>A VOICE : Ive studied the crystals you brought back last time<<"
+	{
+		"trans"		"** 一个声音:我研究过你上次带回来的水晶 **"
+	}
+	">>A VOICE : Get into the palace , theres a great mystery under it<<"
+	{
+		"trans"		"** 一个声音:进入宫殿，在它下面有一个很大的奥秘. **"
+	}
+	">>NADE DO MORE DAMAGE<<"
+	{
+		"trans"		"** 手雷能造成更多伤害 **"
+	}
+	"**[Admin]Stage 3**"
+	{
+		"trans"		"** 狗管理把关卡转去第三关 **"
+	}
+	">>TELEPORT ACTIVATED IN 30 SEC<<"
+	{
+		"trans"		"** 传送30秒后激活 **"
+	}
+	">>ROCK BREAKING IN 25 SEC<<"
+	{
+		"trans"		"** 岩石25秒后破碎 **"
+	}
+	">>ROCK BREAKING IN 15 SEC<<"
+	{
+		"trans"		"** 岩石15秒后破碎 **"
+	}
+	">>KEEP DEFENCE<<"
+	{
+		"trans"		"** 守住，保持火力 **"
+	}
+	">>SURVIVE 40 SEC<<"
+	{
+		"trans"		"** 生存40秒 **"
+	}
+	">>JUMP!!!<<"
+	{
+		"trans"		"** 跳!!! **"
+	}
+	">>RUN BACK TO THE STELA<<"
+	{
+		"trans"		"** 跑回到石碑 **"
+	}
+	">>GO TO ACTIVATE STELA<<"
+	{
+		"trans"		"** 去激活石碑 **"
+	}
+	">>STELA ACTIVATED IN 20 SEC<<"
+	{
+		"trans"		"** 石碑在20秒后激活 **"
+	}
+	">>WAIT,IT LOOKS LIKE SOMETHING WRONG WITH STELA<<"
+	{
+		"trans"		"** 等等，石碑看起来出来了问题 **"
+	}
+	">>IT SEEMS TO BE CONTROLLED BY A POWER<<"
+	{
+		"trans"		"** 它被其他东西控制了 **"
+	}
+	">>ITS ICE DRAGON<<"
+	{
+		"trans"		"** 这是冰龙 **"
+	}
+	">>KILL IT<<"
+	{
+		"trans"		"** 杀了它 **"
+	}
+	">>WE DEFEAT IT<<"
+	{
+		"trans"		"** 我们打败它 **"
+	}
+	">>STAGE 3 COMPLETE<<"
+	{
+		"trans"		"** 第三关完成 **"
+	}
+	">>WAITING FOR STAGE 4<<"
+	{
+		"trans"		"** 第四关即将到来 **"
+	}
+	">>STAGE FAILED<<"
+	{
+		"trans"		"** 关卡失败，再来1次吧 **"
+	}
+	">>TOWN GATE CLOSING IN 40 SEC<<"
+	{
+		"trans"		"** 城门40秒后关闭 **"
+	}
+	">>HOLD!!!<<"
+	{
+		"trans"		"** 守住!!! **"
+	}
+	">>DONT LET THEM IN<<"
+	{
+		"trans"		"** 不要让他们进来 **"
+	}
+	">>BALROG IS ATTACKING<<"
+	{
+		"trans"		"** 炎魔正在攻击 **"
+	}
+	">>DONT GET IN WATER<<"
+	{
+		"trans"		"** 不要入水 **"
+	}
+	">>HERE IS SEALED BY A MYSTERIOUS FORCE<<"
+	{
+		"trans"		"** 这里被一个神秘的力量所封印了 **"
+	}
+	"**test1**"
+	{
+		"trans"		"** test1 **"
+	}
+	"**tes2t1**"
+	{
+		"trans"		"** tes2t1 **"
+	}
+	">>If you hava some suggestions,leaving a message at my personal profile.<<"
+	{
+		"trans"		"** 如果您有一些建议，请在我的个人资料中留言.**"
+	}
+	">>http:"
+	{
+		"trans"		"** http: **"
+	}
+	">>GET OUT OF HERE!!!<<"
+	{
+		"trans"		"** 离开这里!!! **"
+	}
+	">>GO TO BIG CRYSTAL TOWER<<"
+	{
+		"trans"		"** 去大水晶塔 **"
+	}
+	">>ACTIVATE TWO CRYSTAL AND DEFEND ZOMBIES<<"
+	{
+		"trans"		"** 激活两个水晶和守住僵尸 **"
+	}
+	">>THEN ACTIVATE THE RED ONE<<"
+	{
+		"trans"		"** 然后激活其中一个红色机关 **"
+	}
+	">>THE HELLGATE OPENING IN 30 SEC<<"
+	{
+		"trans"		"** 地狱之门在30秒后打开 **"
+	}
+	">>DOOR OPENING IN 20 SEC<<"
+	{
+		"trans"		"** 大门在20秒后打开 **"
+	}
+	">>HOLD 30 SEC<<"
+	{
+		"trans"		"** 守住30秒 **"
+	}
+	">>HOLD 20 SEC<<"
+	{
+		"trans"		"** 守住20秒 **"
+	}
+	">>GET ON THE MIDDLE STONE<<"
+	{
+		"trans"		"** 去中间的石板 **"
+	}
+	">>STAGE 4 COMPLETE<<"
+	{
+		"trans"		"** 第四关完成 **"
+	}
+	">>Special Thanks: uuz , nano ,thas<<"
+	{
+		"trans"		"** 特别感谢：uuz，nano，thas **"
+	}
+	">>HOLD 15 SEC<<"
+	{
+		"trans"		"** 守住15秒 **"
+	}
+	">>YOU GOT THE TELEPORTER CRYSTAL. IT CAN TAKE US BACK<<"
+	{
+		"trans"		"** 如果你有传送水晶，它可以带我们回去 **"
+	}
+	">>TELEPORT IN 2 SEC<<"
+	{
+		"trans"		"** 传送剩下2秒 **"
+	}
+	">>TELEPORT IN 1 SEC<<"
+	{
+		"trans"		"** 传送剩下1秒 **"
+	}
+	"**[Admin]STAGE 4**"
+	{
+		"trans"		"** 狗管理把关卡转去第四关 **"
+	}
+	">>BALROG USED SOLAR FUSION,ONLY USE <LIGHTNING> CAN RESIST IT<<"
+	{
+		"trans"		"** 炎魔使用太阳能融合，只能使用<电>可以抵制它 **"
+	}
+	"**Are you sure?**"
+	{
+		"trans"		"** 你确定? **"
+	}
+	">>steamcommunity.comidlnskrkj<<"
+	{
+		"trans"		"** steamcommunity.comidlnskrkj **"
+	}
+	">>IS THAT YOUR CHOICE???<<"
+	{
+		"trans"		"** 这是你的选择??? **"
+	}
+	">>SHOOT THE CRYSTAL!!!<<"
+	{
+		"trans"		"** 射击水晶!!! **"
+	}
+}

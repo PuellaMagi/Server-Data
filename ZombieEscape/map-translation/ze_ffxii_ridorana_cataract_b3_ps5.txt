@@ -1,0 +1,295 @@
+"Chat"
+{
+	"**Map by Headshooter.SC & HaRyDe**"
+	{
+		"trans"		"** 地图作者：HeadshooterSC & HaRyDe 翻译：Laser **"
+	}
+	"**WARMUP ROUND**"
+	{
+		"trans"		"** 热身回合 **"
+	}
+	"**ZE_FFXII_RIDORANA_CATARACT**"
+	{
+		"trans"		"** 最终幻想12：里多拉纳大瀑布 **"
+	}
+	"**The gates will open in 20 seconds**"
+	{
+		"trans"		"** 大门20秒后打开 **"
+	}
+	"**ZOMBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 1)**"
+	{
+		"trans"		"** 一位僵尸掌握了火魔法Lv1 **"
+	}
+	"**NORMAL MODE**"
+	{
+		"trans"		"** 普通模式 **"
+	}
+	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 1)**"
+	{
+		"trans"		"** 一名玩家捡起了雷电法杖Lv1 **"
+	}
+	"**ZOMBIE WARP WAS PICKED UP**(DAMAGE LEVEL 1)**"
+	{
+		"trans"		"** 一名僵尸掌握了秒杀魔法Lv1 **"
+	}
+	"**ZOMBIE DARKAGA WAS PICKED UP**(PULL LEVEL 1)**"
+	{
+		"trans"		"** 一名僵尸掌握了黑洞魔法Lv1 **"
+	}
+	"**The gates will open in 30 seconds**"
+	{
+		"trans"		"** 大门30秒后打开 **"
+	}
+	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 1)**"
+	{
+		"trans"		"** 一名玩家捡起了黑洞法杖Lv1**"
+	}
+	"**The gates will open in 15 seconds**"
+	{
+		"trans"		"** 大门15秒后打开 **"
+	}
+	"**The gates will open in 25 seconds**"
+	{
+		"trans"		"** 大门25秒后打开 **"
+	}
+	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 1)**"
+	{
+		"trans"		"** 一名玩家捡起了治疗法杖Lv1 **"
+	}
+	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 1)**"
+	{
+		"trans"		"** 一名玩家捡起了冰冻法杖Lv1 **"
+	}
+	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 1)**"
+	{
+		"trans"		"** 一名玩家捡起了火焰法杖Lv1 **"
+	}
+	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 1)**"
+	{
+		"trans"		"** 一名玩家捡起了飓风法杖Lv1 **"
+	}
+	"**ZOMBIE CURAGA WAS PICKED UP**(HEAL LEVEL 1)**"
+	{
+		"trans"		"** 一名僵尸掌握了治疗魔法Lv1 **"
+	}
+	"**The random way will open in 25 seconds**"
+	{
+		"trans"		"** 25秒后随机打开一条通道 **"
+	}
+	"**The arena entrance will open in 25 seconds**"
+	{
+		"trans"		"** 竞技场入口将在25秒后开启 **"
+	}
+	"**The Hashmel is defeated!**"
+	{
+		"trans"		"** 哈修马利姆被击败 **"
+	}
+	"**Defend this way for 25 seconds**"
+	{
+		"trans"		"** 守住25秒 **"
+	}
+	"**The final gates will open in 20 seconds**"
+	{
+		"trans"		"** 最后的大门20秒后打开 **"
+	}
+	"**Hydro is dead! Run to to the platform!**"
+	{
+		"trans"		"** 亥伊多死了!跑到平台! **"
+	}
+	"** You have beaten NORMAL MODE! Congratulations! **"
+	{
+		"trans"		"** 你已经通过了普通模式!恭喜! **"
+	}
+	"**HARD MODE**"
+	{
+		"trans"		"** 困难模式 **"
+	}
+	"**ZOMBIE WARP WAS PICKED UP**(DAMAGE LEVEL 2)**"
+	{
+		"trans"		"** 一名僵尸掌握了秒杀魔法Lv2 **"
+	}
+	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 2)**"
+	{
+		"trans"		"** 一名玩家捡起了黑洞法杖Lv2 **"
+	}
+	"**ZOMBIE CURAGA WAS PICKED UP**(HEAL LEVEL 2)**"
+	{
+		"trans"		"** 一名僵尸掌握了治疗魔法Lv2 **"
+	}
+	"**The Hydro is defeated** **Keep running**"
+	{
+		"trans"		"** 亥伊多死了! 继续跑 **"
+	}
+	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 2)**"
+	{
+		"trans"		"** 一名玩家捡起了治疗法杖Lv2 **"
+	}
+	"**The door will open in 25 seconds**"
+	{
+		"trans"		"** 大门25秒后打开 **"
+	}
+	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 2)**"
+	{
+		"trans"		"** 一名玩家捡起了冰冻法杖Lv2 **"
+	}
+	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 2)**"
+	{
+		"trans"		"** 一名玩家捡起了飓风法杖Lv2 **"
+	}
+	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 2)**"
+	{
+		"trans"		"** 一名玩家捡起了火焰法杖Lv2 **"
+	}
+	"**Hold here for 10 seconds**"
+	{
+		"trans"		"** 守住10秒 **"
+	}
+	"**Wait before the airflow starts**"
+	{
+		"trans"		"** 在气流开始之前等待 **"
+	}
+	"**The arena gates will open in 20 seconds**"
+	{
+		"trans"		"** 竞技场大门20秒后开启 **"
+	}
+	"**Oh no the sword dissapeared..We will back there next time..**"
+	{
+		"trans"		"** Oh no!神圣之剑消失了..我们下次会再来这里的.. **"
+	}
+	"**Famfrit is defeated! Now get ready to escape this place..**"
+	{
+		"trans"		"** 珐姆弗里特死了!现在准备好逃离这个地方 **"
+	}
+	"**The final gates will open in 30 seconds**"
+	{
+		"trans"		"** 最后的大门30秒后打开 **"
+	}
+	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 2)**"
+	{
+		"trans"		"** 一名玩家捡起了雷电法杖Lv2 **"
+	}
+	"**ZOMBIE DARKAGA WAS PICKED UP**(PULL LEVEL 2)**"
+	{
+		"trans"		"** 一名僵尸掌握了黑洞魔法Lv2 **"
+	}
+	"**ZOMBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 2)**"
+	{
+		"trans"		"** 一名僵尸掌握了火魔法Lv2 **"
+	}
+	"**Is this over...or not?...**"
+	{
+		"trans"		"** 这是结束了...还是没有? **"
+	}
+	"** You have beaten HARD MODE! Congratulations! **"
+	{
+		"trans"		"** 你已经通过了困难模式!恭喜! **"
+	}
+	"**EXTREME MODE**"
+	{
+		"trans"		"** 极限模式 **"
+	}
+	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 3)**"
+	{
+		"trans"		"** 一名玩家捡起了冰冻法杖Lv3 **"
+	}
+	"**ZOMBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 3)**"
+	{
+		"trans"		"** 一名僵尸掌握了火魔法Lv3 **"
+	}
+	"**Both ways will open in 25 seconds**"
+	{
+		"trans"		"** 25秒后两条路都会打开 **"
+	}
+	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 3)**"
+	{
+		"trans"		"** 一名玩家捡起了雷电法杖Lv3 **"
+	}
+	"**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**"
+	{
+		"trans"		"** 你必须杀死所有的僵尸 **"
+	}
+	"** You have beaten EXTREME MODE! Congratulations! **"
+	{
+		"trans"		"** 你已经通过了极限模式!恭喜! **"
+	}
+	"**CHAOS MODE**"
+	{
+		"trans"		"** 混沌模式 **"
+	}
+	"**The Pharos is under attack!**"
+	{
+		"trans"		"** Pharos正在受到攻击 **"
+	}
+	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 3)**"
+	{
+		"trans"		"** 一名玩家捡起了黑洞法杖Lv3 **"
+	}
+	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 3)**"
+	{
+		"trans"		"** 一名玩家捡起了火焰法杖Lv3 **"
+	}
+	"**Someone is trying to interfere us**"
+	{
+		"trans"		"** 有人试图干扰我们 **"
+	}
+	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 3)**"
+	{
+		"trans"		"** 一名玩家捡起了飓风法杖Lv3 **"
+	}
+	"**A PLAYER HAS PICKED UP THE ULTIMA SWORD**"
+	{
+		"trans"		"** 一名玩家捡起了神圣之剑 **"
+	}
+	"**Gabranth has stolen the crystal. We need to stop him**"
+	{
+		"trans"		"** 伽布拉斯偷了水晶. 我们需要阻止他 **"
+	}
+	"**The guard is dead! Run to to the platform!**"
+	{
+		"trans"		"** 守卫死了!跑到平台! **"
+	}
+	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 3)**"
+	{
+		"trans"		"** 一名玩家捡起了治疗法杖Lv3 **"
+	}
+	"**The Zargabaath is down**"
+	{
+		"trans"		"** 扎尔伽巴斯正在下降 **"
+	}
+	"**The Bergan is down**"
+	{
+		"trans"		"** 贝甘已正在下降 **"
+	}
+	"**ADMIN HAS CHANGED MAP LEVEL VIA ADMIN ROOM**"
+	{
+		"trans"		"** 狗管理去调关房更改了地图难度 **"
+	}
+	"**ADMIN PRESSED KILL ALL BUTTON**"
+	{
+		"trans"		"** 狗管理按了全灭按钮 **"
+	}
+	"**You are too slow..**"
+	{
+		"trans"		"** 你太慢了.. **"
+	}
+	"**ZOMBIE DARKAGA WAS PICKED UP**(PULL LEVEL 3)**"
+	{
+		"trans"		"** 一名僵尸掌握了黑洞魔法Lv3 **"
+	}
+	"**ZOMBIE WARP WAS PICKED UP**(DAMAGE LEVEL 3)**"
+	{
+		"trans"		"** 一名僵尸掌握了秒杀魔法Lv3 **"
+	}
+	"**ZOMBIE CURAGA WAS PICKED UP**(HEAL LEVEL 3)**"
+	{
+		"trans"		"** 一名僵尸掌握了治疗魔法Lv3 **"
+	}
+	"Zombie cage will be broken after 20 seconds"
+	{
+		"trans"		"** 僵尸笼20秒后破裂 **"
+	}
+	"**You are late..**"
+	{
+		"trans"		"** 你晚了.. **"
+	}
+}

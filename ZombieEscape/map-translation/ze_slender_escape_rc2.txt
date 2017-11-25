@@ -1,0 +1,591 @@
+"Chat"
+{
+	"** [STORY] STAGE 1 - PRISON **"
+	{
+		"trans"		"**【瘦长鬼影】关卡1——监狱 作者SLAYERDRAGON 翻译DohiCircle**"
+	}
+	"** [STORY] We have met a nice guy in prison called slenderman - he wants to help us escape the prison! **"
+	{
+		"trans"		"**【剧情】我们在监狱里遇到了一个自称面条人的人 他说可以我们逃离监狱!**"
+	}
+	"** [STORY] The old prison lies under the big forest of slender world **"
+	{
+		"trans"		"**【剧情】这座古老的监狱坐落在面条人森林地底下**"
+	}
+	"** [STORY] We will have to follow yellow lights that slenderman made for us to escape the prison **"
+	{
+		"trans"		"**【剧情】我们跟着黄色光球走 它会带领我们离开这座监狱**"
+	}
+	"** [STORY] Good luck and make sure the infected prisoners (aka zombies) dont leave the prison! **"
+	{
+		"trans"		"**【剧情】祝你们好运!但是记得别让受感染的囚犯（僵尸）离开这里**"
+	}
+	"** Teleporting HUMANS in 5 secs **"
+	{
+		"trans"		"**5秒后游戏正式开始**"
+	}
+	"** Teleporting ZOMBIES in 5 secs **"
+	{
+		"trans"		"**僵尸将在5秒后到达**"
+	}
+	"** Cover 20 seconds **"
+	{
+		"trans"		"**防守20秒**"
+	}
+	"** SPIDERZOMBIE INCOMING **"
+	{
+		"trans"		"**变异蜘蛛来袭!**"
+	}
+	"** Cover 5 seconds **"
+	{
+		"trans"		"**防守5秒**"
+	}
+	"** Cover 30 seconds **"
+	{
+		"trans"		"**防守30秒**"
+	}
+	"** Prison door will open in 5 seconds **"
+	{
+		"trans"		"**监狱门将在5秒后打开**"
+	}
+	"** GO LEFT **"
+	{
+		"trans"		"**门开了，撤退!**"
+	}
+	"** Cover 25 seconds **"
+	{
+		"trans"		"**防守25秒**"
+	}
+	"** Cover 30 seconds until the gate opens **"
+	{
+		"trans"		"**防守30秒**"
+	}
+	"** Cover 5 more seconds **"
+	{
+		"trans"		"**再防守5秒**"
+	}
+	"** 50 seconds left until final escape!! **"
+	{
+		"trans"		"**50秒后最终撤离!!!**"
+	}
+	"** 40 seconds left until final escape!! **"
+	{
+		"trans"		"**40秒后最终撤离!!!**"
+	}
+	"** 30 seconds left until final escape!! **"
+	{
+		"trans"		"**30秒后最终撤离!!!**"
+	}
+	"** 20 seconds left until final escape!! **"
+	{
+		"trans"		"**20秒后最终撤离!!!**"
+	}
+	"** 10 seconds left until final escape!! **"
+	{
+		"trans"		"**10秒后最终撤离!!!**"
+	}
+	"** 5 seconds left until final escape!! **"
+	{
+		"trans"		"**5秒后最终撤离!!!**"
+	}
+	"** Go UP the ladder!! **"
+	{
+		"trans"		"**上梯子到达地表!!!**"
+	}
+	"** Incoming nuke in 8 seconds!! **"
+	{
+		"trans"		"**核爆将在8秒后到来**"
+	}
+	"** Congratulations - you won STAGE 1 **"
+	{
+		"trans"		"**干得漂亮你们逃离了监狱!!!**"
+	}
+	"** MAP BY SLAYERDRAGON **"
+	{
+		"blocked"		"1"
+	}
+	"** [STORY] STAGE 2 - SCHOOL **"
+	{
+		"trans"		"**【剧情】关卡2——学校**"
+	}
+	"** [STORY] We have succesful escaped the prison and after a few days we and slenderman have reached the school **"
+	{
+		"trans"		"**【剧情】我们已经成功逃出监狱，几天后我们和面条人到达学校**"
+	}
+	"** [STORY] We have to collect some items if we want to survive in slender world**"
+	{
+		"trans"		"**【剧情】我们要收集一些物品以保证能在面条人森林生存下去**"
+	}
+	"** DOORS WILL OPEN IN 20 SECS **"
+	{
+		"trans"		"**门将在20秒后打开**"
+	}
+	"** DOORS WILL OPEN IN 5 SECS **"
+	{
+		"trans"		"**门将在5秒后打开**"
+	}
+	"** DOOR WILL OPEN IN 15 SECS **"
+	{
+		"trans"		"**门将在15秒后打开**"
+	}
+	"** DOOR WILL OPEN IN 5 SECS **"
+	{
+		"trans"		"**门将在5秒后打开**"
+	}
+	"** HOLD THE SCHOOLGARDEN FOR 30 SECS BEFORE THE SCHOOLDOORS OPEN **"
+	{
+		"trans"		"**30秒打开通向花园的门**"
+	}
+	"** 5 MORE SECONDS **"
+	{
+		"trans"		"**还有5秒左右**"
+	}
+	"** DEFEND 20 SECONDS **"
+	{
+		"trans"		"**防守20秒**"
+	}
+	"** [STORY] Oh no! It's a trap! Slenderman betrayed us! **"
+	{
+		"trans"		"**【剧情】哦不!这是个陷阱!面条人背叛了我们!**"
+	}
+	"** [STORY] He killed a few of our good men! **"
+	{
+		"trans"		"**【剧情】他杀了我们一些弟兄!**"
+	}
+	"** DEFEND 15 MORE SECONDS **"
+	{
+		"trans"		"**防守15秒**"
+	}
+	"** GO BACK TO THE EXIT OF THE SCHOOL ! **"
+	{
+		"trans"		"**冲向学校的出口!**"
+	}
+	"** THE EXIT WILL OPEN IN 40 SECS **"
+	{
+		"trans"		"**出口将在40秒后打开**"
+	}
+	"** 10 SECONDS LEFT **"
+	{
+		"trans"		"**还有10秒**"
+	}
+	"** GET IN THE CHOPPER !! **"
+	{
+		"trans"		"**快上直升机!!**"
+	}
+	"** CHOPPER WILL LEAVE IN 10 SECS !! **"
+	{
+		"trans"		"**直升机将在10秒后离开!!**"
+	}
+	"** Congratulations - you won STAGE 2 **"
+	{
+		"trans"		"**干得漂亮你们离开了学校!!!**"
+	}
+	"** [STORY] STAGE 3 - FOREST **"
+	{
+		"trans"		"**【剧情】关卡3——森林**"
+	}
+	"** [STORY] After the betrayal of slenderman we were left alone in the big forest with only an old generator **"
+	{
+		"trans"		"**【剧情】在被面条人背叛后，我们在森林流浪找到一个旧发电机**"
+	}
+	"** [STORY] If we want to survive this forest we need to power the main generator **"
+	{
+		"trans"		"**【剧情】如果我们想在这片森林里生存，我们需要发动发电机**"
+	}
+	"** [STORY] After the generator has started we can continue our mission to find and kill slenderman! **"
+	{
+		"trans"		"**【剧情】在发电机发动之后，我们可以继续完成我们的目的————找到并杀死面条人!**"
+	}
+	"** [STORY] Oh and did i tell you that slenderman has 3 brothers who like to play with fire?! **"
+	{
+		"trans"		"**【剧情】OH!我没告诉你们面条人有三个兄弟会玩火么?!**"
+	}
+	"** DEFEND THIS BASE WHILE SOME GET FUEL CANS IN THE FOREST **"
+	{
+		"trans"		"**防守这个临时据点 森林中有油桶可以为发电机提供燃料**"
+	}
+	"** SLENDERZOMBIE -FIRE- WOKE UP **"
+	{
+		"trans"		"**火焰面条人醒来了，别让它攻击到我们!**"
+	}
+	"** A fuel can has been picked up **"
+	{
+		"trans"		"**找到一个油桶了，快返回据点!**"
+	}
+	"** FUEL 20 % **"
+	{
+		"trans"		"**充能20%**"
+	}
+	"** YOU HAVE FAILED - ZOMBIES DESTROYED THE GENERATOR **"
+	{
+		"trans"		"**你们失败了!僵尸摧毁了发电机!**"
+	}
+	"** FUEL 40 % **"
+	{
+		"trans"		"**充能40%**"
+	}
+	"** ENOUGH FUEL FOR POWERING THE FIRST GUARDDOG! **"
+	{
+		"trans"		"**一个机械狗启动!**"
+	}
+	"** FUEL 60 % **"
+	{
+		"trans"		"** FUEL 60 % **"
+	}
+	"** 30 SECONDS LEFT BEFORE SLENDERMAN FIND US! **"
+	{
+		"trans"		"**还有30秒面条人就要找到我们了!赶快寻找油桶!**"
+	}
+	"** You have failed - NO TIME LEFT **"
+	{
+		"trans"		"**你们失败了!面条人找到我们了!**"
+	}
+	"** FUEL 80 % **"
+	{
+		"trans"		"**充能80%**"
+	}
+	"** ENOUGH FUEL FOR POWERING THE SECOND GUARDDOG! **"
+	{
+		"trans"		"**另一个机械狗启动!**"
+	}
+	"** FUEL 100 % **"
+	{
+		"trans"		"**充能100%!!!**"
+	}
+	"** THE GENERATOR HAS ENOUGH FUEL! **"
+	{
+		"trans"		"**发动机有了足够的燃料!我们做到了！**"
+	}
+	"** GET ALL BACK TO THE BASE **"
+	{
+		"trans"		"**所有人返回据点进行最后防守!!!**"
+	}
+	"** NUKE in 45 SECONDS **"
+	{
+		"trans"		"**核爆将在45秒后到达**"
+	}
+	"** NUKE in 35 SECONDS **"
+	{
+		"trans"		"**核爆将在35秒后到达**"
+	}
+	"** NUKE in 25 SECONDS **"
+	{
+		"trans"		"**核爆将在25秒后到达**"
+	}
+	"** NUKE in 15 SECONDS **"
+	{
+		"trans"		"**核爆将在15秒后到达**"
+	}
+	"** NUKE in 5 SECONDS **"
+	{
+		"trans"		"**核爆还有5秒到达，坚持住!**"
+	}
+	"** Congratulations - you won STAGE 3 **"
+	{
+		"trans"		"**干得漂亮你们活下来了!**"
+	}
+	"** [STORY] STAGE 4 - MANSION **"
+	{
+		"trans"		"**【剧情】关卡4——洋馆**"
+	}
+	"** [STORY] After a few days of wandering we finally arrived at slender mansion **"
+	{
+		"trans"		"**【剧情】经过几天的寻找，我们终于找到了面条人的老家**"
+	}
+	"** [STORY] To ensure we exterminate slenderman we will plants some bombs in the basements **"
+	{
+		"trans"		"**【剧情】为了彻底消灭面条人，我们需要在地下室安放炸弹**"
+	}
+	"** [STORY] When the bombs are planted we will pay slenderman a visit and kill him **"
+	{
+		"trans"		"**【剧情】在炸弹引爆之前，我们先给面条人一个惊喜再送它上天!**"
+	}
+	"** [STORY] Good luck hunting him down once and for all!! **"
+	{
+		"trans"		"**【剧情】祝你们好运，干爆面条人!!!**"
+	}
+	"** Cover here till we broke the mansions main door **"
+	{
+		"trans"		"**防御这片空地直到摧毁洋馆的大门**"
+	}
+	"** KEEP DEFENDING **"
+	{
+		"trans"		"**保持开火!**"
+	}
+	"** DOOR IS OPEN - GO PLANT THE BOMB IN THE TOILETS **"
+	{
+		"trans"		"**门打开了 去把炸弹安放在地下室**"
+	}
+	"** CLOSE THE VALVES FOR LOWERING THE WATER **"
+	{
+		"trans"		"**关闭阀门，让水位降下来**"
+	}
+	"** OK WE PLANTED THE BOMB - KEEP ZOMBIES AWAY FROM THE BOMB FOR 30 SECS **"
+	{
+		"trans"		"**好的炸弹放好了 防守僵尸30秒别让僵尸靠近炸弹**"
+	}
+	"** All drains have been closed - Water is lowering ** "
+	{
+		"trans"		"**所有阀门都被关闭，水位正在下降!** "
+	}
+	"** 5 seconds left **"
+	{
+		"trans"		"**还有5秒**"
+	}
+	"** GO BACK TO THE MAIN HALL **"
+	{
+		"trans"		"**返回大厅!**"
+	}
+	"** 15 SECONDS TILL WE OPENED FIRST GATE **"
+	{
+		"trans"		"**给我15秒打开第一个栅栏**"
+	}
+	"** 5 MORE SECONDS TILL WE OPENED SECOND GATE **"
+	{
+		"trans"		"**再给我5秒打开第二个栅栏**"
+	}
+	"** GO GO GO **"
+	{
+		"trans"		"**撤退!**"
+	}
+	"** ELEVATOR WILL START IN 30 SECONDS **"
+	{
+		"trans"		"**电梯将在30秒后离开**"
+	}
+	"** ELEVATOR IS LEAVING IN 20 SECONDS **"
+	{
+		"trans"		"**电梯将在20秒后离开**"
+	}
+	"** ELEVATOR IS LEAVING IN 10 SECONDS **"
+	{
+		"trans"		"**电梯将在10秒后离开**"
+	}
+	"** ELEVATOR IS LEAVING IN 5 SECONDS **"
+	{
+		"trans"		"**电梯将在5秒后离开**"
+	}
+	"** WE ARE ALMOST AT SLENDERMAN !! **"
+	{
+		"trans"		"**我们快要接近面条人了!**"
+	}
+	"** KEEP COVERING **"
+	{
+		"trans"		"**继续开火**"
+	}
+	"** 5 MORE SECONDS! **"
+	{
+		"trans"		"**还有5秒!**"
+	}
+	"** YOU FINALLY FOUND ME **"
+	{
+		"trans"		"**面条人：你们最终还是找到我了**"
+	}
+	"** NOW YOU WILL MEET YOUR DESTINY **"
+	{
+		"trans"		"**面条人：现在直面你们的命运吧!**"
+	}
+	"** BOSS USES TELEPORTS NOW **"
+	{
+		"trans"		"**面条人使用了大转移**"
+	}
+	"** SLENDERMAN IS DEFEATED - ESCAPE THE MANSION!! **"
+	{
+		"trans"		"**面条人被打倒了 我们快离开洋馆!!**"
+	}
+	"** FINAL STAND **"
+	{
+		"trans"		"**最终防守**"
+	}
+	"** GOGOGO **"
+	{
+		"trans"		"**离开洋馆!!!!!!**"
+	}
+	"** YOU DID IT **"
+	{
+		"trans"		"**你们做到了!!!!!**"
+	}
+	"** YOU ESCAPED SLENDER!! **"
+	{
+		"trans"		"**你们干爆了面条人!!!!**"
+	}
+	"** .. OR NOT ? **"
+	{
+		"trans"		"**……或是没有!?**"
+	}
+	"** [SURVIVAL] ROUND 1 **"
+	{
+		"trans"		"**【生存】回合1**"
+	}
+	"** [MODE] SLENDERMAN **"
+	{
+		"trans"		"**【模式】瘦长鬼影**"
+	}
+	"** [MAP] PRISON **"
+	{
+		"trans"		"**【地图】监狱**"
+	}
+	"** [ITEMS] Lantern - Glowstick - Flashlight **"
+	{
+		"trans"		"**【人类道具】灯笼 & 燃烧棒 & 手电筒**"
+	}
+	"** [ZMITEM] SLENDERZOMBIES **"
+	{
+		"trans"		"**【特殊僵尸】瞬移面条人**"
+	}
+	"** [INFO] 3 WINS NEEDED FOR FINAL MADNESS MODE **"
+	{
+		"trans"		"**【提示】完成3场生存开启疯狂模式**"
+	}
+	"** Collect all 8 Pages **"
+	{
+		"trans"		"**收集8个纸条**"
+	}
+	"** SLENDERZOMBIE INCOMING **"
+	{
+		"trans"		"**瞬移面条人来了**"
+	}
+	"** Pages 1／8 **"
+	{
+		"trans"		"**进度 1/8**"
+	}
+	"** Pages 2／8 **"
+	{
+		"trans"		"**进度 2/8**"
+	}
+	"** Pages 3／8 **"
+	{
+		"trans"		"**进度 3/8**"
+	}
+	"** Pages 4／8 **"
+	{
+		"trans"		"**进度 4/8**"
+	}
+	"** [MAP] FOREST **"
+	{
+		"trans"		"**【地图】森林**"
+	}
+	"** 30 Seconds left until slenderman RAPE! **"
+	{
+		"trans"		"**防守30秒直到面条人嗝屁**"
+	}
+	"** Pages 5／8 **"
+	{
+		"trans"		"**进度 5/8**"
+	}
+	"** [MAP] SCHOOL **"
+	{
+		"trans"		"**【地图】学校**"
+	}
+	"** Pages 6／8 **"
+	{
+		"trans"		"**进度 6/8**"
+	}
+	"** Pages 7／8 **"
+	{
+		"trans"		"**进度 7/8**"
+	}
+	"** [MODE] BARRELMODE **"
+	{
+		"trans"		"**【模式】油桶地狱**"
+	}
+	"** [ITEMS] BARRELS ! **"
+	{
+		"trans"		"**【人类道具】装作油桶**"
+	}
+	"** [ZMITEM] BARRELBOSS **"
+	{
+		"trans"		"**【特殊僵尸】油桶之王**"
+	}
+	"** BARRELS BARRELS EVERYWHERE! **"
+	{
+		"trans"		"**!!!天降正义!!!**"
+	}
+	"** BARRELBOSS INCOMING **"
+	{
+		"trans"		"**油桶之王降临!!!!**"
+	}
+	"** NUKE in 180 seconds **"
+	{
+		"trans"		"**生存180秒**"
+	}
+	"** NUKE in 150 seconds **"
+	{
+		"trans"		"**生存150秒**"
+	}
+	"** NUKE in 120 seconds **"
+	{
+		"trans"		"**生存120秒**"
+	}
+	"** NUKE in 90 seconds **"
+	{
+		"trans"		"**生存90秒**"
+	}
+	"** NUKE in 60 seconds **"
+	{
+		"trans"		"**生存60秒**"
+	}
+	"** NUKE in 30 seconds **"
+	{
+		"trans"		"**生存30秒**"
+	}
+	"** Congratulations - you won SURVIVAL 1 **"
+	{
+		"trans"		"**祝贺!生存回合1胜利!**"
+	}
+	"** [SURVIVAL] ROUND 2 **"
+	{
+		"trans"		"**【生存】回合2**"
+	}
+	"** [INFO] 2 WINS NEEDED FOR FINAL MADNESS MODE **"
+	{
+		"trans"		"**【提示】完成2场生存开启疯狂模式**"
+	}
+	"** Congratulations - you won SURVIVAL 2 **"
+	{
+		"trans"		"**祝贺!生存回合2胜利!**"
+	}
+	"** [SURVIVAL] ROUND 3 **"
+	{
+		"trans"		"**【生存】回合3**"
+	}
+	"** [INFO] 1 MORE WIN NEEDED FOR FINAL MADNESS MODE **"
+	{
+		"trans"		"**【提示】完成2场生存开启疯狂模式**"
+	}
+	"** Congratulations - you won SURVIVAL 3 **"
+	{
+		"trans"		"**祝贺!生存回合3胜利!**"
+	}
+	"** [MODE] MADNESS! **"
+	{
+		"trans"		"**【模式】疯狂!!!!!!**"
+	}
+	"** [ITEMS] Lantern - Glowstick - Monkey BOMB **"
+	{
+		"trans"		"**【人类道具】灯笼 & 燃烧棒 & 猴子炸弹**"
+	}
+	"** [ZMITEM] SLENDERFIREZOMBIES! **"
+	{
+		"trans"		"**【特殊僵尸】火焰面条人**"
+	}
+	"** SURVIVE **"
+	{
+		"trans"		"**活下去!!!**"
+	}
+	"** INVADERS MUST DIE !! **"
+	{
+		"trans"		"**入侵者必须死!!!**"
+	}
+	"** [DIFFICULTY] FINAL MADNESS MODE **"
+	{
+		"trans"		"**【警告】疯狂模式已启用**"
+	}
+	"** NO SPAWN PROTECTION **"
+	{
+		"trans"		"**【警告】没有出生点保护!!!!!**"
+	}
+	"** FINAL MADNESS MODE TRY 1／3 **"
+	{
+		"trans"		"**【警告】疯狂模式进行机会 1/3**"
+	}
+}

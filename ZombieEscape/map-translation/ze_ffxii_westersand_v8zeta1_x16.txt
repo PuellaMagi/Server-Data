@@ -1,0 +1,431 @@
+"Chat"
+{
+	"** MAP BY SLAYERDRAGON & NOCTALI **"
+	{
+		"trans"		"** 地图作者：SlayerDragon & Noctali 翻译：Laser **"
+	}
+	"** Be aware of fake donations - groups and profiles ! **"
+	{
+		"trans"		"** 注意假捐款 - 团体和个人资料! **"
+	}
+	"** [HARD MODE] **"
+	{
+		"trans"		"** 困难难度 **"
+	}
+	"** Defend until the guards open the airport. **"
+	{
+		"trans"		"** 坚守至卫兵把机场开放. **"
+	}
+	"** Airport opened. **"
+	{
+		"trans"		"** 机场开放. **"
+	}
+	"** A player has learned Electro magick. **"
+	{
+		"trans"		"** 一名玩家捡起了雷电法杖. **"
+	}
+	"** A player has learned Heal magick. **"
+	{
+		"trans"		"** 一名玩家捡起了补给法杖. **"
+	}
+	"** Defend 30 seconds until the guards open the hallway. **"
+	{
+		"trans"		"** 守住30秒，直到守卫开放走廊. **"
+	}
+	"** 5 SECONDS LEFT **"
+	{
+		"trans"		"** 剩余5秒 **"
+	}
+	"** A player has learned Wind magick. **"
+	{
+		"trans"		"** 一名玩家捡起了飓风法杖 **"
+	}
+	"[ADMIN] Added [INSANE DIFFICULTY] for next round."
+	{
+		"trans"		"** 狗管理为下一轮增加[疯狂 - 二周目] **"
+	}
+	"** Defend here so the guards will open the gates to the city ! **"
+	{
+		"trans"		"** 守住这里，卫兵将打开通往城市的大门! **"
+	}
+	"** [INSANE DIFFICULTY ADDED] **"
+	{
+		"trans"		"** [疯狂 - 二周目]启动 **"
+	}
+	"** A player has learned Fire magick. **"
+	{
+		"trans"		"** 一名玩家捡起了火焰法杖 **"
+	}
+	"** A player has learned Water magick. **"
+	{
+		"trans"		"** 一名玩家捡起了水淨法杖 **"
+	}
+	"[ADMIN] Selected [GOD MODE] for next round."
+	{
+		"trans"		"** 狗管理选择下一局为天神模式 **"
+	}
+	"** A player has learned Earth magick. **"
+	{
+		"trans"		"** 一名玩家捡起了大地法杖 **"
+	}
+	"[ADMIN] Removed [INSANE DIFFICULTY] for next round."
+	{
+		"trans"		"** 狗管理移除了下一轮增加[疯狂 - 二周目] **"
+	}
+	"[ADMIN] Has set [EVENT MODE] for this map. Restarting round in 5 seconds."
+	{
+		"trans"		"** 狗管理选择最终模式.5秒后重新开始. **"
+	}
+	"** [GOD MODE] **"
+	{
+		"trans"		"** 天神难度 **"
+	}
+	"[ADMIN] Selected [HARD MODE] for next round."
+	{
+		"trans"		"** 狗管理选择下一局为困难难度 **"
+	}
+	"** Cover here till the boxes explode **"
+	{
+		"trans"		"** 守住这里直到箱子爆炸(小心被爆炸波及) **"
+	}
+	"** The first door will open in 10 seconds **"
+	{
+		"trans"		"** 第一道门10秒后打开 **"
+	}
+	"** The second door will open in 15 seconds **"
+	{
+		"trans"		"** 第二道门15秒后打开 **"
+	}
+	"** Keep defending!! **"
+	{
+		"trans"		"** 继续防守!! **"
+	}
+	"** FIRE NOVA INBOUND **"
+	{
+		"trans"		"** 大火来袭 **"
+	}
+	"** USE WATER TO DODGE IT  **"
+	{
+		"trans"		"** 使用水净法杖来解决它 **"
+	}
+	"** METEOR INBOUND **"
+	{
+		"trans"		"** 陨石到来 **"
+	}
+	"** USE ELECTRO TO BREAK IT **"
+	{
+		"trans"		"** 使用雷电法杖击碎陨石 **"
+	}
+	"** The dragon has been defeated **"
+	{
+		"trans"		"** 龙已经被打败了 **"
+	}
+	"** Bomb planted - hold 30 seconds **"
+	{
+		"trans"		"** 守住30秒直到石头爆炸 **"
+	}
+	"** 10 more seconds until explosion **"
+	{
+		"trans"		"** 石头10秒后爆炸 **"
+	}
+	"** Go to the end of the road ! **"
+	{
+		"trans"		"** 去到路的尽头! **"
+	}
+	"** 60 SECS REMAINING **"
+	{
+		"trans"		"** 剩余60秒 **"
+	}
+	"** 50 SECS REMAINING **"
+	{
+		"trans"		"** 剩余50秒 **"
+	}
+	"** 40 SECS REMAINING **"
+	{
+		"trans"		"** 剩余40秒 **"
+	}
+	"** 30 SECS REMAINING **"
+	{
+		"trans"		"** 剩余30秒 **"
+	}
+	"** 20 SECS REMAINING **"
+	{
+		"trans"		"** 剩余20秒 **"
+	}
+	"** 10 SECS REMAINING **"
+	{
+		"trans"		"** 剩余10秒 **"
+	}
+	"** 5 SECS REMAINING **"
+	{
+		"trans"		"** 剩余5秒 **"
+	}
+	"** Congratulations - You won [HARD] **"
+	{
+		"trans"		"** 恭喜-你通过了困难难度 **"
+	}
+	"** [EXTREME MODE] **"
+	{
+		"trans"		"** 极限难度 **"
+	}
+	"** Hold 20 seconds until the door opens **"
+	{
+		"trans"		"** 大门20秒后打开 **"
+	}
+	"** 5 SECONDS REMAINING **"
+	{
+		"trans"		"** 剩余5秒 **"
+	}
+	"** You may enter the tomb in 15 seconds **"
+	{
+		"trans"		"** 我们15秒后进入坟墓 **"
+	}
+	"** The doors will open in 25 seconds **"
+	{
+		"trans"		"** 大门25秒后打开 **"
+	}
+	"** The doors will open in 5 seconds **"
+	{
+		"trans"		"** 大门5秒后打开 **"
+	}
+	"** The next door opens in 15 seconds **"
+	{
+		"trans"		"** 下一扇大门15秒后打开 **"
+	}
+	"** A random way will open in 10 seconds **"
+	{
+		"trans"		"** 10秒后出现一条随机通道 **"
+	}
+	"** Boss Fight in 10s **"
+	{
+		"trans"		"** BOSS将于10秒后觉醒 **"
+	}
+	"** Boss Fight in 5s **"
+	{
+		"trans"		"** BOSS将于5秒后觉醒 **"
+	}
+	"** Belias is immune for fire and nades **"
+	{
+		"trans"		"** 贝利亚斯对火和手雷是免疫的(手雷更会加血) **"
+	}
+	"** Belias is defeated - Escape the tomb ! **"
+	{
+		"trans"		"** 贝利亚斯已倒下-逃离坟墓 **"
+	}
+	"[ADMIN] Selected [EPIC MODE] for next round."
+	{
+		"trans"		"** 狗管理选择下一局为史诗难度 **"
+	}
+	"** [EPIC MODE] **"
+	{
+		"trans"		"** 史诗难度 **"
+	}
+	"** Teleporters will be ready in 20 seconds ! **"
+	{
+		"trans"		"** 传送器20秒后准备好! **"
+	}
+	"** Teleporters will be ready in 5 seconds ! **"
+	{
+		"trans"		"** 传送器5秒后准备好! **"
+	}
+	"** Gates will open in 15 seconds **"
+	{
+		"trans"		"** 大门15秒后打开 **"
+	}
+	"** The arena will open in 20 seconds **"
+	{
+		"trans"		"** 竞技场大门20秒后打开 **"
+	}
+	"** Nades do more damage (2s) **"
+	{
+		"trans"		"** 2秒内手雷能造成大量伤害 **"
+	}
+	"** The guardians are defeated - Escape ! **"
+	{
+		"trans"		"** 守护者已被击败 - 逃回入口! **"
+	}
+	"** ZOMBIE JAIL OPEN ! **"
+	{
+		"trans"		"** 僵尸笼已开放 **"
+	}
+	"** The final gate will open in 40 seconds **"
+	{
+		"trans"		"** 最后大门40秒后打开 **"
+	}
+	"** The final gate will open in 5 seconds **"
+	{
+		"trans"		"** 最后大门5秒后打开 **"
+	}
+	"** The fence will break in 5s **"
+	{
+		"trans"		"** 围栏5秒后碎裂 **"
+	}
+	"** The airship reactors are going to explode !! **"
+	{
+		"trans"		"** 飞艇反应堆即将爆炸!!! **"
+	}
+	"** Chaos has been defeated - RUN !!!!! **"
+	{
+		"trans"		"** 轮回王已倒下 — 跑!!!!! **"
+	}
+	"** Congratulations - You won [EPIC] **"
+	{
+		"trans"		"** 恭喜-你通过了史诗难度 **"
+	}
+	"** Congratulations - You won [GODMODE] **"
+	{
+		"trans"		"** 恭喜-你通过了天神难度(SOLO才是真正的通关) **"
+	}
+	"** THANKS FOR PLAYING **"
+	{
+		"trans"		"** 感谢参与 **"
+	}
+	"** [ZM MODE] **"
+	{
+		"trans"		"** ZM模式 **"
+	}
+	"** NUKE IN 200 SECONDS **"
+	{
+		"trans"		"** 剩余200秒核爆 **"
+	}
+	"** NUKE IN 180 SECONDS **"
+	{
+		"trans"		"** 剩余180秒核爆 **"
+	}
+	"** NUKE IN 160 SECONDS **"
+	{
+		"trans"		"** 剩余160秒核爆 **"
+	}
+	"** NUKE IN 140 SECONDS **"
+	{
+		"trans"		"** 剩余140秒核爆 **"
+	}
+	"** NUKE IN 120 SECONDS **"
+	{
+		"trans"		"** 剩余120秒核爆 **"
+	}
+	"** NUKE IN 100 SECONDS **"
+	{
+		"trans"		"** 剩余100秒核爆 **"
+	}
+	"** NUKE IN 80 SECONDS **"
+	{
+		"trans"		"** 剩余80秒核爆 **"
+	}
+	"** NUKE in 60 seconds **"
+	{
+		"trans"		"** 剩余60秒核爆 **"
+	}
+	"** NUKE IN 40 SECONDS **"
+	{
+		"trans"		"** 剩余40秒核爆 **"
+	}
+	"** TELEPORTING EVERYONE TO CHOCOBORACE IN 10 SEC **"
+	{
+		"trans"		"** 10秒后将全部人传送去陆行鸟跑道 **"
+	}
+	"** TELEPORTING EVERYONE TO CHOCOBORACE **"
+	{
+		"trans"		"** 全部人传送去陆行鸟跑道 **"
+	}
+	"** ZOMBIES RELEASED IN 2 SECS **"
+	{
+		"trans"		"** 僵尸在2秒后解放 **"
+	}
+	"** NUKE IN 20 SECONDS **"
+	{
+		"trans"		"** 剩余20秒核爆 **"
+	}
+	"[WINNER] Selected [GOD MODE] for next round."
+	{
+		"trans"		"** 通过者选择天神难度进行下一关 **"
+	}
+	"** NUKE IN 10 SECONDS **"
+	{
+		"trans"		"** 剩余10秒核爆 **"
+	}
+	"** Nades do more damage (8s) **"
+	{
+		"trans"		"** 8秒内手雷能造成大量伤害 **"
+	}
+	"[ADMIN] Restarting round in 5 seconds."
+	{
+		"trans"		"** 狗管理把关卡5秒后重新开始 **"
+	}
+	"[ADMIN] Selected [EXTREME MODE] for next round."
+	{
+		"trans"		"** 狗管理选择下一局为极限难度 **"
+	}
+	"** The main door opens in 25 seconds **"
+	{
+		"trans"		"** 大门25秒后打开 **"
+	}
+	"** The main door opens in 5 seconds **"
+	{
+		"trans"		"** 大门5秒后打开 **"
+	}
+	"** Final door opens in 10 seconds! **"
+	{
+		"trans"		"** 最后大门10秒后开启 **"
+	}
+	"** Teleporter will be ready in 10 seconds ! **"
+	{
+		"trans"		"** 传送器10秒后准备好! **"
+	}
+	"** Teleporter will be ready in 5 seconds ! **"
+	{
+		"trans"		"** 传送器5秒后准备好! **"
+	}
+	"** Congratulations - You won [EXTREME] **"
+	{
+		"trans"		"** 恭喜-你通过了极限难度 **"
+	}
+	"** Nades do more damage (4s) **"
+	{
+		"trans"		"** 8秒内手雷能造成大量伤害 **"
+	}
+	"[ADMIN] Selected [ZM MODE] for next round."
+	{
+		"trans"		"** 狗管理选择下一局为ZM模式 **"
+	}
+	"[WINNER] Selected [HARD MODE] for next round."
+	{
+		"trans"		"** 通过者选择困难难度进行下一关 **"
+	}
+	"** Congratulations - You won [HARD - INSANE] **"
+	{
+		"trans"		"** 恭喜-你通过了[困难难度-疯狂] **"
+	}
+	"** You have failed... **"
+	{
+		"trans"		"** 你失败了... **"
+	}
+	"** Congratulations - You won [EXTREME - INSANE] **"
+	{
+		"trans"		"** 恭喜-你通过了[极限难度-疯狂] **"
+	}
+	"** Congratulations - You won [EPIC - INSANE] **"
+	{
+		"trans"		"** 恭喜-你通过了[史诗难度-疯狂] **"
+	}
+	"** Congratulations - You won [GODMODE - INSANE] **"
+	{
+		"trans"		"** 恭喜-你通过了[上帝难度-疯狂](SOLO才是真正的通关) **"
+	}
+	"[WINNER] Selected [EXTREME MODE] for next round."
+	{
+		"trans"		"** 通过者选择极限难度进行下一关 **"
+	}
+	"[WINNER] Selected [EPIC MODE] for next round."
+	{
+		"trans"		"** 通过者选择史诗难度进行下一关 **"
+	}
+	"** Zombies Have Escaped **"
+	{
+		"trans"		"** 僵尸已经逃脱 **"
+	}
+	"** We have a Godmode SoloWinner ! **"
+	{
+		"trans"		"** 我们有一1名玩家solo了天神难度 **"
+	}
+}
