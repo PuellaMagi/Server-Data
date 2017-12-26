@@ -26,7 +26,7 @@
 	}
 	"** A player has learned Heal magick. **"
 	{
-		"trans"		"** 一名玩家捡起了补给法杖. **"
+		"trans"		"** 一名玩家捡起了治愈法杖. **"
 	}
 	"** Defend 30 seconds until the guards open the hallway. **"
 	{

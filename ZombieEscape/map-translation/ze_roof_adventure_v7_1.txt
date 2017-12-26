@@ -1,0 +1,1183 @@
+"Chat"
+{
+	"***Map By Color!***"
+	{
+		"trans"		"** 地图作者Color[酸奶]！ 翻译Laser **"
+	}
+	"***Current Mode:[Easy]***"
+	{
+		"trans"		"** 当前关卡：简单 **"
+	}
+	"***Welcome to roof adventure!***"
+	{
+		"trans"		"** 欢迎来到屋顶大冒险！ **"
+	}
+	"*A player has picked health element[Lv1]!*"
+	{
+		"trans"		"** 一名玩家捡起了奶[LV1]！ **"
+	}
+	"***The wood door will break in 30s!***"
+	{
+		"trans"		"** 木门将于30秒后破坏！ **"
+	}
+	"*hold for 45 seconds!*"
+	{
+		"trans"		"** 守住45秒！ **"
+	}
+	"***All zombies will be teleported in 9s!***"
+	{
+		"trans"		"** 所有僵尸将会在9秒后传送！ **"
+	}
+	"***Hold for 15s!***"
+	{
+		"trans"		"** 守住15秒！ **"
+	}
+	"***Hold for 30s!***"
+	{
+		"trans"		"** 守住30秒！ **"
+	}
+	"***Rock monster will appear in 20 seconds!***"
+	{
+		"trans"		"** 岩石怪物将会在20秒后出现！ **"
+	}
+	"***Shoot rock monster!***"
+	{
+		"trans"		"** 射击岩石怪物！ **"
+	}
+	"***Rock monster will attack in 5 seconds!***"
+	{
+		"trans"		"** 岩石怪物将会在5秒后攻击！ **"
+	}
+	"***Rock monster has been defeated!Go!***"
+	{
+		"trans"		"** 岩石怪物已经被打败了！快走！ **"
+	}
+	"***Humans will be teleported in 2s!***"
+	{
+		"trans"		"** 人类将会在2秒后传送！ **"
+	}
+	"***The wood will break in 5s!***"
+	{
+		"trans"		"** 木头将会在5秒后破坏！ **"
+	}
+	"***All zombies will be teleported in 10s!***"
+	{
+		"trans"		"** 所有僵尸将会在10秒后传送！ **"
+	}
+	"***Hold for 35s!***"
+	{
+		"trans"		"** 守住35秒！ **"
+	}
+	"***Enter the safe room!The nuke will be started in 10 seconds!***"
+	{
+		"trans"		"** 进入安全的房间！核武器将于10秒后降临！ **"
+	}
+	"***5***"
+	{
+		"trans"		"** 5 **"
+	}
+	"***4***"
+	{
+		"trans"		"** 4 **"
+	}
+	"***3***"
+	{
+		"trans"		"** 3 **"
+	}
+	"***2***"
+	{
+		"trans"		"** 2 **"
+	}
+	"***1***"
+	{
+		"trans"		"** 1 **"
+	}
+	"***Level completes!Next level is [Normal]***"
+	{
+		"trans"		"** 本关难度完成！下一难度：普通 **"
+	}
+	"***Current Mode:[Normal]***"
+	{
+		"trans"		"** 当前关卡：普通 **"
+	}
+	"*A player has picked health element[Lv2]!*"
+	{
+		"trans"		"** 一名玩家捡起了奶[LV2]！ **"
+	}
+	"***A player has picked rock element!***"
+	{
+		"trans"		"** 一名玩家捡起了土！ **"
+	}
+	"*A zombie has picked speed element!*"
+	{
+		"trans"		"** 一名僵尸捡起了加速！ **"
+	}
+	"***Hold for 30 seconds!***"
+	{
+		"trans"		"** 守住30秒！ **"
+	}
+	"***GO!GO!GO!***"
+	{
+		"trans"		"** 快跑！ **"
+	}
+	"***The wood door will break in 20s!***"
+	{
+		"trans"		"** 木门将于20秒后破坏！ **"
+	}
+	"***Keep care of zombies!***"
+	{
+		"trans"		"** 注意僵尸！ **"
+	}
+	"*A player has picked lighting element!*"
+	{
+		"trans"		"** 一名玩家捡起了电！ **"
+	}
+	"***All zombies will be teleported in 9 seconds!***"
+	{
+		"trans"		"** 所有僵尸将会在9秒后传送！ **"
+	}
+	"***Rock monster used electron!***"
+	{
+		"trans"		"** 岩石怪物使用了电！（按蹲下躲避！）**"
+	}
+	"***Rock monster used rock!Break it!***"
+	{
+		"trans"		"** 岩石怪物使用了土！打破它！ **"
+	}
+	"***Rock monster used left-fire!***"
+	{
+		"trans"		"** 岩石怪物使用了火！(往平台的右边躲避！） **"
+	}
+	"***Rock monster used water!***"
+	{
+		"trans"		"** 岩石怪物使用了水！（快跑到平台的最后面躲避！） **"
+	}
+	"***Level completes!Next level is [Hard]***"
+	{
+		"trans"		"** 本关难度完成！下一难度：困难 **"
+	}
+	"***Current Mode:[Hard]***"
+	{
+		"trans"		"** 当前关卡：困难 **"
+	}
+	"***Some barriers will disappear!***"
+	{
+		"trans"		"** 部分障碍将会消失！ **"
+	}
+	"***Laser slash are activated!***"
+	{
+		"trans"		"** 激光刀将会被激活！ **"
+	}
+	"*A player has picked health element[Lv3]!*"
+	{
+		"trans"		"** 一名玩家捡起了奶[LV3]！ **"
+	}
+	"*A player has picked fire element!*"
+	{
+		"trans"		"** 一名玩家捡起了火！ **"
+	}
+	"***A player has picked ultimate element!***"
+	{
+		"trans"		"** 一名玩家捡起了终极！ **"
+	}
+	"***A zombie has picked flame buffet! ***"
+	{
+		"trans"		"** 一名僵尸捡起了火！ **"
+	}
+	"***Damage 30 hp(if you touch) and make humans speed slow! ***"
+	{
+		"trans"		"** 损失30HP(如果你碰到了)并使你的速度降低！ **"
+	}
+	"***Hold here for 30s!***"
+	{
+		"trans"		"** 守住30秒！ **"
+	}
+	"***Resist for 25s!***"
+	{
+		"trans"		"** 守住25秒！ **"
+	}
+	"***The ulimate will start in 14 seconds!***"
+	{
+		"trans"		"** 终极将在14秒后盛放！ **"
+	}
+	"***Rock monster used backward-push!***"
+	{
+		"trans"		"** 岩石怪物使用了往后推！（往前方走！） **"
+	}
+	"***Rock monster used right-push!***"
+	{
+		"trans"		"** 岩石怪物使用了往右推！（往左边走！） **"
+	}
+	"***Rock monster used electrion!***"
+	{
+		"trans"		"** 岩石怪物使用了电！（按蹲下躲避！） **"
+	}
+	"***Rock monster used fire!***"
+	{
+		"trans"		"** 岩石怪物使用了火！ **"
+	}
+	"***Level completes!Next level is [Extreme]***"
+	{
+		"trans"		"** 当前难度通过！下一难度：极限 **"
+	}
+	"***Current Mode:[Extreme]***"
+	{
+		"trans"		"** 当前关卡：极限 **"
+	}
+	"***Constant sky fire will appear in some areas!***"
+	{
+		"trans"		"** 天火模式开启！ **"
+	}
+	"*A player has picked health element[Lv4]!*"
+	{
+		"trans"		"** 一名玩家捡起了奶[LV4]！ **"
+	}
+	"***The wood door will break in 40s!***"
+	{
+		"trans"		"** 木门将于40秒后破坏！ **"
+	}
+	"***All zombies will be teleported in 9s!!***"
+	{
+		"trans"		"** 所有僵尸将会在9秒后传送！ **"
+	}
+	"***Find the green glow to activate the wood bed!***"
+	{
+		"trans"		"** 找到绿色光芒来激活木床！ **"
+	}
+	"***The wood bed will move in 10s!***"
+	{
+		"trans"		"** 木床10秒后激活！ **"
+	}
+	"***Zombies are in win-room,level fails!***"
+	{
+		"trans"		"** 检测到僵尸在终点门内！本关失败！ **"
+	}
+	"***Boss will use ulimate in 5 seconds!***"
+	{
+		"trans"		"** 岩石怪物的终极将会在5秒后降下！ **"
+	}
+	"***Rock monster used right-fire!***"
+	{
+		"trans"		"** 岩石怪物使用了火！(往平台的左边躲避！) **"
+	}
+	"***All zombies will come in 10s!***"
+	{
+		"trans"		"** 所有僵尸将会在10秒后传送！ **"
+	}
+	"***Rock monster used forward-push!***"
+	{
+		"trans"		"** 岩石怪物使用了往前推！（往後方走！） **"
+	}
+	"***Rock monster used left-push!***"
+	{
+		"trans"		"** 岩石怪物使用了往左推！（往右边走！） **"
+	}
+	"***(Admin)Next mode:[Extreme]***"
+	{
+		"trans"		"** 管理员把难度调整为极限 **"
+	}
+	"***(Admin)Next mode:[Normal]***"
+	{
+		"trans"		"** 管理员把难度调整为普通 **"
+	}
+	"***(Admin)Next mode:[Hard]***"
+	{
+		"trans"		"** 管理员把难度调整为困难 **"
+	}
+	"***Rock monster will use right-push in 3s!***"
+	{
+		"trans"		"** 岩石怪物将会在3秒后使用往右推！（往左边走！） **"
+	}
+	"***Rock monster will use left-push in 3s!***"
+	{
+		"trans"		"** 岩石怪物将会在3秒后使用往左推！（往右边走！） **"
+	}
+	"***Rock monster will use forward-push in 3s!***"
+	{
+		"trans"		"** 岩石怪物将会在3秒后使用往前推！（往後方走！） **"
+	}
+	"***Rock monster will use backward-push in 3s!***"
+	{
+		"trans"		"** 岩石怪物将会在3秒后使用往后推！（往前方走！） **"
+	}
+	"***Boss will use ulimate in 5s!***"
+	{
+		"trans"		"** 岩石怪物的终极将会在5秒后降下！ **"
+	}
+	"***Level completes!You win the roof adventure!***"
+	{
+		"trans"		"** 本关难度完成！你通过了屋顶大冒险！ **"
+	}
+	"***Map By Color[Suan Nai]!***"
+	{
+		"trans"		"** 地图作者Color[酸奶]! 翻译Laser **"
+	}
+	"***Wood door will break in 30s!***"
+	{
+		"trans"		"** 木门将于30秒后破坏！ **"
+	}
+	"***5s left!***"
+	{
+		"trans"		"** 剩下5秒左右！ **"
+	}
+	"***A human has picked up health!***"
+	{
+		"trans"		"** 一名玩家捡起了奶！ **"
+	}
+	"***Wood door will break in 40s!***"
+	{
+		"trans"		"** 木门将于40秒后破坏！ **"
+	}
+	"***Boss will destroy us in 5s!***"
+	{
+		"trans"		"** 岩石怪物将在5秒后摧毁我们！ **"
+	}
+	"***Enter the safe room!The nuke will launcher in 10s!***"
+	{
+		"trans"		"** 进入安全的房间！核武器将于10秒后降临！ **"
+	}
+	"***A human has picked up rock!***"
+	{
+		"trans"		"** 一名玩家捡起了土！ **"
+	}
+	"***A human has picked up fire!***"
+	{
+		"trans"		"** 一名玩家捡起了火！ **"
+	}
+	"***A zombie has picked up accelerate!***"
+	{
+		"trans"		"** 一名僵尸捡起了加速！ **"
+	}
+	"***A human has picked up lightning!***"
+	{
+		"trans"		"** 一名玩家捡起了电！ **"
+	}
+	"***Rock monster uses movable fire!***"
+	{
+		"trans"		"** 岩石怪物使用了会移动的火！ **"
+	}
+	"***Rock monster uses rock!Break it!***"
+	{
+		"trans"		"** 岩石怪物使用了土！打破它！ **"
+	}
+	"***Rock monster uses lightning!***"
+	{
+		"trans"		"** 岩石怪物使用了电！（按蹲下躲避！） **"
+	}
+	"***Rock monster uses entire fire!***"
+	{
+		"trans"		"** 怪物使用了大火！ **"
+	}
+	"***Rock monster uses water!***"
+	{
+		"trans"		"** 岩石怪物使用了水！（快跑到平台的最后面躲避！） **"
+	}
+	"***Color correction is enable!***"
+	{
+		"blocked"		"1"
+	}
+	"***Input mat_correction 0 in console to close!***"
+	{
+		"blocked"		"1"
+	}
+	"***Fantastic mode will start after 4 rounds if humans fail in hard mode ***"
+	{
+		"trans"		"** 如果人类在困难模式失败4次，那么就会开启梦幻模式 **"
+	}
+	"***Round left:3***"
+	{
+		"blocked"		"1"
+	}
+	"***A human has picked up ultimate!***"
+	{
+		"trans"		"** 一名玩家捡起了终极！ **"
+	}
+	"***A zombie has picked up fireball! ***"
+	{
+		"trans"		"** 一名僵尸捡起了火球！ **"
+	}
+	"***Hold here for 40s!***"
+	{
+		"trans"		"** 守住40秒！ **"
+	}
+	"***Round left:2 ***"
+	{
+		"blocked"		"1"
+	}
+	"***The ultimate will start in 14 seconds!***"
+	{
+		"trans"		"** 终极将在14秒后盛放！ **"
+	}
+	"***Round left:1***"
+	{
+		"blocked"		"1"
+	}
+	"***Fantastic mode will start in next round if humans fail in hard mode! ***"
+	{
+		"trans"		"** 如果人类在困难模式失败，下一局将会是梦幻模式！ **"
+	}
+	"***Current Mode:[Fantastic]***"
+	{
+		"trans"		"** 当前模式：梦幻 **"
+	}
+	"***Select a mode in 8s!***"
+	{
+		"trans"		"** 请在8秒内选择一种模式！ **"
+	}
+	"***Push mode will start in 10s***"
+	{
+		"trans"		"** 推力模式将于10秒后开启 **"
+	}
+	"***Winners can get 250 points!***"
+	{
+		"trans"		"** 获胜者可获得250分！ **"
+	}
+	"***Gravity mode will start in 10s***"
+	{
+		"trans"		"** 重力模式将于10秒后开始 **"
+	}
+	"***Winners can get 200 points!***"
+	{
+		"trans"		"** 获胜者可获得200分！ **"
+	}
+	"***A zombie has picked up gravity!***"
+	{
+		"trans"		"** 一名僵尸捡起了重力！ **"
+	}
+	"***A human has picked up laserwall!***"
+	{
+		"trans"		"** 一名玩家捡起了激光墙！ **"
+	}
+	"***A zombie has picked up poison!***"
+	{
+		"trans"		"** 一名僵尸捡起了毒！ **"
+	}
+	"***A human has picked up spark!***"
+	{
+		"trans"		"** 一名玩家捡起了火花！ **"
+	}
+	"***A human has picked up chicken!***"
+	{
+		"trans"		"** 一名玩家捡起了鸡！ **"
+	}
+	"***A human has picked up unlimited ammo!***"
+	{
+		"trans"		"** 一名玩家捡起了无限弹药！ **"
+	}
+	"***A human has picked up hostage!***"
+	{
+		"trans"		"** 一名玩家捡起了人质！ **"
+	}
+	"***A zombie has picked up decelerate-boss!***"
+	{
+		"trans"		"** 一名僵尸捡起了减速怪物！ **"
+	}
+	"***The wood will break in 40s!***"
+	{
+		"trans"		"** 木材将于40秒后破坏！ **"
+	}
+	"***A zombie has picked up immune-boss!***"
+	{
+		"trans"		"** 一名僵尸捡起了免疫怪物！ **"
+	}
+	"***A zombie has picked up accelerate-boss!***"
+	{
+		"trans"		"** 一名僵尸捡起了加速怪物！ **"
+	}
+	"***Surf mode will start in 10s***"
+	{
+		"trans"		"** 滑翔模式将于10秒后开始 **"
+	}
+	"***Winners can get 400 points!***"
+	{
+		"trans"		"** 获胜者可获得400分！ **"
+	}
+	"***Zombies wall will break in 20s!***"
+	{
+		"trans"		"** 僵尸的空气墙将于20秒后破坏！ **"
+	}
+	"***Teleport all zombies in 30s!***"
+	{
+		"trans"		"** 所有僵尸在30秒后传送！ **"
+	}
+	"***Find a place to hold for 60s! ***"
+	{
+		"trans"		"** 找一个地方守60秒！ **"
+	}
+	"***Zombies will come in 20s!***"
+	{
+		"trans"		"** 僵尸将会在20秒后进攻！ **"
+	}
+	"***Wall will break in 15s!***"
+	{
+		"trans"		"** 墙将会在15秒后破坏！ **"
+	}
+	"***All zombies will come in 20s!***"
+	{
+		"trans"		"** 所有僵尸在20秒后传送！ **"
+	}
+	"***Hold here for 45s!***"
+	{
+		"trans"		"** 守住45秒！ **"
+	}
+	"***Dark mode will start in 10s***"
+	{
+		"trans"		"** 黑暗模式将于10秒后开始 **"
+	}
+	"***This mode is difficult.Get ready!***"
+	{
+		"trans"		"** 这个模式很困难！准备好！ **"
+	}
+	"***Winners can get 600 points!***"
+	{
+		"trans"		"** 获胜者可获得600分！ **"
+	}
+	"***A zombie has picked up hurt-boss!***"
+	{
+		"trans"		"** 一名僵尸捡起了伤害怪物！ **"
+	}
+	"***Ready for push in 40s!***"
+	{
+		"trans"		"** 准备40秒！ **"
+	}
+	"***All zombies will come in 9s!***"
+	{
+		"trans"		"** 所有僵尸在9秒后传送！ **"
+	}
+	"***Laser mode will start in 10s***"
+	{
+		"trans"		"** 激光刀模式将于10秒后开始 **"
+	}
+	"***Some tips***"
+	{
+		"trans"		"** 部分提示 **"
+	}
+	"***Tip 1:Red laser can add hp!***"
+	{
+		"trans"		"** 提示1：红色激光刀是增加血量！ **"
+	}
+	"***Tip 2:Blue laser can hurt hp!***"
+	{
+		"trans"		"** 提示2：蓝色激光刀是损失血量！ **"
+	}
+	"***Tip 3:Purple laser can reduce speed!***"
+	{
+		"trans"		"** 提示3：紫色激光刀是降低速度！ **"
+	}
+	"***Tip 4:Green laser can teleport!***"
+	{
+		"trans"		"** 提示4：绿色激光刀是传送回家！ **"
+	}
+	"***Tip 5:Humans and zombies will be immune at the beginning,but not in the last!***"
+	{
+		"trans"		"** 提示5：人类和僵尸在一开始时免疫！但最后并不是！ **"
+	}
+	"***Laser slash will appear in 5s***"
+	{
+		"trans"		"** 激光斜刀将于5秒后出现！ **"
+	}
+	"***Get ready for next lasers in 10s!***"
+	{
+		"trans"		"** 准备好应付下一次的激光刀！ **"
+	}
+	"***Great!Hold for 20s!***"
+	{
+		"trans"		"** 很好！守住20秒！ **"
+	}
+	"***The teleportion has been activated!***"
+	{
+		"trans"		"** 传送已被激活！ **"
+	}
+	"***The last door will close in 30s!***"
+	{
+		"trans"		"** 最后的门将于30秒后关闭！ **"
+	}
+	"***All players will be teleported in 2s!***"
+	{
+		"trans"		"** 2秒后传送所有人！ **"
+	}
+	"***Do not allow zombies to enter the door!***"
+	{
+		"trans"		"** 别让僵尸进这门！ **"
+	}
+	"***Humans and zombies are not immune now!***"
+	{
+		"trans"		"** 人类和僵尸现在不免疫！ **"
+	}
+	"***ZM mode will start in 10s***"
+	{
+		"trans"		"** ZM模式将于10秒后开始 **"
+	}
+	"***Zombies will come in 15s!***"
+	{
+		"trans"		"** 僵尸将于15秒后出现！ **"
+	}
+	"***Hold for 150s!***"
+	{
+		"trans"		"** 守住150秒！ **"
+	}
+	"***2 minutes left!***"
+	{
+		"trans"		"** 剩余2分钟！ **"
+	}
+	"***Christmas mode will start in 10s***"
+	{
+		"trans"		"** 圣诞节模式将于10秒后开始 **"
+	}
+	"***A human has picked up bombs!***"
+	{
+		"trans"		"** 一名玩家捡起了地雷！ **"
+	}
+	"***Hold here for 35s!***"
+	{
+		"trans"		"** 守住35秒！ **"
+	}
+	"***Ladder will be activated in 45s!***"
+	{
+		"trans"		"** 梯子将于45秒后激活！ **"
+	}
+	"***Window will break in 45s!***"
+	{
+		"trans"		"** 窗户将于45秒后破坏！ **"
+	}
+	"***Hold gift for last 45s!***"
+	{
+		"trans"		"** 守住礼物45秒！ **"
+	}
+	"***Great!Level completes!***"
+	{
+		"trans"		"** 很好！关卡完成！ **"
+	}
+	"***Noob mode will start in 10s***"
+	{
+		"trans"		"** 新手模式将于10秒后开始 **"
+	}
+	"***Winners can get 50 points!***"
+	{
+		"trans"		"** 获胜者可获得50分！ **"
+	}
+	"***Hold for 45s!***"
+	{
+		"trans"		"** 守住45秒！ **"
+	}
+	"***Hold for 60s!***"
+	{
+		"trans"		"** 守住60秒！ **"
+	}
+	"***10s left!***"
+	{
+		"trans"		"** 剩余10秒！ **"
+	}
+	"***Congratulations!You are not a noob now!***"
+	{
+		"trans"		"** 恭喜！你现在已脱离新手了！ **"
+	}
+	"***Parkour mode will start in 10s***"
+	{
+		"trans"		"** 跑酷模式将于10秒后开始 **"
+	}
+	"***Winners can get 300 points!***"
+	{
+		"trans"		"** 获胜者可获得300分！ **"
+	}
+	"***Zombies will come in 10s!***"
+	{
+		"trans"		"** 僵尸将于10秒后出现！ **"
+	}
+	"***1 minutes left!***"
+	{
+		"trans"		"** 剩余1分钟！ **"
+	}
+	"***4s left!***"
+	{
+		"trans"		"** 4 **"
+	}
+	"***3s left!***"
+	{
+		"trans"		"** 3 **"
+	}
+	"***2s left!***"
+	{
+		"trans"		"** 2 **"
+	}
+	"***1s left!***"
+	{
+		"trans"		"** 1 **"
+	}
+	"***Hard mode will start in next round***"
+	{
+		"trans"		"** 困难模式将会在下一局开始 **"
+	}
+	"***Kill all humans and zombies!***"
+	{
+		"trans"		"** 杀死所有的人类和僵尸！ **"
+	}
+	"***(Admin)Next mode:[Fantastic]***"
+	{
+		"trans"		"** 管理员把关卡调整为梦幻模式 **"
+	}
+	"***Great!Hold for 55s!***"
+	{
+		"trans"		"** 很好！守住55秒！ **"
+	}
+	"***Jump to the cross!***"
+	{
+		"trans"		"** 跳到十字上！ **"
+	}
+	"***Red cross will move in 5s!***"
+	{
+		"trans"		"** 紅十字将于5秒后移动！ **"
+	}
+	"***You are cool!***"
+	{
+		"trans"		"** 你很酷！ **"
+	}
+	"***Jump above the chicken!***"
+	{
+		"trans"		"** 跳到鸡的上面！ **"
+	}
+	"***Hold the chicken for last 65s!***"
+	{
+		"trans"		"** 守住这只鸡65秒！ **"
+	}
+	"***Hold here for 25s or complete last surf!***"
+	{
+		"trans"		"** 在这里死守25秒或通过滑翔！ **"
+	}
+	"***Level completes!***"
+	{
+		"trans"		"** 本关完成！ **"
+	}
+	"***Congratulations!You win the laser mode!***"
+	{
+		"trans"		"** 恭喜！你通过了激光刀模式！ **"
+	}
+	"***A human will shine the roof!***"
+	{
+		"trans"		"** 将会有一名人类照耀屋顶！ **"
+	}
+	"***Find a place to hold for 45s! ***"
+	{
+		"trans"		"** 找到一个地方守住45秒！ **"
+	}
+	"***Thanks for Kaemon and Hannibal[SPA]!***"
+	{
+		"trans"		"** 感谢 Kaemon and Hannibal[SPA]! **"
+	}
+	"***The White Knight has come down!***"
+	{
+		"trans"		"** 白骑士来了！ **"
+	}
+	"***Balrog is already firing the roof!***"
+	{
+		"trans"		"** 发现炎魔在屋顶！射击！ **"
+	}
+	"***Green arrows can accelerate!***"
+	{
+		"trans"		"** 绿色箭头可以加速！ **"
+	}
+	"***Yellow arrows can decelerate!***"
+	{
+		"trans"		"** 黄色箭头会减速！ **"
+	}
+	"***Red cross can add hp!***"
+	{
+		"trans"		"** 红十字可以加血！ **"
+	}
+	"***Heros never die!***"
+	{
+		"trans"		"** 英雄永不死！ **"
+	}
+	"***Map By Color[酸奶]!***"
+	{
+		"trans"		"** 地图作者Color[酸奶]！ 翻译Laser **"
+	}
+	"***Zombies will come in 12s!***"
+	{
+		"trans"		"** 僵尸将于12秒后出现！ **"
+	}
+	"***Current Level:[Easy]***"
+	{
+		"trans"		"** 当前关卡：简单 **"
+	}
+	"***Wood door will break in 20s!***"
+	{
+		"trans"		"** 木门将于20秒后破坏！ **"
+	}
+	"***Rock monster will attack in 5s!***"
+	{
+		"trans"		"** 岩石怪物将会在5秒后攻击！ **"
+	}
+	"***Hold for 25s!***"
+	{
+		"trans"		"** 守住25秒！ **"
+	}
+	"***Do not allow zombies to enter the safe room!***"
+	{
+		"trans"		"** 別让僵尸进入安全的房间！ **"
+	}
+	"***Enter the safe room!The nuke will launch in 10s!***"
+	{
+		"trans"		"** 进入安全的房间！核武器将于10秒后降临！ **"
+	}
+	"***Level completed!***"
+	{
+		"trans"		"** 本关难度完成！ **"
+	}
+	"***Current Level:[Extra1]***"
+	{
+		"trans"		"** 当前关卡：番外1 **"
+	}
+	"***Winners will have access to get special weapons in next level***"
+	{
+		"trans"		"** 获胜者将会可以在下一局获得特殊神器 **"
+	}
+	"***Great!Hold for 35s!***"
+	{
+		"trans"		"** 干的好！守住35秒！ **"
+	}
+	"***5!***"
+	{
+		"trans"		"** 5 **"
+	}
+	"***4!***"
+	{
+		"trans"		"** 4 **"
+	}
+	"***3!***"
+	{
+		"trans"		"** 3 **"
+	}
+	"***2!***"
+	{
+		"trans"		"** 2 **"
+	}
+	"***1!***"
+	{
+		"trans"		"** 1 **"
+	}
+	"***Current Level:[Normal]***"
+	{
+		"trans"		"** 当前关卡：普通 **"
+	}
+	"***Current Level:[Extra2]***"
+	{
+		"trans"		"** 当前关卡：番外2 **"
+	}
+	"***Laser race will begin later!***"
+	{
+		"trans"		"** 跳刀竞赛即将开始！ **"
+	}
+	"***Some tips!***"
+	{
+		"trans"		"** 部分提示！ **"
+	}
+	"***Tip1:Red laser can add health!***"
+	{
+		"trans"		"** 提示1：红色激光刀是增加血量！ **"
+	}
+	"***Tip2:Blue laser can hurt!***"
+	{
+		"trans"		"** 提示2：蓝色激光刀是损失血量！ **"
+	}
+	"***Tip3:Purple laser can reduce speed infinitely!***"
+	{
+		"trans"		"** 提示3：紫色激光刀是降低速度！ **"
+	}
+	"***Tip4:Green laser can teleport!***"
+	{
+		"trans"		"** 提示4：绿色激光刀是传送回家！ **"
+	}
+	"***Level failed!***"
+	{
+		"trans"		"** 关卡失败！ **"
+	}
+	"***Current Level:[Hard]***"
+	{
+		"trans"		"** 当前关卡：困难 **"
+	}
+	"***Zombies are in win-room,level failed!***"
+	{
+		"trans"		"** 检测到僵尸在终点门内！本关失败！ **"
+	}
+	"***Great!Hold for 25s!***"
+	{
+		"trans"		"** 干的好！守住25秒！ **"
+	}
+	"***The wood door will break in 15s!***"
+	{
+		"trans"		"** 木门将于15秒后破坏！ **"
+	}
+	"***Hold here for 25s!***"
+	{
+		"trans"		"** 守住25秒！ **"
+	}
+	"***Resist for 15s!***"
+	{
+		"trans"		"** 守住15秒！ **"
+	}
+	"***Current Level:[Extra3]***"
+	{
+		"trans"		"** 当前关卡:番外3 **"
+	}
+	"***IF YOU CANT SURF FROM THE 4TH SURF POSITION,YOU CAN CHOOSE JUMP!***"
+	{
+		"trans"		"** 如果你不会滑翔.你可以选择从旁边亮着彩虹光芒的地方进去.那里是KZ跳板！ **"
+	}
+	"***Find a place to hold for 35s! ***"
+	{
+		"trans"		"** 寻找一个地方守住35秒！ **"
+	}
+	"***Teleport all players in 20s! ***"
+	{
+		"trans"		"** 所有人将会在20秒后传送！ **"
+	}
+	"***The first one who can complete the surf will get 100 scores!***"
+	{
+		"trans"		"** 第一个完成滑翔的人可获得100分！ **"
+	}
+	"***The first one who can complete the last surf will get 100 scores!***"
+	{
+		"trans"		"** 第一个完成最后一个滑翔点的人可获得100分！ **"
+	}
+	"***Hold the chicken for last 25s!***"
+	{
+		"trans"		"** 在鸡的上面守住25秒！ **"
+	}
+	"***Current Level:[Extreme]***"
+	{
+		"trans"		"** 当前关卡：极限 **"
+	}
+	"***15s left!***"
+	{
+		"trans"		"** 剩余15秒！ **"
+	}
+	"***Current Level:[Extra4]***"
+	{
+		"trans"		"** 当前关卡：番外4 **"
+	}
+	"***Level completed! You are shining the roof!***"
+	{
+		"trans"		"** 完成关卡！你将照亮屋顶！ **"
+	}
+	"***Zombie infection!Enjoy yourself!***"
+	{
+		"trans"		"** ZM模式!请享受！ **"
+	}
+	"***60s left!***"
+	{
+		"trans"		"** 剩余60秒！ **"
+	}
+	"***A human has picked up unlimited hegrenade!***"
+	{
+		"trans"		"** 一名玩家捡起了手雷盒！ **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"28744"
+	}
+	"***Wood door will break in 10s!***"
+	{
+		"trans"		"** 木门将于10秒后破坏！ **"
+	}
+	"***Shoot rock monster!(use m249 or negev)***"
+	{
+		"trans"		"** 射击岩石怪物！（用M249或negev) **"
+	}
+	"***Rock monster uses water!(go to the end of the platform)***"
+	{
+		"trans"		"** 岩石怪物使用了水！（快跑到平台的最后面躲避！） **"
+	}
+	"***Rock monster uses lightning!(squat)***"
+	{
+		"trans"		"** 岩石怪物使用了电！（按蹲下躲避！） **"
+	}
+	"***Use grenades to prevent zombies walking!***"
+	{
+		"trans"		"** 使用手榴弹阻止僵尸前进！ **"
+	}
+	"***Some barriers disappeared!***"
+	{
+		"trans"		"** 一些障碍消失了！ **"
+	}
+	"***Color lasers are activated!***"
+	{
+		"trans"		"** 彩色激光刀将被激活！ **"
+	}
+	"***Rock monster uses movable fire!(go in the opposite direction)***"
+	{
+		"trans"		"** 岩石怪物使用了会移动火！（快往相反的方向走！） **"
+	}
+	"***Rock monster uses lightning(squat)!***"
+	{
+		"trans"		"** 岩石怪物使用了电！（按蹲下躲避！） **"
+	}
+	"***(Admin)Next Level:[Extra3]***"
+	{
+		"trans"		"** 管理员把下一关调整为番外3 **"
+	}
+	"***(Admin)Next Level:[Extra4]***"
+	{
+		"trans"		"** 管理员把下一关调整为番外4 **"
+	}
+	"***(Admin)Next Level:[Extra2]***"
+	{
+		"trans"		"** 管理员把下一关调整为番外2 **"
+	}
+	"***(Admin)Next level:[Extra1]***"
+	{
+		"trans"		"** 管理员把下一关调整为番外1 **"
+	}
+	"***Map Made By Color[酸奶]!***"
+	{
+		"trans"		"** 地图作者Color[酸奶]！ 翻译Laser **"
+	}
+	"***Stage 1***"
+	{
+		"trans"		"** Stage 1 **"
+	}
+	"***Rock monster will appear in 20s!***"
+	{
+		"trans"		"** 岩石怪物将于20秒后出现！ **"
+	}
+	"***Rock monster uses blast!(move to the edge of the platform)***"
+	{
+		"trans"		"** 岩石怪物使用爆破！（跑到平台的最后面躲避！）**"
+	}
+	"***Rock monster uses left fire(move to right)!***"
+	{
+		"trans"		"** 岩石怪物使用了火！（往平台的右边躲避！）**"
+	}
+	"***Rock monster uses right fire(move to left)!***"
+	{
+		"trans"		"** 岩石怪物使用了火！（往平台的左边躲避！）**"
+	}
+	"***Rock monster uses skyfire!***"
+	{
+		"trans"		"** 岩石怪物使用了天火！（离开攻击范围！）**"
+	}
+	"***Shoot rock monster between two eyes!(use m249 or negev)***"
+	{
+		"trans"		"** 射击岩石怪物的两只眼睛之间！（用m249或negev） **"
+	}
+	"***Stage completed!***"
+	{
+		"trans"		"** 关卡完成！ **"
+	}
+	"***Next Stage:[Stage 2]***"
+	{
+		"trans"		"** 下一关:Stage 2 **"
+	}
+	"***Stage 2***"
+	{
+		"trans"		"** Stage 2 **"
+	}
+	"***Winners will have access to get special items in next stage!***"
+	{
+		"trans"		"** 通关者将有资格在下一关获得特殊物品！ **"
+	}
+	"***Great!Hold for 60s!***"
+	{
+		"trans"		"** 很好！守住60秒！ **"
+	}
+	"***Next Stage:[Stage 3]***"
+	{
+		"trans"		"** 下一关:Stage 3 **"
+	}
+	"***Stage 3***"
+	{
+		"trans"		"** Stage 3 **"
+	}
+	"***Zombies are in win-room,stage failed!***"
+	{
+		"trans"		"** 检测到僵尸在终点门内！本关失败！ **"
+	}
+	"***Next Stage:[Stage 8]***"
+	{
+		"trans"		"** 下一关:Stage 8 **"
+	}
+	"***Stage 8***"
+	{
+		"trans"		"** Stage 8 **"
+	}
+	"***Oh!You are shining the roof!***"
+	{
+		"trans"		"** Oh！你正在照亮屋顶！ **"
+	}
+	"***Only one player can choose a stage!***"
+	{
+		"trans"		"** 只有一名玩家可以选择一个关卡！ **"
+	}
+	"***Choice begins in 15s!***"
+	{
+		"trans"		"** 选择将在15秒后开始！ **"
+	}
+	"***You have 20s to choose a stage!***"
+	{
+		"trans"		"** 你有20秒的时间选择一个关卡！ **"
+	}
+	"***Zombie infection!***"
+	{
+		"trans"		"** ZM模式！ **"
+	}
+	"***Stage failed!***"
+	{
+		"trans"		"** 关卡失败！ **"
+	}
+	"***Stage 7***"
+	{
+		"trans"		"** Stage 7 **"
+	}
+	"***Constant skyfire will appear in some areas!***"
+	{
+		"trans"		"** 天火将会随机出现在一些地方，请随时注意上方！ **"
+	}
+	"***The wood door will break in 25s!***"
+	{
+		"trans"		"** 木门将于25秒后破坏！ **"
+	}
+	"***Next Stage:[Stage 4]***"
+	{
+		"trans"		"** 下一关:Stage 4 **"
+	}
+	"***Stage 4***"
+	{
+		"trans"		"** Stage 4 **"
+	}
+	"***Next Stage:[Stage 5]***"
+	{
+		"trans"		"** 下一关:Stage 5 **"
+	}
+	"***Stage 5***"
+	{
+		"trans"		"** Stage 5 **"
+	}
+	"***The ultimate will start in 14s!***"
+	{
+		"trans"		"** 终极将在14秒后盛放！ **"
+	}
+	"***Next Stage:[Stage 6]***"
+	{
+		"trans"		"** 下一关:Stage 6 **"
+	}
+	"***Stage 6***"
+	{
+		"trans"		"** Stage 6 **"
+	}
+	"***Complete the surf and you will award 100 scores and a molotov!***"
+	{
+		"trans"		"** 当你完成滑翔，你将会获得100分和一个莫洛托夫！ **"
+	}
+	"***Hold the chicken for last 35s!***"
+	{
+		"trans"		"** 用最后的35秒守着这只鸡！ **"
+	}
+	"***Next Stage:[Stage 7]***"
+	{
+		"trans"		"** 下一关:Stage 7 **"
+	}
+	"***25s left!***"
+	{
+		"trans"		"** 剩余25秒！ **"
+	}
+}

@@ -626,7 +626,7 @@
 	}
 	"ze_colors_p3"
 	{
-		"desc"		"乐高逃亡：颜色"
+		"desc"		"乐高逃亡-颜色"
 		"price"		"500"
 		"Size"		"49"
 		"Nice"		"0"
@@ -1046,7 +1046,7 @@
 	}
 	"ze_fapescape_p5"
 	{
-		"desc"		"乐高逃亡：方块剧场　**神图**"
+		"desc"		"乐高逃亡-方块剧场　**神图**"
 		"price"		"1000"
 		"Size"		"96"
 		"Nice"		"1"
@@ -1058,7 +1058,7 @@
 	}
 	"ze_fapescape_rote_v1_3"
 	{
-		"desc"		"乐高逃亡：城堡　**神图**"
+		"desc"		"乐高逃亡-大城堡　**神图**"
 		"price"		"1000"
 		"Size"		"130"
 		"Nice"		"1"
@@ -1104,12 +1104,12 @@
 		"OnlyAdmin"		"0"
 		"OnlyVIP"		"0"
 	}
-	"ze_ffvii_cosmo_canyon_v5_d03n"
+	"ze_ffvii_cosmo_canyon_go_t5"
 	{
-		"desc"		"最终幻想7：大岟谷"
-		"price"		"100"
-		"Size"		"114"
-		"Nice"		"0"
+		"desc"		"最终幻想7：大岟谷　**神图**"
+		"price"		"1000"
+		"Size"		"153"
+		"Nice"		"1"
 		"minplayers"		"0"
 		"maxplayers"		"0"
 		"OnlyNomination"		"0"
@@ -1140,11 +1140,11 @@
 		"OnlyAdmin"		"0"
 		"OnlyVIP"		"0"
 	}
-	"ze_ffxii_feywood_b3_1_t1"
+	"ze_ffxii_feywood_b3_b5k"
 	{
 		"desc"		"最终幻想12：幻妖之森　**神图**"
 		"price"		"1000"
-		"Size"		"152"
+		"Size"		"133"
 		"Nice"		"1"
 		"minplayers"		"0"
 		"maxplayers"		"0"
@@ -1152,11 +1152,11 @@
 		"OnlyAdmin"		"0"
 		"OnlyVIP"		"0"
 	}
-	"ze_ffxii_paramina_rift_v1_4_csgo2"
+	"ze_ffxii_paramina_rift_v1_4_csgo3"
 	{
 		"desc"		"最终幻想12：帕拉米娅　**神图**"
 		"price"		"1000"
-		"Size"		"148"
+		"Size"		"149"
 		"Nice"		"1"
 		"minplayers"		"0"
 		"maxplayers"		"0"
@@ -1192,7 +1192,7 @@
 	{
 		"desc"		"最终幻想12：西沙81　**神图**"
 		"price"		"1000"
-		"Size"		"144"
+		"Size"		"145"
 		"Nice"		"1"
 		"minplayers"		"0"
 		"maxplayers"		"0"
@@ -1202,7 +1202,7 @@
 	}
 	"ze_ffxiv_wanderers_palace_v2_11"
 	{
-		"desc"		"最终幻想14：舊版流浪者宫殿　**神图**"
+		"desc"		"最终幻想14：旧．流浪者宫殿　**神图**"
 		"price"		"1000"
 		"Size"		"153"
 		"Nice"		"1"
@@ -1214,7 +1214,7 @@
 	}
 	"ze_ffxiv_wanderers_palace_v4_10"
 	{
-		"desc"		"最终幻想14：新版流浪者宫殿　**神图**"
+		"desc"		"最终幻想14：新．流浪者宫殿　**神图**"
 		"price"		"1000"
 		"Size"		"148"
 		"Nice"		"1"
@@ -1356,11 +1356,11 @@
 		"OnlyAdmin"		"0"
 		"OnlyVIP"		"0"
 	}
-	"ze_grau_a01_13"
+	"ze_grau_a02_1"
 	{
 		"desc"		"创世记：鸽劳"
 		"price"		"100"
-		"Size"		"79"
+		"Size"		"84"
 		"Nice"		"0"
 		"minplayers"		"0"
 		"maxplayers"		"0"
@@ -1404,9 +1404,9 @@
 		"OnlyAdmin"		"0"
 		"OnlyVIP"		"0"
 	}
-	"ze_gris_v1_11f5"
+	"ze_gris_v1_13"
 	{
-		"desc"		"创世记：格里斯 + rtv2　**神图**"
+		"desc"		"创世记：格里斯　**神图**"
 		"price"		"1000"
 		"Size"		"103"
 		"Nice"		"1"
@@ -1416,12 +1416,12 @@
 		"OnlyAdmin"		"0"
 		"OnlyVIP"		"0"
 	}
-	"ze_gris_v1_11f5_m"
+	"ze_hold2_boring_b5"
 	{
-		"desc"		"创世记：格里斯 + rtv1　**神图**"
-		"price"		"1000"
-		"Size"		"103"
-		"Nice"		"1"
+		"desc"		"保持无聊的刷分"
+		"price"		"100"
+		"Size"		"32"
+		"Nice"		"0"
 		"minplayers"		"0"
 		"maxplayers"		"0"
 		"OnlyNomination"		"0"
@@ -1704,10 +1704,10 @@
 		"OnlyAdmin"		"0"
 		"OnlyVIP"		"0"
 	}
-	"ze_johnny_nukem_b8_1_csgo1"
+	"ze_johnny_nukem_b8_1_csgo2"
 	{
-		"desc"		"约翰尼：毁灭"
-		"price"		"100"
+		"desc"		"约翰尼：毁灭　**神图**"
+		"price"		"1000"
 		"Size"		"153"
 		"Nice"		"0"
 		"minplayers"		"0"
@@ -1752,11 +1752,11 @@
 		"OnlyAdmin"		"0"
 		"OnlyVIP"		"0"
 	}
-	"ze_L_The_Lower_v1_6"
+	"ze_L_The_Lower_v1_8f"
 	{
 		"desc"		"不详"
 		"price"		"100"
-		"Size"		"85"
+		"Size"		"86"
 		"Nice"		"0"
 		"minplayers"		"0"
 		"maxplayers"		"0"
@@ -1793,6 +1793,18 @@
 		"desc"		"实验室大作战"
 		"price"		"100"
 		"Size"		"47"
+		"Nice"		"0"
+		"minplayers"		"0"
+		"maxplayers"		"0"
+		"OnlyNomination"		"0"
+		"OnlyAdmin"		"0"
+		"OnlyVIP"		"0"
+	}
+	"ze_laser_island_b6_8"
+	{
+		"desc"		"跳刀岛"
+		"price"		"100"
+		"Size"		"58"
 		"Nice"		"0"
 		"minplayers"		"0"
 		"maxplayers"		"0"
@@ -2316,11 +2328,11 @@
 		"OnlyAdmin"		"0"
 		"OnlyVIP"		"0"
 	}
-	"ze_pizzatime_v4"
+	"ze_pizzatime_v6"
 	{
 		"desc"		"披萨时间"
 		"price"		"100"
-		"Size"		"80"
+		"Size"		"81"
 		"Nice"		"0"
 		"minplayers"		"0"
 		"maxplayers"		"0"
@@ -2328,11 +2340,11 @@
 		"OnlyAdmin"		"0"
 		"OnlyVIP"		"0"
 	}
-	"ze_pkmn_adventure_v7_6"
+	"ze_pkmn_adventure_v7_9"
 	{
 		"desc"		"口袋妖怪跳刀大冒险　**神图**"
 		"price"		"100"
-		"Size"		"151"
+		"Size"		"128"
 		"Nice"		"1"
 		"minplayers"		"0"
 		"maxplayers"		"0"
@@ -2544,7 +2556,7 @@
 		"OnlyAdmin"		"0"
 		"OnlyVIP"		"0"
 	}
-	"ze_roof_adventure_v6_7"
+	"ze_roof_adventure_v7_1"
 	{
 		"desc"		"屋顶大冒险　**神图**"
 		"price"		"1000"
@@ -2618,7 +2630,7 @@
 	}
 	"ze_sandstorm_go_v1_3"
 	{
-		"desc"		"新版沙尘暴　**神图**"
+		"desc"		"新．沙尘暴　**神图**"
 		"price"		"1000"
 		"Size"		"148"
 		"Nice"		"1"
@@ -2630,7 +2642,7 @@
 	}
 	"ze_sandstorm_v7_1_e4"
 	{
-		"desc"		"旧版沙尘暴　**神图**"
+		"desc"		"旧．沙尘暴　**神图**"
 		"price"		"1000"
 		"Size"		"129"
 		"Nice"		"1"
@@ -2714,7 +2726,7 @@
 	}
 	"ze_shroomforest_p6"
 	{
-		"desc"		"蘑菇世界1　**神图**"
+		"desc"		"蘑菇森林I　**神图**"
 		"price"		"1000"
 		"Size"		"128"
 		"Nice"		"1"
@@ -2726,7 +2738,7 @@
 	}
 	"ze_shroomforest2_p6"
 	{
-		"desc"		"蘑菇世界2　**神图**"
+		"desc"		"蘑菇森林II　**神图**"
 		"price"		"1000"
 		"Size"		"129"
 		"Nice"		"1"
@@ -2738,7 +2750,7 @@
 	}
 	"ze_ShroomForest3_p"
 	{
-		"desc"		"蘑菇世界3　**神图**"
+		"desc"		"蘑菇森林III　**神图**"
 		"price"		"1000"
 		"Size"		"149"
 		"Nice"		"1"
@@ -3168,11 +3180,11 @@
 		"OnlyAdmin"		"0"
 		"OnlyVIP"		"0"
 	}
-	"ze_tyranny_v5beta_csgo4"
+	"ze_tyranny_v5_go3"
 	{
 		"desc"		"暴君　**神图**"
 		"price"		"1000"
-		"Size"		"176"
+		"Size"		"152"
 		"Nice"		"1"
 		"minplayers"		"0"
 		"maxplayers"		"0"
@@ -3206,7 +3218,7 @@
 	}
 	"ze_undertale_g_v1_3"
 	{
-		"desc"		"在故事之下"
+		"desc"		"传说之下"
 		"price"		"100"
 		"Size"		"40"
 		"Nice"		"0"
