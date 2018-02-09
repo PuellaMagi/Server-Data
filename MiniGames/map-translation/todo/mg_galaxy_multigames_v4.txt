@@ -1,7 +1,0 @@
-"Chat"
-{
-	"[MAP]  Map made by Reapr"
-	{
-		"trans"		"[MAP]  Map made by Reapr"
-	}
-}

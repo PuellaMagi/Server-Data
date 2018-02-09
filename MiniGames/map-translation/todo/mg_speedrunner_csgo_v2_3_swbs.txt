@@ -1,7 +1,0 @@
-"Chat"
-{
-	"Original map by: lolobubu, CSGO, MG conversion, and major changes by: disownedpear"
-	{
-		"trans"		"Original map by: lolobubu, CSGO, MG conversion, and major changes by: disownedpear"
-	}
-}

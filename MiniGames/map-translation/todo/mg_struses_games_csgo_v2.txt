@@ -1,7 +1,0 @@
-"Chat"
-{
-	"football"
-	{
-		"trans"		"football"
-	}
-}
